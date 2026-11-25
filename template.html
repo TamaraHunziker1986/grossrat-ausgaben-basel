@@ -78,6 +78,11 @@ h3.unter{font-size:22px;margin-top:12px}
 .detail:empty{display:none}
 .detail .kopfzeile{display:flex;justify-content:space-between;align-items:baseline;gap:16px;margin:0 0 8px}
 .detail h4{font-family:Jost,Arial,sans-serif;font-weight:800;color:var(--titel);font-size:18px;margin:0}
+.zaehler{margin:8px 0 26px}
+.zaehler-zahl{font-family:Jost,Arial,sans-serif;font-weight:800;color:#fff;font-size:clamp(44px,9vw,104px);line-height:1;letter-spacing:-.01em;font-variant-numeric:tabular-nums;white-space:nowrap}
+.zaehler-chf{font-size:.45em;color:var(--hellblau);vertical-align:.45em;margin-right:.1em}
+.zaehler-text{font-family:Jost,Arial,sans-serif;font-weight:700;font-size:clamp(17px,2.2vw,22px);margin-top:10px}
+.zaehler-text span{color:var(--hellblau)}
 .filter{display:flex;flex-wrap:wrap;gap:12px;margin:0 0 16px}
 .filter label{font-size:14px;font-weight:600;display:flex;flex-direction:column;gap:4px}
 .filter select,.filter input{font:inherit;font-size:15px;padding:8px 10px;border:1px solid var(--linie);border-radius:3px;min-width:200px;color:var(--text);background:#fff}
@@ -115,6 +120,10 @@ footer strong{font-family:Jost,Arial,sans-serif;font-size:17px}
 
 <div class="hero"><div class="wrap">
   <h1>Was der Grosse Rat ausgibt</h1>
+  <div class="zaehler" aria-live="polite">
+    <div class="zaehler-zahl"><span class="zaehler-chf">CHF</span> <span id="zaehler">0</span></div>
+    <div class="zaehler-text" id="zaehler-text">bewilligte Ausgaben seit Februar 2021</div>
+  </div>
   <p>Alle Ausgaben, die der Grosse Rat Basel-Stadt seit Beginn der Legislatur im Februar 2021 bewilligt hat, und wie die Parteien dazu abgestimmt haben. Die Übersicht wird nach jeder Sitzung nachgeführt.</p>
   <p class="stand" id="stand"></p>
   <label class="zeitraum">Zeitraum <select id="f-zeitraum"></select></label>
@@ -291,6 +300,22 @@ function detailTabelle(titel, liste, id){
   }), 1);
   document.getElementById("jahre-hinweis").textContent =
     `2021 ab Februar, ${letzte ? letzte.slice(0,4) + " bis " + fmtDatum(letzte) : ""}.`;
+})();
+
+// Grosser Zähler: alle einmaligen und befristeten Ausgaben seit Februar 2021, dazu die wiederkehrenden pro Jahr
+(function(){
+  const ziel = summe(D.ausgaben, a => a.einmalig), jaehrlich = summe(D.ausgaben, a => a.jaehrlich);
+  const el = document.getElementById("zaehler");
+  document.getElementById("zaehler-text").innerHTML =
+    `bewilligte Ausgaben seit Februar 2021, dazu <span>${esc(chfKurz(jaehrlich))}</span> wiederkehrend, jedes Jahr`;
+  const dauer = 2600, start = performance.now();
+  const schritt = jetzt => {
+    const x = Math.min(1, (jetzt - start) / dauer), e = 1 - Math.pow(1 - x, 3);
+    el.textContent = fr(ziel * e);
+    if (x < 1) requestAnimationFrame(schritt);
+  };
+  if (window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches) el.textContent = fr(ziel);
+  else requestAnimationFrame(schritt);
 })();
 
 document.getElementById("fuss-stand").textContent = `Daten abgerufen am ${fmtDatum(D.stand)}`;

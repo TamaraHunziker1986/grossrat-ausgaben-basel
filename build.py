@@ -71,7 +71,9 @@ def http(url, binary=False, tries=6):
 
 
 def export(dataset, where, select=None):
-    q = {"where": where, "lang": "de", "timezone": "Europe/Zurich"}
+    q = {"lang": "de", "timezone": "Europe/Zurich"}
+    if where:
+        q["where"] = where
     if select:
         q["select"] = select
     url = f"{API}/{dataset}/exports/json?" + urllib.parse.urlencode(q)
@@ -494,14 +496,14 @@ def main():
     # Reihenfolge = Verlässlichkeit: zuerst Rückfallquellen, dann überschreiben mit genaueren
     # 1. Grossratswahlen 2020 (Liste GB = Grüne und BastA! gemeinsam: nicht eindeutig, wird ausgelassen)
     try:
-        for m in export("100101", "true", "name,vorname,parteikurzbezeichnung,gewahlt"):
+        for m in export("100101", None, "name,vorname,parteikurzbezeichnung,gewahlt"):
             merke(f"{m.get('name')}, {m.get('vorname')}", partei_norm(m.get("parteikurzbezeichnung")),
                   ueberschreiben=(m.get("gewahlt") == "Gewählt"))
     except Exception as e:  # noqa: BLE001
         print(f"  Wahlen 2020 nicht geladen: {e}", file=sys.stderr)
     # 2. Kandidierende Grossratswahlen 2024
     try:
-        for m in export("100385", "true", "name_vorname,listenkurzbezeichnung"):
+        for m in export("100385", None, "name_vorname,listenkurzbezeichnung"):
             merke(m.get("name_vorname"), partei_norm(m.get("listenkurzbezeichnung")), ueberschreiben=True)
     except Exception as e:  # noqa: BLE001
         print(f"  Kandidierende 2024 nicht geladen: {e}", file=sys.stderr)
@@ -515,7 +517,7 @@ def main():
     except Exception as e:  # noqa: BLE001
         print(f"  Fraktionen nicht geladen: {e}", file=sys.stderr)
     # 4. Ratsmitglieder: Parteiangabe des Grossen Rates
-    for m in export("100307", "true", "name_vorname,partei_kname,partei,uni_nr"):
+    for m in export("100307", None, "name_vorname,partei_kname,partei,uni_nr"):
         p = partei_norm(m.get("partei_kname") or m.get("partei"))
         if p:
             merke(m.get("name_vorname"), p, ueberschreiben=True)
