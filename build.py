@@ -397,8 +397,12 @@ def main():
         nrs = {}
         for r in rows:
             nrs.setdefault(r["abst_nr"], []).append(r)
-        schluss = [n for n, rs in nrs.items() if rs[0].get("typ") == "Schlussabstimmung"]
-        nr = max(schluss or nrs, key=lambda n: int(re.sub(r"\D", "", str(n)) or 0))
+        # Der Beschluss wurde angenommen: nur Abstimmungen mit Ja-Mehrheit kommen in Frage
+        angenommen = [n for n, rs in nrs.items() if (rs[0].get("anz_j") or 0) > (rs[0].get("anz_n") or 0)]
+        if not angenommen:
+            return None
+        schluss = [n for n in angenommen if nrs[n][0].get("typ") == "Schlussabstimmung"]
+        nr = max(schluss or angenommen, key=lambda n: int(re.sub(r"\D", "", str(n)) or 0))
         rs = nrs[nr]
         proPartei = {}
         for r in rs:
@@ -481,16 +485,21 @@ def main():
         if not posten:
             continue
         fingerprint = (datum, tuple(sorted((p["art"], p["betrag"]) for p in posten)))
+        abst = abstimmung(sig, datum)
         if fingerprint in gesehene_beschluesse:
-            pruef.append(f"(gleicher Beschluss wie {gesehene_beschluesse[fingerprint]}, nicht doppelt gezählt)")
+            frueher = gesehene_beschluesse[fingerprint]
+            pruef.append(f"(gleicher Beschluss wie {frueher['signatur']}, nicht doppelt gezählt)")
+            if not frueher["abstimmung"] and abst:
+                frueher["abstimmung"] = abst
             continue
-        gesehene_beschluesse[fingerprint] = sig
-        ausgaben.append({
+        eintrag = {
             "signatur": sig, "datum": datum, "titel": v["titel_ges"], "typ": v.get("ga_rr_gr"),
-            "departement": g.get("departement_ges"), "url": v.get("url_ges") or g.get("url_ges"),
+            "departement": re.sub(r"^\d+\s*", "", g.get("departement_ges") or "") or None, "url": v.get("url_ges") or g.get("url_ges"),
             "beschluss": url, "posten": posten, "einmalig": einm, "jaehrlich": jaehrl, "darlehen": darlehen(posten),
-            "korrigiert": korr, "bemerkung": bem, "abstimmung": abstimmung(sig, datum),
-        })
+            "korrigiert": korr, "bemerkung": bem, "abstimmung": abst,
+        }
+        gesehene_beschluesse[fingerprint] = eintrag
+        ausgaben.append(eintrag)
 
     postulate = []
     for sig, v in sorted(postulat_v.items(), key=lambda x: x[1]["siz_datum"]):
