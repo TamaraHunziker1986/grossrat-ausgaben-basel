@@ -166,6 +166,6 @@ Stand 25.11.2026
 ## Zusätzliche Auswertungen
 
 - Ausgaben: 237 Geschäfte aus docs/data.json, 124 mit Abstimmungsdaten
-- Wahlen: 2020: FDP 7.9 %, LDP 13.82 %, Sitze 7/14; 2024: FDP 7.62 %, LDP 11.85 %, Sitze 7/12
+- Wahlen: 2020: FDP 8.39 %, LDP 14.07 %, Sitze 7/14, total 100; 2024: FDP 7.94 %, LDP 12.36 %, Sitze 7/12, total 100
 - Kommissionen: 2021: 17 Gremien mit FDP/LDP; 2025: 17 Gremien mit FDP/LDP
 - Wortmeldungen: 61 Protokolle gelesen, nicht verfügbar: 2026-09-09, 2026-10-14, 2026-11-11
