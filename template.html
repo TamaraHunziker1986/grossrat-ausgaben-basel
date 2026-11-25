@@ -71,6 +71,12 @@ section h2{font-size:clamp(24px,3vw,32px)}
 .chartbox{position:relative;margin-bottom:28px}
 .chart .s .wert{display:block;text-align:center;font-family:Jost,Arial,sans-serif;font-weight:700;font-size:12.5px;color:var(--titel);margin-bottom:4px;white-space:nowrap}
 h3.unter{font-size:22px;margin-top:12px}
+.chart .s{cursor:pointer}
+.chart .s.aktiv i{background:var(--hellblau)}
+.detail{margin:-12px 0 28px}
+.detail:empty{display:none}
+.detail .kopfzeile{display:flex;justify-content:space-between;align-items:baseline;gap:16px;margin:0 0 8px}
+.detail h4{font-family:Jost,Arial,sans-serif;font-weight:800;color:var(--titel);font-size:18px;margin:0}
 .filter{display:flex;flex-wrap:wrap;gap:12px;margin:0 0 16px}
 .filter label{font-size:14px;font-weight:600;display:flex;flex-direction:column;gap:4px}
 .filter select,.filter input{font:inherit;font-size:15px;padding:8px 10px;border:1px solid var(--linie);border-radius:3px;min-width:200px;color:var(--text);background:#fff}
@@ -118,11 +124,11 @@ footer strong{font-family:Jost,Arial,sans-serif;font-size:17px}
 <main class="wrap">
   <section id="jahre">
     <h2>Ausgaben pro Jahr</h2>
-    <p class="lead">Einmalige und befristete Ausgaben, die der Grosse Rat im jeweiligen Jahr bewilligt hat, in Franken. <span id="jahre-hinweis"></span></p>
-    <div class="chartbox"><div class="chart" id="chart-jahre" role="img" aria-label="Säulendiagramm der bewilligten Ausgaben pro Jahr"></div><div class="chart-x" id="chart-jahre-x" aria-hidden="true"></div></div>
+    <p class="lead">Einmalige und befristete Ausgaben, die der Grosse Rat im jeweiligen Jahr bewilligt hat, in Franken. <span id="jahre-hinweis"></span> Ein Klick auf eine Säule zeigt die Geschäfte.</p>
+    <div class="chartbox"><div class="chart" id="chart-jahre" role="img" aria-label="Säulendiagramm der bewilligten Ausgaben pro Jahr"></div><div class="chart-x" id="chart-jahre-x" aria-hidden="true"></div></div><div class="detail" id="chart-jahre-detail"></div>
     <h3 class="unter">Wiederkehrende Ausgaben, aufsummiert</h3>
-    <p class="lead">Jede neue wiederkehrende Ausgabe belastet auch alle folgenden Budgets. Die Säulen zeigen, wie viel die seit Februar 2021 neu beschlossenen wiederkehrenden Ausgaben Ende des jeweiligen Jahres zusammen pro Jahr kosten.</p>
-    <div class="chartbox"><div class="chart" id="chart-kumuliert" role="img" aria-label="Säulendiagramm der aufsummierten wiederkehrenden Ausgaben"></div><div class="chart-x" id="chart-kumuliert-x" aria-hidden="true"></div></div>
+    <p class="lead">Jede neue wiederkehrende Ausgabe belastet auch alle folgenden Budgets. Die Säulen zeigen, wie viel die seit Februar 2021 neu beschlossenen wiederkehrenden Ausgaben Ende des jeweiligen Jahres zusammen pro Jahr kosten. Ein Klick auf eine Säule zeigt die Geschäfte.</p>
+    <div class="chartbox"><div class="chart" id="chart-kumuliert" role="img" aria-label="Säulendiagramm der aufsummierten wiederkehrenden Ausgaben"></div><div class="chart-x" id="chart-kumuliert-x" aria-hidden="true"></div></div><div class="detail" id="chart-kumuliert-detail"></div>
   </section>
 
   <section id="parteien">
@@ -133,8 +139,8 @@ footer strong{font-family:Jost,Arial,sans-serif;font-size:17px}
 
   <section id="sitzungen">
     <h2>Ausgaben pro Sitzung</h2>
-    <p class="lead">Einmalige und befristete Ausgaben, die an der jeweiligen Sitzung bewilligt wurden, in Franken.</p>
-    <div class="chartbox"><div class="chart" id="chart" role="img" aria-label="Säulendiagramm der bewilligten Ausgaben pro Sitzung"></div><div class="chart-x" id="chartx" aria-hidden="true"></div></div>
+    <p class="lead">Einmalige und befristete Ausgaben, die an der jeweiligen Sitzung bewilligt wurden, in Franken. Ein Klick auf eine Säule zeigt die Geschäfte.</p>
+    <div class="chartbox"><div class="chart" id="chart" role="img" aria-label="Säulendiagramm der bewilligten Ausgaben pro Sitzung"></div><div class="chart-x" id="chartx" aria-hidden="true"></div></div><div class="detail" id="chart-detail"></div>
   </section>
 
   <section id="geschaefte">
@@ -241,7 +247,25 @@ function saeulen(id, items, labelEvery){
     };
     s.addEventListener("mouseenter", show); s.addEventListener("focus", show);
     s.addEventListener("mouseleave", () => tip.style.display = "none"); s.addEventListener("blur", () => tip.style.display = "none");
+    const waehle = () => {
+      const det = document.getElementById(id + "-detail");
+      const war = s.classList.contains("aktiv");
+      el.querySelectorAll(".s").forEach(o => o.classList.remove("aktiv"));
+      if (war || !x.liste) { det.innerHTML = ""; return; }
+      s.classList.add("aktiv");
+      det.innerHTML = detailTabelle(x.detailTitel || x.label, x.liste, id);
+      det.querySelector("button").onclick = () => { s.classList.remove("aktiv"); det.innerHTML = ""; };
+    };
+    s.addEventListener("click", waehle);
+    s.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); waehle(); } });
   });
+}
+function detailTabelle(titel, liste, id){
+  const rows = [...liste].sort((a,b) => (b.einmalig + b.jaehrlich) - (a.einmalig + a.jaehrlich));
+  return `<div class="kopfzeile"><h4>${esc(titel)}: ${rows.length} Geschäfte</h4><button class="link" type="button">Schliessen</button></div>
+  <div class="tabelle"><table><thead><tr><th>Sitzung</th><th>Geschäft</th><th class="num">Einmalig und befristet</th><th class="num">Wiederkehrend pro Jahr</th></tr></thead><tbody>
+  ${rows.map(a => `<tr><td>${kurzDatum(a.datum)}${a.datum.slice(0,4)}</td><td class="g"><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.titel)}</a><br><span class="klein">${esc(a.departement||"")}</span></td><td class="num">${a.einmalig ? `<a href="${esc(a.beschluss)}" target="_blank" rel="noopener">${fr(a.einmalig)}</a>` : ""}</td><td class="num">${a.jaehrlich ? fr(a.jaehrlich) : ""}</td></tr>`).join("")}
+  </tbody></table></div>`;
 }
 
 // Jahresgrafiken (immer alle Jahre)
@@ -251,13 +275,14 @@ function saeulen(id, items, labelEvery){
   saeulen("chart-jahre", js.map(j => {
     const a = D.ausgaben.filter(x => x.datum.startsWith(j));
     const v = summe(a, x => x.einmalig);
-    return {label: j, v, label_oben: chfKurz(v).replace("CHF ",""),
+    return {label: j, v, label_oben: chfKurz(v).replace("CHF ",""), liste: a.filter(x => x.einmalig), detailTitel: `Bewilligte Ausgaben ${j}`,
       tip: `<strong>${j}</strong><br>${chf(v)}<br>${a.length} Geschäfte`};
   }), 1);
   let kum = 0;
   saeulen("chart-kumuliert", js.map(j => {
     kum += summe(D.ausgaben.filter(x => x.datum.startsWith(j)), x => x.jaehrlich);
-    return {label: j, v: kum, label_oben: chfKurz(kum).replace("CHF ",""),
+    const bis = D.ausgaben.filter(x => x.jaehrlich && x.datum.slice(0,4) <= j);
+    return {label: j, v: kum, label_oben: chfKurz(kum).replace("CHF ",""), liste: bis, detailTitel: `Wiederkehrende Ausgaben, beschlossen bis Ende ${j}`,
       tip: `<strong>Ende ${j}</strong><br>${chf(kum)} pro Jahr`};
   }), 1);
   document.getElementById("jahre-hinweis").textContent =
@@ -312,9 +337,10 @@ function zeichne(){
     </div>`).join("");
 
   // Sitzungen
+  document.getElementById("chart-detail").innerHTML = "";
   saeulen("chart", S.map(s => {
     const a = A.filter(x => x.datum === s);
-    return {label: kurzDatum(s) + (S.length > 25 ? s.slice(2,4) : ""), v: summe(a, x => x.einmalig),
+    return {label: kurzDatum(s) + (S.length > 25 ? s.slice(2,4) : ""), v: summe(a, x => x.einmalig), liste: a, detailTitel: `Sitzung vom ${fmtDatum(s)}`,
       tip: `<strong>${fmtDatum(s)}</strong><br>${chf(summe(a, x => x.einmalig))}<br>${a.length} Geschäfte`};
   }));
 
