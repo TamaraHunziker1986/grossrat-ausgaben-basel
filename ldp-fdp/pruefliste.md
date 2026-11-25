@@ -82,9 +82,6 @@ Stand 25.11.2026
 ## Zusätzliche Auswertungen
 
 - Ausgaben: 237 Geschäfte aus docs/data.json, 122 mit Abstimmungsdaten
-- Interessenbindungen: FDP 65, LDP 51 Einträge
-- Interessenbindungen ohne Branche: FDP: CO13, Basel (Mitglied Vorstand); FDP: GI-beider Basel, Basel (Mitglied Vorstand); FDP: DTT Forensic Resources, Zürich (Präsident Vorstand)
-- baselvotes Beispiel Parolen: ja=['SP', 'Grüne', 'BastA!'] nein=['SVP', 'LDP', 'FDP', 'Mitte', 'EVP', 'GLP']
 - Wahlen: 2020: FDP 7.9 %, LDP 13.82 %, Sitze 7/14; 2024: FDP 7.62 %, LDP 11.85 %, Sitze 7/12
 - Kommissionen: 2021: 17 Gremien mit FDP/LDP; 2025: 17 Gremien mit FDP/LDP
 - Wortmeldungen: 64 Protokolle, 3 nicht lesbar. Beispiele: 2021-02-03: François Bocherens (LDP) | 2021-02-03: Lukas Faesch (LDP) | 2021-02-03: Nicole Strahm-Lavanchy (LDP) | 2021-02-03: André Auderset (LDP) | 2021-02-03: Andreas Zappalà (FDP) | 2021-02-03: Catherine Alioth (LDP) | 2021-02-03: Lydia Isler-Christ (LDP) | 2021-02-03: Karin Sartorius (FDP) | 2021-02-03: Raoul I. Furlano (LDP) | 2021-02-03: Thomas Müry (LDP) | 2021-02-03: Luca Urgese (FDP) | 2021-02-03: Luca Urgese (FDP) | 2021-02-03: Luca Urgese (FDP) | 2021-02-03: Lydia Isler-Christ (LDP) | 2021-02-03: Michael Hug (LDP) | 2021-02-03: Luca Urgese (FDP) | 2021-02-03: Olivier Battaglia (LDP) | 2021-02-03: Andreas Zappalà (FDP) | 2021-02-03: Thomas Müry (LDP) | 2021-02-03: Luca Urgese (FDP) | 2021-02-03: Luca Urgese (FDP) | 2021-02-03: Lukas Faesch (LDP) | 2021-02-03: Raoul Furlano (LDP) | 2021-02-03: André Auderset (LDP) | 2021-02-03: Michael Hug (LDP)
