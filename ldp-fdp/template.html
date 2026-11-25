@@ -91,6 +91,9 @@ td.p,th.p{text-align:center;white-space:nowrap}
 .klein{font-size:13.5px;color:#6b7280}
 .mehr{margin-top:12px}
 button.link{font:inherit;color:var(--blau);background:none;border:0;padding:0;cursor:pointer;text-decoration:underline;font-weight:600}
+.stapel{display:flex;height:14px;width:100%;background:var(--grau);border-radius:2px;overflow:hidden;margin-top:4px}
+.stapel i{display:block;height:100%}
+.stapel i.g{background:var(--fdp)} .stapel i.u{background:var(--magenta)}
 .diff-pos{color:var(--fdp);font-weight:700} .diff-neg{color:#6b7280;font-weight:700}
 
 .ideen{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:18px}
@@ -146,6 +149,7 @@ footer strong{font-family:Jost,Arial,sans-serif;font-size:17px}
     <h2>Wo FDP und LDP unterschiedlich gestimmt haben</h2>
     <p class="lead" id="diff-lead"></p>
     <h3 class="unter">Nach Thema</h3>
+    <div class="legende"><span><i style="background:var(--fdp)"></i>gleiche Haltung</span><span><i style="background:var(--magenta)"></i>unterschiedliche Haltung</span></div>
     <div class="tabelle"><table id="t-diff-thema"></table></div>
     <h3 class="unter">Alle Abstimmungen mit unterschiedlicher Haltung</h3>
     <p class="lead klein">«Entscheidend» heisst: Hätte die unterlegene Fraktion geschlossen wie die andere gestimmt, wäre das Resultat anders ausgefallen. Grundlage sind die Stimmen der Ratsmitglieder, nicht die Fraktionsparolen.</p>
@@ -309,11 +313,12 @@ function zeichneDifferenzen(){
   const t = {};
   for (const id of legIds()){ const pt = (D.abstimmungen[id]||{}).pro_thema || {}; for (const [k,v] of Object.entries(pt)){ t[k] = t[k] || {n:0,einig:0}; t[k].n += v.n; t[k].einig += v.einig; } }
   const zeilen = D.themen.filter(k => t[k] && t[k].n).map(k => ({k, n:t[k].n, d:t[k].n - t[k].einig, q:pct(t[k].einig, t[k].n)}))
-    .sort((a,b) => (a.q ?? 101) - (b.q ?? 101));
+    .sort((a,b) => (b.q ?? -1) - (a.q ?? -1));
   document.getElementById("t-diff-thema").innerHTML =
-    '<thead><tr><th>Thema</th><th class="num">Abstimmungen</th><th class="num">unterschiedlich</th><th class="num">gleiche Haltung</th><th style="min-width:180px"></th></tr></thead><tbody>' +
-    zeilen.map(z => `<tr><td>${esc(z.k)}</td><td class="num">${zahl(z.n)}</td><td class="num"><b>${zahl(z.d)}</b></td><td class="num">${fp(z.q)}</td>
-      <td><div class="bar ldp"><i style="width:${(100 - (z.q||0))*1.5}%;background:var(--magenta)"></i></div></td></tr>`).join("") + "</tbody>";
+    '<thead><tr><th>Thema</th><th class="num">Abstimmungen</th><th class="num">gleiche Haltung</th><th class="num">unterschiedlich</th><th style="min-width:240px">Anteil</th></tr></thead><tbody>' +
+    zeilen.map(z => { const g = z.q || 0, u = Math.round((100 - g)*10)/10;
+      return `<tr><td>${esc(z.k)}</td><td class="num">${zahl(z.n)}</td><td class="num"><b>${fp(g)}</b></td><td class="num">${zahl(z.d)} (${fp(u)})</td>
+      <td><div class="stapel" title="gleiche Haltung ${fp(g)}, unterschiedlich ${fp(u)}"><i class="g" style="width:${g}%"></i><i class="u" style="width:${u}%"></i></div></td></tr>`; }).join("") + "</tbody>";
   // Liste
   const th = document.getElementById("f-d-thema").value, gw = document.getElementById("f-d-gewinnt").value;
   const q = document.getElementById("f-d-suche").value.trim().toLowerCase(), kn = document.getElementById("f-d-knapp").checked;
