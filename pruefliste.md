@@ -928,11 +928,6 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100404/000000404497.pdf
 Beschluss: https://grosserrat.bs.ch/dokumente/100404/000000404498.pdf
 - keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
 
-## 2023-04-26 14.0755 Ratschlag betreffend Gewährung einer Kreditsicherungsgarantie an die Universität Basel für die Erstellung des Neubaus Departement Biomedizin auf dem Life-Science-Campus Schällemätteli sowie Ausgabenbewilligung für den Rückbau des alten Biozentrums zugunsten der Errichtung des Neubaus Departement Biomedizin auf dem Life-Science-Campus Schällemätteli und Übertragung einer Staatsliegenschaft vom Verwaltungs- ins Finanzvermögen (Entwidmung)
-Beschluss: https://grosserrat.bs.ch/dokumente/100404/000000404583.pdf
-- einmalig: Fr. 76'500'000  
-  «Der Grosse Rat erhöht die Ausgabenbewilligung für die Kreditsicherungsgarantie an die Universität Basel zur Errichtung des Neubaus für das Departement Biomedizin um Fr. 76'500'000 auf Fr. 182'500'000. Die Kreditsicherungsgarantie endet 40 Jahre nach Inbetriebnahme des Gebäudes. Der Grosse Rat nimmt zur Kenntnis, dass die effektiven Folgekosten des Neubaus für das Departement Biomedizin ab Bezug üb»
-
 ## 2023-05-10 19.1710 Ausgabenbericht für eine Städtepartnerschaft im Sinne "Von Stadt zu Stadt" (Sahab, Jordanien)
 Beschluss: https://grosserrat.bs.ch/dokumente/100404/000000404770.pdf
 - einmalig: Fr. 1'200'000  
@@ -1389,10 +1384,6 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100408/000000408232.pdf
 Beschluss: https://grosserrat.bs.ch/dokumente/100408/000000408233.pdf
 - einmalig: Fr. 3'070'000  
   «Für die Projektierung von Photovoltaik-Anlagen zur Erschliessung des Solarpotenzials im Verwaltungsvermögen bis 2030 wird der Gesamtbetrag von Fr. 3'070'000 zu Lasten der Investitionsrechnung, Investitionsbereich 4 «Hochbauten im Verwaltungsvermögen, Übrige» (Preisbasis: Baupreisindex Nordwestschweiz / Hochbau, Index 117.8, Basis Oktober 2020=100, Stand Oktober 2023) bewilligt. Die Ausgaben setzen»
-
-## 2024-10-16 24.0791 Ermächtigung des Regierungsrates zur Aufnahme von langfristigen Schulden auf dem Kapitalmarkt bis zum Betrag von 4'000'000'000 Franken
-Beschluss: https://grosserrat.bs.ch/dokumente/100408/000000408535.pdf
-- keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
 
 ## 2024-10-16 24.0763 Universität Basel: Leistungsbericht 2023
 Beschluss: https://grosserrat.bs.ch/dokumente/100408/000000408408.pdf
@@ -2146,6 +2137,97 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413799.pdf
 ## 2026-11-11 26.5240 Antrag auf Erhöhung der Anzahl Richterinnen und Richter am Appellationsgericht gemäss § 87 GOG
 Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413770.pdf
 - keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
+
+## 2021-04-21 20.5488 Budgetpostulat für 2021 Christian C. Moesch betreffend Präsidialdepartement, Statistisches Amt, Personal- und Sach- und Betriebsaufwand (Fachstelle OGD) (Budgetpostulat)
+Dokument: https://grosserrat.bs.ch/dokumente/100394/000000394249.pdf
+- kein Betrag erkannt
+
+## 2021-04-21 20.5486 Budgetpostulat für 2021 Franziska Roth Erziehungsdepartement, Mittelschulen und Berufsbildung, Erwachsenenbildung, Deutsch und Integrationskurse (Budgetpostulat)
+Dokument: https://grosserrat.bs.ch/dokumente/100394/000000394242.pdf
+- kein Betrag erkannt
+
+## 2022-04-28 21.5824 Budgetpostulat für 2022 Erich Bucher und Oliver Thommen betreffend Präsidialdepartement, Dienststelle 350, Kantons- und Stadtentwicklung, Transferaufwand (Gundeldinger Koordination) (Budgetpostulat)
+Dokument: https://grosserrat.bs.ch/dokumente/100397/000000397153.pdf
+- kein Betrag erkannt
+
+## 2022-04-28 21.5812 Budgetpostulat für 2022 Michelle Lachenmeier und Konsorten betreffend Erziehungsdepartement, Dienststelle 290, Jugend, Familie und Sport, Transferaufwand (Robi-Spielaktionen, Kindertankstellen) (Budgetpostulat)
+Dokument: https://grosserrat.bs.ch/dokumente/100397/000000397155.pdf
+- kein Betrag erkannt
+
+## 2022-04-28 21.5822 Budgetpostulat für 2022 Raffaela Hanauer betreffend Präsidialdepartement, Dienststelle 320, Generalsekretariat, Sach- und Betriebsaufwand (Sachmittel für die Stellen für das Klimathema) (Budgetpostulat)
+Dokument: https://grosserrat.bs.ch/dokumente/100397/000000397151.pdf
+- kein Betrag erkannt
+
+## 2022-04-28 21.5823 Budgetpostulat für 2022 Pascal Pfister betreffend Präsidialdepartement, Dienststelle 350, Kantons- und Stadtentwicklung, Transferaufwand (Quartiertreffpunkt Iselin) (Budgetpostulat)
+Dokument: https://grosserrat.bs.ch/dokumente/100397/000000397152.pdf
+- kein Betrag erkannt
+
+## 2022-12-14 22.5018 Vorgezogenes Budgetpostulat zum Budget 2023 der Umwelt-, Verkehrs- und Energiekommission betreffend Bau- und Verkehrsdepartement, 661 Globalbudget Öffentlicher Verkehr, Produktegruppe Tram und Bus (Verlängerung Buslinie 64) (Budgetpostulat)
+Dokument: https://grosserrat.bs.ch/dokumente/100403/000000403633.pdf
+- kein Betrag erkannt
+
+## 2022-12-14 21.5838 Vorgezogenes Budgetpostulat für 2023 Michelle Lachenmeier betreffend Erziehungsdepartement, Dienststelle 290, Jugend, Familie und Sport, Transferaufwand (Robi-Spielaktionen, Kindertankstellen) (Budgetpostulat)
+Dokument: https://grosserrat.bs.ch/dokumente/100403/000000403635.pdf
+- kein Betrag erkannt
+
+## 2022-12-14 22.5019 Vorgezogenes Budgetpostulat zum Budget 2023 der Umwelt-, Verkehrs- und Energiekommission betreffend Bau- und Verkehrsdepartement, 661 Globalbudget Öffentlicher Verkehr, Produktegruppe Tram und Bus (Taktverdichtung) (Budgetpostulat)
+Dokument: https://grosserrat.bs.ch/dokumente/100403/000000403634.pdf
+- kein Betrag erkannt
+
+## 2023-12-14 23.5009 Vorgezogenes Budgetpostulat zum Budget 2024 Barbara Heer, Erziehungsdepartement, Dienststelle 290, Jugend, Familie und Sport, Personalaufwand, Öffnungszeiten Gartenbäder (Budgetpostulat)
+Dokument: https://grosserrat.bs.ch/dokumente/100406/000000406420.pdf
+- kein Betrag erkannt
+
+## 2023-12-14 23.5010 Vorgezogenes Budgetpostulat zum Budget 2024 Barbara Heer, Erziehungsdepartement, Dienststelle 290, Jugend, Familie und Sport, Personalaufwand (Frühschwimmen in Gartenbädern), Schreiben des RR (Budgetpostulat)
+Dokument: https://grosserrat.bs.ch/dokumente/100406/000000406419.pdf
+- kein Betrag erkannt
+
+## 2023-12-14 23.5011 Vorgezogenes Budgetpostulat für 2024 Heidi Mück, Erziehungsdepartement, Dienststelle 290, Jugend, Familie und Sport, Transferaufwand (offene Kinder- und Jugendarbeit), Schreiben des RR (Budgetpostulat)
+Dokument: https://grosserrat.bs.ch/dokumente/100406/000000406418.pdf
+- kein Betrag erkannt
+
+## 2024-04-17 23.5647 Budgetpostulat 2024 Oliver Bolliger Präsidialdepartement, 350 Kantons- und Stadtentwicklung, 36 Transferaufwand (QuartierJobs) (Budgetpostulat)
+Dokument: https://grosserrat.bs.ch/dokumente/100407/000000407277.pdf
+- kein Betrag erkannt
+
+## 2024-04-17 23.5648 Budgetpostulat 2024 Pascal Pfister Präsidialdepartement, 350 Kantons- und Stadtentwicklung, 31 Sach- und Betriebsaufwand (Freiwilligenprojekte gegen Einsamkeit) (Budgetpostulat)
+Dokument: https://grosserrat.bs.ch/dokumente/100407/000000407278.pdf
+- kein Betrag erkannt
+
+## 2024-04-17 23.5641 Budgetpostulat 2024 Raphael Fuhrer Bau- und Verkehrsdepartement, 661 Amt für Mobilität, 30 Personalaufwand (Velofachstelle) (Budgetpostulat)
+Dokument: https://grosserrat.bs.ch/dokumente/100407/000000407279.pdf
+- Fr. 90'000  
+  «In Entsprechung des Budgetpostulats 2024 Raphael Fuhrer werden im Budget 2024 des Bauund Verkehrsdepartements zusätzlich Fr. 90'000 eingestellt (Position Bau- und Verkehrsdepartement, 661 Amt für Mobilität, 30 Personalaufwand (Velofachstelle)).»
+
+## 2024-04-17 23.5640 Budgetpostulat 2024 Michael Hug betreffend Präsidialdepartement, 370 Kultur, 36 Transferaufwand (Jüdisches Museum) (Budgetpostulat)
+Dokument: https://grosserrat.bs.ch/dokumente/100407/000000407276.pdf
+- kein Betrag erkannt
+
+## 2024-04-17 23.5638 Budgetpostulat 2024 Christine Keller Bau- und Verkehrsdepartement, 614 Stadtgärtnerei, 31 Sach- und Betriebsaufwand (Hundefreilaufzone "Merkuranlage") (Budgetpostulat)
+Dokument: https://grosserrat.bs.ch/dokumente/100407/000000407280.pdf
+- kein Betrag erkannt
+
+## 2024-12-18 23.5655 Vorgezogenes Budgetpostulat 2025 Oliver Bolliger Präsidialdepartement, 350 Kantons- und Stadtentwicklung, 36 Transferaufwand (QuartierJobs) (Budgetpostulat)
+Dokument: https://grosserrat.bs.ch/dokumente/100408/000000408981.pdf
+- kein Betrag erkannt
+
+## 2025-04-09 24.5537 Budgetpostulat 2025 Niggi Daniel Rechsteiner betreffend Gesundheitsdepartement, 730 Gesundheitsversorgung, 36 Transferaufwand (Mangellage im psychotherapeutischen Angebot wirkt sich negativ aus - notwendige Massnahmen sind rasch umzusetzen) (Budgetpostulat)
+Dokument: https://grosserrat.bs.ch/dokumente/100409/000000409765.pdf
+- Fr. 100'000  
+  «In teilweiser Entsprechung des Budgetpostulats Niggi Daniel Rechsteiner werden im Budget 2025 des Gesundheitsdepartements zusätzlich Fr. 100’000 eingestellt. (Position Gesundheitsdepartement, 730 Gesundheitsversorgung, 36 Transferaufwand)»
+
+## 2025-04-10 24.5540 Budgetpostulat 2025 Sasha Mazzotti betreffend Erziehungsdepartement, 265 Leitung Mittelschulen und Berufsbildung, 30 Personalaufwand (Pilotprojekt Schulsozialarbeit an der Fachmaturitätsschule (FMS) (Budgetpostulat)
+Dokument: https://grosserrat.bs.ch/dokumente/100409/000000409789.pdf
+- Fr. 75'000  
+  «In teilweiser Entsprechung des Budgetpostulats Sasha Mazzotti werden im Budget 2025 des Erziehungsdepartements zusätzlich Fr. 75'000 eingestellt. (Position Erziehungsdepartement, Dienststelle 265, Leitung Mittelschulen und Berufsbildung, 30 Personalaufwand (Pilotprojekt Schulsozialarbeit an der Fachmaturitätsschule FMS).»
+
+## 2025-04-10 24.5539 Budgetpostulat 2025 Tonja Zürcher betreffend Präsidialdepartement, 3500 Kantons- und Stadtentwicklung, 36 Transferaufwand (plankton) (Budgetpostulat)
+Dokument: https://grosserrat.bs.ch/dokumente/100409/000000409804.pdf
+- kein Betrag erkannt
+
+## 2025-12-17 24.5536 Vorgezogenes Budgetpostulat 2026 Tonja Zürcher betreffend Präsidialdepartement, 350 Kantons- und Stadtentwicklung, 36 Transferaufwand (plankton) (Budgetpostulat)
+Dokument: https://grosserrat.bs.ch/dokumente/100411/000000411579.pdf
+- kein Betrag erkannt
 
 ## 2026-04-22 25.5576 Budgetpostulat 2026 Beat K. Schaller betreffend Gesundheitsdepartement, Gesundheitsversorgung, Transferaufwand (Therapiebad in der Universitären Altersmedizin Felix Platter) (Budgetpostulat)
 Dokument: https://grosserrat.bs.ch/dokumente/100412/000000412443.pdf

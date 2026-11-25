@@ -3358,30 +3358,6 @@
    "abstimmung": null
   },
   {
-   "signatur": "14.0755",
-   "datum": "2023-04-26",
-   "titel": "Ratschlag betreffend Gewährung einer Kreditsicherungsgarantie an die Universität Basel für die Erstellung des Neubaus Departement Biomedizin auf dem Life-Science-Campus Schällemätteli sowie Ausgabenbewilligung für den Rückbau des alten Biozentrums zugunsten der Errichtung des Neubaus Departement Biomedizin auf dem Life-Science-Campus Schällemätteli und Übertragung einer Staatsliegenschaft vom Verwaltungs- ins Finanzvermögen (Entwidmung)",
-   "typ": "Ratschlag",
-   "departement": "ED",
-   "url": "https://grosserrat.bs.ch/?gnr=14.0755",
-   "beschluss": "https://grosserrat.bs.ch/dokumente/100404/000000404583.pdf",
-   "posten": [
-    {
-     "quelle": "Der Grosse Rat erhöht die Ausgabenbewilligung für die Kreditsicherungsgarantie an die Universität Basel zur Errichtung des Neubaus für das Departement Biomedizin um Fr. 76'500'000 auf Fr. 182'500'000. Die Kreditsicherungsgarantie endet 40 Jahre nach Inbetriebnahme des Gebäudes. Der Grosse Rat nimmt zur Kenntnis, dass die effektiven Folgekosten des Neubaus für das Departement Biomedizin ab Bezug über die Globalbeiträge der Universität Basel finanziert werden. Der Grosse Rat bewilligt für den Rückbau des alten Biozentrums zugunsten der Errichtung des Neubaus für das Departement Biomedizin eine E",
-     "art": "einmalig",
-     "betrag": 76500000,
-     "jahresbetrag": null,
-     "jahre": null
-    }
-   ],
-   "einmalig": 76500000,
-   "jaehrlich": 0,
-   "darlehen": 0,
-   "korrigiert": false,
-   "bemerkung": null,
-   "abstimmung": null
-  },
-  {
    "signatur": "19.1710",
    "datum": "2023-05-10",
    "titel": "Ausgabenbericht für eine Städtepartnerschaft im Sinne \"Von Stadt zu Stadt\" (Sahab, Jordanien)",
@@ -13820,6 +13796,540 @@
   }
  ],
  "budgetpostulate": [
+  {
+   "signatur": "20.5488",
+   "datum": "2021-04-21",
+   "titel": "Budgetpostulat für 2021 Christian C. Moesch betreffend Präsidialdepartement, Statistisches Amt, Personal- und Sach- und Betriebsaufwand (Fachstelle OGD)",
+   "url": "https://grosserrat.bs.ch/?gnr=20.5488",
+   "urheber": "Moesch, Christian C.",
+   "partei": "FDP",
+   "miturheber": [],
+   "betrag": null,
+   "korrigiert": false,
+   "abstimmung": null
+  },
+  {
+   "signatur": "20.5486",
+   "datum": "2021-04-21",
+   "titel": "Budgetpostulat für 2021 Franziska Roth Erziehungsdepartement, Mittelschulen und Berufsbildung, Erwachsenenbildung, Deutsch und Integrationskurse",
+   "url": "https://grosserrat.bs.ch/?gnr=20.5486",
+   "urheber": "Roth, Franziska",
+   "partei": null,
+   "miturheber": [],
+   "betrag": null,
+   "korrigiert": false,
+   "abstimmung": null
+  },
+  {
+   "signatur": "21.5824",
+   "datum": "2022-04-28",
+   "titel": "Budgetpostulat für 2022 Erich Bucher und Oliver Thommen betreffend Präsidialdepartement, Dienststelle 350, Kantons- und Stadtentwicklung, Transferaufwand (Gundeldinger Koordination)",
+   "url": "https://grosserrat.bs.ch/?gnr=21.5824",
+   "urheber": "Bucher, Erich",
+   "partei": null,
+   "miturheber": [
+    {
+     "name": "Thommen, Oliver",
+     "partei": "Grüne"
+    }
+   ],
+   "betrag": null,
+   "korrigiert": false,
+   "abstimmung": null
+  },
+  {
+   "signatur": "21.5812",
+   "datum": "2022-04-28",
+   "titel": "Budgetpostulat für 2022 Michelle Lachenmeier und Konsorten betreffend Erziehungsdepartement, Dienststelle 290, Jugend, Familie und Sport, Transferaufwand (Robi-Spielaktionen, Kindertankstellen)",
+   "url": "https://grosserrat.bs.ch/?gnr=21.5812",
+   "urheber": "Lachenmeier, Michelle",
+   "partei": null,
+   "miturheber": [],
+   "betrag": null,
+   "korrigiert": false,
+   "abstimmung": null
+  },
+  {
+   "signatur": "21.5822",
+   "datum": "2022-04-28",
+   "titel": "Budgetpostulat für 2022 Raffaela Hanauer betreffend Präsidialdepartement, Dienststelle 320, Generalsekretariat, Sach- und Betriebsaufwand (Sachmittel für die Stellen für das Klimathema)",
+   "url": "https://grosserrat.bs.ch/?gnr=21.5822",
+   "urheber": "Hanauer, Raffaela",
+   "partei": "Grüne",
+   "miturheber": [],
+   "betrag": null,
+   "korrigiert": false,
+   "abstimmung": null
+  },
+  {
+   "signatur": "21.5823",
+   "datum": "2022-04-28",
+   "titel": "Budgetpostulat für 2022 Pascal Pfister betreffend Präsidialdepartement, Dienststelle 350, Kantons- und Stadtentwicklung, Transferaufwand (Quartiertreffpunkt Iselin)",
+   "url": "https://grosserrat.bs.ch/?gnr=21.5823",
+   "urheber": "Pfister, Pascal",
+   "partei": null,
+   "miturheber": [],
+   "betrag": null,
+   "korrigiert": false,
+   "abstimmung": null
+  },
+  {
+   "signatur": "22.5018",
+   "datum": "2022-12-14",
+   "titel": "Vorgezogenes Budgetpostulat zum Budget 2023 der Umwelt-, Verkehrs- und Energiekommission betreffend Bau- und Verkehrsdepartement, 661 Globalbudget Öffentlicher Verkehr, Produktegruppe Tram und Bus (Verlängerung Buslinie 64)",
+   "url": "https://grosserrat.bs.ch/?gnr=22.5018",
+   "urheber": "UVEK",
+   "partei": null,
+   "miturheber": [],
+   "betrag": null,
+   "korrigiert": false,
+   "abstimmung": null
+  },
+  {
+   "signatur": "21.5838",
+   "datum": "2022-12-14",
+   "titel": "Vorgezogenes Budgetpostulat für 2023 Michelle Lachenmeier betreffend Erziehungsdepartement, Dienststelle 290, Jugend, Familie und Sport, Transferaufwand (Robi-Spielaktionen, Kindertankstellen)",
+   "url": "https://grosserrat.bs.ch/?gnr=21.5838",
+   "urheber": "Lachenmeier, Michelle",
+   "partei": null,
+   "miturheber": [],
+   "betrag": null,
+   "korrigiert": false,
+   "abstimmung": null
+  },
+  {
+   "signatur": "22.5019",
+   "datum": "2022-12-14",
+   "titel": "Vorgezogenes Budgetpostulat zum Budget 2023 der Umwelt-, Verkehrs- und Energiekommission betreffend Bau- und Verkehrsdepartement, 661 Globalbudget Öffentlicher Verkehr, Produktegruppe Tram und Bus (Taktverdichtung)",
+   "url": "https://grosserrat.bs.ch/?gnr=22.5019",
+   "urheber": "UVEK",
+   "partei": null,
+   "miturheber": [],
+   "betrag": null,
+   "korrigiert": false,
+   "abstimmung": null
+  },
+  {
+   "signatur": "23.5009",
+   "datum": "2023-12-14",
+   "titel": "Vorgezogenes Budgetpostulat zum Budget 2024 Barbara Heer, Erziehungsdepartement, Dienststelle 290, Jugend, Familie und Sport, Personalaufwand, Öffnungszeiten Gartenbäder",
+   "url": "https://grosserrat.bs.ch/?gnr=23.5009",
+   "urheber": "Heer, Barbara",
+   "partei": "SP",
+   "miturheber": [],
+   "betrag": null,
+   "korrigiert": false,
+   "abstimmung": null
+  },
+  {
+   "signatur": "23.5010",
+   "datum": "2023-12-14",
+   "titel": "Vorgezogenes Budgetpostulat zum Budget 2024 Barbara Heer, Erziehungsdepartement, Dienststelle 290, Jugend, Familie und Sport, Personalaufwand (Frühschwimmen in Gartenbädern), Schreiben des RR",
+   "url": "https://grosserrat.bs.ch/?gnr=23.5010",
+   "urheber": "Heer, Barbara",
+   "partei": "SP",
+   "miturheber": [],
+   "betrag": null,
+   "korrigiert": false,
+   "abstimmung": null
+  },
+  {
+   "signatur": "23.5011",
+   "datum": "2023-12-14",
+   "titel": "Vorgezogenes Budgetpostulat für 2024 Heidi Mück, Erziehungsdepartement, Dienststelle 290, Jugend, Familie und Sport, Transferaufwand (offene Kinder- und Jugendarbeit), Schreiben des RR",
+   "url": "https://grosserrat.bs.ch/?gnr=23.5011",
+   "urheber": "Mück, Heidi",
+   "partei": "BastA!",
+   "miturheber": [],
+   "betrag": null,
+   "korrigiert": false,
+   "abstimmung": null
+  },
+  {
+   "signatur": "23.5647",
+   "datum": "2024-04-17",
+   "titel": "Budgetpostulat 2024 Oliver Bolliger Präsidialdepartement, 350 Kantons- und Stadtentwicklung, 36 Transferaufwand (QuartierJobs)",
+   "url": "https://grosserrat.bs.ch/?gnr=23.5647",
+   "urheber": "Bolliger, Oliver",
+   "partei": "BastA!",
+   "miturheber": [],
+   "betrag": null,
+   "korrigiert": false,
+   "abstimmung": null
+  },
+  {
+   "signatur": "23.5648",
+   "datum": "2024-04-17",
+   "titel": "Budgetpostulat 2024 Pascal Pfister Präsidialdepartement, 350 Kantons- und Stadtentwicklung, 31 Sach- und Betriebsaufwand (Freiwilligenprojekte gegen Einsamkeit)",
+   "url": "https://grosserrat.bs.ch/?gnr=23.5648",
+   "urheber": "Pfister, Pascal",
+   "partei": null,
+   "miturheber": [],
+   "betrag": null,
+   "korrigiert": false,
+   "abstimmung": null
+  },
+  {
+   "signatur": "23.5641",
+   "datum": "2024-04-17",
+   "titel": "Budgetpostulat 2024 Raphael Fuhrer Bau- und Verkehrsdepartement, 661 Amt für Mobilität, 30 Personalaufwand (Velofachstelle)",
+   "url": "https://grosserrat.bs.ch/?gnr=23.5641",
+   "urheber": "Fuhrer, Raphael",
+   "partei": null,
+   "miturheber": [],
+   "betrag": 90000,
+   "korrigiert": false,
+   "abstimmung": {
+    "nr": "3306",
+    "typ": "Ad Hoc einfaches Mehr",
+    "ja": 56,
+    "nein": 33,
+    "enthaltung": 1,
+    "parteien": {
+     "SVP": {
+      "J": 0,
+      "N": 9,
+      "E": 0
+     },
+     "SP": {
+      "J": 27,
+      "N": 0,
+      "E": 0
+     },
+     "Grüne": {
+      "J": 10,
+      "N": 0,
+      "E": 0
+     },
+     "GLP": {
+      "J": 7,
+      "N": 0,
+      "E": 1
+     },
+     "LDP": {
+      "J": 0,
+      "N": 14,
+      "E": 0
+     },
+     "BastA!": {
+      "J": 4,
+      "N": 0,
+      "E": 0
+     },
+     "FDP": {
+      "J": 0,
+      "N": 7,
+      "E": 0
+     },
+     "Mitte": {
+      "J": 2,
+      "N": 2,
+      "E": 0
+     },
+     "EVP": {
+      "J": 3,
+      "N": 1,
+      "E": 0
+     }
+    }
+   }
+  },
+  {
+   "signatur": "23.5640",
+   "datum": "2024-04-17",
+   "titel": "Budgetpostulat 2024 Michael Hug betreffend Präsidialdepartement, 370 Kultur, 36 Transferaufwand (Jüdisches Museum)",
+   "url": "https://grosserrat.bs.ch/?gnr=23.5640",
+   "urheber": "Hug, Michael",
+   "partei": "LDP",
+   "miturheber": [],
+   "betrag": null,
+   "korrigiert": false,
+   "abstimmung": {
+    "nr": "3294",
+    "typ": "Ad Hoc einfaches Mehr",
+    "ja": 89,
+    "nein": 0,
+    "enthaltung": 0,
+    "parteien": {
+     "Grüne": {
+      "J": 9,
+      "N": 0,
+      "E": 0
+     },
+     "EVP": {
+      "J": 6,
+      "N": 0,
+      "E": 0
+     },
+     "SP": {
+      "J": 27,
+      "N": 0,
+      "E": 0
+     },
+     "BastA!": {
+      "J": 3,
+      "N": 0,
+      "E": 0
+     },
+     "FDP": {
+      "J": 7,
+      "N": 0,
+      "E": 0
+     },
+     "Mitte": {
+      "J": 4,
+      "N": 0,
+      "E": 0
+     },
+     "SVP": {
+      "J": 9,
+      "N": 0,
+      "E": 0
+     },
+     "LDP": {
+      "J": 13,
+      "N": 0,
+      "E": 0
+     },
+     "GLP": {
+      "J": 8,
+      "N": 0,
+      "E": 0
+     }
+    }
+   }
+  },
+  {
+   "signatur": "23.5638",
+   "datum": "2024-04-17",
+   "titel": "Budgetpostulat 2024 Christine Keller Bau- und Verkehrsdepartement, 614 Stadtgärtnerei, 31 Sach- und Betriebsaufwand (Hundefreilaufzone \"Merkuranlage\")",
+   "url": "https://grosserrat.bs.ch/?gnr=23.5638",
+   "urheber": "Keller, Christine",
+   "partei": "SP",
+   "miturheber": [],
+   "betrag": null,
+   "korrigiert": false,
+   "abstimmung": null
+  },
+  {
+   "signatur": "23.5655",
+   "datum": "2024-12-18",
+   "titel": "Vorgezogenes Budgetpostulat 2025 Oliver Bolliger Präsidialdepartement, 350 Kantons- und Stadtentwicklung, 36 Transferaufwand (QuartierJobs)",
+   "url": "https://grosserrat.bs.ch/?gnr=23.5655",
+   "urheber": "Bolliger, Oliver",
+   "partei": "BastA!",
+   "miturheber": [],
+   "betrag": null,
+   "korrigiert": false,
+   "abstimmung": null
+  },
+  {
+   "signatur": "24.5537",
+   "datum": "2025-04-09",
+   "titel": "Budgetpostulat 2025 Niggi Daniel Rechsteiner betreffend Gesundheitsdepartement, 730 Gesundheitsversorgung, 36 Transferaufwand (Mangellage im psychotherapeutischen Angebot wirkt sich negativ aus - notwendige Massnahmen sind rasch umzusetzen)",
+   "url": "https://grosserrat.bs.ch/?gnr=24.5537",
+   "urheber": "Rechsteiner, Niggi Daniel",
+   "partei": "GLP",
+   "miturheber": [],
+   "betrag": 100000,
+   "korrigiert": false,
+   "abstimmung": {
+    "nr": "6367",
+    "typ": "Ad Hoc einfaches Mehr",
+    "ja": 71,
+    "nein": 18,
+    "enthaltung": 2,
+    "parteien": {
+     "LDP": {
+      "J": 0,
+      "N": 11,
+      "E": 0
+     },
+     "SP": {
+      "J": 29,
+      "N": 0,
+      "E": 0
+     },
+     "GLP": {
+      "J": 6,
+      "N": 0,
+      "E": 0
+     },
+     "SVP": {
+      "J": 11,
+      "N": 1,
+      "E": 0
+     },
+     "Grüne": {
+      "J": 12,
+      "N": 0,
+      "E": 0
+     },
+     "Mitte": {
+      "J": 2,
+      "N": 1,
+      "E": 0
+     },
+     "BastA!": {
+      "J": 5,
+      "N": 0,
+      "E": 0
+     },
+     "EVP": {
+      "J": 6,
+      "N": 0,
+      "E": 0
+     },
+     "FDP": {
+      "J": 0,
+      "N": 5,
+      "E": 2
+     }
+    }
+   }
+  },
+  {
+   "signatur": "24.5540",
+   "datum": "2025-04-10",
+   "titel": "Budgetpostulat 2025 Sasha Mazzotti betreffend Erziehungsdepartement, 265 Leitung Mittelschulen und Berufsbildung, 30 Personalaufwand (Pilotprojekt Schulsozialarbeit an der Fachmaturitätsschule (FMS)",
+   "url": "https://grosserrat.bs.ch/?gnr=24.5540",
+   "urheber": "Mazzotti, Sasha",
+   "partei": "SP",
+   "miturheber": [],
+   "betrag": 75000,
+   "korrigiert": false,
+   "abstimmung": {
+    "nr": "6435",
+    "typ": "Ad Hoc einfaches Mehr",
+    "ja": 72,
+    "nein": 19,
+    "enthaltung": 0,
+    "parteien": {
+     "SP": {
+      "J": 29,
+      "N": 0,
+      "E": 0
+     },
+     "LDP": {
+      "J": 0,
+      "N": 12,
+      "E": 0
+     },
+     "BastA!": {
+      "J": 4,
+      "N": 0,
+      "E": 0
+     },
+     "SVP": {
+      "J": 11,
+      "N": 1,
+      "E": 0
+     },
+     "GLP": {
+      "J": 6,
+      "N": 0,
+      "E": 0
+     },
+     "EVP": {
+      "J": 6,
+      "N": 0,
+      "E": 0
+     },
+     "Grüne": {
+      "J": 12,
+      "N": 0,
+      "E": 0
+     },
+     "FDP": {
+      "J": 2,
+      "N": 5,
+      "E": 0
+     },
+     "Mitte": {
+      "J": 2,
+      "N": 1,
+      "E": 0
+     }
+    }
+   }
+  },
+  {
+   "signatur": "24.5539",
+   "datum": "2025-04-10",
+   "titel": "Budgetpostulat 2025 Tonja Zürcher betreffend Präsidialdepartement, 3500 Kantons- und Stadtentwicklung, 36 Transferaufwand (plankton)",
+   "url": "https://grosserrat.bs.ch/?gnr=24.5539",
+   "urheber": "Zürcher, Tonja",
+   "partei": null,
+   "miturheber": [],
+   "betrag": null,
+   "korrigiert": false,
+   "abstimmung": {
+    "nr": "6457",
+    "typ": "Ad Hoc einfaches Mehr",
+    "ja": 51,
+    "nein": 36,
+    "enthaltung": 1,
+    "parteien": {
+     "SP": {
+      "J": 28,
+      "N": 0,
+      "E": 0
+     },
+     "SVP": {
+      "J": 0,
+      "N": 12,
+      "E": 0
+     },
+     "Grüne": {
+      "J": 11,
+      "N": 0,
+      "E": 0
+     },
+     "LDP": {
+      "J": 0,
+      "N": 12,
+      "E": 0
+     },
+     "Mitte": {
+      "J": 0,
+      "N": 3,
+      "E": 0
+     },
+     "GLP": {
+      "J": 6,
+      "N": 0,
+      "E": 0
+     },
+     "EVP": {
+      "J": 2,
+      "N": 4,
+      "E": 0
+     },
+     "BastA!": {
+      "J": 4,
+      "N": 0,
+      "E": 0
+     },
+     "FDP": {
+      "J": 0,
+      "N": 5,
+      "E": 0
+     }
+    }
+   }
+  },
+  {
+   "signatur": "24.5536",
+   "datum": "2025-12-17",
+   "titel": "Vorgezogenes Budgetpostulat 2026 Tonja Zürcher betreffend Präsidialdepartement, 350 Kantons- und Stadtentwicklung, 36 Transferaufwand (plankton)",
+   "url": "https://grosserrat.bs.ch/?gnr=24.5536",
+   "urheber": "Zürcher, Tonja",
+   "partei": null,
+   "miturheber": [],
+   "betrag": null,
+   "korrigiert": false,
+   "abstimmung": null
+  },
   {
    "signatur": "25.5576",
    "datum": "2026-04-22",
