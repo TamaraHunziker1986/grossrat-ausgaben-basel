@@ -47,7 +47,7 @@ ALLE_PARTEIEN = ["SP", "Grüne", "BastA!", "GLP", "Mitte", "EVP", "FDP", "LDP", 
 NICHT_AUSGABEN = re.compile(
     r"\bBudget 20\d\d\b|Budgetbericht|Jahresbericht|Jahresrechnung|Rechnung 20\d\d|Geschäftsbericht|"
     r"Finanzplan|Investitionsübersicht|Nachtragskredit|Kreditübertragung|Wahl\b|Rücktritt|Petition|"
-    r"Initiative|Gegenvorschlag|Begnadigung|Einbürgerung",
+    r"Initiative|Gegenvorschlag|Begnadigung|Einbürgerung|Aufnahme von .*Schulden|Anleihe|Garantie|Bürgschaft",
     re.I,
 )
 
@@ -361,7 +361,9 @@ def main():
         if typ in ("Ratschlag", "Ausgabenbericht", "Bericht") and re.match(r"Zus?t?immung", verm, re.I):
             if not NICHT_AUSGABEN.search(titel):
                 ausgaben_v[sig] = v
-        elif "Budgetpostulat" in typ and re.search(r"Zustimmung zur Budgeterhöhung", verm, re.I):
+        elif "Budgetpostulat" in typ and re.match(
+                r"(Zustimmung|(Vollständig |teilweise )?erfüllt|Vorgezogenes Budgetpostulat (teilweise )?erfüllt)", verm, re.I) \
+                and not re.search(r"nicht erfüllt|abgelehnt|zurückgezogen", verm, re.I):
             postulat_v[sig] = v
         elif typ in ("Motion", "Anzug") and re.match(
                 r"(Teilweise )?Überweisung (als (Motion|Anzug)|an (den )?RR(?! zur Stellungnahme))", verm, re.I):
