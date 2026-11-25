@@ -249,10 +249,51 @@ def lade_vorstoesse(partei_von, themen_pd, korrekturen):
     return ges
 
 
-UEBERWIESEN = re.compile(r"^(Teilweise )?Überweisung (als|an)(?! (den )?RR zur Stellungnahme)(?! zur Stellungnahme)"
-                         r"|^Umwandlung|^Stehenlassen|^Stehen lassen|^Zustimmung|^Erfüllt", re.I)
+UEBERWIESEN = re.compile(r"^(Teilweise )?Überweisung|^Umwandlung|^Stehenlassen|^Stehen lassen|^Zustimmung|^Erfüllt", re.I)
+STELLUNGNAHME = re.compile(r"zur Stellungnahme", re.I)
+ALS_ANZUG = re.compile(r"Umwandlung|als Anzug|in ANZ", re.I)
 ABGELEHNT = re.compile(r"Nichtüberweisung|nicht überwiesen|^Ablehnung|nicht zugestimmt|abgelehnt", re.I)
 ZURUECK = re.compile(r"zurückgezogen|Rückzug", re.I)
+
+
+def ergebnis_motion(vs):
+    """Motionen werden zweimal überwiesen: zuerst zur Stellungnahme an den Regierungsrat,
+    danach definitiv (als Motion), umgewandelt in einen Anzug oder gar nicht."""
+    schritt1 = None
+    for _, txt in vs:
+        if ZURUECK.search(txt):
+            return "zurückgezogen", schritt1, None
+        if schritt1 is None:
+            if STELLUNGNAHME.search(txt):
+                schritt1 = "überwiesen"
+                continue
+            if ABGELEHNT.search(txt):
+                return "1. Überweisung abgelehnt", "abgelehnt", None
+            if UEBERWIESEN.search(txt):
+                schritt1 = "überwiesen"  # erster Schritt fehlt im Datensatz, zweiter folgt direkt
+        if schritt1 == "überwiesen":
+            if STELLUNGNAHME.search(txt):
+                continue
+            if ABGELEHNT.search(txt):
+                return "2. Überweisung abgelehnt", schritt1, "abgelehnt"
+            if ALS_ANZUG.search(txt):
+                return "als Anzug überwiesen", schritt1, "als Anzug"
+            if UEBERWIESEN.search(txt):
+                return "definitiv überwiesen", schritt1, "als Motion"
+    if schritt1 == "überwiesen":
+        return "1. Überweisung, 2. Entscheid offen", schritt1, "offen"
+    return "offen", None, None
+
+
+def ergebnis_einfach(vs):
+    for _, txt in vs:
+        if ZURUECK.search(txt):
+            return "zurückgezogen"
+        if ABGELEHNT.search(txt):
+            return "abgelehnt"
+        if UEBERWIESEN.search(txt):
+            return "überwiesen"
+    return "offen"
 
 
 def lade_ergebnisse(ges):
@@ -267,18 +308,10 @@ def lade_ergebnisse(ges):
         vs = sorted(vermerke.get(s, []))
         for _, txt in vs:
             alle_vermerke[re.sub(r"\d{1,2}\.\d{1,2}\.\d{4}", "DATUM", txt)] += 1
-        erg = "offen"
-        # Massgebend ist der erste Entscheid über die Überweisung
-        for _, txt in vs:
-            if ZURUECK.search(txt):
-                erg = "zurückgezogen"
-                break
-            if ABGELEHNT.search(txt):
-                erg = "abgelehnt"
-                break
-            if UEBERWIESEN.search(txt):
-                erg = "überwiesen"
-                break
+        if ges[s]["typ"] == "Motion":
+            erg, ges[s]["schritt1"], ges[s]["schritt2"] = ergebnis_motion(vs)
+        else:
+            erg = ergebnis_einfach(vs)
         ges[s]["ergebnis"] = erg
     return alle_vermerke
 
@@ -527,7 +560,7 @@ def main():
         "themen_alle": themen_alle,
         "zusatz": zusatz,
         "vorstoesse": [{k: e.get(k) for k in ("sig", "titel", "typ", "datum", "leg", "urheber", "partei", "thema",
-                                               "ergebnis", "mit_parteien", "mit", "pdf", "status", "dep")} for e in vorstoesse],
+                                               "ergebnis", "schritt1", "schritt2", "mit_parteien", "mit", "pdf", "status", "dep")} for e in vorstoesse],
     }
     html = (HIER / "template.html").read_text(encoding="utf-8")
     html = html.replace("/*DATA*/null", json.dumps(data, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/"))

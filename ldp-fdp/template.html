@@ -176,7 +176,7 @@ footer strong{font-family:Jost,Arial,sans-serif;font-size:17px}
     <p class="lead" id="arten-lead"></p>
     <div class="zwei">
       <div class="box"><h3>Eingereichte Vorstösse</h3><dl id="dl-arten"></dl></div>
-      <div class="box"><h3>Motionen und Anzüge: Was daraus wurde</h3><dl id="dl-erfolg"></dl><p class="klein" style="margin-top:10px">Massgebend ist der erste Entscheid über die Überweisung. «Offen» heisst: noch nicht traktandiert oder Vermerk nicht eindeutig.</p></div>
+      <div class="box"><h3>Motionen und Anzüge: Was daraus wurde</h3><dl id="dl-erfolg"></dl><p class="klein" style="margin-top:10px">Eine Motion wird zweimal überwiesen: zuerst zur Stellungnahme an den Regierungsrat, danach definitiv als Motion. Der Rat kann sie beim zweiten Mal auch als Anzug überweisen oder ablehnen. Die Quoten zählen nur Vorstösse, über die bereits entschieden ist.</p></div>
     </div>
     <h3 class="unter">Alle Fraktionen im Vergleich</h3>
     <div class="tabelle"><table id="t-alle"></table></div>
@@ -392,13 +392,30 @@ function zeichneArten(){
   const ts = [...new Set(V.map(v => v.typ))].sort((a,b) => V.filter(v=>v.typ===b).length - V.filter(v=>v.typ===a).length);
   document.getElementById("dl-arten").innerHTML = '<dt class="kopfzeile">Art</dt><dd class="kopfzeile">FDP</dd><dd class="kopfzeile">LDP</dd>' +
     ts.map(t => `<dt>${esc(t)}</dt><dd>${V.filter(v => v.typ===t && v.partei==="FDP").length}</dd><dd>${V.filter(v => v.typ===t && v.partei==="LDP").length}</dd>`).join("");
-  const erg = ["überwiesen","abgelehnt","zurückgezogen","offen"];
-  const MA = V.filter(v => ["Motion","Anzug","Planungsanzug"].includes(v.typ));
-  const n = (p,e) => MA.filter(v => v.partei === p && v.ergebnis === e).length;
-  const tot = p => MA.filter(v => v.partei === p).length;
-  document.getElementById("dl-erfolg").innerHTML = '<dt class="kopfzeile"></dt><dd class="kopfzeile">FDP</dd><dd class="kopfzeile">LDP</dd>' +
-    erg.map(e => `<dt>${e}</dt><dd>${n("FDP",e)}</dd><dd>${n("LDP",e)}</dd>`).join("") +
-    `<dt><b>Überweisungsquote</b> <span class="klein">(ohne offene)</span></dt><dd>${fp(pct(n("FDP","überwiesen"), tot("FDP") - n("FDP","offen")))}</dd><dd>${fp(pct(n("LDP","überwiesen"), tot("LDP") - n("LDP","offen")))}</dd>`;
+  const zl = (p, f) => V.filter(v => v.partei === p && f(v)).length;
+  const zeile = (lab, f, fett) => `<dt>${fett ? "<b>"+lab+"</b>" : lab}</dt><dd>${zl("FDP", f)}</dd><dd>${zl("LDP", f)}</dd>`;
+  const q = (p, a, b) => fp(pct(zl(p, a), zl(p, b)));
+  const isM = v => v.typ === "Motion", isA = v => v.typ === "Anzug" || v.typ === "Planungsanzug";
+  const s1ent = v => isM(v) && (v.schritt1 === "überwiesen" || v.schritt1 === "abgelehnt");
+  const s2ent = v => isM(v) && ["als Motion","als Anzug","abgelehnt"].includes(v.schritt2);
+  const aent = v => isA(v) && (v.ergebnis === "überwiesen" || v.ergebnis === "abgelehnt");
+  document.getElementById("dl-erfolg").innerHTML = '<dt class="kopfzeile">Motionen</dt><dd class="kopfzeile">FDP</dd><dd class="kopfzeile">LDP</dd>' +
+    zeile("eingereicht", isM) +
+    zeile("1. Überweisung (zur Stellungnahme)", v => isM(v) && v.schritt1 === "überwiesen") +
+    zeile("1. Überweisung abgelehnt", v => isM(v) && v.schritt1 === "abgelehnt") +
+    zeile("2. Überweisung als Motion", v => isM(v) && v.schritt2 === "als Motion") +
+    zeile("2. Entscheid: als Anzug überwiesen", v => isM(v) && v.schritt2 === "als Anzug") +
+    zeile("2. Überweisung abgelehnt", v => isM(v) && v.schritt2 === "abgelehnt") +
+    zeile("2. Entscheid noch offen", v => isM(v) && v.schritt2 === "offen") +
+    zeile("zurückgezogen oder offen", v => isM(v) && (v.ergebnis === "zurückgezogen" || v.ergebnis === "offen")) +
+    `<dt><b>Quote 1. Überweisung</b></dt><dd>${q("FDP", v => isM(v) && v.schritt1 === "überwiesen", s1ent)}</dd><dd>${q("LDP", v => isM(v) && v.schritt1 === "überwiesen", s1ent)}</dd>` +
+    `<dt><b>Quote definitiv als Motion</b></dt><dd>${q("FDP", v => isM(v) && v.schritt2 === "als Motion", s2ent)}</dd><dd>${q("LDP", v => isM(v) && v.schritt2 === "als Motion", s2ent)}</dd>` +
+    '<dt class="kopfzeile" style="margin-top:12px">Anzüge</dt><dd></dd><dd></dd>' +
+    zeile("eingereicht", isA) +
+    zeile("überwiesen", v => isA(v) && v.ergebnis === "überwiesen") +
+    zeile("abgelehnt", v => isA(v) && v.ergebnis === "abgelehnt") +
+    zeile("zurückgezogen oder offen", v => isA(v) && (v.ergebnis === "zurückgezogen" || v.ergebnis === "offen")) +
+    `<dt><b>Überweisungsquote</b></dt><dd>${q("FDP", v => isA(v) && v.ergebnis === "überwiesen", aent)}</dd><dd>${q("LDP", v => isA(v) && v.ergebnis === "überwiesen", aent)}</dd>`;
   // alle Fraktionen
   const agg = {}; for (const p of D.parteien) agg[p] = {total:0, typen:{}, sitze:0};
   for (const id of legIds()){ const z = D.vorstoss_zahlen[id] || {}; for (const p of D.parteien){ const x = z[p]; if(!x) continue; agg[p].total += x.total; agg[p].sitze += x.sitze||0; for (const [t,c] of Object.entries(x.typen)) agg[p].typen[t] = (agg[p].typen[t]||0) + c; } }
