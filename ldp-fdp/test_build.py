@@ -65,6 +65,24 @@ def hook(ds, where, select):
     raise ValueError(ds)
 
 build.EXPORT_HOOK = hook
+import extras
+def fake_alle(partei_von, legs, leg_von, thema_von, partei_norm):
+    return ({
+     "ausgaben": {"geschaefte": [{"sig":"23.1","datum":"2023-05-01","leg":"2021","titel":"Ausgabenbericht Testkredit","einmalig":5000000,"jaehrlich":200000,"fdp":"N","ldp":"J","url":"#"}],
+                  "vorstoss_kosten": [{"sig":"24.5","datum":"2024-01-01","leg":"2021","titel":"Anzug","partei":"FDP","einmalig":100000,"jaehrlich":0}]},
+     "parolen": {"kantonal": [{"datum":"2024-03-03","leg":"2021","titel":"Wohnschutz","ergebnis":"Angenommen","ja_anteil":55.2,"fdp":"Nein","ldp":"Ja","link":"#","ebene":"kantonal"}],
+                 "eidg": [{"datum":"2025-09-28","leg":"2025","titel":"E-ID","ergebnis":"angenommen","fdp":"Ja","ldp":"Ja","ebene":"eidgenössisch"}]},
+     "kommissionen": {"2025": {"Finanzkommission": {"kurz":"FKom","FDP":["Muster, A (Präsident)"],"LDP":["Beispiel, B"],"praesidium":"FDP"}}},
+     "wortmeldungen": {"sitzungen":{"2021":40,"2025":20},"zaehl":{"2021":{"FDP":{"total":300,"personen":{"Luca Urgese":120}},"LDP":{"total":500,"personen":{"Raoul Furlano":90}}}}},
+     "interessen": {"zaehl":{"FDP":{"Stiftungen":4,"Gewerbe, KMU und Wirtschaftsverbände":6},"LDP":{"Stiftungen":12,"Kultur und Fasnacht":5}},"personen":{"FDP":7,"LDP":13},
+                    "eintraege":[{"partei":"FDP","name":"Muster, A","text":"Gewerbeverband (Vorstand)","branche":"Gewerbe, KMU und Wirtschaftsverbände","rubrik":""}]},
+     "wahlen": {"2020":{"anteile":{"Grossbasel Ost":{"FDP":7.1,"LDP":15.0},"Kanton":{"FDP":6.9,"LDP":14.2}},"fremd":{"FDP":{"LDP":400,"SVP":200,"SP":100},"LDP":{"FDP":300,"SVP":150}},"sitze":{}},
+                "2024":{"anteile":{"Grossbasel Ost":{"FDP":8.0,"LDP":13.1},"Kanton":{"FDP":7.9,"LDP":12.0}},"fremd":{"FDP":{"LDP":500,"SVP":210,"GLP":80},"LDP":{"FDP":350,"SVP":180}},"sitze":{}}},
+     "smartvote": {"achsen": extras.SMARTVOTE_ACHSEN, "werte": {a:{"FDP":60,"LDP":55} for a in extras.SMARTVOTE_ACHSEN}},
+     "medien": {"mm":{"FDP":[{"datum":"2026-11-20","titel":"Steine","leg":"2025","thema":"Sicherheit, Ordnung und Justiz"}],"LDP":[{"datum":"2025-11-19","titel":"Velopauschale","leg":"2025","thema":"Verkehr und Mobilität"}]},
+                "news":{"pro_monat":{"FDP":{"2025-01":12,"2026-02":9},"LDP":{"2025-01":20}},"quellen":{"FDP":{"bz Basel":10},"LDP":{"Basler Zeitung":12}},"titel":{"FDP":[{"t":"Titel","q":"bz","d":"2026-11-21"}],"LDP":[]}}},
+    }, ["test"])
+extras.alle = fake_alle
 build.OUT = Path("/tmp/ldp-fdp-test")
 build.PRUEF = Path("/tmp/ldp-fdp-test/pruefliste.md")
 build.main()

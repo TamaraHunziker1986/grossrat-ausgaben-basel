@@ -94,6 +94,8 @@ button.link{font:inherit;color:var(--blau);background:none;border:0;padding:0;cu
 .stapel{display:flex;height:14px;width:100%;background:var(--grau);border-radius:2px;overflow:hidden;margin-top:4px}
 .stapel i{display:block;height:100%}
 .stapel i.g{background:var(--fdp)} .stapel i.u{background:var(--magenta)}
+details.mehr summary{cursor:pointer;color:var(--blau)}
+code{font-size:14px;background:var(--grau);padding:1px 5px}
 .diff-pos{color:var(--fdp);font-weight:700} .diff-neg{color:#6b7280;font-weight:700}
 
 .ideen{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:18px}
@@ -130,7 +132,9 @@ footer strong{font-family:Jost,Arial,sans-serif;font-size:17px}
 <nav class="inhalt" aria-label="Inhalt">
   <a href="#stimmverhalten">Stimmverhalten</a><a href="#differenzen">Unterschiedliche Haltung</a>
   <a href="#themen">Vorstösse nach Thema</a><a href="#arten">Vorstossarten und Erfolg</a>
-  <a href="#zusammenarbeit">Zusammenarbeit</a><a href="#liste">Alle Vorstösse</a><a href="#ideen">Was noch dazukommen könnte</a>
+  <a href="#zusammenarbeit">Zusammenarbeit</a><a href="#ausgaben">Ausgaben</a><a href="#parolen">Parolen</a>
+  <a href="#kommissionen">Kommissionen</a><a href="#wortmeldungen">Wortmeldungen</a><a href="#interessen">Interessenbindungen</a>
+  <a href="#wahlen">Wählerschaft</a><a href="#smartvote">Smartvote</a><a href="#medien">Medien</a><a href="#liste">Alle Vorstösse</a>
 </nav></div>
 
 <main class="wrap">
@@ -201,19 +205,68 @@ footer strong{font-family:Jost,Arial,sans-serif;font-size:17px}
     <div class="mehr" id="mehr-vorstoesse"></div>
   </section>
 
-  <section id="ideen">
-    <h2>Was noch dazukommen könnte</h2>
-    <p class="lead">Diese Auswertungen würden den Unterschied zwischen FDP und LDP noch deutlicher zeigen. Die meisten Daten sind öffentlich verfügbar.</p>
-    <div class="ideen">
-      <div class="idee"><h3>Zustimmung zu Ausgaben</h3><p>Wie oft haben FDP und LDP neuen Ausgaben zugestimmt, und um welche Beträge ging es? Die Daten dafür liegen auf der Seite «Was der Grosse Rat ausgibt» bereits vor und lassen sich hier direkt gegenüberstellen.</p><p class="quelle">Quelle: eigene Ausgabenübersicht</p></div>
-      <div class="idee"><h3>Interessenbindungen</h3><p>In welchen Branchen und Organisationen sitzen die Ratsmitglieder? Ein Vergleich nach Gewerbe, Finanz, Stiftungen, Kultur und Verbänden zeigt, wo die beiden Fraktionen verankert sind.</p><p class="quelle">Quelle: data.bs.ch, Datensatz 100309</p></div>
-      <div class="idee"><h3>Parolen bei Abstimmungen</h3><p>Kantonale und eidgenössische Parolen beider Parteien seit 2021 nebeneinander, mit den Fällen, in denen sie sich nicht einig waren.</p><p class="quelle">Quelle: Parteiwebsites, Medienmitteilungen</p></div>
-      <div class="idee"><h3>Wählerschaft nach Quartier</h3><p>Die Grossratswahlen 2020 und 2024 nach Wahlkreis und Wahllokal: Wo holen FDP und LDP ihre Stimmen, und wo überschneiden sie sich?</p><p class="quelle">Quelle: data.bs.ch, Wahlresultate 2020 und 2024</p></div>
-      <div class="idee"><h3>Smartvote-Profile</h3><p>Die Smartspider der Kandidierenden 2024 zeigen, in welchen Politikfeldern die Positionen auseinandergehen, etwa bei Umwelt, Finanzen oder Gesellschaft.</p><p class="quelle">Quelle: smartvote.ch</p></div>
-      <div class="idee"><h3>Kommissionsarbeit</h3><p>Präsidien, Sitze und Minderheitsanträge in den Kommissionen. Hier fällt viel Politik, bevor ein Geschäft in den Rat kommt.</p><p class="quelle">Quelle: data.bs.ch, Datensätze 100308 und 100310</p></div>
-      <div class="idee"><h3>Wortmeldungen im Rat</h3><p>Wer spricht wie oft zu welchen Themen? Die Ratsprotokolle zeigen, welche Fraktion in der Debatte sichtbar ist.</p><p class="quelle">Quelle: Ratsprotokolle grosserrat.bs.ch</p></div>
-      <div class="idee"><h3>Präsenz in den Medien</h3><p>Nennungen in bz, BaZ und Prime News sowie Medienmitteilungen pro Monat und Thema. Damit lässt sich prüfen, ob die Themen der Vorstösse auch öffentlich wahrgenommen werden.</p><p class="quelle">Quelle: Medienbeobachtung, eigene Ablage</p></div>
+  <section id="ausgaben">
+    <h2>Zustimmung zu neuen Ausgaben</h2>
+    <p class="lead">Ratschläge und Ausgabenberichte, mit denen der Grosse Rat neue Ausgaben bewilligt hat (Daten der Seite «Was der Grosse Rat ausgibt»). Gezählt ist die Haltung der Fraktionsmehrheit in der Schlussabstimmung.</p>
+    <div class="zwei"><div class="box"><h3>Zugestimmt</h3><dl id="dl-ausgaben"></dl></div>
+    <div class="box"><h3>Kostenfolgen eigener Vorstösse</h3><p class="klein">Überwiesene Motionen und Anzüge mit bezifferter Kostenfolge.</p><dl id="dl-vkosten"></dl></div></div>
+    <h3 class="unter">Ausgaben, bei denen FDP und LDP unterschiedlich gestimmt haben</h3>
+    <div class="tabelle"><table id="t-ausgaben"></table></div>
+  </section>
+
+  <section id="parolen">
+    <h2>Parolen bei Volksabstimmungen</h2>
+    <p class="lead" id="parolen-lead"></p>
+    <div class="zwei"><div class="box"><h3>Kantonale Vorlagen</h3><dl id="dl-parolen-k"></dl></div><div class="box"><h3>Eidgenössische Vorlagen</h3><dl id="dl-parolen-e"></dl></div></div>
+    <h3 class="unter">Vorlagen mit unterschiedlicher Parole</h3>
+    <div class="tabelle"><table id="t-parolen"></table></div>
+  </section>
+
+  <section id="kommissionen">
+    <h2>Kommissionen</h2>
+    <p class="lead" id="kom-lead"></p>
+    <div class="tabelle"><table id="t-kom"></table></div>
+  </section>
+
+  <section id="wortmeldungen">
+    <h2>Wortmeldungen im Rat</h2>
+    <p class="lead" id="wort-lead"></p>
+    <div class="zwei"><div class="box"><h3>FDP</h3><dl id="dl-wort-fdp"></dl></div><div class="box"><h3>LDP</h3><dl id="dl-wort-ldp"></dl></div></div>
+  </section>
+
+  <section id="interessen">
+    <h2>Interessenbindungen</h2>
+    <p class="lead" id="int-lead"></p>
+    <div class="legende"><span><i style="background:var(--fdp)"></i>FDP</span><span><i style="background:var(--ldp)"></i>LDP</span></div>
+    <div class="bars" id="bars-int"></div>
+    <details class="mehr"><summary><b>Alle Einträge anzeigen</b></summary><div class="tabelle" style="margin-top:10px"><table id="t-int"></table></div></details>
+  </section>
+
+  <section id="wahlen">
+    <h2>Wählerschaft</h2>
+    <p class="lead">Parteistimmenanteile bei den Grossratswahlen 2020 und 2024 nach Wahlkreis. Darunter: Von welchen Parteilisten die Kandidierenden von FDP und LDP ihre Fremdstimmen bekommen haben. Das zeigt, wie stark sich die Wählerschaften überschneiden.</p>
+    <div class="tabelle"><table id="t-wahl"></table></div>
+    <h3 class="unter">Woher die Fremdstimmen kommen</h3>
+    <p class="lead klein" id="wahl-fremd-lead"></p>
+    <div class="legende"><span><i style="background:var(--fdp)"></i>Kandidierende der FDP</span><span><i style="background:var(--ldp)"></i>Kandidierende der LDP</span></div>
+    <div class="bars" id="bars-fremd"></div>
+  </section>
+
+  <section id="smartvote">
+    <h2>Smartvote-Profile 2024</h2>
+    <div id="sv"></div>
+  </section>
+
+  <section id="medien">
+    <h2>Präsenz in den Medien</h2>
+    <p class="lead">Medienmitteilungen auf fdp-bs.ch und ldp.ch sowie Artikel, die Google News zu den beiden Parteien findet (Suche nach «FDP Basel», «Basler FDP», «FDP-Grossrat» usw. bzw. den gleichen Begriffen für die LDP).</p>
+    <div class="tabelle"><table id="t-medien"></table></div>
+    <div class="zwei" style="margin-top:24px">
+      <div class="box"><h3>Medienmitteilungen nach Thema</h3><div class="bars" id="bars-mm" style="grid-template-columns:minmax(120px,190px) 1fr"></div></div>
+      <div class="box"><h3>Wichtigste Medien</h3><dl id="dl-quellen"></dl></div>
     </div>
+    <div class="zwei" style="margin-top:24px"><div class="box"><h3>Neueste Artikel FDP</h3><div id="news-fdp" class="klein"></div></div><div class="box"><h3>Neueste Artikel LDP</h3><div id="news-ldp" class="klein"></div></div></div>
+    <p class="klein" id="medien-hinweis"></p>
   </section>
 
   <section id="methode" class="methode">
@@ -222,6 +275,7 @@ footer strong{font-family:Jost,Arial,sans-serif;font-size:17px}
     <p>Für das Stimmverhalten zählt die Mehrheit der anwesenden Fraktionsmitglieder in jeder einzelnen Abstimmung. Präsenzkontrollen und Wahlen sind ausgenommen. Steht es in einer Fraktion unentschieden, gilt sie als geteilt und fällt aus dem Vergleich. Die Fraktion Mitte-EVP ist als Mitte aufgeführt.</p>
     <p>Ein Vorstoss zählt zur Partei der Person, die ihn als Erste unterzeichnet hat. Mitgezählt sind Motionen, Anzüge, Planungsanzüge, Budgetpostulate, Interpellationen, Schriftliche Anfragen, Resolutionen und Standesinitiativen von Ratsmitgliedern. Vorstösse von Kommissionen fehlen.</p>
     <p>Jedes Geschäft hat ein Hauptthema. Es wird aus dem Titel bestimmt und, wo vorhanden, aus dem Thema, das der Parlamentsdienst vergeben hat. Die Zuordnung ist automatisch und kann im Einzelfall danebenliegen. Korrekturen sind in der Datei themen-korrekturen.csv möglich.</p>
+    <p>Weitere Quellen: Ausgaben aus der Seite «Was der Grosse Rat ausgibt»; Parolen kantonal aus baselvotes (data.bs.ch 100518), eidgenössisch für die FDP aus Swissvotes (Parole der FDP Schweiz oder abweichende Parole der Kantonalpartei) und für die LDP aus dem Parolenarchiv auf ldp.ch; Kommissionen (100308) und Interessenbindungen (100309, aktueller Stand); Wahlresultate 2020 und 2024 (100101, 100399); Wortmeldungen aus den Vollprotokollen des Grossen Rates, gezählt sind Zeilen, die mit Name und Fraktion in Klammern beginnen; Medienmitteilungen von fdp-bs.ch und ldp.ch; Artikel aus Google News, höchstens 100 pro Monat und Partei. Die Branchen der Interessenbindungen sind per Stichwort zugeordnet.</p>
     <p>Die Seite ist nicht für die Öffentlichkeit bestimmt und wird von Suchmaschinen nicht erfasst.</p>
   </section>
 </main>
@@ -414,7 +468,137 @@ function zeichneVorstoesse(){
   const b = document.getElementById("b-v"); if (b) b.onclick = () => { vLimit = 1e6; zeichneVorstoesse(); };
 }
 
-function alles(){ zeichneKacheln(); zeichneStimmverhalten(); zeichneDifferenzen(); zeichneThemen(); zeichneArten(); zeichneZusammenarbeit(); zeichneVorstoesse(); }
+
+const Z = D.zusatz || {};
+const chf = n => "CHF " + Math.round(n||0).toLocaleString("de-CH");
+const chfK = n => n >= 1e6 ? "CHF " + (n/1e6).toLocaleString("de-CH",{maximumFractionDigits:1}) + " Mio." : chf(n);
+const leer = (id, txt) => { const el = document.getElementById(id); if (el) el.innerHTML = `<p class="klein">${esc(txt)}</p>`; };
+
+function zeichneAusgaben(){
+  const A = Z.ausgaben; if (!A) { leer("dl-ausgaben","Keine Daten."); return; }
+  const G = A.geschaefte.filter(inLeg);
+  const mit = G.filter(g => g.fdp && g.ldp);
+  const zu = p => G.filter(g => g[p] === "J");
+  const sum = (arr,k) => arr.reduce((a,x) => a + (x[k]||0), 0);
+  document.getElementById("dl-ausgaben").innerHTML = '<dt class="kopfzeile"></dt><dd class="kopfzeile">FDP</dd><dd class="kopfzeile">LDP</dd>' +
+    `<dt>Geschäfte mit Ja</dt><dd>${zu("fdp").length} von ${G.filter(g=>g.fdp).length}</dd><dd>${zu("ldp").length} von ${G.filter(g=>g.ldp).length}</dd>` +
+    `<dt>einmalig bewilligt mitgetragen</dt><dd>${chfK(sum(zu("fdp"),"einmalig"))}</dd><dd>${chfK(sum(zu("ldp"),"einmalig"))}</dd>` +
+    `<dt>wiederkehrend pro Jahr</dt><dd>${chfK(sum(zu("fdp"),"jaehrlich"))}</dd><dd>${chfK(sum(zu("ldp"),"jaehrlich"))}</dd>` +
+    `<dt>gleiche Haltung</dt><dd colspan="2">${fp(pct(mit.filter(g => g.fdp === g.ldp).length, mit.length))}</dd><dd></dd>`;
+  const K = A.vorstoss_kosten.filter(inLeg);
+  document.getElementById("dl-vkosten").innerHTML = '<dt class="kopfzeile"></dt><dd class="kopfzeile">FDP</dd><dd class="kopfzeile">LDP</dd>' +
+    `<dt>Vorstösse mit Kostenfolge</dt><dd>${K.filter(k=>k.partei==="FDP").length}</dd><dd>${K.filter(k=>k.partei==="LDP").length}</dd>` +
+    `<dt>einmalig</dt><dd>${chfK(sum(K.filter(k=>k.partei==="FDP"),"einmalig"))}</dd><dd>${chfK(sum(K.filter(k=>k.partei==="LDP"),"einmalig"))}</dd>` +
+    `<dt>pro Jahr</dt><dd>${chfK(sum(K.filter(k=>k.partei==="FDP"),"jaehrlich"))}</dd><dd>${chfK(sum(K.filter(k=>k.partei==="LDP"),"jaehrlich"))}</dd>`;
+  const diff = mit.filter(g => g.fdp !== g.ldp).sort((a,b) => (b.einmalig + 10*b.jaehrlich) - (a.einmalig + 10*a.jaehrlich));
+  const ch = x => `<span class="chip ${x}">${x === "J" ? "Ja" : x === "N" ? "Nein" : "geteilt"}</span>`;
+  document.getElementById("t-ausgaben").innerHTML = '<thead><tr><th>Datum</th><th>Geschäft</th><th class="num">einmalig</th><th class="num">pro Jahr</th><th class="p">FDP</th><th class="p">LDP</th></tr></thead><tbody>' +
+    diff.map(g => `<tr><td class="num">${kurz(g.datum)}</td><td class="g"><a href="${esc(g.url)}" target="_blank" rel="noopener">${esc(g.titel)}</a></td><td class="num">${g.einmalig ? chf(g.einmalig) : ""}</td><td class="num">${g.jaehrlich ? chf(g.jaehrlich) : ""}</td><td class="p">${ch(g.fdp)}</td><td class="p">${ch(g.ldp)}</td></tr>`).join("") +
+    (diff.length ? "" : '<tr><td colspan="6" class="klein">Keine Ausgaben mit unterschiedlicher Haltung in diesem Zeitraum.</td></tr>') + "</tbody>";
+}
+
+function zeichneParolen(){
+  const P = Z.parolen; if (!P) { leer("dl-parolen-k","Keine Daten."); return; }
+  const sieg = (x, p) => { const e = (x.ergebnis||"").toLowerCase(); if (!x[p] || !e) return null; const ang = e.startsWith("angenommen") || e.startsWith("ja"); return (x[p] === "Ja") === ang; };
+  const box = (id, arr) => { const b = arr.filter(x => inLeg(x) && x.fdp && x.ldp); const g = b.filter(x => x.fdp === x.ldp).length;
+    const s = p => { const v = arr.filter(x => inLeg(x) && sieg(x,p) !== null); return fp(pct(v.filter(x => sieg(x,p)).length, v.length)); };
+    document.getElementById(id).innerHTML = '<dt class="kopfzeile"></dt><dd class="kopfzeile">FDP</dd><dd class="kopfzeile">LDP</dd>' +
+      `<dt>Vorlagen mit beiden Parolen</dt><dd>${b.length}</dd><dd></dd><dt>gleiche Parole</dt><dd>${fp(pct(g, b.length))}</dd><dd></dd>` +
+      `<dt>auf der Seite des Resultats</dt><dd>${s("fdp")}</dd><dd>${s("ldp")}</dd>`; };
+  box("dl-parolen-k", P.kantonal || []); box("dl-parolen-e", P.eidg || []);
+  const alle = [...(P.kantonal||[]), ...(P.eidg||[])].filter(x => inLeg(x) && x.fdp && x.ldp && x.fdp !== x.ldp).sort((a,b) => b.datum.localeCompare(a.datum));
+  document.getElementById("parolen-lead").textContent = `Kantonale und eidgenössische Vorlagen seit Februar 2021. Bei ${alle.length} Vorlagen haben FDP und LDP im gewählten Zeitraum unterschiedliche Parolen gefasst.`;
+  document.getElementById("t-parolen").innerHTML = '<thead><tr><th>Datum</th><th>Vorlage</th><th>Ebene</th><th class="p">FDP</th><th class="p">LDP</th><th>Resultat</th></tr></thead><tbody>' +
+    alle.map(x => `<tr><td class="num">${kurz(x.datum)}</td><td class="g">${x.link ? `<a href="${esc(x.link)}" target="_blank" rel="noopener">${esc(x.titel)}</a>` : esc(x.titel)}</td><td class="klein">${x.ebene}</td><td class="p"><b>${esc(x.fdp)}</b></td><td class="p"><b>${esc(x.ldp)}</b></td><td class="klein">${esc(x.ergebnis||"")}${x.ja_anteil ? " (" + x.ja_anteil + " % Ja)" : ""}</td></tr>`).join("") +
+    (alle.length ? "" : '<tr><td colspan="6" class="klein">Keine Vorlagen mit unterschiedlicher Parole.</td></tr>') + "</tbody>";
+}
+
+function zeichneKommissionen(){
+  const K = Z.kommissionen; if (!K) { leer("t-kom","Keine Daten."); return; }
+  const ids = L === "alle" ? [D.legislaturen.at(-1).id] : [L];
+  const k = K[ids[0]] || {};
+  const rows = Object.entries(k).sort((a,b) => a[0].localeCompare(b[0]));
+  const n = p => rows.reduce((a,[,v]) => a + v[p].length, 0), pr = p => rows.filter(([,v]) => v.praesidium === p).length;
+  const lab = D.legislaturen.find(l => l.id === ids[0]).label;
+  document.getElementById("kom-lead").textContent = `Sitze in Kommissionen und Delegationen zu Beginn der Legislatur ${lab}: FDP ${n("FDP")} Sitze, davon ${pr("FDP")} Präsidien, LDP ${n("LDP")} Sitze, davon ${pr("LDP")} Präsidien.` + (L === "alle" ? " Angezeigt ist die laufende Legislatur." : "");
+  document.getElementById("t-kom").innerHTML = '<thead><tr><th>Kommission</th><th>FDP</th><th>LDP</th><th class="p">Präsidium</th></tr></thead><tbody>' +
+    rows.map(([g,v]) => `<tr><td>${esc(g)}</td><td class="klein">${v.FDP.map(esc).join("<br>")}</td><td class="klein">${v.LDP.map(esc).join("<br>")}</td><td class="p"><b>${v.praesidium||""}</b></td></tr>`).join("") + "</tbody>";
+}
+
+function zeichneWortmeldungen(){
+  const W = Z.wortmeldungen; if (!W || !W.zaehl) { leer("dl-wort-fdp","Keine Daten."); return; }
+  const tot = p => legIds().reduce((a,id) => a + (((W.zaehl[id]||{})[p]||{}).total||0), 0);
+  const sitz = p => legIds().reduce((a,id) => a + ((D.sitze[id]||{})[p]||0), 0) / legIds().length;
+  const nSitz = legIds().reduce((a,id) => a + ((W.sitzungen||{})[id]||0), 0);
+  document.getElementById("wort-lead").textContent = `Gezählt in ${nSitz} Vollprotokollen. FDP: ${zahl(tot("FDP"))} Wortmeldungen, ${(tot("FDP")/Math.max(1,sitz("FDP"))).toLocaleString("de-CH",{maximumFractionDigits:0})} pro Sitz. LDP: ${zahl(tot("LDP"))} Wortmeldungen, ${(tot("LDP")/Math.max(1,sitz("LDP"))).toLocaleString("de-CH",{maximumFractionDigits:0})} pro Sitz.`;
+  for (const p of ["FDP","LDP"]){
+    const c = {}; for (const id of legIds()) for (const [n,v] of Object.entries((((W.zaehl[id]||{})[p])||{}).personen||{})) c[n] = (c[n]||0) + v;
+    document.getElementById("dl-wort-" + p.toLowerCase()).innerHTML = Object.entries(c).sort((a,b) => b[1]-a[1]).slice(0,12).map(([n,v]) => `<dt>${esc(n)}</dt><dd>${v}</dd><dd></dd>`).join("");
+  }
+}
+
+function zeichneInteressen(){
+  const I = Z.interessen; if (!I) { leer("bars-int","Keine Daten."); return; }
+  const tf = Object.values(I.zaehl.FDP||{}).reduce((a,b)=>a+b,0), tl = Object.values(I.zaehl.LDP||{}).reduce((a,b)=>a+b,0);
+  document.getElementById("int-lead").textContent = `Aktuell gemeldete Interessenbindungen der Ratsmitglieder: FDP ${tf} Einträge von ${I.personen.FDP||0} Personen (${(tf/Math.max(1,I.personen.FDP||1)).toLocaleString("de-CH",{maximumFractionDigits:1})} pro Person), LDP ${tl} Einträge von ${I.personen.LDP||0} Personen (${(tl/Math.max(1,I.personen.LDP||1)).toLocaleString("de-CH",{maximumFractionDigits:1})} pro Person). Die Balken zeigen den Anteil der Branchen.`;
+  const br = [...new Set([...Object.keys(I.zaehl.FDP||{}), ...Object.keys(I.zaehl.LDP||{})])].sort((a,b) => ((I.zaehl.FDP[b]||0)/tf + (I.zaehl.LDP[b]||0)/tl) - ((I.zaehl.FDP[a]||0)/tf + (I.zaehl.LDP[a]||0)/tl));
+  document.getElementById("bars-int").innerHTML = br.map(b => barPaar(b, pct(I.zaehl.FDP[b]||0, tf), pct(I.zaehl.LDP[b]||0, tl), `${I.zaehl.FDP[b]||0} Einträge`, `${I.zaehl.LDP[b]||0} Einträge`)).join("");
+  document.getElementById("t-int").innerHTML = '<thead><tr><th class="p">Partei</th><th>Person</th><th>Interessenbindung</th><th>Branche</th></tr></thead><tbody>' +
+    I.eintraege.map(e => `<tr><td class="p"><b>${e.partei}</b></td><td>${esc(e.name)}</td><td class="g">${esc(e.text)}</td><td class="klein">${esc(e.branche)}</td></tr>`).join("") + "</tbody>";
+}
+
+function zeichneWahlen(){
+  const W = Z.wahlen; if (!W) { leer("t-wahl","Keine Daten."); return; }
+  const kreise = [...new Set([...Object.keys(W["2020"]?.anteile||{}), ...Object.keys(W["2024"]?.anteile||{})])].sort((a,b) => (a==="Kanton") - (b==="Kanton") || a.localeCompare(b));
+  const v = (j,k,p) => ((W[j]||{}).anteile||{})[k]?.[p];
+  const d = (a,b) => a == null || b == null ? "" : `<span class="${b-a >= 0 ? "diff-pos" : "diff-neg"}">${b-a >= 0 ? "+" : ""}${(b-a).toLocaleString("de-CH",{maximumFractionDigits:1})}</span>`;
+  document.getElementById("t-wahl").innerHTML = '<thead><tr><th>Wahlkreis</th><th class="num">FDP 2020</th><th class="num">FDP 2024</th><th class="num">±</th><th class="num">LDP 2020</th><th class="num">LDP 2024</th><th class="num">±</th></tr></thead><tbody>' +
+    kreise.map(k => `<tr${k==="Kanton" ? ' style="font-weight:700"' : ""}><td>${esc(k)}</td><td class="num">${fp(v("2020",k,"FDP"))}</td><td class="num">${fp(v("2024",k,"FDP"))}</td><td class="num">${d(v("2020",k,"FDP"), v("2024",k,"FDP"))}</td><td class="num">${fp(v("2020",k,"LDP"))}</td><td class="num">${fp(v("2024",k,"LDP"))}</td><td class="num">${d(v("2020",k,"LDP"), v("2024",k,"LDP"))}</td></tr>`).join("") + "</tbody>";
+  const j = "2024", F = (W[j]||{}).fremd || {};
+  const tf = Object.values(F.FDP||{}).reduce((a,b)=>a+b,0), tl = Object.values(F.LDP||{}).reduce((a,b)=>a+b,0);
+  const qs = [...new Set([...Object.keys(F.FDP||{}), ...Object.keys(F.LDP||{})])].filter(q => q !== "Andere").sort((a,b) => ((F.FDP[b]||0)/tf + (F.LDP[b]||0)/tl) - ((F.FDP[a]||0)/tf + (F.LDP[a]||0)/tl));
+  const F20 = (W["2020"]||{}).fremd || {}; const t20f = Object.values(F20.FDP||{}).reduce((a,b)=>a+b,0), t20l = Object.values(F20.LDP||{}).reduce((a,b)=>a+b,0);
+  document.getElementById("wahl-fremd-lead").textContent = `Grossratswahlen 2024. Stimmen, die Kandidierende auf Wahlzetteln anderer Listen erhalten haben, nach Herkunftsliste. 2020 kamen ${fp(pct(F20.FDP?.LDP||0, t20f))} der Fremdstimmen der FDP von LDP-Listen und ${fp(pct(F20.LDP?.FDP||0, t20l))} der Fremdstimmen der LDP von FDP-Listen.`;
+  document.getElementById("bars-fremd").innerHTML = qs.map(q => barPaar("von " + q, q === "FDP" ? null : pct(F.FDP?.[q]||0, tf), q === "LDP" ? null : pct(F.LDP?.[q]||0, tl), `${zahl(F.FDP?.[q]||0)} Stimmen`, `${zahl(F.LDP?.[q]||0)} Stimmen`)).join("");
+}
+
+function zeichneSmartvote(){
+  const S = Z.smartvote, el = document.getElementById("sv");
+  const hat = S && S.achsen.some(a => S.werte[a] && (S.werte[a].FDP != null || S.werte[a].LDP != null));
+  if (!hat){ el.innerHTML = `<p class="lead">Smartvote stellt die Daten nicht offen zur Verfügung, deshalb fehlt der Vergleich noch. Die acht Werte des Smartspiders (Parteidurchschnitt Grossratswahlen 2024) lassen sich auf smartvote.ch ablesen und in der Datei <code>ldp-fdp/smartvote.csv</code> eintragen. Danach erscheint hier das Profil von FDP und LDP.</p><p><a href="https://smartvote.ch/de/elections/24_bs_leg/smartmap" target="_blank" rel="noopener">Smartvote Basel-Stadt 2024 öffnen</a></p>`; return; }
+  const N = S.achsen.length, R = 150, cx = 220, cy = 190;
+  const pt = (i, v) => { const a = -Math.PI/2 + 2*Math.PI*i/N; return [cx + Math.cos(a)*R*v/100, cy + Math.sin(a)*R*v/100]; };
+  let svg = `<svg viewBox="0 0 440 390" style="max-width:560px;width:100%" role="img" aria-label="Smartspider FDP und LDP">`;
+  for (const r of [25,50,75,100]) svg += `<polygon points="${S.achsen.map((_,i) => pt(i,r).join(",")).join(" ")}" fill="none" stroke="#d9dce1"/>`;
+  S.achsen.forEach((a,i) => { const [x,y] = pt(i,100); const [lx,ly] = pt(i,118); svg += `<line x1="${cx}" y1="${cy}" x2="${x}" y2="${y}" stroke="#d9dce1"/><text x="${lx}" y="${ly}" font-size="11" text-anchor="middle" fill="#4b5261">${esc(a)}</text>`; });
+  for (const [p,c] of [["LDP","#9aa3b2"],["FDP","#074ea1"]]) svg += `<polygon points="${S.achsen.map((a,i) => pt(i, (S.werte[a]||{})[p] ?? 0).join(",")).join(" ")}" fill="${c}" fill-opacity=".18" stroke="${c}" stroke-width="2.5"/>`;
+  svg += "</svg>";
+  el.innerHTML = `<div class="legende"><span><i style="background:var(--fdp)"></i>FDP</span><span><i style="background:var(--ldp)"></i>LDP</span></div>` + svg +
+    '<div class="tabelle" style="max-width:560px;margin-top:12px"><table><thead><tr><th>Achse</th><th class="num">FDP</th><th class="num">LDP</th></tr></thead><tbody>' +
+    S.achsen.map(a => `<tr><td>${esc(a)}</td><td class="num">${S.werte[a]?.FDP ?? "–"}</td><td class="num">${S.werte[a]?.LDP ?? "–"}</td></tr>`).join("") + "</tbody></table></div>";
+}
+
+function zeichneMedien(){
+  const M = Z.medien; if (!M) { leer("t-medien","Keine Daten."); return; }
+  const jahre = [...new Set([...Object.values(M.mm||{}).flat().map(m => m.datum.slice(0,4)), ...Object.keys((M.news||{}).pro_monat?.FDP||{}).map(k => k.slice(0,4))])].sort().reverse();
+  const mm = (p,j) => (M.mm?.[p]||[]).filter(m => m.datum.startsWith(j)).length;
+  const nw = (p,j) => Object.entries(M.news?.pro_monat?.[p]||{}).filter(([k]) => k.startsWith(j)).reduce((a,[,v]) => a+v, 0);
+  const jl = jahre.filter(j => L === "alle" || D.legislaturen.some(l => l.id === L && j >= l.von.slice(0,4) && j <= l.bis.slice(0,4)));
+  document.getElementById("t-medien").innerHTML = '<thead><tr><th>Jahr</th><th class="num">Medienmitteilungen FDP</th><th class="num">Medienmitteilungen LDP</th><th class="num">Artikel FDP</th><th class="num">Artikel LDP</th></tr></thead><tbody>' +
+    jl.map(j => `<tr><td>${j}</td><td class="num">${mm("FDP",j)}</td><td class="num">${mm("LDP",j)}</td><td class="num">${nw("FDP",j)}</td><td class="num">${nw("LDP",j)}</td></tr>`).join("") + "</tbody>";
+  const MF = (M.mm?.FDP||[]).filter(inLeg), ML = (M.mm?.LDP||[]).filter(inLeg);
+  const th = [...new Set([...MF, ...ML].map(m => m.thema))];
+  const c = (arr,t) => arr.filter(m => m.thema === t).length;
+  document.getElementById("bars-mm").innerHTML = th.sort((a,b) => (c(MF,b)/Math.max(1,MF.length) + c(ML,b)/Math.max(1,ML.length)) - (c(MF,a)/Math.max(1,MF.length) + c(ML,a)/Math.max(1,ML.length))).slice(0,10)
+    .map(t => barPaar(t, pct(c(MF,t), MF.length), pct(c(ML,t), ML.length), `${c(MF,t)} Mitteilungen`, `${c(ML,t)} Mitteilungen`)).join("");
+  const Q = M.news?.quellen || {};
+  const qs = [...new Set([...Object.keys(Q.FDP||{}), ...Object.keys(Q.LDP||{})])].sort((a,b) => ((Q.FDP?.[b]||0)+(Q.LDP?.[b]||0)) - ((Q.FDP?.[a]||0)+(Q.LDP?.[a]||0))).slice(0,10);
+  document.getElementById("dl-quellen").innerHTML = '<dt class="kopfzeile">Medium</dt><dd class="kopfzeile">FDP</dd><dd class="kopfzeile">LDP</dd>' + qs.map(q => `<dt>${esc(q)}</dt><dd>${Q.FDP?.[q]||0}</dd><dd>${Q.LDP?.[q]||0}</dd>`).join("");
+  for (const p of ["FDP","LDP"]) document.getElementById("news-" + p.toLowerCase()).innerHTML = (M.news?.titel?.[p]||[]).slice(0,10).map(t => `<p style="margin:0 0 6px">${kurz(t.d)} · ${esc(t.q)}<br>${esc(t.t)}</p>`).join("") || "Keine Artikel.";
+  document.getElementById("medien-hinweis").textContent = "Google News liefert höchstens 100 Treffer pro Suche und Monat und erfasst nicht alle Medien vollständig. Die Zahlen eignen sich für den Vergleich der beiden Parteien, nicht als vollständige Medienbeobachtung.";
+}
+
+function alles(){ zeichneAusgaben(); zeichneParolen(); zeichneKommissionen(); zeichneWortmeldungen(); zeichneInteressen(); zeichneWahlen(); zeichneSmartvote(); zeichneMedien(); zeichneKacheln(); zeichneStimmverhalten(); zeichneDifferenzen(); zeichneThemen(); zeichneArten(); zeichneZusammenarbeit(); zeichneVorstoesse(); }
 fLeg.addEventListener("change", () => { L = fLeg.value; diffLimit = 40; vLimit = 50; alles(); });
 ["f-d-thema","f-d-gewinnt","f-d-knapp"].forEach(id => document.getElementById(id).addEventListener("change", () => { diffLimit = 40; zeichneDifferenzen(); }));
 document.getElementById("f-d-suche").addEventListener("input", () => { diffLimit = 40; zeichneDifferenzen(); });

@@ -439,6 +439,10 @@ def main():
         sitze.setdefault(lid, {}).update(z)
     zaehl, zusammen = werte_vorstoesse(ges, sitze)
 
+    print("Zusätzliche Auswertungen", file=sys.stderr)
+    import extras
+    zusatz, zusatz_pruef = extras.alle(partei_von, LEGISLATUREN, leg_von, thema_von, partei_norm)
+
     vorstoesse = sorted((e for e in ges.values() if e["partei"] in ("FDP", "LDP")),
                         key=lambda e: (e["datum"], e["sig"]), reverse=True)
     # Themenverteilung aller Parteien, damit FDP und LDP eingeordnet werden können
@@ -462,6 +466,7 @@ def main():
         "vorstoss_zahlen": zaehl,
         "zusammenarbeit": zusammen,
         "themen_alle": themen_alle,
+        "zusatz": zusatz,
         "vorstoesse": [{k: e.get(k) for k in ("sig", "titel", "typ", "datum", "leg", "urheber", "partei", "thema",
                                                "ergebnis", "mit_parteien", "status", "dep")} for e in vorstoesse],
     }
@@ -479,6 +484,7 @@ def main():
     pruef += [f"- {k or '(leer)'}: {n}" for k, n in vermerke.most_common(40)]
     pruef += ["", "## Vorstösse von FDP und LDP ohne Themenzuordnung", ""]
     pruef += [f"- {e['sig']} ({e['partei']}): {e['titel']}" for e in vorstoesse if e["thema"] == "Übriges"]
+    pruef += ["", "## Zusätzliche Auswertungen", ""] + [f"- {z}" for z in zusatz_pruef]
     PRUEF.write_text("\n".join(pruef) + "\n", encoding="utf-8")
     print(f"Fertig: {len(vorstoesse)} Vorstösse FDP/LDP, {len(differenzen)} Abstimmungen mit Differenz",
           file=sys.stderr)
