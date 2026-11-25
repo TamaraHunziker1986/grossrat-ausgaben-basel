@@ -140,7 +140,7 @@ WIEDERKEHREND = re.compile(r"p\.\s?a\.|pro Jahr|jährlich|wiederkehrend|per annu
 TOTAL = re.compile(r"(total|insgesamt|gesamthaft|gesamt\w*)(\s+(von|in der Höhe von|in Höhe von))?\s*(Fr\.|CHF)?\s*$", re.I)
 ERHOEHUNG = re.compile(r"\bum\s*(?:Fr\.|CHF)\s*$", re.I)
 JAHRE = re.compile(r"(20\d\d)\s*(?:-|–|bis(?: und mit)?|und)\s*(20\d\d)")
-KEINE_AUSGABE = re.compile(r"Einnahme|Mehrertr|Erlös|Rückzahlung|Rückerstattung|Kürzung|gekürzt|Verkauf|Teuerungsausgleich", re.I)
+KEINE_AUSGABE = re.compile(r"Einnahme|Mehrertr|Erlös|Rückzahlung|Rückerstattung|Kürzung|gekürzt|Verkauf", re.I)
 DARLEHEN = re.compile(r"Darlehen", re.I)
 
 
@@ -471,8 +471,8 @@ def main():
             summe = sum(p["jahresbetrag"] if p["art"] == "wiederkehrend" else p["betrag"] for p in posten)
             for gb in gesamtbetraege(pdf_text(url)):
                 if abs(gb - summe) > 2:
-                    pruef.append(f"**Achtung:** Gesamtbetrag laut Beschluss Fr. {gb:,}".replace(",", "'")
-                                 + f", Summe der gelesenen Posten Fr. {summe:,}".replace(",", "'"))
+                    f1, f2 = f"{gb:,}".replace(",", "'"), f"{summe:,}".replace(",", "'")
+                    pruef.append(f"**Achtung:** Gesamtbetrag laut Beschluss Fr. {f1}, Summe der gelesenen Posten Fr. {f2}")
         for p in posten:
             pruef.append(f"- {p['art']}: Fr. {p['betrag']:,}".replace(",", "'") + f"  \n  «{p['quelle'][:400]}»")
         if not posten:
