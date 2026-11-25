@@ -1,6 +1,6 @@
 # Prüfliste
 
-Vorstösse ohne Partei: 34 von 628 (BRK, GPK, GSK, JSSK, Lachenmeier, Michelle, Leuthardt, Beat, RegioKo, SpezKo-Klima, Stöcklin, Jürg, UVEK, WAK, von Falkenstein, Patricia)
+Vorstösse ohne Partei: 25 von 628 (BRK, GPK, GSK, JSSK, RegioKo, SpezKo-Klima, UVEK, WAK)
 
 Vermerke Budgetpostulate: Überweisung an RR Frist: DATUM (12); Erfüllt / Zustimmung zur Budgeterhöhung (7); Überweisung an RR zur Stellungnahme (6); Überweisung an RR zur Stellungnahme Frist: DATUM (5); Zustimmung zum Budgetpustolat (4); erledigt / Budgetpostulat abgelehnt (4); Zustimmung zum Budgetpostulat / erledigt (4); Überweisung an RR (4); Überweisung an RR Frist: DATUM (3); Nicht überwiesen / erledigt (3); Vorgezogenes Budgetpostulat teilweise erfüllt / erledigt (3); Vorgezogenes Budgetpostulat erfüllt / erledigt (3); Überweisung an RR zur Aufnahme ins Budget 2024 (3); Zustimmung / Das Budgetpostulat wird teilweise erfüllt (2); Budgetpostulat abgelehnt / erledigt (2); Zustimmung (2); erfüllt / Zustimmung zur Budgeterhöhung (1); erfüllt (1); abgeschrieben / Budgetpostulat wird nicht erfüllt (1); Zustimmung / Das Budgetpostulat wird erfüllt (1); Überweisung an RR zur Aufnahme ins Budget Frist: DATUM (1); Budgetpostulat wurde zurückgezogen (1); Vollständig erfüllt / erledigt (1); Zustimmung zum Budgetpostulat (1); Überweisung an RR zur Aufnahme ins Budget 2025 (1)
 
