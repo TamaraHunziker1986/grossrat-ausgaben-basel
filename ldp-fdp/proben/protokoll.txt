@@ -1,1 +1,1 @@
-FEHLER: <HTTPError 400: 'Bad Request'>
+FEHLER: ValueError("unknown url type: 'None'")
