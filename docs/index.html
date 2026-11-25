@@ -80,7 +80,7 @@ tr.summe td{font-weight:700;color:var(--titel);background:#f7f7f7}
 .chip{display:inline-block;font-size:12.5px;font-weight:700;padding:1px 7px;border-radius:10px;border:1px solid currentColor}
 .chip.ja{color:var(--ja)}
 .chip.nein{color:var(--nein)}
-.chip.geteilt{color:var(--text)}
+.chip.geteilt,.chip.enthaltung{color:var(--text)}
 .klein{font-size:13.5px;color:#6b7280}
 .mehr{margin-top:12px}
 button.link{font:inherit;color:var(--blau);background:none;border:0;padding:0;cursor:pointer;text-decoration:underline;font-weight:600}
@@ -113,7 +113,7 @@ footer strong{font-family:Jost,Arial,sans-serif;font-size:17px}
 <main class="wrap">
   <section id="parteien">
     <h2>Wer die Ausgaben mitträgt</h2>
-    <p class="lead">Eine Partei hat einer Ausgabe zugestimmt, wenn die Mehrheit ihrer Ratsmitglieder in der Schlussabstimmung Ja gestimmt hat. Dazu kommen Budgeterhöhungen aus eigenen Budgetpostulaten und Vorstösse, die der Rat auf Antrag der Partei überwiesen hat.</p>
+    <p class="lead">Eine Partei hat einer Ausgabe zugestimmt, wenn die Mehrheit ihrer anwesenden Ratsmitglieder in der Schlussabstimmung Ja gestimmt hat. Enthaltungen zählen nicht als Zustimmung. Dazu kommen Budgeterhöhungen aus eigenen Budgetpostulaten und Vorstösse, die der Rat auf Antrag der Partei überwiesen hat.</p>
     <div class="gruppen" id="gruppen"></div>
   </section>
 
@@ -184,7 +184,8 @@ const SECHS = D.gruppen.flatMap(g => g.parteien);
 
 function haltung(abst, p){
   const e = abst && abst.parteien && abst.parteien[p];
-  if (!e || (e.J + e.N) === 0) return null;
+  if (!e || (e.J + e.N + e.E) === 0) return null;
+  if (e.E > e.J && e.E > e.N) return "enthaltung";
   if (e.J > e.N) return "ja";
   if (e.N > e.J) return "nein";
   return "geteilt";
@@ -193,7 +194,7 @@ function chip(abst, p){
   const h = haltung(abst, p);
   if (!h) return '<span class="klein">keine Angabe</span>';
   const e = abst.parteien[p];
-  const txt = {ja:"Ja", nein:"Nein", geteilt:"geteilt"}[h];
+  const txt = {ja:"Ja", nein:"Nein", geteilt:"geteilt", enthaltung:"Enthaltung"}[h];
   return `<span class="chip ${h}" title="${p}: ${e.J} Ja, ${e.N} Nein, ${e.E} Enthaltungen">${txt}</span>`;
 }
 

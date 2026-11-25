@@ -266,10 +266,6 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413300.pdf
 Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413535.pdf
 - keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
 
-## 2026-10-14 26.0743 Universität Basel: Leistungsbericht 2025; Partnerschaftliches Geschäft, Bericht des RR
-Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413540.pdf
-- keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
-
 ## 2026-10-14 25.1234 Teilrevision des Gesetzes über die Behindertenhilfe
 Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413537.pdf
 - keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
@@ -278,6 +274,10 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413537.pdf
 Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413539.pdf
 - einmalig: Fr. 345'380  
   «Es wird ein Betrag in Höhe von 345'380 Franken für die Ersatzbeschaffung von einem E-LKW für die Materialzentrale (zu Lasten der Investitionsrechnung Erziehungsdepartement, Zentrale Dienste, Investitionsbereich «Übrige») bewilligt.»
+
+## 2026-10-14 26.0743 Universität Basel: Leistungsbericht 2025; Partnerschaftliches Geschäft, Bericht des RR
+Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413540.pdf
+- keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
 
 ## 2026-10-14 26.0555 Ausgabenbewilligung zur Neugestaltung von Grünanlagen mit Naturschutzzone im Areal Walkeweg
 Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413536.pdf (korrigiert)
