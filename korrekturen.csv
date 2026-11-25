@@ -4,8 +4,29 @@
 # jaehrlich: jährlich wiederkehrender Betrag in Franken
 # jahre: Anzahl Jahre, falls der jährliche Betrag befristet ist (dann wird er als Gesamtbetrag gezählt)
 # ausschliessen: ja, wenn das Geschäft nicht gezählt werden soll
-# bemerkung: erscheint bei Vorstössen auf der Seite, z. B. Quelle der Kostenschätzung
-signatur;einmalig;jaehrlich;jahre;ausschliessen;bemerkung
+# bemerkung: erscheint auf der Seite, z. B. Quelle der Kostenschätzung
+# status (nur Vorstösse): bewilligt, beziffert oder geschätzt
+signatur;einmalig;jaehrlich;jahre;ausschliessen;bemerkung;status
 25.1222;;;;ja;Gesetzesrevision, Betrag im Gesetzestext ist eine Schwelle, keine Ausgabe
 26.0555;3993000;65000;;;Fr. 180'000 Beteiligung der SBB ist eine Einnahme
 24.0971;1209000;;;;Gesamtbetrag laut Grossratsbeschluss
+21.5098;350000;;;;Ausgabenbericht zur Umsetzung, vom Grossen Rat bewilligt;bewilligt
+21.5840;750000;;;;Ausgabenbericht zur Umsetzung, vom Grossen Rat bewilligt;bewilligt
+22.5514;1433025;;;;Finanzhilfe Verein Aliena, vom Grossen Rat bewilligt (Geschäft 25.1574);bewilligt
+23.5233;5571000;240000;;;Erdbebensimulator, vom Grossen Rat bewilligt (Geschäft 25.0711);bewilligt
+21.5017;5000000;;;;Corona-Bonus Gesundheitspersonal, vom Grossen Rat bewilligt;bewilligt
+21.5319;;741000;;;Betriebskosten Winterdienst auf Trottoirs laut Regierung;beziffert
+21.5422;;545600;;;Zusatzausgaben laut Bericht der Regierung (gleicher Bericht wie Anzug 21.5513);beziffert
+21.5645;;220000;;;Personalkosten Massnahmenpaket Littering laut Regierung;beziffert
+21.5776;170000000;;;;Mehrkosten der Tieflage gegenüber oberirdischer Variante laut Machbarkeitsstudien (Genauigkeit plus/minus 30 Prozent);geschätzt
+22.5037;;150000;;;Schätzung Erziehungsdepartement;geschätzt
+22.5039;;600000;;;Mehrkosten neues Nachtangebot laut Regierung;beziffert
+22.5040;517000;;;;Pilotprojekt Stadttauben über drei Jahre (Gegenvorschlag);beziffert
+22.5081;;111000;;;Mehrkosten Tagesferien laut Schätzung Regierung;geschätzt
+22.5217;570000;;;;vorübergehende Erhöhung des Personalaufwands laut Regierung;geschätzt
+23.5244;;120000;;;zusätzlicher Verwaltungsaufwand, eine Vollzeitstelle;beziffert
+23.5602;126000;;;;Kosten pro kantonale Gesamterneuerungswahl laut Regierung;geschätzt
+24.5108;;40000;;;Mehrkosten laut Regierung;geschätzt
+24.5142;;400000;;;Mehrausgaben im Einführungsjahr laut Regierung;geschätzt
+24.5145;;500000;;;zusätzliche Lohnkosten bei 0,75 Prozent Teuerungsausgleich laut Regierung;geschätzt
+24.5466;300000;;;;Pilotversuch, laut Regierung 200'000 bis 300'000 Franken;geschätzt

@@ -616,20 +616,27 @@ def main():
                     print(f"  {sig}: {e}", file=sys.stderr)
                     continue
                 if angaben:
-                    einm = next((x for x in angaben if not x["wiederkehrend"]), None)
-                    jahr = next((x for x in angaben if x["wiederkehrend"]), None)
+                    # Automatisch gefundene Kostenangaben sind oft Kontext (Vergleichszahlen, frühere Beschlüsse).
+                    # Sie erscheinen nur in der Prüfliste; auf die Seite kommen sie erst nach Prüfung via korrekturen.csv.
                     erst = angaben[0]
-                    kosten.update(einmalig=einm["betrag"] if einm else 0, jaehrlich=jahr["betrag"] if jahr else 0,
-                                  status="geschätzt" if any(x["schaetzung"] for x in angaben) else "beziffert",
-                                  quelle=erst["satz"], quelle_url=url, datum=day(d.get("dokudatum")))
+                    kosten.update(status="offen", quelle=erst["satz"], quelle_text=erst["satz"], quelle_url=url, datum=day(d.get("dokudatum")),
+                                  kandidat=f"{erst['betrag']:,}".replace(",", "'") + (" pro Jahr" if erst["wiederkehrend"] else ""))
                     break
         if k:
             kosten.update(einmalig=zahl(k.get("einmalig")), jaehrlich=zahl(k.get("jaehrlich")),
-                          status=(k.get("status") or kosten["status"] or "beziffert").strip() or "beziffert")
-        pruef.append(f"## Vorstoss {sig} {titel[:120]}")
-        pruef.append(f"Kosten: {kosten['status']}, einmalig {kosten['einmalig']:,}, pro Jahr {kosten['jaehrlich']:,}".replace(",", "'")
-                     + (f"  \n  «{kosten['quelle'][:400]}» ({kosten['quelle_url']})" if kosten["quelle"] else ""))
-        pruef.append("")
+                          status=(k.get("status") or "beziffert").strip() or "beziffert")
+        elif kosten["status"] == "offen":
+            kosten.update(quelle=None, quelle_url=kosten["quelle_url"] if kosten.get("kandidat") else None)
+        if kosten.get("kandidat") and not k:
+            pruef.append(f"## Vorstoss {sig} {titel[:120]} (Kostenhinweis prüfen: Fr. {kosten['kandidat']})")
+            pruef.append(f"Quelle: {kosten['quelle_url']}  \n«{(kosten.get('quelle_text') or '')[:400]}»")
+            pruef.append("")
+            kosten["quelle_url"] = None
+        elif kosten["status"] != "offen":
+            pruef.append(f"## Vorstoss {sig} {titel[:120]}")
+            pruef.append(f"Kosten: {kosten['status']}, einmalig {kosten['einmalig']:,}, pro Jahr {kosten['jaehrlich']:,}".replace(",", "'")
+                         + (f"  \n  «{kosten['quelle'][:400]}» ({kosten['quelle_url']})" if kosten["quelle"] else ""))
+            pruef.append("")
         vorstoesse.append({
             "signatur": sig, "datum": day(v["siz_datum"]), "titel": titel, "typ": v.get("ga_rr_gr"),
             "vermerk": re.sub(r"\s*Frist:.*", "", v.get("vermerk") or ""),
