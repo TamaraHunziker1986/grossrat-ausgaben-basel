@@ -1,0 +1,96 @@
+# Prüfliste FDP/LDP
+
+Stand 25.11.2026
+
+## Vermerke zu Motionen, Anzügen und Budgetpostulaten (Häufigkeit)
+
+- Überweisung an RR Frist: DATUM: 229
+- erledigt / nicht überwiesen: 229
+- Überweisung an RR: 209
+- erledigt abgeschrieben: 190
+- stehen lassen Frist: DATUM: 157
+- Überweisung an RR zur Stellungnahme Frist: DATUM: 99
+- Überweisung an RR zur Stellungnahme innert drei Monaten: 90
+- stehen lassen: 61
+- (leer): 40
+- Nicht überwiesen / erledigt: 38
+- Nicht überwiesen: 33
+- Überweisung an RR zur Stellungnahme innert drei Monaten Frist: DATUM: 28
+- Überweisung als Motion Frist: DATUM: 27
+- Überweisung an RR als Anzug Frist: DATUM: 19
+- Überweisung an RR als Motion Frist: DATUM: 19
+- Umwandlung in ANZ / Überweisung an RR: 15
+- Überweisung als Anzug Frist: DATUM: 14
+- Überweisung an UVEK: 12
+- Überweisung an RR zur Ausarbeitung einer Vorlage: 12
+- Überweisung an Ratsbüro: 10
+- als erledigt abgeschrieben: 10
+- abgeschrieben: 9
+- Überweisung an RR zur Stellungnahme: 8
+- Erfüllt / Zustimmung zur Budgeterhöhung: 7
+- Überweisung an WAK: 7
+- Überweisung an RR als MOT Frist: DATUM: 7
+- Umwandlung in ANZ / Überweisung an RR Frist: DATUM: 7
+- Überweisung an RR zur Ausarbeitung einer Vorlage Frist: DATUM: 6
+- Überweisung an BKK: 6
+- Überweisung an RR zur Ausarbeitung einer Vorlage innert zwei Jahren: 6
+- nicht überwiesen / erledigt: 5
+- Überweisung an RR zur Stellungnahme innert 3 Monaten Frist: DATUM: 5
+- Überweisung an GSK: 5
+- Umwandlung MOT in ANZ Überweisung an RR: 5
+- Überweisung an Ratsbüro Frist: DATUM: 4
+- erledigt / Budgetpostulat abgelehnt: 4
+- Zustimmung zum Budgetpustolat: 4
+- Überweisung an RR zur Stellungnahme innert drei Monate Frist: DATUM: 4
+- Fristverlängerung 2 Jahre Frist: DATUM: 4
+- Überweisung zur Stellungnahme innert drei Monaten: 4
+
+## Vorstösse von FDP und LDP ohne Themenzuordnung
+
+- 26.5475 (LDP): Interpellation Nr. 115 Catherine Alioth betreffend eigentümerverträgliche Berechnung der Bruttogeschossfläche und Ausschöpfung des Verdichtungspotenzials
+- 26.5440 (FDP): Interpellation Nr. 113 Luca Urgese betreffend Überprüfung der Grundkompetenzen im Kanton Basel-Stadt und Schlussfolgerungen daraus
+- 26.5323 (FDP): Interpellation Nr. 83 Christian C. Moesch betreffend Frühpensionierung der Leiterin des BGI
+- 26.5321 (FDP): Anzug Luca Urgese und Alex Ebi betreffend Eingangstor für die Steinenvorstadt
+- 26.5312 (LDP): Motion Annina von Falkenstein betreffend Erarbeitung und Umsetzung eines Myopie-Präventionsprogramms
+- 26.5308 (FDP): Schriftliche Anfrage Silvia Schweizer betreffend Ergänzung der Basler Sprühnebler durch kostengünstige Sprühduschen nach Churer Vorbild
+- 26.5279 (FDP): Anzug David Jenny und Konsorten betreffend Milderung der Folgen teilweiser rechtlicher Unzulässigkeit einer Motion
+- 26.5278 (FDP): Anzug Silvia Schweizer und Konsorten betreffend Förderung der freiwilligen Erwerbstätigkeit nach Erreichen des Referenzalters
+- 26.5202 (FDP): Schriftliche Anfrage Luca Urgese betreffend Verhältnismässigkeit und Praxis der Bewilligungsverfahren für die Nutzung des öffentlichen Raums in Basel-Stadt
+- 26.5112 (LDP): Anzug Annina von Falkenstein und Konsorten betreffend Sicherung von Suizidhotspots
+- 26.5083 (FDP): Schriftliche Anfrage David Jenny betreffend "Beitritt der Stadt Basel zur «Swimmable Cities Alliance»" oder Schwumm ins Ungewisse mit welchen Konsequenzen?
+- 26.5045 (LDP): Interpellation Nr. 11 Annina von Falkenstein betreffend Korrespondenztonalität und Portopolitik des Kantons
+- 25.5534 (LDP): Interpellation Nr. 128 Michael Hug betreffend Beschäftigungslage im Kanton Basel-Stadt
+- 25.5521 (LDP): Schriftliche Anfrage Philip Karger betreffend Elias Frank-Haus in Basel
+- 25.5490 (FDP): Interpellation Nr. 122 Luca Urgese betreffend Dachterrasse auf der alten Hauptpost: eine verpasste Chance!
+- 25.5350 (LDP): Schriftliche Anfrage Philip Karger betreffend Kommunikation des Kantons
+- 25.5216 (FDP): Interpellation Nr. 51 Daniel Seiler betreffend Halbwertszeit eines Kompromisses in der Wettsteinallee
+- 25.5186 (LDP): Interpellation Nr. 42 Michael Hug betreffend Zwischennutzung des Sommercasinos durch den Verein Chateau Solaire
+- 25.5170 (LDP): Interpellation Nr. 32 Adrian Iselin betreffend Rücktritt des CEO der MCH Group
+- 25.5037 (LDP): Schriftliche Anfrage Philip Karger betreffend ein nachhaltiger Weihnachtsmarkt mit lokalem Angebot auf dem Petersplatz
+- 25.5004 (FDP): Interpellation Nr. 154 Silvia Schweizer betreffend Schutz vor K.O.-Tropfen: Dringende Massnahmen für sichere (Gross)anlässe in Basel
+- 24.5547 (LDP): Interpellation Nr. 153 Adrian Iselin betreffend Zukunft der Studios SRF im Meret Oppenheim-Haus in Basel
+- 24.5545 (LDP): Anzug Lydia Isler-Christ betreffend Teuerungsausgleich für Werkverträge per Ende Jahr
+- 24.5516 (LDP): Interpellation Nr. 149 Catherine Alioth betreffend den Baukubus auf dem Dach des Globus
+- 24.5467 (FDP): Interpellation Nr. 136 Daniel Seiler betreffend Umgestaltung der Römergasse
+- 24.5463 (LDP): Motion Michael Hug und Konsorten betreffend 10-Minuten-Nachbarschaften für Basel
+- 24.5459 (LDP): Interpellation Nr. 135 Alex Ebi betreffend dem weiteren Vorgehen bei der Doppelturnhalle Hirzbrunnen
+- 24.5435 (FDP): Interpellation Nr. 124 David Jenny betreffend gesicherte Zukunft des Sommercasinos
+- 24.5393 (LDP): Schriftliche Anfrage Alex Ebi betreffend Bekämpfung von Stechmücken und der Tigermücke
+- 24.5376 (LDP): Schriftliche Anfrage Philip Karger betreffend Bouleplatz beim K-Haus
+- 24.5372 (LDP): Schriftliche Anfrage Michael Hug betreffend Mehrwertabgabe auf Transformationsarealen
+- 24.5343 (LDP): Anzug Philip Karger und Konsorten betreffend Erhöhung des Angebots an Sitzplätzen in der Innerstadt im öffentlichen Raum
+- 24.5334 (LDP): Schriftliche Anfrage Annina von Falkenstein betreffend Case Management in der Demenzberatung
+- 24.5314 (FDP): Schriftliche Anfrage David Jenny betreffend "Nobody is perfect, aber sollte unser Kanton bei der Vertragsredaktion nicht doch gewisse Qualitätsanforderungen erfüllen?"
+- 24.5313 (FDP): Schriftliche Anfrage Christian C. Moesch betreffend Erstellung eines Verzeichnisses über die ambulante psychotherapeutische Versorgung unter Berücksichtigung aller Berufsgruppen
+- 24.5189 (LDP): Schriftliche Anfrage Alex Ebi betreffend 50 Meter Hallenbad
+- 24.5127 (LDP): Interpellation Nr. 37 Lukas Faesch betreffend das Aechzen über das Krächzen
+- 23.5508 (FDP): Schriftliche Anfrage Christian C. Moesch betreffend Demenzstrategie des Kantons
+- 23.5367 (LDP): Schriftliche Anfrage Michael Hug betreffend Verhalten des Fachausschusses Literatur bei der Behandlung des Fördergeld-Gesuches eines Schriftstellers
+- 23.5119 (LDP): Interpellation Nr. 35 Philip Karger betreffend ein würdiger Gerberbrunnen
+- 22.5403 (FDP): Anzug Luca Urgese und Konsorten betreffend Kenntnis der Unterrichtssprache als Grundlage
+- 22.5269 (LDP): Interpellation Nr. 62 Lukas Faesch betreffend unzumutbarer Zunahme von Rehschäden auf dem Friedhof Hörnli
+- 22.5248 (LDP): Anzug Annina von Falkenstein und Konsorten betreffend interdisziplinäre Studie zu den Folgen von Homeoffice
+- 22.5142 (LDP): Interpellation Nr. 27 Lydia Isler-Christ betreffend Information der Bevölkerung über die Krisenvorsorge im Zusammenhang mit dem Krieg in der Ukraine
+- 21.5647 (LDP): Anzug Lukas Faesch und Konsorten betreffend Abschaffung der metallenen Registrierungsmarke bei Hunden
+- 21.5499 (LDP): Interpellation Nr. 91 Michael Hug betreffend Verschlechterung der Dienstleistungen der Post durch Verzicht, Briefkästen wie bisher am Abend zu leeren
+- 21.5251 (LDP): Motion Annina von Falkenstein zur Änderung des Bestattungsgesetzes betreffend Publikation von Todesfällen
