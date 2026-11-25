@@ -231,8 +231,8 @@ def lade_vorstoesse(partei_von, themen_pd, korrekturen):
     return ges
 
 
-UEBERWIESEN = re.compile(r"^(Teilweise )?Überweisung (als (Motion|Anzug|Planungsanzug)|an (den )?RR(?! zur Stellungnahme))"
-                         r"|^Stehenlassen|^Stehen lassen|^Zustimmung", re.I)
+UEBERWIESEN = re.compile(r"^(Teilweise )?Überweisung (als|an)(?! (den )?RR zur Stellungnahme)(?! zur Stellungnahme)"
+                         r"|^Umwandlung|^Stehenlassen|^Stehen lassen|^Zustimmung|^Erfüllt", re.I)
 ABGELEHNT = re.compile(r"Nichtüberweisung|nicht überwiesen|^Ablehnung|nicht zugestimmt|abgelehnt", re.I)
 ZURUECK = re.compile(r"zurückgezogen|Rückzug", re.I)
 
@@ -302,14 +302,17 @@ def werte_abstimmungen(rows, themen_pd, korrekturen):
             v = votes[key] = {"datum": key[0], "nr": key[1], "sig": r.get("signatur_ges") or "",
                               "titel": (r.get("geschaeft") or "").strip(), "typ": typ,
                               "ja": zahl(r.get("anz_j")), "nein": zahl(r.get("anz_n")),
-                              "enth": zahl(r.get("anz_e")), "fr": defaultdict(Counter)}
+                              "enth": zahl(r.get("anz_e")), "fr": defaultdict(Counter), "groesse": Counter()}
         f = fraktion_norm(r.get("fraktion"))
         k = r.get("entscheid_mitglied")
+        if f:
+            v["groesse"][f] += 1
         if f and k in ("J", "N", "E"):
             v["fr"][f][k] += 1
 
     stats = {}
     differenzen = []
+    sitze = {}
     for leg in LEGISLATUREN:
         lid = leg["id"]
         vs = [v for v in votes.values() if leg_von(v["datum"]) == lid]
@@ -363,6 +366,13 @@ def werte_abstimmungen(rows, themen_pd, korrekturen):
                         "gewinnt": "FDP" if pos["FDP"] == ergebnis else "LDP",
                         "knapp": entscheidend,
                     })
+        # Sitze: häufigste Fraktionsgrösse in den ersten drei Monaten der Legislatur
+        frueh = [v for v in vs if v["datum"] <= (dt.date.fromisoformat(leg["von"]) + dt.timedelta(days=90)).isoformat()] or vs
+        sitze[lid] = {}
+        for p in PARTEIEN:
+            c = Counter(v["groesse"][p] for v in frueh if v["groesse"].get(p))
+            if c:
+                sitze[lid][p] = c.most_common(1)[0][0]
         stats[lid] = {
             "abstimmungen": len(vs),
             "beide": n_beide,
@@ -373,7 +383,7 @@ def werte_abstimmungen(rows, themen_pd, korrekturen):
             "pro_thema": {t: {"n": b, "einig": a} for t, (a, b) in pro_thema.items()},
         }
     differenzen.sort(key=lambda d: (d["datum"], zahl(d["nr"])), reverse=True)
-    return stats, differenzen
+    return stats, differenzen, sitze
 
 
 def werte_vorstoesse(ges, sitze):
@@ -423,7 +433,10 @@ def main():
     vermerke = lade_ergebnisse(ges)
     print("Abstimmungen", file=sys.stderr)
     rows = lade_abstimmungen()
-    abst, differenzen = werte_abstimmungen(rows, themen_pd, korrekturen)
+    abst, differenzen, sitze_fr = werte_abstimmungen(rows, themen_pd, korrekturen)
+    # Fraktionsgrösse aus den Abstimmungen ist verlässlicher als die Mitgliederliste
+    for lid, z in sitze_fr.items():
+        sitze.setdefault(lid, {}).update(z)
     zaehl, zusammen = werte_vorstoesse(ges, sitze)
 
     vorstoesse = sorted((e for e in ges.values() if e["partei"] in ("FDP", "LDP")),

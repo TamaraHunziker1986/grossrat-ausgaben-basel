@@ -15,7 +15,7 @@ THEMEN = [
         r"\bauto", r"motorfahr", r"tempo", r"\böv\b", r"\bbus", r"mobilit", r"fussg", r"signalis", r"rheintunnel",
         r"autobahn", r"zubringer", r"taxi", r"scooter", r"anliefer", r"lieferverkehr", r"margarethen", r"herzstück",
         r"bahn", r"\bsbb\b", r"fahrspur", r"kreisel", r"lichtsignal", r"ladestation", r"e-mobil"]},
-    {"name": "Wohnen, Bau und Stadtentwicklung", "stichworte": [
+    {"name": "Wohnen, Bau und Stadtentwicklung", "stichworte": [r"geschossfläche", r"verdicht", r"vorstadt", r"quartier", r"eigentüm", r"grundeigen", r"öffentlichen raum", r"allmend", 
         r"wohn", r"\bmiet", r"mieter", r"bebauungsplan", r"zonen", r"\bareal", r"richtplan", r"stadtentwickl",
         r"denkmal", r"stadtbild", r"klybeck", r"dreispitz", r"hochhaus", r"freiraum", r"bauland", r"baubewillig",
         r"\bbau(en|t|vorhaben|projekt|gesetz)", r"neubau", r"umbau", r"sanierung", r"liegenschaft", r"boden",
@@ -24,17 +24,17 @@ THEMEN = [
         r"steuer", r"budget", r"finanz", r"gebühr", r"\babgabe", r"schulden", r"defizit", r"überschuss",
         r"kredit", r"pensionskasse", r"kantonalbank", r"\bbkb\b", r"ausgaben", r"sparen", r"spar", r"tarif",
         r"lastenausgleich", r"\bnfa\b", r"erbschaft", r"vermögen", r"oecd", r"mindeststeuer"]},
-    {"name": "Wirtschaft, Gewerbe und Arbeit", "stichworte": [
+    {"name": "Wirtschaft, Gewerbe und Arbeit", "stichworte": [r"erwerbstätig", r"referenzalter", r"bewilligungsverfahren", r"\bbewilligung", r"gastgewerb", r"wirt", 
         r"wirtschaft", r"gewerbe", r"\bkmu", r"unternehm", r"detailhandel", r"gastro", r"restaurant", r"\bladen",
         r"läden", r"öffnungszeit", r"arbeitsmarkt", r"arbeitslos", r"mindestlohn", r"\blohn", r"löhne", r"messe",
         r"tourismus", r"standort", r"life.?science", r"pharma", r"start.?up", r"innovation", r"bürokrat",
         r"regulier", r"fachkräft", r"lehrstell", r"berufsbild", r"beschaffung", r"submission", r"arbeitsbeding",
         r"innenstadt", r"\bmarkt", r"fonds.*betrieb", r"handwerk", r"arbeitnehm", r"arbeitgeb", r"sonntagsverkauf"]},
-    {"name": "Bildung und Jugend", "stichworte": [
+    {"name": "Bildung und Jugend", "stichworte": [r"grundkompetenz", r"lehrplan", r"matur", r"lehrkräft", r"\bbks\b", 
         r"schul", r"bildung", r"lehrperson", r"lehrer", r"universit", r"\buni\b", r"fhnw", r"\bkita", r"tagesbetreu",
         r"tagesstruktur", r"kinder", r"jugend", r"gymnas", r"ausbildung", r"stipendi", r"lernende", r"frühförder",
         r"\beth\b", r"forschung", r"hochschul", r"musikschul"]},
-    {"name": "Gesundheit", "stichworte": [
+    {"name": "Gesundheit", "stichworte": [r"myopie", r"suizid", r"prävention", r"\bbgi\b", r"krankheit", r"psych", 
         r"gesundheit", r"spital", r"\busb\b", r"\bukbb\b", r"pflege", r"ärzt", r"arzt", r"medizin", r"psychiat",
         r"krankenkass", r"krankenvers", r"prämie", r"\bsucht", r"drogen", r"apothek", r"notfall", r"patient",
         r"impf", r"covid", r"corona", r"cannabis", r"hausarzt"]},
@@ -48,15 +48,15 @@ THEMEN = [
         r"\bdemo", r"kundgebung", r"littering", r"ordnung", r"feuerwehr", r"rettung", r"videoüberwach",
         r"überwachung", r"extremis", r"radikalis", r"terror", r"einbruch", r"vandal", r"sprayer", r"dreirosen",
         r"kleinbasel", r"messer", r"waffe", r"bettel", r"dealer", r"kontrolle"]},
-    {"name": "Umwelt, Klima und Energie", "stichworte": [
+    {"name": "Umwelt, Klima und Energie", "stichworte": [r"sprüh", r"kühl", r"schatten", r"brunnen", 
         r"klima", r"energie", r"umwelt", r"\bco2", r"solar", r"photovolt", r"fernwärme", r"\bgas", r"\bstrom",
         r"\biwb\b", r"lärm", r"abfall", r"recycl", r"\bwasser", r"biodivers", r"\bbaum", r"bäume", r"natur",
         r"hitze", r"netto.?null", r"emission", r"heizung", r"wärme", r"begrün", r"entsiegel", r"tier", r"lenkungsabgabe"]},
-    {"name": "Kultur, Sport und Freizeit", "stichworte": [
+    {"name": "Kultur, Sport und Freizeit", "stichworte": [r"schwumm", r"swimm", r"\brhein\b", r"badi", r"\bbad\b", 
         r"kultur", r"museum", r"museen", r"theater", r"musik", r"kunst", r"fasnacht", r"\bsport", r"stadion",
         r"schwimm", r"gartenbad", r"freizeit", r"\bclub", r"nachtleben", r"bibliothek", r"\besc\b", r"eurovision",
         r"veranstalt", r"anlass", r"\bevent", r"festival", r"\bzoo\b", r"rheinschwimm", r"herbstmesse", r"art basel"]},
-    {"name": "Staat, Verwaltung und Digitalisierung", "stichworte": [
+    {"name": "Staat, Verwaltung und Digitalisierung", "stichworte": [r"pensionier", r"\bmotion\b", r"rechtlich", r"kantonsangestellt", r"behörde", r"staatsangestellt", r"chef", r"leiter", 
         r"verwaltung", r"digital", r"regierung", r"grosse[nr]? rat", r"parlament", r"\bwahl", r"abstimm",
         r"stimmrecht", r"verfassung", r"gemeinde", r"riehen", r"bettingen", r"staatspersonal", r"personal",
         r"datenschutz", r"transparenz", r"e-government", r"informatik", r"\bit\b", r"öffentlichkeitsprinzip",
