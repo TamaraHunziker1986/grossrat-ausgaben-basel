@@ -114,6 +114,7 @@ BRANCHEN = [
                                 r"behindert|familie|kinder|jugend|ggg|caritas|heks|rotes kreuz|pro senectute|pro infirmis"),
     ("Bildung und Forschung", r"schul|universit|hochschul|bildung|fhnw|gymnas|forschung|institut|akadem|lehr"),
     ("Sport", r"sport|fc |fussball|tennis|ruder|schwimm|turn|ski|golf|club.*(sport|hockey|basket)|eishockey|handball|basketball"),
+    ("Verkehr und Infrastruktur", r"tcs|verkehr|aviati|schifffahrt|hafen|lötschberg|bahn|acs\b|astag|flughafen|euroairport"),
     ("Kirche", r"kirche|kirchgemeinde|reformiert|katholisch|pfarr|synode"),
     ("Partei und Politik", r"\bfdp\b|\bldp\b|freisinn|liberal|jungfreisinn|jungliberal|partei|quartierverein|neutrales quartier"),
     ("Staat und Gemeinden", r"bürgerrat|bürgergemeinde|gemeinderat|einwohnerrat|kommission|gericht|kanton|bund\b|amt\b"),
@@ -129,6 +130,8 @@ def branche(text, rubrik):
             return n
     if rubrik and "staatlich" in rubrik.lower():
         return "Staat und Gemeinden"
+    if re.search(r"verein", text, re.I):
+        return "Vereine und Quartier"
     return "Übrige"
 
 
@@ -411,7 +414,7 @@ def kommissionen(partei_von, legislaturen):
 
 # ---------------------------------------------------------------- 7 Wortmeldungen
 
-SPRECHER = re.compile(r"^\s*(?:[A-ZÄÖÜ][\w\-\.']+\s+){0,1}([A-ZÄÖÜ][\w\-\.'éèàç]+(?:\s+[A-ZÄÖÜ\(][\w\-\.'éèàç\)]+){0,4})\s*"
+SPRECHER = re.compile(r"^[ \t]*([A-ZÄÖÜ][\w\-\.'éèàç]+(?:[ \t]+[A-ZÄÖÜ][\w\-\.'éèàç]+){0,4})[ \t]*"
                       r"\((FDP|LDP|SP|SVP|GLP|Grüne|GRÜNE|BastA!?|BastA|Mitte|EVP|Mitte-EVP|jgb|JGB|GAB|fraktionslos)\)", re.M)
 
 
@@ -419,7 +422,11 @@ def wortmeldungen(legislaturen, partei_norm):
     cache = CACHE / "protokolle"
     cache.mkdir(parents=True, exist_ok=True)
     rows = export("100348", f"tag1>=date'{START}'", "tag1,url_vollprotokoll")
-    urls = sorted({(str(r.get("tag1"))[:10], r.get("url_vollprotokoll")) for r in rows if r.get("url_vollprotokoll")})
+    mit_url = {str(r.get("tag1"))[:10]: r.get("url_vollprotokoll") for r in rows if r.get("url_vollprotokoll")}
+    alle_tage = {str(r.get("tag1"))[:10] for r in rows if r.get("tag1")}
+    for t in alle_tage - set(mit_url):
+        mit_url[t] = f"https://grosserrat.bs.ch/media/files/ratsprotokolle/vollprotokoll_{t}.pdf"
+    urls = sorted(mit_url.items())
     zaehl = defaultdict(lambda: defaultdict(Counter))  # leg -> partei -> name -> anzahl
     sitzungen = Counter()
     beispiel = []
@@ -430,7 +437,7 @@ def wortmeldungen(legislaturen, partei_norm):
         f = cache / (datum + ".txt")
         if not f.exists():
             try:
-                pdf = get(url, binary=True)
+                pdf = get(url, binary=True, tries=1)
             except Exception as e:  # noqa: BLE001
                 fehler += 1
                 log(f"  Protokoll {datum}: {e}")
@@ -512,8 +519,9 @@ def mm_ldp():
             for k, z in enumerate(zeilen):
                 if z == "Medienmitteilung" and k + 2 < len(zeilen):
                     d = _datum_de(zeilen[k + 1])
-                    if d:
-                        out.append({"datum": d, "titel": zeilen[k + 2]})
+                    titel = next((x for x in zeilen[k + 2:k + 6] if len(x) > 8 and not _datum_de(x)), None)
+                    if d and titel:
+                        out.append({"datum": d, "titel": titel})
                         neu += 1
             if not neu or f"seite={seite + 1}" not in h:
                 break
