@@ -536,11 +536,19 @@ def main():
     # Fraktionsgrösse aus den Abstimmungen ist verlässlicher als die Mitgliederliste
     for lid, z in sitze_fr.items():
         sitze.setdefault(lid, {}).update(z)
-    zaehl, zusammen = werte_vorstoesse(ges, sitze)
 
     print("Zusätzliche Auswertungen", file=sys.stderr)
     import extras
     zusatz, zusatz_pruef = extras.alle(partei_von, LEGISLATUREN, leg_von, thema_von, partei_norm)
+    # Massgebend sind die gewählten Sitze (Wahlen 2020 für 2021-2025, Wahlen 2024 für 2025-2029)
+    wahl = zusatz.get("wahlen") or {}
+    for lid, jahr in (("2021", "2020"), ("2025", "2024")):
+        gew = (wahl.get(jahr) or {}).get("sitze") or {}
+        if sum(gew.values()) >= 95:
+            sitze[lid] = {p: n for p, n in gew.items() if p in PARTEIEN}
+        else:
+            zusatz_pruef.append(f"Sitze {lid}: Wahlresultat unvollständig ({gew}), Fraktionsgrösse verwendet")
+    zaehl, zusammen = werte_vorstoesse(ges, sitze)
 
     vorstoesse = sorted((e for e in ges.values() if e["partei"] in ("FDP", "LDP")),
                         key=lambda e: (e["datum"], e["sig"]), reverse=True)

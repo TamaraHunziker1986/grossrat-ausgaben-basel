@@ -365,14 +365,23 @@ def wahlen():
         for wk, c in stimmen.items():
             tot = sum(c.values())
             anteile[wk] = {p: round(100 * v / tot, 2) for p, v in c.items() if tot}
+        # Kantonaler Wähleranteil wie die Staatskanzlei: Parteistimmen je Wahlkreis durch die Zahl
+        # der Sitze im Wahlkreis teilen (Wählerzahlen), dann über die Wahlkreise zusammenzählen
+        sitze_wk = Counter()
+        for r in rows:
+            if (r.get("gewahlt") or "").lower().startswith("gew"):
+                sitze_wk[(r.get("wahlkreisbezeichnung") or "").replace("Wahlkreis ", "")] += 1
         total = Counter()
-        for c in stimmen.values():
-            total.update(c)
+        for wk, c in stimmen.items():
+            n = sitze_wk.get(wk) or 0
+            if n:
+                for p, v in c.items():
+                    total[p] += v / n
         tt = sum(total.values())
         anteile["Kanton"] = {p: round(100 * v / tt, 2) for p, v in total.items() if tt}
         out[jahr] = {"anteile": anteile, "fremd": {p: dict(c) for p, c in fremd.items()}, "sitze": dict(gewaehlt)}
     PRUEF.append("Wahlen: " + "; ".join(f"{j}: FDP {o['anteile']['Kanton'].get('FDP')} %, LDP {o['anteile']['Kanton'].get('LDP')} %, "
-                                          f"Sitze {o['sitze'].get('FDP')}/{o['sitze'].get('LDP')}" for j, o in out.items()))
+                                          f"Sitze {o['sitze'].get('FDP')}/{o['sitze'].get('LDP')}, total {sum(o['sitze'].values())}" for j, o in out.items()))
     return out
 
 

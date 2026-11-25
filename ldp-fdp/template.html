@@ -180,6 +180,7 @@ footer strong{font-family:Jost,Arial,sans-serif;font-size:17px}
     </div>
     <h3 class="unter">Alle Fraktionen im Vergleich</h3>
     <div class="tabelle"><table id="t-alle"></table></div>
+    <p class="klein">Sitze gemäss Wahlresultat. 2021–2025 traten Grüne und BastA! gemeinsam als Grünes Bündnis an (18 Sitze, hier bei den Grünen); für BastA! fehlen deshalb Sitze und Werte pro Sitz in dieser Legislatur. Die Mitte und die EVP bilden eine gemeinsame Fraktion, sind hier aber getrennt aufgeführt.</p>
   </section>
 
   <section id="zusammenarbeit">
@@ -227,7 +228,7 @@ footer strong{font-family:Jost,Arial,sans-serif;font-size:17px}
 
   <section id="wahlen">
     <h2>Wählerschaft</h2>
-    <p class="lead">Parteistimmenanteile bei den Grossratswahlen 2020 und 2024 nach Wahlkreis. Darunter: Von welchen Parteilisten die Kandidierenden von FDP und LDP ihre Fremdstimmen bekommen haben. Das zeigt, wie stark sich die Wählerschaften überschneiden.</p>
+    <p class="lead">Wähleranteile bei den Grossratswahlen 2020 und 2024 nach Wahlkreis. Der Wert für den Kanton ist wie bei der Staatskanzlei nach Wahlkreisgrösse gewichtet. Darunter: Von welchen Parteilisten die Kandidierenden von FDP und LDP ihre Fremdstimmen bekommen haben. Das zeigt, wie stark sich die Wählerschaften überschneiden.</p>
     <div class="tabelle"><table id="t-wahl"></table></div>
     <h3 class="unter">Woher die Fremdstimmen kommen</h3>
     <p class="lead klein" id="wahl-fremd-lead"></p>
@@ -296,7 +297,8 @@ function zeichneKacheln(){
   const ein = paar(s => s.ueberein.FDP.LDP);
   const diffs = D.differenzen.filter(inLeg);
   const vor = p => D.vorstoesse.filter(v => inLeg(v) && v.partei === p).length;
-  const sitzeTxt = p => { const s = legIds().map(id => (D.sitze[id]||{})[p]).filter(Boolean); return s.length ? s.join(" / ") + " Sitze" : ""; };
+  const sitzeTxt = p => { const s = legIds().map(id => (D.sitze[id]||{})[p] || 0);
+    return L === "alle" ? `${s[0]} Sitze 2021–2025, ${s[1]} Sitze 2025–2029` : `${s[0]} Sitze`; };
   document.getElementById("kacheln").innerHTML = [
     [fp(pct(...ein)), `gleiche Haltung von FDP und LDP in ${zahl(ein[1])} Abstimmungen`],
     [zahl(diffs.length), `Abstimmungen mit unterschiedlicher Haltung, ${diffs.filter(d => d.knapp).length} davon entscheidend`],
@@ -387,7 +389,7 @@ function zeichneArten(){
   const sitze = p => legIds().map(id => (D.sitze[id]||{})[p] || 0);
   const proSitz = p => { const s = sitze(p); const avg = s.reduce((a,b)=>a+b,0)/Math.max(1,s.filter(Boolean).length); return avg ? V.filter(v => v.partei === p).length / avg : null; };
   document.getElementById("arten-lead").textContent =
-    `Die FDP hatte zu Beginn der Legislatur ${sitze("FDP").join(" bzw. ")} Sitze, die LDP ${sitze("LDP").join(" bzw. ")}. ` +
+    `Gewählte Sitze ${L === "alle" ? "2021–2025 bzw. 2025–2029" : "in dieser Legislatur"}: FDP ${sitze("FDP").join(" bzw. ")}, LDP ${sitze("LDP").join(" bzw. ")}. ` +
     `Pro Sitz hat die FDP ${proSitz("FDP")?.toLocaleString("de-CH",{maximumFractionDigits:1}) ?? "–"} Vorstösse eingereicht, die LDP ${proSitz("LDP")?.toLocaleString("de-CH",{maximumFractionDigits:1}) ?? "–"}.`;
   const ts = [...new Set(V.map(v => v.typ))].sort((a,b) => V.filter(v=>v.typ===b).length - V.filter(v=>v.typ===a).length);
   document.getElementById("dl-arten").innerHTML = '<dt class="kopfzeile">Art</dt><dd class="kopfzeile">FDP</dd><dd class="kopfzeile">LDP</dd>' +
@@ -417,12 +419,12 @@ function zeichneArten(){
     zeile("zurückgezogen oder offen", v => isA(v) && (v.ergebnis === "zurückgezogen" || v.ergebnis === "offen")) +
     `<dt><b>Überweisungsquote</b></dt><dd>${q("FDP", v => isA(v) && v.ergebnis === "überwiesen", aent)}</dd><dd>${q("LDP", v => isA(v) && v.ergebnis === "überwiesen", aent)}</dd>`;
   // alle Fraktionen
-  const agg = {}; for (const p of D.parteien) agg[p] = {total:0, typen:{}, sitze:0};
-  for (const id of legIds()){ const z = D.vorstoss_zahlen[id] || {}; for (const p of D.parteien){ const x = z[p]; if(!x) continue; agg[p].total += x.total; agg[p].sitze += x.sitze||0; for (const [t,c] of Object.entries(x.typen)) agg[p].typen[t] = (agg[p].typen[t]||0) + c; } }
+  const agg = {}; for (const p of D.parteien) agg[p] = {total:0, typen:{}, sitze:0, luecke:false};
+  for (const id of legIds()){ const z = D.vorstoss_zahlen[id] || {}; for (const p of D.parteien){ const x = z[p]; if(!x) continue; agg[p].total += x.total; agg[p].sitze += x.sitze||0; if (!x.sitze) agg[p].luecke = true; for (const [t,c] of Object.entries(x.typen)) agg[p].typen[t] = (agg[p].typen[t]||0) + c; } }
   const nl = legIds().length;
   const haupt = ["Motion","Anzug","Interpellation","Schriftliche Anfrage","Budgetpostulat"];
   document.getElementById("t-alle").innerHTML = `<thead><tr><th>Fraktion</th><th class="num">Sitze</th><th class="num">Vorstösse</th><th class="num">pro Sitz</th>${haupt.map(h => `<th class="num">${h}</th>`).join("")}</tr></thead><tbody>` +
-    D.parteien.map(p => { const a = agg[p], s = a.sitze / nl; const b = (p==="FDP"||p==="LDP");
+    D.parteien.map(p => { const a = agg[p], s = a.luecke ? 0 : a.sitze / nl; const b = (p==="FDP"||p==="LDP");
       return `<tr${b ? ' style="background:#f3f7fc"' : ""}><td>${b ? "<b>"+p+"</b>" : p}</td><td class="num">${s ? s.toLocaleString("de-CH",{maximumFractionDigits:1}) : "–"}</td><td class="num">${a.total}</td><td class="num">${s ? (a.total/s).toLocaleString("de-CH",{maximumFractionDigits:1}) : "–"}</td>${haupt.map(h => `<td class="num">${a.typen[h]||0}</td>`).join("")}</tr>`; }).join("") +
     `</tbody>`;
 }
