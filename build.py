@@ -167,7 +167,7 @@ def beschluss_bloecke(text):
     t = re.sub(r"-\n(?=[a-zäöü])", "", t)
     t = re.sub(r"(Fr\.|CHF)\s*\n\s*", r"\1 ", t)
     t = re.sub(r"\n\s*Grosser Rat des Kantons Basel-Stadt\s*\n", "\n", t)
-    starts = [m.end() for m in re.finditer(r"beschliesst\s*:?", t, re.I)] or [0]
+    starts = [m.end() for m in re.finditer(r"beschliesst\s*:?|://:", t, re.I)] or [0]
     out = []
     for i, a in enumerate(starts):
         b = starts[i + 1] if i + 1 < len(starts) else len(t)
@@ -204,7 +204,7 @@ def segmente(block):
     for seg in segs:
         seg = re.sub(r"\s+", " ", seg).strip()
         # mehrere Beschlussziffern in einem Block: an Satzgrenzen vor typischen Satzanfängen trennen
-        out.extend(x for x in re.split(r"(?<=[a-zäöü\)»0-9]\.)\s+(?=(?:Der|Die|Das|Für|Es|Dem|Den|Ferner)\s)", seg) if x.strip())
+        out.extend(x for x in re.split(r"(?<=[a-zäöü\)»0-9]\.)\s+(?=(?:Für|Der Grosse Rat|Es wird|Es werden|Dem|Den|Ferner)\s)", seg) if x.strip())
     return out
 
 
@@ -538,7 +538,7 @@ def main():
         if not posten and url:
             # Budgetpostulate: Betrag steht oft im Fliesstext («um Fr. … erhöhen»)
             t = re.sub(r"\s+", " ", pdf_text(url))
-            m = re.search(r"um\s+((?:Fr\.|CHF)\s*" + NUM + r"\s*(Mio\.?)?)", t)
+            m = re.search(r"(?:um|zusätzlich)\s+((?:Fr\.|CHF)\s*" + NUM + r"\s*(Mio\.?)?)", t)
             if m:
                 posten = [{"art": "einmalig", "betrag": betrag(AMT.search(m.group(1))), "jahresbetrag": None,
                            "jahre": None, "quelle": t[max(0, m.start() - 200):m.end() + 100]}]
