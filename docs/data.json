@@ -44,6 +44,15 @@
     "Mitte",
     "EVP"
    ]
+  },
+  {
+   "id": "buergerlich",
+   "titel": "FDP, LDP und SVP",
+   "parteien": [
+    "FDP",
+    "LDP",
+    "SVP"
+   ]
   }
  ],
  "parteien": [
