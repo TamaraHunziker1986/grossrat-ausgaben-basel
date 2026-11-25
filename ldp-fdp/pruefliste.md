@@ -47,17 +47,6 @@ Stand 25.11.2026
 
 ## Vorstösse von FDP und LDP ohne Themenzuordnung
 
-- 26.5475 (LDP): Interpellation Nr. 115 Catherine Alioth betreffend eigentümerverträgliche Berechnung der Bruttogeschossfläche und Ausschöpfung des Verdichtungspotenzials
-- 26.5440 (FDP): Interpellation Nr. 113 Luca Urgese betreffend Überprüfung der Grundkompetenzen im Kanton Basel-Stadt und Schlussfolgerungen daraus
-- 26.5323 (FDP): Interpellation Nr. 83 Christian C. Moesch betreffend Frühpensionierung der Leiterin des BGI
-- 26.5321 (FDP): Anzug Luca Urgese und Alex Ebi betreffend Eingangstor für die Steinenvorstadt
-- 26.5312 (LDP): Motion Annina von Falkenstein betreffend Erarbeitung und Umsetzung eines Myopie-Präventionsprogramms
-- 26.5308 (FDP): Schriftliche Anfrage Silvia Schweizer betreffend Ergänzung der Basler Sprühnebler durch kostengünstige Sprühduschen nach Churer Vorbild
-- 26.5279 (FDP): Anzug David Jenny und Konsorten betreffend Milderung der Folgen teilweiser rechtlicher Unzulässigkeit einer Motion
-- 26.5278 (FDP): Anzug Silvia Schweizer und Konsorten betreffend Förderung der freiwilligen Erwerbstätigkeit nach Erreichen des Referenzalters
-- 26.5202 (FDP): Schriftliche Anfrage Luca Urgese betreffend Verhältnismässigkeit und Praxis der Bewilligungsverfahren für die Nutzung des öffentlichen Raums in Basel-Stadt
-- 26.5112 (LDP): Anzug Annina von Falkenstein und Konsorten betreffend Sicherung von Suizidhotspots
-- 26.5083 (FDP): Schriftliche Anfrage David Jenny betreffend "Beitritt der Stadt Basel zur «Swimmable Cities Alliance»" oder Schwumm ins Ungewisse mit welchen Konsequenzen?
 - 26.5045 (LDP): Interpellation Nr. 11 Annina von Falkenstein betreffend Korrespondenztonalität und Portopolitik des Kantons
 - 25.5534 (LDP): Interpellation Nr. 128 Michael Hug betreffend Beschäftigungslage im Kanton Basel-Stadt
 - 25.5521 (LDP): Schriftliche Anfrage Philip Karger betreffend Elias Frank-Haus in Basel
@@ -73,20 +62,16 @@ Stand 25.11.2026
 - 24.5516 (LDP): Interpellation Nr. 149 Catherine Alioth betreffend den Baukubus auf dem Dach des Globus
 - 24.5467 (FDP): Interpellation Nr. 136 Daniel Seiler betreffend Umgestaltung der Römergasse
 - 24.5463 (LDP): Motion Michael Hug und Konsorten betreffend 10-Minuten-Nachbarschaften für Basel
-- 24.5459 (LDP): Interpellation Nr. 135 Alex Ebi betreffend dem weiteren Vorgehen bei der Doppelturnhalle Hirzbrunnen
 - 24.5435 (FDP): Interpellation Nr. 124 David Jenny betreffend gesicherte Zukunft des Sommercasinos
 - 24.5393 (LDP): Schriftliche Anfrage Alex Ebi betreffend Bekämpfung von Stechmücken und der Tigermücke
 - 24.5376 (LDP): Schriftliche Anfrage Philip Karger betreffend Bouleplatz beim K-Haus
 - 24.5372 (LDP): Schriftliche Anfrage Michael Hug betreffend Mehrwertabgabe auf Transformationsarealen
-- 24.5343 (LDP): Anzug Philip Karger und Konsorten betreffend Erhöhung des Angebots an Sitzplätzen in der Innerstadt im öffentlichen Raum
 - 24.5334 (LDP): Schriftliche Anfrage Annina von Falkenstein betreffend Case Management in der Demenzberatung
 - 24.5314 (FDP): Schriftliche Anfrage David Jenny betreffend "Nobody is perfect, aber sollte unser Kanton bei der Vertragsredaktion nicht doch gewisse Qualitätsanforderungen erfüllen?"
-- 24.5313 (FDP): Schriftliche Anfrage Christian C. Moesch betreffend Erstellung eines Verzeichnisses über die ambulante psychotherapeutische Versorgung unter Berücksichtigung aller Berufsgruppen
 - 24.5189 (LDP): Schriftliche Anfrage Alex Ebi betreffend 50 Meter Hallenbad
 - 24.5127 (LDP): Interpellation Nr. 37 Lukas Faesch betreffend das Aechzen über das Krächzen
 - 23.5508 (FDP): Schriftliche Anfrage Christian C. Moesch betreffend Demenzstrategie des Kantons
 - 23.5367 (LDP): Schriftliche Anfrage Michael Hug betreffend Verhalten des Fachausschusses Literatur bei der Behandlung des Fördergeld-Gesuches eines Schriftstellers
-- 23.5119 (LDP): Interpellation Nr. 35 Philip Karger betreffend ein würdiger Gerberbrunnen
 - 22.5403 (FDP): Anzug Luca Urgese und Konsorten betreffend Kenntnis der Unterrichtssprache als Grundlage
 - 22.5269 (LDP): Interpellation Nr. 62 Lukas Faesch betreffend unzumutbarer Zunahme von Rehschäden auf dem Friedhof Hörnli
 - 22.5248 (LDP): Anzug Annina von Falkenstein und Konsorten betreffend interdisziplinäre Studie zu den Folgen von Homeoffice
