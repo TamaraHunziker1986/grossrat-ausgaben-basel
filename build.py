@@ -182,7 +182,7 @@ def beschluss_bloecke(text):
 NEUER_POSTEN = re.compile(r"^\s*(?:(?:\d{1,2}\.|[a-z][.)]|[IVX]+\.|[-–•])\s*$|(?:\d{1,2}\.|[a-z][.)]|[-–•])\s+\S|(?:Fr\.|CHF)\s*\d)")
 AUSGABE_WORT = re.compile(r"bewillig|genehmig|gewährt|zu ?Lasten|zulasten|Ausgabe|Aufwend|Aufwand|Folgekosten|Globalbeitrag|"
                           r"Staatsbeitr|Finanzhilfe|Kredit|Beitrag (an|von|in)|Darlehen", re.I)
-FREMDE_INVESTITION = re.compile(r"Investitionen der (IWB|BVB)|Investitionsrahmen|Gesamtinvestitionen", re.I)
+FREMDE_INVESTITION = re.compile(r"Investitionen der (IWB|BVB)|Investitionsrahmen|Gesamtinvestitionen|bikantonal|zur Kenntnis", re.I)
 
 
 WEITER = re.compile(r"(\bvon|\bauf|\bum|total|insgesamt|gesamthaft|\bbis|\bund|\bje|Höhe|,|\(|\d{4}:|;)\s*$", re.I)
@@ -200,7 +200,12 @@ def segmente(block):
             cur.append(line.strip())
     if cur:
         segs.append(" ".join(cur))
-    return [re.sub(r"\s+", " ", s).strip() for s in segs if s.strip()]
+    out = []
+    for seg in segs:
+        seg = re.sub(r"\s+", " ", seg).strip()
+        # mehrere Beschlussziffern in einem Block: an Satzgrenzen vor typischen Satzanfängen trennen
+        out.extend(x for x in re.split(r"(?<=[a-zäöü\)»0-9]\.)\s+(?=(?:Der|Die|Das|Für|Es|Dem|Den|Ferner)\s)", seg) if x.strip())
+    return out
 
 
 def posten_aus_block(block):
