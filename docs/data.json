@@ -3521,25 +3521,18 @@
    "beschluss": "https://grosserrat.bs.ch/dokumente/100405/000000405241.pdf",
    "posten": [
     {
-     "quelle": "Zur Finanzierung der Mehrkosten im Rahmen der Staatsbeiträge an das Theater Basel für die Jahre 2023/24 bis 2026/27 wird für das Jahr 2023 ein Nachtragskredit in der Höhe von Fr. 166'667 bewilligt (Präsidialdepartement, Dienststelle Abteilung Kultur, Kostenartengruppe 36 Staatsbeiträge).",
      "art": "einmalig",
-     "betrag": 166667,
+     "betrag": 191265888,
      "jahresbetrag": null,
-     "jahre": null
-    },
-    {
-     "quelle": "Für das Theater Basel werden Ausgaben in Höhe von Fr. 191'265'888 (Fr. 47'816'472 p. a.) für den Zeitraum vom 1. August 2023 bis 31. Juli 2027 bewilligt. Die Ausgaben setzen sich wie folgt zusammen: Grundstaatsbeitrag insgesamt Fr. 163'790'076 (Fr. 40'947'519 p. a. Spielzeit)",
-     "art": "befristet",
-     "betrag": 163790076,
-     "jahresbetrag": 47816472,
-     "jahre": null
+     "jahre": null,
+     "quelle": "korrigiert"
     }
    ],
-   "einmalig": 163956743,
+   "einmalig": 191265888,
    "jaehrlich": 0,
    "darlehen": 0,
-   "korrigiert": false,
-   "bemerkung": null,
+   "korrigiert": true,
+   "bemerkung": "Staatsbeiträge Theater Basel 1.8.2023 bis 31.7.2027 laut Grossratsbeschluss",
    "abstimmung": null
   },
   {
@@ -7962,6 +7955,13 @@
    "beschluss": "https://grosserrat.bs.ch/dokumente/100408/000000408891.pdf",
    "posten": [
     {
+     "quelle": "Fr. 1´315’000 neue Ausgaben für das Zaun- und Tormanagement zu Lasten der Investitionsrechnung Bau- und Verkehrsdepartement, Stadtgärtnerei, Investitionsbereich «Übrige»",
+     "art": "einmalig",
+     "betrag": 1315000,
+     "jahresbetrag": null,
+     "jahre": null
+    },
+    {
      "quelle": "Fr. 20‘000 jährlich wiederkehrende neue Ausgaben für den Unterhalt der automati-sierten Toranlage beim Friedhof am Hörnli zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements, Stadtgärtnerei",
      "art": "wiederkehrend",
      "betrag": 20000,
@@ -7969,7 +7969,7 @@
      "jahre": null
     }
    ],
-   "einmalig": 0,
+   "einmalig": 1315000,
    "jaehrlich": 20000,
    "darlehen": 0,
    "korrigiert": false,
@@ -14629,11 +14629,11 @@
    "urheber": "Cuénod, Tim",
    "partei": "SP",
    "miturheber": [],
-   "einmalig": 10157,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "geschätzt",
-   "quelle": "Ersatzabgabe: 2’284 Fr. / a Förderanteil insgesamt: 26 % Förderanteil insgesamt: Tabelle 4: Solarpflicht, Ersatzabgabe und Förderbeiträge für ein freistehendes Einfamilienhaus in Riehen 72 m2 16.7 kW 16.7 kW 38’840 Fr. 5’994 Fr. 4’163 Fr. 10'157 Fr. 26 % Seite 41/79 Regierungsrat des Kantons Basel-Stadt Reihen-Mehrfamilienhaus, Klybeck Gebäude PV-Anlage zur Pflichterfüllung Realisierte PV-Anlage Gebäudetyp: MRH Reihe Belegte Fläche: Belegte Fläche: 79 m2 Quartier: Klybeck PV-Leistung: PV-Leistun",
-   "quelle_url": "https://grosserrat.bs.ch/dokumente/100410/000000410358.pdf",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -14852,10 +14852,10 @@
    "miturheber": [],
    "einmalig": 350000,
    "jaehrlich": 0,
-   "status": "beziffert",
+   "status": "bewilligt",
    "quelle": "Begehren Mit diesem Ausgabenbericht beantragt der Regierungsrat dem Grossen Rat, einmalige Ausgaben in der Höhe von 350’000 Franken für die Bearbeitung eines Vorprojekts zu bewilligen zu Lasten der Investitionsrechnung, Investitionsbereich IB 1 («Stadtentwicklung & Allmendinfrastruktur», Städtebau & Architektur, Position 6510.300.20057).",
    "quelle_url": "https://grosserrat.bs.ch/dokumente/100407/000000407731.pdf",
-   "bemerkung": null
+   "bemerkung": "Ausgabenbericht zur Umsetzung, vom Grossen Rat bewilligt"
   },
   {
    "signatur": "21.5099",
@@ -14867,11 +14867,11 @@
    "urheber": "Herter, Balz",
    "partei": "Mitte",
    "miturheber": [],
-   "einmalig": 50000,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "beziffert",
-   "quelle": "Nach erfolgtem Bundesentscheid wurde ein Beitrag von 50'000 Franken zugesagt.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=21.5099.02",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -14935,11 +14935,11 @@
    "urheber": "Urgese, Luca",
    "partei": "FDP",
    "miturheber": [],
-   "einmalig": 37799,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "geschätzt",
-   "quelle": "Kosten der Nachanalyse: 37'798.90 Franken.",
-   "quelle_url": "https://grosserrat.bs.ch/dokumente/100413/000000413035.pdf",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -15088,11 +15088,11 @@
    "urheber": "Ebi, Alex",
    "partei": "LDP",
    "miturheber": [],
-   "einmalig": 200000,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "beziffert",
-   "quelle": "Januar 2024. 1.1 Machbarkeitsstudien Hallenbad Der Regierungsrat hat eine Planungspauschale von 200'000 Franken bewilligt, um die bauliche Machbarkeit des Hallenbads am ausgewählten Standort sowie die Kosten vertieft zu prüfen.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=20.5443.03",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -15105,11 +15105,11 @@
    "urheber": "Hug, Michael",
    "partei": "LDP",
    "miturheber": [],
-   "einmalig": 67300000,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "geschätzt",
-   "quelle": "Kap. 7.5.4). 7.7 Ausserordentliche Äufnung des Standortförderungsfonds Wie in Kap. 7.6.2 ausgeführt, werden für die Jahre 2023 – 2030 zur Umsetzung der neun Programme Gesamtausgaben von rund 67,3 Millionen Franken erwartet.",
-   "quelle_url": "https://grosserrat.bs.ch/dokumente/100405/000000405196.pdf",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -15246,11 +15246,11 @@
    "urheber": "Bolliger, Oliver",
    "partei": "BastA!",
    "miturheber": [],
-   "einmalig": 140000,
-   "jaehrlich": 200000,
-   "status": "geschätzt",
-   "quelle": "Die Folgekosten belaufen sich dabei auf rund 140'000 Franken.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=20.5473.03",
+   "einmalig": 0,
+   "jaehrlich": 0,
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -15433,11 +15433,11 @@
    "urheber": "Messerli, Pascal",
    "partei": "SVP",
    "miturheber": [],
-   "einmalig": 2800000,
-   "jaehrlich": 746000,
-   "status": "beziffert",
-   "quelle": "Der Grosse Rat bewilligte dazu ab 2019 jährlich wiederkehrende zusätzliche Ausgaben von 746'000 Franken.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=21.5495.02",
+   "einmalig": 0,
+   "jaehrlich": 0,
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -15540,11 +15540,11 @@
    "urheber": "UVEK",
    "partei": null,
    "miturheber": [],
-   "einmalig": 25000,
-   "jaehrlich": 100000,
-   "status": "geschätzt",
-   "quelle": "Pro Ladestation mit zwei Ladepunkten ist mit durchschnittlichen Kosten für die Grundinstallation von ca. 25'000 Franken zu rechnen.",
-   "quelle_url": "https://grosserrat.bs.ch/dokumente/100405/000000405286.pdf",
+   "einmalig": 0,
+   "jaehrlich": 0,
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -15575,10 +15575,10 @@
    "partei": null,
    "miturheber": [],
    "einmalig": 0,
-   "jaehrlich": 545600,
-   "status": "geschätzt",
-   "quelle": "Das jährliche Budget des Kantons verschlechtert sich unter daraus folgend per Saldo um rund 545’600 Franken aufgrund der effektiven Zusatzausgaben:  Kompetenzstelle Soziales Wohnen: Miet- und Betriebskosten Fr. 65'000 und 1 FTE zusätzlich: Fr. 111’600  Unterstützende Massnahmen: Fr. 255’000  Housing First erweitert: Fr. 94’000  Housing First plus: Fr. 760’000 – Fr. 740'000 bei Wegfall einer Notschlafstelle = Fr. 20'000. 2.",
-   "quelle_url": "https://grosserrat.bs.ch/dokumente/100406/000000406623.pdf",
+   "jaehrlich": 0,
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -15659,11 +15659,11 @@
    "urheber": "BRK",
    "partei": null,
    "miturheber": [],
-   "einmalig": 200000,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "geschätzt",
-   "quelle": "Die Kosten für die Realisierung der «Phase 1, Teilausbau 1» betragen 200'000 Franken.  Phase 1, Teilausbau 2: Nördlich der Brücke erfolgen bauliche Anpassungen am Strassenraum bis zur Nauenstrasse, insbesondere an der Querung der Veloroute.",
-   "quelle_url": "https://grosserrat.bs.ch/dokumente/100408/000000408767.pdf",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -15766,11 +15766,11 @@
    "urheber": "Pfister, Pascal",
    "partei": null,
    "miturheber": [],
-   "einmalig": 70000,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "beziffert",
-   "quelle": "Dies und 70’000 Franken Verwaltungskosten ergeben einen Gesamtbetrag von 4.870 Mio.",
-   "quelle_url": "https://grosserrat.bs.ch/dokumente/100402/000000402718.pdf",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -15783,11 +15783,11 @@
    "urheber": "Stöcklin, Jürg",
    "partei": null,
    "miturheber": [],
-   "einmalig": 10157,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "geschätzt",
-   "quelle": "Ersatzabgabe: 2’284 Fr. / a Förderanteil insgesamt: 26 % Förderanteil insgesamt: Tabelle 4: Solarpflicht, Ersatzabgabe und Förderbeiträge für ein freistehendes Einfamilienhaus in Riehen 72 m2 16.7 kW 16.7 kW 38’840 Fr. 5’994 Fr. 4’163 Fr. 10'157 Fr. 26 % Seite 41/79 Regierungsrat des Kantons Basel-Stadt Reihen-Mehrfamilienhaus, Klybeck Gebäude PV-Anlage zur Pflichterfüllung Realisierte PV-Anlage Gebäudetyp: MRH Reihe Belegte Fläche: Belegte Fläche: 79 m2 Quartier: Klybeck PV-Leistung: PV-Leistun",
-   "quelle_url": "https://grosserrat.bs.ch/dokumente/100410/000000410353.pdf",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -15885,11 +15885,11 @@
    "urheber": "WAK",
    "partei": null,
    "miturheber": [],
-   "einmalig": 30444,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "beziffert",
-   "quelle": "Der Mittelwert des Abzugs für tatsächliche Kosten betrug 30’444 Franken und der Medianwert 9’740 Franken.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=21.5708.03",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -15989,10 +15989,10 @@
    "miturheber": [],
    "einmalig": 5000000,
    "jaehrlich": 0,
-   "status": "beziffert",
+   "status": "bewilligt",
    "quelle": "August 2022, beschliesst: Für die Refinanzierung eines Corona-Bonus für das Gesundheitspersonal während der COVID19-Pandemie werden Ausgaben in der Höhe von Fr. 5'000’000 bewilligt.",
    "quelle_url": "https://grosserrat.bs.ch/dokumente/100402/000000402716.pdf",
-   "bemerkung": null
+   "bemerkung": "Corona-Bonus Gesundheitspersonal, vom Grossen Rat bewilligt"
   },
   {
    "signatur": "21.5244",
@@ -16094,11 +16094,11 @@
    "urheber": "SpezKo-Klima",
    "partei": null,
    "miturheber": [],
-   "einmalig": 1400000,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "geschätzt",
-   "quelle": "Im Szenario mit einem stärkeren Klimawandel ergeben sich im Vergleich zum begrenzten Klimawandel im Jahr 2035 Mehrkosten im Sektor Gesundheit von 1,4 Millionen Franken.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=21.5749.02",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -16213,12 +16213,12 @@
    "urheber": "Thiriet, Jérôme",
    "partei": "Grüne",
    "miturheber": [],
-   "einmalig": 454000,
+   "einmalig": 0,
    "jaehrlich": 741000,
    "status": "beziffert",
    "quelle": "Franken für die Beschaffung von zwanzig Winterdienstaggregaten (Pflug und Sohlestreuer) und von jährlich wiederkehrenden Betriebskosten von 741’000 Franken aus.",
    "quelle_url": "https://grosserrat.bs.ch/dokumente/100408/000000408444.pdf",
-   "bemerkung": null
+   "bemerkung": "Betriebskosten Winterdienst auf Trottoirs laut Regierung"
   },
   {
    "signatur": "21.5776",
@@ -16235,7 +16235,7 @@
    "status": "geschätzt",
    "quelle": "Beide Parlamente sind im Frühjahr 2023 den Anträgen nahezu einstimmig gefolgt. ‒ Welche Mehrkosten sind gegenüber einer oberirdischen Variante zu erwarten? Aufgrund der genannten beiden Machbarkeitsstudien sind für die Variante «tief» Mehrkosten von rund 170 Millionen Franken (bei einer Genauigkeit von ± 30%) gegenüber «hoch» zu erwarten.",
    "quelle_url": "https://grosserrat.bs.ch/?dnr=21.5776.04",
-   "bemerkung": null
+   "bemerkung": "Mehrkosten der Tieflage gegenüber oberirdischer Variante laut Machbarkeitsstudien (Genauigkeit plus/minus 30 Prozent)"
   },
   {
    "signatur": "21.5813",
@@ -16339,10 +16339,10 @@
    "miturheber": [],
    "einmalig": 0,
    "jaehrlich": 545600,
-   "status": "geschätzt",
+   "status": "beziffert",
    "quelle": "Das jährliche Budget des Kantons verschlechtert sich unter daraus folgend per Saldo um rund 545’600 Franken aufgrund der effektiven Zusatzausgaben:  Kompetenzstelle Soziales Wohnen: Miet- und Betriebskosten Fr. 65'000 und 1 FTE zusätzlich: Fr. 111’600  Unterstützende Massnahmen: Fr. 255’000  Housing First erweitert: Fr. 94’000  Housing First plus: Fr. 760’000 – Fr. 740'000 bei Wegfall einer Notschlafstelle = Fr. 20'000. 2.",
    "quelle_url": "https://grosserrat.bs.ch/dokumente/100406/000000406622.pdf",
-   "bemerkung": null
+   "bemerkung": "Zusatzausgaben laut Bericht der Regierung (gleicher Bericht wie Anzug 21.5513)"
   },
   {
    "signatur": "21.5833",
@@ -16354,11 +16354,11 @@
    "urheber": "Hug, Michael",
    "partei": "LDP",
    "miturheber": [],
-   "einmalig": 10157,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "geschätzt",
-   "quelle": "Ersatzabgabe: 2’284 Fr. / a Förderanteil insgesamt: 26 % Förderanteil insgesamt: Tabelle 4: Solarpflicht, Ersatzabgabe und Förderbeiträge für ein freistehendes Einfamilienhaus in Riehen 72 m2 16.7 kW 16.7 kW 38’840 Fr. 5’994 Fr. 4’163 Fr. 10'157 Fr. 26 % Seite 41/79 Regierungsrat des Kantons Basel-Stadt Reihen-Mehrfamilienhaus, Klybeck Gebäude PV-Anlage zur Pflichterfüllung Realisierte PV-Anlage Gebäudetyp: MRH Reihe Belegte Fläche: Belegte Fläche: 79 m2 Quartier: Klybeck PV-Leistung: PV-Leistun",
-   "quelle_url": "https://grosserrat.bs.ch/dokumente/100410/000000410357.pdf",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -16371,11 +16371,11 @@
    "urheber": "Mück, Heidi",
    "partei": "BastA!",
    "miturheber": [],
-   "einmalig": 220000,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "geschätzt",
-   "quelle": "Die Kosten für den Umbau der Stromversorgung betrugen rund 220'000 Franken. 2.2.2 Liegestellen GMS/TMS Dreirosen Seit 2023 steht der GMS und TMS ein Stromkasten mit 16 A-, 32 A- und 63 A-Steckern zur Verfügung.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=21.5487.03",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -16390,10 +16390,10 @@
    "miturheber": [],
    "einmalig": 0,
    "jaehrlich": 600000,
-   "status": "geschätzt",
+   "status": "beziffert",
    "quelle": "Die Umstellung auf das neue Nachtangebot im Dezember 2023 kostet zusätzlich rund 600'000 Franken pro Jahr.",
    "quelle_url": "https://grosserrat.bs.ch/?dnr=22.5039.02",
-   "bemerkung": null
+   "bemerkung": "Mehrkosten neues Nachtangebot laut Regierung"
   },
   {
    "signatur": "22.5023",
@@ -16445,11 +16445,11 @@
    "partei": "Grüne",
    "miturheber": [],
    "einmalig": 517000,
-   "jaehrlich": 45000,
-   "status": "geschätzt",
+   "jaehrlich": 0,
+   "status": "beziffert",
    "quelle": "Er beantragt, die Initiative abzulehnen und im Sinne eines Gegenvorschlags Ausgaben von 517'000 Franken für ein dreijähriges Pilotprojekt, das die Reaktivierung von drei ehemaligen Taubenschlägen und Begleitmassnahmen vorsieht, zu bewilligen.",
    "quelle_url": "https://grosserrat.bs.ch/dokumente/100411/000000411528.pdf",
-   "bemerkung": null
+   "bemerkung": "Pilotprojekt Stadttauben über drei Jahre (Gegenvorschlag)"
   },
   {
    "signatur": "22.5021",
@@ -16529,12 +16529,12 @@
    "urheber": "Cuénod, Tim",
    "partei": "SP",
    "miturheber": [],
-   "einmalig": 150000,
+   "einmalig": 0,
    "jaehrlich": 150000,
    "status": "geschätzt",
    "quelle": "Gemäss mündlichen Aussage resp.- Schätzung des Erziehungsdepartementes würde eine Ausdehnung dieser Regelung auf die Sekundarstufe l Kosten von rund 150’000 Franken pro Jahr zur Folge haben.",
    "quelle_url": "https://grosserrat.bs.ch/?dnr=22.5037.02",
-   "bemerkung": null
+   "bemerkung": "Schätzung Erziehungsdepartement"
   },
   {
    "signatur": "22.5053",
@@ -16565,10 +16565,10 @@
    "miturheber": [],
    "einmalig": 0,
    "jaehrlich": 220000,
-   "status": "geschätzt",
+   "status": "beziffert",
    "quelle": "Für die Umsetzung des Massnahmenpakets gegen Littering werden jährlich zusätzlich 220'000 Franken an Personalkosten für 200 Stellenprozente (HC) im Departement für Wirtschaft, Soziales und Umwelt (WSU) benötigt, die im Budget 2026 berücksichtigt werden.",
    "quelle_url": "https://grosserrat.bs.ch/dokumente/100409/000000409506.pdf",
-   "bemerkung": null
+   "bemerkung": "Personalkosten Massnahmenpaket Littering laut Regierung"
   },
   {
    "signatur": "22.5084",
@@ -16585,11 +16585,11 @@
      "partei": "EVP"
     }
    ],
-   "einmalig": 350000,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "beziffert",
-   "quelle": "Insgesamt beliefen sich die Ausgaben auf durchschnittlich 350’000 Franken im Jahr.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=22.5084.02",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -16653,11 +16653,11 @@
    "urheber": "Thommen, Oliver",
    "partei": "Grüne",
    "miturheber": [],
-   "einmalig": 30000,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "geschätzt",
-   "quelle": "Die Kosten für die Erarbeitung des Punktesystems betragen ca. 30'000 Franken.",
-   "quelle_url": "https://grosserrat.bs.ch/dokumente/100407/000000407947.pdf",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -16687,11 +16687,11 @@
    "urheber": "Sieber, Johannes",
    "partei": null,
    "miturheber": [],
-   "einmalig": 30000,
-   "jaehrlich": 100000,
-   "status": "geschätzt",
-   "quelle": "Seite 7/12 Regierungsrat des Kantons Basel-Stadt nur 12% aller Berechtigten nutzten das Angebot bis anhin, womit die geschätzten Kosten im Jahr 2024 bei 30'000 Franken lagen.13 Die umfassendste Medienförderung, mit einem Budget von insgesamt 6,2 Mio.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=22.5119.03",
+   "einmalig": 0,
+   "jaehrlich": 0,
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -16811,11 +16811,11 @@
      "partei": null
     }
    ],
-   "einmalig": 350000,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "beziffert",
-   "quelle": "Januar 2022 hat der Grosse Rat für das entsprechend Vorprojekt zur Neuorganisation und Umgestaltung des Bereichs Schifflände/Marktplatz einmalige Ausgaben von 350‘000 Franken bewilligt.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=22.5124.02",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -17003,11 +17003,11 @@
    "urheber": "Baumgartner, Beda",
    "partei": "SP",
    "miturheber": [],
-   "einmalig": 25000,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "beziffert",
-   "quelle": "Für die Jahre 2023 und 2024 wurde jeweils ein Beitrag von 25'000 Franken vereinbart, zusätzlich übernahm das GD anteilige Kosten des Vereins «Fundus Basel» für den Erfahrungswertbericht in der Höhe von 5’605.60 Franken.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=21.5810.03",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -17022,10 +17022,10 @@
    "miturheber": [],
    "einmalig": 750000,
    "jaehrlich": 0,
-   "status": "geschätzt",
+   "status": "bewilligt",
    "quelle": "Begehren Mit diesem Ausgabenbericht beantragen wir dem Grossen Rat, Ausgaben in Höhe von insgesamt 750’000 Franken für die Projektierung während den ersten drei Jahren des Zielnetzes Tempo 30, für die Projektierung zugehöriger flankierender Massnahmen zur Minimierung unerwünschter räumlicher Verkehrsverlagerungen, für die Projektierung von Massnahmen zur Beschleunigung des öffentlichen Verkehrs sowie für weitere Tempo 30-Einführungen im Rahmen des Zielnetzes, zu Lasten des Investitionsbereichs 1",
    "quelle_url": "https://grosserrat.bs.ch/dokumente/100412/000000412291.pdf",
-   "bemerkung": null
+   "bemerkung": "Ausgabenbericht zur Umsetzung, vom Grossen Rat bewilligt"
   },
   {
    "signatur": "21.5837",
@@ -17358,11 +17358,11 @@
    "urheber": "Hochuli, Christoph",
    "partei": "EVP",
    "miturheber": [],
-   "einmalig": 617150,
-   "jaehrlich": 12343,
-   "status": "beziffert",
-   "quelle": "Und nebenbei bemerkt: Gemäss den Angaben des Bundesamts für Statistik betragen die Nettoausgaben für Sozialhilfebeziehende im Kanton Basel-Stadt CHF 12'343 pro Jahr 1.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=22.5370.02",
+   "einmalig": 0,
+   "jaehrlich": 0,
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -17409,11 +17409,11 @@
    "urheber": "JSSK",
    "partei": null,
    "miturheber": [],
-   "einmalig": 300000,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "beziffert",
-   "quelle": "März 2012 (Finanzhaushaltgesetz; SG 610.100) sind Ausgaben über Fr. 300'000 dem Grossen Rat zum Beschluss vorzulegen.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=22.5065.02",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -17428,10 +17428,10 @@
    "miturheber": [],
    "einmalig": 570000,
    "jaehrlich": 0,
-   "status": "beziffert",
+   "status": "geschätzt",
    "quelle": "Darin enthalten ist eine vorübergehende Erhöhung des Personalaufwandes von 570’000 Franken, damit die bisherige Bearbeitungsdauer bei einer allfällig deutlichen Erhöhung der Anzahl Gesuche beibehalten werden kann.",
    "quelle_url": "https://grosserrat.bs.ch/dokumente/100411/000000411289.pdf",
-   "bemerkung": null
+   "bemerkung": "vorübergehende Erhöhung des Personalaufwands laut Regierung"
   },
   {
    "signatur": "22.5081",
@@ -17443,12 +17443,12 @@
    "urheber": "Bothe-Wenk, Sandra",
    "partei": "GLP",
    "miturheber": [],
-   "einmalig": 111000,
-   "jaehrlich": 0,
+   "einmalig": 0,
+   "jaehrlich": 111000,
    "status": "geschätzt",
    "quelle": "Basierend auf der Annahme, dass die Inanspruchnahme von Tagesferien bei 1'259 Schülerinnen und Schülern der Privatschulen gleich hoch ist wie bei den 11’227 Schülerinnen und Schülern der Volksschulen, ergeben sich geschätzte Mehrkosten von rund 111'000 Franken.",
    "quelle_url": "https://grosserrat.bs.ch/dokumente/100405/000000405428.pdf",
-   "bemerkung": null
+   "bemerkung": "Mehrkosten Tagesferien laut Schätzung Regierung"
   },
   {
    "signatur": "22.5161",
@@ -17567,11 +17567,11 @@
      "partei": null
     }
    ],
-   "einmalig": 2360000000,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "geschätzt",
-   "quelle": "Die Gesamtkosten werden auf CHF 2.36 Milliarden geschätzt.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=22.5414.02",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -17584,11 +17584,11 @@
    "urheber": "Kühne, Brigitte",
    "partei": "GLP",
    "miturheber": [],
-   "einmalig": 50000,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "geschätzt",
-   "quelle": "April 2024 hat der Grosse Rat im Rahmen des Ratschlags für die Umsetzung von Klimaanpassungs- und Hitzeschutzmassnahmen gemäss dem Stadtklimakonzept bereits Fr. 50’000 für Sachkosten für die Erarbeitung von Anreizsystemen zur Klimaanpassung für die Jahre 2025 bis 2026 bewilligt. 2.",
-   "quelle_url": "https://grosserrat.bs.ch/dokumente/100410/000000410706.pdf",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -17624,10 +17624,10 @@
    "partei": "SP",
    "miturheber": [],
    "einmalig": 0,
-   "jaehrlich": 13400,
-   "status": "geschätzt",
-   "quelle": "Im Zuge der parlamentarischen Beratung der ELG-Revision wurde zwar die jährliche Mindestpauschale für Betreuungsleistungen von 13'400 Franken auf 11'160 Franken gesenkt, weshalb die Kostenschätzungen im erläuternden Bericht des Bundes nicht mehr ganz aktuell sind.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=22.5421.03",
+   "jaehrlich": 0,
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -17708,12 +17708,12 @@
    "urheber": "Hochuli, Christoph",
    "partei": "EVP",
    "miturheber": [],
-   "einmalig": 0,
-   "jaehrlich": 1433025,
-   "status": "beziffert",
+   "einmalig": 1433025,
+   "jaehrlich": 0,
+   "status": "bewilligt",
    "quelle": "Begehren Mit vorliegendem Bericht beantragt der Regierungsrat dem Grossen Rat die Bewilligung von Ausgaben an den Verein Aliena für die Ausrichtung einer Finanzhilfe in Höhe von insgesamt 1'433'025 Franken (286'605 Franken p.a.) in den Jahren 2026 bis 2030 für den Aufbau und die Umsetzung eines Pilotprojekts zur Ausstiegshilfe für Sexarbeitende. 2.",
    "quelle_url": "https://grosserrat.bs.ch/dokumente/100411/000000411029.pdf",
-   "bemerkung": null
+   "bemerkung": "Finanzhilfe Verein Aliena, vom Grossen Rat bewilligt (Geschäft 25.1574)"
   },
   {
    "signatur": "22.5519",
@@ -18071,10 +18071,10 @@
    "partei": "SP",
    "miturheber": [],
    "einmalig": 0,
-   "jaehrlich": 80000,
-   "status": "geschätzt",
-   "quelle": "Pro Hundefreilaufzone muss zukünftig mit einem finanziellen Aufwand von ca. 80'000 Franken gerechnet werden und für den jährlichen Unterhalt fallen nochmals ca. 10’00015'000 Franken an.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=23.5091.02",
+   "jaehrlich": 0,
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -18126,11 +18126,11 @@
    "urheber": "Heer, Barbara",
    "partei": "SP",
    "miturheber": [],
-   "einmalig": 85000,
-   "jaehrlich": 746000,
-   "status": "beziffert",
-   "quelle": "Dezember 2018 hat der Grosse Rat des Kantons Basel-Stadt in diesem Zusammenhang zunächst jährlich wiederkehrende zusätzliche Ausgaben von 746'000 Franken bewilligt, damit das kantonale Polizeikorps um acht bewaffnete Sicherheitsassistentinnen und Sicherheitsassistenten aufgestockt werden konnte.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=23.5089.02",
+   "einmalig": 0,
+   "jaehrlich": 0,
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -18144,10 +18144,10 @@
    "partei": null,
    "miturheber": [],
    "einmalig": 0,
-   "jaehrlich": 20000,
-   "status": "beziffert",
-   "quelle": "Der Kanton fördert das Projekt deshalb seit 2019 mit einem eigenen Staatsbeitrag von 20'000 Franken p. a. und verpflichtet alle kantonalen Museen und seit 2021 auch Kulturinstitutionen mit Betriebsbeiträgen dazu, eine angemessene Vergünstigung für Personen mit «KulturLegi» anzubieten.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=23.5090.02",
+   "jaehrlich": 0,
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -18262,11 +18262,11 @@
    "urheber": "Lötscher-Steiger, Bruno",
    "partei": "Mitte",
    "miturheber": [],
-   "einmalig": 62000000,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "beziffert",
-   "quelle": "Aufgrund des Ausgabenwachstums der Universität und der finanziellen Lage des Kantons BaselLandschaft, welcher für das Jahr 2025 mit einem Defizit von 62 Millionen Franken rechnet, droht die paritätische Finanzierung noch weiter in Schieflage zu geraten.",
-   "quelle_url": "https://grosserrat.bs.ch/dokumente/100410/000000410733.pdf",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -18296,11 +18296,11 @@
    "urheber": "Bartha, Béla",
    "partei": "Grüne",
    "miturheber": [],
-   "einmalig": 50000,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "geschätzt",
-   "quelle": "April 2024 hat der Grosse Rat im Rahmen des Ratschlags für die Umsetzung von Klimaanpassungs- und Hitzeschutzmassnahmen gemäss dem Stadtklimakonzept bereits Fr. 50’000 für Sachkosten für die Erarbeitung von Anreizsystemen zur Klimaanpassung für die Jahre 2025 bis 2026 bewilligt. 2.",
-   "quelle_url": "https://grosserrat.bs.ch/dokumente/100410/000000410707.pdf",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -18313,11 +18313,11 @@
    "urheber": "Amacher, Nicole",
    "partei": "SP",
    "miturheber": [],
-   "einmalig": 50000000,
-   "jaehrlich": 125000000,
-   "status": "geschätzt",
-   "quelle": "Wenn ein Unternehmen beispielsweise infolge der 10 Prozentpunkt-Differenz beim Steuersatz in Basel-Stadt CHF 50 Mio. weniger versteuert als in München, dürfen die weiteren Kosten der Investition in Basel-Stadt maximal CHF 50 Mio. höher liegen.",
-   "quelle_url": "https://grosserrat.bs.ch/dokumente/100407/000000407750.pdf",
+   "einmalig": 0,
+   "jaehrlich": 0,
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -18381,12 +18381,12 @@
    "urheber": "Vergeat, Jo",
    "partei": "Grüne",
    "miturheber": [],
-   "einmalig": 5811000,
-   "jaehrlich": 5571000,
-   "status": "beziffert",
+   "einmalig": 5571000,
+   "jaehrlich": 240000,
+   "status": "bewilligt",
    "quelle": "Begehren Mit diesem Ratschlag werden einmalige neue Ausgaben zulasten der Investitionsrechnung in Höhe von 5'571'000 Franken im Jahr 2025 für die Realisierung eines Erdbebensimulators sowie jährlich wiederkehrende neue Ausgaben zulasten der Erfolgsrechnung in Höhe von 240'000 Franken für den Unterhalt und Betrieb ab dem Jahr 2029 beantragt. 2.",
    "quelle_url": "https://grosserrat.bs.ch/dokumente/100410/000000410144.pdf",
-   "bemerkung": null
+   "bemerkung": "Erdbebensimulator, vom Grossen Rat bewilligt (Geschäft 25.0711)"
   },
   {
    "signatur": "23.5234",
@@ -18432,11 +18432,11 @@
    "urheber": "Mathys, Lisa",
    "partei": "SP",
    "miturheber": [],
-   "einmalig": 14100,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "geschätzt",
-   "quelle": "Dadurch können folgende Staats- und Sozialversicherungskosten reduziert werden:  Arbeitslosenversicherung: Das SECO14 weist für die Schweiz im Jahr 2023 einen direkten Aufwand der Arbeitslosenversicherung für Auszahlungen von durchschnittlich rund 14’100 Franken je Taggeldbezügerin und Taggeldbezüger aus.15 Nicht inbegriffen sind dabei rund 785 Mio.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=23.5238.02",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -18484,10 +18484,10 @@
    "partei": "SP",
    "miturheber": [],
    "einmalig": 0,
-   "jaehrlich": 50000,
-   "status": "geschätzt",
-   "quelle": "Bei Finanzhilfen wird in der Regel auf den Personalkosten, wenn diese mindestens 70% der gesamten Betriebskosten ausmachen, entsprechend dem Finanzierungsanteil des Kantons jährlich ein Teuerungsausgleich gewährt, der sich nach der Entwicklung der Personalteuerung beim Kanton richtet. 2 Keine Anpassung an die Teuerung gemäss Abs. 1 erfolgt bei Finanzhilfen bis jährlich 50'000 Franken. 3 Von den Regelungen gemäss Abs. 1 und 2 kann abgewichen werden bei Vollzugsaufgaben des Bundes oder bei mit and",
-   "quelle_url": "https://grosserrat.bs.ch/dokumente/100410/000000410990.pdf",
+   "jaehrlich": 0,
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -18522,7 +18522,7 @@
    "status": "beziffert",
    "quelle": "Der erwartete zusätzliche Verwaltungsaufwand entspricht einer Vollzeitstelle von 120'000 Franken pro Jahr.",
    "quelle_url": "https://grosserrat.bs.ch/dokumente/100409/000000409292.pdf",
-   "bemerkung": null
+   "bemerkung": "zusätzlicher Verwaltungsaufwand, eine Vollzeitstelle"
   },
   {
    "signatur": "23.5243",
@@ -18568,11 +18568,11 @@
    "urheber": "Baumgartner, Beda",
    "partei": "SP",
    "miturheber": [],
-   "einmalig": 50000000,
-   "jaehrlich": 125000000,
-   "status": "geschätzt",
-   "quelle": "Wenn ein Unternehmen beispielsweise infolge der 10 Prozentpunkt-Differenz beim Steuersatz in Basel-Stadt CHF 50 Mio. weniger versteuert als in München, dürfen die weiteren Kosten der Investition in Basel-Stadt maximal CHF 50 Mio. höher liegen.",
-   "quelle_url": "https://grosserrat.bs.ch/dokumente/100407/000000407747.pdf",
+   "einmalig": 0,
+   "jaehrlich": 0,
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -18585,11 +18585,11 @@
    "urheber": "Pfister, Pascal",
    "partei": null,
    "miturheber": [],
-   "einmalig": 50000000,
-   "jaehrlich": 125000000,
-   "status": "geschätzt",
-   "quelle": "Wenn ein Unternehmen beispielsweise infolge der 10 Prozentpunkt-Differenz beim Steuersatz in Basel-Stadt CHF 50 Mio. weniger versteuert als in München, dürfen die weiteren Kosten der Investition in Basel-Stadt maximal CHF 50 Mio. höher liegen.",
-   "quelle_url": "https://grosserrat.bs.ch/dokumente/100407/000000407748.pdf",
+   "einmalig": 0,
+   "jaehrlich": 0,
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -18681,10 +18681,10 @@
    "partei": "SP",
    "miturheber": [],
    "einmalig": 0,
-   "jaehrlich": 390000,
-   "status": "beziffert",
-   "quelle": "Im Rahmen der Gesundheitsprävention werden die Beratungsstellen von Pro Infirmis und der Stiftung Rheinleben als Angebote der privaten Behindertenhilfe mit zusätzlichen kantonalen Finanzhilfen in Höhe von insgesamt 390'000 Franken pro Jahr unterstützt;12 dies, da die Kostendeckung des Bundes nicht ausreichend ist und zudem auch Personen ohne bereits gesprochene IV-Rente - Voraussetzung für Leistungen des Bundes - dort ebenfalls die notwendige Unterstützung bekommen.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=23.5342.02",
+   "jaehrlich": 0,
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -18714,11 +18714,11 @@
    "urheber": "Trevisan, Amina",
    "partei": "SP",
    "miturheber": [],
-   "einmalig": 10188,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "beziffert",
-   "quelle": "Im Kanton Waadt liegt der Stipendienaufwand mit einem Durchschnitt von CHF 10’188 schweizweit am höchsten.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=23.5298.02",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -19285,11 +19285,11 @@
    "urheber": "Mathys, Lisa",
    "partei": "SP",
    "miturheber": [],
-   "einmalig": 8500000,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "beziffert",
-   "quelle": "Ausgangslage 1.1 Stand des Photovoltaik-Ausbaus Eine Rahmenausgabenbewilligung in der Höhe von 8'500'000 Franken für die Projektierung und Erstellung von Photovoltaik-Anlagen wurde vom Grosse Rat am 9.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=23.5515.02",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -19455,11 +19455,11 @@
    "urheber": "Perret, Jean-Luc",
    "partei": "SP",
    "miturheber": [],
-   "einmalig": 10000,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "geschätzt",
-   "quelle": "Der Kanton schreibt den Einbau erneuerbarer Heizungen nicht nur vor, er subventioniert sie auch mit beträchtlichen Beiträgen an die Investitionen: Für eine Luft/Wasser- Wärmepumpe 8000 bis 10'000 Franken, für eine Sole/Wasser-Wärmepumpe bis zu 30’000 Franken.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=23.5531.02",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -19506,11 +19506,11 @@
    "urheber": "Perret, Jean-Luc",
    "partei": "SP",
    "miturheber": [],
-   "einmalig": 50000,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "beziffert",
-   "quelle": "Beispielhaltestelle Spalentor Typ «Schuhschachtel» Beispielhaltestelle Nasenweg Typ «Furrer» Kosten für den Re-Use der Wartehalle 79'000 Fr. 50'000 Fr.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=23.5530.03",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -19608,11 +19608,11 @@
    "urheber": "Karger, Philip",
    "partei": "LDP",
    "miturheber": [],
-   "einmalig": 2800000,
-   "jaehrlich": 85000,
-   "status": "beziffert",
-   "quelle": "Die Adaption des neuen Standortes wurde mit einem Investitionsbeitrag von 2.8 Millionen Franken unterstützt.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=23.5571.02",
+   "einmalig": 0,
+   "jaehrlich": 0,
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -19715,7 +19715,7 @@
    "status": "geschätzt",
    "quelle": "Basierend auf den Kosten der Bürgergemeinde Basel würden sich die mutmasslichen externen Kosten für 92’000 separat verschickte Wahlwerbematerial-Couverts (Stimmberechtigte plus Reserve) bei kantonalen Gesamterneuerungswahlen auf rund 126'000 Franken für Verpackung, Versand und Porti (B-Post) belaufen.",
    "quelle_url": "https://grosserrat.bs.ch/?dnr=23.5602.02",
-   "bemerkung": null
+   "bemerkung": "Kosten pro kantonale Gesamterneuerungswahl laut Regierung"
   },
   {
    "signatur": "23.5269",
@@ -20004,11 +20004,11 @@
    "urheber": "Brigger, René",
    "partei": null,
    "miturheber": [],
-   "einmalig": 10157,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "geschätzt",
-   "quelle": "Ersatzabgabe: 2’284 Fr. / a Förderanteil insgesamt: 26 % Förderanteil insgesamt: Tabelle 4: Solarpflicht, Ersatzabgabe und Förderbeiträge für ein freistehendes Einfamilienhaus in Riehen 72 m2 16.7 kW 16.7 kW 38’840 Fr. 5’994 Fr. 4’163 Fr. 10'157 Fr. 26 % Seite 41/79 Regierungsrat des Kantons Basel-Stadt Reihen-Mehrfamilienhaus, Klybeck Gebäude PV-Anlage zur Pflichterfüllung Realisierte PV-Anlage Gebäudetyp: MRH Reihe Belegte Fläche: Belegte Fläche: 79 m2 Quartier: Klybeck PV-Leistung: PV-Leistun",
-   "quelle_url": "https://grosserrat.bs.ch/dokumente/100410/000000410354.pdf",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -20107,10 +20107,10 @@
    "partei": "SP",
    "miturheber": [],
    "einmalig": 0,
-   "jaehrlich": 650000,
-   "status": "geschätzt",
-   "quelle": "Bei einer Verpflichtung der 42 Pflegeheime im Kanton Basel-Stadt zu einer Zertifizierung ist somit von wiederkehrenden Kosten von mindestens rund 650'000 Franken auszugehen.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=24.5066.02",
+   "jaehrlich": 0,
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -20145,12 +20145,12 @@
      "partei": "LDP"
     }
    ],
-   "einmalig": 3900000,
+   "einmalig": 0,
    "jaehrlich": 500000,
    "status": "geschätzt",
    "quelle": "Bei einem Teuerungsausgleich von 0.75 % würden sich die zusätzlichen Lohnkosten auf rund 500'000 Franken pro Jahr belaufen.",
    "quelle_url": "https://grosserrat.bs.ch/dokumente/100412/000000412259.pdf",
-   "bemerkung": null
+   "bemerkung": "zusätzliche Lohnkosten bei 0,75 Prozent Teuerungsausgleich laut Regierung"
   },
   {
    "signatur": "24.5144",
@@ -20349,12 +20349,12 @@
    "urheber": "Hochuli, Christoph",
    "partei": "EVP",
    "miturheber": [],
-   "einmalig": 400000,
-   "jaehrlich": 0,
+   "einmalig": 0,
+   "jaehrlich": 400000,
    "status": "geschätzt",
    "quelle": "Ausgehend von aktuell 2'379 anspruchsberechtigten EL-Bezügerinnen und -Bezügern, die im Heim oder Spital leben, führt die Verordnungsanpassung im Einführungsjahr zu Mehrausgaben von rund 400'000 Franken.",
    "quelle_url": "https://grosserrat.bs.ch/?dnr=24.5142.02",
-   "bemerkung": null
+   "bemerkung": "Mehrausgaben im Einführungsjahr laut Regierung"
   },
   {
    "signatur": "23.5590",
@@ -20417,11 +20417,11 @@
    "urheber": "Fuhrer, Raphael",
    "partei": null,
    "miturheber": [],
-   "einmalig": 26147,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "beziffert",
-   "quelle": "Für eine Person kostet er regulär 177 Franken für ein Jahr, anlässlich des 30-jährigen Jubiläums für das Jahr 2026 147 Franken. 2024 wurde der Schweizer Museumspass bei knapp 107'000 Eintritten gezeigt.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=24.5098.02",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -20434,11 +20434,11 @@
    "urheber": "Vergeat, Jo",
    "partei": "Grüne",
    "miturheber": [],
-   "einmalig": 14000,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "geschätzt",
-   "quelle": "Insgesamt mussten rund zehn Tonnen Abfall entsorgt werden, was zusätzliche Kosten von rund 14'000 Franken verursachte.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=24.5099.02",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -20473,7 +20473,7 @@
    "status": "geschätzt",
    "quelle": "Die Umsetzung der Massnahmen führt zu Mehrkosten im Bereich von etwa 40'000 Franken jährlich.",
    "quelle_url": "https://grosserrat.bs.ch/?dnr=24.5108.02",
-   "bemerkung": null
+   "bemerkung": "Mehrkosten laut Regierung"
   },
   {
    "signatur": "24.5140",
@@ -20672,11 +20672,11 @@
    "urheber": "Lötscher-Steiger, Bruno",
    "partei": "Mitte",
    "miturheber": [],
-   "einmalig": 10157,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "geschätzt",
-   "quelle": "Ersatzabgabe: 2’284 Fr. / a Förderanteil insgesamt: 26 % Förderanteil insgesamt: Tabelle 4: Solarpflicht, Ersatzabgabe und Förderbeiträge für ein freistehendes Einfamilienhaus in Riehen 72 m2 16.7 kW 16.7 kW 38’840 Fr. 5’994 Fr. 4’163 Fr. 10'157 Fr. 26 % Seite 41/79 Regierungsrat des Kantons Basel-Stadt Reihen-Mehrfamilienhaus, Klybeck Gebäude PV-Anlage zur Pflichterfüllung Realisierte PV-Anlage Gebäudetyp: MRH Reihe Belegte Fläche: Belegte Fläche: 79 m2 Quartier: Klybeck PV-Leistung: PV-Leistun",
-   "quelle_url": "https://grosserrat.bs.ch/dokumente/100410/000000410355.pdf",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -20825,11 +20825,11 @@
    "urheber": "Trevisan, Amina",
    "partei": "SP",
    "miturheber": [],
-   "einmalig": 62000000,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "beziffert",
-   "quelle": "Aufgrund des Ausgabenwachstums der Universität und der finanziellen Lage des Kantons BaselLandschaft, welcher für das Jahr 2025 mit einem Defizit von 62 Millionen Franken rechnet, droht die paritätische Finanzierung noch weiter in Schieflage zu geraten.",
-   "quelle_url": "https://grosserrat.bs.ch/dokumente/100410/000000410734.pdf",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -20997,10 +20997,10 @@
    "miturheber": [],
    "einmalig": 300000,
    "jaehrlich": 0,
-   "status": "beziffert",
+   "status": "geschätzt",
    "quelle": "Ein solcher Pilotversuch würde 200'000 bis 300'000 Franken kosten (AppKosten, Projektleitung, Wirkungskontrolle, Markierung/Signalisation).",
    "quelle_url": "https://grosserrat.bs.ch/?dnr=24.5466.02",
-   "bemerkung": null
+   "bemerkung": "Pilotversuch, laut Regierung 200'000 bis 300'000 Franken"
   },
   {
    "signatur": "24.5250",
@@ -21787,11 +21787,11 @@
    "urheber": "Albietz, Daniel",
    "partei": "Mitte",
    "miturheber": [],
-   "einmalig": 40000000,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "geschätzt",
-   "quelle": "Dem Grossen Rat ist innerhalb eines Jahres eine entsprechende Rahmenausgabenbewilligung in der Höhe von mindestens 40 Millionen Franken vorzulegen.",
-   "quelle_url": "https://grosserrat.bs.ch/dokumente/100412/000000412488.pdf",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -21809,11 +21809,11 @@
      "partei": "LDP"
     }
    ],
-   "einmalig": 10157,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "geschätzt",
-   "quelle": "Ersatzabgabe: 2’284 Fr. / a Förderanteil insgesamt: 26 % Förderanteil insgesamt: Tabelle 4: Solarpflicht, Ersatzabgabe und Förderbeiträge für ein freistehendes Einfamilienhaus in Riehen 72 m2 16.7 kW 16.7 kW 38’840 Fr. 5’994 Fr. 4’163 Fr. 10'157 Fr. 26 % Seite 41/79 Regierungsrat des Kantons Basel-Stadt Reihen-Mehrfamilienhaus, Klybeck Gebäude PV-Anlage zur Pflichterfüllung Realisierte PV-Anlage Gebäudetyp: MRH Reihe Belegte Fläche: Belegte Fläche: 79 m2 Quartier: Klybeck PV-Leistung: PV-Leistun",
-   "quelle_url": "https://grosserrat.bs.ch/dokumente/100410/000000410356.pdf",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -21895,10 +21895,10 @@
    "partei": "SP",
    "miturheber": [],
    "einmalig": 0,
-   "jaehrlich": 24000,
-   "status": "beziffert",
-   "quelle": "Der Kanton leistet zur Finanzierung der ärztlichen Weiterbildung gestützt auf die RAB GWL 2022–2025 einen Beitrag von 24'000 Franken pro Jahr und Assistenzärztin/-arzt (Vollzeitäquivalent) an Universitätsspitäler und von 15'000 Franken pro Jahr und Assistenzärztin/-arzt (Vollzeitäquivalent) an nicht-universitäre Spitäler.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=24.5395.02",
+   "jaehrlich": 0,
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -21912,10 +21912,10 @@
    "partei": null,
    "miturheber": [],
    "einmalig": 0,
-   "jaehrlich": 287000000,
-   "status": "geschätzt",
-   "quelle": "Laut einer Untersuchung betragen die direkten Kosten (z.B. Ausgaben für Polizei und Justiz) und indirekten Kosten (wie gesundheitliche Folgen, Rentenzahlungen aufgrund dauerhafter Erwerbsunfähigkeit oder Produktivitätsverluste für die Wirtschaft) im Zusammenhang mit Gewalt in Paarbeziehungen je nach Berechnungsgrundlage (Prävalenzraten) schweizweit jährlich etwa 164 bis 287 Millionen Franken.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=24.5303.03",
+   "jaehrlich": 0,
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -22177,10 +22177,10 @@
    "partei": "LDP",
    "miturheber": [],
    "einmalig": 0,
-   "jaehrlich": 180000,
-   "status": "geschätzt",
-   "quelle": "Im Ratschlag zur Investition wird dargelegt, dass die Betriebskosten der GGG nach Erweiterung um rund 180'000 Franken pro Jahr steigen werden und dass die GGG hierfür eine Erhöhung der Staatsbeiträge für die Periode 2026–2029 beantragen wird.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=24.5350.02",
+   "jaehrlich": 0,
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -22296,10 +22296,10 @@
    "partei": "BastA!",
    "miturheber": [],
    "einmalig": 0,
-   "jaehrlich": 600000,
-   "status": "geschätzt",
-   "quelle": "In der Antwort des Regierungsrats auf die schriftliche Anfrage von Oliver Bolliger (24.5307.02) werden die jährlichen Transportkosten auf rund CHF 600‘000 Franken geschätzt – dies sind knapp 0.4% der Gesamtkosten der IFEG-Leistungen.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=25.5143.01",
+   "jaehrlich": 0,
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -22645,11 +22645,11 @@
    "urheber": "Sieber, Johannes",
    "partei": null,
    "miturheber": [],
-   "einmalig": 30000,
-   "jaehrlich": 100000,
-   "status": "geschätzt",
-   "quelle": "Seite 7/12 Regierungsrat des Kantons Basel-Stadt nur 12% aller Berechtigten nutzten das Angebot bis anhin, womit die geschätzten Kosten im Jahr 2024 bei 30'000 Franken lagen.13 Die umfassendste Medienförderung, mit einem Budget von insgesamt 6,2 Mio.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=25.5090.03",
+   "einmalig": 0,
+   "jaehrlich": 0,
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -23500,11 +23500,11 @@
    "urheber": "Perret, Jean-Luc",
    "partei": "SP",
    "miturheber": [],
-   "einmalig": 190000,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "beziffert",
-   "quelle": "Anzug betreffend irreführende Verwendung des Begriffs «Ranger» auf der Dreirosenanlage 25.5586.01 Der Regierungsrat hat unlängst für die ganzjährige Weiterführung des sogenannten Rangerdienstes auf der Dreirosenanlage im Jahr 2026 Ausgaben in der Höhe von 190’000 Franken genehmigt.",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=25.5586.01",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
@@ -24322,11 +24322,11 @@
    "urheber": "Vergeat, Jo",
    "partei": "Grüne",
    "miturheber": [],
-   "einmalig": 30000,
+   "einmalig": 0,
    "jaehrlich": 0,
-   "status": "geschätzt",
-   "quelle": "Zudem ist gemäss § 42 Abs. 2 GO eine Motion unzulässig, die einwirken will auf  den verfassungsrechtlichen Zuständigkeitsbereich des Regierungsrats,  einen Einzelfallentscheid,  einen in gesetzlich geordnetem Verfahren zu treffenden Entscheid oder  einen Beschwerdeentscheid. 1.2 Motionsforderung Mit der vorliegenden Motion wird der Regierungsrat beauftragt, «die Verordnung zum SwisslosFonds Basel-Stadt und die kantonale Praxis dahingehend anzupassen, dass für Festivals, die einen Beitrag von",
-   "quelle_url": "https://grosserrat.bs.ch/?dnr=25.5581.02",
+   "status": "offen",
+   "quelle": null,
+   "quelle_url": null,
    "bemerkung": null
   },
   {
