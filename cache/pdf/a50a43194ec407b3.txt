@@ -1,0 +1,4634 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+23.0896.01
+21.5234.03
+
+WSU/P230896, P215234
+Basel, 28. Juni 2023
+Regierungsratsbeschluss vom 27. Juni 2023
+
+Ratschlag zur Förderung der Ladeinfrastruktur in Parkhäusern und
+Parkierungsanlagen
+ Beiträge zur Förderung der Ladeinfrastruktur in Parkhäusern und Parkierungsanlagen
+ Teilrevision Umweltschutzgesetz Basel-Stadt (USG BS)
+ Teilrevision Energiegesetz (EnG)
+sowie
+
+Motion der Umwelt, Verkehrs- und Energiekommission betreffend «einem raschen
+Ausbau der Ladeinfrastruktur für E-Autos in Basel-Stadt»
+
+Den Mitgliedern des Grossen Rates des Kantons Basel-Stadt zugestellt am 14. Juli 2023.
+
+Seite 1/32
+
+Regierungsrat des Kantons Basel-Stadt
+
+Inhalt
+1. Begehren .................................................................................................................... 4
+2. Ausgangslage ............................................................................................................ 4
+2.1
+2.2
+2.3
+
+Einleitung ................................................................................................................................. 4
+Forderungen der Motion betreffend «einem raschen Ausbau der Ladeinfrastruktur für
+E-Autos in Basel-Stadt» ........................................................................................................... 4
+Studie EBP .............................................................................................................................. 4
+
+3. Elektromobilität in Basel-Stadt: Fahrzeuge und Ladebedürfnisse ........................ 5
+3.1
+3.2
+
+Stand und Entwicklung der Anzahl Elektrofahrzeuge ................................................................ 5
+Ladebedürfnisse ...................................................................................................................... 5
+3.2.1 Ausgangslage ............................................................................................................... 5
+3.2.2 Nutzertypen bei privaten Personenwagen ..................................................................... 6
+3.2.3 Ladebedarf je Ladestationstypen .................................................................................. 6
+3.2.4 Bedarf an Ladestationen in Basel-Stadt ........................................................................ 9
+3.2.5 Vergleich mit den Forderungen der Motion...................................................................10
+3.2.6 Ladestationen für Carsharing-Unternehmen im Strassenraum......................................10
+3.2.7 Bidirektionales Laden...................................................................................................10
+3.2.8 Schlussfolgerung .........................................................................................................11
+
+4. Kostenberechnung .................................................................................................. 11
+5. Vorschlag zur Umsetzung der Motion.................................................................... 13
+5.1
+5.2
+5.3
+
+5.4
+
+5.5
+
+5.6
+
+5.7
+
+5.8
+
+Investitionskosten....................................................................................................................13
+Fördergegenstand ...................................................................................................................13
+Förderbeiträge ........................................................................................................................15
+5.3.1 Förderbeiträge für Parkhäuser und Parkierungsanlagen...............................................15
+5.3.2 Förderbeiträge für Ladestationen von Carsharing-Unternehmen im Strassenraum .......15
+5.3.3 Genehmigungsprozess ................................................................................................15
+Förderkriterien.........................................................................................................................16
+5.4.1 Grundsätzliche Kriterien: ..............................................................................................16
+5.4.2 Technische Kriterien: ...................................................................................................16
+Verursachergerechte Finanzierung..........................................................................................16
+5.5.1 Ausgangslage ..............................................................................................................16
+5.5.2 Zuschlag für die Elektrifizierung des motorisierten Verkehrs .........................................17
+5.5.3 Befreiung von der Lenkungsabgabe .............................................................................18
+5.5.4 Abwicklung der Ausgaben und Einnahmen über einen eigenen Fonds .........................18
+Ausbau der Ladeinfrastruktur in staatlichen öffentlichen Parkhäusern ......................................19
+5.6.1 Ausgangslage ..............................................................................................................19
+5.6.2 Investitionskosten ........................................................................................................19
+5.6.3 Finanzierung................................................................................................................19
+Zeitliche und räumliche Umsetzung .........................................................................................19
+5.7.1 Private Parkhäuser und Parkierungsanlagen................................................................19
+5.7.2 Staatliche öffentliche Parkhäuser .................................................................................20
+Bundesbeiträge .......................................................................................................................20
+
+6. Anpassung kantonaler Erlasse .............................................................................. 21
+6.1
+6.2
+6.3
+
+Umweltschutzgesetz Basel-Stadt: Änderungen und Erläuterungen ..........................................21
+Energiegesetz Basel-Stadt: Änderung und Erläuterung ...........................................................25
+Weitere Anpassungen .............................................................................................................26
+
+7. Finanzielle Auswirkungen ....................................................................................... 26
+8. Formelle Prüfungen und Regulierungsfolgenabschätzung ................................. 28
+
+Seite 2/32
+
+Regierungsrat des Kantons Basel-Stadt
+
+9. Motion der Umwelt, Verkehrs- und Energiekommission betreffend einem
+raschen Ausbau der Ladeinfrastruktur für E-Autos in Basel-Stadt .................... 28
+9.1
+9.2
+
+Einleitung ................................................................................................................................30
+Stellungnahme zu den Forderungen ........................................................................................30
+
+10. Antrag ....................................................................................................................... 31
+Glossar .......................................................................................................................... 32
+
+Seite 3/32
+
+Regierungsrat des Kantons Basel-Stadt
+
+1.
+
+Begehren
+
+In Erfüllung der Motion der Umwelt, Verkehrs- und Energiekommission betreffend «einem raschen
+Ausbau der Ladeinfrastruktur für E-Autos in Basel-Stadt» und im Hinblick auf das Erreichen der
+Klimaziele des Kantons Basel-Stadt im motorisierten Verkehr soll mit diesem Ratschlag die Errichtung der Grundinstallation für Ladeinfrastrukturen in Parkhäusern und Parkierungsanlagen finanziell gefördert werden.
+Für die Finanzierung des Förderprogramms soll beim Laden von Elektrofahrzeugen ein Zuschlag
+für die Elektrifizierung des motorisierten Verkehrs (ZEM) erhoben werden. Gleichzeitig wird dieser
+Strombezug von der Lenkungsabgabe befreit. Die Ausgaben für das Förderprogramm und die Einnahmen aus dem ZEM sollen kostendeckend sein und über einen eigenen Fonds abgewickelt werden. Für die Umsetzung des vorgeschlagenen Förderprogramms müssen das Umweltschutzgesetz
+Basel-Stadt (USG BS) und das Energiegesetz (EnG) angepasst werden. Zudem beantragen wir
+Ihnen, die Motion betreffend «einem raschen Ausbau der Ladeinfrastruktur für E-Autos in Basel-Stadt» als erledigt abzuschreiben.
+
+2.
+
+Ausgangslage
+
+2.1
+
+Einleitung
+
+Die Dekarbonisierung des motorisierten Verkehrs ist eine zentrale Massnahme der kantonalen
+Klimapolitik. Mit dem Ratschlag «Gesamtkonzept Elektromobilität» vom 3. Juli 2019 (19.0926.01)
+hat der Regierungsrat eine Auslegeordnung vorgenommen, wie die Elektromobilität gefördert werden soll, und verschiedene Massnahmen präsentiert. Entscheidend für den Umstieg auf Elektroautos ist ein ausreichendes Angebot an Ladestationen. Der Grosse Rat hat deshalb aufgrund des
+erwähnten Ratschlags ein bedingt rückzahlbares, zinsloses Darlehen an die IWB für die Finanzierung von 200 öffentlich zugänglichen Ladestationen in der blauen Zone in der Höhe von
+11,4 Mio. Franken bewilligt. Diese werden nun schrittweise geplant und in Betrieb genommen.
+
+2.2
+
+Forderungen der Motion betreffend «einem raschen Ausbau der Ladeinfrastruktur für E-Autos in Basel-Stadt»
+
+In einem weiteren Schritt sollen auch Ladestationen in öffentlich zugänglichen Parkhäusern und in
+privaten Parkierungsanlagen finanziell unterstützt und somit gefördert werden. Dies fordert die
+oben erwähnte Motion, die der Grosse Rat am 17. November 2021 dem Regierungsrat zur Ausarbeitung einer Vorlage überwiesen hat. Sie verlangt die Erstellung von rund 1'000 Ladestationen in
+staatlichen öffentlichen Parkhäusern sowie ein Subventionspaket zur Förderung von rund 1'000 Ladestationen in privaten öffentlich zugänglichen Parkhäusern und von rund 2'000 Ladestationen auf
+privaten Abstellplätzen. Die Kosten sind verursachergerecht abzuwickeln. Dafür soll ein neuer Zuschlag für die Elektrifizierung der motorisierten Mobilität («ZEM») beim Laden von Elektrofahrzeugen erhoben werden. Im Gegenzug soll ganz oder teilweise auf die Lenkungsabgabe verzichtet
+werden. Der Grosse Rat hat am 17. November 2021 den Regierungsrat beauftragt, innert zwei Jahren eine Vorlage auszuarbeiten. Die Motion wird im Kapitel 9 beantwortet.
+
+2.3
+
+Studie EBP
+
+Als Grundlage für den vorliegenden Ratschlag hat das zuständige Departement für Wirtschaft, Soziales und Umwelt das Beratungsunternehmen EBP beauftragt, eine «Studie zur Umsetzung der
+Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E-Autos» auszuarbeiten. Die
+Schlussfassung vom 22. November 2022 liegt diesem Ratschlag bei. Die Erstellung der Studie
+wurde von einer Arbeitsgruppe begleitet, bestehend aus dem Amt für Umwelt und Energie (ff), dem
+Amt für Mobilität, dem Generalsekretariat des Finanzdepartements, Immobilien Basel-Stadt und
+den IWB.
+
+Seite 4/32
+
+Regierungsrat des Kantons Basel-Stadt
+
+3.
+
+Elektromobilität in Basel-Stadt: Fahrzeuge und Ladebedürfnisse
+
+3.1
+
+Stand und Entwicklung der Anzahl Elektrofahrzeuge
+
+Im Kanton Basel-Stadt waren Ende 2022 60’748 Personenwagen immatrikuliert. Darunter waren
+1’477 rein elektrisch betriebene Fahrzeuge. Der Anteil betrug somit 2,4% (Ende 2021: 1.7%). Gesamtschweizerisch lag Ende 2022 der Anteil an rein elektrisch betriebenen Personenwagen bei
+ca. 2%.
+Im Jahr 2022 wurden in Basel-Stadt 2’936 neue Personenwagen zugelassen. Davon waren 526
+rein elektrisch betriebene Fahrzeugen, was einem Anteil von knapp 18% entspricht. Studien gehen
+davon aus, dass der Anteil an Elektrofahrzeugen in den nächsten Jahren stark ansteigen wird.
+Abbildung 1 zeigt eine Prognose der Fahrzeugtechnologien für Basel-Stadt unter Berücksichtigung
+einer prognostizierten Zunahme der Wohnbevölkerung.
+Personenwagenbestand im Kanton Bastel-Stadt je Antriebstechnologie
+70’000
+
+60’000
+
+50’000
+
+40’000
+
+30’000
+
+20’000
+
+10’000
+
+0
+2020
+
+2025
+
+Verbrenner
+
+Abb. 1:
+
+2030
+
+Batterie-elektrisch
+
+2035
+
+2040
+
+Plug-in-Hybride
+
+2045
+
+2050
+
+H2-Brennstoffzelle
+
+Prognostizierter Personenwagenbestand im Kanton Basel-Stadt aufgeteilt nach Antriebstechnologien, modelliert bis 2050 mit Szenario ZERO – E1. Darin eingerechnet ist eine vom Bund prognostizierte Zunahme der
+Wohnbevölkerung im Kanton Basel-Stadt.
+
+3.2
+
+Ladebedürfnisse
+
+3.2.1
+
+Ausgangslage
+
+Der Kanton Basel-Stadt hat schweizweit den tiefsten Motorisierungsgrad. Dieser lag Ende 2021 bei
+328 Fahrzeugen pro 1'000 Einwohnende (Durchschnitt CH: 541)2. Aufgrund von verkehrspolitischen und raumplanerischen Entscheiden basierend auf den Mobilitätszielen des Bundes und des
+Kantons wird davon ausgegangen, dass sich dieser rückläufige Trend trotz dem bereits tiefen Niveau fortsetzt. So wird davon ausgegangen, dass der Motorisierungsgrad 2050 nur noch knapp
+1
+
+2
+
+Grafik Studie EBP 2022. Das «Szenario ZERO – E» orientiert sich am aktuellen Vorschlag des EU-Umweltausschusses zur Verschärfung der CO2Emissionsvorschriften. Es geht von einem faktischen Verbot von fossil betriebenen Personenwagen und leichten Nutzfahrzeugen ab 2035 aus.
+Vgl. www.atlas.bfs.admin.ch/maps/13/de/16503_3503_164_3114/25780.html.
+
+Seite 5/32
+
+Regierungsrat des Kantons Basel-Stadt
+
+über 300 Personenwagen pro 1'000 Einwohnenden liegt. Dieser ist bei Einfamilienhäuser deutlich
+höher als bei Stockwerkeigentümern oder Mieterinnen. Zu beachten ist zudem, dass in Basel-Stadt
+ein hoher Anteil an Mieterinnen und Mietern besteht (ca. 80%). Lediglich 15% der Personenwagen
+sind in Haushalten von Einfamilienhäusern immatrikuliert.
+Belegte Wohnungen und Anzahl Fahrzeuge
+nach Gebäudetyp im Kanton Basel-Stadt im Jahr 2021
+60’000
+50’000
+40’000
+
+30’000
+20’000
+10’000
+
+0
+Einfamilienhäuser
+
+Mehrfamilienhäuser
+
+Anzahl belegte Wohnungen
+Abb. 2:
+
+3.2.2
+
+Wohngebäude mit
+Nebennutzung
+
+Anzahl Personenwagen
+
+Belegte Wohnungen und Anzahl Fahrzeuge nach Gebäudetyp im Kanton Basel-Stadt im Jahr 20213
+
+Nutzertypen bei privaten Personenwagen
+
+Für Privatpersonen ist eine zentrale Voraussetzung für den Wechsel auf ein Elektroauto, möglichst
+zuhause laden zu können. In Einfamilienhäusern mit eigener Parkierungsmöglichkeit ist die Installation einer Ladestation problemlos und zu geringen Kosten möglich. Grössere Hemmnisse gibt es
+jedoch beim Aufbau einer Ladeinfrastruktur in Tiefgaragen bei Stockwerkeigentum oder Miethäusern. Das gilt insbesondere, wenn eine grössere Anzahl an Ladestationen geplant wird, da erhebliche Kosten für die Grundinstallation und die allfällige Anpassung des Hausanschlusses anfallen.
+Ebenfalls mit grösserem Aufwand verbunden ist die Realisierung der Ladeinfrastruktur in der
+blauen Zone für Personenwagenlenkende ohne eigenen oder gemieteten Parkplatz (rund ein Drittel
+der immatrikulierten Personenwagen in Basel-Stadt; ca. 22'000 Fahrzeuge). Diese Personen nutzen auch vermehrt Lademöglichkeiten am Arbeitsplatz oder andere öffentlich zugängliche Ladestationen.
+3.2.3
+
+Ladebedarf je Ladestationstypen
+
+Grundsätzlich lassen sich vier verschiedene Lademöglichkeiten unterscheiden:
+-
+
+Home Charging: Laden am Wohnort
+Work Charging: Laden am Arbeitsplatz
+Point of Interest (POI) Charging: Laden beim Einkaufen, Sport, Veranstaltungen usw.
+Fast Charging: schnelles Aufladen bei einzelnen Stationen oder grösseren Lade-Hubs (z.B. bei
+Autobahnraststätten etc.)
+
+Je nach Ladestationstyp sind unterschiedliche Leistungen gefragt. Entsprechend unterschiedlich
+fallen auch die Kosten für die Ladeinfrastruktur aus.
+
+3 Quelle: Gebäude- und Wohnungsregister Basel-Stadt per 31.12.2021; Grafik EBP 2022.
+
+Seite 6/32
+
+Regierungsrat des Kantons Basel-Stadt
+
+Abb. 3
+
+Ladebedürfnisse (oben) und Ladestationstypen (unten)4
+
+90% aller Ladevorgänge von Elektrofahrzeugen erfolgen aktuell an privaten Ladestationen, am
+Wohnort oder am Arbeitsplatz. Ob dieser Trend sich fortsetzt oder ob öffentliche Ladestationen an
+Bedeutung gewinnen, hängt von verschiedenen Faktoren ab:
+-
+
+Batteriekapazität bzw. Reichweite der Fahrzeuge
+Aufnahmeleistung
+Verfügbarkeit von Ladestationen im Wohnumfeld
+Verfügbarkeit und Preise der öffentlich zugänglichen Ladestationen
+
+Auch die Verfügbarkeit von öffentlichen bzw. privaten Parkplätzen beeinflusst das Ladeverhalten
+bzw. den Entscheid für oder wider ein Elektroauto beim Autokauf.
+Wo schliesslich ein Elektrofahrzeug geladen wird, hängt auch vom Verkehrsverhalten der Fahrzeuglenkenden ab. Informationen dazu können aus dem nationalen Personenverkehrsmodell5 sowie aus räumlichen Informationen zu Parkplätzen, Parkhäusern, Points-of-Interest (POI) usw. entnommen werden. Damit lässt sich der gesamte Ladebedarf im Kanton Basel-Stadt inkl. räumlicher
+Verteilung abschätzen. Die in Abbildung 3 dargestellten Ladestationstypen werden wie folgt differenziert:
+- Private Ladestationen bei Einfamilienhäuser mit eigener Parkiermöglichkeit (EFH)
+- Private Ladestationen in Mehrparteiengebäuden für Anwohnende: Mehrfamilienhäuser und
+Wohngebäude mit Nebennutzung (MPG Home)
+- Halbprivate Ladestationen für Angestellte (Pendlerinnen und Pendler) und reine Flottenfahrzeuge in Firmengebäuden und Mehrparteiengebäuden (MPG Work)
+4
+5
+
+Grafik EBP 2022.
+Bundesamt für Raumentwicklung. Nationales Personenverkehrsmodell NPVM.
+
+Seite 7/32
+
+Regierungsrat des Kantons Basel-Stadt
+
+-
+
+Öffentliche Ladestationen für Anwohnende: Quartier-Laden in der blauen Zone
+Öffentliche Ladestationen in kantonseigenen Parkhäusern (PH)
+Öffentliche Ladestationen in privaten Parkhäusern (PH) und weiteren Parkplätzen bei POI
+Öffentliche Schnellladestationen (Fast)
+
+Der daraus resultierende Strombedarf ist in Abbildung 4 dargestellt.
+
+Abb. 4:
+
+Jährlicher Ladebedarf für Elektrofahrzeuge aufgeteilt nach Ladestationstyp6
+
+Die Analyse zeigt, dass mittel- bis langfristig rund 40% des Ladebedarfs an privaten Ladestationen
+insbesondere in Mehrparteiengebäuden und in Wohnhäusern mit Nebennutzung gedeckt werden
+kann. Das Laden am Arbeitsplatz kann langfristig ebenfalls eine wichtige Rolle spielen und rund
+30% des Ladebedarfs abdecken. Die restlichen 30% können mittel- bis langfristig öffentlich zugängliche Ladestationen übernehmen (blaue Zone, POI, Schnellladestationen).
+
+6
+
+Bei einer vollständigen Elektrifizierung der Personenwagen wird mit einem Stromverbrauch von ca. 15% des Gesamtverbrauchs gerechnet.
+
+Seite 8/32
+
+Regierungsrat des Kantons Basel-Stadt
+
+3.2.4
+
+Bedarf an Ladestationen in Basel-Stadt
+
+Aus dem modellierten Ladebedarf gemäss Abbildung 4 lässt sich die Anzahl der benötigten Ladepunkte (vgl. Tab. 1) beziehungsweise der angestrebte Elektrifizierungsgrad der öffentlich zugänglichen Parkplätze in Basel-Stadt ableiten (vgl. Tab. 2).
+Anzahl Ladepunkte je Ladestationstyp
+
+Heutiger Bedarf
+
+Kurz- bis mittelfristig
+
+Langfristig
+
+2022
+
+2030
+
+2040
+
+Home EFH
+
+600
+
+2’000
+
+3’250
+
+Home MPG
+
+2’100
+
+12’400
+
+19’900
+
+W ork MPG
+
+450
+
+1’800 – 2’600
+
+3’300 – 4’700
+
+Quartier-Laden in blauer
+Zone
+
+48
+
+240 – 330
+
+460 – 740
+
+Kantonseigene Parkhäuser
+
+37
+
+370 – 540
+
+470 – 760
+
+Private Parkhäuser und weitere POI
+
+55
+
+550 – 820
+
+700 – 1’140
+
+Schnellladepunkte
+
+5
+
+30 – 50
+
+60 – 90
+
+3’295
+
+17’400 – 18’740
+
+28’100 – 30’580
+
+Gesamt
+
+Tab. 1:
+
+Anzahl benötigter Ladepunkte pro Ladestationstyp mit Blick auf den zukünftigen Bedarf
+
+Parkplatztyp
+
+Anzahl
+öffentlich
+zugängliche
+Parkplätze
+
+Bedarf Ladepunkte;
+kurzfristig
+
+Elektrifizierungsgrad
+Parkplätze
+
+Bedarf Ladepunkte:
+langfristig
+
+Elektrifizierungsgrad
+Parkplätze
+
+2030
+
+2030
+
+2040
+
+2040
+
+Quartierladen in
+der blauen Zone
+
+21’666 (66%)
+
+240 - 330
+
+1 - 2%
+
+460 - 740
+
+2 - 3%
+
+Kantonseigene
+Parkhäuser
+
+3’822 (12%)
+
+370 - 540
+
+10 - 14%
+
+470 - 760
+
+12 - 20 %
+
+Private Parkhäuser, POI (inkl.
+weisse Parkplätze)
+
+7’220 (22%)
+
+550 - 820
+
+8 - 11%
+
+700 - 1’140
+
+10 - 16%
+
+Total
+
+Tab. 2:
+
+32’708 (100%)
+
+Kurz- und langfristiger Bedarf an Ladepunkten und Elektrifizierungsgrad der öffentlich zugänglichen Parkplätze
+
+Seite 9/32
+
+Regierungsrat des Kantons Basel-Stadt
+
+3.2.5
+
+Vergleich mit den Forderungen der Motion
+
+Durch die Modellierung des Bedarfs an Ladestationen und der Analyse des Ladeverhaltens ergeben sich folgende Unterschiede zu den Forderungen der Motion:
+Ladestationstypen
+Kantonseigene Parkhäuser
+Blaue Zone
+
+Private Parkhäuser und weitere
+POI
+
+Forderung Motion
+
+Empfehlung bis 2030
+
+Empfehlung bis 2040
+
+1’000 Ladestationen
+Elektrifizierungsquote der PP:
+35%
+Keine zusätzlichen Ladestationen; da mit hohen Kosten verbunden
+
+370 - 540 Ladepunkte;
+Elektrifizierungsquote PP:
+10 - 14%
+Steigender Bedarf auf 240 - 330
+Ladepunkte.
+
+470 - 760 Ladepunkte;
+Elektrifizierungsquote PP:
+12 - 20%
+460 - 740 Ladepunkte vorgesehen.
+
+Empfehlung: keine zusätzlichen
+Massnahmen erforderlich. Umsetzung der ersten Ausbauetappe von 200 Ladestationen
+(400 Ladepunkte).
+550 - 820 Ladepunkte
+Elektrifizierungsquote PP:
+8 - 11%
+2’000 Ladepunkte Home EFH
+14’200 - 15’000 Ladepunkte
+MPG (Home und Work)
+Ausbau der Schnellladestationen. Bedarf für 30 - 50 Schnellladepunkte
+
+Empfehlung eines schrittweisen
+Ausbaus anhand Bedarfsentwicklung
+
+Weitere 1’000 Ladestationen
+
+Private und halbprivate Ladesta- 2’000 Ladestationen für Private
+tionen (Home EFH, Home MPG,
+Work MPG)
+Schnelladepunkte
+Keine Forderungen
+
+Tab. 3:
+
+3.2.6
+
+700 - 1’140 Ladepunkte
+Elektrifizierungsquote PP:
+10 - 16%
+3’250 Ladepunkte Home EFH
+23’000 - 24’500 Ladepunkte
+MPG (Home und Work)
+Ausbau der Schnellladestationen. Bedarf für 60 - 90 Schnellladepunkte
+
+Unterschied zwischen den Forderungen der Motion und dem prognostizierten Bedarf an Ladestationen bzw.
+Ladepunkte bis 2040
+
+Ladestationen für Carsharing-Unternehmen im Strassenraum
+
+Ein zusätzlicher Bedarf an Ladestationen besteht mittel- bis langfristig bei Carsharing-Unternehmen, welche ihre Fahrzeuge im Strassenraum auf dafür bezeichnete und aus dem öffentlichen
+Grund ausgeschiedene Parkplätze abstellen. Der Regierungsrat hat am 6. September 2022 beschlossen, Carsharing-Unternehmen die Möglichkeit zu geben, zusätzliche Carsharing-Standplätze im Strassenraum einzurichten. Die Anzahl Standplätze wird von heute 10 (mit 16 Parkplätzen) auf maximal 100 Standplätze mit maximal 200 Parkplätzen erweitert.
+Carsharing-Unternehmen können vom aktuellen Rollout der öffentlich zugänglichen Ladestationen
+in der blauen Zone profitieren. Voraussetzung ist jedoch, dass einer der beiden Ladepunkte der
+Ladestation öffentlich nutzbar bleibt. Will ein Unternehmen die alleinige Nutzung der Ladesäule für
+ihre Parkplätze beanspruchen, sind die Investitionskosten nicht durch das vom Grossen Rat genehmigte Darlehen für Ladestationen in der blauen Zone gedeckt.
+3.2.7
+
+Bidirektionales Laden
+
+Die Batterien von Elektrofahrzeugen können auch als Zwischenspeicher genutzt werden. Voraussetzung ist, dass der Ladestrom in beide Richtungen fliessen kann (bidirektionales Laden). Die
+Fahrzeugbatterie muss für diesen Vorgang jedoch ausgelegt sein. Gemäss aktuelle Standards
+muss zudem die Ladestation mit Gleichstrom betrieben werden. Aktuell wird davon ausgegangen,
+dass das bidirektionale Laden keine speziellen Anforderungen an die Grundinstallation stellt.
+Bidirektionales Laden ist noch nicht weit verbreitet. Erst wenige Elektrofahrzeuge sind mit der dafür
+geeigneten Technologie ausgerüstet. Zudem sind Gleichstrom-Ladestationen (DC-Ladestationen)
+heute noch deutlich teurer als Wechselstrom-Ladestationen (AC-Ladestationen).
+Die Koppelung der Fahrzeugbatterie mit einem privaten Stromnetz ist heute schon ohne grössere
+Probleme machbar. Die Koppelung an das öffentliche Stromnetz, um beispielsweise Netzspitzen
+zu glätten, ist hingegen noch nicht möglich. Aktuell fehlen dazu die notwendigen Normen für die
+Netze und Installationen. Zudem sind auch noch rechtliche Fragen offen, die auf nationaler Ebene
+
+Seite 10/32
+
+Regierungsrat des Kantons Basel-Stadt
+
+geklärt werden müssen.
+3.2.8
+
+Schlussfolgerung
+
+Aus den oben aufgeführten Analysen lassen sich die nachstehenden Schlussfolgerungen hinsichtlich dem Bedarf an Ladestationen ziehen:
+- In erster Linie sollen dort Ladestationen entstehen bzw. gefördert werden, wo Anwohnende davon profitieren, insbesondere diejenigen, die selber keine Möglichkeit haben, auf einem eigenen
+Parkplatz eine Ladeinfrastruktur zu errichten.
+- Eine finanzielle Unterstützung für die Errichtung von Ladestationen ist dort sinnvoll, wo hohe
+Initialkosten entstehen, die ein Ausrollen der Infrastruktur hemmen. Das betrifft in erster Linie
+Kosten für die Grundinstallation.
+- Aus heutiger Sicht liegt der Bedarf an Ladestationen in kantonseigenen öffentlich zugänglichen
+Parkhäusern mittel- bis langfristig unter den geforderten 1'000 Ladestationen.
+- Bei den privaten öffentlich zugänglichen Parkhäusern deckt sich die Forderung von 1'000 Ladestationen erst mit dem langfristigen Bedarf.
+- Der Bedarf für private und halbprivate Ladestationen ist deutlich höher als die in der Motion
+genannte Anzahl von 2'000 Ladestationen.
+- Mittel- bis langfristig muss auch in der blauen Zone das vom Grossen Rat bereits beschlossene
+Angebot an 200 Ladestationen ausgebaut werden.
+- Einen weiteren Bedarf an Ladestationen werden Carsharing-Unternehmen haben, welche
+Standplätze im Strassenraum nutzen, aber eine eigene Ladeinfrastruktur betreiben wollen.
+- In Zukunft wird es vermutlich auch einen Bedarf für weitere Schnellladestationen geben, auch
+wenn sie in der Motion nicht aufgeführt werden.
+
+4.
+
+Kostenberechnung
+
+Je nach Standort und Art der Ladestation entstehen unterschiedliche Kosten, sowohl bezogen auf
+die Installationskosten als auch auf die Kosten pro geladene kWh. Bei grösseren Parkhäusern (>30 PP) ist allenfalls eine Neuerschliessung an die Netzebene 77 oder eine Verstärkung des
+Netzes nötig, was zusätzliche Anschlussgebühren und Netzkostenbeiträge verursacht. Auch beim
+Hausanschluss ist gegebenenfalls ein Ausbau der Grundinfrastruktur nötig.
+Ein weiterer Kostenfaktor ist der Stromtarif. Er differiert in Abhängigkeit der bezogenen Leistung (kW) und der gesamten Energiemenge (kWh) und setzt sich aus Kosten und diversen Abgaben zusammen. Zu den Kosten zählen die Energiekosten und die Netznutzungskosten. Bei den
+Abgaben ist in Tabelle 4 bereits der ZEM (2,5 Rp./kWh) bei gleichzeitiger Befreiung von der Lenkungsabgabe (i.d.R. 5 Rp./kWh) enthalten. Hier kommen noch weitere Abgaben hinzu: öffentliche
+Leistungen, Netzzuschlag gemäss Energiegesetz8, Förderabgabe.
+
+7
+8
+
+Vgl. www.swissgrid.ch/de/home/operation/power-grid/grid-levels.html.
+Energiegesetz des Bundes (EnG) vom 30. Sept. 2016, SR 730.0.
+
+Seite 11/32
+
+Regierungsrat des Kantons Basel-Stadt
+
+Ladestationstypen
+
+Anzahl LadeNetzausbau/ punkte und Leis- verstärkung
+tung
+
+Energieanteil
+Tarifkosten
+[Rp/kWh]
+
+Leistungsanteil
+Tarifkosten
+[CHF/kW]
+
+Netzanschluss
+(EW-> HA)
+[CHF]
+AG:
+0
+NKB:
+0
+AG:
+0
+NKB:
+0
+AG:
+0
+NKB:
+0
+AG: 3’900 bis
+6’000
+NKB:
+7’333
+AG: 7’800 bis
+10’500
+NKB:
+10’300
+AG: 11’350 bis
+15’850
+NKB:
+22’000
+
+Home EFH
+
+1 x 3.7 kW keine Verstärkung
+
+El. Energie 7.27
+Netznutz. 14.39
+Abgaben9 9.25
+
+0
+
+Home MPG
+
+20 x 11 kW keine Verstärkung
+
+El. Energie 7.27
+Netznutz. 14.39
+Abgaben10 6.75
+
+0
+
+Work MPG
+
+20 x 11 kW keine Verstärkung
+
+El. Energie 7.27
+Netznutz. 14.39
+Abgaben11 6.75
+
+0
+
+Quartier-Laden in
+blauer Zone (ACLadestationen)12
+
+6 x 22 kW Neuerschliessung
+NE7
+
+El. Energie 7.27
+Netznutz. 14.39
+Abgaben13 6.75
+
+0
+
+Parkhaus
+30 Ladepunkte
+(PH 30)
+
+30 x 11 kW
+
+Netzverstärkung
+NE7
+
+El. Energie 7.22
+Netznutz. 5.80
+Abgaben14 5.68
+
+10
+
+Parkhaus
+100 Ladepunkte
+(PH 100)
+
+100 x 11 kW
+
+Netzverstärkung
+NE7
+
+El. Energie 7.22
+Netznutz. 5.80
+Abgaben15 5.68
+
+9.1
+
+Basisinfrastruktur Ladepunkt [CHF] Gleichzeitigkeits(HA -> LS)
+faktor
+[CHF]
+SIA 2060
+2’000
+
+1’000
+
+1
+
+16’000
+
+1’500
+
+0.32
+
+16’000
+
+1’500
+
+0.32
+
+14’000
+
+3’500
+
+0.38
+
+52’500
+
+1’750
+
+0.28
+
+152’000
+
+1’750
+
+0.18
+
+Zusammenstellung Kosten für unterschiedliche Ladestationstypen16
+
+Tab. 4:
+
+Abbildung 5 zeigt die Kosten pro Kilowattstunde bei den verschiedenen Ladestationstypen. Darin
+eingerechnet sind sowohl Investitions- als auch die Betriebskosten. Die angenommenen Lademengen pro Ladestation haben einen grossen Einfluss auf die Kosten.
+0.6
+Netznutzungsentgelt pro kW (monatlich,
+leistungsabhängig)
+Totale Kosten pro Lademenge [CHF/kWh]
+
+0.5
+
+Abgaben an Bund / Kanton
+Tarife für Netznutzung
+
+0.4
+Tarife für elektrische Energie
+Betriebskosten (Unterhalt,Monitoring,etc.)
+
+0.3
+
+Netzkostenbeitrag (einmalig, leistungsabhängig)
+0.2
+
+Kosten für Ladestation
+Infrastrukturkosten nach Hausanschluss
+
+0.1
+Infrastrukturkosten vor Hausanschluss (Abhängig
+Distanz Netz-zu-Hausanschluss)
+0
+PH 30 NE7
+
+Abb. 5:
+
+9
+10
+11
+12
+
+13
+14
+15
+16
+17
+
+PH 100 NE7
+
+Blaue Zone
+
+MPG Work
+
+MPG Home
+
+EFH
+
+Kosten in CHF/kWh der unterschiedlichen Ladestationstypen, aufgeteilt nach Kostenkategorien (Investitionsund operationelle Kosten) über einen Betrachtungszeitraum von rund 20 Jahren (2023 - 2044) 17
+
+Kein neuer E-Mobilitätstarif bei EFH.
+Neuer E-Mobilitätstarif: inkl. Zuschlag (ZEM) von 2.5 Rp./kWh bei gleichzeitiger Befreiung der Lenkungsabgabe (5 Rp./kWh).
+Gemäss Fussnote 9.
+Gilt auch für Standplätze von Carsharing-Unternehmen, welche Ladestationen für sich alleine nutzen wollen. Der Gleichzeitigkeitsfaktor liegt hier bei
+1, da i.d.R. immer das gleiche Fahrzeug auf dem Parkplatz steht.
+Gemäss Fussnote 9.
+Gemäss Fussnote 9.
+Gemäss Fussnote 9.
+EW: Energiewerk; HA: Hausanschluss; LS: Ladestationen; NE: Netzebene; AG: Anschlussgebühren; NKB: Netzkostenbeiträge.
+Tabelle EBP 2022. Der von der Motion vorgeschlagene ZEM bei gleichzeitiger Befreiung der Lenkungsabgabe ist mitberücksichtigt. Nicht enthalten
+sind Carsharing-Ladeparkplätze im Strassenraum. Abkürzungen: PH: Parkhäuser, NE: Netzebene, MPG: Mehrparteiengebäude, EFH: Einfamilienhäuser mit eigenem Parkplatz oder eigener Garage.
+
+Seite 12/32
+
+Regierungsrat des Kantons Basel-Stadt
+
+5.
+
+Vorschlag zur Umsetzung der Motion
+
+5.1
+
+Investitionskosten
+
+Beim Ausbau der Ladeinfrastruktur fallen bei Parkierungsanlagen und Parkhäuser in Abhängigkeit
+der Grösse bzw. der Anzahl ausgebauter Ladestationen unterschiedliche Investitionskosten an.
+Tabelle 5 zeigt die kumulierten Investitionskosten bis zum Jahr 2040. Die Gesamtzahl der Ladestationen entspricht der in der EBP-Studie vorgeschlagenen Grössenordnung.
+Investitionskosten
+Kantonseigene PH
+
+Private PH
+
+Anzahl Ladepunkte
+
+616 LP
+
+Grundinstallation
+
+1.3 Mio. CHF
+
+1.4 Mio. CHF
+
+Ladestationen
+
+0.7 Mio. CHF
+
+2.0 Mio. CHF
+
+690 LP
+
+924 LP
+
+Grundinstallation
+
+2.4 Mio. CHF
+
+2.6 Mio. CHF
+
+Ladestationen
+
+1.1 Mio. CHF
+
+2.8 Mio. CHF
+
+2’250 LP
+
+4’000 LP
+
+Grundinstallation
+
+1.8 Mio. CHF
+
+3.8 Mio. CHF
+
+Ladestationen
+
+3.0 Mio. CHF
+
+8.7 Mio. CHF
+
+12'400 LP
+
+19'900 LP
+
+Grundinstallation
+
+10.0 Mio. CHF
+
+19.2 Mio. CHF
+
+Ladestationen
+
+17.7 Mio. CHF
+
+48.8 Mio. CHF
+
+2’000 LP
+
+3’200 LP
+
+Grundinstallation
+
+4.0 Mio. CHF
+
+7.1 Mio. CHF
+
+Ladestationen
+
+1.9 Mio. CHF
+
+5.5 Mio. CHF
+
+Anzahl Ladepunkte
+
+MPG Home
+
+Anzahl Ladepunkte
+
+EFH
+
+Bis 2040
+460 LP
+
+Anzahl Ladepunkte
+
+MPG W ork
+
+Tab. 5:
+
+Bis 2030
+
+Anzahl Ladepunkte
+
+Kumulierte Investitionskosten (nicht diskontiert, inkl. Ersatzinvestition) und Anzahl Ladepunkte (LP) für die
+verschiedenen Parkierungsanlagen18
+
+In der Tabelle nicht aufgeführt sind die Investitionskosten für allfällige Carsharing-Unternehmen,
+welche auf dafür bezeichnete Standplätze im Strassenraum eine eigene Ladeinfrastruktur für ihre
+Fahrzeugflotte erstellen wollen. Pro Ladestation mit zwei Ladepunkten ist mit durchschnittlichen
+Kosten für die Grundinstallation von ca. 25'000 Franken zu rechnen. Diese Kosten können jedoch
+je nach Standort und Lage des Netzes stark variieren. Hinzu kommen die Kosten für die Ladestationen. Wie gross der gesamte Investitionsbedarf für Carsharing-Unternehmen ist, lässt sich im
+Moment nicht abschätzen, da noch ungewiss ist, wie viele Standplätze im Strassenraum in Zukunft
+beansprucht werden.
+
+5.2
+
+Fördergegenstand
+
+Um in grösseren Parkierungsanlagen und Parkhäusern ausreichend Ladestationen betreiben zu
+können, braucht es eine leistungsfähige Grundinstallation und einen ausreichend dimensionierten
+Hausanschluss. Was alles zu einer Ladeinfrastruktur in einer Parkierungsanlage gehört, verdeutlicht die nachstehende Abbildung 6. Das SIA-Merkblatt 2060 «Infrastruktur für Elektrofahrzeuge in
+18
+
+Tabelle EBP 2022.
+
+Seite 13/32
+
+Regierungsrat des Kantons Basel-Stadt
+
+Gebäuden» unterscheidet verschiedene Ausbaustufen19:
+- A (pipe of power): Einrichten von Ausbaureserven wie leere Leitungsinfrastruktur für Elektrizität und Kommunikation sowie Platzreserve in der Verteilung für elektrische Schutzeinrichtungen und allfällige Stromzähler
+- B (power to building): Einrichtung der Gebäudezuleitung
+- C1 (power to garage): Zuleitung zu den Parkplätzen
+- C2 (power to parking): Zuleitung zu den zukünftigen Ladestationen
+- D (ready to charge): Installation von betriebsbereiten Ladestationen
+
+Abb. 6:
+
+Ausbaustufen der Ladeinfrastruktur einer Parkierungsanlage gemäss SIA-Merkblatt 2060 und welche Ausbaustufen zur Grundinstallation gehören
+
+Ohne Vorhandensein einer ausreichenden Grundinstallation ist nur eine kleine Anzahl an Ladestationen möglich. Es braucht somit eine Initialinvestition für diese Grundinstallation, wenn im Verlaufe
+der Zeit ein Parkhaus sukzessive mit Ladestationen ausgerüstet werden soll. Der Regierungsrat
+erachtet es deshalb als sinnvoll, namhafte Förderbeiträge an die Kosten der Grundinstallation zu
+leisten. Voraussetzung für einen Förderbeitrag ist, dass die Ausbaustufen C1 oder C2 realisiert
+werden. Das anschliessend bedarfsgerechte Ausrüsten mit einzelnen Ladestationen ist mit geringerem Aufwand und verkraftbaren Kosten verbunden und bedarf deshalb keiner finanziellen Förderung.
+Wenn der Kanton sein Verfassungsziel von Netto-Null bis 2037 erreichen will, muss die Ladeinfrastruktur bald stehen. Damit ein Anreiz besteht, die Investitionen in die Grundinstallation möglichst
+bald vorzunehmen, will der Regierungsrat die Förderbeiträge zeitlich begrenzen. Anträge für Förderbeiträge müssen bis Ende 2030 gestellt werden.
+
+19
+
+SIA-Merkblatt 2060 «Infrastruktur für Elektrofahrzeugen in Gebäuden», gültig ab 1. Juni 2020. Zur Grundinstallation gehört auch eine allfällige Internetanbindung.
+
+Seite 14/32
+
+Regierungsrat des Kantons Basel-Stadt
+
+Carsharing-Unternehmen, welche über dafür ausgeschiedene Parkplätze im öffentlichen Strassenraum verfügen, sollen ebenfalls die Möglichkeit haben, Förderbeiträge für die Grundinstallation zu
+beantragen. Das gilt für die Grundinstallation der Ladeinfrastruktur, die ausschliesslich vom Carsharing-Unternehmen erstellt und betrieben wird.
+
+5.3
+
+Förderbeiträge
+
+5.3.1
+
+Förderbeiträge für Parkhäuser und Parkierungsanlagen
+
+Die Förderbeiträge für die Grundinstallation sollen 60% der anrechenbaren Kosten umfassen. Mit
+dieser Höhe besteht ein Anreiz, innerhalb der Förderperiode und damit bis 2030 die notwendigen
+Investitionen zu tätigen. Ein noch höherer Beitragssatz birgt die Gefahr von Fehlinvestitionen z.B.
+in zu gross dimensionierte Grundinstallationen.
+Um die Förderbeiträge effizient einsetzen zu können, wird ein Maximum der anrechenbaren Kosten
+pro Ladepunkt festgelegt: Für öffentlich zugängliche Parkhäuser soll er bei 3'500 Franken, sofern
+die Ladeparkplätze frei nutzbar sind. Für private Parkierungsanlagen soll der Maximalbetrag
+1'300 Franken pro Ladepunkt betragen. Der höhere Betrag für öffentlich zugängliche Parkhäuser
+rechtfertigt sich dadurch, dass wegen der geringeren Anzahl Dauerparkierender primär das (teurere) Schnellladen zur Anwendung gelangt.
+Als Beispiel: Wird in einem öffentlich zugänglichen Parkhaus eine Grundinstallation für 50 Ladeparkplätze erstellt, würde der maximale Förderbeitrag 60% der anrechenbaren Kosten bzw. maximal 175'000 Franken betragen. Bei einer privaten Parkierungsanlage mit der gleichen Anzahl Ladeparkplätzen würde der maximale Förderbeitrag wiederum 60% der anrechenbaren Kosten bzw.
+maximal 65'000 Franken betragen.
+5.3.2
+
+Förderbeiträge für Ladestationen von Carsharing-Unternehmen im Strassenraum
+
+Die Förderbeiträge für die Grundinstallation sollen ebenfalls 60% der anrechenbaren Kosten umfassen. Der Maximalbetrag wird jedoch aufgrund des höheren Aufwands bei der Erschliessung auf
+7'500 Franken pro Ladepunkt festgelegt.
+Bisherige Erfahrungen beim Rollout der Ladestationen in der blauen Zone zeigen, dass die Grundinstallation einer AC-Ladestation bei einer guten Netzanbindung durchschnittlich 25'000 Franken
+kostet. Darin enthalten sind die Planung, die Tiefbauarbeiten inkl. Fundament, der Netzkostenanschluss und die Anschlussgebühren bis zum Hausanschlusskasten sowie die Erschliessung der
+Ladestation. Da normalerweise eine Ladestation über zwei Ladepunkte verfügt, betragen 60% dieser Kosten die oben hergeleiteten 7'500 Franken.
+5.3.3
+
+Genehmigungsprozess
+
+Analog zu den Fördergesuchen gestützt auf das kantonale Energiegesetz ist ein zweistufiger Genehmigungsprozess vorgesehen:
+Vor Baubeginn:
+- Gesuchstellerin: Eingabe des Antragsformulars mit einem Ausführungsplan, einer Offerte eines
+Unternehmens aus der Elektrobranche für die Grundinstallation und allfällige weitere Offerten
+- Genehmigungsbehörde: Prüfung durch eine Fachperson, Ermittlung des Förderbeitrags und
+zeitlich begrenzte Förderzusage20
+
+20
+
+In begründeten Fällen kann die Zusage verlängert werden.
+
+Seite 15/32
+
+Regierungsrat des Kantons Basel-Stadt
+
+Nach Bauabschluss:
+- Gesuchsteller: Einreichung des Abschlussformulars mit den relevanten Schlussrechnungen und
+einem Sicherheitsnachweis einer unabhängigen Prüfkontrolle, dass die Installation gemäss
+Werksvorschriften erstellt wurde
+- Genehmigungsbehörde: Festlegung des Förderbeitrags und Auszahlung des Förderbeitrags
+
+5.4
+
+Förderkriterien
+
+5.4.1
+
+Grundsätzliche Kriterien:
+
+- Die Gesuchstellenden können natürliche oder juristische Personen sein.
+- Das Parkhaus oder die Parkierungsanlage muss im Kanton Basel-Stadt stehen. Miteingeschlossen sind auch private Abstellplätze oder Garagen von Einfamilienhäusern.
+5.4.2
+
+Technische Kriterien:
+
+- Die Definition der Grundinstallation richtet sich nach dem SIA-Merkblatt 2060. Die Ausbaustufe
+muss C1 oder C2 erreichen.
+- Es handelt sich um eine neue Grundinstallation.
+- Die Erweiterung einer bestehenden Grundinstallation wird gefördert, sofern die Anzahl der Ladepunkte damit erhöht wird.
+- Die Erweiterung von C1 auf C2 ohne Erhöhung der Anzahl Ladepunkte ist nicht förderberechtigt.
+- Es sind die geltenden Werkvorschriften (Technische Anschlussbedingungen TAB) einzuhalten,
+wie beispielsweise ein Lastmanagementsystem in Mehrparteiengebäude oder eine Infrastruktur,
+die einen netzdienlichen Betrieb ermöglichen.
+- Für die Erhebung des ZEM muss ein separater Werkszähler installiert werden. Dies ist gültig für
+alle Objekte, zum Beispiel auch bei ZEV-Liegenschaften. Der separate Werkszähler zählt auch
+zur Grundinstallation.
+- Für temporäre Ladeinfrastrukturen21 werden keine Förderbeiträge bezahlt.
+Die Förderung kommt gleichermassen beim nachträglichen Einbau von Grundinstallationen in bestehende Parkhäuser und beim Neubau von Parkierungsanlagen zur Anwendung. Auch bei Bestehen einer gesetzlichen Pflicht zur Bereitstellung von Ladestationen22 können Förderbeiträge für die
+Grundinstallation beantragt werden.
+
+5.5
+
+Finanzierung
+
+5.5.1
+
+Ausgangslage
+
+Der Grosse Rat hat am 14. April 2021 aufgrund des Ratschlags «Gesamtkonzept Elektromobilität»
+in einem zusätzlichen Grossratsbeschluss III festgelegt, dass Kosten in Zusammenhang mit der
+Dekarbonisierung des Verkehrs verursachergerecht und nicht über allgemeine Steuergelder abzuwickeln sind. Die Motion schlägt vor, dass ein neuer «Zuschlag für die Elektrifizierung des motorisierten Verkehrs» (ZEM) beim Strombezug an Ladestationen erhoben wird. Um einer Verteuerung
+des Ladevorgangs und somit einer Attraktivitätsminderung der Elektromobilität zu begegnen,
+schlägt die Motion vor, den Strombezug an den Ladestationen von der Lenkungsabgabe zu befreien. Die Auszahlung der Förderbeiträge und die Einnahmen aus dem ZEM sollen – so die Motion
+– über den bestehenden Fonds Energie-Förderabgabe abgewickelt werden.
+Der Regierungsrat begrüsst das vorgeschlagene Prinzip. Um die Finanzierung und Refinanzierung
+der Ladeinfrastruktur transparent ausweisen zu können, soll jedoch ein eigener Fonds gebildet
+werden (vgl. Kap. 5.5.4).
+
+21
+22
+
+Z.B. für Grossanlässe.
+§ 74 Abs. 4 BPG bzw. § 24 PPV.
+
+Seite 16/32
+
+Regierungsrat des Kantons Basel-Stadt
+
+5.5.2
+
+Zuschlag für die Elektrifizierung des motorisierten Verkehrs
+
+Der eingangs erwähnte «ZEM» soll laut vorliegender Motion 2.5 Rp./kWh betragen. Der Regierungsrat schlägt vor, dass diese Abgabe bei sämtlichen Ladestationen erhoben wird, deren Grundinstallation von einem Förderbeitrag profitiert haben. Zudem soll der ZEM auch bei Ladestationen
+in der blauen Zone erhoben werden.
+Mit diesem ZEM sollen einerseits die vorgeschlagenen Förderbeiträge an die Grundinstallation von
+Parkhäusern und Parkierungsanlagen refinanziert werden. Andererseits soll er auch für die Tilgung
+eines allfälligen Fehlbetrags aus dem mit Grossratsbeschluss vom 14. April 2021 den IWB gewährten, bedingt rückzahlbaren Darlehens für den Bau von 200 Ladestationen in der blauen Zone verwendet werden können23.
+Mit dem ZEM soll ferner auch der administrative Aufwand für die Abwicklung der Förderbeiträge
+beglichen werden. Im Vergleich zu Förderprogrammen in anderen Kantonen 24 rechnen wir mit einem personellen Aufwand von 0,5 – 1,0 Vollzeitäquivalent.
+Die Refinanzierung der Förderbeiträge für die Ladeinfrastruktur über den ZEM wird zeitverschoben
+erfolgen, da in den ersten Jahren höheren Ausgaben anfallen, als Einnahmen durch die Abgabe
+auf den Ladestrom zu erwarten sind (vgl. Abb. 7). Der ZEM soll so lange bestehen bleiben, bis
+sämtliche öffentliche Beiträge an die Ladeinfrastruktur rückfinanziert sind.
+
+Mio. CHF
+
+Kumulierte ZEM Einnahmen und 60% der Investitionskosten für
+Grundinstallation
+16.0
+14.0
+12.0
+10.0
+8.0
+6.0
+4.0
+2.0
+0.0
+2023
+
+2025
+
+2027
+
+2029
+
+Parkhäuser, MPG und EFH
+Abb. 7:
+
+23
+
+24
+25
+26
+
+2031
+
+2033
+
+2035
+
+ZEM Einnahmen
+
+Kumulierte Einnahmen durch den ZEM und Gesamtkosten für die Förderbeiträge bis 204025. Die grösste Differenz wird im Jahr 2028 mit 6.3 Mio. Franken gerechnet. Ab ca. 2034 übersteigen voraussichtlich die Einnahmen die Ausgaben.26
+
+Vgl. GRB Nr. 21/16/05.1G vom 14. April 2021. Das bedingt rückzahlbare, zinslose Darlehen an die IWB für die Finanzierung von 200 öffentlich zugänglichen Ladestationen auf Allmend umfasst 11,4 Mio. Franken.
+Z.B. Stadt Zürich.
+Nicht inflationsbereinigt.
+Abbildung EBP 2022. Nicht berücksichtigt ist die Tilgung eines allfälligen Fehlbetrags aus dem Darlehen für die Ladestationen in der blauen Zone.
+
+Seite 17/32
+
+Regierungsrat des Kantons Basel-Stadt
+
+5.5.3
+
+Befreiung von der Lenkungsabgabe
+
+Um den Strombezug an Ladestationen durch den ZEM nicht zu verteuern, schlägt die vorliegende
+Motion vor, auf die Lenkungsabgabe teilweise oder ganz zu verzichten. Dieses Vorgehen ist sinnvoll. Einen vollständigen Verzicht erachtet der Regierungsrat dabei als einfacher umsetzbar.
+Die Lenkungsabgabe auf den Stromverbrauch ist im kantonalen Energiegesetz27 geregelt. In § 28
+ist festgehalten, wer die Lenkungsabgabe entrichten muss. Von der Lenkungsabgabe befreit sind
+aktuell i.d.R. Grossbezüger28 und Wärmepumpen. Soll der Bezug von Strom für das Laden von
+Elektrofahrzeugen ebenfalls von der Lenkungsabgabe befreit werden, muss das Energiegesetz
+entsprechend ergänzt werden (vgl. Kap. 6.2).
+Ladestrom wird von der Lenkungsabgabe befreit, sofern dafür der ZEM erhoben wird. Das gilt zwingend für Ladeinfrastrukturen, welche mit Hilfe von Förderbeiträgen erstellt wurden. Bei bestehenden Ladeinfrastruktur soll die Befreiung der Lenkungsabgabe bei gleichzeitiger Erhebung des ZEM
+ebenfalls möglich sein. Voraussetzung ist die Installation eines entsprechenden Zählers auf Kosten
+des Anlagebetreibers. Wird der ZEM wieder aufgehoben, wird auf den Ladestrom sämtlicher Ladestationen auf Kantonsgebiet wieder die Lenkungsabgabe erhoben.
+Durch die Befreiung der Lenkungsabgabe entgehen dem Stromsparfonds Einnahmen aus den Ladevorgängen im Umfang von bis zu rund 4 Mio. Franken29. Im Jahre 2022 stammten schätzungsweise 500’000 Franken der Fondseinnahmen aus dem Laden im Bereich der Elektromobilität. Nach
+Ablauf des ZEM wird die Lenkungsabgabe wieder erhoben.
+5.5.4
+
+Abwicklung der Ausgaben und Einnahmen über einen eigenen Fonds
+
+Wie in Kap. 5.5.1 erwähnt, erachtet es der Regierungsrat als sinnvoller, für die Auszahlung der
+Förderbeiträge und die Verbuchung der Einnahmen aus dem ZEM einen eigenen Fonds zu bilden.
+Dadurch können die Geldflüsse einfacher abgebildet werden. Bei einer Abwicklung über den bestehenden Fonds Energieförderabgabe müssten jährlich die Ein- und Ausgaben von den für diesen
+Fonds eigentlich bestimmten Fördergelder gemäss kantonalem Energiegesetz abgegrenzt werden.
+Das gilt auch für allfällige spätere Bundesbeiträge (vgl. Kap. 5.8). Mit einem eigenen Fonds müssen
+keine Abgrenzungen zu anderen Bundesmitteln gemacht werden.
+Für die Bildung eines Fonds aus öffentlichen Mitteln bedarf es gemäss § 42 Abs. 5 des Finanzhaushaltgesetzes30 einer gesetzlichen Grundlage. Wir schlagen vor, diese im kantonalen Umweltschutzgesetz zu verankern (vgl. Kap. 6.1). Gemäss Abb. 7 wird zu Beginn des Förderprogramms
+der jährliche Saldo des Fonds im Minus sein. Ab ca. 2034 decken die Einnahmen aus dem ZEM
+die Ausgaben. Danach wird mit einem positiven Fondssaldo gerechnet. Der Regierungsrat beabsichtigt, den vorübergehenden Negativsaldo durch Einlagen aus dem Fonds Energieförderabgabe
+abzusichern. Diese Einlage wird dem Fonds Energieförderabgabe schrittweise wieder gutgeschrieben, sobald die Einnahmen im ZEM-Fonds die Ausgaben überschreiten. Die Einzelheiten betreffend die Errichtung und Verwaltung des Fonds sollen in einer Verordnung geregelt werden.
+
+27
+28
+29
+30
+
+SG 772.100.
+Die Lenkungsabgabe kann gemäss § 28 Abs. 2 mit einer Branchenvereinbarung ebenfalls eingeführt werden.
+Gemäss Abb. 4 im Jahr 2034.
+SG 610.100.
+
+Seite 18/32
+
+Regierungsrat des Kantons Basel-Stadt
+
+5.6
+
+Ausbau der Ladeinfrastruktur in staatlichen öffentlichen Parkhäusern
+
+5.6.1
+
+Ausgangslage
+
+Der Kanton verfügt über folgende öffentlich zugängliche Parkhäuser:
+Anzahl PP31
+
+Anzahl AC-LS32
+
+1’114
+
+3
+
+Elisabethen
+
+840
+
+2
+
+Steinen
+
+526
+
+2
+
+St. Jakob
+
+1’054
+
+2
+
+Storchen
+
+142
+
+1
+
+ELYS
+
+146
+
+0
+
+Total
+
+3’822
+
+10
+
+Parkhaus
+City
+
+Tab. 6:
+
+Übersicht über die kantonseigenen öffentlich zugänglichen Parkhäuser in Basel-Stadt
+
+Die Auslastung der bestehenden Ladestationen in den staatlichen öffentlichen Parkhäusern ist
+noch eher gering und lag im Jahr 2022 im Durchschnitt bei etwa 23%33. Ein massiver Ausbau, wie
+ihn die Motion fordert, wäre zum jetzigen Zeitpunkt nicht angezeigt, da die Nachfrage in diesem
+Umfang nicht vorhanden ist.
+5.6.2
+
+Investitionskosten
+
+Mit den bestehenden Zuleitungen können pro Parkhaus ca. sechs zusätzliche AC-Ladestationen
+erstellt werden. Das würde jeweils Kosten von knapp 40'000 Franken verursachen.
+Bei einem längerfristigen Ausbau gemäss Tabelle 5 (Kap. 5.1) müssten Investitionen in die Grundinstallation getätigt werden. Für ein Angebot von 460 Ladepunkten bis 2030 betragen die Gesamtkosten rund 2 Mio. Franken. Ein weiterer Ausbau auf über 600 Ladepunkte hätte weitere Investitionen von rund 1.8 Mio. Franken zur Folge.
+5.6.3
+
+Finanzierung
+
+Die staatlichen öffentlichen Parkhäuser unterliegen dem Finanzvermögen des Kantons. Der Ausbau der Ladestationen soll, wie bei privaten Parkhäusern, ebenfalls mit Förderbeiträgen im Umfang
+von 60% unterstützt werden. Die restlichen 40% der Kosten an die Grundinstallation und die Kosten
+für die Ladestationen sollen z.B. via Mietkosten oder Zuschläge beim Ladevorgang auf die Nutzerinnen und Nutzern der Ladeinfrastruktur überwälzt werden.
+
+5.7
+
+Zeitliche und räumliche Umsetzung
+
+5.7.1
+
+Private Parkhäuser und Parkierungsanlagen
+
+Die öffentliche Hand hat nur einen begrenzten Einfluss auf das Verhalten privater Betreiberinnen
+von Parkierungsanlagen. Wie rasch und wo die erwünschte Ladeinfrastruktur erstellt wird, ist nur
+31
+32
+33
+
+Kurzparkplätze.
+AC-LS: Ladestationen mit Wechselstrom.
+Gemäss Auswertung von IWB. Die Bandbreite liegt zwischen 10% und 55%.
+
+Seite 19/32
+
+Regierungsrat des Kantons Basel-Stadt
+
+indirekt beeinflussbar. Finanzielle Anreize verbunden mit einer zielgerichteten Kommunikation und
+Sensibilisierung stehen deshalb im Vordergrund.
+Mit der vorgeschlagenen Höhe der Förderbeiträge für die Grundinstallation und der zeitlichen Begrenzung des Förderprogramms bis einschliesslich 2030 besteht aus Sicht des Regierungsrats ein
+grosser Anreiz, möglichst zeitnah mit der Infrastrukturplanung zu beginnen und diese umzusetzen.
+Ferner will der Regierungsrat die bestehenden Kommunikationskanäle nutzen, um Betreiberinnen
+privater Parkierungsanlagen über die Fördermöglichkeiten zu informieren.
+5.7.2
+
+Staatliche öffentliche Parkhäuser
+
+In den staatlichen öffentlichen Parkhäusern kann ein Ausbau der Ladestationen auf ca. acht Stück
+pro Parkhaus relativ schnell (innert Jahresfrist) und kostengünstig mit den bestehenden Zuleitungen vorgenommen werden. Ein weiterer Ausbau soll bedarfsgerecht mittels Analysen der Auslastungszahlen erfolgen.
+
+5.8
+
+Bundesbeiträge
+
+In der Botschaft vom 16. September 2022 zur Revision des CO2-Gesetzes für die Zeit nach 202434
+schlägt der Bundesrat vor, zwischen 2025 und 2030 Ladestationen ebenfalls finanziell zu unterstützen. Für die Förderung der Ladeinfrastruktur sollen deshalb jährlich maximal 30 Mio. Franken
+aus der Mineralölsteuer zur Verfügung gestellt werden, insgesamt also 180 Mio. Franken. Vorgesehen ist die Förderung von Ladeinfrastrukturen in Mehrparteiengebäuden, in Betrieben mit mehreren Arbeitsplätzen und auf öffentlichen Parkplätzen. Die Details und die Abwicklung der Förderung liegen noch nicht vor. Falls Pauschalbeiträge ausgesprochen werden, könnten sie dem neuen
+Fonds gutgeschrieben werden.
+Weitere Bundesbeiträge zur Förderung der Elektromobilität sind aus dem Agglomerationsprogramm Basel, 4. Generation zu erwarten (Zeitraum 2024 – 2028). Bei den Verkehrsmassnahmen
+wurde der Ausbau der Ladestationen in der blauen Zone im Programm eingegeben. Kommt der
+Beitragssatz von 40% zum Tragen, würde der Bundesbeitrag für den genannten Zeitraum 1,86 Mio.
+Franken betragen. Damit könnte ein Teil der Investitionskosten für den Ausbau der 200 Ladestationen in der blauen Zone, der nicht wirtschaftlich betrieben werden kann, gedeckt werden. Die
+4. Generation des Agglomerationsprogramms Basel wurde am 11. Juni 2021 bei Bund eingereicht.
+Der Prüfbericht des Bundes wird per 2023 erwartet. Anschliessend genehmigt die Bundesversammlung die Agglomerationsprogramme.
+
+34
+
+BBl 2022 2652.
+
+Seite 20/32
+
+Regierungsrat des Kantons Basel-Stadt
+
+6.
+
+Anpassung kantonaler Erlasse
+
+6.1
+
+Umweltschutzgesetz Basel-Stadt: Änderungen und Erläuterungen
+
+Für die Bildung eines eigenen Fonds bedarf es gemäss § 42 Abs. 5 Gesetz über den kantonalen
+Finanzhaushalt (Finanzhaushaltgesetz)35 einer ausdrücklichen gesetzlichen Grundlage. Da in
+§ 16a kantonales Umweltschutzgesetz (USG BS)36 die Lademöglichkeiten für Elektroautos geregelt
+ist, schlägt der Regierungsrat im Anschluss an die genannte Regelung für die Erstellung des Fonds
+und Finanzierung die nachstehenden Änderungen vor. Es braucht auch eine Ergänzung von § 17.
+Heutige Fassung
+Neue Fassung
+§ 16a Lademöglichkeiten für Elektroautos
+§ 16a Lademöglichkeiten für Elektroautos
+1
+Der Kanton sorgt dafür, dass eine genügende 1 Der Kanton sorgt dafür, dass eine genügende
+Anzahl öffentlich zugänglicher Parkplätze mit Anzahl öffentlich zugänglicher Parkplätze mit
+Lademöglichkeiten für Elektroautos ausgerüstet Lademöglichkeiten für Elektroautos ausgerüstet
+ist. Er kann diese Aufgabe an Dritte übertragen. ist. Er kann diese Aufgabe an Dritte übertragen.
+2
+Der Kanton fördert die Bereitstellung von Lademöglichkeiten für Elektroautos auf privatem
+und öffentlichem Grund.
+Abs. 2: Im Zug der Finanzierung von öffentlich zugänglichen Ladestationen auf Allmend hat der
+Grosse Rat bereits am 14. April 2021 das USG BS mit einem neuen § 16a ergänzt. In einem neuen
+Abs. 2 wird nun der Auftrag an den Kanton festgehalten, die Bereitstellung von Ladeinfrastruktur
+auf privatem und öffentlichem Grund zu fördern.
+Neue Fassung
+§ 16b Finanzielle Förderung der Ladeinfrastruktur für Elektroautos
+1
+Die Bereitstellung von Ladeinfrastruktur für
+Elektroautos in öffentlich zugänglichen Parkhäusern und auf privatem Grund wird bis einschliesslich zum Jahr 2030 finanziell gefördert.
+2
+Für die Ausrichtung von Förderbeiträgen und
+die Finanzierung der damit verbundenen Vollzugskosten wird ein Fonds gebildet.
+3
+Die Mittel des Fonds dürfen auch für die Deckung eines allfälligen Fehlbetrags aus dem mit
+Grossratsbeschluss vom 14. April 2021 bewilligten Darlehen an die Industriellen Werke Basel
+für die Finanzierung von 200 öffentlich zugänglichen Ladestationen auf Allmend verwendet
+werden.
+4
+Der Fonds besteht bis zur vollständigen Deckung der in Abs. 2 und 3 genannten Kosten.
+Ein bei seiner Auflösung bestehender Überschuss wird dem Stromsparfonds zugewiesen.
+Abs. 1: Die finanzielle Förderung gilt für öffentliche sowie private Parkierungsanlagen. Darin eingeschlossen sind auch kantonseigene Parkierungsanlagen, Einfamilienhäuser mit eigener Parkierungsmöglichkeit sowie Parkplätze von Carsharing-Unternehmen in dafür vorgesehenen Standorte
+im Strassenraum. Damit ein Anreiz besteht, möglichst bald in eine Ladeinfrastruktur zu investieren,
+35
+36
+
+SG 610.100.
+SG 780.100.
+
+Seite 21/32
+
+Regierungsrat des Kantons Basel-Stadt
+
+soll die Förderung zeitlich begrenzt werden, nämlich bis und mit dem Jahr 2030.
+Abs. 2: Für eine transparente Abwicklung der Förderbeiträge und die Refinanzierung über den ZEM
+soll ein eigener Fonds gebildet werden. In Abs. 2 wird die im Finanzhaushaltgesetz37 verlangte
+gesetzliche Grundlage geschaffen.
+Abs. 3: Mit der Genehmigung eines bedingt rückzahlbaren zinslosen Darlehens an die IWB für die
+Finanzierung von 200 öffentlich zugänglichen Ladestationen auf Allmend hat der Grosse Rat am
+14. April 2021 in einem Grossratsbeschluss III auch festgehalten, dass die Kosten in Zusammenhang mit der Dekarbonisierung des Verkehrs im Kanton Basel-Stadt verursachergerecht abzuwickeln sind. Ein allfälliger Fehlbetrag kann entstehen, wenn die Einnahmen aus dem Ladegeschäft
+die Investitionskosten nicht decken können.
+Abs. 4: Der Fonds wird geschlossen, sobald die Ausgaben für die Förderbeiträge und ein allfälliger
+Fehlbetrag für das Darlehen an die IWB für die Finanzierung der Ladestationen in der blauen Zone
+durch den ZEM gedeckt sind. Ein allfälliger Überschuss im Fonds wird dem Stromsparfonds gutgeschrieben. Der Überschuss kann aufgrund der zeitlichen Verzögerung zwischen der Deckung
+der Kosten und der formellen Auflösung des Fonds entstehen.
+Neue Fassung
+§ 16c Finanzierung des Fonds
+1
+Der Fonds wird durch einen auf dem Strombezug aus dem öffentlichen Stromnetz bei Ladevorgängen erhobenen Zuschlag zur Elektrifizierung der motorisierten Mobilität (ZEM) und
+durch allfällige Förderbeiträge des Bundes gespeist.
+2
+Der ZEM beträgt höchstens 2.5 Rp./kWh und
+wird vom Regierungsrat festgelegt.
+3
+Ausgenommen von der Erhebung des ZEM
+sind unter Vorbehalt der Installation eines separaten, für die Erhebung des ZEM vorgesehenen
+Zählers:
+a) bei Inkrafttreten der §§ 16b ff. bereits bestehende Ladeinfrastrukturen;
+b) Ladeinfrastrukturen, für deren Erstellung und
+Erweiterung keine Förderbeiträge gewährt werden.
+4
+Der Regierungsrat kann Mittel aus dem Fonds
+Energieförderabgabe in den neuen Fonds übertragen. Diese Mittel sind zu einem späteren Zeitpunkt soweit möglich wieder in den Fonds Energieförderabgabe zurück zu überweisen.
+Abs. 1 hält fest, wie der Fonds alimentiert wird: Beim Laden von Elektroautos aus dem öffentlichen
+Stromnetz wird ein Zuschlag für die Elektrifizierung der motorisierten Mobilität (ZEM) erhoben.
+Abs. 2: Wie in der Motion vorgeschlagen, soll der ZEM höchstens 2.5 Rappen pro kWh betragen.
+Der Regierungsrat hat die Möglichkeit, auf Stufe Verordnung den Betrag bei Bedarf zu reduzieren.
+Abs. 3: Kein ZEM wird Ladeinfrastrukturen erhoben, die im Zeitpunkt des Inkrafttretens der neuen
+Regelung bereits bestehen. Gleiches gilt für neu erstellte oder erweiterte Ladeinfrastrukturen, für
+die keine Förderbeiträge ausgerichtet wurden. Den Inhaberinnen und Inhabern solcher Infrastrukturen steht es indessen frei, auf eigene Kosten einen für die Abrechnung des ZEM bestimmten
+37
+
+SG 610.100.
+
+Seite 22/32
+
+Regierungsrat des Kantons Basel-Stadt
+
+Zähler zu installieren. Damit werden ihre Strombezüge für das Laden von Elektroautos von der –
+im Vergleich zum ZEM deutlich höheren – Lenkungsabgabe befreit (vgl. dazu Ziff. 5.5.3 hiervor und
+die neue Regelung in § 28 Abs. 4 EnG).
+Abs. 4: Zur Äufnung des ZEM-Fonds soll der Regierungsrat die Möglichkeit haben, als Startkapital
+zur Finanzierung der Förderbeiträge Mittel aus dem Fonds Energieförderabgabe in den neuen
+Fonds zu transferieren. Wenn der ZEM-Fonds aufgrund des ZEM über genügende Mittel verfügt,
+ist die Einlage wieder in den Fonds Energieförderabgabe zurückzuzahlen.
+Neue Fassung
+§ 16d Befristung des ZEM
+1
+Der ZEM wird längstens bis zur Deckung der
+Förderbeiträge für die Ladeinfrastruktur für
+Elektroautos sowie eines Fehlbetrags gemäss §
+16b Abs. 3 erhoben.
+2
+Der Regierungsrat wird ermächtigt, die Erhebung des ZEM einzustellen, wenn dessen
+Zweck gemäss Abs. 1 erreicht ist.
+Abs. 1: Die Mittel des Fonds dürfen ausschliesslich für die im Gesetz genannten Zwecke verwendet
+werden, weshalb die Erhebung des ZEM befristet wird.
+Abs. 2: Die Kompetenz, die Erhebung des ZEM einzustellen, soll an den Regierungsrat delegiert
+werden. Dieses Vorgehen ist gegenüber einer Gesetzesänderung mit einem geringeren administrativen Aufwand verbunden.
+
+Neue Fassung
+§ 16e Fördergegenstand
+1
+Förderbeitragsberechtigt sind die Neuerstellung und die Erweiterung von:
+a) Ladeinfrastrukturen in staatlichen und privaten öffentlich zugänglichen Parkhäusern;
+b) Ladeinfrastrukturen auf privatem Grund;
+c) Ladeinfrastrukturen von Carsharing-Anbieterinnen und -Anbietern auf Allmend.
+Abs. 1 regelt, für welche Ladeinfrastrukturen Förderbeiträge beantragt werden können. Es sind dies
+nebst den öffentlich zugänglichen Parkhäusern auch Ladeinfrastrukturen auf privatem Grund
+(Wohnhäuser, Tiefgaragen von Mehrfamilienhäusern, Abstellplätze von Unternehmen). Aus Bst. a
+ergibt sich, dass auch staatliche öffentliche Parkhäuser Förderanträge stellen können. Zu Bst. b
+gehören auch kantonseigene, nicht öffentliche Parkhäuser. Mit Bst. c wird Carsharing-Unternehmen die Möglichkeit gegeben, ebenfalls einen Förderantrag zu stellen, falls sie Ladestationen auf
+dafür vorgesehenen Parkfeldern im Strassenraum erstellen und ausschliesslich für ihre eigenen
+Fahrzeuge nutzen möchten. Für Carsharing-Standorte auf privatem Grund gilt Bst. b.
+Neue Fassung
+§ 16f Förderkriterien
+1
+Förderbeitragsberechtigt sind Ladeinfrastrukturen auf dem Gebiet des Kantons Basel-Stadt.
+2
+Die Ladeinfrastruktur umfasst die Grundinstallation unter Ausschluss der Ladestationen.
+3
+Förderbeiträge werden nur ausgerichtet, wenn
+die Ladeinfrastruktur mit einem separaten
+
+Seite 23/32
+
+Regierungsrat des Kantons Basel-Stadt
+
+Stromzähler für die Erhebung des ZEM ausgerüstet wird.
+Abs. 1: Ladeinfrastrukturen, die sich ausserhalb des Kantons Basel-Stadt befinden, werden nicht
+finanziell gefördert.
+Abs. 2: Förderberechtigt ist lediglich die Grundinstallation einer Ladeinfrastruktur. Hier entstehen
+in der Regel die meisten Kosten. Sie ist zudem Voraussetzung, dass anschliessend Ladestationen
+angeschlossen werden können. Die Kosten für die einzelnen Ladestationen und deren Montage
+sind hingegen von der Förderung ausgenommen, da sie in einem überschaubaren Rahmen liegen.
+Was zur Grundinstallation gehört, wird in der Verordnung festgelegt werden, wobei sich die Regelung am SIA-Merkblatt 2060 orientieren wird.
+Abs. 3: Voraussetzung für den Erhalt von Förderbeiträgen ist die Installation eines separaten
+Stromzählers. Nur auf diese Weise ist die Erhebung des ZEM gewährleistet, was wiederum eine
+Grundvoraussetzung für die verursachergerechte Finanzierung des Förderprogramms ist.
+Neue Fassung
+§ 16g Förderumfang
+1
+Die Höhe der Förderbeiträge hängt vom Fördergegenstand ab und beträgt
+a) bei Ladeinfrastrukturen in staatlichen und privaten öffentlich zugänglichen Parkhäusern 60%
+der Kosten der Grundinstallation, maximal aber
+Fr. 3'500 pro Ladepunkt;
+b) bei Ladeinfrastrukturen auf privatem Grund
+60% der Kosten der Grundinstallation, maximal
+aber Fr. 1'300 pro Ladepunkt;
+c) bei Ladeinfrastrukturen von Carsharing-Anbieterinnen und -Anbietern auf Allmend 60% der
+Kosten der Grundinstallation, maximal aber
+Fr. 7'500 pro Ladepunkt.
+Abs. 1: Der Förderung soll 60% der Kosten der Grundinstallation betragen und wird in § 16g festgeschrieben. Die Höhe ist so angelegt, dass ein Anreiz besteht, innerhalb der Förderperiode die
+erforderlichen Investitionen für eine Ladeinfrastruktur zu tätigen. Die restlichen 40% der Investitionskosten müssen selber getragen werden, womit der Mitnahmeeffekt minimiert wird.
+
+Neue Fassung
+§ 16h Rückforderung
+1
+Unrechtmässig ausbezahlte Förderbeiträge
+können von der zuständigen Behörde zurückgefordert werden.
+2
+Der Rückforderungsanspruch verjährt, wenn er
+nicht innert einem Jahr ab dem Zeitpunkt geltend gemacht wird, in dem die zuständige Behörde vom Eintritt des Umstandes Kenntnis erhalten hat, welcher die Rückerstattungspflicht
+begründet, jedoch spätestens zehn Jahre nach
+der unrechtmässigen Auszahlung.
+Abs. 1: Falls jemand widerrechtlich Förderbeiträge in Anspruch genommen hat, muss die Möglichkeit bestehen, die Beträge zurückzufordern.
+
+Seite 24/32
+
+Regierungsrat des Kantons Basel-Stadt
+
+Abs. 2: Die Rückforderung wird an eine Verjährungsfrist von zehn Jahren gekoppelt. Sobald die
+zuständige Behörde Kenntnis von einem unrechtmässigen Bezug von Förderbeiträgen hat, muss
+sie innert Jahresfrist den Rückforderungsanspruch geltend machen.
+
+Neue Fassung
+§ 16i Vollzug
+1
+Der Regierungsrat regelt die Einzelheiten betreffend die Errichtung und Verwaltung des
+Fonds und die Gewährung von Förderbeiträgen
+in einer Verordnung.
+Abs. 1: Die Einzelheiten zum Fonds und zur Abwicklung der Förderbeiträge sollen in einer Verordnung geregelt werden. Es geht dabei u.a. um die genauere Definition der Grundinstallation und um
+den Eingabe- und den Genehmigungsprozess.
+Heutige Fassung
+Neue Fassung
+§ 17 Finanzielle Unterstützung von Parkie- § 17 Finanzielle Unterstützung von Parkierungsanlagen
+rungsanlagen
+1
+Jede finanzielle Unterstützung des Baus und 1 Jede finanzielle Unterstützung des Baus und
+Betriebs von Parkierungsanlagen für motori- Betriebs von Parkierungsanlagen für motorisierte Privatfahrzeuge durch den Kanton oder sierte Privatfahrzeuge durch den Kanton oder
+die Gemeinden Bettingen oder Riehen ist verbo- die Gemeinden Bettingen oder Riehen ist verboten.
+ten.
+2
+2
+Dieses Verbot gilt nicht für
+Dieses Verbot gilt nicht für
+a) Park-and-Ride-Anlagen nach § 19;
+a) Park-and-Ride-Anlagen nach § 19;
+b) Anwohnerparkplätze in Quartierparkings b) Anwohnerparkplätze in Quartierparkings
+nach
+nach
+§ 19bis.
+§ 19bis;
+c) Ladeinfrastrukturen für Elektroautos.
+Abs. 2 Bst. c: Für die Finanzierung des oben dargelegten Förderprogramms wird der ZEM erhoben.
+Gemäss Abbildung 7 erfolgt die Refinanzierung jedoch zeitverschoben. Somit geht der Kanton in
+eine Vorleistung und unterstützt damit bauliche Massnahmen bei Parkierungsanlagen für motorisierte Privatfahrzeuge. Aus diesem Grund muss § 17 Abs. 2 mit Bst. c ergänzt werden.
+
+6.2
+
+Energiegesetz Basel-Stadt: Änderung und Erläuterung
+
+Um die Befreiung der Lenkungsabgabe gesetzlich zu verankern, schlägt der Regierungsrat die Ergänzung von § 28 im Energiegesetz vor:
+Heutige Fassung
+Neue Fassung
+§ 28
+§ 28
+1
+Die Verbraucherinnen und Verbraucher der 1 Die Verbraucherinnen und Verbraucher der
+Bezugskategorien Haushalte und Betriebe, Bezugskategorien Haushalte und Betriebe,
+ohne Grossbezüger, unterliegen einer Len- ohne Grossbezüger, unterliegen einer Lenkungsabgabe auf ihrem Stromverbrauch.
+kungsabgabe auf ihrem Stromverbrauch.
+2
+Für die Bezugskategorie Grossbezüger kann 2 Für die Bezugskategorie Grossbezüger kann
+die Lenkungsabgabe durch Branchenvereinba- die Lenkungsabgabe durch Branchenvereinbarungen ebenfalls eingeführt werden.
+rungen ebenfalls eingeführt werden.
+3
+Auf unterbrechbaren Stromlieferungen aus er- 3 Auf unterbrechbaren Stromlieferungen aus erneuerbaren Energien für Wärmepumpen wird neuerbaren Energien für Wärmepumpen wird
+keine Lenkungsabgabe erhoben. Die Abrech- keine Lenkungsabgabe erhoben. Die Abrechnung erfolgt gesondert vom übrigen Verbrauch. nung erfolgt gesondert vom übrigen Verbrauch.
+
+Seite 25/32
+
+Regierungsrat des Kantons Basel-Stadt
+
+4
+
+Strombezüge für das Laden von Elektroautos
+sind von der Lenkungsabgabe befreit, soweit ein
+Zuschlag für die Elektrifizierung der motorisierten Mobilität erhoben wird.
+Abs. 4: Um den Förderzweck zu erreichen, sollen ZEM-pflichtige Strombezüge von der Lenkungsabgabe befreit werden (vgl. dazu oben Ziff. 5.5.3). Diese Befreiung von der Lenkungsabgabe bedarf einer gesetzlichen Grundlage, die aus Gründen der Systematik und der Sachnähe im Energiegesetz geschaffen werden soll. Analog zu den Wärmepumpen wird in einem neuen Absatz 4
+festgelegt, dass die Lenkungsabgabe beim Laden von Elektroautos nicht eingefordert wird, sofern
+beim Laden der ZEM erhoben wird.
+
+6.3
+
+Weitere Anpassungen
+
+Der Zuschlag für die Elektrifizierung der motorisierten Mobilität (ZEM) bei gleichzeitiger Befreiung
+von der Lenkungsabgabe bedingt auch eine Änderung der Verordnung zur Lenkungsabgabe und
+zum Strompreis-Bonus38. Ferner muss der ZEM auch im Gebührentarif der IWB betreffend den
+Anschluss und die Nutzung des Netzes für elektrische Energie 39und im Gebührentarif der IWB für
+die elektrische Energie40 aufgenommen werden.
+
+7.
+
+Finanzielle Auswirkungen
+
+Der vorliegende Ratschlag geht davon aus, dass bis 2030 ein Investitionsbedarf für den Ausbau
+der Grundinstallation in den verschiedenen Parkierungsanlagen in der Grösse von 15.5 Mio. Franken besteht (vgl. Tab. 5). Bei maximalen Förderbeiträgen von 60% würden insgesamt
+9.3 Mio. Franken an Fördermitteln ausbezahlt. Darin eingerechnet sind auch die staatlichen öffentlichen Parkhäuser in Basel-Stadt. Die Kosten für den Ausbau deren Grundinstallation werden auf
+1.3 Mio. Franken geschätzt. Auch sie sollen Förderbeiträge für die Grundinstallation erhalten und
+die Restkosten verursachergerecht auf die Nutzerinnen und Nutzer der Ladeinfrastruktur abwälzen.
+Hinzu kommen die Investitionskosten der Carsharing-Unternehmen, welche für ihre Standplätze im
+Strassenraum eine eigene Ladeinfrastruktur realisieren wollen. Der maximale Betrag für die Fördermittel würde bei 1.5 Mio. Franken liegen (200 Ladepunkte à max. 7'500 Franken). Wie viele
+Fördermittel bis Ende 2030 jedoch beantragt werden, kann heute nicht abgeschätzt werden und
+hängt auch davon ab, wie häufig vom Angebot, den bereits genehmigten Rollout der 200 Ladestationen in der blauen Zone mitzunutzen, Gebrauch gemacht wird.
+Die Finanzierung der Förderbeiträge für die Ladeinfrastruktur soll über den neuen Zuschlag zur
+Elektrifizierung der motorisierten Mobilität (ZEM) in der Höhe von 2.5 Rp./kWh an den Ladestationen erfolgen. Finanzierung und Refinanzierung werden in einem eigenen Fonds abgebildet. Der
+Fonds-Verlauf wird gemäss Abbildung 8 wie folgt erwartet:
+
+38
+39
+40
+
+SG 772.140.
+SG 772.420.
+SG 772.430.
+
+Seite 26/32
+
+2.5
+0.5
+
+-1.3
+-3.0
+-4.0
+
+Abb. 8:
+
+2035
+
+2034
+
+2033
+
+2032
+
+2031
+
+2028
+
+2030
+
+-6.3 -6.3 -6.1
+
+2029
+
+-5.8 -6.2
+
+2027
+
+-5.4
+
+2026
+
+-4.6
+
+2025
+
+-4.8
+
+2024
+
+3.0
+2.0
+1.0
+0.0
+-1.0
+-2.0
+-3.0
+-4.0
+-5.0
+-6.0
+-7.0
+
+2023
+
+Mio. CHF
+
+Regierungsrat des Kantons Basel-Stadt
+
+Voraussichtlicher Fondsverlauf (kumulierte ZEM-Einnahmen abzüglich der Gesamtkosten) für die Periode
+2023 bis 2040 inkl. administrativer Aufwand während der Förderperiode. Nicht eingerechnet ist ein allfälliger
+nicht tilgbarer Anteil des bedingt rückzahlbaren, zinslosen Darlehens für 200 Ladestationen in der blauen Zone
+sowie Förderbeiträge für Carsharing-Unternehmen für eine eigene Ladeinfrastruktur an Standorten im Strassenraum. 2034 sind voraussichtlich die Ausgaben durch den ZEM gedeckt. Der anfängliche Negativsaldo soll
+durch eine Vorleistung aus dem Fonds Energieförderabgabe gedeckt werden.
+
+Der administrative Aufwand für die Abwicklung der Förderbeiträge soll – analog zur Energie-Förderabgabe41 – ebenfalls über den ZEM finanziert werden. Der geschätzte personelle Aufwand von
+0,5 – 1,0 VZÄ würde bis zum Abschluss der Förderperiode jährlich zwischen 50'000 und
+100'000 Franken betragen. Er ist in Abbildung 8 eingerechnet.
+Die Einnahmen aus dem ZEM sollen – wie in der Motion erwähnt – auch dazu dienen, den nichttilgbaren Anteil des bedingt rückzahlbaren, zinslosen Darlehens an IWB für den Bau von 200 Ladestationen in der blauen Zone zu finanzieren. Wie hoch dieser Anteil sein wird, ist noch offen und
+hängt davon, wie wirtschaftlich die Ladestationen betrieben werden können. In Abbildung 8 sind
+deshalb die Kosten nicht aufgeführt. Das Darlehen in der Höhe von 11.4 Mio. Franken hat der
+Grosse Rat am 14. April 2021 bereits bewilligt.
+Noch offen ist, wie sich die angekündigten Bundesbeiträge für die Förderung von Ladestationen im
+Zusammenhang mit der Revision des CO2-Gesetzes auf den Fonds-Verlauf auswirken. Der Bund
+will zwischen 2025 und 2030 jährlich maximal 30 Mio. Franken den Kantonen zur Verfügung stellen.
+Die Details der Auszahlung sind noch nicht bekannt. Falls der Bund Förderbeiträge ausbezahlt,
+sollen diese dem Fonds gutgeschrieben werden. D.h. zwischen 2025 und 2030 dürfte dann der
+Negativsaldo im Fonds gemäss Abbildung 8 geringer ausfallen.
+Das gleiche gilt auch für allfällige Bundebeiträge aus dem Agglomerationsprogramm Basel, 4. Generation, für den Zeitraum 2024 – 2028 für Beiträge an die öffentliche Ladeinfrastruktur in der
+blauen Zone. Stimmt die Bundesversammlung dem Antrag zu, ist mit einem Beitrag von
+1,86 Mio. Franken zu rechnen. Damit reduziert sich ein allfälliger nicht tilgbarer Anteil des bedingt
+rückzahlbaren, zinslosen Darlehens für die 200 Ladestationen in der blauen Zone.
+
+41
+
+Vgl. § 26 EnG (SG 772.100): Der Aufwand für den Vollzug des kantonalen Energiegesetzes wird aus dem Fonds Energie-Förderabgabe beglichen.
+
+Seite 27/32
+
+Regierungsrat des Kantons Basel-Stadt
+
+Strombezüge, bei denen der ZEM erhoben wird, sollen von der Lenkungsabgabe befreit werden.
+Dadurch entgehen dem Stromsparfonds zukünftige Einnahmen bis gegen 4 Mio. Franken pro Jahr.
+Mit dem vorgeschlagenen Finanzierungsmechanismus zur Förderung der Ladeinfrastruktur entstehen somit für den Kanton keine Mehrkosten. Der Kanton geht aber in Vorleistung. Diese Vorleistung
+soll über den Fonds Energieförderabgabe gedeckt werden, welche gemäss § 28 Finanzhaushaltgesetz der Regierungsrat vornehmen kann. Mit der Einführung des ZEM erfolgt die Finanzierung
+verursachergerecht, allerdings zeitverschoben.
+
+8.
+
+Formelle Prüfungen und Regulierungsfolgenabschätzung
+
+Das Finanzdepartement hat den vorliegenden Ratschlag gemäss § 8 des Gesetzes über den kantonalen Finanzhaushalt (Finanzhaushaltgesetz) vom 14. März 2012 überprüft.
+Das Justiz- und Sicherheitsdepartement hat die Änderungen des Umweltschutzgesetzes BaselStadt und des Energiegesetzes im Hinblick auf die Aufnahme in die Gesetzessammlung geprüft.
+Der Vortest zur Klärung der Betroffenheit von Unternehmen hat ergeben, dass durch die Vorlage
+keine negativen Auswirkungen zu erwarten sind und damit keine Regulierungsfolgenabschätzung
+(RFA) durchzuführen ist.
+
+9.
+
+Motion der Umwelt, Verkehrs- und Energiekommission betreffend einem raschen Ausbau der Ladeinfrastruktur für E-Autos in
+Basel-Stadt
+
+Der Grosse Rat hat an seiner Sitzung vom 17. November 2021 die nachstehende Motion der Umwelt, Verkehrs- und Energiekommission dem Regierungsrat zur Ausarbeitung einer Vorlage innert
+zwei Jahren überwiesen:
+«Bis anhin wurden wenig neue E-Autos gekauft. Immer mehr Hersteller bieten jedoch E-Autos aller Art
+an. Gemäss Aussagen wichtiger Exponenten der Autoindustrie, werden E-Autos bis 2025 nicht mehr
+teurer sein, als solche mit Verbrennungsmotor. Bei einer Preisparität wird die vorhandene Ladeinfrastruktur ein wichtiges Kriterium sein, sich beim Auto-Kauf für eines mit Elektro-Antrieb zu entscheiden.
+Mit dem Ratschlag 19.0926.01 «Gesamtkonzept Elektromobilität» und in Erfüllung der Motion
+«Thomas Grossenbacher und Stephan Luethi-Brüderlin betreffend Rahmenkredit für einen
+nachfragegesteuerten Ausbau von 200 öffentlich zugänglichen Ladestationen für E-Mobile» entstehen
+bis ins Jahr 2026 200 Quartier-Ladestationen in der Blauen Zone. Diese Ladestationen werden durch
+die IWB erstellt und betrieben. Die IWB erhält hierfür vom Kanton ein bedingt rückzahlbares Darlehen.
+Dieses Darlehen soll durch die Bewirtschaftung der Ladestationen bedient werden. Es ist jedoch
+absehbar, dass aufgrund der hohen Erstellungskosten nur ein kleiner Teil des Darlehens über die
+Bewirtschaftung der Ladestationen getilgt werden kann.
+Um die Infrastruktur für einen klimaneutralen Verkehr bis 2050 zu schaffen und in Zukunft den motorisierten Individualverkehr zu reduzieren und zu elektrifizieren, sind deutlich mehr als 200
+Ladestationen notwendig. Weitere Ladestationen im Strassenraum zu erstellen ist jedoch mit sehr
+hohen Kosten verbunden. Die Installation von genügend Ladestationen in Parkhäusern ist signifikant
+günstiger und schafft zudem den Anreiz, die Autos ebenda zu parkieren, was verkehrspolitisch und
+städtebaulich erwünscht ist.
+Die Unterzeichnenden fordern deshalb den Regierungsrat auf, zusätzlich zu den 200 QuartierLadestationen 2'000 Ladestationen in öffentlich zugänglichen Parkhäusern zu erstellen sowie
+Massnahmen zu ergreifen, die zur Erstellung weiterer Ladestationen auf privatem Grund führen.
+Ca. 1000 Ladestationen sollen in den 5 staatlichen Parkhäusern entstehen. Dadurch nimmt der Kanton
+mit einer Parkplatz-Elektrifizierungsquote von 35% in seinen eigenen Parkhäusern eine Vorbildrolle
+wahr. Die Ladestationen sollen durch die IWB erstellt und betrieben werden. Die IWB sollen hierfür
+vom Kanton ein bedingt rückzahlbares Darlehen erhalten. Dieses Darlehen soll soweit möglich durch
+die Bewirtschaftung der Ladestationen bedient werden.
+
+Seite 28/32
+
+Regierungsrat des Kantons Basel-Stadt
+
+Weitere rund 1'000 Ladestationen sollen in privaten, öffentlich zugänglichen Parkhäusern installiert
+werden. Dies kann auf zwei Arten erfolgen:
+a) In dem die IWB mit den privaten Parkhaus-Betreibern eine Vereinbarung trifft, dass sie (die IWB)
+diese Ladestationen analog zu den staatlichen Parkhäusern erstellt und betreibt.
+b) Die privaten Parkhaus-Betreiber werden mit Subventionen motiviert, die Ladestationen selber zu
+erstellen und zu betreiben.
+Um in diesem Sinne Subventionen auszahlen zu können ist ein neues Förderprogramm zu initiieren.
+Dieses soll sich am heutigen Förderprogramm der EWZ (https://www.ewz.ch/de/ueberewz/portrait/engagement/2000-watt-gesellschaft.html) orientieren. Es beinhaltet Zuschüsse von ca.
+50% der Erstellungskosten einer Ladestation.
+Damit auch Autobesitzende, welche für ihr Fahrzeug einen privaten Einstellplatz nutzen, ebenfalls von
+der Förderung profitieren können, soll zusätzlich ein mehrjähriges Förderprogramm zu den gleichen
+Konditionen initiiert werden, welches allen Interessierten offensteht. Das Ziel soll sein, dass Private
+dadurch weitere ca. 2'000 Ladestationen erstellen.
+Die Gesamtkosten für den beschriebenen Initial-Ausbau, nämlich:
+ der nicht durch die Bewirtschaftung tilgbare Teil des Darlehens für die 200 Quartier-Ladestationen
+ der nicht durch die Bewirtschaftung tilgbare Teil des Darlehens für die durch die IWB erstellt und
+betriebenen Ladestationen in Parkhäusern
+ die Kosten für das Förderprogramm für die Ladestationen in den privaten öffentlich zugänglichen
+Parkhäusern
+ die Kosten für das allgemein zugängliche Förderprogramm
+sollen verursachendengerecht finanziert werden. So kann vermieden werden, dass Personen,
+Haushalte und Firmen ohne Auto eine Infrastruktur mitfinanzieren müssen, welche zu einem grossen
+Teil den E-Autobesitzenden zugutekommt.
+Die dazu nötigen Mittel sollen dem Energieförderfonds entnommen werden. Im Gegenzug soll dieser
+mit einem neuen Zuschlag für Elektrifizierung der motorisierten Mobilität (nachfolgend «ZEM») wieder
+gespeist werden, der beim Aufladen von E-Autos erhoben wird.
+Dazu sollen die IWB einen neuen E-Mobilitätstarif einführen. Dieser neue Tarif sollte ganz oder
+teilweise von der Lenkungsabgabe (heute 5 Rp./kWh) befreit werden, dafür aber eben diesen Zuschlag
+für Elektrifizierung der motorisierten Mobilität «ZEM» enthalten. Der ZEM fliesst vollständig in den
+Energieförderfonds und kann dem Mittelbedarf entsprechend angepasst werden. Die Höhe des ZEM
+bzw. die Höhe der Befreiung von der Lenkungsabgabe sollte so gestaltet sein, dass ein Anreiz besteht,
+diesen neuen E-Mobilitätstarif zu nutzen. Eine Grobkalkulation legt nahe, dass ein ZEM in der Höhe
+von 2,5 Rp./kWh mittel- bis langfristig die Gesamtkosten dieses Initial-Ausbaus amortisieren könnte.
+Die Unterzeichnenden verlangen von der Regierung:
+ Dem Grossen Rat einen Ratschlag zu unterbreiten zur Erstellung von ca. 1'000 Ladestationen in
+öffentlichen Parkhäusern sowie zur Förderung durch Subventionen von ca. 1'000 Ladestationen in
+privaten öffentlichen Parkhäusern und von ca. 2'000 Ladestationen auf privaten Abstellplätzen.
+ Der Ratschlag soll über die zeitliche und räumliche Umsetzung sowie über die Art und Weise der
+Finanzierung Auskunft geben. Es gilt dabei, das Verursachendenprinzip einzuhalten. Ferner sollen
+nationale Finanzierungsinstrumente miteinberechnet werden.
+ Falls notwendig, dem Grossen Rat die erforderlichen Gesetzesänderungen vorzuschlagen, z. Bsp.
+Damit auf Verordnungsebene beim Aufladen von Elektro-Autos ein Zuschlag für Elektrifizierung der
+motorisierten Mobilität eingeführt und ganz oder teilweise auf die Lenkungsabgabe verzichtet
+werden kann. Die Abwicklung soll über den Energie-Förderfonds laufen
+ Die Erfüllung dieser Motion innert 12 Monaten.
+Für die Umwelt-, Verkehrs- und Energiekommission: Raphael Fuhrer»
+
+Seite 29/32
+
+Regierungsrat des Kantons Basel-Stadt
+
+Wir nehmen zu dieser Motion wie folgt Stellung:
+
+9.1
+
+Einleitung
+
+Der Regierungsrat unterstützt die Anliegen der Motion. Eine ausreichende Ladeinfrastruktur ist entscheidend für den Umstieg auf die Elektromobilität. Damit die Klimaziele des Kantons erreicht werden können, soll dieser Umstieg so rasch als möglich erfolgen. Das vorgesehene Förderpaket soll
+einen Anreiz bieten, dass in Parkhäusern und Parkierungsanlagen so rasch als möglich die notwendige Grundinstallation für den Rollout von Ladestationen eingerichtet wird.
+
+9.2
+
+Stellungnahme zu den Forderungen
+
+Dem Grossen Rat einen Ratschlag zu unterbreiten zur Erstellung von ca. 1'000 Ladestationen in
+öffentlichen Parkhäusern sowie zur Förderung durch Subventionen von ca. 1'000 Ladestationen in
+privaten öffentlichen Parkhäusern und von ca. 2'000 Ladestationen auf privaten Abstellplätzen
+Mit dem vorliegenden Ratschlag werden die Voraussetzungen für die finanzielle Förderung der
+Ladeinfrastruktur in Parkhäusern und Parkierungsanlagen geschaffen. Die Förderbeiträge sollen
+für die Erstellung der Grundinstallation ausgerichtet werden. Diese Initialinvestition ist insbesondere bei grösseren Parkhäusern Voraussetzung für eine ausreichende Anzahl an Ladestationen.
+Von den Förderbeiträgen können auch die staatlichen öffentlichen Parkhäuser profitieren. Bezüglich dem Bedarf an Ladestationen hat die beiliegende Studie von EBP gezeigt, dass bei diesen
+Parkhäusern der längerfristige Bedarf unter der in der Motion genannten Anzahl von 1'000 Ladestationen liegt (460-760 Ladepunkte). Der Bedarf bei privaten Parkierungseinrichtungen dürfte dafür
+deutlich höher als 2'000 Ladestationen sein (bis 30'000 Ladepunkte). Im vorliegenden Ratschlag
+wird auch der Bedarf an Ladestationen für Carsharing-Unternehmen aufgenommen, welche dafür
+ausgewiesene Standplätze im Strassenraum mit einer Ladeinfrastruktur versehen wollen.
+Der Ratschlag soll über die zeitliche und räumliche Umsetzung sowie über die Art und Weise der
+Finanzierung Auskunft geben. Es gilt dabei, das Verursachendenprinzip einzuhalten. Ferner sollen
+nationale Finanzierungsinstrumente miteinberechnet werden
+Die mit diesem Ratschlag vorgeschlagenen Förderbeiträge sollen bis Ende 2030 beantragt werden
+können. Damit besteht der Anreiz, die Planung und Realisierung der Grundinstallation rasch an die
+Hand zu nehmen. Bei den staatlichen öffentlichen Parkhäusern hat der Regierungsrat dem dafür
+zuständigen Finanzdepartement bereits den entsprechenden Auftrag erteilt. Die Parkhäuser Steinen, Elisabethen und City sollen zudem bereits im Jahre 2023 auf je acht Ladestationen erweitert
+werden. Dies erfolgt mit den bestehenden Zuleitungen und ist daher relativ kostengünstig. Ein weiterer Ausbau der Ladestationen aller oben aufgeführten staatlichen öffentlichen Parkhäusern erfolgt bedarfsgerecht mittels Analyse der Auslastungszahlen.
+Wie schnell private Besitzende von Parkhäusern und Parkierungsanlagen vom Angebot an Förderbeiträgen Gebrauch machen und die Grundausrüstung vornehmen, kann der Regierungsrat nur
+bedingt beeinflussen. Sobald der Grosse Rat dem Förderprogramm zustimmt, werden die erforderlichen Grundlagen ausgearbeitet, so dass die ersten Gesuche spätestens ein Jahr nach Beschlussfassung eingereicht werden können.
+Falls notwendig, dem Grossen Rat die erforderlichen Gesetzesänderungen vorzuschlagen, z. Bsp.
+damit auf Verordnungsebene beim Aufladen von Elektro-Autos ein Zuschlag für Elektrifizierung der
+motorisierten Mobilität eingeführt und ganz oder teilweise auf die Lenkungsabgabe verzichtet werden kann. Die Abwicklung soll über den Energie-Förderfonds laufen
+Mit dem vorliegenden Ratschlag werden dem Grossen Rat die notwendigen Gesetzesänderungen
+für die Umsetzung der Motionsanliegen beantragt. Entgegen der Motion schlägt der Regierungsrat
+
+Seite 30/32
+
+Regierungsrat des Kantons Basel-Stadt
+
+vor, dass für die Finanzierung und Refinanzierung der Förderbeiträge für die Ladeinfrastruktur in
+Parkhäusern und in privaten Parkierungsanlagen ein eigener Fonds gebildet wird. Die dafür notwendige gesetzliche Grundlage soll im kantonalen Umweltschutzgesetz verankert werden. Die Einzelheiten will der Regierungsrat in einer Verordnung regeln. Ein eigener Fonds hat den Vorteil,
+dass Finanzierung und Refinanzierung transparent abgebildet werden können. Zudem können die
+angekündigten Bundesmittel auf einfache Weise dem Fonds zugewiesen und verwendet werden.
+Für die Aufhebung der Lenkungsabgabe beim Bezug von Strom an Ladesäulen ist eine Änderung
+des kantonalen Energiegesetzes nötig. Der entsprechende Antrag liegt ebenfalls bei.
+Die Erfüllung dieser Motion innert 12 Monaten
+Der Grosse Rat hat an seiner Sitzung vom 17. November 2021 auf Antrag des Regierungsrats die
+Frist zur Ausarbeitung einer Vorlage auf zwei Jahre festgelegt. Diese Frist wurde eingehalten.
+
+10.
+
+Antrag
+
+Gestützt auf unsere Ausführungen beantragt der Regierungsrat dem Grossen Rat den Entwurf zur
+Teilrevision des Umweltschutzgesetzes Basel-Stadt (USG BS) und Energiegesetz (EnG) zu genehmigen.
+Ebenfalls beantragen wir, die Motion der Umwelt, Verkehrs- und Energiekommission betreffend
+«einem raschen Ausbau der Ladeinfrastruktur für E-Autos in Basel-Stadt» als erledigt abzuschreiben.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Beat Jans
+Regierungspräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Beilagen
+ Grossratsbeschluss
+ Studie EBP
+
+Seite 31/32
+
+Regierungsrat des Kantons Basel-Stadt
+
+Glossar
+AC-Ladung
+
+Ladevorgang, bei dem die Umwandlung von Wechselstrom
+auf Gleichstrom innerhalb des Fahrzeugs erfolgt
+
+Bidirektionales Laden
+
+Beim bidirektionalen Laden ist der Stromfluss in beide Richtungen möglich. Je nach Bedarf kann dem Elektroauto
+Energie zugeführt oder entnommen werden. Die Fahrzeugbatterie dient dann als Zwischenspeicher. U.a. wird zwischen den Anwendungsmöglichkeiten Vehicle-to-home
+(vom Fahrzeug ins Haus) oder Vehicle-to-Grid (vom Fahrzeug zum öffentlichen Netz) unterschieden.
+
+DC- Ladung
+
+Ladevorgang, bei dem die Umwandlung von Wechselstrom
+auf Gleichstrom innerhalb der Ladestation erfolgt. Voraussetzung bei hohen Ladeleistungen (≥50 kW) und beim bidirektionalen Laden
+
+EFH
+
+Einfamilienhäuser
+
+Grundinstallation Ladeinfrastruktur
+
+Zuleitungen vom Hausanschluss bis zu den Parkplätzen,
+inkl. Stromzähler und allf. Lastmanagementsystem
+
+Hausanschluss
+
+Übergabestelle vom IWB-Verteilnetz zur Verbraucheranlage (z.B. Wohngebäude, Ladestation in der blauen Zone)
+
+Ladepunkt
+
+Einrichtung zum Aufladen von Elektrofahrzeugen, an der
+zur selben Zeit ein einziges Elektrofahrzeug aufgeladen
+werden kann
+
+Ladestation
+
+Einrichtung zum Aufladen von Elektrofahrzeugen. Eine Ladestation kann mehrere Ladepunkte aufweisen.
+
+Lastmanagementsystem
+
+System zur Steuerung der Ladeleistungen der einzelnen
+Ladepunkte einer Ladeanlage, z.B. zur Begrenzung der
+Gesamtleistung der Ladeanlage und zur Verteilung dieser
+Gesamtladeleistung auf die Ladepunkte
+
+MPG Home
+
+Mehrparteien-Wohngebäude
+
+MPG Work
+
+Mehrparteien-Firmengebäude
+
+Netzebene
+
+Das Schweizer Stromnetz umfasst sieben Netzebenen: von
+der Netzebene 1 (Höchstspannungsebene, von Kraftwerken und aus dem Ausland zum Übertragungsnetz) bis Netzebene 7 (Niederspannung für den Strom aus der Steckdose
+im Haushalt).
+
+POI
+
+Point of Interest: Standort mit hoher Publikumsfrequenz
+(z.B. Einkaufszentren, Museen, Zoo)
+
+ZEM
+
+Zuschlag für die Elektrifizierung des motorisierten Verkehrs, der beim Laden von E-Fahrzeugen über einen
+Stromzähler für E-Mobilität erhoben werden soll
+
+ZEV
+
+Zusammenschluss mehrerer Endverbraucher, um ihren
+selbst produzierten Strom – z.B. mit einer gemeinsamen
+PV-Anlage – zu nutzen. Die Teilnehmenden verfügen über
+einen gemeinsamen Netzanschluss und treten gegenüber
+dem Verteilnetzbetreiber als ein Kunde auf.
+
+Seite 32/32
+
+FORMELL GEPRÜFT (3) | ID: 6157 | 05.05.2023
+
+Umweltschutzgesetz Basel-Stadt
+(USG BS)
+Änderung vom [Datum]
+Der Grosse Rat des Kantons Basel-Stadt,
+nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. [Ratschlag-Nr.] vom [Datum] sowie in
+den Bericht der [Kommission] Nr. [Kommissionsbericht-Nr.] vom [Datum],
+beschliesst:
+I.
+Umweltschutzgesetz Basel-Stadt (USG BS) vom 13. März 1991 1) (Stand 1. August 2022) wird wie
+folgt geändert:
+§ 16a Abs. 2 (neu)
+2
+Der Kanton fördert die Bereitstellung von Lademöglichkeiten für Elektroautos auf privatem und öffentlichem Grund.
+§ 16b (neu)
+Finanzielle Förderung der Ladeinfrastruktur für Elektroautos
+1
+Die Bereitstellung von Ladeinfrastruktur für Elektroautos in öffentlich zugänglichen Parkhäusern und
+auf privatem Grund wird bis einschliesslich zum Jahr 2030 finanziell gefördert.
+2
+Für die Ausrichtung von Förderbeiträgen und die Finanzierung der damit verbundenen Vollzugskosten
+wird ein Fonds gebildet.
+3
+Die Mittel des Fonds dürfen auch für die Deckung eines allfälligen Fehlbetrags aus dem mit Grossratsbeschluss vom 14. April 2021 bewilligten Darlehen an die Industriellen Werke Basel für die Finanzierung von 200 öffentlich zugänglichen Ladestationen auf Allmend verwendet werden.
+4
+Der Fonds besteht bis zur vollständigen Deckung der in Abs. 2 und 3 genannten Kosten. Ein bei seiner
+Auflösung bestehender Überschuss wird dem Stromsparfonds zugewiesen.
+§ 16c (neu)
+Finanzierung des Fonds
+1
+Der Fonds wird durch einen auf dem Strombezug aus dem öffentlichen Stromnetz bei Ladevorgängen
+erhobenen Zuschlag zur Elektrifizierung der motorisierten Mobilität (ZEM) und durch allfällige Förderbeiträge des Bundes gespeist.
+2
+Der Regierungsrat legt die Höhe des ZEM fest. Dieser beträgt höchstens 2.5 Rp./kWh.
+3
+Ausgenommen von der Erhebung des ZEM sind unter Vorbehalt der Installation eines separaten, für
+die Erhebung des ZEM vorgesehenen Zählers:
+a)
+bei Inkrafttreten der §§ 16b ff. bereits bestehende Ladeinfrastrukturen;
+b)
+Ladeinfrastrukturen, für deren Erstellung und Erweiterung keine Förderbeiträge gewährt werden.
+4
+Der Regierungsrat kann Mittel aus dem Fonds Energieförderabgabe in den neuen Fonds übertragen.
+Diese Mittel sind zu einem späteren Zeitpunkt soweit möglich wieder in den Fonds Energieförderabgabe
+zurück zu überweisen.
+§ 16d (neu)
+Befristung des ZEM
+1)
+
+SG 780.100
+
+1
+
+1
+
+Der ZEM wird längstens bis zur Deckung der Förderbeiträge für die Ladeinfrastruktur für Elektroautos
+sowie eines Fehlbetrags gemäss § 16b Abs. 3 erhoben.
+2
+Der Regierungsrat wird ermächtigt, die Erhebung des ZEM einzustellen, wenn dessen Zweck gemäss
+Abs. 1 erreicht ist.
+§ 16e (neu)
+Fördergegenstand
+1
+Förderbeitragsberechtigt sind die Neuerstellung und die Erweiterung von:
+a)
+Ladeinfrastrukturen in staatlichen und privaten öffentlich zugänglichen Parkhäusern;
+b)
+Ladeinfrastrukturen auf privatem Grund;
+c)
+Ladeinfrastrukturen von Carsharing-Anbieterinnen und -Anbietern auf Allmend.
+§ 16f (neu)
+Förderkriterien
+1
+Förderbeitragsberechtigt sind Ladeinfrastrukturen auf dem Gebiet des Kantons Basel-Stadt.
+2
+Die Ladeinfrastruktur umfasst die Grundinstallation unter Ausschluss der Ladestationen.
+3
+Förderbeiträge werden nur ausgerichtet, wenn die Ladeinfrastruktur mit einem separaten Stromzähler
+für die Erhebung des ZEM ausgerüstet wird.
+§ 16g (neu)
+Förderumfang
+1
+Die Höhe der Förderbeiträge hängt vom Fördergegenstand ab und beträgt:
+a)
+bei Ladeinfrastrukturen in staatlichen und privaten öffentlich zugänglichen Parkhäusern 60 %
+der Kosten der Grundinstallation, maximal aber Fr. 3'500 pro Ladepunkt;
+b)
+bei Ladeinfrastrukturen auf privatem Grund 60 % der Kosten der Grundinstallation, maximal
+aber Fr. 1'300 pro Ladepunkt;
+c)
+bei Ladeinfrastrukturen von Carsharing-Anbieterinnen und -Anbietern auf Allmend. 60 % der
+Kosten der Grundinstallation, maximal aber Fr. 7'500 pro Ladepunkt.
+§ 16h (neu)
+Rückforderung
+1
+Unrechtmässig ausbezahlte Förderbeiträge können von der zuständigen Behörde zurückgefordert werden.
+2
+Der Rückforderungsanspruch verjährt, wenn er nicht innert einem Jahr ab dem Zeitpunkt geltend gemacht wird, in dem die zuständige Behörde vom Eintritt des Umstandes Kenntnis erhalten hat, welcher
+die Rückerstattungspflicht begründet, jedoch spätestens zehn Jahre nach der unrechtmässigen Auszahlung.
+§ 16i (neu)
+Vollzug
+1
+Der Regierungsrat regelt die Einzelheiten betreffend die Errichtung und Verwaltung des Fonds und die
+Gewährung von Förderbeiträgen in einer Verordnung.
+§ 17 Abs. 2
+2
+Dieses Verbot gilt nicht für:
+b)
+(geändert) Anwohnendenparkplätze in Quartierparkings nach § 19bis;
+c)
+(neu) Ladeinfrastrukturen für Elektroautos.
+II. Änderung anderer Erlasse
+Energiegesetz (EnG) vom 16. November 2016 2) (Stand 13. Dezember 2021) wird wie folgt geändert:
+2)
+
+SG 772.100
+
+2
+
+§ 28 Abs. 4 (neu)
+4
+Strombezüge für das Laden von Elektroautos sind von der Lenkungsabgabe befreit, soweit ein Zuschlag für die Elektrifizierung der motorisierten Mobilität erhoben wird.
+III. Aufhebung anderer Erlasse
+Keine Aufhebung anderer Erlasse.
+IV. Schlussbestimmung
+Diese Änderung ist zu publizieren; sie unterliegt dem Referendum und der Regierungsrat bestimmt den
+Zeitpunkt des Inkrafttretens.
+
+[Behörde]
+[Funktion 1]
+[NAME 1]
+[Funktion 2]
+[NAME 2]
+
+ZRD
+05.05.2023
+
+RGS
+
+3
+
+Kanton Basel-Stadt
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der
+Ladeinfrastruktur für E-Autos
+Grundlage für den Ratschlag zuhanden des Grossen Rates des Kantons Basel -Stadt
+22. November 2022
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+Projektteam (EBP)
+Silvan Rosser
+Michele Chamberlin
+Sarah Tischhauser
+Lukas Lanz
+Daniel Andersen
+Peter de Haan
+EBP Schweiz AG
+Mühlebachstrasse 11
+8032 Zürich
+Schweiz
+Telefon +41 44 395 16 16
+info@ebp.ch
+www.ebp.ch
+
+Begleitgruppe
+Dominik Keller (Amt für Umwelt und Energie Basel-Stadt)
+Thomas Schweizer (Amt für Umwelt und Energie Basel-Stadt)
+Tibor Hochreutener (Finanzdepartement Basel-Stadt)
+Simon Kettner (Amt für Mobilität)
+Dominik Näff (Immobilien Basel-Stadt)
+Jörg Ryser (IWB Industrielle Werke Basel)
+Manuel Vischer (IWB Industrielle Werke Basel)
+
+Erweiterte Begleitgruppe (St. Galler Stadtwerke)
+Vera Tettamanti
+Bernard Georgy
+Peter Graf
+Egon Zurwerra
+
+22. November 2022
+
+Seite 2
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+Inhaltsverzeichnis
+1.
+
+Ausgangslage und Ziel
+
+5
+
+2.
+
+Szenarien zur Elektromobilität im Kanton Basel-Stadt
+
+6
+
+2.1
+
+Bevölkerung und Motorisierungsgrad
+
+6
+
+2.2
+
+Antriebstechnologien
+
+8
+
+2.3
+
+Ladebedürfnisse im Kanton Basel-Stadt
+
+9
+
+2.3.1 Nutzertypen bei privaten Personenwagen
+
+9
+
+2.3.2 Ladebedarf je Ladestationstypen
+
+11
+
+2.4
+
+Ladestationsbedarf im Kanton Basel-Stadt
+
+13
+
+2.5
+
+Vergleich mit den Forderungen der Motion
+
+14
+
+2.6
+
+Zwischenfazit
+
+15
+
+3.
+
+Kostenzusammenstellung und Business Cases
+3.1
+
+4.
+
+16
+
+E-Mobilitätstarif – Zuschlag Elektrifizierung motorisierte
+Mobilität (ZEM)
+
+16
+
+3.2
+
+Kosten
+
+17
+
+3.3
+
+Business Cases
+
+20
+
+3.4
+
+Zwischenfazit
+
+21
+
+Vorschlag zur Umsetzung der Motion
+4.1
+
+22
+
+Zeitliche und räumliche Umsetzung in den kantonseigenen
+Parkhäusern
+
+22
+
+4.2
+
+Investitionskosten
+
+23
+
+4.3
+
+Gesamtkosten des Förderpakets zur Finanzierung des
+Ladeinfrastrukturaufbaus
+
+24
+
+4.3.1 Gesamtkosten des Förderpakets – Variante 1
+
+24
+
+4.3.2 Gesamtkosten des Förderpakets – Variante 2
+
+24
+
+4.3.3 Variantenvergleich
+
+25
+
+4.4
+
+Finanzierung des Förderpakets
+
+26
+
+4.5
+
+Empfehlung
+
+28
+
+4.6
+
+Förderkriterien
+
+28
+
+Seite 3
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+Anhang
+A1
+
+Stellungnahmen und Empfehlungen zu ausgewählten
+Fragestellungen
+
+A2
+
+Abkürzungsverzeichnis
+
+A3
+
+Anwendungsbeispiel Förderbeiträge
+
+A4
+
+Literaturverzeichnis
+
+Seite 4
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+1.
+
+Ausgangslage und Ziel
+Um die Infrastruktur für einen klimaneutralen Verkehr in Kanton Basel-Stadt
+bis 2050 zu schaffen und in Zukunft den motorisierten Individualverkehr zu
+elektrifizieren, ist der rasche Ausbau der Ladeinfrastruktur für Elektrofahrzeuge nötig.
+2021 wurde eine Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für Elektroautos im Kanton Basel-Stadt (21.5234.01) eingereicht und
+vom Regierungsrat unterstützt. Das Amt für Umwelt und Energie Basel-Stadt
+ist beauftragt, einen Ratschlag zur Umsetzung der Motion zuhanden des
+Grossen Rats zu erstellen.
+Die Motion fordert einen Initial-Ausbau von total 4'000 Ladestationen im Kanton, wie folgt:
+— Den Ausbau von ca. 2’000 Ladestationen in öffentlich zugänglichen Parkhäusern; jeweils ca. 1’000 in den fünf (respektive heute sechs) kantonseigenen Parkhäusern, sowie ca. 1’000 in privaten, öffentlich zugänglichen
+Parkhäusern
+— Den Ausbau von ca. 2’000 Ladestationen auf privaten Abstellplätzen
+Diese Ladestationen sind zusätzlich zu den bereits geplanten und teilweise
+umgesetzten 200 Ladestationen in der blauen Zone zu erstellen. Die Ladestationen in der blauen Zone werden durch die IWB erstellt und betrieben.
+Die IWB erhielt dafür vom Kanton ein bedingt rückzahlbares Darlehen.
+Die Motion fordert weiter, dass die Gesamtkosten für den Initial-Ausbau verursachergerecht finanziert werden.
+Der vorliegende Bericht dient dem Kanton als Basis zur Erstellung des Ratschlags. Er enthält Grundsätze zur Umsetzung der Motion, hinterfragt das
+von der Motion vorgeschlagene Mengengerüst mittels Bedarfsmodellierung,
+zeigt die Umsetzbarkeit einer verursachergerechten Finanzierung mittels
+Elektromobilitätstarif und zeigt Umsetzungsvarianten der Motion auf.
+— Für die kantonseigenen Parkhäuser liefert der Bericht:
+— Kostenschätzung für den Ausbau der Ladestationen
+— Empfehlung für die zeitliche und räumliche Umsetzung
+— Für den Förderbeitrag des Initial-Ausbaus in kantonseigenen Parkhäusern sowie in privaten Parkhäusern und Abstellplätzen liefert der Bericht:
+— Empfehlung zur Ausgestaltung des Förderpakets (Fördergegenstand,
+Förderkriterien und Förderbeiträge)
+— Vorschlag für die Höhe eines Elektromobilitätstarif
+— Gesamtkosten für das Förderpakets
+
+Seite 5
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+2.
+
+Szenarien zur Elektromobilität im Kanton BaselStadt
+
+2.1
+
+Bevölkerung und Motorisierungsgrad
+Gemäss der kantonalen Prognose (BFS 2020) zum Bevölkerungswachstum
+steigt die ständige Wohnbevölkerung im Kanton Basel-Stadt von heute
+knapp 200’000 auf etwa 210'000 im Jahr 2040 (Referenzszenario, Abbildung
+1). Neben dem Bevölkerungswachstum ist die Entwicklung des Motorisierungsgrades der entscheidende Faktor zur Ermittlung des zukünftigen Personenwagenbestandes.
+250’000
+
+BS: Ständige Wohnbevölkerung [*1000]
+
+200’000
+150’000
+100’000
+
+50’000
+© EBP, Electric and Hydrogen Mobility Scenarios 2022
+0
+2010
+
+Abbildung 1
+
+2015
+
+2020
+
+2025
+
+2030
+
+2035
+
+2040
+
+2045
+
+2050
+
+Historischer Verlauf und angenommene zukünftige Entwicklung der ständigen
+Wohnbevölkerung (Datenquelle: Referenzszenario A-00-2020, BFS 2020).
+
+Der Motorisierungsgrad, also die Anzahl der Personenwagen pro 1’000 Einwohnende, ist zwischen 1990 und 2010 gestiegen und seither rückläufig (Abbildung 2). Mit etwa 337 Personenwagen pro 1'000 Einwohnende im Jahr
+2012 hat der Motorisierungsgrad einen Höchstwert erreicht. Im schweizweiten Vergleich hat der Kanton Basel-Stadt den tiefsten Motorisierungsgrad.
+Dieser lag 2021 bei 316 Fahrzeuge auf 1'000 Einwohnende, der Schweizer
+Durchschnitt beträgt 541 Fahrzeuge. Aufgrund von verkehrspolitischen und
+raumplanerischen Entscheiden basierend auf den Mobilitätszielen des Bundes wird davon ausgegangen, dass sich dieser rückläufige Trend trotz dem
+bereits tiefen Niveau von Basel-Stadt fortsetzt. So wird der Motorisierungsgrad 2050 nur noch knapp über 300 Personenwagen pro 1'000 Einwohnenden liegen. Diese zukünftige Entwicklung stimmt mit dem Szenario «Basis»
+der Verkehrsperspektiven 2050 (ARE 2022) zum Personenverkehr überein.
+
+Seite 6
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+400
+
+BS: Motorisierungsgrad [Personenwagen/1000 EW]
+350
+
+300
+250
+200
+150
+100
+50
+
+© EBP, Electric and Hydrogen Mobility Scenarios 2022
+0
+2010
+
+2015
+
+Abbildung 2
+
+2020
+
+2025
+
+2030
+
+2035
+
+2040
+
+2045
+
+2050
+
+Historischer Verlauf und angenommene künftige Entwicklung des Motorisierungsgrads im Kanton Basel-Stadt
+
+Der Personenwagenbestand von 2010 bis 2021 basiert auf dem historischen
+Personenwagenbestand des Statistischen Amts des Kantons Basel-Stadt.
+Der zukünftige Personenwagenbestand resultiert aus dem Bevölkerungsstand und dem Motorisierungsgrad. Vor dem Hintergrund der leicht wachsenden Bevölkerung sowie des abnehmenden Motorisierungsgrad im Kanton Basel-Stadt steigt der Personenwagenbestand nur leicht an von heute
+rund 62'000 auf rund 66’000 bis 2050 (Abbildung 3).
+70’000
+
+BS: Bestand Personenwagen [*1000]
+60’000
+50’000
+40’000
+30’000
+20’000
+
+10’000
+© EBP, Electric and Hydrogen Mobility Scenarios 2022
+2010
+
+Abbildung 3:
+
+2015
+
+2020
+
+2025
+
+2030
+
+2035
+
+2040
+
+2045
+
+2050
+
+Historischer Verlauf und angenommene künftige Entwicklung des statistischen
+Fahrzeugbestands (nur Personenwagen) im Kanton Basel-Stadt1.
+
+Die historischen Daten von 1990 bis 2021 für die Inverkehrsetzung neuer
+Personenwagen im Kanton Basel-Stadt werden den Erhebungen des Bundesamtes für Statistik entnommen. Um die zukünftige Entwicklung der Neuzulassungen zu erhalten, wird die zukünftig Anzahl Neuzulassungen mit einem Kohortenmodell ermittelt, welches die «Überlebensraten» von Personenwagen berücksichtigt. Dabei wurde von einer schnellen Erholung der
+Neuzulassungszahlen nach den aufgrund von Corona tiefen Verkaufszahlen
+im Jahr 2020 und 2021 ausgegangen. Es zeigt sich, dass die Neuzulassungszahlen von heute rund 8'000 auf etwa 8’100 im Jahr 2035 ansteigen
+werden. Im Jahr 2050 dürfte das gleiche Niveau der Neuzulassungen wie
+heute mit etwa 8'000 Fahrzeuge pro Jahr erreicht werden (Abbildung 4).
+
+1
+
+Motorfahrzeugbestand im Kanton Basel-Stadt. Statistisches Amt Kanton Basel-Stadt. Link.
+
+Seite 7
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+Abbildung 4:
+
+2.2
+
+Historischer Verlauf der Neuzulassungen im Kanton Basel-Stadt und Prognose bis
+ins Jahr 2050.
+
+Antriebstechnologien
+Die Entwicklung der Marktanteile je Antriebstechnologie für Personenwagen
+bis ins Jahr 2050 wird anhand der drei Szenarien Business as Usual (BAU)
+und den netto-null-kompatiblen Szenarien ZERO – E und ZERO – Hydrogen
+Focus beschrieben (EBP, 2022). Im Rahmen dieser Studie wird ein kantonsspezifisches Szenario ZERO – E verwendet, um die Entwicklung im Kanton
+Basel-Stadt abzubilden.
+
+Abbildung 5:
+
+Entwicklung der Marktanteile der BEV (batterie-elektrisch), PHEV (Plug-in-Hybride)
+und FCEV (Wasserstoff-Brennstoffzelle) (EBP, 2022).
+
+Das Szenario ZERO – E orientiert sich am aktuellen Vorschlag des EU-Umweltausschusses zur Verschärfung der CO 2-Emissionsvorschriften und hinterlegt ein faktisches Verbrennerverbot für Personenwagen und leichte Nutzfahrzeuge ab 2035. Das Szenario ist kompatibel mit dem Netto-Null-Ziel
+2050. Der batterie-elektrische Antrieb ist die Schlüsseltechnologie zur Dekarbonisierung des Strassenverkehrs und dominiert den Markt in allen Fahrzeugkategorien und Grössenklassen deutlich. Plug-in-Hybride spielen bei
+den Personenwagen nur kurzfristig eine relevante Rolle und verschwinden
+dann wieder vom Markt. Wasserstoff-Brennstoffzellenfahrzeuge werden nur
+in Nischenanwendungen eingesetzt. Der Bestand der Personenwagen je Antriebstechnologie im Szenario ZERO – E ist in der Abbildung 6 dargestellt.
+
+Seite 8
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+Personenwagenbestand im Kanton Bastel-Stadt je Antriebstechnologie
+70’000
+
+60’000
+
+50’000
+
+40’000
+
+30’000
+
+20’000
+
+10’000
+
+0
+2020
+Verbrenner
+Abbildung 6:
+
+2025
+
+2030
+
+Batterie-elektrisch
+
+2035
+
+2040
+
+Plug-in-Hybride
+
+2045
+
+2050
+
+H2-Brennstoffzelle
+
+Personenwagenbestand im Kanton Basel-Stadt aufgeteilt nach Antriebstechnologien, modelliert bis 2050 mit Szenario ZERO – E.
+
+2.3
+
+Ladebedürfnisse im Kanton Basel-Stadt
+
+2.3.1
+
+Nutzertypen bei privaten Personenwagen
+Die Szenarien der Elektromobilität im Kanton Basel-Stadt werden mit Hilfe
+der EBP synPop (EBP, 2017) und dem Nationalen Personenverkehrsmodell
+NPVM (ARE, 2020) regionalisiert. Die EBP synPop ist eine synthetische Population der Schweiz, welche alle Haushalte, Unternehmen und Gebäude
+der Schweiz sowie eine Hochrechnung der Stichproben des Mikrozensus
+Mobilität und Verkehr sowie der Haushaltsbudgeterhebung für alle Haushalte in der Schweiz erlaubt. Unter Beizug des jeweils neusten Datenstamms
+sämtlicher Strassenfahrzeugbestandes (IVZ vom ASTRA) und der neusten
+Verkehrsmodellierung NPVM (ARE) ist für jede Gemeinde der Fahrzeugbestand sowie die Fahrleistung (aus dem MZMV und NPVM) bekannt. Durch
+die gemeindespezifische Fortschreibung der Wohnbevölkerung, des Modalsplits, der Fahrleistung pro Fahrzeug sowie der Fahrzeugbelegung wird
+der Motorisierungsgrad (Anzahl Fahrzeuge pro 1’000 Einwohner) und so die
+Entwicklung der Neuzulassungen und des Fahrzeugbestandes je Gemeinde
+bis 2050 modelliert. Der Fahrzeugbesitz, die Adaptionsrate der Elektromobilität sowie das zukünftige Ladeverhalten ist abhängig von soziodemografischen Faktoren. Im Kanton Basel-Stadt ist der Motorisierungsgrad bei Einfamilienhäusern deutlich höher als bei Stockwerkeigentümern oder Mieter.
+In Basel-Stadt besteht ein hoher Mieteranteil (~80%) und im Vergleich zu
+anderen Kantonen keine Parkplatzerstellungspflicht. Entsprechend sind im
+Kanton Basel-Stadt lediglich 15% der Personenwagen in Haushalten von
+Einfamilienhäusern immatrikuliert.
+Seite 9
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+Belegte Wohnungen und Anzahl Fahrzeuge
+nach Gebäudetyp im Kanton Basel-Stadt im Jahr 2021
+60’000
+50’000
+40’000
+
+30’000
+20’000
+10’000
+
+0
+Einfamilienhäuser
+
+Mehrfamilienhäuser
+
+Anzahl belegte Wohnungen
+Abbildung 7
+
+Wohngebäude mit
+Nebennutzung
+
+Anzahl Personenwagen
+
+Belegte Wohnungen und Anzahl Fahrzeuge nach Gebäudetyp im Kanton Basel Stadt im Jahr 2021. Quellen: kantonales GWR per 31.12.2021, MZVM 2015, EBP
+synPop,
+
+Es werden verschiedene Nutzertypen (Pendlerfahrzeuge, Freizeitfahrzeuge
+und reine Flottenfahrzeuge) je Fahrzeug unterschieden. Auf Basis der EBP
+synPop kann das Mengengerüst je Nutzertyp im Kanton Basel-Stadt abgeschätzt werden.
+Das Laden zu Hause hat sich als wichtige Voraussetzung für den Wechsel
+auf ein Elektrofahrzeug herauskristallisiert. Während die Eigentümerschaft
+von Einfamilienhäusern mit eigenem Abstellplatz einfach zur privaten Ladestation kommt, gibt es beim Aufbau der Ladeinfrastruktur in Tiefgaragen bei
+Stockwerkeigentum und Miethäusern erhebliche Hemmnisse. Auch Fahrzeughaltende ohne eigene oder gemietete private Parkplätze, die ihre Personenwagen in der blauen Zone parkieren, sind in der Nähe des Wohnorts
+auf eine öffentlich zugängliche Ladeinfrastruktur angewiesen.
+Rund ein Drittel aller im Kanton Basel-Stadt immatrikulierten Personenwagen – ca. 22'000 Fahrzeuge parkieren regelmässig auf den Parkplätzen der
+blauen Zone und werden im Hinblick auf eine vollständige Elektrifizierung ihr
+Elektroauto über Nacht in der blauen Zone, am Arbeitsplatz oder an einer
+öffentlich zugänglichen Ladestation (Parkhäuser, weitere POI- oder Schnellladestation) laden. Da die Unsicherheit bezüglich Ladeinfrastruktur als eines
+der wichtigsten Hemmnisse für die Diffusion der Elektromobilität angesehen
+wird, ist dieser Gruppe von FahrzeughalterInnen der Zugang zur Elektromobilität erschwert. Jedem Elektrofahrzeug wird in Abhängigkeit des Nutzertyps, des Fahrzeugtyps und je nach Verfügbarkeit einer Heimladestation ein
+spezifisches Ladeverhalten zugewiesen. Dies erlaubt eine konsistente Modellierung von Ladewelten. Zum einen kann eine erhöhte Durchdringung von
+Heimladern (Verschiebung hin zu mehr Heimladepunkten und weniger öffentlich zugänglichen Ladepunkten) und zum anderen eine Verschiebung hin
+zu mehr öffentlich zugängliches Ladepunkten und weniger Heimladepunkten
+abgebildet werden. Dabei werden vier unterschiedliche Ladebedürfnisse für
+elektrische Personenwagen und vier unterschiedliche Ladestationstypen unterschieden.
+Seite 10
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+2.3.2
+
+Ladebedarf je Ladestationstypen
+
+Abbildung 8
+
+Ladebedürfnisse (oben) und Ladestationsgruppen (unten).
+
+Gemäss Modellierungen und Abschätzungen von EBP erfolgten im Jahr
+2021 rund 90 % aller Ladevorgänge von Elektrofahrzeugen an privaten Ladestationen, am Wohnort oder am Arbeitsplatz. Ob das private Laden auch
+künftig dominieren wird oder häufiger an öffentlich zugänglichen Ladestationen geladen wird, hängt von zahlreichen Faktoren ab (Batteriekapazität,
+respektive Reichweite der Elektrofahrzeuge, Aufnahmeladeleistung der
+Elektrofahrzeuge, Verfügbarkeit von Heimlademöglichkeit, Verfügbarkeit
+und Preise öffentlich zugänglicher Ladestationen).
+Elektrofahrzeuge laden aber nicht primär dort, wo sie immatrikuliert sind,
+sondern können auch am Arbeitsort oder an öffentlich zugänglichen Ladestationen geladen werden. Daher ist es wichtig, die Verkehrsflüsse (Pendlerund Freizeitverkehrsströme) ebenfalls zu modellieren. Dazu wird das nationale Personenverkehrsmodell (NPVM) sowie räumliche Informationen zu
+Parkplätzen, Parkhäusern, Points-of-Interest (POI) usw. verwendet. So lässt
+sich der gesamte Ladebedarf im Kanton Basel-Stadt inkl. räumlicher Verteilung abschätzen.
+
+Seite 11
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+In der vorliegenden Studie unterscheiden wir die folgenden Ladestationstypen:
+— Private Ladepunkte für Anwohner in Einfamilienhäuser (EFH)
+— Private Ladepunkte in Mehrparteiengebäuden für Anwohner: Mehrfamilienhäuser und Wohngebäude mit Nebennutzung (MPG Home)
+— Halbprivate Ladepunkte für Angestellte (Pendler) und reine Flottenfahrzeuge in Firmengebäuden und Mehrparteiengebäuden (MPG Work)
+— Öffentlich zugängliche Ladepunkte für Anwohner: Quartier-Laden in
+Blauer Zone
+— Öffentlich zugängliche Ladepunkte in kantonseigenen Parkhäusern (PH)
+— Öffentlich zugängliche Ladepunkte in privaten Parkhäusern (PH) und weiteren Parkplätzen bei POI
+— Öffentlich zugängliche Schnellladepunkte (Fast)
+Strombedarf Elektromobilität im Kanton Bastel-Stadt [MWh]
+120’000
+
+100’000
+80’000
+60’000
+40’000
+20’000
+
+0
+2020
+
+2025
+
+2030
+
+Home EFH
+Work MPG
+POI kantonseigene Parkhäuser
+Fast
+
+2035
+
+2040
+
+2045
+
+2050
+
+Home MPG
+Quartier-Laden in der blauen Zone
+POI private Parkhäuser und weitere PP
+
+Abbildung 9: Jährlicher Ladebedarf Elektromobilität aufgeteilt nach Ladestationstyp.
+
+Die Analyse des künftigen Ladebedarfs im Kanton Basel-Stadt zeigt, dass
+mittel- und langfristig ca. 40% des Ladebedarfs an privaten Heimladestationen (hauptsächlich in Mehrfamilienhäusern und Wohngebäuden mit Nebennutzung) geladen werden kann. Auch das Laden an Abstellplätzen am Arbeitsort kann langfristig eine wichtige Rolle spielen (ca. 30% des Ladebedarfs). Rund 30 % des Ladebedarfs kann mittel- und langfristig an öffentlich
+zugänglichen Ladestationen (POI inkl. blaue Zonen und Fast) gedeckt werden. Voraussetzung dafür ist der bedarfsgerechte Aufbau der Ladeinfrastruktur im Kanton Basel-Stadt.
+
+Seite 12
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+2.4
+
+Ladestationsbedarf im Kanton Basel-Stadt
+Mit dem Ladebedarf im Kanton Basel-Stadt je Ladestationstyp lässt sich der
+ideale Bedarf bzw. die Anzahl an Ladestationen abschätzen (Tabelle 1).
+Hierfür wird die jeweilige Ladeenergie der Ladestationstypen mit den jeweils
+angestrebten Lademengen pro Ladepunkt (Tabelle 3) verrechnet.
+Anzahl Ladepunkte je Ladestationstyp
+
+Heutiger Bedarf
+
+Kurz- bis mittelfristig
+
+Langfristig
+
+2022
+
+2030
+
+2040
+
+Home EFH
+
+600
+
+2’000
+
+3’250
+
+Home MPG
+
+2’100
+
+12’400
+
+19’900
+
+Work MPG
+
+450
+
+1’800 – 2’600
+
+3’300 – 4’700
+
+Quartier-Laden in blauer
+Zone
+
+48
+
+240 – 330
+
+460 – 740
+
+Kantonseigene Parkhäuser
+
+37
+
+370 – 540
+
+470 – 760
+
+Private Parkhäuser und
+weitere POI
+
+55
+
+550 – 820
+
+700 – 1’140
+
+Schnellladepunkte
+
+5
+
+30 – 50
+
+60 – 90
+
+Gesamt
+
+3’295
+
+17’400 – 18’740
+
+28’100 – 30’580
+
+Tabelle 1:
+
+Die Anzahl benötigter Ladepunkte je Ladestationstyp, aufgeteilt nach dem heutigen, kurz- bis mittelfristigen und langfristigen Bedarf.
+
+Der angestrebte Elektrifizierungsgrad der öffentlich zugänglichen Parkplätze
+im Kanton Basel-Stadt (Tabelle 2) lässt sich durch die Anzahl erforderlicher
+Ladepunkte ableiten.
+Parkplatztyp
+
+Anzahl
+öffentlich
+zugängliche
+Parkplätze
+
+Bedarf Ladepunkte; kurzfristig
+
+Elektrifizierungsgrad
+Parkplätze
+
+Bedarf Ladepunkte: langfristig
+
+2030
+
+2030
+
+2040
+
+Elektrifizierungsgrad
+Parkplätze
+
+2040
+
+Quartierladen in der
+blauen Zone
+
+21’666 (66%)
+
+240 – 330
+
+1–2%
+
+460 – 740
+
+2–3%
+
+Kantonseigene
+Parkhäuser
+
+3’822 (12%)
+
+370 – 540
+
+10 – 14 %
+
+470 – 760
+
+12 – 20 %
+
+Private Parkhäuser,
+POI (inkl. weisse
+Parkplätze)
+
+7’220 (22%)
+
+550 – 820
+
+8 – 11 %
+
+700 – 1’140
+
+10 – 16 %
+
+Total
+
+32’708 (100%)
+
+Tabelle 2:
+
+Der kurz- und langfristige Bedarf an Ladepunkten und der Elektrifizierungsgrad
+der Parkplätze.
+
+Seite 13
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+Diesem Bedarf an Ladepunkten liegen Annahmen zur angestrebten jährlichen Ladeenergie pro Ladepunkt (Utilization Rates; Tabelle 3) zugrunde.
+Aufgrund der stark steigenden Zunahme der Elektrofahrzeuge sowie einem
+zunehmenden Konkurrenzdruck gehen wir bis 2035 von stark steigenden
+Utilization Rates je Ladepunkt aus.
+Ladestationstyp
+
+Kurzfristig (bis 2025)
+
+Langfristig (ab 2035)
+
+Home EFH
+
+1.7 MWh
+
+1.7 MWh
+
+Home MPG
+
+1.7 MWh
+
+1.7 MWh
+
+Work MPG
+
+3.5 MWh
+
+8.5 MWh (7-10 MWh)
+
+Quartier-Laden in blauer Zone
+
+3.5 MWh
+
+13 MWh (10-16 MWh)
+
+Kantonseigene, private Parkhäuser und POI
+
+3.5 MWh
+
+10.5 MWh (8-13 MWh)
+
+Schnellladepunkte
+
+30 MWh
+
+105 MWh (80-130 MWh)
+
+Tabelle 3:
+
+2.5
+
+Angestrebte Lademengen pro Ladepunkt (Utilization Rates) in MWh pro Jahr für
+Ladepunkte je Ladestationstyp, aufgeteilt nach kurzfristigem und langfristigem Bedarf.
+
+Vergleich mit den Forderungen der Motion
+Aufgrund der Bedarfsmodellierung und der Analyse des Ladeverhaltens ergeben sich folgende Unterschiede (vgl. Tabelle 4) zu den Forderungen der
+Motion:
+Ladestationstypen
+
+Forderung Motion
+
+Empfehlung bis 2030
+
+Empfehlung bis 2040
+
+Kantonseigene
+Parkhäuser
+
+1’000 Ladestationen
+Elektrifizierungsquote der
+PP: 35%
+
+370 – 540 Ladepunkte;
+Elektrifizierungsquote PP:
+10 – 14 %
+
+470 – 760 Ladepunkte;
+Elektrifizierungsquote PP:
+12 – 20 %
+
+Keine zusätzlichen Ladestationen; da mit hohen Kosten
+verbunden
+
+Steigender Bedarf auf 240 –
+330 Ladepunkte.
+
+460 – 740 Ladepunkte vorgesehen.
+
+Blaue Zone
+
+Empfehlung: keine zusätzlichen Empfehlung eines schrittweisen
+Massnahmen erforderlich. Um- Ausbaus anhand Bedarfsentsetzung der ersten Ausbauwicklung
+etappe von 200 Ladestationen
+(400 Ladepunkte).
+Private Parkhäuser
+und weitere POI
+
+Weitere 1’000 Ladestationen 550 – 820 Ladepunkte
+Elektrifizierungsquote PP:
+8 – 11 %
+
+700 – 1’140 Ladepunkte
+Elektrifizierungsquote PP:
+10 – 16 %
+
+Private und halbprivate Ladestationen
+(Home EFH, Home
+MPG, Work MPG)
+
+2’000 Ladestationen für Private
+
+2’000 Ladepunkte Home EFH
+14’200 – 15’000 Ladepunkte
+MPG (Home und Work)
+
+3’250 Ladepunkte Home EFH
+23’000 – 24’500 Ladepunkte
+MPG (Home und Work)
+
+Schnelladepunkte
+
+Keine Forderungen
+
+Ausbau der SchnellladestatioAusbau der Schnellladestationen. Bedarf für 30 – 50 Schnell- nen. Bedarf für 60 – 90 Schnellladepunkte
+ladepunkte
+
+Tabelle 4:
+
+Vergleich zwischen den Forderungen der Motion und dem prognostizierten Bedarf
+der Ladepunkte bis 2040.
+
+Seite 14
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+2.6
+
+Zwischenfazit
+— Die Elektrifizierung von Parkplätzen für Anwohnende im Kanton BaselStadt ist aus Sicht Ladebedürfnis prioritär. Es sollen dort Ladestationen
+ausgebaut werden, wo die Anwohnenden profitieren, insbesondere diejenigen die keine Möglichkeit haben, auf einem privaten Abstellplatz eine
+Ladeinfrastruktur zu errichten.
+— Es wird nicht empfohlen private Ladepunkte in Einfamilienhäusern zu fördern, da diese Nutzer in der Regel ohne Hindernisse zu einer Ladeinfrastruktur kommen.
+— Wir empfehlen eine geringere Elektrifizierungsquote in kantonseigenen
+Parkhäusern als in der Motion gefordert.
+— In der blauen Zone steigt der Bedarf nach Ladepunkte bis 2030 auf
+240 – 330 Ladepunkte. Mit dem geplanten Ausbau von 200 Ladestationen
+mit 400 Ladepunkten in der genehmigten ersten Ausbauetappe kann dieser Bedarf vorerst gedeckt werden.
+— Wir sehen langfristig (bis 2040) einen weiteren Bedarf für Ladestationen
+in der blauen Zone (über die geplanten 200 Ladestationen hinaus) und
+empfehlen einen schrittweisen Ausbau anhand der Bedarfsentwicklung.
+— Die Forderung der Motion nach 1'000 Ladepunkten bei privaten Parkhäusern ist bis 2030 eher hoch angesetzt. Die Modellierung geht von einem
+Bedarf von 550 – 820 Ladepunkten aus. Bis 2040 steigt der Bedarf auf
+ca. 1'000 Ladepunkte.
+— Das Mengengerüst für private und halbprivate Ladestationen wurde in der
+Motion stark unterschätzt.
+— Bedarf für weitere Schnellladestationen besteht, auch wenn dieser in der
+Motion nicht erwähnt wurde.
+
+Seite 15
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+3.
+
+Kostenzusammenstellung und Business Cases
+
+3.1
+
+E-Mobilitätstarif – Zuschlag Elektrifizierung motorisierte Mobilität (ZEM)
+Die Motion fordert eine verursachergerechte Finanzierung des raschen Ausbaus der Ladeinfrastruktur und schlägt eine Finanzierung über einen neuen
+E-Mobilitätstarif vor. Es soll ein Zuschlag Elektrifizierung motorisierte Mobilität (ZEM) auf den Ladetarif erhoben werden. Der Tarif wird dank der Befreiung der Lenkungsabgab (ca. 5 Rp./kWh) unter dem Strich trotzdem attraktiver. In der Motion wird ein ZEM in der Höhe von 2.5 Rp./kWh vorgeschlagen.
+Der neue E-Mobilitätstarif mit ZEM kann nur erhoben werden, wenn die
+Ladeinfrastruktur über einen separaten Tarif und damit über einen separaten
+Stromzähler abgerechnet wird. Dies ist an öffentlich zugänglichen Ladestationen sowie an privaten und halbprivaten Ladestationen in Einstellhallen
+von Mehrfamilienhäusern und Wohngebäuden mit Nebennutzung sowie Firmengebäuden in der Regel der Fall. In Einfamilienhäusern ist das allerdings
+häufig nicht der Fall. Bei Einführung des neuen E-Mobilitätstarifs durch den
+Energieversorger IWB würden 2.5 Rp./kWh des Ladestroms in einen Förderfonds fliessen, z.B. den Energieförderfonds. Im Sinne einer verursachergerechten Finanzierung kann das Geld aus diesem Förderfonds zur Finanzierung der Ladeinfrastruktur verwendet werden (siehe Abbildung 10). Einnahmen über den ZEM und Ausgaben der Förderbeiträge sollen sich über
+eine zu bestimmende Betrachtungsdauer ausgleichen (siehe Kapitel 4.4).
+Die nachfolgenden Kostenbetrachtungen und Business Cases berücksichtigen den neuen E-Mobilitätstarif mit ZEM gemäss Vorschlag in der Motion
+(2.5 Rp./kWh Zuschlag bei 5 Rp./kWh Befreiung) bei öffentlich zugänglichen
+Ladestationen sowie an privaten und halbprivaten Ladestationen in Einstellhallen von Mehrfamilienhäusern und Wohngebäuden mit Nebennutzung sowie Firmengebäuden (MPG Home und Work). Bei Einfamilienhäusern wird
+der E-Mobilitätstarif mit ZEM nicht angewandt, dafür bleibt die Lenkungsabgabe bestehen.
+
+Seite 16
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+Energieversorger
+IWB
+
+Ladestationsbetreiber
+z.B. IWB, …
+
+Endnutzer
+E-Mobilist
+
+E-Mobilitätstarif
+
+Ladetarif
+
+18.4 Rp./kWh (Parkhaus 30 LP)
+- El. Energie, Netznutzung, Abgaben
+- Befreiung Lenkungsabgabe -5 Rp./kWh
+- Zuschlag (ZEM) +2.5 Rp./kWh
+
+37 Rp./kWh (Parkhaus)
+
+Förderbeiträge CHF
+an die Grundinstallation
+
+Energieförderfonds
+
+Energieversorger
+IWB
+
+Endnutzer
+E-Mobilist mit privater
+Ladestation
+
+E-Mobilitätstarif
+29 Rp./kWh (MPG)
+- El. Energie, Netznutzung, Abgaben
+- Befreiung Lenkungsabgabe -5 Rp./kWh
+- Zuschlag (ZEM) +2.5 Rp./kWh
+
+Förderbeiträge CHF
+an die Grundinstallation
+
+Energieförderfonds
+
+Abbildung 10: Mechanismus des vorgeschlagenen E-Mobilitätstarifs mit einem Zuschlag Elektrifizierung motorisierte Mobilität (ZEM) von 2.5 Rp./kWh bei gleichzeitiger Befreiung
+der Lenkungsabgabe (5 Rp./kWh) zur verursachergerechten Finanzierung der
+Ladeinfrastruktur über Förderbeiträge (oben für öffentlich zugängliche Ladepunkte,
+unten für private Ladepunkte in Mehrparteiengebäuden).
+
+3.2
+
+Kosten
+Um die unterschiedlichen Eigenschaften und Kosten je Ladestationstyp
+nachzubilden, wurden diese in der Kostenanalyse einzeln betrachtet. In einigen Fällen (Quartier-Laden in der blauen Zone, Parkhäuser mit 30 oder
+100 Ladepunkten) ist eine Neuerschliessung and die Netzebene 7 oder eine
+Verstärkung des Netztes notwendig. In diesen Fällen fallen auf Seite des
+Elektrizitätswerkes (EW) Anschlussgebühren (AG) und Netzkostenbeiträge
+(NKB) an. Auf Seite des Hausanschlusses (HA) ist ebenfalls ein Ausbau der
+Basisinfrastruktur notwendig. Diese Kosten wurden mit Angaben der IWB
+quantifiziert2. Eine weitere Kostenkomponente ist der Stromtarif, welcher in
+Abhängigkeit der bezogenen Leistung (kW) und der gesamten Energiemenge (kWh) variiert. Die energieabhängige Komponente besteht aus den
+Tarifen für elektrische Energie, Netznutzung und aus diversen Abgaben. Der
+in der Motion vorgeschlagene Zuschlag (ZEM) von 2.5 Rp./kWh bei gleichzeitiger Befreiung der Lenkungsabgabe (in der Regel 5 Rp./kWh) wurde für
+die Kostendarstellung und Berechnung der Business Cases bereits hinterlegt. Die Business Cases wurden für einen Betrachtungszeitraum von rund
+20 Jahren betrachtet, von 2023 bis 2044.
+2
+
+Quelle: Webseite Öffentliches Ladenetz, IWB, Link
+
+Seite 17
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+Ladestationstypen
+
+Anzahl Ladepunkte und Leistung
+
+Netzausbau/ -ver- Energieanteil
+stärkung
+Tarifkosten
+[Rp/kWh]
+
+Leistungsanteil Tarifkosten
+[CHF/kW]
+El. Energie 7.27
+0
+Netznutz. 14.39
+Abgaben3 9.25
+
+Basisinfrastruk- Ladepunkt
+tur (HA -> LS)
+[CHF]
+[CHF]
+
+Gleichzeitigkeitsfaktor
+SIA 2060
+
+AG:
+NKB:
+
+0
+0
+
+2’000
+
+1’000
+
+1
+
+0
+
+AG:
+NKB:
+
+0
+0
+
+16’000
+
+1’500
+
+0.32
+
+El. Energie 7.27
+Netznutz. 14.39
+Abgaben5 6.75
+
+0
+
+AG:
+NKB:
+
+0
+0
+
+16’000
+
+1’500
+
+0.32
+
+Neuerschliessung
+NE7
+
+El. Energie 7.27
+Netznutz. 14.39
+Abgaben6 6.75
+
+0
+
+AG: 3’900 bis 6’000
+NKB:
+7’333
+
+14’000
+
+3’500
+
+0.38
+
+30 x 11 kW
+
+Netzverstärkung
+NE7
+
+El. Energie 7.22
+Netznutz. 5.80
+Abgaben7 5.68
+
+10
+
+AG: 7’800 bis 10’500
+NKB:
+10’300
+
+52’500
+
+1’750
+
+0.28
+
+100 x 11 kW
+
+Netzverstärkung
+NE7
+
+El. Energie 7.22
+Netznutz. 5.80
+Abgaben8 5.68
+
+9.1
+
+AG: 11’350 bis 15’850
+NKB:
+22’000
+
+152’000
+
+1’750
+
+0.18
+
+Home EFH
+
+1 x 3.7 kW keine Verstärkung
+
+Home MPG
+
+20 x 11 kW keine Verstärkung
+
+El. Energie 7.27
+Netznutz. 14.39
+Abgaben4 6.75
+
+Work MPG
+
+20 x 11 kW keine Verstärkung
+
+Quartier-Laden in
+blauer Zone
+
+6 x 11 kW
+
+Parkhaus
+30 Ladepunkte
+(PH 30)
+Parkhaus
+100 Ladepunkte
+(PH 100)
+
+Tabelle 5:
+
+Netzanschluss
+(EW-> HA)
+[CHF]
+
+Zusammenstellung Kosten für unterschiedliche Ladestationstypen (EW - Energiewerk; HA - Hausanschluss; NE - Netzebene; AG - Anschlussgebühren; NKB Netzkostenbeiträge). Quellen: Tarifkosten9, Netzanschlusskosten 10, Basisinfrastrukturkosten11, Gleichzeitigkeitsfaktor 12.
+
+Es werden zusätzlich kommerzielle Kosten und Betriebskosten berücksichtigt. Diese betragen bei den Parkhäusern und der Blaue Zone insgesamt
+10%, bei den Mehrparteiengebäude 5% der Investitionskosten der Ladesäule. Bei Einfamilienhäusern wurden keine kommerziellen Kosten oder Betriebskosten berücksichtigt. Es wird angenommen, dass die Investitionskosten der Ladeinfrastruktur jährlich um 1.5% abnehmen und die Betriebskosten jährlich um 0.5% abnehmen.
+Weiter wird ein kalkulatorischer Zinssatz von 4.4% angenommen, eine Abschreibungsdauer von 8 Jahren für die Ladesäulen und von 50 Jahren für
+die Grundinstallation (Netzerschliessung und Basisinfrastruktur). Zusätzlich
+wird beim Ersatz der Ladeinfrastruktur ein Installationsbetrag von 200 CHF
+pro Ladepunkt hinzugerechnet.
+Um die Investitionskosten und die laufenden operationellen Kosten gemeinsam betrachten zu können, wurde der Levelized Cost of Energy (LCOE) für
+die unterschiedlichen Ladestationstypen betrachtet. Hierfür wird die Gesamtheit der Kosten auf die bezogene Ladeenergie je Ladestationstyp verteilt.
+
+3
+
+Kein neuer E-Mobilitätstarif bei EFH
+
+4
+
+Neuer E-Mobilitätstarif: inkl. Zuschlag (ZEM) von 2.5 Rp./kWh bei gleichzeitiger Befreiung der
+Lenkungsabgabe (5 Rp./kWh)
+
+5
+
+gemäss Fussnote 4
+
+6
+
+gemäss Fussnote 4
+
+7
+
+gemäss Fussnote 4
+
+8
+
+gemäss Fussnote 4
+
+9
+
+Quelle: Tarifblatt 2022, inkl. MwSt., IWB. Link
+
+10 Quelle: Gebührentarife der IWB, Link
+11 E-Mail-Austausch mit IWB, 2022
+12 SIA 2060: Infrastruktur für Elektrofahrzeuge. Der Gleichzeitigkeitsfaktor beschreibt das Verhältnis zwischen der zu erwartenden Maximalleistung und der tatsächlich installierten Ladekapazität der Ladepunkte.
+
+Seite 18
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+0.6
+Netznutzungsentgelt pro kW (monatlich,
+leistungsabhängig)
+
+Totale Kosten pro Lademenge [CHF/kWh]
+
+0.5
+
+Abgaben an Bund / Kanton
+Tarife für Netznutzung
+
+0.4
+Tarife für elektrische Energie
+Betriebskosten (Unterhalt,Monitoring,etc.)
+
+0.3
+
+Netzkostenbeitrag (einmalig, leistungsabhängig)
+0.2
+
+Kosten für Ladestation
+Infrastrukturkosten nach Hausanschluss
+
+0.1
+Infrastrukturkosten vor Hausanschluss (Abhängig
+Distanz Netz-zu-Hausanschluss)
+0
+PH 30 NE7
+
+PH 100 NE7
+
+Blaue Zone
+
+MPG Work
+
+MPG Home
+
+EFH
+
+Abbildung 11: Kosten in CHF/kWh 13 der unterschiedlichen Ladestationstypen, aufgeteilt nach Kostenkategorien (Investitions- und operationelle Kosten).
+Betrachtungszeitraum: 2023 - 2044
+
+Die Unterschiede in den Kosten lassen sich vor allem dadurch begründen,
+dass in gewissen Fällen ein Ausbau des Netzanschlusses und der Basisinfrastruktur notwendig ist. Weiter haben die angenommenen Lademengen je
+Ladestationstyp einen grossen Einfluss auf die durchschnittlichen Kosten.
+Bei MPG Work und MPG Home verteilen sich beispielsweise sehr ähnliche
+Grundinstallations- und Ladestationskosten auf unterschiedliche Lademengen (kWh), wodurch bei MPG Home deutlich höhere Kosten pro kWh resultieren.
+Bei den Parkhäusern gilt zusätzlich, dass nicht nur der Energietarif anfällt,
+sondern auch eine Leistungskomponente, da diese Bezüger die Grenze von
+100 Ampere überschreiten und deswegen ein entsprechendes Tarifmodell
+haben. Da die Leistungskomponente lediglich durch die maximal bezogene
+Leistung in kW definiert wird, wird diese Komponente sehr stark vom Gleichzeitigkeitsfaktor bestimmt (vgl. SIA 2060). Dieser beschreibt das Verhältnis
+zwischen der zu erwartenden Maximalleistung und der tatsächlich installierten Ladekapazität der Ladepunkte. Bei 10 Ladepunkten mit 11 kW und einem
+Gleichzeitigkeitsfaktor von 0.4, würde die zu erwartenden Maximalleistung
+0.4 x 10 x 11 kW, also 44 kW betragen und nicht 110 kW (10 x 11 kW). Der
+Gleichzeitigkeitsfaktor ist bei einer geringeren Anzahl Ladepunkte pro
+Standort höher, was ein Grossteil des Unterschieds zwischen den Parkhäusern mit 30 Ladepunkten gegenüber den Parkhäusern mit 100 Ladepunkten
+ausmacht.
+
+13 Neuer E-Mobilitätstarif: inkl. Zuschlag (ZEM) von 2.5 Rp./kWh bei gleichzeitiger Befreiung der
+Lenkungsabgabe (5 Rp./kWh)
+
+Seite 19
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+3.3
+
+Business Cases
+Um eine rasche Umstellung auf Elektromobilität zu begünstigen, braucht es
+erst die Sicherheit für den E-Mobilisten, dass genügend Ladeplätze zur Verfügung stehen. Wird eine Ladestation ausgebaut, so erfolgen heute wenige
+Ladevorgänge pro Ladestation und die Wirtschaftlichkeit fehlt (noch). Die
+Entwicklung der Ladestationen muss aber den Anschaffungen neuer Elektrofahrzeuge voraus sein 14.
+Nach dem Initialausbau hängt die Wirtschaftlichkeit einer Ladestation im Betrieb hauptsächlich von der Anzahl Ladevorgänge und dem Preisniveau ab.
+Auf Basis der Kostenaufstellung wurden Business Cases über rund zwanzig
+Jahre (2023 – 2044) für die verschiedenen Ladestellentypen erstellt. Dabei
+wurden der Ausbau der Ladestationen gemäss modelliertem Bedarf (siehe
+Kapitel 2.4), sowie die laufenden Kosten für den Betrieb der Ladestationen
+(vgl. Kapitel 3.2) berücksichtigt. Die Gesamtkosten enthalten die Kosten für
+den Energiebezug unter Berücksichtigung eines neuen E-Mobilitätstarifs
+(ZEM und Befreiung Lenkungsabgabe vgl. Kapitel 3.1), Betrieb und Verwaltung sowie Abschreibungen auf die installierte Hardware. Auf der Ertragsseite wurden Ladetarife von 0.40 CHF/kWh für das Quartier-Laden in der
+blauen Zone sowie in Home MPG und Work MPG und Ladetarife von 0.37
+CHF/kWh in den Parkhäusern und POI angenommen. Es wird angenommen,
+dass die Ladetarife über den Betrachtungszeitraum um 0.5% jährlich abnehmen.
+Für den Betrachtungszeitraum von zwanzig Jahren resultieren unter Anwendung der Nettobarwerte (NBW) je Ladestationstyp sehr unterschiedliche Resultate. Ein negativer NBW heisst, dass die zu erwartenden Einnahmen aus
+der Nutzung der Ladestationen die getätigten Investitionen für den Netzanschluss und die Errichtung der Ladestationen nicht decken.
+Der NBW ist bei Quartierladestationen in der blauen Zone negativ, was auf
+die hohen Investitionskosten und die verhaltenen Erträge zurückzuführen ist.
+In den Parkhäusern ist der NBW trotz ähnlich hohen Investitionskosten leicht
+positiv. Haupttreiber dafür ist die ambitiöse und unsichere Annahme der zukünftigen Auslastung der Ladestationen.
+Der bedeutend negative NBW von Home MPG lässt sich dadurch begründen, dass in Mehrparteiengebäude für Anwohner meistens nur ein Fahrzeug
+einen Ladepunkt benutzt. Deshalb werden die gleichen Kosten pro Ladepunkt auf deutliche weniger Energie verteilt, was zu höheren Kosten (vgl.
+Abbildung 11) führt. Im Gegensatz hierzu lässt sich bei Work MPG ein höheres Ladevolumen pro Ladepunkt erzielen.
+
+14 Quelle: TCS-Barometer
+
+Seite 20
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+Home MPG
+
+Work MPG
+
+Quartier-Laden KantonseigeBlaue Zone
+nen PH
+
+Private PH und
+POI
+
+Anzahl Ladepunkte
+in Kt. BS (Zielwert 2040)
+
+19’900
+
+2’250
+
+601
+
+616
+
+924
+
+Investitionskosten
+
+49.5
+
+9.1
+
+4.1
+
+2.7
+
+4.5
+
+Restwert
+
+10.0
+
+1.9
+
+0.9
+
+0.4
+
+0.7
+
+Betriebs- und Stromkosten
+
+106.6
+
+79.9
+
+18.3
+
+13.0
+
+21.9
+
+Ertrag
+
+104.8
+
+86.6
+
+18.2
+
+16.5
+
+27.1
+
+Nettobarwert
+
+-41.3
+
+-0.5
+
+-3.2
+
+1.2
+
+1.3
+
+Tabelle 6:
+
+3.4
+
+Diskontierte Kosten und Ertrag für Business Cases für die Periode 2023 – 2044
+
+Zwischenfazit
+— Bei den Ladestationstypen Home MPG und Quartier-Laden in der blauen
+Zone fallen hohe Kosten und niedrige Lademengen an. Eine Refinanzierung der Kosten über einen Ladetarif von 40 Rp./kWh15 ist nicht möglich.
+Bei einem Ladetarif von 45 Rp./kWh16 ist ein selbsttragendes Ladegeschäft in der blauen Zone möglich. Eine finanzielle Förderung erlaubt eine
+Kostenreduktion und damit einen attraktiveren Ladetarif.
+— Für die Ladeinfrastruktur in Parkhäuser und Work MPG fallen hohe Kosten und hohe Lademengen an. Der Ausbau der Ladeinfrastruktur in
+Parkhäusern stellt sich daher als besonders kosteneffizient heraus. Bereits mit einem Ladetarif von 37 Rp./kWh17 ist über 20 Jahre ein rentables
+Ladegeschäft realistisch, allerdings ist die Investition zu Beginn (Grundinstallation) hoch und die Unsicherheiten gross. Die Förderung fokussiert
+auf der Risikominimierung dieser Initialinvestition.
+— Die Ladeinfrastruktur muss dem Bedarf kurzfristig vorauseilen. Die Verfügbarkeit von Ladestationen gilt als Haupttreiber der Elektromobilität.
+Langfristig (ab 2030) sollen aber Nachfrage und Angebot im Einklang stehen (effizientes Ladenetz).
+
+15 Neuer E-Mobilitätstarif: inkl. Zuschlag (ZEM) von 2.5 Rp./kWh bei gleichzeitiger Befreiung der
+Lenkungsabgabe (5 Rp./kWh)
+16 gemäss Fussnote 15
+17 gemäss Fussnote 15
+
+Seite 21
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+4.
+
+Vorschlag zur Umsetzung der Motion
+Im Kapitel 4.1 wird aufgezeigt, wie der geforderte Aufbau der Ladeinfrastruktur in den kantonseigenen Parkhäusern zeitlich und räumlich umgesetzt werden kann. Im Kapitel 4.2 werden die Investitionskosten für den Aufbau der
+Ladeinfrastruktur im Kanton Basel-Stadt aufgelistet. Kapitel 4.3 führt die Gesamtkosten des Förderpakets zur Finanzierung des Ladeinfrastrukturaufbaus auf. Kapitel 4.4 zeigt auf, wie das Förderpaket finanziert werden kann.
+Weiter werden Empfehlungen (Kapitel 4.5) und Förderkriterien (Kapitel 4.6)
+zur Ausgestaltung der Förderung erläutert.
+
+4.1
+
+Zeitliche und räumliche Umsetzung in den kantonseigenen
+Parkhäusern
+Wir empfehlen kurzfristig in allen sechs kantonseigenen Parkhäusern eine
+Ladeinfrastruktur für Elektrofahrzeuge aufzubauen. Bis im Jahr 2030 sollen
+10 – 14 % der Parkplätze in den kantonseigenen Parkhäusern elektrifiziert
+werden. Damit würden bis 2030 rund 400 bis 550 Ladepunkte errichtet. Bis
+im Jahr 2040 sollen die einzelnen Parkhäuser je nach Bedarf weiter nachgerüstet werden. Gemäss der aktuellen Modellierung gehen wir bis 2040 von
+einem Bedarf von bis zu 616 (480 – 720) Ladepunkten in kantonseigenen
+Parkhäusern aus. Damit wären 12 – 20 % der heutigen Parkplätze in den
+kantonseigenen Parkhäusern mit einem Ladepunkt ausgestattet. Für in Zukunft neu errichtete Parkhäuser gelten die gleichen Empfehlungen des Elektrifizierungsgrads der Parkplätze. Wir empfehlen, dass sie ebenfalls vom
+Förderpaket profitieren können (vgl. Kapitel 4.3). Die Kosten und die Höhe
+der Förderbeiträge wurde auf Basis des aktuellen Parkausbestands berechnet.
+Bedarf
+Kantonseigene
+Parkhäuser
+
+Anzahl
+Parkplätze
+
+Ladepunkte
+AC 11 kW;
+kurzfristig
+
+Bedarf
+Elektrifizierungsgrad
+Parkplätze
+2030
+
+Ladepunkte
+AC 11 kW;
+mittelfristig
+
+2030
+
+2040
+
+Storchen
+
+142
+
+14 – 20
+
+15 – 35
+
+City-Kantonsspital
+
+1’114
+
+110 – 150
+
+130 – 220
+
+Elisabethen
+
+840
+
+80 – 120
+
+100 – 170
+
+St. Jakob
+
+1’054
+
+100 – 145
+
+Steinen
+
+526
+
+50 – 75
+
+60 – 110
+
+Elys
+
+146
+
+14 – 20
+
+15 – 30
+
+Gesamt
+
+3’822
+
+400 – 550
+
+480 – 720
+
+Tabelle 7:
+
+10 – 14 %
+
+120 – 210
+
+Elektrifizierungsgrad
+Parkplätze
+2040
+
+12 – 20 %
+
+Zeitliche und räumliche Umsetzung der Ladeinfrastruktur in den kantonseigenen
+Parkhäusern.
+
+Seite 22
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+4.2
+
+Investitionskosten
+Die Investitionskosten für den Aufbau der Ladeinfrastruktur in kantonseigenen Parkhäusern mit 460 Ladepunkte bis 2030 werden auf rund 2 Mio. Franken geschätzt. Nach 2030 sind weitere rund 1.8 Mio. Franken (ab heute total
+3.8 Mio. Franken) für den Ausbau auf über 610 Ladepunkte zu investieren
+(vgl. Tabelle 8). Ein Grossteil der Investitionskosten bis 2030 fällt auf die
+Grundinstallation.
+Bei den privaten Parkhäusern beläuft sich die Investitionssumme bis 2030
+auf rund 3.5 Mio. Franken für 690 Ladepunkte. Rund zwei Drittel der Investitionssumme entfällt auf die Grundinstallation. Im Bereich der privaten Ladestationen in Mehrparteienwohngebäuden und -bürogebäuden (MPG Home
+und Work) sind bis im Jahr 2030 schätzungsweise Investitionen in der Höhe
+von 32.5 Mio. Franken nötig.
+Investitionskosten
+Kantonseigene PH
+
+Private PH
+
+MPG Work
+
+MPG Home
+
+EFH
+
+Tabelle 8:
+
+Bis 2030
+Anzahl Ladepunkte
+
+Bis 2040
+
+460 LP
+
+616 LP
+
+Grundinstallation
+
+1.3 Mio. CHF
+
+1.4 Mio. CHF
+
+Ladestationen
+
+0.7 Mio. CHF
+
+2.0 Mio. CHF
+
+690 LP
+
+924 LP
+
+Grundinstallation
+
+2.4 Mio. CHF
+
+2.6 Mio. CHF
+
+Ladestationen
+
+1.1 Mio. CHF
+
+2.8 Mio. CHF
+
+2’250 LP
+
+4’000 LP
+
+Grundinstallation
+
+1.8 Mio. CHF
+
+3.8 Mio. CHF
+
+Ladestationen
+
+3.0 Mio. CHF
+
+8.7 Mio. CHF
+
+12'400 LP
+
+19'900 LP
+
+Grundinstallation
+
+10.0 Mio. CHF
+
+19.2 Mio. CHF
+
+Ladestationen
+
+17.7 Mio. CHF
+
+48.8 Mio. CHF
+
+2’000 LP
+
+3’200 LP
+
+Grundinstallation
+
+4.0 Mio. CHF
+
+7.1 Mio. CHF
+
+Ladestationen
+
+1.9 Mio. CHF
+
+5.5 Mio. CHF
+
+Anzahl Ladepunkte
+
+Anzahl Ladepunkte
+
+Anzahl Ladepunkte
+
+Anzahl Ladepunkte
+
+Kumulierte Investitionskosten (nicht diskontiert, inkl. Ersatzinvestition LP) und Anzahl Ladepunkte (LP) für kantonseigene PH und PH Privat, MPG Work und MPG
+Home.
+
+Seite 23
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+4.3
+
+Gesamtkosten des Förderpakets zur Finanzierung des
+Ladeinfrastrukturaufbaus
+Bei der Ladeinfrastruktur in privaten Parkhäusern ist gemäss Kapitel 3.3 wie
+auch bei den kantonseigenen Parkhäusern für den Betrachtungsraum 2023
+bis 2044 trotz hoher Investitionskosten ein positiver Nettobarwert möglich.
+Haupttreiber dafür ist die ambitiöse und unsichere Annahme der zukünftigen
+Auslastung der Ladestationen. Die Unsicherheiten sind allerdings hoch und
+der EBIT ist zuerst lange Zeit stark negativ.
+Mit einer Förderung kann das Investitionsrisiko gesenkt und der Business
+Case verbessert werden.
+Bei der Ladeinfrastruktur in Mehrparteiengebäuden (Mehrfamilienhäuser,
+Wohngebäude mit Nebennutzung und Firmengebäuden; MPG Home und
+Work) ermöglicht eine finanzielle Förderung die Investitionskosten zu senken, wodurch ein wichtiges Hemmnis beseitigt wird.
+
+4.3.1
+
+Gesamtkosten des Förderpakets – Variante 1
+Als Umsetzungsvariante schlagen wir vor, 60 % der anfallenden Kosten der
+Grundinstallation (Netzanschluss und Basisinfrastruktur) pro Ladepunkt zu
+fördern. Die Gesamtkosten für das Förderpaket belaufen sich bis im Jahr
+2030 auf rund 11.7 Mio. Franken. Ein Grossteil der Förderung entfällt auf die
+Immobilienbesitzer von Mehrparteienwohngebäuden (MPG Home).
+Förderbeitrag
+
+Bis 2030
+
+Kantonseigene PH
+
+460 LP
+0.8 Mio. CHF
+
+Private PH
+
+690 LP
+1.4 Mio. CHF
+
+MPG Work
+
+2’250 LP
+1.1 Mio. CHF
+
+MPG Home
+
+12'400 LP
+6.0 Mio. CHF
+
+EFH
+
+2’000 LP
+2.4 Mio. CHF
+
+Tabelle 9:
+
+4.3.2
+
+Kumulierte Förderbeiträge bei Deckung von 60% der anfallenden Kosten der
+Grundinstallation (Netzanschluss und Basisinfrastruktur) pro Ladepunkt und Anzahl Ladepunkte (LP).
+
+Gesamtkosten des Förderpakets – Variante 2
+Als alternative Umsetzungsvariante schlagen wir vor, 25 % der anfallenden
+Investitionskosten (Grundinstallation und Ladeinfrastruktur) zu fördern. Die
+Gesamtkosten für das Förderpaket belaufen sich bis im Jahr 2030 auf rund
+
+Seite 24
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+10.8 Mio. Franken. Ein Grossteil der Förderung entfällt auf die Immobilienbesitzer von Mehrparteienwohngebäuden (MPG Home).
+Förderbeitrag
+
+Bis 2030
+
+Kantonseigene PH
+
+460 LP
+0.5 Mio. CHF
+
+Private PH
+
+690 LP
+0.9 Mio. CHF
+2’250 LP
+
+MPG Work
+
+1.2 Mio. CHF
+MPG Home
+
+12'400 LP
+6.9 Mio. CHF
+
+EFH
+
+2'000 LP
+1.3 Mio. CHF
+
+Tabelle 10:
+
+4.3.3
+
+Förderbeiträge bei Deckung von 25% der Gesamtinvestitionskosten (Netzanschluss, Basisinfrastruktur und Ladesäulen) pro Ladepunkt und Anzahl Ladepunkte (LP).
+
+Variantenvergleich
+Die beiden Varianten lassen sich wie folgt bewerten und vergleichen:
+Fördergegenstand
+
+Förderbeitrag
+
+Bewertung
+
+Variante 1
+
+60% der anrechenbaren Kosten der Grundinstallation
+
+Teure Grundinstallation als
+Hemmnis für den Aufbau der
+Ladeinfrastruktur wird abgebaut.
+
+Grundinstallation (Netzanschluss, Basisinfrastruktur)
+
+(anrechenbar: Kosten für die
+Basisinfrastruktur; Kosten, die
+im Zusammenhang mit einer
+allfälligen Anpassung des
+Hausanschlusses entstehen)
+
+Weniger, dafür hohe Förderbeiträge je Fördergesuch, da
+nicht einzelne Ladestationen
+gefördert werden, reduziert
+den administrativen Aufwand.
+Hauptprofiteur des Förderpakets sind die Anwohnenden
+des Kantons Basel-Stadt.
+
+Variante 2
+Grundinstallation (Netzanschluss, Basisinfrastruktur)
+und Ladeinfrastruktur AC/DC
+
+Tabelle 11:
+
+25% der anrechenbaren Gesamtkosten
+(anrechenbar: Kosten für Ladestelle und Installationskosten; Kosten für die Basisinfrastruktur; Kosten, die im Zusammenhang mit einer allfälligen Anpassung des Hausanschlusses entstehen)
+
+Zahlreiche Förderempfänger.
+Mehr Fördergesuche mit kleinerem Förderbeiträgen, erhöht den administrativen Aufwand.
+Gefahr von Mitnahmeeffekten,
+da auch einzelne Ladestationen gefördert werden.
+
+Variantenvergleich der Förderpakete.
+
+Seite 25
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+Finanzierung des Förderpakets
+Die Motion fordert eine verursachergerechte Finanzierung des raschen Ausbaus der Ladeinfrastruktur und schlägt eine Finanzierung über einen neuen
+E-Mobilitätstarif vor (siehe Kapitel 3.1).
+Unter der Annahme, dass der E-Mobilitätstarif mit 2.5 Rp./kWh ZEM auf das
+gesamte Ladevolumen im Kanton Basel-Stadt ausschliesslich jenem in Einfamilienhäusern angewendet werden kann, werden bis 2030 rund 5.6 Mio.
+Franken, bis 2044 rund 35.4 Mio. Franken und bis 2050 ca. 50 Mio. Franken
+in den Förderfonds einbezahlt (vgl. Abbildung 12).
+Kumulierte Einnahmen aus ZEM im Kanton Bastel-Stadt [Mio. CHF]
+50
+45
+
+40
+35
+Mio. CHF
+
+4.4
+
+30
+25
+20
+15
+10
+
+5
+0
+2020
+
+2025
+
+2030
+
+2035
+
+2040
+
+2045
+
+Home MPG
+
+Work MPG
+
+Quartier-Laden in der blauen Zone
+
+POI kantonseigene Parkhäuser
+
+POI private Parkhäuser und weitere PP
+
+Fast
+
+2050
+
+Abbildung 12: Kumulierte Einnahmen aus dem ZEM je Ladestationstyp bis 2050.
+
+Abbildung 13 und Abbildung 14 zeigen die kumulierten Einnahmen aus dem
+ZEM und die Gesamtkosten des Förderpakets Variante 1 (Förderbeitrag von
+60% der anfallenden Kosten der Grundinstallation) sowie Variante 2 (Förderbeitrag von 25% der anfallenden Gesamtkosten) zur Unterstützung des
+Aufbaus der Ladeinfrastruktur in kantonseigenen und privaten Parkhäusern,
+Mehrparteienwohn- und -bürogebäuden (MPG Home und Work) sowie Einfamilienhäuser (EFH).
+In dieser Darstellung wird der Aufbau der Ladeinfrastruktur bis im Jahr 2030
+gefördert. Ab 2031 werden keine Förderbeiträge mehr ausbezahlt. So soll
+ein Anreiz für einen möglichst raschen Ausbau gesetzt werden. Der ZEM
+wird auch über die Jahre 2030 hinaus erhoben, um den Förderfonds langfristig zu neutralisieren. Bei der Variante 1 ist dies im Jahr 2034 zu erwarten.
+Die kumulierten Mehrausgaben durch Förderbeiträge erreichen im Jahr 2028
+mit einer Unterdeckung von 6.3 Mio. CHF ihr Maximum.
+Bei der Variante 2 sind die kumulierten Gesamtkosten des Förderpakets voraussichtlich ebenfalls im Jahr 2034 gedeckt. Die kumulierten Mehrausgaben
+durch Förderbeiträge erreichen bei Variante 2 im Jahr 2029 mit einer Unterdeckung von 5.5 Mio. CHF ihr Maximum.
+Seite 26
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+Die in der Motion postulierte Höhe des ZEM von 2.5 Rp./kWh ist für die Variante 1 sowie die Variante 2 langfristig tendenziell zu hoch, obschon auch
+der administrative Aufwand des Förderprogramms berücksichtigt werden
+muss (siehe Kapitel A1). Die Höhe des ZEM von 2.5 Rp,/kWh gibt zudem
+Handlungsspielraum zur Förderung des weiteren Ausbaus der Ladeinfrastruktur in der blauen Zone.
+Kumulierte ZEM Einnahmen und 60% der Investitionskosten für Grundinstallation
+30
+25
+
+Mio. CHF
+
+20
+15
+10
+5
+0
+2023
+
+2025
+
+2027
+
+2029
+
+2031
+
+Parkhäuser, MPG und EFH
+
+2033
+
+2035
+
+2037
+
+2039
+
+ZEM Einnahmen
+
+Abbildung 13: Kumulierte Einnahmen über ZEM bis 2040 und Gesamtkosten des Förderpakets
+Variante 1 (Deckung von 60% der anfallenden Kosten der Grundinstallation bis
+2030) bei kantonseigenen und privaten Parkhäusern, MPG Home und Work und
+EFH. Grösste Differenz im Jahr 2028 von 6.3 Mio. CHF.
+Kumulierte ZEM Einnahmen und 25% der gesamten Investitionskosten
+30
+25
+
+Mio. CHF
+
+20
+15
+10
+5
+0
+2023
+
+2025
+
+2027
+
+2029
+
+2031
+
+Parkhäuser, MPG und EFH
+
+2033
+
+2035
+
+2037
+
+2039
+
+ZEM Einnahmen
+
+Abbildung 14: Kumulierte Einnahmen über ZEM bis 2040 und Gesamtkosten des Förderpakets
+Variante 2 (Deckung von 25% der anfallenden Gesamtkosten bis 2030) bei kantonseigenen und privaten Parkhäusern, MPG Home und Work und EFH. Grösste Differenz im Jahr 2029 von 5.5 Mio. CHF.
+
+Seite 27
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+4.5
+
+Empfehlung
+— Wir empfehlen ein Förderpaket für den Aufbau der Ladeinfrastruktur in
+kantonseigenen, privaten Parkhäusern und privaten Abstellplätzen gemäss Variante 1 mit Förderbeiträgen in der Höhe von 60% der anrechenbaren Kosten der Grundinstallation. Dadurch kann das Förderpaket ein
+klarer Anreiz schaffen, ohne Risiko für umfangreiche Mitnahmeeffekte.
+— Wir empfehlen eine befristete Förderung bis im Jahr 2030, um einen raschen Ausbau in den kommenden Jahren zu ermöglichen.
+— Kantonseigene Parkhäuser sollen, wie die privaten Parkhausbesitzer, einen Antrag für eine 60%-Förderung der Grundinstallation stellen können.
+Für die restlichen 40% Kosten der Grundinstallation soll keine spezielle
+Finanzierung vorgesehen werden.
+— Ein Grossteil der Investitionskosten bis 2030 entfällt auf die Grundinstallation. Die Variante 1 setzt daher an der richtigen Stelle an, um einen
+raschen Ausbau zu beschleunigen.
+— Für die verursachergerechte Finanzierung schlagen wir die Einführung
+eines verbindlichen E-Mobilitätstarifs für Ladestationen (ausschliesslich
+Ladeinfrastruktur in Einfamilienhäusern) im Kanton Basel-Stadt vor. Der
+E-Mobilitätstarif wird von der Lenkungsabgabe (5 Rp./kWh) befreit, entrichtet aber neu einen Zuschlag zur Elektrifizierung der motorisierten Mobilität (ZEM) von 2.5 Rp./kWh.
+— Um einen effizienten Einsatz der Fördergelder zu garantieren, schlagen
+wir eine Deckelung der maximal anrechenbaren Kosten pro Ladepunkt
+vor (siehe Förderkriterien, vgl. Kapitel 4.6).
+
+4.6
+
+Förderkriterien
+Wir empfehlen die Ladeinfrastruktur, respektive die Grundinstallation, unabhängig vom Nutzermodell mit demselben Fördermodell ins Förderpaket zu
+integrieren und nach denselben Kriterien zu fördern.
+Grundinstallation für Ladeinfrastruktur:
+— Die Grundinstallation (Definition gemäss SIA 2060; vgl. Anhang A1) für
+Ladeinfrastruktur befindet sich im Kanton Basel-Stadt
+— Die Ladeinfrastruktur steht auf privatem Grund oder in kantonseigenen
+Bauten (z.B. kantonseigene Parkhäuser)
+— Es handelt sich um eine neue Grundinstallation
+— Die maximal anrechenbaren Kosten für die Grundinstallation pro Ladepunkt sind bei öffentlich zugänglichen Parkhäusern auf 3'500 CHF und in
+privaten Einstellhallen auf 1'300 CHF begrenzt. Diese Begrenzung kommt
+erwartungsgemäss nicht zum Tragen, da in der Regel nicht mit so hohen
+Kosten zu rechnen ist.
+— Maximale Leistung pro Ladepunkt 50 kW
+— Um vom Förderprogramm profitieren zu können, sollen die technischen
+Anforderungen an die Grundinstallation laufend beobachtet und bei Bedarf aktualisiert werden. Die betrifft die Anforderungen an ein
+
+Seite 28
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+Lademanagement, Open Chargepoint Protocol (OCPP) oder die Fähigkeit für bidirektionales Laden.
+Dauer Förderprogramm
+Die Motion des UVEK fordert einen raschen Ausbau der Ladeinfrastruktur.
+Um dies anzureizen, wird vorgeschlagen das Förderprogramm zeitlich zu
+beschränken (z.B. bis 2030, siehe Kapitel 4.5). Entscheidend für die Fristeneinhaltung ist die Realisierung der Basisinfrastruktur und nicht der Zeitpunkt
+der Gesuchstellung.
+Berechtigte natürliche und juristische Personen:
+Natürliche und juristische Personen im Kanton Basel-Stadt.
+Falls die Förderempfänger aus anderen Förderprogrammen Förderbeiträge
+beziehen, müssen diese von den Fördergesuchstellern deklariert werden. In
+Kombination mit anderen Förderbeiträgen, soll der Förderbeitrag des Kanton
+Basel-Stadt entsprechend gekürzt werden, damit die kumulierte Förderung
+maximal 80% der anrechenbaren Kosten deckt.
+
+Seite 29
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+A1
+
+Stellungnahmen und Empfehlungen zu ausgewählten Fragestellungen
+Administrativer Aufwand für die Umsetzung des Förderprogramms
+Die Administration (Prozess Gesuchstellung, Bewertung Gesuche, Antwort,
+Abwicklung der Förderung) eines Förderprogramms liegt beim Kanton Basel-Stadt selbst. Grundsätzlich gilt, dass gewisse Mechanismen den Aufwand reduzieren:
+— Grosser Förderbeitrag pro Objekt
+— Einmalige oder geringe Anzahl Förderanfragen pro Objekt
+— Gleicher Mechanismus für alle Geförderten
+— Einfache Kriterien zur Bewertung
+Der Aufwand kann anhand von Vergleichen mit anderen Kantonen oder
+Städten erfolgen. Die ewz rechnet mit rund 450 Fördergesuchen pro Jahr.
+Die Anzahl Gesuche sei in der letzten Zeit aber markant angestiegen. Die
+Bearbeitung eines Gesuchs dauert ca. 2-3 Stunden.18
+Implikationen für den Kanton Basel-Stadt: Durch die Verwendung eines
+bestehenden Tools kann viel Zeit gespart werden. Der Kanton Basel-Stadt
+verwendet bereits ein geeignetes Tool (Gesuchsportal Kanton Basel-Stadt),
+somit können Synergieeffekte mit anderen Programmen genutzt werden. Wir
+empfehlen die Verwendung dieses Tools.
+Mit gleichen Annahmen wie in Zürich (450 Anträge ergibt sich ein Aufwand
+von 0.4 – 0.6 FTE pro Jahr (Annahme Jahresarbeitszeit: 2080 Stunden). Der
+Aufwand darf allerdings nicht bei einer Person liegen, da in der Prüfung, das
+Vier-Augen-Prinzip angewendet werden sollte.
+Für den Kanton Basel-Stadt werden für die privaten Parkhäuser, MPG Home
+sowie MPG Work mit ca. 750 Anträgen bis 2030 und dann ca. 450 restlichen
+Anträgen bis 2044 gerechnet, unter der Annahme, dass MPG Home und
+MPG Work durchschnittlich je 20 Ladepunkte haben. Dies entspricht mit einer gleichmässigen zeitlichen Verteilung ca. 100 Anträgen pro Jahr bis 2030
+und ca. 45 Anträgen pro Jahr von 2031 bis 2044. Es wird jedoch davon ausgegangen, dass in beiden Zeitperioden anfänglich mehr Anträge anfallen. Im
+Durchschnitt entspricht dies ca. 0.1 FTE. Über die gesamte Dauer der Förderung.
+Merkblatt SIA 2060
+Die SIA-Norm 2060 zählt heute zum angenommenen Standard in der Elektromobilität und wird daher als wegweisendes Richtdokument empfohlen.
+Kantone können Empfehlungen der SIA, wie z.B. die Elektrifizierungsquote,
+in das Baurecht übernehmen und somit gesetzlich verankern.
+Elektrifizierungsquote in Parkhäusern. Die Motion verlangt eine Elektrifizierungsquote von 35%. Eine Bewertung der Quote ist abhängig von der
+Definition der Begrifflichkeit (Ausbaustufen nach SIA 2060). Die SIA 2060
+18 Quelle: Aussagen ewz, Adrian Györög
+
+Seite 30
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+Norm gibt Empfehlungen vor, welche von der Ausbaustufe abhängig sind.
+Wir empfehlen individuelle Entscheidungen, welche sich nach der Entwicklung des Ladebedarfs richten.
+Für den kompletten Ausbau der Ladeinfrastruktur (Ausbaustufe D) wird für
+MPG für Bewohner und Beschäftige (Home und Work) ein Richtwert von
+20% empfohlen, für andere Anwenderklassen, wie Parkhäuser wird in der
+SIA-Norm 2060 kein konkreter Vorschlag gemacht. Die Empfehlung von EBP
+für die Elektrifizierung der Parkhäuser liegt bis 2040 im Bereich von 10-20%,
+da wir mittel- und langfristig eine höhere Auslastung der Ladestationen und
+damit ein effizienteres Ladenetz erwarten.
+Ausbaustufen und zeitliche Aspekte. Der Ausbau von Ladeinfrastruktur
+hat unterschiedliche Stufen, die in der SIA 2060 wie folgt definiert sind.
+Grundinstallation
+
+Abbildung 15: Grafische Darstellung der möglichen Ausbaustufen [Quelle: SIA 2060]
+
+Brandlast und Brandschutz
+Grundsätzlich gilt, dass beim Parkieren von E-Fahrzeugen keine zusätzliche
+Brandgefahr (gegenüber Benzin- oder Diesel-Autos) besteht.19 Experteninterviews bei EBP haben ergeben, dass auch der Ladevorgang nicht als kritischer erachtet wird als bei Verbrennungsmotoren, wenn ein Mechanismus
+besteht, der den Ladvorgang bei Überhitzung stoppt.
+Weil die Batteriekapazität die Brand-Risikoklasse definiert und Batterien
+eine hohe Energiedichte haben, ist die Brandlast jedoch höher. Es empfiehlt
+sich daher in Tiefgaragen mit mehreren Ladepunkten, bauliche Massnahmen zur Brandausweitungs-Verhinderung zu treffen, wie z. B. Gipsplatten
+oder Trennwände.
+
+19 Quelle: Merkblatt SIA 2060, VKF
+
+Seite 31
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+Bidirektionales Laden
+Bidirektionales Laden spielt bei der Umsetzung der Motion keine entscheidende Rolle. Da wir die Förderung der Basisinfrastruktur und nicht der
+Ladeinfrastruktur empfehlen, ist auch keine differenzierte Förderung für bidirektionale Ladestationen vorgesehen.
+
+Seite 32
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+A2
+
+Abkürzungsverzeichnis
+Abkürzung
+
+Bedeutung
+
+BEV
+
+Batterieelektrisches Fahrzeug, Battery Electric Vehicle
+
+EFH
+
+Einfamilienhaus
+
+FCEV
+
+Wasserstoff-Brennstoffzellenfahrzeug
+
+ICE
+
+Fahrzeug mit Verbrennungsmotor, Internal Combustion Engine
+
+LIS
+
+Ladeinfrastruktur
+
+LP
+
+Ladepunkt
+
+MPG
+
+Mehrparteiengebäude
+
+öG
+
+Öffentlicher Grund
+
+PHEV
+
+Plug-in-Hybrid
+
+Seite 33
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+A3
+
+Anwendungsbeispiel Förderbeiträge
+Zur Veranschaulichung wird hier ein vereinfachtes Anwendungsbeispiel für
+ein Parkhaus mit 30 Ladepunkten dargelegt.
+Folgende Kosten fallen für den Betreiber als Investitionskosten an, und sind
+somit in den jeweiligen Fördervarianten förderberechtigt.
+In den folgenden Tabellen werden die Fördervarianten exemplarisch durchgerechnet.
+Kostenkategorie
+
+Kosten für 30 LP
+
+Förderung
+
+Restbetrag
+
+[CHF]
+
+[CHF]
+
+[CHF]
+
+Basisinfrastruktur
+
+52’500
+
+31’500
+
+21’000
+
+Anschlussgebühren
+
+10’400
+
+6’240
+
+4’160
+
+Netzkostenbeitrag
+
+10’200
+
+6’120
+
+4’080
+
+58’500
+
+0
+
+58’500
+
+131’600
+
+43’860
+
+87’740
+
+Kosten Ladeinfrastruktur
+(inkl. Installation)
+Summe
+Tabelle 12:
+
+Veranschaulichung der Fördervariante 1 (Deckung 60% der Investitionskosten für
+die Basisinfrastruktur) im Anwendungsbeispiel eines Parkhauses mit 30 Ladepunkten (LP). Der Restbetrag ist die Differenz der Kosten und der Förderung.
+
+In Variante 1 (vgl. Tabelle 12) ergibt sich aus den gesamten Investitionskosten on 131'600 CHF ein Restbetrag für den Betreiber von 87'700 CHF, wohingegen in der Variante 2 (vgl. Tabelle 13) der Restbetrag 98'700 CHF beträgt.
+Kostenkategorie
+
+Kosten für 30 LP
+
+Förderung
+
+Restbetrag
+
+[CHF]
+Basisinfrastruktur
+
+52’500
+
+13’125
+
+39’375
+
+Anschlussgebühren
+
+10’400
+
+2’600
+
+7’800
+
+Netzkostenbeitrag
+
+10’200
+
+2’550
+
+7’650
+
+58’500
+
+14’625
+
+43’875
+
+131’600
+
+32’900
+
+98’700
+
+Kosten Ladeinfrastruktur
+(inkl. Installation)
+Summe
+Tabelle 13:
+
+Veranschaulichung der Fördervariante 2 (Deckung 25% aller Investitionskosten)
+im Anwendungsbeispiel eines Parkhauses mit 30 Ladepunkten (LP). Der Restbetrag ist die Differenz der Kosten und der Förderung.
+
+Seite 34
+
+Studie zur Umsetzung der Motion betreffend einen raschen Ausbau der Ladeinfrastruktur für E -Autos / Grundlage für den
+Ratschlag zuhanden des Grossen Rates des Kantons Basel-Stadt
+
+A4
+
+Literaturverzeichnis
+— Bundesamt für Raumentwicklung (ARE) (2022). Schweizerische Verkehrsperspektiven 2050: Schlussbericht. Link
+— Bundesamt für Raumentwicklung (ARE) (2020). Nationales Personenverkehrsmodell (NPVM) 2017: Schlussbericht. Link
+— Bundesamt für Statistik (BFS) (2020). Szenarien zur Bevölkerungsentwicklung der Schweiz und der Kantone 2020-2050. Link
+— EBP (2022). Electric and Hydrogen Mobility Scenarios Switzerland
+2022. Link.
+— EBP (2021). Gesamtkonzept Elektromobilität für die Stadt Zürich
+— EBP (2018). Grundlagen für ein Gesamtkonzept Elektromobilität Kanton Basel-Stadt
+— EBP (2017). Synthetische Bevölkerung Schweiz. Untersuchungen der
+Wohnsituation, des Mobilitäts- und Konsumverhaltens der Schweizer
+Bevölkerung. EBP-Webseite: Link.
+— Grosser Rat des Kantons Basel-Stadt (2021). Grossratsbeschluss I.
+Gesamtkonzept Elektromobilität
+— Grosser Rat des Kantons Basel-Stadt (2021). Grossratsbeschluss III.
+Grundsätze zur Elektromobilität
+— Schweizerischer Ingenieur- und Architektenverein (SIA) (2020). Infrastruktur für Elektrofahrzeuge in Gebäuden. SIA 2060:2020
+— Umwelt-, Verkehrs- und Energiekommission (UVEK) (2021). Raphael
+Fuhrer. Motion betreffend einen raschen Ausbau der Ladeinfrastruktur
+für E-Autos in Basel-Stadt (21.5234.01)
+— Vereinigung Kantonaler Feuerversicherungen (VKF) (2021): Brandschutzmerkblatt Lithium-Ionen-Batterien
+— Öffentliches Ladenetz – Tarife Ladestationen BS, IWB (2022). Link
+— E-Mail-Austausch mit Manuel Vischer, IWB, 2022
+— Tarifblatt 2022, IWB. Link
+— Gebührentarife für Netzanschluss der IWB, Link
+
+Seite 35
+
+

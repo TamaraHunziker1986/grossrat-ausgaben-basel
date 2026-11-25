@@ -1,0 +1,296 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+25.5091.02
+
+FD/P255091
+Basel, 2. Juli 2025
+Regierungsratsbeschluss vom 1. Juli 2025
+
+Motion Salome Bessenich und Konsorten betreffend «Open-Source
+für Basel-Stadt analog Art. 9 EMBAG»; Stellungnahme
+Der Grosse Rat hat an seiner Sitzung vom 9. April 2025 die nachstehende Motion
+Salome Bessenich dem Regierungsrat zur Stellungnahme überwiesen:
+«Der Kanton Basel-Stadt hat sich in der Open Source Strategie 2010 das Ziel gesetzt, den Einsatz von
+offenen IKT-Systemen und -Standards durch geeignete Massnahmen zu fördern. In der Antwort auf die
+schriftliche Anfrage betreffend Einsatz von Open Source Software bei kantonalen IT-Projekten (P22.5263)
+betonte der Regierungsrat, dass dabei ein differenzierter und pragmatischer Ansatz verfolgt werde, der sich
+nicht auf die Frage "Windows versus Linux" beschränke. Der Anfragestellerin ging es aber keineswegs darum, das grundsätzliche Prinzip "buy before make" zu hinterfragen, sondern vielmehr darum, das Vorgehen
+bei Eigenentwicklungen und Anwendungen im Auftrag der Verwaltung abzufragen. Erste Wahl bleibt weiterhin der Einsatz bestehender und funktionierender Software.
+Seit dem 1. Januar 2024 ist das nationale «Bundesgesetz über den Einsatz elektronischer Mittel zur Erfüllung
+von Behördenaufgaben» (EMBAG, SR 172.019) in Kraft. Dieses Gesetz gilt gemäss Art. 2 ausschliesslich
+für die zentrale Bundesverwaltung. Eine sinngemässe Regelung könnte aber analog auch für den Kanton
+Basel-Stadt angewandt werden, was insbesondere auch gemeinsame Softwareprojekte mit dem Bund und
+anderen Kantonen ermöglichen würde, was zeitliche und finanzielle Ressourcen sparen kann. Art. 9 EMBAG
+hält fest, dass Behörden den Quellcode von Software offenlegen, die sie zur Erfüllung ihrer Aufgaben entwickeln oder entwickeln lassen, es sei denn, die Rechte Dritter oder sicherheitsrelevante Gründe würden dies
+ausschliessen oder einschränken. Die Bundesbehörden erlauben zudem jeder Person, die Software zu nutzen, weiterzuentwickeln und weiterzugeben, und erheben keine Lizenzgebühren, wobei die Rechte in Form
+von privatrechtlichen Lizenzen erteilt werden.
+Eigenentwicklung soll auch zukünftig nur in Frage kommen, wenn keine bereits bestehende und funktionierende Software für den gleichen Zweck eingekauft werden kann. Im Falle einer Eigenentwicklung kann analog zum Grundsatz bei "Open Data" argumentiert werden, dass der erzeugte Quellcode der Allgemeinheit
+und den Unternehmen frei zur Verfügung stehen sollte, da durch den Kanton entwickelte Software aus Steuergeldern finanziert wird. Die Entwicklung und Nutzung von Open-Source- Software der kantonalen Behörden kann das Vertrauen der Bevölkerung in die Arbeit der Verwaltung stärken: Die Offenlegung des Quellcodes erlaubt Dritten, die Software einzusehen, Fehler zu entdecken, zu kommentieren und so die Qualität
+und Sicherheit zu verbessern. Ein in Open-Source erstellter Quellcode kann einfacher in anderen Projekten
+verwendet werden, sodass Synergien genutzt und Kosten gesenkt werden können. Auch andere Kantone
+könnten von Basler Lösungen profitieren und so die digitale Verwaltung der Schweiz weiterentwickeln.
+Ebenso könnten Gemeinden und Unternehmen von quelloffener Software profitieren, da Schnittstellen einfacher zu nutzen wären und sie ähnliche Aufgaben auf kommunaler Ebene einfacher umsetzen könnten.
+
+Den Mitgliedern des Grossen Rates des Kantons Basel-Stadt zugestellt am 4. Juli 2025.
+
+Seite 1/6
+
+Regierungsrat des Kantons Basel-Stadt
+
+Der Regierungsrat wird beauftragt, dem Grossen Rat eine Vorlage zu unterbreiten, um eine gesetzliche
+Grundlage sinngemäss analog Art. 9 EMBAG zu schaffen. So soll der Quellcode von Software der kantonalen
+Behörden grundsätzlich offengelegt werden, sofern nicht sicherheitsrelevante Gründe oder Rechte Dritter
+dagegensprechen.
+Salome Bessenich, Pascal Pfister, Olivier Battaglia, Nicola Goepfert, Daniel Albietz, Erich Bucher, Jo Vergeat, Oliver Thommen, Michela Seggiani, Brigitte Kühne»
+
+Wir nehmen zu dieser Motion wie folgt Stellung:
+
+1.
+
+Zur rechtlichen Zulässigkeit der Motion
+
+1.1
+
+Grundlagen des Motionsrechts
+
+Mit einer Motion kann der Grosse Rat den Regierungsrat verpflichten, eine Verfassungs- oder Gesetzesvorlage oder eine Vorlage für einen Grossratsbeschluss vorzulegen (§ 42 Abs. 1 GO) oder
+eine Massnahme zu ergreifen (§ 42 Abs. 1bis GO). Der Grosse Rat kann dem Regierungsrat also
+sowohl in seinem eigenen Zuständigkeitsbereich als auch im Zuständigkeitsbereich des Regierungsrats Aufträge erteilen.
+Das Recht setzt dem Grossen Rat bezüglich Motionsbegehren allerdings auch Schranken, die in
+der Gewaltenteilung, im Gesetzmässigkeits-, im Föderalismus- und im Demokratieprinzip gründen.
+So darf eine Motion nicht gegen höherrangiges Recht verstossen (wie Bundesrecht, interkantonales Recht oder kantonales Verfassungsrecht). Zudem ist eine Motion gemäss § 42 Abs. 2 GO unzulässig, die einwirken will auf
+ den verfassungsrechtlichen Zuständigkeitsbereich des Regierungsrats,
+ einen Einzelfallentscheid,
+ einen in gesetzlich geordnetem Verfahren zu treffenden Entscheid oder
+ einen Beschwerdeentscheid.
+
+1.2
+
+Motionsforderung
+
+Mit der vorliegenden Motion wird der Regierungsrat beauftragt, «dem Grossen Rat eine Vorlage zu
+unterbreiten, um eine gesetzliche Grundlage sinngemäss analog Art. 9 EMBAG zu schaffen. So
+soll der Quellcode von Software der kantonalen Behörden grundsätzlich offengelegt werden, sofern
+nicht sicherheitsrelevante Gründe oder Rechte Dritter dagegensprechen».
+
+1.3
+
+Rechtliche Prüfung
+
+Es liegt in der Kompetenz der Kantone, welche Software sie zur Erfüllung ihrer Aufgaben verwenden, entwickeln oder entwickeln lassen und wie sie den Umgang mit dem Quellcode der namentlich
+selbst entwickelten Software regeln. Aus rechtlicher Sicht spricht nichts gegen die Forderung, auf
+Gesetzesstufe eine Regelung analog von Art. 9 Bundesgesetz über den Einsatz elektronischer
+Mittel zur Erfüllung von Behördenaufgaben (EMBAG; SR 172.019) zu normieren. Mit der Motion
+wird vom Regierungsrat die Ausarbeitung eines Gesetzesentwurfes beantragt. Der Erlass von Gesetzesbestimmungen fällt in die Zuständigkeit des Grossen Rates. Zudem verlangt die Motion nicht
+etwas, was sich auf den verfassungsrechtlichen Zuständigkeitsbereich des Regierungsrates, auf
+einen Einzelfallentscheid, auf einen in gesetzlich geordnetem Verfahren zu treffenden Entscheid
+oder einen Beschwerdeentscheid bezieht. Es spricht auch kein höherrangiges Recht wie Bundesrecht oder kantonales Verfassungsrecht gegen den Motionsinhalt.
+
+1.4
+
+Schlussfolgerung
+
+Die Motion ist als rechtlich zulässig anzusehen.
+
+Seite 2/6
+
+Regierungsrat des Kantons Basel-Stadt
+
+2.
+
+Anliegen der Motion
+
+Die Motion fordert die Schaffung einer kantonalen Rechtsgrundlage sinngemäss analog Art. 9 Bundesgesetz über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben (EMBAG,
+SR 172.019). So soll der Quellcode von Software der kantonalen Behörden grundsätzlich offengelegt werden, sofern nicht sicherheitsrelevante Gründe oder Rechte Dritter dagegensprechen. Der
+Quellcode von Eigenentwicklungen sei der Allgemeinheit und Unternehmen offenzulegen, weil die
+durch den Kanton entwickelte Software aus Steuergeldern finanziert wird. Die Entwicklung und
+Nutzung von Open-Source-Software könne zudem das Vertrauen der Bevölkerung in die Arbeit der
+Verwaltung stärken, da Dritte damit nicht nur Einblick in die Software erhalten, sondern diese weiterentwickeln können. Des Weiteren könnten auf Grund von entstehenden Synergien und einfacherer Mehrfachnutzung von Quellcodes Kosten gesenkt werden.
+Die Motion sieht den Grundsatz «buy before make» als weiterhin unbestritten an: Eigenentwicklungen sollen nur dann erfolgen, wenn keine geeignete bestehende Lösung zur Verfügung steht.
+
+3.
+
+Ausgangslage – rechtliche Grundlagen im Kanton
+
+3.1
+
+Analoge Regelung zu Art. 9 Abs. 1 EMBAG
+
+Wie in der Motion festgehalten, gilt das EMBAG gemäss Art. 2 ausschliesslich für die zentrale
+Bundesverwaltung. Es entfaltet keine direkte Bindungswirkung für die Kantone. Die Übernahme
+von Bestimmungen aus dem EMBAG ins kantonale Recht ist keine rechtliche Notwendigkeit.
+Die Botschaft des Bundesrates zum EMBAG (BBl 2022 804, S. 37-38) diskutiert die Frage ausführlich, ob für die lizenzgebührenfreie Freigabe von Open Source Software durch die Verwaltung eine
+formell-gesetzliche Grundlage zwingend erforderlich ist. Im Ergebnis liess sie die Frage explizit
+offen, d.h. eine solche wird nicht als zwingend angesehen. Dies lässt im Umkehrschluss Raum für
+die Kantone, ähnliche Ziele auch ohne eine spezifische Regelung zu verfolgen, sofern das bestehende Recht dies zulässt.
+§ 20 des Gesetzes über die Information und den Datenschutz (Informations- und Datenschutzgesetz, IDG, SG 153.260) statuiert das Öffentlichkeitsprinzip, wonach grundsätzlich Zugang zu den
+bei den öffentlichen Organen vorhandenen Informationen besteht. Auch wenn das IDG primär einen reaktiven Zugang regelt, schliesst es eine proaktive Veröffentlichung von Informationen nicht
+aus, wie sie auch für Open Data praktiziert wird.
+Die Einschränkung der Freigabe bei Rechten Dritter am Quellcode, die in Art. 9 Abs. 1 lit. a EMBAG
+vorgesehen ist, ist bereits ohne eine explizite kantonale Regelung zwingend zu beachten. Der Kanton ist wie jede andere juristische oder natürliche Person an das Bundesgesetz über das Urheberrecht und verwandte Schutzrechte (URG) gebunden.
+Auch die in Art. 9 Abs. 1 lit. b EMBAG genannte Einschränkung der Freigabe aus sicherheitsrelevanten Gründen ist bereits durch bestehendes kantonales Recht abgedeckt. Der Kanton ist durch
+den Grundsatz der Informationssicherheit in § 8 IDG gehalten, die Sicherheit seiner IT-Systeme
+und zu gewährleisten. Ferner kann gemäss § 29 IDG der Zugang zu Informationen eingeschränkt
+oder verweigert werden kann, wenn überwiegende öffentliche Interessen (z.B. öffentliche Sicherheit) entgegenstehen. Die Veröffentlichung von Quellcode, die die Sicherheit gefährden würde,
+wäre somit bereits heute unzulässig.
+
+3.2
+
+Analoge Regelungen zu Art. 9 Abs. 2-6 EMBAG
+
+Im Übrigen werden in Art. 9 EMBAG weitere Regelungen getroffen, die aber von der Motion nicht
+explizit aufgegriffen werden, so dass unklar bleibt, ob sie Teil der Motionsforderung sind. Die
+
+Seite 3/6
+
+Regierungsrat des Kantons Basel-Stadt
+
+rechtliche Analyse zeigt auch hier, dass eine neue gesetzliche Regelung nicht nötig ist, damit der
+Kanton entsprechend vorgehen kann:
+Die Erlaubnis zur Nutzung, Weiterentwicklung und Weitergabe der Software (Abs. 2) ist ein Kernbestandteil jeder Open-Source-Veröffentlichung und wird typischerweise durch die gewählte Lizenz
+definiert. Ebenso ist der Verzicht auf Lizenzgebühren (Abs. 2) eine inhärente Folge der Entscheidung des Kantons für ein Open-Source-Modell und bedarf keiner separaten gesetzlichen Verankerung. Dass die Rechte in Form von privatrechtlichen Lizenzen erteilt werden und daraus resultierende Streitigkeiten zivilrechtlich beurteilt werden (Abs. 3), entspricht der gängigen Praxis und der
+Rechtsnatur von Lizenzverträgen. Hier kann der Kanton als Inhaber von Immaterialgüterrechten im
+zivilrechtlichen Rahmen agieren. Die Regelung in Abs. 4, international etablierte Lizenztexte zu
+verwenden und Haftungsansprüche soweit rechtlich möglich auszuschliessen, kann der Kanton im
+Rahmen der Vertragsfreiheit bei der Ausgestaltung der Lizenzen (gestützt auf das Obligationenrecht) bereits heute umsetzen. Schliesslich sind auch die Aspekte der ergänzenden Dienstleistungen (Abs. 5 und 6), also deren Erbringung durch kantonale Behörden und die Regelung eines
+allfälligen kostendeckenden Entgelts dafür (nicht aber für die OSS-Lizenz selbst), bereits im Rahmen der bestehenden kantonalen Aufgaben- und Finanzkompetenzen sowie der allgemeinen verwaltungs- und gebührenrechtlichen Grundsätze handhabbar.
+
+3.3
+
+Fazit – Rechtliche Grundlagen vorhanden
+
+Eine explizite gesetzliche Grundlage analog Art. 9 EMBAG zur Erreichung der Kernziele der Motion
+(Offenlegung von Quellcode unter Wahrung von Drittrechten und Sicherheitsinteressen) ist rechtlich nicht erforderlich. Der Kanton Basel-Stadt kann bereits heute auf Basis der bestehenden
+Rechtslage Quellcode von Software, die er entwickelt hat oder entwickeln liess, der Öffentlichkeit
+kostenfrei unter Open-Source-Lizenzen zugänglich machen. Er ist dabei auch heute verpflichtet,
+die Rechte Dritter (Urheberrechte) zu beachten. Er schränkt Veröffentlichungen ein oder unterlässt
+sie, wenn sicherheitsrelevante Gründe dies erfordern.
+
+4.
+
+Praktische Anwendung von Art. 9 EMBAG beim Bund
+
+Zur Unterstützung der Umsetzung wurden durch die Bundesverwaltung spezifische Hilfsmittel bereitgestellt, darunter ein Merkblatt und ein mehrstufiger Leitfaden mit begleitenden Checklisten.
+Diese Instrumente ermöglichen es Projektleitenden, bereits zu Beginn eines Softwareprojekts systematisch abzuklären:
+
+
+
+
+
+ob eine Offenlegungspflicht gemäss Art. 9 EMBAG besteht;
+unter welcher Open-Source-Lizenz die Veröffentlichung erfolgen soll;
+auf welchen Plattformen und in welcher Form die Publikation stattfindet soll;
+ob eine weiterführende OSS-Community aufgebaut werden soll.
+
+Zentral ist dabei die Unterscheidung zwischen Standardsoftware (ohne Anpassungen), die vom
+Anwendungsbereich des Artikels 9 EMBAG ausgenommen ist, und Individualsoftware, die neu entwickelt oder substanziell angepasst wird. Letztere unterliegt grundsätzlich der Offenlegungspflicht.
+Die Verantwortung für die Einhaltung und Umsetzung der gesetzlichen Vorgaben liegt bei der jeweils zuständigen Verwaltungseinheit. Der Bund verfolgt mit diesem Vorgehen das Ziel, Transparenz und Wiederverwendbarkeit öffentlich finanzierter Softwarelösungen zu fördern, Doppelinvestitionen zu vermeiden und die digitale Zusammenarbeit zwischen Behörden zu stärken.
+Die Erfahrungen des Bundes zeigen, dass mit klar definierten Prozessen und abgestimmten Umsetzungshilfen eine praktikable und rechtssichere Anwendung der Offenlegungspflicht möglich ist.
+
+Seite 4/6
+
+Regierungsrat des Kantons Basel-Stadt
+
+5.
+
+Praxis im Kanton Basel-Stadt
+
+Im Kanton Basel-Stadt ist die Zuständigkeit für die Beschaffung und den Betrieb von Fachanwendungen (Standardsoftware) arbeitsteilig organisiert. Die IT BS verantwortet die zentralen Basisdienste, während die Fachanwendungen in der Regel dezentral durch die Departemente bzw. deren Fachbereiche beschafft und betrieben werden. Die Verantwortung für die eingesetzten
+Fachanwendungen liegt somit bei den jeweiligen Organisationseinheiten. An dieser Zuständigkeitsverteilung ändert sich auch im Zuge der aktuell beschlossenen Weiterentwicklung der kantonalen
+IT-Governance nichts Grundlegendes. Dabei gilt es festzuhalten, dass es sich bei der überwiegenden Mehrheit der in der kantonalen Verwaltung eingesetzten Fachanwendungen um Standardprodukte, die nicht unter eine allfällige Offenlegungspflicht analog Art. 9 EMBAG fällt.
+Demgegenüber bestehen im Zuständigkeitsbereich von IT BS Anwendungsfelder, in denen eine
+Offenlegung von Eigenentwicklungen bereits heute praktiziert wird oder künftig sinnvoll wäre. Ein
+Beispiel hierfür ist die Neuentwicklung des kantonalen Webauftritts bs.ch auf Basis des OpenSource-CMS Drupal. Die für die Redaktionsverwaltung entwickelte Erweiterung wurde in Zusammenarbeit mit einem externen Partner wieder in die internationale Open-Source-Community zurückgeführt und hat dort beachtliche Resonanz gefunden. Dieses Beispiel zeigt, dass Offenlegung
+und Community-Beiträge nicht nur technisch und rechtlich möglich, sondern auch reputationsfördernd und innovationsunterstützend sein können. Für den Kanton Basel-Stadt ergibt sich somit ein
+differenziertes Bild: Während bei den dezentral verantworteten Fachanwendungen die Anwendung
+einer Offenlegungspflicht nur punktuell möglich ist, bieten zentral entwickelte oder betreute Lösungen – insbesondere bei IT BS – ein realistisches Potenzial für die systematische Umsetzung einer
+entsprechenden Regelung.
+
+6.
+
+Aktualisierung kantonaler strategischer Grundlagen
+
+Die geltende Open Source-Strategie des Kantons Basel-Stadt wurde im Jahr 2010 im Rahmen der
+Informatikstrategie verabschiedet. Sie verfolgt einen differenzierten und pragmatischen Ansatz zur
+Förderung des Einsatzes von Open-Source-Technologien in der Verwaltung. Die Strategie enthält
+unter anderem Massnahmen zur Beschaffung, Softwareentwicklung und Infrastruktur. In der Umsetzung blieb sie bisher auf Pilotprojekte und Einzelinitiativen beschränkt. Die bestehende Strategie
+adressiert zentrale Anliegen der Motion, jedoch zeigen sich aus heutiger Sicht einige Schwächen
+betreffend die konsequente Umsetzung und die Entwicklungen in diesem Feld seit der Verabschiedung, insbesondere betreffend einheitliche Vorgaben, struktureller Wirkung, der Schwerpunktsetzung und der Integration aktueller Digitalprinzipien.
+Vor dem Hintergrund technischer Entwicklungen sowie wachsender Erwartungen an Transparenz
+und Kooperation sind die strategischen Vorgaben zu überprüfen und sollen, wo angezeigt, aktualisiert werden.
+
+6.1
+
+Bedeutung der Bundespraxis für den Kanton Basel-Stadt
+
+Insbesondere das strukturierte Vorgehen des Bundes im Umgang mit Eigenentwicklungen, sowie
+die bereitgestellten Hilfsmittel (Merkblätter, Leitfäden, Checklisten) erlauben eine praxisnahe und
+standardisierte Anwendung der Offenlegungspflicht. Der Kanton Basel-Stadt kann von den Erfahrungen der Bundesverwaltung profitieren und auf dem bestehenden Know-how des Bundes aufbauen und gleichzeitig kantonsspezifische Anforderungen berücksichtigen.
+
+7.
+
+Umsetzung der Anliegen
+
+Der Regierungsrat hat die Verwaltung vor diesem Hintergrund beauftragt, folgende Themen vertieft
+zu prüfen:
+
+Seite 5/6
+
+Regierungsrat des Kantons Basel-Stadt
+
+
+
+
+
+
+
+
+
+8.
+
+Überprüfung der kantonalen Open Source-Strategie
+Seit der Verabschiedung der kantonalen Open Source-Strategie hat sich der adressierte Anwendungsbereich massiv entwickelt. Nicht nur die technischen Neuerungen sind dabei relevant, sondern auch vertrags- bzw. beschaffungsrechtliche Aspekte und nicht zuletzt die berechtigte Forderung der Öffentlichkeit nach mehr Transparenz;
+Grundsatz der Offenlegung bei Individualsoftware
+Im Zuge der Strategieüberprüfung soll eine Umkehr des bisherigen Ansatzes geprüft werden,
+im Sinne, dass der Quellcode bei der Entwicklung oder substanziellen Weiterentwicklung von
+Individualsoftware durch kantonale Stellen oder in deren Auftrag offengelegt werden muss, sofern keine sicherheitsrelevanten Gründe oder Rechte Dritter entgegenstehen;
+Praxisorientierter Ansatz beibehalten
+Es soll weiterhin ein praxisorientierter Ansatz verfolgt werden, der auf internen Vorgaben, organisatorischer Unterstützung und konkreten Umsetzungserfahrungen – auch des Bundes basiert. Dabei ist die Schaffung einer gesetzlichen Grundlage aktuell grundsätzlich nicht angezeigt;
+Prüfung eines Pilotprojekts für ein Open Source Competence Center
+Es soll geprüft werden, ob bei IT BS ein Pilotprojekt für den Aufbau eines Open Source Competence Center durchgeführt werden sollte. Dieses könnte als zentrale Unterstützungs- und
+Koordinationsstelle für Fragen im Zusammenhang mit Open Source fungieren, Projekte begleiten, Umsetzungshilfen erarbeiten und geeignete Open-Source-Alternativen bei Beschaffungen
+identifizieren.
+
+Fazit
+
+Der Regierungsrat anerkennt das von der Motion angesprochene Anliegen, die Praxis im Umgang
+mit durch die öffentliche Hand entwickelter Software, insbesondere betreffend die systematischere
+Offenlegung, zu überprüfen und, wo angezeigt, zu aktualisieren.
+Der Regierungsrat hat die Verwaltung daher mit der Überprüfung der Praxis und der strategischen
+Vorgaben beauftragt. Im Fokus stehen dabei die wesentlichen Aspekte der Motion - Erhöhung von
+Transparenz und Nachvollziehbarkeit behördlicher Softwareentwicklungen, Nutzung von Synergiepotenzial sowie Kostensenkungen in der digitalen Verwaltung durch Offenlegung von Quellcodes
+von durch oder im Auftrag der kantonalen Verwaltung entwickelter Software. Dabei will er die organisatorischen Gegebenheiten im Kanton Basel-Stadt berücksichtigen und von den Erfahrungen
+auf Bundesebene profitieren.
+Da die rechtlichen Grundlagen bereits vorhanden sind, ist die Schaffung einer gesetzlichen Grundlage aktuell nicht notwendig.
+
+9.
+
+Antrag
+
+Auf Grund dieser Stellungnahme beantragen wir, die Motion Salome Bessenich und Konsorten
+betreffend „Open-Source für Basel-Stadt analog Art. 9 EMBAG“ dem Regierungsrat als Anzug zu
+überweisen.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Dr. Conradin Cramer
+Regierungspräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Seite 6/6
+
+

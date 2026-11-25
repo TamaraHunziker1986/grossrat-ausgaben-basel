@@ -1,0 +1,2631 @@
+Grosser Rat des Kantons Basel-Stadt
+
+Wirtschafts- und Abgabekommission (WAK)
+
+An den Grossen Rat
+
+25.0674.02
+25.0675.02
+24.5145.04
+22.5584.05
+
+Basel, 26. März 2026
+Kommissionsbeschluss vom 26. März 2026
+
+Bericht der Wirtschafts- und Abgabekommission (WAK)
+und
+
+Bericht der Kommissionsminderheit
+zum
+
+Ratschlag betreffend Lohnmassnahmen zur Steigerung der Arbeitgeberattraktivität sowie Ablösung der befristeten Arbeitsmarktzulage für Mitarbeitende der Kantonspolizei.
+und
+
+Teilrevision des Lohngesetzes vom 18. Januar 1995 (LG, SG
+164.100) betreffend Anpassung der Lohnkurve und Aufhebung der
+Degression beim Teuerungsausgleich
+sowie Bericht
+
+Zur Motion Pascal Messerli und Michael Hug betreffend «der Polizeiberuf muss in Basel-Stadt wieder attraktiv werden: Lohnerhöhung jetzt!»
+und
+
+Zum Anzug Michael Hug und Tobias Christ betreffend «Verbesserung der Arbeitsbedingungen für Kantonsangestellte im Schichtund Wochenenddienst»
+
+Publiziert am 27. März 2026 auf https://grosserrat.bs.ch/
+
+Seite 1/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+Inhaltsverzeichnis
+1. Ausgangslage und Antrag des Regierungsrats ...................................................... 4
+2. Vorgehen der Kommission ....................................................................................... 5
+3. Hearings ..................................................................................................................... 5
+3.1
+
+PBVB - Polizeibeamten- Verband Basel-Stadt ............................................................................. 5
+
+3.2
+
+AGSt - Arbeitgebergemeinschaft der baselstädtischen Staatspersonalverbände ........................ 6
+
+3.3
+
+VPOD ............................................................................................................................................ 6
+
+3.4
+
+Gewerbeverband Basel-Stadt ....................................................................................................... 6
+
+3.5
+
+Arbeitgeberverband Region Basel ................................................................................................ 7
+
+4. Elemente des regierungsrätlichen Lohnmassnahmenpakets ............................... 7
+4.1
+
+Anpassung der Lohnkurve bis und mit Erfahrungsstufe 11 .......................................................... 7
+4.1.1
+
+Fluktuation in der Kantonsverwaltung ................................................................................8
+
+4.1.2
+
+Lohnvergleich mit anderen Kantonen und mit der Privatwirtschaft ................................. 10
+
+4.1.3
+
+Einstufung in Erfahrungsstufe ......................................................................................... 11
+
+4.2
+
+Aufhebung der Teuerungsdegression ......................................................................................... 12
+
+4.3
+
+Erhöhung der Geldzulagen für Schichtarbeit .............................................................................. 13
+
+4.4 Zusätzliche Erfahrungsstufe für Mitarbeitende der Kantonspolizei und der Kriminalpolizei und
+Erhöhung der Ausbildungslöhne ........................................................................................................... 13
+4.5
+
+Ausgleich temporärer Einkommenseinbussen aufgrund des Wegfalls der AMZ ........................ 14
+
+5. Kommissionsberatung ............................................................................................ 14
+6. Bericht der Kommissionsmehrheit ........................................................................ 16
+6.1
+
+Zusammenfassung ...................................................................................................................... 16
+
+6.2
+
+Generelle Einordnung ................................................................................................................. 16
+
+6.3
+
+6.2.1
+
+Ratschlag ist zu wenig gezielt ......................................................................................... 16
+
+6.2.2
+
+Fokus auf gezielte Anpassungen insbesondere für die Kantonspolizei.......................... 16
+
+6.2.3
+
+Vorschlag der Kommissionsmehrheit im Einklang mit Feststellungen der GPK ............ 17
+
+6.2.4
+
+Keine Rückweisung an den Regierungsrat, um zeitnah Klarheit zu schaffen ................ 17
+
+6.2.5
+
+Grundlegender Mangel an HR-Statistiken ...................................................................... 17
+
+Änderungen am Antrag des Regierungsrates............................................................................. 18
+6.3.1
+
+Erhöhung der Einstiegslöhne auf den Stufen A bis 4 ..................................................... 18
+
+6.3.2
+
+Erhöhung der Geldzulagen um einen Viertel .................................................................. 21
+
+6.3.3
+
+Einführung einer Aussendienstzulage ............................................................................ 21
+
+6.3.4
+
+Ausbildungslöhne von Quereinsteigern .......................................................................... 22
+
+6.3.5
+
+Einführung einer Konkurrenzklausel im Personalgesetz ................................................ 24
+
+6.3.6
+
+Anpassung einmaliger Ausgleich temporäre Einkommenseinbussen ............................ 25
+
+6.3.7
+
+Einführung der Änderungen soweit möglich per 1. Juli 2026 ......................................... 26
+
+6.4
+
+Gegenüberstellung Regierungsrat vs. WAK-Mehrheit ................................................................ 26
+
+6.5
+
+Vergleich der Kosten ................................................................................................................... 27
+
+7. Stellungnahme zum Bericht der Kommissionsminderheit .................................. 27
+Seite 2/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+7.1
+
+Kein Kompromiss ........................................................................................................................ 28
+
+7.2
+
+Dringlichkeit ................................................................................................................................. 28
+
+8. Antrag der Kommissionsmehrheit ......................................................................... 28
+9. Bericht der Kommissionsminderheit ..................................................................... 33
+9.1
+
+Grundsätzliches .......................................................................................................................... 33
+
+9.2
+
+Elemente des Lohnmassnahmenpakets ..................................................................................... 33
+9.2.1
+
+Einstiegslöhne ................................................................................................................. 33
+
+9.2.2
+
+Schichtzulagen ................................................................................................................ 35
+
+9.2.3
+
+Polizei .............................................................................................................................. 35
+
+9.2.4
+
+Degressiver Teuerungsausgleich.................................................................................... 36
+
+9.3
+
+Gleichbehandlung Berufsgruppen .............................................................................................. 37
+
+9.4
+
+Dringlichkeit ................................................................................................................................. 37
+
+9.5
+
+Effekte des Lohnmassnahmenpaketes ....................................................................................... 38
+
+9.6
+
+Verknüpfung Kündigungsmodalitäten ......................................................................................... 39
+
+9.7
+
+Stellungnahme zu Vorschlägen der Kommissionsmehrheit ....................................................... 40
+
+10. Antrag der Kommissionsminderheit ...................................................................... 41
+
+Seite 3/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+1.
+
+Ausgangslage und Antrag des Regierungsrats
+
+Der Fachkräftemangel stellt den Kanton vor grosse Herausforderungen. Es bestehen Schwierigkeiten, freie Stellen wiederzubesetzen, vor allem in IT-Berufen, Pädagogik, Betreuung, Sozialmedizin und in technischen Berufen. Die Auswirkungen des Fachkräftemangels werden sich in den
+kommenden Jahren deutlich verstärken, da bis 2034 rund 25 % aller Mitarbeitenden des Kantons
+pensioniert werden. Hinzu kommt ein virulenter Unterbestand bei der Kantonspolizei. Diesbezüglich liegen zwei politische Vorstösse vor: 1. Motion Messerli/Hug «der Polizeiberuf muss in BaselStadt wieder attraktiv werden: Lohnerhöhung jetzt!» 2. Anzug Christ/Hug «Verbesserung der Arbeitsbedingungen für Kantonsangestellte im Schicht- und Wochenenddienst». Als Sofortmassnahme hat der Regierungsrat für die Mitarbeitenden der Kantonspolizei eine Arbeitsmarktzulage
+(AMZ) per 1. März 2023 eingeführt. Die jährlichen Kosten für die Arbeitsmarktzulage belaufen sich
+auf 3.7 Mio. Franken.
+Mit dem Ratschlag Nr. 25.0674.01 vom 27. Mai 2025 beantragt der Regierungsrat die Umsetzung
+eines Lohnmassnahmenpakets zur allgemeinen Steigerung der Arbeitgeberattraktivität sowie zur
+Ablösung der Arbeitsmarktzulage für die Mitarbeitenden der Kantonspolizei. Damit soll dem Fachkräftemangel nachhaltig und gesamtstrategisch begegnet werden.
+Grundlage für die einzelnen Massnahmen bildet dabei der Lohnvergleich mit 25 Kantonen und 16
+Städten von Perinnova. Weiter sind die Ergebnisse der Mitarbeiterbefragung 2024 eingeflossen.
+Ziele des Lohnmassnahmenpakets sind das Gewinnen und Halten von genügend gut qualifiziertem
+Personal für einen leistungsfähigen Service Public, die Ablösung der Arbeitsmarktzulage, die Berücksichtigung der politischen Vorstösse sowie eine umfassende und nachhaltige Lösung, die den
+Grundsatz der Gleichbehandlung erfüllt.
+Das Lohnmassnahmenpaket gemäss Ratschlag sieht folgende Massnahmen vor:
+
+
+
+
+
+
+Anpassung der Lohnkurve bis und mit Erfahrungsstufe 11
+Aufhebung der Degression Teuerungsausgleich (voller Teuerungsausgleich über alle Lohnklassen)
+Erhöhung der Geldzulagen für Schichtarbeit
+Zusätzliche Erfahrungsstufe für Mitarbeitende der Kantonspolizei und der Kriminalpolizei
+sowie Erhöhung der Ausbildungslöhne bei der Kantonspolizei
+Ausgleich von temporären Einkommenseinbussen aufgrund des Wegfalls der Arbeitsmarktzulage
+
+Abb. 1: Überblick und Kosten.
+
+Für weitere Details wird auf den Ratschlag verwiesen.
+
+Seite 4/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+2.
+
+Vorgehen der Kommission
+
+Der Ratschlag Nr. 25.0674.01 wurde am 25. Juni 2025 der Wirtschafts- und Abgabekommission
+überwiesen. Die Kommission hat mit der Beratung am 21. August 2025 begonnen und an 16 Sitzungen beraten. Die Kommission hat sich von RR Tanja Soland und RR Stephanie Eymann sowie
+weiteren Vertretenden der Departemente ausführlich informieren lassen. Die Kommission dankt
+den Departementen für die Zurverfügungstellung weiterer Unterlagen und Informationen.
+Die Kommission hat folgende Verbände zu einer Anhörung eingeladen:
+
+
+
+
+
+
+PBVB – Polizeibeamten-Verband Basel-Stadt
+AGSt – Arbeitsgemeinschaft der baselstädtischen Staatspersonalverbände
+VPOD
+Gewerbeverband Basel-Stadt
+Arbeitgeberverband Region Basel
+
+Da in der Kommission wiederholt die Frage aufgeworfen wurde, wie die Löhne der Kantonsangestellten zu den Löhnen in der Privatwirtschaft stehen, wurde als externer Experte ein Vertreter von
+Kienbaum Consultants eingeladen, der im Rahmen einer Partnerschaft mit Perinnova eine Pilotstudie betreffend die Analyse und Vergleich der Vergütungsdaten der Verwaltung BS zur Privatwirtschaft durchgeführt hat.
+
+3.
+
+Hearings
+3.1
+
+PBVB - Polizeibeamten- Verband Basel-Stadt
+
+Gemäss den Ausführungen am Hearing ist der Polizeibeamten-Verband Basel-Stadt früh über das
+Lohnmassnahmenpaket informiert worden. Der Verband begrüsst die vorgeschlagenen Massnahmen, da es sich aus Sicht des PBVB um ein ausgewogenes Paket handelt. Durch die Anpassung
+der Lohnkurve wird das Paket breiter abgestützt. Dies wird als sinnvoll erachtet, da auch in anderen
+Bereichen ausserhalb der Kantonspolizei Rekrutierungsschwierigkeiten festgestellt werden.
+Ein allfälliger Verzicht auf die Lohnmassnahmen für die Polizei würde gemäss Einschätzung des
+PBVB allerdings als sehr schlechtes Signal angesehen werden. Seit fünf Jahren wird bei der Polizei
+eine grosse Fluktuation verzeichnet. Die Umfrage bei den Verbandsmitgliedern – also bei rund
+90 % der Basler Polizistinnen und Polizisten – hat aufgezeigt, dass die Lohnempfehlungen aus
+dem Schefer-Bericht von Juni 2024 als die wichtigsten Massnahmen angesehen werden. Die Lohnsituation wird von den meisten Verbandsmitgliedern als sehr problematisch eingeschätzt.
+Der Kommission wird erläutert, dass die noch verbliebenen Polizistinnen und Polizisten ihre familiären Bedürfnisse aufgrund des grossen Unterbestands nicht mehr decken können. Die Polizistinnen und Polizisten müssen überdurchschnittlich viele Extradienste übernehmen. Normalerweise
+sollten alle Polizistinnen und Polizisten, die auf der Strasse arbeiten, die sogenannten Sicherheitspolizistinnen und -polizisten, ungefähr 12 Wochenenden im Jahr frei haben. Von dieser Regel
+musste aufgrund des Unterbestands stark abgewichen werden. Oft sind nur noch 6 freie Wochenenden pro Jahr möglich. Dies führt zu vielen negativen Konsequenzen. Das Ziel ist, den Unterbestand so weit zu reduzieren, dass die Anzahl Extradienste wieder sinkt. Die Situation soll wieder in
+eine Regelarbeitsweise zurückgeführt werden. Wenn dies nicht gelingen sollte, dann werden sich
+die demographischen Herausforderungen akzentuieren. In den nächsten zehn Jahren werden rund
+25 % der Mitarbeitenden bei der Polizei pensioniert, wodurch der Druck auf die verbleibenden Polizistinnen und Polizisten weiter ansteigen wird.
+
+Seite 5/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+3.2
+
+AGSt - Arbeitgebergemeinschaft der baselstädtischen Staatspersonalverbände
+
+Der Kommission wird erläutert, dass die AGSt 14'000 Mitarbeitende des Kantons und der staatsnahen Betriebe wie der BVB, IWB und der Spitäler vertritt. Die AGSt ist offizielle Sozialpartnerin
+des Kantons BS und war sehr stark in die Ausarbeitung des Lohnmassnahmenpakets involviert.
+Die Kommission wird über die Resultate der Mitarbeitendenbefragung informiert. An der Umfrage
+haben über 7'000 Mitarbeitende teilgenommen. Im Schnitt liegt die Zufriedenheit mit den Anstellungsbedingungen bei 72 Punkten. Mit Erstaunen wurde seitens AGSt zur Kenntnis genommen,
+dass die Bewertung der Entlöhnung unterdurchschnittlich ausfällt. Bei der Ausarbeitung des Lohnmassnahmenpakets sei aber dann aufgrund der wissenschaftlichen Analyse klar geworden, wie
+diese Bewertung zustande gekommen sei. Als Beispiel wird der Kommission aufgezeigt, dass die
+Einstiegslöhne bei jungen Lehrpersonen um rund 6'000 Franken tiefer liegen als im Kanton BL oder
+in Riehen und Bettingen. Neben der Polizei bestehe auch bei den Lehrpersonen ein ausgewiesener
+Personalmangel. Die Stellen können nicht immer mit ausreichend qualifizierten Fachkräften besetzt
+werden. Solche Notmassnahmen würde man lieber vermeiden. Das Ziel müsse sein, junge, motivierte und gut ausgebildete Mitarbeitende gewinnen zu können.
+Die AGSt empfiehlt sehr, das Lohnmassnahmenpaket zu unterstützen, damit der Kanton im Vergleich mit den Nachbarkantonen und den Landgemeinden konkurrenzfähig bleibt. Die Massnahmen kommen vor allem den Jungen und den Berufen der Blaulichtorganisationen und den Schichtberufen zugute. Aus Sicht der AGSt handelt es sich um einen guten Kompromiss, obwohl nicht alle
+Mitarbeitenden vom Lohnmassnahmenpaket gleichermassen profitieren werden.
+Aus Sicht der AGSt ist es wichtig, dass die Bedingungen für junge Leute verbessert werden. Man
+wisse, wie viele Personen in den kommenden Jahren beim Kanton pensioniert werden. Mit den
+jetzigen Löhnen sei es schwierig, junge Leute z.B. als Lehrpersonen in den Schulen zu halten.
+Der Kommission wird erläutert, dass das Paket als Kompromiss angeschaut wird. Die AGSt hätte
+sich noch weitere Massnahmen vorstellen können. Aber ausgehend von den wissenschaftlichen
+Daten und der vorliegenden politischen Vorstösse stehen alle hinter dem Vorschlag des Regierungsrats.
+
+3.3
+
+VPOD
+
+Der VPOD bewertete den Vorschlag des Regierungsrats als nachhaltiges Massnahmenpaket. Die
+Arbeitsmarktzulage stelle eine Notlösung dar und sei von Anfang an als temporäre Massnahme
+geplant gewesen. Ein Ziel des Lohnmassnahmenpakets sei es, dass die Polizei neue Mitarbeitende
+gewinnen und langfristige Teams aufbauen kann. Das Lohnmassnahmenpaket wird als umfassend
+erachtet, da auch die Betreuungsstellen, z.B. beim LIV, sowie die Feuerwehr, die Rettung und die
+Kitas profitieren. In vielen sozialen Institutionen werden tiefe Löhne bezahlt. Das Problem im sozialen Bereich sei weniger, dass das Personal in die Privatwirtschaft wechsle, sondern dass die
+Leute aus dem Beruf abwandern. Ein stimmiger Lohn sei zwar nicht der einzige, aber ein wichtiger
+Faktor.
+Im Vergleich mit den anderen Kantonen habe man gesehen, dass der Kanton BS bei den Einstiegslöhnen 14 % unter dem Benchmark liege. Gleichzeitig seien die Lebenshaltungskosten in Basel
+höher als bspw. in den Kantonen Aargau oder Solothurn. Im Kanton Basel-Stadt sollen Löhne bezahlt werden, von denen man hier im Kanton wohnen und leben könne.
+
+3.4
+
+Gewerbeverband Basel-Stadt
+
+Die Kommission wird informiert, dass der Gewerbeverband 2023 eine Umfrage bei seinen Mitgliedern zum Fachkräftemangel durchgeführt hat. An der Umfrage haben rund 200 Unternehmen teilgenommen. Der Fachkräftemangel sei bei 46 % der Unternehmen ein Thema. Es werde seitens
+Unternehmen davon ausgegangen, dass sich der Arbeitskräftemangel in Zukunft verschärfen
+werde.
+Seite 6/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+Der Gewerbeverband habe einen Lohnvergleich basierenden auf den Gesamtarbeitsverträgen vorgenommen. Dieser Vergleich habe gezeigt, dass die Einstiegslöhne beim Kanton heute nicht tiefer
+liegen als in der Privatwirtschaft. Aus diesem Grund könne die geplante Lohnerhöhung nach dem
+Giesskannenprinzip nicht nachvollzogen werden.
+Am Beispiel eines Gartenbauunternehmens wird der Kommission aufgezeigt, dass die Stadtgärtnerei punkto Arbeitgeberattraktivität der grösste Konkurrent sei. Oft wechseln gut ausgebildete und
+erfahrene Mitarbeiter im Alter zwischen 40 und 50 zur Stadtgärtnerei, weil die Arbeitsbedingungen
+attraktiver seien, vor allem in Bezug auf die tieferen Arbeitsstunden, mehr Ferien und höheren Sozialleistungen.
+
+3.5
+
+Arbeitgeberverband Region Basel
+
+Aus Sicht des Arbeitgeberverbands liegen die Rekrutierungsschwierigkeiten des Kantons nicht
+daran, dass der Kanton ein unattraktiver Arbeitgeber ist. Vielmehr steht der Kanton den gleichen
+Herausforderungen wie alle anderen Arbeitgeber gegenüber. Die fehlenden Fachkräfte entsprechen der heutigen Arbeitsmarktrealität. Der Kanton behaupte sich in diesem Markt allerdings mit
+ungleich längeren Spiessen gegenüber den Unternehmen der Privatwirtschaft, da das Geschäftsmodell des Kantons auf der Erhebung von Zwangsabgaben beruhe. Bei einer Anhebung des Lohnniveaus für die Kantonsangestellten müsse der Kanton bedenken, dass dieses Vorgehen direkte
+Auswirkungen auf die Privatwirtschaft habe.
+Der Arbeitgeberverband stelle sich nicht gegen die Polizeimassnahmen. In Bezug auf die Schwierigkeiten bei der Polizei habe der Kanton die Lage erkannt und gehe die Probleme gezielt an. In
+den anderen Bereichen des Lohnmassnahmenpakets sei dies nicht der Fall. Die Kritik aus Sicht
+des Arbeitgeberverbands richtet sich vor allem gegen die Erhöhung der Einstiegslöhne sowie gegen die Aufhebung des degressiven Teuerungsausgleichs. Es fehlen Angaben dazu, in welchen
+weiteren Bereichen tatsächlich Rekrutierungsschwierigkeiten bestehen. Der Regierungsrat sei im
+Ratschlag nicht auf die einzelnen Berufsgruppen eingegangen. Auch werde nichts dazu gesagt, ob
+sich die Rekrutierungsprobleme tatsächlich auf die Erbringung der staatlichen Dienstleistungen
+auswirke. Es müsste überprüft werden, welche Dienstleitungen und Stellen für das Funktionieren
+der Verwaltung zwingend notwendig seien. Unter den 11'000 Mitarbeitenden des Kantons seien
+gewiss nicht alle für die Erbringung der staatlichen Dienstleistungen notwendig.
+Darüber hinaus wird in der Anhebung des Lohnniveaus keine nachhaltige Massnahme gesehen.
+Wichtiger sei es, genügend Fachkräfte selbst auszubilden und Mitarbeitende intern weiterzuentwickeln. Hinsichtlich der vielen Pensionierungen sei es wichtig, intern den Know-how-Transfer zu
+gewährleisten.
+Von Seiten Arbeitgeberverband wird weiter kritisiert, dass der Vergleich des Regierungsrats mit
+anderen Anbietern des Service Publics der falsche Ansatz darstelle. Der Kanton BS stehe als Arbeitgeber weniger mit anderen Kantonen im Wettbewerb als mit anderen Arbeitgebern am selben
+Standort. Der Kanton müsse sich mit Unternehmen im Arbeitsmarkt der Region Basel vergleichen.
+Eine Analyse hierzu fehle.
+
+4.
+
+Elemente des regierungsrätlichen Lohnmassnahmenpakets
+
+Die Kommission hat sich ausführlich mit den einzelnen Elementen des Lohnmassnahmenpakets
+auseinandergesetzt und weitere Unterlagen eingefordert. Im Folgenden werden die einzelnen
+Punkte sowie die der Kommission vorliegenden Zusatzinformationen erläutert.
+
+4.1
+
+Anpassung der Lohnkurve bis und mit Erfahrungsstufe 11
+
+Der Lohnvergleich zwischen den Kantonen von Perinnova zeigt, dass das Lohnniveau bei den
+Verwaltungsangestellten BS in den Erfahrungsstufen A bis 11 deutlich unter dem Schnitt liegt. Die
+baselstädtische Lohnkurve beginnt sehr weit unten. Dieses strukturelle Lohndefizit stellt aus Sicht
+
+Seite 7/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+des Regierungsrats vor dem Hintergrund des Fachkräftemangels einen gewichtigen Wettbewerbsnachteil dar. Der Regierungsrat schlägt daher als Reaktion auf diese Erkenntnis vor, die Einstiegslöhne des Staatspersonals bis und mit Stufe 11 zu erhöhen. Besonders mit Blick auf die Personaldemographie ist der Kanton gefordert, attraktive Arbeitsbedingungen für Berufseinsteigende und
+junge Mitarbeitende zu bieten.
+Von dieser Massnahme profitieren alle Mitarbeitenden in den Erfahrungsstufen A bis 11, was rund
+47 % aller Mitarbeitenden entspricht. Durch die Anhebung der unteren Erfahrungsstufen kann die
+grosse Lohndifferenz innerhalb einer Lohnklasse (A bis Erfahrungsstufe 31) von heute 63.6 % auf
+44 % verringert werden. Damit gleicht sich der Kanton BS den Lohnsystemen anderer Kantone und
+Städte an.
+Gemäss Ratschlag war diese Umsetzung schrittweise per 1. Januar 2026 und 1. Januar 2027 vorgesehen. Aufgrund der Dauer der Kommissionsberatung ist diese schrittweise Einführung zu überdenken. Die vollständige Anhebung der Lohnkurve ist mit Kosten von 13.5 Mio. Franken jährlich
+verbunden. Hinzu kommen aufgrund der Initiative «Kinderbetreuung für alle» jährlich Zusatzkosten
+von 1.2 Mio. Franken für die Löhne des Betreuungspersonals in Kindertagesstätten mit Staatsbeiträgen.
+4.1.1
+
+Fluktuation in der Kantonsverwaltung
+
+Die Kommission hat hinsichtlich der Anpassung der Lohnkurve nachgefragt, wie sich die Fluktuation nach Alter, Dienstalter und Lohnklasse verteilt.
+
+Abb. 2: Fluktuation nach Alter.
+
+Wie dem Diagramm entnommen werden kann, fällt die Fluktuation bei den jüngeren Mitarbeitenden
+mit 33 % deutlich höher aus als in den höheren Alterskohorten. Der Anstieg der Fluktuation bei den
+60- bis 64-Jährigen liegt an den Pensionierungen, die in dieser Statistik ebenfalls zur Fluktuation
+gezählt werden. Nach Aussage des Kantons bewegen sich diese Zahlen etwa im Durchschnitt der
+Kantone. Zudem würden Stellenwechsel in ein anderes Departement ebenfalls als Vertragsauflösung und damit als Fluktuation erfasst. Nach Aussage des Kantons bewegen sich diese Zahlen
+etwa im Durchschnitt der Kantone. Zudem würden Stellenwechsel in ein anderes Departement
+ebenfalls als Vertragsauflösung und damit als Fluktuation erfasst.
+
+Seite 8/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+Abb. 3: Fluktuation nach Dienstalter.
+
+Ein ähnliches Bild wie bei den Alterskohorten zeigt sich bei der Fluktuation nach Dienstalter. Die
+Fluktuation beträgt bei den Mitarbeitenden im ersten bis zum fünften Dienstjahr rund 15 %. Darin
+eingeschlossen sind Praktika und Lehrabschlüsse ohne Weiterbeschäftigung. Ab dem elften
+Dienstjahr sinkt die Fluktuation auf rund 8 %, bevor sie dann nach 30 Dienstjahren aufgrund der
+Pensionierungen wieder zu steigen beginnt.
+
+Abb. 4: Fluktuation nach Lohnklassen.
+
+Wie obige Grafik weiter zeigt, ist die Fluktuation seit 2017 bei den Lohnklassen 1 bis 7 in allen
+Vergleichsjahren mit Abstand am höchsten.
+Gemäss Ausführungen von Seiten Departement decken sich diese Zahlen mit den Resultaten der
+Mitarbeitendenbefragung 2024. Die Auswertung der Frage nach der Zustimmung zur Aussage «Ich
+erhalte einen fairen Lohn» zeigt das gleiche Bild: Die jüngeren Mitarbeitenden stimmen dieser Aussage nur mit 47 Punkten zu, während sich die älteren Mitarbeitenden mit der Entlöhnung immer
+zufriedener zeigen.
+
+Seite 9/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+Abb. 5: Auswertung Mitarbeitendenbefragung 2024 zur Entlöhnung.
+
+Von einem Teil der Kommission wurde kritisch beurteilt, dass die Zahlen zur Fluktuation nicht zwingend bedeuten, dass eine Mitarbeiterin oder ein Mitarbeiter den Kanton verlassen hat, sondern
+dass möglicherweise eine andere Stelle in der Verwaltung angenommen wurde, welche mit der
+Ausstellung eines neuen Vertrags verbunden ist. Weiter wurde angemerkt, dass die erhöhte Fluktuation bei den Jungen vor allem auch auf den Abschluss einer Ausbildung zurückgeführt werden
+kann und möglicherweise weniger mit der Höhe des Lohns zusammenhängt.
+4.1.2
+
+Lohnvergleich mit anderen Kantonen und mit der Privatwirtschaft
+
+Wie im Ratschlag ausgeführt wurde, hat sich das Finanzdepartement bei der Analyse der Vergütungsdaten auf den Lohnvergleich von Perinnova abgestützt. Perinnova hat die Lohndaten von 25
+Kantonen und den 16 grössten Städten – ab 50'000 Einwohnenden – verglichen. Der Vergleich
+zeigt auf, dass die Löhne beim Arbeitgeber Basel-Stadt über alle Profile etwa 3 % über dem gesamtschweizerischen Durchschnitt liegen. Allerdings besteht bei den Einstiegslöhnen ein erheblicher Rückstand gegenüber anderen Arbeitgebenden des Service Public. Die Löhne in der Anlaufstufe A liegen bei 86 % des gesamtschweizerischen Durchschnitts und damit weit unter dem
+kantonalen Gesamtniveau von 103 %. Dieser Rückstand verringert sich mit ansteigender Erfahrungsstufe. Ab Erfahrungsstufe 12 besteht kein Rückstand mehr.
+Von Seiten des Finanzdepartements wurde für die Polizeilöhne eine vertiefte Analyse in Auftrag
+gegeben. Für diesen Vergleich wurden die Kantone BL, AG, SO, ZH und BE sowie die Städte
+Zürich, Genf und Bern berücksichtigt. Bei den Lohndaten des Polizeikorps BS wurden die Arbeitsmarkzulagen mitberücksichtigt. Die Arbeitsmarktzulage beträgt bis zu 25 Dienstjahre 4’800 Franken und ab 26 Dienstjahren 3'000 Franken pro Jahr.
+Die Analyse zeigt auf, dass die Löhne der Kantonspolizei BS einschliesslich der Arbeitsmarktzulage
+insgesamt etwa im Durchschnitt der vergleichbaren Korps liegen. Eine Streichung der Arbeitsmarkzulage hätte zur Folge, dass die Löhne deutlich unter den Durchschnitt fallen würden und damit mit
+den Vergleichskantonen und -städte nicht mehr konkurrenzfähig wären. Besonders virulent ist der
+Rückstand bei den Einstiegslöhnen.
+In der Kommissionsberatung wurde wiederholt über die Frage diskutiert, wie der Lohnvergleich der
+kantonalen Verwaltung BS mit der Privatwirtschaft aussieht. Die Kommission wurde zu Beginn der
+Beratung des Lohnmassnahmenpakets darüber informiert, dass noch kein solcher Lohnvergleich
+vorliegt, aber eine Kooperation mit Kienbaum Consultants angestrebt wird, die einen Lohnvergleich
+zwischen dem Arbeitgeber Basel-Stadt und der Privatwirtschaft für bestimmte Profile ermöglicht.
+Die Ergebnisse dieser Pilotstudie wurden der Kommission im September 2025 vorgestellt.
+
+Seite 10/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+Für den Vergleich wurden 33 Funktionen ausgewählt, die mit den Daten von Kienbaum vergleichbar sind. Berücksichtigt wurden Berufsbilder, die es auch in der Privatwirtschaft gibt. Nicht in den
+Vergleich eingeflossen sind die Polizei und die Lehrpersonen. Gewählt wurde eine Mischung aus
+verschiedenen Funktionen in einer grossen Breite, berücksichtigt wurden sowohl Sachbearbeiterfunktionen als auch Spezialistenfunktionen aus dem Finanz- und Rechnungswesen und der IT sowie wie handwerkliche Profile. Für den Vergleich wurden Unternehmen in allen Branchen berücksichtigt. Mehr als ein Drittel der Unternehmen beschäftigt weniger als 500 Mitarbeitende.
+Die Ergebnisse der Pilotstudie von Kienbaum bestätigen die Erkenntnis der Perinnova-Studie: Der
+Kanton BS ist bei jüngeren und weniger erfahrenen Mitarbeitenden wenig kompetitiv positioniert.
+Die Differenz zur Privatwirtschaft akzentuiert sich, wenn nicht nur das Grundgehalt, sondern der
+Gesamtlohn – also inkl. variablen Vergütungen – berücksichtigt wird, wobei aber nur das monetäre
+Vergütungspaket verglichen werde, nicht aber beispielsweise Pensionskassenleistungen. Gemäss
+Kienbaum liegt der Arbeitgeber Kanton Basel-Stadt bei allen Alterskategorien tiefer als di Privatwirtschaft. Die höchste Differenz zu den Vergleichsdaten der Privatwirtschaft beträgt bei den Jungen knapp 10 %. Im Schnitt liegen die Löhne der Kantonsverwaltung BS 5.2 % tiefer als in der
+Privatwirtschaft. Gemäss Kienbaum konnten die Resultate aus vertraglichen Gründen zwar der
+Kommission im Rahmen ihrer Beratung zur Verfügung gestellt werden, sie sind jedoch nicht öffentlich verfügbar.
+Mit der Vergleichsgrösse aller Kantone kommt die Analyse des Instituts für Schweizer Wirtschaftspolitik an der Universität Luzern (IWP)1 zu einem anderen Bild. Das IWP hat die Löhne der Verwaltung basierend auf den Daten der Schweizerischen Arbeitskräfteerhebung (SAKE) im Jahr 2023
+sowie zusätzlich im Jahr 2024 auf der Lohnstrukturerhebung (LSE) des Bundesamts für Statistik
+untersucht. Die Studie kommt zum Schluss, dass die Löhne bei der Bundesverwaltung zwischen
+11.7 % (im Vergleich zur SAKE) und 13.9 % (im Vergleich zur LSE) höher zu liegen kommen als
+die Löhne in der Privatwirtschaft. Die Differenz bei den Kantonsverwaltungen liegt bei 5.4 % (im
+Vergleich zur SAKE), resp. 2.3 % (im Vergleich zur LSE). Die Studie beinhaltet keinen Vergleich
+mit dem Kanton Basel-Stadt. Im Rahmen einer Interpellation hat der Regierungsrat die Ergebnisse
+und die Aussagekraft der Studie 2023 für den Standort Basel-Stadt kritisch gewürdigt. Er hat dabei
+festgehalten: «Aus der Studie kann nicht abgeleitet werden, dass Mitarbeitende beim Kanton Basel-Stadt tatsächlich mehr verdienen als ihre «statistischen Zwillinge» in der Privatwirtschaft. Es ist
+generell umstritten, ob die in der erwähnten Studie angewandte Methodik und Wahl der Datengrundlage für aussagekräftige Lohnvergleiche geeignet sind. (vgl. Interpellationsbeantwortung Nr.
+23.5063.02).
+4.1.3
+
+Einstufung in Erfahrungsstufe
+
+In der Kommission wurde die Frage aufgeworfen, wie die Ermittlung der Erfahrungsstufe beim Eintritt geregelt ist. Der Kommission wird erläutert, dass die Einstufung in der «Richtlinie zur Einreihungsverordnung» detailliert geregelt ist. Es ist festgehalten, wie mit Berufserfahrung in Teilzeit
+umzugehen ist und die Familienarbeit in die Ermittlung einfliesst. Bei der Einstufung für Stellen mit
+Ausbildungsvoraussetzung wird nach folgendem Schema vorgegangen:
+
+1
+
+Portmann, Marco / Blümel, Frederik / Schaltegger, Christoph A.: Lohnprämie in den öffentlichen Verwaltungen: Neue Analyse 2024.
+
+Seite 11/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+Erfahrungsarten
+A. gleiche berufliche Tätigkeit
+B. niveauentsprechende verwandte berufliche Tätigkeit
+C. niveauentsprechende aber nicht verwandte berufliche
+Tätigkeit
+D. verwandte aber nicht niveauentsprechende berufliche
+Tätigkeit
+E. berufliche Tätigkeit weder niveauentsprechend noch
+verwandt
+Berufsförderliche Tätigkeiten
+F. Familienarbeit
+G. Sonstige berufsförderliche Tätigkeiten
+
+Anrechnung (%)
+100 66 33 20
+X
+X
+X
+X
+X
+X
+
+X
+
+X
+X
+
+Abb. 6. Schema zur Ermittlung der korrekten Einstufung.
+
+Als problematisch erweist sich bei dieser Vorgehensweise, dass die bereits vor der Polizeiausbildung gesammelte Berufserfahrung von Polizistinnen und Polizisten sowie von Sicherheitsassistentinnen und -assistenten nicht zu 100 % berücksichtigt werden, weil sie nicht in der gleichen beruflichen Tätigkeit gemacht wurde. Die Löhne entsprechen damit in vielen Fällen nicht den
+Erwartungen bzw. den Bedürfnissen, da die Mitarbeitenden in der Regel etwas älter sind als typische Berufseinsteigerinnen nach der Lehre oder der Hochschule. Diesem Problem soll im Rahmen
+des Lohnmassnahmenpakets mit der Anhebung der Lohnkurve sowie mit der zusätzlichen Erfahrungsstufe für bisherige und künftige Mitarbeitende der Kapo und Kripo auf Polizeistellen bis Lohnklasse 16 entgegengewirkt werden (Vgl. Kapitel 4.4).
+
+4.2
+
+Aufhebung der Teuerungsdegression
+
+Eine weitere Massnahme im Lohnmassnahmenpaket gemäss Ratschlag ist die Aufhebung der Degression beim Teuerungsausgleich. Der Teuerungsausgleich wird heute nur bis zur Lohnklasse 8
+voll ausgeglichen. Ab Lohnklasse 9 sinkt der Ausgleich der Teuerung degressiv von 100 % auf
+65 % in der Lohnklasse 28.
+Der Regierungsrat vertritt die Ansicht, dass ein degressiver Teuerungsausgleich heute aufgrund
+der Gleichbehandlung gar nicht mehr zulässig wäre. Künftig sollen alle Lohnklassen den vollen
+Teuerungsausgleich erhalten.
+Daher beantragt der Regierungsrat folgende Änderung von § 22 Lohngesetz:
+
+Seite 12/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+Lohngesetz
+
+Antrag RR
+
+§22 Anpassung an die Teuerung
+
+§22 Anpassung an die Teuerung
+
+1
+
+Die im Anhang 1 zum Lohngesetz bestimmten 1 Die im Anhang 1 zum Lohngesetz bestimmten
+Ansätze werden jeweils auf den 1. Januar ent- Ansätze werden jeweils auf den 1. Januar entsprechend dem Basler Index der Konsumenten- sprechend dem Basler Index der Konsumentenpreise vom November des Vorjahres neu fest- preise vom November des Vorjahres neu festgesetzt.
+gesetzt.
+2
+
+Die Anpassung der Ansätze gemäss Abs. 1 er- 2 Die Anpassung der Ansätze gemäss Abs. 1 erfolgt degressiv ausgehend von 100 % in Lohn- folgt degressiv ausgehend von 100 % in Lohnklasse 1 bis 8, bis auf 65 % in Lohnklasse 28. klasse 1 bis 8, bis auf 65 % in Lohnklasse 28.
+Vom degressiven Teuerungsausgleich sind 12'200 Angestellte (von insgesamt rund 13'500 Angestellten) betroffen. Die effektiven Mehrkosten hängen wesentlich von der massgebenden Teuerung
+ab. Bei einem Teuerungsausgleich von 0.75 % würden sich die zusätzlichen Lohnkosten auf rund
+500'000 Franken pro Jahr belaufen.
+In der Kommission wurde kontrovers diskutiert, ob ein degressiver Teuerungsausgleich dem
+Gleichbehandlungsgebot wirklich zuwiderlaufe oder ob er nicht vielmehr zu einem grösseren sozialen Gleichgewicht beitrage. Es sei durchaus sinnvoll, wenn tiefere Lohnklassen stärker vom
+Teuerungsausgleich profitieren. Zudem wurde die Frage diskutiert, ob die Frage des degressiven
+Teuerungsausgleichs nicht eher zusammen mit dem Ratschlag Kündigungsmodalitäten behandelt
+werden solle, da es da zwischen den Betroffenen eine gewisse Schnittmenge gibt. Da sich die
+beiden Kommissionsteile nicht auf eine Verknüpfung geeinigt haben, wird die Streichung des degressiven Teuerungsausgleichs nicht separat behandelt.
+
+4.3
+
+Erhöhung der Geldzulagen für Schichtarbeit
+
+Mit dem Lohnmassnahmenpaket schlägt der Regierungsrat vor, die Schichtzulage um einen Drittel
+zu erhöhen. So soll bspw. die Nachtarbeitszulage von heute 7.35 Franken auf künftig 9.80 Franken
+erhöht werden (vgl. Ratschlag Seite 14). Im Durchschnitt liegen die monatlichen Zulagen pro Person bei rund 600 Franken. Bei einer Erhöhung um einen Drittel würde ein Plus von 200 Franken
+resultieren. Über alle Funktionen wäre für den Kanton mit Mehrkosten von 3.1 Mio. Franken pro
+Jahr zu rechnen. Mit der vorgeschlagenen substanziellen Erhöhung der Schichtzulagen soll die
+Arbeitgeberattraktivität für diese Berufsbilder gesteigert werden und im umkämpften Arbeitnehmendenmarkt die Besetzung freier Stellen erleichtern. Ob hierfür eine Erhöhung in der Höhe von einem
+Drittel erforderlich ist, wurde in der Kommission kontrovers diskutiert.
+
+4.4
+
+Zusätzliche Erfahrungsstufe für Mitarbeitende der Kantonspolizei und
+der Kriminalpolizei und Erhöhung der Ausbildungslöhne
+
+Im Rahmen des Lohnmassnahmenpakets gemäss Ratschlag ist vorgesehen, dass bei der Kantonspolizei und der Kriminalpolizei künftig allen bisherigen und künftigen Mitarbeitenden bis Lohnklasse 16 eine zusätzliche Erfahrungsstufe gewährt wird. Die zusätzliche Erfahrungsstufe beim
+bestehenden Personal bei der Kantonspolizei braucht es einerseits, um auf die Höhe der AMZ zu
+kommen, da die Anpassung der Lohnkurve und die Erhöhung der Schichtzulagen dafür nicht ausreichen. Andererseits braucht es diesen ad personam-Zuschlag um den Anreiz eine Polizeiausbildung beim Basler Korps zu absolvieren oder in das Basler Korps zu wechseln. Ausgebildete Polizistinnen und Polizisten, die von einem anderen Korps zum Kanton BS kommen, sollen das gleiche
+Lohngefüge vorfinden, wie die Leute, die schon hier sind.
+Dass auch die Mitarbeitenden der Kriminalpolizei ebenfalls von der zusätzlichen Erfahrungsstufe
+profitieren sollen, hängt damit zusammen, dass die Mitarbeitenden der Kripo oft aus dem Bestand
+
+Seite 13/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+der Kapo rekrutiert werden. Mittelfristig ist zudem vorgesehen, dass die Kripo von der Staatsanwaltschaft zur Kapo übergeht.
+Aufgrund des bestehenden Unterbestands stellen konkurrenzfähige Ausbildungslöhne ein weiteres
+zentrales Element des Lohnmassnahmenpakets dar. Aus der Praxis ist bekannt, dass die Polizistinnen und Polizisten ihrem Korps auch nach der Ausbildung langfristig treu bleiben. Das Ziel ist,
+mit attraktiven Anstellungsbedingungen möglichst viele Aspirantinnen und Aspiranten zu gewinnen.
+Daher sollen auch Personen in Ausbildung neu in Lohnklasse 11 (statt Lohnklasse 10) entlöhnt
+werden.
+Aufgrund der zusätzlichen Erfahrungsstufe ist mit Mehrkosten von 1.6 Mio. Franken zu rechnen.
+Die Erhöhung der Ausbildungslöhne führt zu Mehrkosten von rund 0.7 Mio. Franken.
+
+4.5
+
+Ausgleich temporärer Einkommenseinbussen aufgrund des Wegfalls
+der AMZ
+
+In denjenigen Fällen, in denen die Erhöhung der Lohnkurve sowie die zusätzliche Erfahrungsstufe
+die entfallende AMZ nicht vollständig kompensiert, soll mittels eines Lohnzuschlags der Besitzstand
+gewahrt werden, um allfällige Einkommenslücken zu verhindern. Die Höhe des Zuschlags reduziert
+sich jährlich durch den Lohnzuwachs durch den Stufenanstieg sowie den Teuerungsausgleich.
+Diese Massnahme führt zu Mehrkosten von 2.1 Mio. Franken im ersten Jahr, abnehmend in den
+Folgenjahren. Nach vier bis sechs Jahren reduziert sich der jährliche Betrag gegen Null.
+
+5.
+
+Kommissionsberatung
+
+Die Kommission hat sich intensiv mit dem Lohnmassnahmenpaket und den einzelnen Elementen
+auseinandergesetzt. Die Lohnmassnahmen für die Polizei wurden von den Kommissionsmitgliedern grundsätzlich unterstützt, namentlich eine Erhöhung der Schichtzulage, die zusätzliche Erfahrungsstufe für die Kantonspolizei und die Kriminalpolizei, die Erhöhung der Ausbildungslöhne sowie
+die Wahrung des Besitzstands aufgrund der wegfallenden Arbeitsmarktzulage. Dass die Schichtzulage auch anderen Berufsgruppen mit Schichtarbeit zugutekommt, wurde in der Kommission
+wohlwollend aufgenommen.
+Kontrovers wurden die Notwendigkeit einer Anpassung der Lohnkurve bis zur Erfahrungsstufe 11
+sowie die Aufhebung der Degression beim Teuerungsausgleich diskutiert. Während einerseits
+deutlich wurde, dass die Polizeimassnahmen nicht ausreichen, um die Lücke zur Arbeitsmarktzulage zu schliessen, stiess andererseits diese Ausweitung der Lohnmassnahmen auf alle Kantonsangestellten in den Erfahrungsstufen A bis 11 bei einem Teil der Kommission auf grosse Kritik. Der
+andere Teil der Kommission sah darin eine vorausschauende Massnahme, um ähnlichen Problemen wie bei der Polizei bei anderen Berufsgruppen vorzubeugen.
+Auf die Frage, wie viel Handlungsbedarf bei den Einstiegslöhnen besteht, konnte in der Kommission keine gemeinsame Antwort gefunden werden. Für einen Teil der Kommission zeigen die Analysen von Perinnova und Kienbaum sowie die Auswertung der Fluktuation deutlich auf, dass bei
+den Einstiegslöhnen ein grosser Handlungsbedarf besteht. Für den anderen Teil der Kommission
+schiesst der Regierungsrat mit dem Vorschlag, die Lohnkurve anzupassen, weit über das Ziel hinaus. Die Anpassung der Lohnkurve führt für diesen Teil der Kommission in erster Linie zu einem
+grossen Mitnahmeeffekt. Viele Berufsgruppen würden von dieser Lohnerhöhung profitieren, ohne
+dass in diesen Bereichen ein Unterbestand an Personal festzustellen ist. Die Problemlösung bei
+den Monopolberufen dürfe laut diesem Teil der Kommission nicht zu einer pauschalen Lohnerhöhung für alle Einstiegslöhne führen, die in Konkurrenz zur Privatwirtschaft stehen.
+Trotz intensiver Diskussionen konnte in der Beurteilung der Grundsatzfrage, ob es sich bei der
+Anpassung der Lohnkurve bis Erfahrungsstufe 11 um eine Pauschalmassnahme handelt, die zu
+einem breiten und teuren Mitnahmeeffekt führt, oder ob es sich um eine berechtigte und zielführende Massnahme handelt, um wettbewerbsfähig zu sein, keine Einigkeit erzielt werden.
+
+Seite 14/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+Vor dem Hintergrund dieser stark divergierenden Einschätzung der Grundproblematik hat die Kommission beschlossen, sich in eine Mehr- und eine Minderheit aufzuteilen. Die Kommissionsmehrheit
+fordert ein Lohnmassnahmenpaket, dass stärker problemfokussiert ist und nicht durch eine generelle Anhebung der Lohnkurve einen grossen Mitnahmeeffekt generiert. Die Kommissionsmehrheit
+hat während der Kommissionsberatung mehrere Änderungsvorschläge eingebracht, die jedoch zu
+keiner Einigung innerhalb der Kommission führen konnten. Dabei musste immer wieder auch festgestellt werden, dass die Praktikabilität der Vorschläge zumindest vereinzelt von der Regierung
+und der Verwaltung infrage gestellt wurden. Bereits am 20. November 2025 beantragte die Minderheit deshalb, dass das Lohnmassnahmenpaket dem Grossen Rat zur Abstimmung vorgelegt werden sollte. Ein Antrag zur Rückweisung an die Regierung wurde abgelehnt. Die Kommissionsmehrheit hingegen beantragt verschiedene Änderungen am Lohnmassnahmenpaket, welches so
+gezielter wirken soll.
+Die Kommissionsminderheit hingegen beantragt dem Grossen Rat Zustimmung zum Lohnmassnahmenpaket. Die Anhebung der Lohnkurve wird von der Kommissionsminderheit als notwendige
+Massnahme angesehen, um im Vergleich zwischen den Kantonen wettbewerbsfähige Einstiegslöhne anbieten, so die Arbeitgeberattraktivität des Kantons bei den jungen Arbeitnehmenden steigern und einem Personalmangel in weiteren Bereichen des Kantons vorbeugen zu können.
+Der Mehrheit gehören an: Daniel Albietz, Lorenz Amiet, Laetitia Block, Daniel Hettich, Niggi Rechsteiner, Luca Urgese und Annina von Falkenstein.
+Der Minderheit gehören an: Nicole Amacher, Beda Baumgartner, Patrizia Bernasconi, Ismail
+Mahmoud, Pascal Pfister und Jérôme Thiriet.
+
+Seite 15/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+6.
+
+Bericht der Kommissionsmehrheit
+6.1
+
+Zusammenfassung
+
+Die Kommissionmehrheit erachtet den Ratschlag des Regierungsrates als zu wenig gezielt. Insbesondere der Umstand, dass laut Regierungsrat fast 50 % der Kantonsangestellten von einer Lohnerhöhung profitieren, geht weit über die in den parlamentarischen Vorstössen formulierten Ziele
+hinaus. Die Kommissionsmehrheit erachtet die Anhebung der Einstiegslöhne und der Geldzulagen
+für alle Mitarbeitenden des Kantons als überhöht und in diesem Umfang für nicht gerechtfertigt. Sie
+will das Lohnmassnahmenpaket deshalb stärker auf die Kantonspolizei fokussieren, wo aufgrund
+des deutlichen Personalunterbestandes dringende Massnahmen angezeigt sind.
+Sie stimmt deshalb den folgenden Massnahmen zu Gunsten der Kantonspolizei zu:
+-
+
+Zusätzliche Erfahrungsstufe für Mitarbeitende der Kantonspolizei und der Kriminalpolizei
+Erhöhung der Ausbildungslöhne bei der Kantonspolizei
+Ausgleich von Einkommenseinbussen aufgrund des Wegfalls der AMZ
+
+Sie hat zusätzlich zu Gunsten der Kantonspolizei die folgenden Massnahmen ergänzt:
+-
+
+Einführung einer Aussendienstzulage
+stärkere Berücksichtigung der Berufserfahrung bei Ausbildungslöhnen von Quereinsteigern
+
+Im Gegenzug hat sie die Erhöhung der Geldzulagen für Schichtarbeit für alle Staatsangestellten
+von einem Drittel auf einen Viertel gekürzt. Diese liegen damit immer noch klar über dem Schweizer
+Durchschnitt, was die Konkurrenzfähigkeit gegenüber anderen Kantonen insbesondere fürs Korps
+der Kantonspolizei steigert.
+Eine generelle Erhöhung der Einstiegslöhne für alle Staatsangestellten erachtet die Kommissionsmehrheit mit Blick auf schweizweite Vergleiche nur für die Stufen A bis 4 als gerechtfertigt. Der
+Aufhebung der Degression beim Teuerungsausgleich stimmt die Kommissionmehrheit zu.
+Um der Kritik Rechnung zu tragen, dass der Kanton mit seinen Arbeitsbedingungen die Privatwirtschaft, insbesondere KMU, auf dem Arbeitsmarkt bedrängt, wird gesetzlich verankert, dass es
+keine systemische Besserstellung geben darf.
+Die Änderungen sollen soweit möglich per 1. Juli 2026 in Kraft treten. Der Regierungsrat bestimmt
+für jede Massnahme den Zeitpunkt des Inkrafttretens.
+
+6.2
+6.2.1
+
+Generelle Einordnung
+Ratschlag ist zu wenig gezielt
+
+Die Kommissionsmehrheit anerkennt, dass der Regierungsrat sich darum bemüht hat, ein Lohnmassnahmenpaket auszuarbeiten, welches verschiedene Forderungen des Grossen Rates und der
+Vertretungen des Staatspersonals zusammenbringt. Dabei ist er jedoch aus Sicht der Mehrheit zu
+wenig gezielt vorgegangen. Die Kommissionsmehrheit stellt fest, dass rund drei Viertel der vorgesehenen finanziellen Mittel für alle Staatsangestellten eingesetzt werden sollen, statt gezielt für
+spezifische Verbesserungen insbesondere bei der Kantonspolizei. Das vorgeschlagene Lohnmassnahmenpaket würde eine Lohnerhöhung für 47 % der Staatsangestellten bedeuten. Dies geht
+weit über die Kantonspolizei hinaus, wofür es nach Ansicht der Mehrheit keinen Anlass gibt.
+Deshalb sind aus ihrer Sicht Anpassungen am Paket erforderlich, um die Mittel gezielter einzusetzen, insbesondere dort, wo es der Unterbestand erfordert.
+6.2.2
+
+Fokus auf gezielte Anpassungen insbesondere für die Kantonspolizei
+
+Die Kommissionsmehrheit hat sich in der Folge darauf fokussiert, das Lohnniveau gemäss bis Ende
+2026 befristeter Arbeitsmarktzulage für die Kantonspolizei permanent zu erhöhen, die Einstiegslöhne dort anzuheben, wo sie heute im nationalen Vergleich unterdurchschnittlich sind und die
+Seite 16/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+Schichtzulagen angemessen zu erhöhen. Mit einer neuen Aussendienstzulage sollen zudem
+Aussendienstmitarbeitende der Kantonspolizei gezielt zusätzlich entschädigt werden, einerseits als
+Entschädigung für die erhöhte kurzfristige und unplanbare Beanspruchung der Polizistinnen und
+Polizisten an Wochenenden und Feiertagen, andererseits um dem Personalengpass in diesem Bereich Rechnung zu tragen.
+6.2.3
+
+Vorschlag der Kommissionsmehrheit im Einklang mit Feststellungen der GPK
+
+Die Mehrheit sieht sich durch den in der Geschäftsprüfungskommission einstimmig verabschiedeten und im Grossen Rat mit nur einer Gegenstimme angenommenen Bericht zur Kantonspolizei
+Basel-Stadt (26.5029.01) bestätigt. Für das Lohnmassnahmenpaket von Relevanz sind dabei namentlich die Empfehlungen 25-27:
+Feststellung 25
+Die GPK stellt fest, dass im Vergleich zu anderen Polizeikorps die Löhne bei der Kantonspolizei
+Basel-Stadt unter Berücksichtigung der 2023 gesprochenen Arbeitsmarktzulage insgesamt konkurrenzfähig sind. Im Bereich der Einstiegslöhne lagen sie jedoch auch nach der Einführung einer
+Arbeitsmarktzulage unter dem Durchschnitt vergleichbarer Kantone und Städte.
+Feststellung 26
+Die GPK stellt fest, dass die Frage der Zulagen für Zusatzdienste, Schicht- und Wochenendarbeit
+bisher eher wenig Beachtung fand, dies in verschiedener Hinsicht jedoch wichtig wäre.
+Feststellung 27
+Die GPK stellt fest, dass im Bereich der Kantonspolizei insbesondere bei den Einstiegslöhnen
+sowie der Entlöhnung der Zusatzdienste und Wochenendarbeit Verbesserungsbedarf besteht.
+Die Kommissionsmehrheit ist überzeugt, dass sie mit dem vorliegenden Paket gezielt dort ansetzt,
+wo Handlungsbedarf besteht und so sicherstellt, dass der Kanton auch in Zukunft für die Mitarbeitenden ein überaus attraktiver Arbeitgeber ist.
+6.2.4
+
+Keine Rückweisung an den Regierungsrat, um zeitnah Klarheit zu schaffen
+
+Im Raum stand in der Kommission eine Rückweisung des Geschäfts an den Regierungsrat. Dieses
+Vorgehen hätte der Regierungsrat gegenüber Anpassungen durch die Kommission bevorzugt. Die
+Kommissionsmehrheit hat sich nach eingehender Überlegung gegen eine solche Rückweisung
+ausgesprochen.
+Eine Rückweisung hätte zur Folge gehabt, dass der Regierungsrat nochmals grundlegend über die
+Bücher hätte gehen müssen. Dies müsste nach Vorlage eines neuen Ratschlags abermals eine
+sorgfältige Beratung durch die Kommission zur Folge haben. Ein Abschluss der parlamentarischen
+Beratung bis Ende 2026 wäre somit höchst fraglich, sodass nicht sichergestellt wäre, dass die bis
+dann befristete Arbeitsmarktzulage rechtzeitig abgelöst werden könnte.
+Die Kommissionsmehrheit ist sich der Bedeutung des Lohnmassnahmenpakets bewusst. Vor allem
+die Mitarbeitenden der Kantonspolizei wollen Klarheit in der Ausgestaltung der künftig geltenden
+Anstellungsbedingungen. Deshalb hat sich die Mehrheit dazu entschieden, auf einen Rückweisungsantrag zu verzichten und mit einem konkreten Vorschlag zeitnah einen Entscheid herbeizuführen.
+6.2.5
+
+Grundlegender Mangel an HR-Statistiken
+
+Schliesslich stellt die Kommissionsmehrheit fest, dass das Finanzdepartement und das ihm zugehörige HR BS wiederholt von der Kommission angefragte Zahlen rund um die Arbeitsverhältnisse
+der Staatsangestellten sowie die Rekrutierungslage der verschiedenen Berufsgattungen nicht be-
+
+Seite 17/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+antworten konnte. Für eine seriöse Behandlung eines derart wichtigen und weitfassenden Ratschlags wäre eine gute Datengrundlage jedoch unabdingbar. Die Kommissionsmehrheit stellt in
+Frage, wie zukünftige Fragestellungen rund um die Arbeitsverhältnisse beim Kanton bearbeitet
+werden sollen, wenn wesentliche Fakten und Kennzahlen nur lückenhaft vorhanden sind.
+Die Kommissionsmehrheit anerkennt die durch die dezentrale Organisation des Kantons erschwerte Ausgangslage, ist jedoch überzeugt, dass die Situation durch gezielte Massnahmen behoben werden kann. Solche Massnahmen erachtet die Kommissionsmehrheit als dringend, wenn
+weitere Geschäfte seriös und basierend auf konkreten Zahlen und Fakten beraten werden sollen.
+Sie ist damit im Einklang mit der GPK, die zum Schluss kam, dass in der gesamten kantonalen
+Verwaltung die Kündigungsgründe erfasst, dokumentiert und statistisch ausgewertet werden sollen
+(Bericht zur Kantonspolizei Basel-Stadt, Empfehlung A).
+
+6.3
+6.3.1
+
+Änderungen am Antrag des Regierungsrates
+Erhöhung der Einstiegslöhne auf den Stufen A bis 4
+
+Der Stufenverlauf wird bei den Stufen A bis 4 so angepasst, dass der Kanton Basel-Stadt im Vergleich mit anderen Kantons- und Stadtverwaltungen den Durchschnitt der Schweiz (100 %) erreicht. Die Stufen 5-11 liegen heute schon auf oder über dem Schweizer Durchschnitt und werden
+daher auf dem heutigen Niveau belassen.
+Die Kommissionsmehrheit anerkennt gestützt auf den Ratschlag des Regierungsrats, dass in bestimmten Erfahrungsstufen tatsächlich ein Rückstand gegenüber anderen Arbeitgebern der öffentlichen Hand besteht. Insbesondere zeigen die im Ratschlag auf Seite 9 dargestellten Daten, dass
+die Anlaufstufen A bis C sowie die Erfahrungsstufen 1 bis 4 im gesamtschweizerischen Vergleich
+unterdurchschnittlich sind:
+
+Abbildung 1: Lohnvergleich mit Gesamtschweiz (Quelle: Ratschlag, Seite 9).
+
+Vor diesem Hintergrund wird eine gezielte Anhebung dieser Stufen auf das Schweizer Durchschnittsniveau als sachlich begründet und notwendig erachtet.
+
+Seite 18/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+Gleichzeitig weist die Kommissionsmehrheit darauf hin, dass der vorliegende Ratschlag ausschliesslich das Lohnniveau berücksichtigt, jedoch zentrale Zusatzleistungen des Arbeitgebers
+ausser Acht lässt. Gerade im interkantonalen und interstädtischen Vergleich zeigen entsprechende
+Recherchen, dass der Kanton Basel-Stadt bei den sogenannten Benefits überdurchschnittlich abschneidet. Diese sind bei der Festlegung der Löhne zwingend mitzuberücksichtigen und umfassen
+unter anderem:
+-
+
+Übernahme von 2/3 der Pensionskassenprämien durch den Arbeitgeber und 1/3 durch die
+Arbeitnehmenden
+Überdurchschnittliche Verzinsung der Pensionskassenleistungen
+Stetiger Lohnanstieg durch Stufenanstieg und automatischen Teuerungsausgleich ohne
+besondere Leistungsanforderungen
+Unbefristete Lohnfortzahlung zu 100 % bei Krankheit und Unfall
+Vergünstigungen bei verschiedenen Geschäften via zentrale Rabattliste, die 28 Seiten umfasst (per 01.01.2026)
+Leistung von Unterhaltszulagen zusätzlich zu den Kinderzulagen
+3 Wochen Schwangerschafts- und 16 Wochen Mutterschaftsurlaub
+20 Tage Vaterschaftsurlaub bzw. gleichwertige Regelungen für gleichgeschlechtliche Partnerschaften
+8 Wochen Urlaub bei Adoption
+Anspruch auf bis zu 20 % Pensenreduktion nach Geburt, sofern das Pensum mindestens
+60 % bleibt
+Bis zu 8 Monate unbezahlter Elternurlaub
+Jobticket oder Velopauschale
+Ansteigender Ferienanspruch mit zunehmendem Dienstalter und weitere Ferientage als
+Dienstaltersgeschenke
+Flexible Arbeitsmodelle wie Gleitzeit, Jahresarbeitszeit und Homeoffice (stellenabhängig)
+
+Parallel dazu arbeitet eine regierungsrätliche Arbeitsgruppe an der weiteren Stärkung der Arbeitgeberattraktivität. Erste Massnahmen wie das Jobticket und die Velopauschale wurden bereits beschlossen bzw. liegen dem Grossen Rat zum Beschluss vor. Weitere Themenbereiche, unter anderem zum Beispiel das Thema «Arbeitszeit», befinden sich in Bearbeitung, wobei auch auf
+Nachfrage der Kommissionsmehrheit weder deren konkrete Ausgestaltung noch ein Zeitplan für
+politische Beratung und Umsetzung bislang transparent gemacht wurden. Diese fehlende Klarheit
+erschwert eine umfassende Gesamtbeurteilung der künftigen Positionierung des Kantons BaselStadt als Arbeitgeber. Eine Gesamtbetrachtung ist für eine seriöse Beurteilung zwingend, da nonmonetäre Rahmenbedingungen im Arbeitsmarkt stark an Gewichtung gewinnen.
+Vor diesem Hintergrund kommt die Kommissionsmehrheit zum Schluss, dass eine gezielte Anpassung der aktuell unterdurchschnittlichen Erfahrungsstufen A bis 4 ausreichend ist:
+
+Seite 19/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+Lohn in Prozent im Vergleich zur Stufe 1
+
+130.0%
+125.0%
+120.0%
+115.0%
+110.0%
+105.0%
+100.0%
+95.0%
+90.0%
+85.0%
+A
+
+B
+
+C
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+Stufe
+
+Bestehende Regelung
+
+Ratschlag
+
+Kommissionsmehrheit
+
+Abbildung 2: Vergleich der Lohnkurven auf den Stufen A bis 12.
+
+Der Regierungsrat konnte weder im Ratschlag noch im Rahmen der Kommissionsberatungen darlegen, in welchen Bereichen darüber hinaus spezifischer Handlungsbedarf besteht, etwa im Hinblick auf die Gewinnung von Berufseinsteigenden oder mögliche Rekrutierungsengpässe infolge
+der demografischen Entwicklungen oder Tendenzen in gewissen Berufsfeldern abgesehen von der
+Kantonspolizei.
+Kritisch beurteilt wird zudem, dass der ursprüngliche parlamentarische Auftrag auf die Löhne der
+Kantonspolizei und die Schichtdienste fokussiert war. Die nun vorgeschlagene Lohnerhöhung für
+rund 47 % der Staatsangestellten geht aus Sicht der Kommissionsmehrheit deutlich über diesen
+Auftrag hinaus, ohne dass hierfür eine hinreichende mit Fakten belegte Begründung vorgelegt
+wurde. Dies hat unmittelbare finanzielle Auswirkungen für die Steuerpflichtigen. Doppelt bestraft
+werden Unternehmen: ihre Steuergelder werden dafür eingesetzt, dass die staatlichen Arbeitsverhältnisse verglichen mit den Möglichkeiten von KMU überproportional an Attraktivität gewinnen.
+In der Gesamtschau ist davon auszugehen, dass die bereits beschlossenen sowie die noch in Ausarbeitung befindlichen Massnahmen zur Arbeitgeberattraktivität die Position des Kantons BaselStadt im nationalen Vergleich weiter stärken werden. Vor diesem Hintergrund erscheint die gezielte
+Anhebung der derzeit unterdurchschnittlichen Lohnstufen als ausreichend, um künftig in einer
+ganzheitlichen Betrachtung, unter Einbezug von Löhnen und Zusatzleistungen, ein für Arbeitnehmende überdurchschnittlich attraktives Gesamtpaket sicherzustellen. Durch die Anpassungen der
+Stufen A bis 4 werden zudem auch weitreichend die Berufseinsteiger bei der Kantonspolizei berücksichtigt, die über wenig anzurechnende Berufserfahrung verfügen.
+Formell erfolgt die Anpassung des Stufenverlaufes durch eine Änderung von Anhang 2 des Lohngesetzes (siehe Antrag der Kommissionsmehrheit).
+Finanziell bedeutet der Vorschlag der Kommissionsmehrheit, dass sich die wiederkehrenden Ausgaben um 7,8 Millionen Franken, statt um 13,5 Millionen Franken erhöhen. Die Koppelung der
+Löhne des Betreuungspersonals in Kindertagesstätten mit Staatsbeiträgen mit den Löhnen des
+Staatspersonals (vgl. Ratschlag Ziff. 8.1.6) führt dazu, dass auch dieser Betrag entsprechend anzupassen ist. Die wiederkehrenden Ausgaben erhöhen sich dort um 700'000 Franken statt um 1,2
+Millionen Franken. Die Erfolgsrechnung des Kantons wird also insgesamt um 6,2 Millionen Franken
+pro Jahr entlastet. Das Finanzdepartement hat diese Zahlen bestätigt.
+
+Seite 20/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+6.3.2
+
+Erhöhung der Geldzulagen um einen Viertel
+
+Die Geldzulagen (Nacht-, Sonn-, Feiertags- und Pikettdienst) sollen erhöht werden. Allerdings nicht
+wie vom Regierungsrat vorgeschlagen um einen Drittel, sondern lediglich um einen Viertel.
+Die Kommissionsmehrheit erachtet es als zentral, die Attraktivität von Schichtberufen durch gezielte finanzielle Anreize zu stärken. Eine Erhöhung der entsprechenden Zulagen um einen Drittel
+beurteilt sie jedoch als übermässig. Stattdessen schlägt sie eine moderatere Erhöhung um einen
+Viertel vor. Dies entspricht einer Erhöhung um 150 Franken pro Person und Monat (gegenüber
+einer Erhöhung um 200 Franken gemäss Ratschlag). Dieses Niveau liegt weiterhin deutlich über
+dem Schweizer Durchschnitt und führt zu einer spürbaren Verbesserung der Entschädigung für
+Schichtarbeitende. Die gegenüber dem ursprünglichen Vorschlag reduzierte Erhöhung wirkt sich
+nur geringfügig auf die Attraktivität aus, trägt jedoch gleichzeitig zu einer ausgewogeneren und
+wirtschaftlich vertretbareren Gesamtbelastung des Massnahmenpakets bei.
+Für gewisse Berufsgattungen stellt die Höhe der Geldzulagen eine wichtige und einfach vergleichbare Rahmenbedingungskomponente zu anderen Arbeitgebenden dar. Die Kommissionsmehrheit
+empfiehlt ein gezieltes Monitoring der Entwicklung der Schichtzulagen bei anderen Akteuren der
+öffentlichen Hand, um bei einer Veränderung, die die Rekrutierungslage bedeutend verschlechtert,
+rechtzeitig reagieren zu können. Eine Erhöhung “auf Vorrat” sieht die Kommissionsmehrheit jedoch
+kritisch, insbesondere weil auch zu diesem Punkt vom Regierungsrat ausser zur Kantonspolizei
+keine zahlenbasierten Hinweise auf Rekrutierungsprobleme vorgelegt werden konnten.
+Formell ist die Höhe der Geldzulagen in der kantonalen Arbeitszeitverordnung festgelegt. Der Regierungsrat passt diese basierend auf dem Grossratsbeschluss an. Der Grosse Rat beschliesst
+lediglich die hierfür zur Verfügung stehenden finanziellen Mittel.
+Finanziell hat die Anpassung der Kommissionsmehrheit zur Folge, dass sich die wiederkehrenden
+Ausgaben um 2,325 Millionen Franken statt um 3,1 Millionen Franken erhöhen. Die Erfolgsrechnung des Kantons wird also um 775'000 Franken pro Jahr entlastet. Das Finanzdepartement hat
+diese Zahl bestätigt.
+6.3.3
+
+Einführung einer Aussendienstzulage
+
+Die Kommissionsmehrheit ist der Auffassung, dass Mitarbeitende der Kantonspolizei, die im
+Aussendienst tätig sind, besonders exponiert sind. Diese sind in ihrer täglichen Arbeit mit vielseitigen und unvorhersehbaren Risiken und Gefahren konfrontiert, sind für die Sicherheit und Ordnung
+bei Grossveranstaltungen wie Demonstrationen oder Sportanlässen verantwortlich und sehen sich
+über die vergangenen Jahre zunehmend öfters mit bewaffneten Personen konfrontiert. Daraus ergeben sich regelmässig erhöhte physische und psychische Belastungen. Von den Einsatzkräften
+wird ein überdurchschnittliches Mass an Professionalität, Einsatzbereitschaft und persönlichem Risiko verlangt und sie stehen als Vertreterinnen und Vertreter des Gewaltmonopols unter besonderer öffentlicher Beobachtung und Kritik. Aufgebote für Einsätze erfolgen gerade während des aktuell bestehenden Unterbestands häufiger an Wochenenden oder an ursprünglich dienstfreien
+Tagen. Deshalb soll der Aussendienst gezielt mit einer zusätzlichen Zulage entschädigt und so für
+aktuelle wie zukünftige Polizistinnen und Polizisten attraktiver gemacht werden.
+Eine spezifische finanzielle Abgeltung dieser besonderen Anforderungen wird von der Kommissionsmehrheit als sachgerecht erachtet, um die hohe gesellschaftliche Bedeutung des Polizeiberufs
+angemessen zu würdigen und dessen Attraktivität nachhaltig zu stärken. Dies in der Erwartung,
+dass diese Massnahme ebenfalls mithilft, die akuten Bestandsprobleme bei der Kantonspolizei mittelfristig zu beheben.
+Formell erfordert die Einführung einer solchen Aussendienstzulage eine neu zu schaffende gesetzliche Grundlage im Lohngesetz:
+
+Seite 21/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+Geltendes Recht
+
+Antrag Kommissionsmehrheit
+
+§ 15a Lohngesetz
+
+§ 15a Lohngesetz
+
+Weitere Zulagen
+
+Weitere Zulagen
+1
+
+Der Regierungsrat gewährt Mitarbeiterinnen und Mitarbeiter der Kantonspolizei,
+die Aussendienst leisten, eine Aussendienstzulage.
+1
+
+Weitere Zulagen werden vom Regierungsrat 1 2 Weitere Zulagen werden vom Regierungsnur unter der Voraussetzung gewährt, dass rat nur unter der Voraussetzung gewährt,
+sie mit den Erkenntnissen und Ergebnissen dass sie mit den Erkenntnissen und Ergebnisder Arbeitsbewertung nicht in Widerspruch sen der Arbeitsbewertung nicht in Widerstehen. Diese Zulagen werden unter Berück- spruch stehen. Diese Zulagen werden unter
+sichtigung der Teuerungsentwicklung peri- Berücksichtigung der Teuerungsentwicklung
+odisch angepasst.
+periodisch angepasst.
+3
+
+Diese Zulagen werden unter Berücksichtigung der Teuerungsentwicklung periodisch angepasst.
+2
+
+Der Regierungsrat erlässt in einer Verord- 2 4 Der Regierungsrat erlässt in einer Verordnung die notwendigen Bestimmungen.
+nung die notwendigen Bestimmungen.
+Die periodische Anpassung an die Teuerungsentwicklung wird neu in einem eigenen Absatz festgeschrieben, weil sie sowohl für die Aussendienstzulage als auch für die weiteren Zulagen gelten
+soll.
+Finanziell sieht die Kommissionsmehrheit für die Aussendienstzulage einen Betrag von 1,2 Millionen Franken vor. Die Kantonspolizei hat gemäss ihrer Webseite rund 670 Mitarbeitende, die den
+im baselstädtischen Polizeigesetz festgelegten Auftrag wahrnehmen. Im Durchschnitt entspricht
+dies somit einer Zulage von rund 150 Franken pro Person und Monat bzw. 1'800 Franken pro
+Person und Jahr. Dem durch die Anpassung der Geldzulagen für alle Staatsangestellten um einen
+Viertel statt einen Drittel wegfallenden Betrag von rund 50 Franken pro Person und Monat (vgl. Ziff.
+6.3.2) steht hier also gezielt für die Kantonspolizei eine Zulage in dreifacher Höhe gegenüber.
+Die genaue Ausgestaltung der Aussendienstzulage ist durch den Regierungsrat auf Verordnungsstufe festzulegen, wobei der Kommissionsmehrheit hierfür ein Einbezug des Polizeibeamtenverbandes sinnvoll erscheint. Diese Zulage soll allen Mitarbeiterinnen und Mitarbeitern der Kantonspolizei für ihre Tätigkeit ausserhalb des Büros zugutekommen. Denkbar sind eine Abgeltung pro
+Einsatz oder pro Einsatzstunde.
+6.3.4
+
+Ausbildungslöhne von Quereinsteigern
+
+Das Lohngesetz wird um einen Absatz ergänzt, wonach bei Monopolstellen, die eine Vollzeitausbildung beim Kanton erfordern (insb. Polizei), bei Quereinsteigern die bisherige Berufserfahrung
+bei der Festlegung des Ausbildungslohns berücksichtigt wird.
+Derzeit werden Personen in Ausbildung zu sogenannten Monopolberufen (z.B. Polizei) im kantonalen Lohnsystem unabhängig von ihrer vorgängigen beruflichen Erfahrung einheitlich in vordefinierte Ausbildungslohnklassen eingestuft. Diese pauschale Behandlung führt dazu, dass insbesondere Bewerberinnen und Bewerber mit mehrjähriger Berufserfahrung und entsprechendem
+bisherigen Einkommensniveau beim Einstieg während der Ausbildungszeit finanziell gegenüber
+ihrem bestehenden Verdienst deutlich zurückgestuft werden.
+Seite 22/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+Eine Anrechnung der bisherigen Berufserfahrung erfolgt erst nach Abschluss der Ausbildung. Dies
+kann zur Folge haben, dass betroffene Personen zwar nach Ausbildungsende wieder ein vergleichbares Lohnniveau erreichen, während der Ausbildungsphase jedoch erhebliche Einkommenseinbussen hinnehmen müssen. Die damit verbundene Notwendigkeit, den eigenen Lebensstandard
+temporär deutlich zu reduzieren, kann potenzielle Bewerberinnen und Bewerber davon abhalten,
+eine entsprechende Ausbildung überhaupt in Betracht zu ziehen.
+Die Kommissionsmehrheit erachtet es deshalb als notwendig und sinnvoll, dies zu korrigieren. Ziel
+ist es, zu verhindern, dass die Entlöhnung während der Ausbildung zu einem entscheidenden Hinderungsgrund für den Einstieg in Monopolberufe beim Kanton wird. Eine differenziertere Berücksichtigung vorhandener Berufserfahrung bereits während der Ausbildungsphase würde eine wesentliche finanzielle Eintrittshürde beseitigen und damit die Attraktivität dieser Ausbildungswege
+erhöhen.
+Zwar ist ein entsprechender Ansatz im Ratschlag des Regierungsrats nicht vorgesehen, aus Sicht
+der Kommissionsmehrheit adressiert er jedoch ein strukturelles Problem, das insbesondere die
+Polizei, aber auch weitere zentrale staatliche Aufgaben im Bereich der Sicherheit betrifft.
+Formell ist hierfür eine Ergänzung des Lohngesetzes um einen entsprechenden Passus
+erforderlich:
+Geltendes Recht
+
+Antrag Kommissionsmehrheit
+
+§ 8 Lohngesetz
+
+§ 8 Lohngesetz
+
+Stufenfestsetzung und Einstell-Lohn
+
+Stufenfestsetzung und Einstell-Lohn
+
+1
+
+Die zuständige Behörde nimmt die Einstu- unverändert
+fung vor.
+2
+
+Bei der Einstellung kann nebst der bisheri- unverändert
+gen Berufserfahrung berufsförderliche allgemeine Lebenserfahrung, insbesondere in der
+Familienarbeit, angemessen angerechnet
+werden.
+2bis
+
+Bei Stellen, die den Charakter eines Monopolberufes haben, die eine Vollzeitausbildung beim Kanton erfordern und die
+eine zuvor abgeschlossene Ausbildung
+voraussetzen, wird eine allfällige bisherige
+Berufserfahrung angemessen angerechnet.
+3
+
+Es kann ein Einstell-Lohn festgesetzt wer- unverändert
+den, der unterhalb der zutreffenden Lohnklasse liegt.
+4
+
+Kompetenzen und Verfahren regelt der Re- unverändert
+gierungsrat in einer Verordnung.
+Wie die Berufserfahrung konkret anzurechnen ist, ist vom Regierungsrat in der Einreihungsverordnung festzulegen.
+Die finanziellen Auswirkungen lassen sich nicht abschätzen, da dies von der konkreten Berufserfahrung der Bewerberinnen und Bewerbern abhängt. Die Kommissionsmehrheit geht davon aus,
+dass sich die damit verbundenen Mehrkosten im tiefen sechsstelligen Bereich bewegen und vom
+Regierungsrat im Rahmen des ordentlichen Budgetverfahrens beantragt werden.
+
+Seite 23/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+6.3.5
+
+Einführung einer Konkurrenzklausel im Personalgesetz
+
+In das Personalgesetz wird ein zusätzlicher Absatz eingefügt, wonach der Kanton bei der Ausgestaltung der Anstellungsbedingungen darauf achten muss, dass die Anstellungsbedingungen (inkl.
+Lohnnebenleistungen) nicht so ausgestaltet werden, dass sie zu einer systemischen Besserstellung des Kantons gegenüber den Konditionen in der Privatwirtschaft, insbesondere bei KMU, führen.
+Die fortlaufende Verbesserung der Anstellungsbedingungen für das Staatspersonal führt in der Privatwirtschaft – insbesondere bei kleinen und mittleren Unternehmen (KMU) – zu spürbarem Druck,
+der gegenüber der Kommission wiederholt zum Ausdruck gebracht wurde.
+Gleichzeitig erweist sich ein belastbarer Vergleich zwischen öffentlichem und privatem Sektor als
+anspruchsvoll. Eine umfassende, gesamtheitliche Bewertung der jeweiligen Anstellungsbedingungen kann im Rahmen einer Kommissionsberatung nur begrenzt geleistet werden. Die der Kommission vorliegenden Vergleichsstudien gelangen denn auch teilweise zu widersprüchlichen Ergebnissen.
+Besondere Aufmerksamkeit gilt der vom Regierungsrat in Auftrag gegebenen Vergleichsstudie der
+Personalberatungsfirma Kienbaum. Diese kam zum Schluss, dass die Löhne des baselstädtischen
+Staatspersonals im Vergleich zum privaten Sektor eher unterdurchschnittlich seien. Die Studie
+weist jedoch erhebliche methodische Schwächen auf. Insbesondere fehlt es an Transparenz hinsichtlich der zugrunde liegenden Datenbasis. Trotz entsprechender Nachfrage und unter Zusicherung der Vertraulichkeit wurde die Struktur der Datengrundlage nicht offengelegt. Zudem ist festzuhalten, dass Kienbaum vorwiegend grössere Unternehmen berät. Entsprechend waren lediglich
+rund 35 Prozent der in der Studie berücksichtigten Arbeitgeber KMU (bis 500 Mitarbeitende), während diese in der Schweizer Privatwirtschaft insgesamt rund 99,7 Prozent ausmachen (Quelle:
+Bundesamt für Statistik). Da grössere Unternehmen typischerweise überdurchschnittlich hohe
+Löhne bezahlen, ist davon auszugehen, dass dieser Umstand in der Studie nicht ausreichend berücksichtigt wurde und die Ergebnisse entsprechend verzerrt sind.
+Hinzu kommt, dass bei Lohnvergleichen die übrigen Leistungen des Arbeitgebers typischerweise
+keine Berücksichtigung finden. Nach Ansicht der Kommissionsmehrheit sind diese beim Kanton
+Basel-Stadt klar überdurchschnittlich (vgl. Auflistung unter Ziff. 6.3.1).
+Vor diesem Hintergrund erachtet es die Kommissionsmehrheit als angezeigt, im Personalgesetz
+eine Grundsatzklausel zu verankern. Demnach soll bei einer gesamtheitlichen Betrachtung der
+Anstellungsbedingungen sichergestellt werden, dass gegenüber der Privatwirtschaft keine systemische Besserstellung des Staatspersonals entsteht. Diese Bestimmung hat in erster Linie einen
+orientierenden und programmatischen Charakter, setzt jedoch ein wichtiges Signal im Hinblick auf
+ein ausgewogenes Verhältnis zwischen öffentlichem und privatem Arbeitsmarkt.
+Geltendes Recht
+
+Antrag Kommissionsmehrheit
+
+§ 5 Personalgesetz
+
+§ 5 Personalgesetz
+
+Personalpolitik
+
+Personalpolitik
+
+1
+
+Der Regierungsrat definiert die Grundsätze unverändert
+der Personalpolitik und schafft die notwendigen Voraussetzungen zu deren Verwirklichung.
+2
+
+Die Personalpolitik soll namentlich:
+
+a)
+das Gewinnen und Erhalten der zur Erfüllung der Aufgaben des Kantons geeigneten
+Mitarbeiterinnen und Mitarbeiter ermöglichen;
+
+Seite 24/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+b)
+eine effiziente und bürgernahe Erfüllung
+der Staatsaufgaben im Rahmen der gesetzlichen Bestimmungen und der Leistungsaufträge fördern;
+c)
+das Entwickeln und Realisieren von
+zeitgemässen Organisationsstrukturen, teamorientierten Führungsmodellen und flexiblen
+Arbeitszeitregelungen, insbesondere die
+Schaffung von Teilzeitstellen in allen Bereichen und auf allen hierarchischen Stufen, fördern;
+d)
+den Bedürfnissen der Mitarbeiterinnen
+und Mitarbeiter Rechnung tragen und deren
+Aus- und Weiterbildung sowie berufliche Entwicklung unterstützen;
+e)
+die Chancengleichheit gewährleisten,
+dies insbesondere für Frauen und Männer sowie Menschen mit Behinderungen;
+f)
+eine gut funktionierende Sozialpartnerschaft anstreben und damit ein Klima der Offenheit, des Vertrauens und der Fairness
+schaffen;
+g)
+die Eingliederung von Erwerbslosen unterstützen.
+h) so ausgestaltet werden, dass es bei einer gesamtheitlichen Betrachtung der Anstellungsbedingungen (z.B. Lohnnebenleistungen, Vorsorgeleistungen) nicht zu
+einer systemischen Besserstellung gegenüber der Privatwirtschaft, insbesondere
+den KMU, kommt.
+6.3.6
+
+Anpassung einmaliger Ausgleich temporäre Einkommenseinbussen
+
+Der Antrag des Regierungsrates sieht einmalige Ausgaben in Höhe von 3,9 Millionen Franken vor,
+um verbleibende Einkommenseinbussen aufgrund des Wegfalls der Arbeitsmarktzulage auszugleichen. Dort wo die angepasste Lohnkurve tiefer liegt als die aktuell geltende Arbeitsmarktzulage,
+soll ein Lohnzuschlag diese Differenz ausgleichen. Dieser Zuschlag gilt so lange, bis durch den
+ordentlichen jährlichen Lohnzuwachs durch Stufenanstieg und Teuerungsausgleich das Niveau der
+Arbeitsmarktzulage erreicht wird. Daher reduzieren sich die Ausgleichsbeträge jährlich, bis alle Betroffenen über das Niveau der Arbeitsmarktzulage «hinausgewachsen» sind.
+Die Kommissionsmehrheit stimmt diesem Ausgleich zu. Es soll bei der Kantonspolizei zu keinen
+Lohnkürzungen kommen. Die Anpassung bei den Einstiegslöhnen führt jedoch dazu, dass es mehr
+und längere Fälle geben wird, bei denen die neue Lohnkurve tiefer liegt als die Arbeitsmarktzulage.
+Daher ist der Betrag für den Lohnzuschlag entsprechend zu erhöhen.
+Formell ist hierfür eine entsprechende Änderung am Grossratsbeschluss erforderlich.
+Finanziell hat die Anpassung der Kommissionsmehrheit zur Folge, dass sich die einmaligen Ausgaben von 3,9 Millionen Franken auf 4,3 Millionen Franken erhöhen. Das Finanzdepartement hat
+diese Zahl bestätigt.
+
+Seite 25/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+6.3.7
+
+Einführung der Änderungen soweit möglich per 1. Juli 2026
+
+Die Anpassung des Stufenverlaufs erfolgt nicht in zwei je hälftigen Erhöhungsschritten 2026 und
+2027, sondern in einer einmaligen Erhöhung per 1. Juli 2026. Auch die übrigen Änderungen sollen
+soweit möglich auf dieses Datum hin umgesetzt werden.
+Der Regierungsrat beantragte, die Anpassung des Stufenverlaufs in zwei Etappen per 1. Januar
+2026 und per 1. Januar 2027 umzusetzen. Da die parlamentarischen Beratungen jedoch nicht wie
+vom Regierungsrat ursprünglich erwartet bis Anfang 2026 abgeschlossen werden konnten, spricht
+sich die Kommissionsmehrheit dafür aus, die Anpassung in einem einzigen Schritt vorzunehmen.
+Auf diese Weise wird gewährleistet, dass die vorgesehenen Lohnanpassungen wie auch die übrigen von der Kommissionsmehrheit vorgenommenen Änderungen so rasch wie möglich eingeführt
+werden können. Soweit möglich sollen die Änderungen per 1. Juli 2026 umgesetzt werden.
+Formell bedeutet dies, dass der Grosse Rat nicht wie vom Regierungsrat vorgeschlagen zwei Stufenverläufe beschliesst, die per 1. Januar 2026 bzw. 1. Januar 2027 in Kraft treten. Stattdessen soll
+der Regierungsrat über den Zeitpunkt des Inkrafttretens beschliessen. Dies ermöglicht es dem Regierungsrat, jede Massnahme umzusetzen, sobald hierfür die nötigen Voraussetzungen geschaffen
+wurden. Dabei ist auch eine gestaffelte Einführung möglich.
+Finanziell werden im Grossratsbeschluss die notwendigen Mittel zur Verfügung gestellt, dass alle
+Massnahmen ab 1. Juli 2026 eingeführt werden können. Für den Kanton ist das kostenneutral, da
+im Budget 2026 bereits entsprechende Mittel eingestellt wurden. Da es per 1. Januar 2026 entgegen dem Budget noch zu keiner Änderung kam, wird die Jahresrechnung 2026 entsprechend entlastet.
+
+6.4
+
+Gegenüberstellung Regierungsrat vs. WAK-Mehrheit
+
+Ratschlag Regierungsrat
+
+Vorschlag WAK-Mehrheit
+
+Erhöhung der Einstiegslöhne auf den Stufen Erhöhung der Einstiegslöhne auf den Stufen
+A bis 11 (47 % der Mitarbeitenden)
+A bis 4
+Aufhebung der Degression beim Teuerungs- unverändert
+ausgleich
+Erhöhung der Geldzulagen für Nacht-, Sonn-, Erhöhung der Geldzulagen für Nacht-, Sonn-,
+Feiertags- und Pikettdienst um einen Drittel Feiertags- und Pikettdienst um einen Viertel,
+bereits ab Mitte 2026
+Einführung einer Aussendienstzulage für
+die Kantonspolizei
+Zusätzliche Erfahrungsstufe für Mitarbeitende unverändert
+der Kantonspolizei und der Kriminalpolizei
+Erhöhung der Ausbildungslöhne bei der Kan- unverändert
+tonspolizei
+Ausgleich von Einkommenseinbussen auf- Beitrag erhöht aufgrund der Anpassung
+grund des Wegfalls der AMZ
+bei den Einstiegslöhnen
+Bessere Ausbildungslöhne für Quereinsteiger:
+Berufserfahrung soll bei Ausbildungslöhnen
+
+Seite 26/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+von Quereinsteigern in Monopolberufe berücksichtigt werden
+Konkurrenzklausel:
+Grundsatz im Personalgesetz, dass Kanton
+seine Angestellten gegenüber jenen der Privatwirtschaft bei Gesamtbetrachtung der Anstellungsbedingungen nicht systemisch besserstellen darf
+Einführung des angepassten Stufenanstiegs Einführung aller Änderungen soweit möglich
+in zwei Schritten per 1. Januar 2026 und per 1. Juli 2026
+1. Januar 2027
+
+6.5
+
+Vergleich der Kosten
+Ratschlag
+Regierungsrat
+
+Vorschlag
+Kommissionsmehrheit
+
+Anpassung Einstiegslöhne
+
+13,5 Mio.
+
+7,8 Mio.
+
+Staatsbeiträge (Personalkosten Kitas)
+
+1,2 Mio.
+
+0,7 Mio.
+
+Aufhebung degressiver Teuerungsausgleich
+
+0,5 Mio.
+
+0,5 Mio.
+
+Erhöhung Geldzulagen
+
+3,1 Mio.
+
+2,325 Mio.
+
+Einführung Aussendienstzulage
+
+1,2 Mio.
+
+Zusätzliche Erfahrungsstufe Kapo + Kripo
+
+1,6 Mio.
+
+1,6 Mio.
+
+Erhöhung Ausbildungslöhne
+
+0,7 Mio.
+
+0,7 Mio.
+
+Total wiederkehrend
+
+20,6 Mio.
+
+14,825 Mio.
+
+Lohnzuschlag zum Ausgleich von temporären
+Einkommenseinbussen aufgrund Wegfall AMZ
+(einmalig)
+
+3,9 Mio.
+
+4,3 Mio.
+
+Total
+
+24,5 Mio.
+
+19,125 Mio.
+
+7.
+
+Stellungnahme zum Bericht der Kommissionsminderheit
+
+Es liegt in der Natur der Sache, dass bei Mehrheits- und Minderheitsberichten einer Kommission
+die politischen Meinungen und Anträge auseinanderliegen. Dies ist legitim. In zwei Punkten können
+jedoch Aussagen der Minderheit nicht unkommentiert belassen werden, weil diese ein falsches Bild
+erzeugen:
+
+Seite 27/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+7.1
+
+Kein Kompromiss
+
+Mehrfach spricht die Kommissionsminderheit von einem Kompromiss und meint damit den Ratschlag des Regierungsrates. Die Kommissionsmehrheit versteht unter einem Kompromiss eine Einigung unter den verschiedenen Teilen der Kommission. Ein solcher Kompromiss wurde von der
+Mehrheit mehrfach vorgeschlagen, kam jedoch nicht zustande. Die Kommissionsminderheit beantragt denn auch, abgesehen vom Einführungsdatum, den unveränderten Vorschlag des Regierungsrates. Deshalb erachtet es die Kommissionsmehrheit für missverständlich und falsch, wenn
+im Bericht der Minderheit von Kompromissen gesprochen wird.
+
+7.2
+
+Dringlichkeit
+
+In aller Deutlichkeit weist die Kommissionsmehrheit den Vorwurf der Minderheit zurück, dass erstere den Verbesserungen der Löhne bei der Kantonspolizei keine Dringlichkeit beimass. Da wie
+oben dargestellt der Ratschlag des Regierungsrats jedoch weit über die vom Parlament geforderten
+Massnahmen hinausging, war für die Mehrheit eine vertiefte Prüfung der vorgeschlagenen
+Massnahmen unabdingbar.
+Der Ratschlag wurde der WAK am 25. Juni 2025 zugewiesen. Die Kommissionsberatung wurde
+am nächstmöglichen Sitzungstermin im August aufgenommen. Bereits das Aufbereiten von nachvollziehbaren und erhärteten Zahlen nahm jedoch mehrere Monate in Anspruch. Anschliessend
+wurden in verschiedenen Varianten Gegenvorschläge erarbeitet, geprüft und diskutiert. Selbstredend nimmt dies mehr Zeit in Anspruch, als einen Ratschlag der Regierung unkritisch durchzuwinken. Natürlich konnte die Kommissionsminderheit am 20. November 2025 für ihre Seite Beschlussreife feststellen, da sie keine Gegenvorschläge, geprüfte Gesetzestexte und Kalkulationen
+erarbeiten musste. Abgesehen von der Erkenntnis, dass der Ratschlag nicht mitgetragen werden
+konnte, war die Mehrheit zu diesem Zeitpunkt fernab von beschlussreif. Dies wird durch die Tatsache verdeutlicht, dass noch Anfang Februar letzte Gespräche geführt wurden, ob nicht doch allenfalls ein Kompromiss gefunden werden könnte.
+
+8.
+
+Antrag der Kommissionsmehrheit
+
+Die Mehrheit der Wirtschafts- und Abgabekommission beantragt dem Grossen Rat einstimmig, den
+nachstehenden Beschlussentwurf anzunehmen sowie
+-
+
+die Motion Pascal Messerli und Michael Hug betreffend «der Polizeiberuf muss in BaselStadt wieder attraktiv werden: Lohnerhöhung jetzt!» und
+den Anzug Michael Hug und Tobias Christ betreffend «Verbesserungen der Arbeitsbedingungen für Kantonsangestellte im Schicht- und Wochenenddienst» abzuschreiben.
+
+Der vorliegende Bericht wurde von der Kommissionsmehrheit am 26. März 2026 einstimmig genehmigt und Luca Urgese zum Sprecher bestimmt.
+Im Namen der Kommissionsmehrheit:
+Luca Urgese
+
+Seite 28/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+Lohngesetz (LG)
+Änderung vom [Datum]
+Der Grosse Rat des Kantons Basel-Stadt,
+nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 25.0674.01 vom 27. Mai 2025 sowie in den
+Bericht der Wirtschafts- und Abgabekommission Nr. 25.0674.02 vom 26. März 2026,
+beschliesst:
+I.
+Lohngesetz (LG) vom 18. Januar 19952 (Stand 13. Februar 2025) wird wie folgt geändert:
+§ 8 Abs. 2bis (neu)
+2bis
+
+Bei Stellen, die den Charakter eines Monopolberufes haben, die eine Vollzeitausbildung beim Kanton
+erfordern und die eine zuvor abgeschlossene Ausbildung voraussetzen, wird eine allfällige bisherige Berufserfahrung angemessen angerechnet.
+§ 15a (geändert)
+1
+
+Der Regierungsrat gewährt Mitarbeiterinnen und Mitarbeitern der Kantonspolizei, die Aussendienst leisten,
+eine Aussendienstzulage.
+
+2
+
+Weitere Zulagen werden vom Regierungsrat nur unter der Voraussetzung gewährt, dass sie mit den Erkenntnissen und Ergebnissen der Arbeitsbewertung nicht in Widerspruch stehen.
+
+3
+
+Diese Zulagen werden unter Berücksichtigung der Teuerungsentwicklung periodisch angepasst.
+
+4
+
+Der Regierungsrat erlässt in einer Verordnung die notwendigen Bestimmungen.
+
+§ 22 Abs. 2 (aufgehoben)
+2
+
+Aufgehoben.
+
+Anhänge
+Anhang 164.100.2: Anhang 2 Stufenverlauf (geändert)
+II. Änderung anderer Erlasse
+Personalgesetz vom 17. November 19993 (Stand 15. Juni 2025) wird wie folgt geändert:
+§ 5 Abs. 2 lit. h) (neu)
+h) so ausgestaltet werden, dass es bei einer gesamtheitlichen Betrachtung der Anstellungsbedingungen (z.B.
+Lohnnebenleistungen, Vorsorgeleistungen) nicht zu einer systemischen Besserstellung gegenüber der Privatwirtschaft, insbesondere den KMU, kommt.
+
+2
+
+SG 164.100
+
+3
+
+SG 162.100
+
+Seite 29/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+III. Aufhebung anderer Erlasse
+Keine Aufhebung anderer Erlasse
+IV. Schlussbestimmung
+Diese Änderung ist zu publizieren; sie unterliegt dem Referendum und der Regierungsrat bestimmt den
+Zeitpunkt des Inkrafttretens.
+[Behörde]
+[Funktion 1] [Funktion 2]
+[Name 1] [Name 2]
+
+Seite 30/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+Anhang 2
+Stufenverlauf gültig ab 1. Juli 2026
+Stufen
+
+Lohn in Prozent im Vergleich zur Stufe A
+
+A4
+
+100,0%
+
+B
+
+102,0%
+
+2%
+
+C
+
+104,0%
+
+2%
+
+1
+
+106,0%
+
+2%
+
+2
+
+108,0%
+
+2%
+
+3
+
+110,0%
+
+2%
+
+4
+
+112,0%
+
+2%
+
+5
+
+114,0%
+
+2%
+
+6
+
+116,0%
+
+2%
+
+7
+
+118,0%
+
+2%
+
+8
+
+120,0%
+
+2%
+
+9
+
+122,0%
+
+2%
+
+10
+
+124,0%
+
+2%
+
+11
+
+126,0%
+
+2%
+
+12
+
+128,0%
+
+2%
+
+13
+
+129,0%
+
+1%
+
+14
+
+130,0%
+
+1%
+
+15
+
+131,0%
+
+1%
+
+16
+
+132,0%
+
+1%
+
+17
+
+133,0%
+
+1%
+
+18
+
+134,0%
+
+1%
+
+195
+
+135,0%
+
+1%
+
+20
+
+135,0%
+
+0%
+
+21
+
+136,5%
+
+1,5%
+
+22
+
+136,5%
+
+0%
+
+23
+
+138,0%
+
+1,5%
+
+24
+
+138,0%
+
+0%
+
+25
+
+139,5%
+
+1,5%
+
+26
+
+139,5%
+
+0%
+
+27
+
+141,0%
+
+1,5%
+
+28
+
+141,0%
+
+0%
+
+29
+
+142,5%
+
+1,5%
+
+30
+
+142,5%
+
+0%
+
+31
+
+144,0%
+
+1,5%
+
+4
+
+Anlaufstufen A, B und C
+
+5
+
+Zweijahresstufen 19/20, 21/22, 23/24, 25/26, 27/28 und 29/30
+
+Veränderung des Lohns im Vergleich zur
+vorigen Stufe in Prozentpunkten
+
+Seite 31/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+Grossratsbeschluss
+Bewilligung der Mehrausgaben infolge Lohnmassnahmen zur Steigerung der Arbeitgeberattraktivität sowie Ablösung der befristeten Arbeitsmarktzulage für Mitarbeitende der Kantonspolizei
+(vom [Datum eingeben])
+Der Grosse Rat des Kantons Basel-Stadt, nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 25.0674.01 vom 27. Mai 2025 sowie in den Bericht der Wirtschafts- und Abgabekommission Nr. 25.0674.02 vom 26. März 2026, beschliesst:
+1. Für die Umsetzung der Lohnmassnahmen zur Steigerung der Arbeitgeberattraktivität sowie
+zur Ablösung der befristeten Arbeitsmarktzulage für Mitarbeitende der Kantonspolizei werden Ausgaben von Fr. 19'125’000 bewilligt.
+Diese Ausgaben teilen sich wie folgt auf:
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Fr. 7’800’000 wiederkehrende Ausgaben ab 2027 (für 2026 Fr. 3'900'000) für die Finanzierung der Mehrkosten aufgrund der Anpassung der Lohnkurve zu Lasten der Erfolgsrechnung des Finanzdepartements.
+Fr. 700’000 wiederkehrende Ausgaben ab 2027 (für 2026 Fr. 350'000) für die Finanzierung
+der Mehrkosten für die Finanzierung der aufgrund der Anpassung der Lohnkurve erhöhten
+Staatsbeiträge Kinderbetreuung zu Lasten der Erfolgsrechnung des Erziehungsdepartements (Dienststelle Jugend, Familie und Sport).
+Fr. 500'000 wiederkehrende Ausgaben ab 2027 (für 2026 Fr. 250'000) für die Finanzierung
+der Mehrkosten infolge Aufhebung der Degression beim Teuerungsausgleich zu Lasten der
+Erfolgsrechnung des Finanzdepartements.
+Fr. 2'325'000 wiederkehrende Ausgaben ab 2027 (für 2026 Fr. 1'162'500) für die Erhöhung
+der Geldzulagen für Nacht-, Sonn-, Feiertags- und Pikettdienst gemäss §§ 23 bis 33 der
+Verordnung zur Arbeitszeit der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt
+vom 6. Juli 2024 (Arbeitszeitverordnung, AZV, SG 162.200) zu Lasten der Erfolgsrechnung
+des Kantons Basel-Stadt.
+Fr. 1’200’000 wiederkehrende Ausgaben ab 2027 (für 2026 Fr. 600'000) für die Ausrichtung
+einer Aussendienstzulage zu Lasten der Erfolgsrechnung des Justiz- und Sicherheitsdepartements.
+Fr. 1'600'000 wiederkehrende Ausgaben ab 2027 (für 2026 Fr. 800'000) für die Erhöhung
+der Einstufung ad personam der Mitarbeitenden der Kantonspolizei und der Kriminalpolizei
+auf Polizeistellen bis und mit Lohnklasse 16 um je eine Erfahrungsstufe zu Lasten der Erfolgsrechnung des Justiz- und Sicherheitsdepartements (Dienststelle Kantonspolizei).
+Fr. 700'000 wiederkehrende Ausgaben ab 2027 (für 2026 Fr. 350'000) für die Erhöhung der
+Ausbildungslöhne bei der Kantonspolizei zu Lasten der Erfolgsrechnung des Justiz- und
+Sicherheitsdepartements (Dienststelle Kantonspolizei).
+Fr. 4'300'000 einmalige Ausgaben für den Ausgleich verbleibender Einkommenseinbussen
+aufgrund des Wegfalls der Arbeitsmarktzulage zu Lasten der Erfolgsrechnung des Justizund Sicherheitsdepartements (Dienststelle Kantonspolizei).
+
+Dieser Beschluss ist zu publizieren. Er untersteht dem Referendum.
+
+Seite 32/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+9.
+
+Bericht der Kommissionsminderheit
+9.1
+
+Grundsätzliches
+
+Die Kommissionsminderheit hält das Lohnmassnahmenpaket für ein zentrales Instrument, um die
+Arbeitgeberattraktivität zu steigern und die Arbeitsmarktzulage für die Kantonspolizei abzulösen.
+Angesichts des Wettbewerbs mit anderen Kantonen, Städten und der Privatwirtschaft – auch aber
+nicht nur in Monopolberufen wie der Polizei – ist die Umsetzung des Pakets notwendig, um die
+Wettbewerbsfähigkeit zu sichern. Zudem verschärfen der Fachkräftemangel und die demografische Entwicklung mit zahlreichen anstehenden Pensionierungen die Situation.
+Mit dem vorliegenden Lohnmassnahmenpaket wird sichergestellt, dass der Kanton seine Aufgaben
+für die Bevölkerung auch künftig zufriedenstellend und kompetent erfüllen kann. Für die Minderheit
+ist ein proaktives, vorausschauendes Handeln wichtig. Massnahmen sollen ergriffen werden, bevor
+ein Personal- und Rekrutierungsproblem entsteht. Gerade die Situation bei der Kantonspolizei
+zeigt, wie schwierig es ist, wenn ein Bereich diesbezüglich bereits in den Abwärtsstrudel geraten
+ist.
+Schliesslich ist das Lohnmassnahmenpaket ein austarierter Kompromiss des Regierungsrats, welcher vom Grossen Rat beschlossene Aufträge aufnimmt und innerhalb des bestehenden Rahmens
+umsetzt6. Das Finanzdepartement, das kantonale HR und insbesondere auch das Justiz- und Sicherheitsdepartement und seine HR-Abteilung haben in der Kommission deutlich und überzeugend
+dargelegt, dass eine grosse Dringlichkeit zur Umsetzung dieses Paketes bestehe. Das Lohnmassnahmenpaket ist ausbalanciert und nimmt die verschiedenen Herausforderungen adäquat auf. Die
+Regierung konnte überzeugend und inhaltlich kompetent darlegen, dass Veränderungen innerhalb
+des Paketes dieses aus dem Gleichgewicht bringen würde. Nur mit der Anhebung der Lohnkurve,
+den höheren Schichtzulagen und den spezifischen Massnahmen für die Kantonspolizei kann der
+gewünschte Effekt erzielt werden.
+Die Kommissionsminderheit kam darum im Rahmen der Beratungen klar zum Schluss, dass es
+wichtig, nötig und zielführend ist, das vorliegende Paket in der vom Regierungsrat vorgeschlagenen
+Form einzuführen und zügig umzusetzen.
+
+9.2
+9.2.1
+
+Elemente des Lohnmassnahmenpakets
+Einstiegslöhne
+
+Wie oben dargestellt zeigten die Perinnova-Daten deutlich, dass die Einstiegslöhne des Kantons
+Basel-Stadt im interkantonalen und innerstädtischen Vergleich hinterherhinken. Perinnova ist eine
+Firma, die auf Lohnvergleiche spezialisiert ist und über Daten von Kantonen und Kommunen verfügt. Der jährliche Lohnvergleich mit 25 Kantonen und 16 Städten belegt: In der Anlaufstufe A liegt
+Basel-Stadt bei lediglich 86 % des gesamtschweizerischen Durchschnitts der öffentlichen Arbeitgebenden – während der kantonale Gesamtdurchschnitt über alle Stufen bei 103 % liegt. Dieser
+Rückstand wird erst ab Erfahrungsstufe 12 aufgeholt – also erst nach rund zwölf Berufs- resp.
+Erfahrungsjahren. Diese Auswertung zeigte auch, dass die Einstiegslöhne nicht so hoch sind, wie
+einzelne Kommissionsmitglieder erwartet hatten.
+
+6 Motion Messerli/Hug «der Polizeiberuf muss in Basel-Stadt wieder attraktiv werden: Lohnerhöhung jetzt!» sowie den
+
+Anzug Christ/Hug «Verbesserung der Arbeitsbedingungen für Kantonsangestellte im Schicht- und Wochenenddienst»
+
+Seite 33/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+Abb. 1: Ausschnitt Ergebnisse Korrekturbedarf.
+
+Auch im Vergleich zur Privatwirtschaft zeigte sich Handlungsbedarf: Eine Analyse der Unternehmens- und Personalberatung Kienbaum AG, welche das Finanzdepartement zur Verfügung stellte,
+kam zum Schluss, dass die Einstiegslöhne des Kantons auch in einem repräsentativen Vergleich
+mit der Privatwirtschaft zu tief sind. Auch Kienbaum ist auf Lohnvergleiche spezialisiert und verfügt
+über einen ausführlichen Datensatz von Löhnen in der Privatwirtschaft. Auch bei diesem Vergleich
+wurde der Kommission der Handlungsbedarf klar und eindrücklich aufgezeigt: Das renommierte
+Unternehmen zeigt auf, dass die Löhne beim Kanton gerade bei jüngeren und weniger erfahrenen
+Mitarbeitenden durchschnittlich deutlich tiefer liegen als in der Privatwirtschaft. Mit dem Paket wird
+diese Lücke gezielt geschlossen. Dies ist ein notwendiger Schritt, um auch für Berufseinsteigerinnen und Berufseinsteiger attraktiv sein zu können. Mit dem vorliegenden Paket werden die Löhne
+an die Realitäten in der Privatwirtschaft angeglichen.
+Die aktuell tieferen Einstiegslöhne machen sowohl das Halten von bestehenden Angestellten
+schwieriger, aber auch die Rekrutierung von neuem Personal. Die Korrektur dieses Gaps ist ein
+wesentlicher Hebel, um gutes Personal langfristig an den Kanton zu binden und somit einen hohen
+Qualitätsstandard bei Dienstleistungen des Kantons zu sichern. Dies ist auch für die Bevölkerung
+von grosser Bedeutung.
+Diese Massnahme ist für viele Mitarbeitende des Kantons von grosser Wichtigkeit. Darum ist es für
+die Kommissionsminderheit nachvollziehbar, dass der Regierungsrat damit eine Lösung suchte,
+um das Problem des Unterbestands der Kantonspolizei anzugehen aber zeitgleich den Kanton als
+Ganzes auf die Herausforderungen des Fachkräftemangels und der vielen bevorstehenden Pensionierungen vorzubereiten. Um mögliche Wiederholungen von grossen Lücken beim Personalbestand in anderen Bereichen des öffentlichen Dienstes vorzubeugen, ist es jetzt wichtig, zu handeln.
+Dabei geht es zum einen um andere Blaulichtberufe wie die Sanität und die Feuerwehr. Aber auch
+um die Situation für Berufsgruppen wie beispielsweise Mitarbeitende in den Tagesstrukturen, in der
+Pflege, in der IT und im Kindergarten. Aus Sicht der Minderheit sollte gehandelt werden, bevor sich
+ein grosser Unterbestand in diesen Bereichen akzentuiert.
+Daher geht es bei der Anhebung der Lohnkurve nicht einfach um eine Frage der Wertschätzung:
+Es ist eine naheliegende, pragmatische und konkrete Umsetzung, um die bestehenden Unterschiede zu beheben und eine wettbewerbsfähige Entlöhnung der Kantonsangestellten sicherzustellen.
+
+Seite 34/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+Bei Inkraftsetzung per 1. Juli 2026 kostet diese Massnahme für 2026 Fr. 3’375’000 und ab 2027
+jährlich Fr. 13’500’000. Aufgrund der Anpassung der Lohnkurve erhöhen sich die Staatsbeiträge
+für die Kinderbetreuung für 2026 um Fr. 300’000 und ab 2027 um jährlich Fr. 1’200’000.
+9.2.2
+
+Schichtzulagen
+
+Berufe mit Schichtdienst - von Polizei, Feuerwehr, Rettung, aber auch der Pflege, Tagesstrukturen,
+Verkehrsbetrieben bis zur Stadtreinigung und anderen - sind für das Funktionieren unserer Wirtschaft und Gesellschaft unabdingbar. Allerdings verlieren Berufe mit Schichtdienst im heutigen Arbeitsmarktumfeld zunehmend an Attraktivität.
+Bekannt sind die gesundheitlichen Auswirkungen der Schichtarbeit. Sie kann zu Schlafstörungen,
+chronischer Müdigkeit, Konzentrationsproblemen und mehr Fehlern führen. Langfristig steigt auch
+das Risiko für psychische Belastungen, soziale Isolation sowie Herz-Kreislauf- und Stoffwechselerkrankungen. Dadurch leidet oft die Lebensqualität insgesamt deutlich. Ebenso mit Schichtarbeit
+verbunden sind Herausforderungen bei der Vereinbarkeit von Beruf und Familie sowie Auswirkungen auf das soziale Leben und die soziale Integration der Schichtarbeitenden. Das Engagement in
+Familie und Vereinen sind wegen wechselnder Einsatzzeiten teilweise nur schwer umsetzbar.
+Bei den Schichtzulagen für Menschen in den genannten Berufen geht es darum, ihnen die notwendige Wertschätzung zu zeigen und zu einem grossen Teil aber auch die Nachteile auszugleichen.
+Die geplante Erhöhung der Schichtzulagen ist angezeigt, um die Attraktivität der genannten Tätigkeiten beim Kanton zu verbessern. Damit soll gezielt in diesen kritischen, systemrelevanten Bereichen einem drohenden Personalmangel vorgebeugt werden. Bei der Kantonspolizei dient die
+Massnahme dazu, dem bereits bestehenden Personalmangel entgegenzuwirken.
+Diese Massnahme betrifft alle Mitarbeitenden mit entsprechenden Dienstzeiten und ist damit breit
+wirksam. Die Erhöhung um einen Drittel ist somit nicht nur gerechtfertigt, sondern angesichts des
+zunehmenden Rekrutierungsdrucks in Schichtberufen zwingend erforderlich. Die Erhöhung der
+Schichtzulagen um einen Drittel steht finanziell in einem guten Verhältnis zum Nutzen.
+Bei Inkraftsetzung per 1. Juli 2026 kostet diese Massnahme für 2026 Fr. 1’550’000 und ab 2027
+jährlich Fr. 3’100’000.
+9.2.3
+
+Polizei
+
+Für die Kommissionsminderheit ist klar, dass die Personalsituation bei der Kantonspolizei nicht
+mehr tragbar ist. Der Personalunterbestand ist von 33 Vollzeitstellen im Jahr 2016 auf 129 Vollzeitstellen im Jahr 2024 angewachsen. Die Rückmeldungen des JSD und des Polizeibeamten-Verbands BS während der Kommissionsberatung machen deutlich, dass damit eine grosse Belastung
+für die verbleibenden Polizistinnen und Polizisten verbunden ist. Kurzfristige Aufgebote und zusätzliche Wochenenddienste beeinträchtigen die Erholung und die familiären Bedürfnisse der Mitarbeitenden. Teilweise konnten in der Vergangenheit die vertraglich vereinbarten Wochenenden nicht
+eingehalten werden. Das ist nicht akzeptabel.
+Es ist allgemein anerkannt, dass Lohnmassnahmen alleine die Thematik des Unterbestandes bei
+der Kantonspolizei nicht lösen werden. Nichtsdestotrotz bilden sie einen entscheidenden Baustein
+zur Verbesserung der Personalsituation beim Polizeikorps.
+Der Regierungsrat hat mit den am 1. März 2023 beschlossenen Arbeitsmarktzulagen (AMZ) mit
+einer vorübergehenden Massnahme auf den Personalunterbestand reagiert. Mit dem Ratschlag
+der Regierung hätten diese AMZ fristgerecht per März 2026 mit unbefristeten Lohnerhöhungen
+abgelöst werden sollen. Obwohl der Ratschlag bereits im Juni 2025 an die Wirtschafts- und Abgabenkommission überwiesen wurde, hat die Kommission den Ratschlag nicht rechtzeitig zu Ende
+behandelt. Deshalb musste der Regierungsrat die AMZ am 10. Februar verlängern. Diese Situation
+Seite 35/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+ist aus Sicht der Kommissionsminderheit äusserst bedauerlich. Die Kommissionsminderheit hatte,
+wie in Kapitel 8.4. näher ausgeführt wird, am 20. November beantragt, die Beratung des Ratschlags
+abzuschliessen und dem Grossen Rat zur abschliessenden Behandlung zu überweisen. Damit
+hätte die Ablösung der AMZ durch das Lohnmassnahmenpaket fristgerecht stattfinden können.
+Folgende spezifischen Massnahmen, die alleine für die Kantonspolizei gelten sollen, sind vorgesehen:
+-
+
+Ausgleich von Einkommenseinbussen aufgrund des Wegfalls der AMZ (einmalig Fr.
+3’900’000);
+Erhöhung der Ausbildungslöhne bei der Kantonspolizei (bei Inkraftsetzung per
+1. Juli 2026
+kostet diese Massnahme für 2026 Fr. 350’000 und ab 2027 jährlich
+Fr. 700’000);
+Ad personam Einstufung bei bestehenden und neuen Mitarbeitenden der Kripo bis und mit
+Lohnklasse 16 (bei Inkraftsetzung per 1. Juli 2026 kostet diese Massnahme für 2026
+Fr. 800’000 und ab 2027 jährlich Fr. 1’600’000).
+
+Die Kommissionsminderheit verhehlt nicht, dass sie diese polizeispezifischen Massnahmen durchaus kritisch sieht, da diese entgegen dem von ihr hoch gewichteten Grundsatz der Gleichbehandlung (siehe Kapitel 8.3.) eine Sonderbehandlung darstellen. Die Minderheit ist aber ausdrücklich
+bereit, diese im Sinne eines Kompromisses mitzutragen.
+Besonders die ad personam-Einstufungen sind aus Sicht der Minderheit insofern kritisch zu sehen,
+als dass sie sehr grosse Gruppen von Mitarbeitenden betreffen und damit faktisch nicht mehr individuelle Massnahmen sind. Sie sind jedoch in ihrer einzelnen Begründung und Umsetzung nachvollziehbar. Der Ausgleich für Personen, die bisher eine AMZ erhalten haben und deren Lohnniveau trotz der anderen begleitenden Massnahmen tiefer wäre als vorher, ist eine Kompensation.
+Um die bestehenden Mitarbeitenden halten zu können und eine Ungleichbehandlung zu verhindern, kann dieser Massnahme zugestimmt werden. Auch die Massnahme der Erhöhung der Ausbildungslöhne ist unter dem Gesichtspunkt, dass dringend zusätzliche Mitarbeitende gewonnen
+und bisherige gehalten werden müssen, erklärbar.
+Zuletzt versteht die Kommissionsminderheit, dass die Massnahme auch auf die Kripo angewandt
+wird, insbesondere vor dem Hintergrund der bevorstehenden Integration eben dieser in die Kantonspolizei. Die Minderheit verweist in diesem Kontext auch darauf, dass der erste Staatsanwalt
+die Gesamtkommission darüber informiert hat, dass die Verlängerung der AMZ zu einer Ungleichbehandlung der Angestellten der Kriminalpolizei geführt hat. Im Kontext eines allgemein angespannten Personalbestandes auch bei der Staatsanwaltschaft ist es für die Kommissionsminderheit
+sehr unglücklich, dass die langsame Beratung dieses Geschäftes für eine Personalgruppe wiederum zu schlechteren Bedingungen geführt hat. Sie will darum auch hier, im Sinne eines Kompromisses und dem Willen, Missstände konkret anzugehen, Hand bieten für den Vorschlag des Regierungsrates.
+9.2.4
+
+Degressiver Teuerungsausgleich
+
+Für die Kommissionsminderheit ist die Abschaffung des degressiven Teuerungsausgleiches ein
+weiteres Zugeständnis, das sie im Rahmen des erarbeiteten Kompromisses des Regierungsrates
+mitzutragen bereit ist. Grundsätzlich ist für die Minderheit nachvollziehbar, dass der Teuerungsausgleich degressiv ist, weil die Kaufkraft bei den oberen Lohnklassen deutlich stärker ist. Sie anerkennt aber, dass die Degression momentan bereits relativ schnell beginnt und sie versteht auch,
+dass unter dem Gesichtspunkt der Gleichbehandlung eine Abschaffung nötig sein kann. Sie trägt
+diese Abschaffung im Sinne der Balance des Gesamtpaketes ebenfalls mit.
+Diese Massnahme kostet ab 2027 jährlich Fr. 500’000.
+
+Seite 36/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+9.3
+
+Gleichbehandlung Berufsgruppen
+
+Der Kommissionsminderheit ist es ein zentrales Anliegen, dass Berufsgruppen innerhalb des Kantons nicht gegeneinander ausgespielt werden. Das Lohnmassnahmenpaket trägt diesem Grundsatz konsequent Rechnung: Die Kernmassnahmen – die Anhebung der Lohnkurve und die Erhöhung der Schichtzulagen – kommen allen kantonalen Mitarbeitenden zugute, die in den unteren
+Erfahrungsstufen tätig sind bzw. Schicht- und Wochenenddienst leisten. Die spezifischen Polizeimassnahmen sind eine begründete Ausnahme, die die Minderheit im Sinne eines Kompromisses
+mitträgt. Sie will diese jedoch explizit nicht als Präjudiz für künftige berufsgruppenspezifische Sonderlösungen verstanden wissen.
+Es ist für die Minderheit auch im Sinne der Gleichbehandlung aller Berufsgruppen wesentlich, dass
+das Paket als Ganzes umgesetzt wird. Einerseits, weil eine Teilumsetzung das Gesamtpaket aus
+dem Gleichgewicht brächte und die gewünschte, schnelle Wirkung gefährden würde. Andererseits,
+weil die Minderheit nicht möchte, dass im Plenum des Grossen Rates die Einreihung von Löhnen
+einzelner Berufsgruppen einzeln vorgenommen wird. Diese Politisierung der Löhne von einzelnen
+Berufsgruppen birgt gefährliche Dynamiken. Die Kommissionsminderheit gewichtet zudem den
+Einbezug der Sozialpartner bei der Erarbeitung von tragfähigen und abgestützten Lösungen als
+zentral. Dies ist im Rahmen des Ratschlages der Regierung geschehen. Alle angehörten Vertretungen von Angestelltenverbänden, von der Polizei bis zu den Kantonsangestellten allgemein, haben betont, dass sie das Paket im Sinne einer breit erarbeiteten Lösung mittragen können.
+
+9.4
+
+Dringlichkeit
+
+Der Kommissionsminderheit war es ein zentrales Anliegen, dieses Geschäft angesichts der zugespitzten Situation bei der Kantonspolizei zügig zu behandeln und keine weitere Zeit zu verlieren.
+Es ist selbstverständlich, dass die Behandlung eines Paketes dieser Grössenordnung eine gewisse
+Zeit in Anspruch nimmt. Allerdings zeichnete sich in der Kommissionsberatung schnell ab, dass es
+in der Kommission unterschiedliche Positionen und Auffassungen bezüglich der Dringlichkeit der
+Massnahmen in den verschiedenen Berufsgruppen und Bereichen gibt. Die Minderheit drängte auf
+eine schnelle Umsetzung des vorgeschlagenen Paketes, während die Mehrheit Verschlechterungen und Anpassungen vornehmen wollte, zu denen die Minderheit aber klar und deutlich keine
+Hand bieten wollte.
+Die Kommissionsminderheit wollte von Anfang an verhindern, dass die AMZ für die Polizei verlängert werden muss. Sowohl vom Finanzdepartement, dem Justiz- und Sicherheitsdepartement, dem
+Polizeibeamten-Verband BS und der Arbeitsgemeinschaft der baselstädtischen Staatspersonalverbände (AGSt) wurde frühzeitig und unmissverständlich klargemacht, dass eine Verlängerung der
+AMZ bei der Belegschaft der Polizei negativ aufgenommen werden würde. Die AMZ ist eine befristete Notlösung und keine nachhaltige, strukturelle Verbesserung für langjährige Probleme. Sie ist
+eine Sofortmassnahme – kein Ersatz für ein funktionierendes Lohnsystem. Die AMZ hat zudem
+bekannterweise viele Ungerechtigkeiten innerhalb des Polizeikorps mit sich gebracht. Durch die
+Verlängerung werden diese Ungerechtigkeiten unnötigerweise fortgeführt. Mit einer zügigen Behandlung des Geschäfts wäre eine Verlängerung vermeidbar gewesen. Die Kommissionsminderheit hat bereits am 20. November 2025 den Antrag gestellt, die Schlussabstimmung über das Geschäft vorzunehmen. Aus ihrer Sicht war die Kommission beschlussreif. Damit hätte das Geschäft
+vor Jahresende 2025 im Parlament beraten und die notwendigen Massnahmen eingeführt werden
+können. In der Abstimmung unterlag die Kommissionsminderheit. Auf Grund der Verzögerung der
+Umsetzung fallen neben den Kosten für das erste halbe Jahr 2026 Kosten für die Verlängerung der
+AMZ von 1.7 Mio. Franken für ca. 6 % der Mitarbeitenden des Kantons an.
+Der Kommission wurde von Anfang an klar kommuniziert, dass Veränderungen am Lohnmassnahmenpaket nicht sinnvoll möglich sind – das Paket ist in sich abgestimmt und kann nicht ohne Wirkungsverlust auseinandergenommen werden. Auch die Dringlichkeit der Massnahmen war evident
+und wurde von den zwei Departementen überzeugend dargestellt. Dennoch zog die Kommissionsmehrheit die Behandlung in die Länge und stellte sowohl die präsentierten Zahlengrundlagen sowie
+Seite 37/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+die Notwendigkeit gewisser Massnahmen und deren Umfang infrage. Dabei hatte die Minderheit
+bereits am 20. November klargestellt, dass aus ihrer Sicht grundlegende Änderungen am Paket
+nicht praktikabel sind und verhindern, dass die aufgezeigten Missstände schnell und konkret angegangen werden können. Dies hat sich laut der Minderheit bereits relativ früh in der Beratung gezeigt
+und wurde im Verlauf der Beratungen und der Vorschläge, die diskutiert wurden, zum Teil auch
+bestätigt. Ein Antrag auf Rückweisung im Januar 2026, die nicht im Sinne der Minderheit war, aber
+der die Behandlung des Geschäfts beschleunigt hätte, fand bei der Mehrheit ebenfalls kein Gehör.
+Die Minderheit beantragt aus diesem Grund auch die schnelle Umsetzung des Lohnmassnahmenpaketes per 1. Juli 2026. Der ursprünglich geplante Termin wurde aufgrund der langen Behandlung
+in der Kommission verpasst. Um die Probleme bei der Kantonspolizei und in anderen Berufsgruppen des Kantons jetzt konkret und schnell anzugehen, braucht es nun eine zeitnahe Einführung
+der ersten Massnahmen.
+
+9.5
+
+Effekte des Lohnmassnahmenpaketes
+
+Die nachfolgenden Beispiele zeigen auf, was für finanzielle Auswirkungen die Anhebung der Lohnkurve, die Erhöhung der Zulagen sowie im Bereich der Polizei die zusätzliche Erfahrungsstufe haben. Für die Kommissionsminderheit ist es wichtig, die Diskussion anhand konkreter Beispiele und
+auch verschiedener Realitäten und Berufsgruppen im Kanton zu führen.
+
+Abb. 2
+
+Wie in der obigen Grafik ersichtlich, würde eine Person im kantonalen IT-Support Fr. 424 pro Monat
+mehr erhalten, eine Pflegefachperson Fr. 624 mehr und eine Person bei der Polizei Fr. 737 pro
+Monat mehr (alle jeweils in Lohnklasse 11 und Erfahrungsstufe 1).
+
+Abb. 3
+
+In der Feuerwehr würde die Erhöhung für eine Person (Lohnklasse 11) Fr. 624 bedeuten, für eine
+Person in der Stadtreinigung (Lohnklasse 5) Fr. 312 und für eine Gärtnerin oder einen Gärtner
+(Lohnklasse 9) Fr. 378 mehr pro Monat (alle jeweils mit Erfahrungsstufe 1).
+
+Seite 38/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+Abb. 4
+
+In Tagesstrukturen würde die Erhöhung für eine Person (Lohnklasse 7) Fr. 341 bedeuten, für eine
+Primarlehrperson (Lohnklasse 15) Fr. 551 und für eine Kindergartenlehrperson (Lohnklasse 14) Fr.
+514 mehr pro Monat (alle jeweils mit Erfahrungsstufe 1).
+
+Abb. 5
+
+Für eine Person, die Busse oder Trams fährt (Lohnklasse 9) bedeutet dies pro Monat eine Erhöhung von Fr. 508, für Fachperson Wohnen im LIV (Leben in Vielfalt, Lohnklasse 10) Fr. 399 und
+für eine Person in der Rettungssanität (Lohnklasse 13) Fr. 481(alle jeweils mit Erfahrungsstufe 1).
+Eine Teilumsetzung des Pakets würde diese Erhöhungen gefährden – oder gar verunmöglichen.
+Angesichts des Personalunterbestands, insbesondere bei der Polizei, und den allgemein oben beschriebenen anstehenden Herausforderungen wäre das weder zielführend noch das nötige Zeichen gegenüber den Mitarbeitenden des Kantons.
+
+9.6
+
+Verknüpfung Kündigungsmodalitäten
+
+Die geplante Verknüpfung der Kündigungsmodalitäten mit dem vorliegenden Paket ist aus Sicht
+der Minderheit falsch. Die vorgeschlagenen Änderungen bei den Kündigungsmodalitäten stellen
+eine deutliche Verschlechterung für das Kantonspersonal dar und schwächen die bisher geltenden
+Schutzmechanismen. Gleichzeitig bietet das von der Mehrheit der Kommission vorgeschlagene
+Paket bei den Lohnmassnahmen keine angemessene Kompensation für diese Nachteile. Die vorgesehenen Anpassungen sind unzureichend, um die negativen Auswirkungen auf die Beschäftigten auszugleichen. Bereits während der Beratungen wurde deutlich, dass die Mehrheit der Kommission das Paket in zentralen Punkten verschlechtern will. Daher war eine Verknüpfung der
+beiden Pakete im Sinne eines Kompromisses aus Sicht der Minderheit auch nicht mehr angezeigt
+oder zielführend. Die Minderheit lehnt es daher ab, die Verschärfung der Kündigungsmodalitäten
+mit einem Paket zu verbinden, das aus ihrer Sicht die Probleme im Lohnbereich nicht überzeugend
+adressiert. Die Kommissionsminderheit fordert daher, die Kündigungsmodalitäten unabhängig von
+dem aus ihrer Sicht unausgereiften und unausgewogenen Paket der Mehrheit zu behandeln.
+
+Seite 39/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+9.7
+
+Stellungnahme zu Vorschlägen der Kommissionsmehrheit
+
+Die Kommissionsmehrheit hat weitreichende Änderungen am zwischen den Departementen und
+Sozialpartnern abgestimmten und ausgewogenen Vorschlag des Regierungsrates eingebracht.
+Diese verändern das Lohnmassnahmenpaket in wesentlichen Teilen. Die Kommissionsminderheit
+konnte sich nur sehr kurzfristig und zeitlich begrenzt mit den Vorschlägen auseinandersetzen. Sie
+nimmt im Folgenden kurz zu der Variante Stellung und erklärt, aus welchen Gründen sie diese
+ablehnt:
+●
+
+Erstens greift der Mehrheitsvorschlag in das sorgfältig ausbalancierte Gesamtpaket ein,
+ohne die Folgen für das Gesamtsystem zu berücksichtigen. Das Finanzdepartement und
+das Justiz- und Sicherheitsdepartement haben wiederholt und klar dargelegt, dass Teilumsetzungen die gewünschte Wirkung in Frage stellen. Werden einzelne Elemente – insbesondere die Anpassung der Lohnkurve und die Schichtzulagen – gekürzt, verliert das
+Paket seine Schlagkraft. Der vorgeschlagene Verzicht auf die Anpassung der Einstiegslöhne zwischen den Stufen 5 bis 11 wirkt sich auch auf die Mitarbeitenden der Kantonspolizei aus und wird durch die Ersatzmassnahmen nicht vollständig aufgefangen. Dies verdeutlicht, dass die Version des Regierungsrates, welchen die Minderheit unterstützt, im
+Gegensatz zum Mehrheitsvorschlag eben gut ausbalanciert ist.
+
+●
+
+Zweitens verstärkt der Mehrheitsvorschlag die Ungleichbehandlung zwischen Berufsgruppen. Er spielt einzelne Berufsgruppen gegeneinander aus, ohne die Sozialpartner einzubinden. Das ist ein hochriskantes Spiel: Es schafft Unmut und Missgunst und führt damit zu
+Unzufriedenheit. Dabei verdreht die Mehrheit das Ziel des Pakets mittelfristig Personalengpässe zu verhindern ins Gegenteil. Es erschliesst sich nicht, warum der Gleichbehandlungsgrundsatz, der das kantonale Lohnsystem prägt, leichtfertig aufgegeben werden und
+damit der Zusammenhalt in der Verwaltung gefährdet werden soll.
+
+●
+
+Wenig sinnvoll erscheint es der Kommissionsminderheit auch, gegenüber dem Vorschlag
+des Regierungsrates die Schichtzulagen zu kürzen und dafür nur bei der Polizei eine Aussendienstzulage zu sprechen. Zur Wichtigkeit der Schichtzulagen hat die Minderheit in ihrem Bericht oben ausführlich Stellung genommen. Die Kürzung auf einen Viertel ist aus
+ihrer Sicht kurzfristig und kontraproduktiv. Die Einführung der Aussendienstzulage ist für sie
+exemplarisch für eine Ungleichbehandlung und den problematischen Versuch, nur genau
+eine Berufsgruppe gezielt besser zu stellen. Es ist nicht nachvollziehbar, wieso beispielsweise Mitarbeitende bei der Feuerwehr oder der Sanität, die bei ihren Einsätzen ebenso
+persönlichen Risiken ausgesetzt sind, benachteiligt werden sollen. Auch die Ungleichbehandlung innerhalb der Polizei ist problematisch. Bereits die ungleichen Beträge bei der
+AMZ haben zu erheblichen Unstimmigkeiten innerhalb des Polizeikorps geführt. Die Mehrheit ignoriert diese Erfahrungen. Diesen Vorschlag und diese Vorgehensweise lehnt die
+Kommissionsminderheit mit Nachdruck ab.
+
+●
+
+Die Minderheit lehnt auch das vorgeschlagene Konkurrenzverbot, welches verankert werden soll, ab. Der Kanton steht grundsätzlich im Wettbewerb mit verschiedenen Arbeitgeberinnen, seien sie staatlich oder privat. Die Anstellungsbedingungen beim Kanton sind Sache
+der politischen Entscheidungsträgerinnen in Regierung und Parlament unter Einbezug der
+Sozialpartner. Dass diese in Abhängigkeit von privaten Arbeitsverhältnissen definiert werden sollen, gibt Privaten eine Macht, die nicht demokratisch legitimiert ist. Private Vertragsverhältnisse, bei denen die Politik keine Mitsprache hat, sollen auf automatische Weise den
+Spielraum kantonaler Anstellungsbedingungen vorgeben. Das ist demokratiepolitisch äusserst fragwürdig und deshalb abzulehnen. Formal falsch findet die Kommissionsminderheit
+auch, dass im Lohngesetz eine Aufzählung mit Beispielcharakter (“z.B. Lohnnebenleistungen, Vorsorgeleistungen”) eingeführt werden soll.
+
+Zusammenfassend hält die Minderheit die Anpassungen der Mehrheit nicht für sinnvoll. Sie verringern die Wirkung des Massnahmenpakets im Hinblick auf eine vorausschauende Personalpolitik,
+ohne einen wirklichen Mehrwert zu bieten. Sie bedauert zudem, dass die Ausarbeitung dieser Anträge wertvolle Zeit gekostet hat.
+
+Seite 40/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+10.
+
+Antrag der Kommissionsminderheit
+
+Die Minderheit der Wirtschafts- und Abgabekommission beantragt dem Grossen Rat einstimmig
+die Zustimmung zum nachfolgenden Grossratsbeschluss sowie die Abschreibung
+-
+
+der Motion Pascal Messerli und Michael Hug betreffend «der Polizeiberuf muss in BaselStadt wieder attraktiv werden: Lohnerhöhung jetzt!»
+und des Anzugs Michael Hug und Tobias Christ betreffend «Verbesserungen der Arbeitsbedingungen für Kantonsangestellte im Schicht- und Wochenenddienst».
+
+Die Minderheit der Wirtschafts- und Abgabekommission hat diesen Bericht am 26. März 2026
+einstimmig verabschiedet und Pascal Pfister zu ihrem Sprecher bestimmt.
+
+Im Namen der Kommissionsminderheit:
+Pascal Pfister
+
+Seite 41/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+Lohngesetz (LG)
+Änderung vom [Datum]
+Der Grosse Rat des Kantons Basel-Stadt,
+nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 25.0674.01 vom 27. Mai 2025 sowie in den
+Bericht der Wirtschafts- und Abgabekommission Nr. 25.0674.01 vom 26. März 2026,
+beschliesst:
+I.
+Lohngesetz (LG) vom 18. Januar 1995 7) (Stand 13. Februar 2025) wird wie folgt geändert:
+§ 22 Abs. 2 (aufgehoben)
+2
+
+Aufgehoben.
+
+Anhänge
+Anhang 164.100.2: Anhang 2 Stufenverlauf (geändert)
+II. Änderung anderer Erlasse
+Keine Änderung anderer Erlasse.
+III. Aufhebung anderer Erlasse
+Keine Aufhebung anderer Erlasse.
+IV. Schlussbestimmung
+Diese Änderung ist zu publizieren; sie unterliegt dem Referendum und tritt nach der Publikation des unbenutzten Ablaufs der Referendumsfrist am 1. Juli 2026 in Kraft.
+
+[Behörde]
+[Funktion 1]
+[NAME 1]
+[Funktion 2]
+[NAME 2]
+
+7)
+
+SG 164.100
+
+Seite 42/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+Anhang 2
+Stufenverlauf gültig ab 1. Juli 2026
+Stufen
+
+Lohn in Prozent im Vergleich zur Veränderung des Lohns im Vergleich
+Stufe 1 des bisherigen Stufenver- zur vorigen Stufe in Prozentpunkten
+laufs
+
+A 8)
+
+94,00 %
+
+B
+
+97,25 %
+
+3,25 %
+
+C
+
+100,50 %
+
+3,25 %
+
+1
+
+103,75 %
+
+3,25 %
+
+2
+
+106,75 %
+
+3%
+
+3
+
+109,75 %
+
+3%
+
+4
+
+112,25 %
+
+2,5 %
+
+5
+
+114,75 %
+
+2,5 %
+
+6
+
+116,75 %
+
+2%
+
+7
+
+118,75 %
+
+2%
+
+8
+
+120,75 %
+
+2%
+
+9
+
+122,75 %
+
+2%
+
+10
+
+124,50 %
+
+1,75 %
+
+11
+
+126,25 %
+
+1,75 %
+
+12
+
+128,00 %
+
+1,75 %
+
+13
+
+129,0 %
+
+1%
+
+14
+
+130,0 %
+
+1%
+
+15
+
+131,0 %
+
+1%
+
+16
+
+132,0 %
+
+1%
+
+17
+
+133,0 %
+
+1%
+
+134,0 %
+
+1%
+
+135,0 %
+
+1%
+
+20
+
+135,0 %
+
+0%
+
+21
+
+136,5 %
+
+1,5 %
+
+22
+
+136,5 %
+
+0%
+
+23
+
+138,0 %
+
+1,5 %
+
+24
+
+138,0 %
+
+0%
+
+25
+
+139,5 %
+
+1,5 %
+
+26
+
+139,5 %
+
+0%
+
+27
+
+141,0 %
+
+1,5 %
+
+28
+
+141,0 %
+
+0%
+
+29
+
+142,5 %
+
+1,5 %
+
+18
+19
+
+9)
+
+8)
+
+Anlaufstufen A, B und C
+
+9)
+
+Zweijahresstufen 19/20, 21/22. 23/24, 25/26, 27/28 und 29/30
+
+Seite 43/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+30
+
+142,5 %
+
+0%
+
+31
+
+144,0 %
+
+1,5 %
+
+Seite 44/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+Lohngesetz (LG)
+Änderung vom [Datum]
+Der Grosse Rat des Kantons Basel-Stadt,
+nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 25.0674.01 vom 27. Mai 2025 sowie in den
+Bericht der Wirtschafts- und Abgabekommission Nr. 25.0674.02 vom 26. März 2026,
+beschliesst:
+I.
+Lohngesetz (LG) vom 18. Januar 1995 10) (Stand 13. Februar 2025) wird wie folgt geändert:
+Anhänge
+Anhang 164.100.2: Anhang 2 Stufenverlauf (geändert)
+II. Änderung anderer Erlasse
+Keine Änderung anderer Erlasse.
+III. Aufhebung anderer Erlasse
+Keine Aufhebung anderer Erlasse.
+IV. Schlussbestimmung
+Diese Änderung ist zu publizieren; sie unterliegt dem Referendum und tritt nach der Publikation des unbenutzten Ablaufs der Referendumsfrist am 1. Januar 2027 in Kraft.
+
+[Behörde]
+[Funktion 1]
+[NAME 1]
+[Funktion 2]
+[NAME 2]
+
+10)
+
+SG 164.100
+
+Seite 45/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+Anhang 2
+Stufenverlauf gültig ab 1. Januar 2027
+Stufen
+
+Lohn in Prozent im Vergleich zur
+Stufe A
+
+A 11)
+
+100,0%
+
+B
+
+102,5%
+
+2,5%
+
+C
+
+105,0%
+
+2,5%
+
+1
+
+107,5%
+
+2,5%
+
+2
+
+109,5%
+
+2%
+
+3
+
+111,5%
+
+2%
+
+4
+
+113,5%
+
+2%
+
+5
+
+115,5%
+
+2%
+
+6
+
+117,5%
+
+2%
+
+7
+
+119,5%
+
+2%
+
+8
+
+121,5%
+
+2%
+
+9
+
+123,5%
+
+2%
+
+10
+
+125,0%
+
+1,5%
+
+11
+
+126,5%
+
+1,5%
+
+12
+
+128,0%
+
+1,5%
+
+13
+
+129,0%
+
+1%
+
+14
+
+130,0%
+
+1%
+
+15
+
+131,0%
+
+1%
+
+16
+
+132,0%
+
+1%
+
+17
+
+133,0%
+
+1%
+
+134,0%
+
+1%
+
+135,0%
+
+1%
+
+20
+
+135,0%
+
+0%
+
+21
+
+136,5%
+
+1,5%
+
+22
+
+136,5%
+
+0%
+
+23
+
+138,0%
+
+1,5%
+
+24
+
+138,0%
+
+0%
+
+25
+
+139,5%
+
+1,5%
+
+26
+
+139,5%
+
+0%
+
+27
+
+141,0%
+
+1,5%
+
+28
+
+141,0%
+
+0%
+
+29
+
+142,5%
+
+1,5%
+
+18
+19
+
+12)
+
+11)
+
+Anlaufstufen A, B und C
+
+12)
+
+Zweijahresstufen 19/20, 21/22. 23/24, 25/26, 27/28 und 29/30
+
+Veränderung des Lohns im Vergleich zur vorigen Stufe in Prozentpunkten
+
+Seite 46/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+30
+
+142,5%
+
+0%
+
+31
+
+144,0%
+
+1,5%
+
+Seite 47/48
+
+Grosser Rat des Kantons Basel-Stadt, Wirtschafts- und Abgabekommission (WAK)
+
+Grossratsbeschluss
+Bewilligung der Mehrausgaben infolge Lohnmassnahmen zur Steigerung der Arbeitgeberattraktivität sowie Ablösung der befristeten
+Arbeitsmarktzulage für Mitarbeitende der Kantonspolizei
+(vom [Datum eingeben])
+Der Grosse Rat des Kantons Basel-Stadt, nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 25.0674.01 vom 27. Mai 2025 und sowie in den Bericht der Wirtschafts- und Abgabekommission Nr. 25.0674.02 vom 26. März 2026, beschliesst:
+1. Für die Umsetzung der Lohnmassnahmen zur Steigerung der Arbeitgeberattraktivität sowie
+Ablösung der befristeten Arbeitsmarktzulage für Mitarbeitende der Kantonspolizei werden
+Ausgaben von Fr. 24’500'000 bewilligt.
+Diese Ausgaben teilen sich wie folgt auf:
+-
+
+-
+
+-
+
+-
+
+Fr. 13'500'000 wiederkehrende Ausgaben ab 2027 (für 2026 Fr. 3'375’000) für die Finanzierung der Mehrkosten aufgrund der Anpassung der Lohnkurve zu Lasten der Erfolgsrechnung des Finanzdepartements.
+Fr. 1'200'000 wiederkehrende Ausgaben ab 2027 (für 2026 Fr. 300’000) für die Finanzierung der Mehrkosten für die Finanzierung der aufgrund der Anpassung der Lohnkurve erhöhten Staatsbeiträge Kinderbetreuung zu Lasten der Erfolgsrechnung des Erziehungsdepartements (Dienststelle Jugend, Familie und Sport).
+Fr. 500'000 wiederkehrende Ausgaben ab 2027 für die Finanzierung der Mehrkosten
+infolge Aufhebung der Degression beim Teuerungsausgleich zu Lasten der Erfolgsrechnung des Finanzdepartements.
+Fr. 3'100'000 wiederkehrende Ausgaben ab 2027 für die Erhöhung der Geldzulagen für
+Nacht-, Sonn- Feiertags- und Pikettdienst gemäss §§ 23 bis 33 der Verordnung zur Arbeitszeit der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt vom 6. Juli 2004
+(Arbeitszeitverordnung, AZV, SG 162.200) zu Lasten der Erfolgsrechnung des Kantons Basel-Stadt (für 2026 Fr. 1'550'000).
+Fr. 1'600'000 wiederkehrende Ausgaben ab 2027 für die Erhöhung der Einstufung ad
+personam der Mitarbeitenden der Kantonspolizei und der Kriminalpolizei auf Polizeistellen bis und mit Lohnklasse 16 um je eine Erfahrungsstufe zu Lasten der Erfolgsrechnung des Justiz- und Sicherheitsdepartements (Dienststelle Kantonspolizei) (für 2026
+Fr. 800'000).
+Fr. 700'000 wiederkehrende Ausgaben ab 2027 für die Erhöhung der Ausbildungslöhne
+bei der Kantonspolizei zu Lasten der Erfolgsrechnung des Justiz- und Sicherheitsdepartements (Dienststelle Kantonspolizei) (für 2026 Fr. 350'000).
+Fr. 3'900'000 einmalige Ausgaben für den Ausgleich verbleibender Einkommenseinbussen aufgrund des Wegfalls der Arbeitsmarktzulage zu Lasten der Erfolgsrechnung des
+Justiz- und Sicherheitsdepartements (Dienststelle Kantonspolizei).
+
+Dieser Beschluss ist zu publizieren. Er untersteht dem Referendum.
+
+Seite 48/48
+
+

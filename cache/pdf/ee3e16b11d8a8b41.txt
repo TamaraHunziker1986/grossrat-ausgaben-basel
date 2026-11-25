@@ -1,0 +1,25 @@
+Motion betreffend zentrale Verantwortlichkeit in der kantonalen Informatik
+
+24.5261.01
+
+Aufgrund der Erkenntnisse aus den Jahresberichten der GPK erscheint den Unterzeichnenden eine zentrale und
+departementsübergreifende Organisation im Bereich der Informatik zwingend erforderlich. Sicherheit und
+Kompatibilität der Systeme, aber auch Synergien im Einkauf und bei der Implementierung müssen nicht nur
+bezüglich der Verantwortung geklärt sein, sie müssen auch kantonsweit gelenkt, geleitet, geplant und
+durchgesetzt werden. Nur so kann die Sicherheit gewährleistet werden.
+Angesichts der vielen in den Berichten der Finanzkontrolle festgestellten Mängel der IT BS und aufgrund des
+Cybersicherheitsvorfalls beim ED fordern die Motionäre deshalb eine zentrale Zuständigkeit bei einer einzigen
+kantonalen Stelle für alle Belange der IT.
+IT BS muss mehr Kompetenzen erhalten hin bis zu einem direkten departementsübergreifenden Weisungsrecht.
+Die gesetzlichen und allenfalls verfassungsrechtlichen Grundlagen sind dementsprechend anzupassen. Zudem
+sind zentrale IT-Aufgabengebiete zu definieren, für welche ausschliesslich IT BS zuständig ist. Einzig für
+spezifische Fachanwendungen sollen die Departemente zuständig bleiben, jedoch die technischen Vorgaben wie
+Schnittstellen, Sicherheit etc. vorab mit der IT BS klären. IT BS ist in diese Entscheide einzubeziehen und muss
+auch da, wenn eine sachliche Begründung vorliegt, ein Vetorecht haben. Innerhalb von IT BS muss klar sein, wer
+wofür verantwortlich ist und wer die Entscheide gegenüber der Regierung vertritt.
+Aus diesem Grund fordern die Motionäre den Regierungsrat auf, dem Grossen Rat innert eines Jahres die
+gesetzlichen und allenfalls verfassungsrechtlichen Grundlagen für eine Zentralisierung der IT bei einer einzigen,
+den anderen Departementen gegenüber weisungsbefugten Instanz, vorzulegen.
+Für die Geschäftsprüfungskommission: Tim Cuénod, Präsident
+
+

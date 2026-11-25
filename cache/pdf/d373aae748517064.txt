@@ -1,0 +1,167 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+24.5423.02
+
+ED/P245423
+Basel, 12. Februar 2025
+Regierungsratsbeschluss vom 11. Februar 2025
+
+Motion Oliver Thommen und Sandra Bothe betreffend Messenger
+Dienst für die Basler Volksschulen; Stellungnahme
+Der Grosse Rat hat an seiner Sitzung vom 20. November 2024 die nachstehende Motion Oliver Thommen und Sandra Bothe dem Regierungsrat zur Stellungnahme überwiesen:
+«Im Ratschlag von 2012 "Erweiterung der Informations- und Kommunikationstechnologien an der
+Volksschule Basel-Stadt (ICT@BS)" legte die Organisation IGT Medien die Grundlage für die Zentralisierung und den Ausbau der IT-Dienstleistungen an den Basler Volksschulen. Ab 2014 standen weitere Mittel zur Verfügung, um die IT-lnfrastruktur an die höheren Anforderungen z. B. durch den Ausbau
+von Servern und Software anzupassen. Mit dem zweiten Ratschlag von 2019 zum "Ausbau der Digitalisierung der Volksschulen und des Zentrums für Brückenangebote" wurde dieser Prozess weitergeführt. Die Massnahmen verbesserten die IT-Architektur erheblich, reduzierten die Komplexität und ermöglichten den Ausbau von Diensten wie Microsoft Teams.
+Ziel war es, die Schulen vollständig von IT-Aufgaben zu entlasten und Synergien zu fördern. Um noch
+mehr Synergien zu nutzen und den Datenschutz zu sichern war mit Edulog ein weiterer Schritt geplant,
+der einen einfachen und sicheren Zugang zu diversen Online-Diensten (Lehrmittel etc.) für Schulen
+bietet.
+In der Beantwortung der Interpellation Nr. 45 (24.5137) nimmt die Regierung Stellung. U. a. schreibt
+sie: "... die Beschaffung von Kommunikations-Apps nicht kantonal zu organisieren, sondern den Entscheid über den Einsatz in der Verantwortung der teil-autonomen Schulen zu belassen. In der Beantwortung der Schriftlichen Anfrage (24.5216) wird weiter ausgeführt, dass die Schulstandorte die Aufwände über das Standortbudget zu finanzieren haben."
+Dieser Entscheid soll dem Umstand Rechnung tragen, dass gemäss der "Verordnung für die Schulleitungen der Volksschulen" die Schulleitung im Rahmen des Schulpro-gramms die Kooperation mit den
+Erziehungsberechtigten regelt." Diese Begründung ist in mehrerlei Hinsicht unverständlich. So wird
+z. B. auch das Kommunikationsmittel E-Mail für Lehrpersonen und Schülerinnen zentral beschafft und
+unterhalten. Zentrale Beschaffungen ermöglichen eine Ausschreibung, die auf Grund des Wettbewerbs durch verschiedene Anbieterangebote zu tieferen Preisen führen. Bereits vorhandene Nutzendendaten von Eltern und Lehrpersonen können automatisch von der zentralen Datenbank, die jetzt
+schon die eduBS-Umgebung speist, importiert werden.
+Genau diese Zentralisierung wurde mit den beiden Ratschlägen angestrebt, um die Schulen von Beschaffungs- und Unterhaltsarbeiten zu entlasten, damit sie sich ihren zentralen Aufgaben widmen können. Zudem wurde das Budget der Schulen nicht entsprechend aufgestockt, um eine Aufgabe wie die
+Anschaffung eines Messenger-Dienstes finanzieren zu können. De facto müssen die Schuten ihr sowieso schon knappes Budget belasten, das viel nutzbringender den Schüler:innen zugutekommen
+müsste. Wenn man dann noch das Budget in Betracht zieht, dass der Grosse Rat im 2019 gesprochen
+hatte, dann ist die Finanzierungsfrage klar beantwortet. Die Nachfolgeorganisation DIG-ITvom ED ist
+
+Den Mitgliedern des Grossen Rates des Kantons Basel-Stadt zugestellt am 14. Februar 2025.
+
+Seite 1/4
+
+Regierungsrat des Kantons Basel-Stadt
+
+sowohl mit der Beschaffung, der Installation, dem Betrieb und der Finanzierung zu beauftragen. Auch
+ICT-Medien hatte solche verhältnismässig kleinen Neuanschaffungen für die Schulen mit ihrem damaligen Budget gestemmt, als klare Dienstleistung für die Schulen.
+Nicht zuletzt - andere Städte lösen solche Fragen, wie Basel ursprünglich auch, zentral (bspw. Bern).1
+Aufgrund des aktuellen Flickenteppichs im Kanton Basel-Stadt bei den Schulkommunikations-lnstrumenten soll die Beschaffung unter Berücksichtigung der Bedürfnisse der Schulleitungen erfolgen.
+Die Unterzeichnenden der Motion fordern den Regierungsrat auf, innert zwei Jahren für einen datenschutzkonformen Schul-Messenger-Dienst für alle Volksschulen zu sorgen. Schulen, die bereits einen
+Messenger-Dienst im Einsatz haben, der dann auf Grund der Ausschreibung allenfalls abgelöst wird,
+erhalten eine Übergangszeit von längstens 5 Jahren, um auf den kantonalen Schul-Messenger umzusteigen.
+1 https://www.inside-it.ch/stadtberner-schulen-erhalten-einen-schweizer-messenger-20230810
+
+Oliver Thommen, Sandra Bothe»
+
+Wir nehmen zu dieser Motion wie folgt Stellung:
+
+1.
+
+Zur rechtlichen Zulässigkeit der Motion
+
+1.1
+
+Grundlagen des Motionsrechts
+
+Mit einer Motion kann der Grosse Rat den Regierungsrat verpflichten, eine Verfassungs- oder Gesetzesvorlage oder eine Vorlage für einen Grossratsbeschluss vorzulegen (§ 42 Abs. 1 des Gesetzes über die Geschäftsordnung des Grossen Rates vom 29. Juni 2006 [GO; SG 152.100]) oder
+eine Massnahme zu ergreifen (§ 42 Abs. 1bis GO). Der Grosse Rat kann dem Regierungsrat also
+sowohl in seinem eigenen Zuständigkeitsbereich als auch im Zuständigkeitsbereich des Regierungsrats Aufträge erteilen.
+Das Recht setzt dem Grossen Rat bezüglich Motionsbegehren allerdings auch Schranken, die in
+der Gewaltenteilung, im Gesetzmässigkeits-, im Föderalismus- und im Demokratieprinzip gründen.
+So darf eine Motion nicht gegen höherrangiges Recht verstossen (wie Bundesrecht, interkantonales Recht oder kantonales Verfassungsrecht). Zudem ist gemäss § 42 Abs. 2 GO eine Motion unzulässig, die einwirken will auf
+ den verfassungsrechtlichen Zuständigkeitsbereich des Regierungsrats,
+ einen Einzelfallentscheid,
+ einen in gesetzlich geordnetem Verfahren zu treffenden Entscheid oder
+ einen Beschwerdeentscheid.
+
+1.2
+
+Motionsforderung
+
+Mit der vorliegenden Motion wird der Regierungsrat beauftragt, «innert zwei Jahren für einen datenschutzkonformen Schul-Messenger-Dienst für alle Volksschulen zu sorgen. Schulen, die bereits
+einen Messenger-Dienst im Einsatz haben, der dann auf Grund der Ausschreibung allenfalls abgelöst wird, erhalten eine Übergangszeit von längstens 5 Jahren, um auf den kantonalen Schul-Messenger umzusteigen».
+
+1.3
+
+Rechtliche Prüfung
+
+Die Motion betrifft die Einführung eines kantonalen datenschutzkonformen Schul-MessengerDienstes. Die Forderung ist sowohl mit dem Bundesrecht als auch mit dem interkantonalen Recht
+(namentlich der Interkantonalen Vereinbarung über die Harmonisierung der obligatorischen Schule
+vom 14. Juni 2007, HarmoS; SG 419.600) vereinbar.
+
+Seite 2/4
+
+Regierungsrat des Kantons Basel-Stadt
+
+Gemäss § 87c Abs. 3 Schulgesetz vom 4. April 1929 (SG 410.100) verfügen die Schulleitungen
+der Volksschule zur Erfüllung des Bildungs-, Erziehungs- und Betreuungsauftrags in pädagogischen, personellen, organisatorischen und finanziellen Bereichen über Teilautonomie. Gestützt auf
+§ 74 Abs. 2 lit. o Schulgesetz wurde die Verordnung für die Schulleitungen der Volksschulen vom
+26. Juni 2012 (SG 411.350) erlassen, welche weitere Bestimmungen enthält.
+Die Motion ist generell und offen formuliert. Es ist daher davon auszugehen, dass der Regierungsrat mit der Motion beauftragt werden soll, alle notwendigen Anpassungen für die Einführung eines
+datenschutzkonformen Schul-Messenger-Dienstes für die Volksschulen vorzunehmen. Welche
+Massnahmen erforderlich sind, damit die Motionsforderung umgesetzt werden kann, wird der Prüfung durch den Regierungsrat anheimgestellt. Dem Regierungsrat bleibt ein grosser Spielraum bei
+der Umsetzung. So gibt die Motion insbesondere nicht vor, welcher Schul-Messenger-Dienst gewählt werden oder in welchen Fällen dieser eingesetzt werden muss. Demnach verlangt die Motion
+nicht etwas, das sich auf den verfassungsrechtlichen Zuständigkeitsbereich des Regierungsrates,
+auf einen Einzelfallentscheid, auf einen in gesetzlich geordnetem Verfahren zu treffenden Entscheid oder einen Beschwerdeentscheid bezieht.
+
+1.4
+
+Schlussfolgerung
+
+Die Motion ist als rechtlich zulässig anzusehen.
+
+2.
+
+Ausgangslage
+
+Spezifische Messenger-Dienste für den Einsatz im schulischen Umfeld sind relativ neu, haben sich
+jedoch in den letzten Jahren zunehmend etabliert. Der Markt entwickelt sich sehr dynamisch und
+das Angebot potenzieller Alternativen wächst stetig. Die Applikationen unterscheiden sich betreffend Funktionsumfang und Nutzungsfreundlichkeit. Bei der Einführung einer solchen Anwendung,
+ist ein besonderes Augenmerk ist auf den Datenschutz und die Datensicherheit zu legen.
+
+3.
+
+Messenger-Dienste an den Basler Volksschulen
+
+An den Basler Volksschulen werden Messenger-Dienste für die Kommunikation zwischen Schule
+(Schulleitung, Lehr- und Fachpersonen) und Erziehungsberechtigten eingesetzt. Damit können andere Kommunikationskanäle wie E-Mail oder Brief abgelöst werden. Die Kommunikation mit Schülerinnen und Schülern wie auch die Kommunikation zwischen Schulleitung und Kollegium sowie
+innerhalb des Kollegiums findet nicht über den Messenger-Dienst statt.
+Aktuell sind die Schulen nicht verpflichtet, einen Messenger-Dienst für die Elternkommunikation
+einzusetzen. Bei Bedarf wählt jeder Schulstandort selbständig aus dem «educa Navigator» 1 eine
+geeignete App aus.
+An den Sekundarschulen des Kantons Basel-Stadt wird nur der Messenger-Dienst von
+Klapp GmbH eingesetzt. An den Primarstufen der Stadt Basel kommt neben der Klapp-App eine
+weitere Anwendung, die School-App von Avdis AG, zum Einsatz. Beide Unternehmen sind in der
+Schweiz ansässig und gewährleisten, dass die Daten in der Schweiz gespeichert werden.
+
+4.
+
+Einschätzung
+
+Obwohl die Schulen bislang einen ihren Bedürfnissen entsprechenden Messenger Dienst auswählen konnten, hat die Vereinheitlichung längst stattgefunden. Neben der mehrheitlich eingesetzten
+Klapp-App wird nur an einzelnen Primarstufen der Stadt Basel die School-App für die Elternkommunikation verwendet. Die Aussage der Motionärin und des Motionärs, in Basel-Stadt bestünde
+1 https://navi.educa.ch/
+
+Seite 3/4
+
+Regierungsrat des Kantons Basel-Stadt
+
+bezüglich des Einsatzes von Messenger Diensten an den Schulen ein Flickenteppich, ist daher
+nicht zutreffend.
+Beim Erziehungsdepartement laufen bereits Bemühungen, die Beschaffung und den Einsatz von
+Messenger-Diensten an den Volksschulen einheitlicher zu regeln. Dabei wird auch abgeklärt, ob
+künftig nur noch eine App eingesetzt werden soll und welche Kriterien dabei berücksichtigt werden
+müssen.
+
+5.
+
+Antrag
+
+Auf Grund dieser Stellungnahme beantragen wir, die Motion Oliver Thommen und Sandra Bothe
+betreffend «Messenger Dienst für die Basler Volksschulen» dem Regierungsrat als Anzug zu überweisen.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Dr. Conradin Cramer
+Regierungspräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Seite 4/4
+
+

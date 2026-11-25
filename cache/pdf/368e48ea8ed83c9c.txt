@@ -1,0 +1,219 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+23.5477.02
+
+FD/P235477
+Basel, 31. Januar 2024
+Regierungsratsbeschluss vom 30. Januar 2024
+
+Motion Luca Urgese und Konsorten betreffend «automatisch ausgefüllte Steuererklärung»; Stellungnahme
+Der Grosse Rat hat an seiner Sitzung vom 8. November 2023 die nachstehende Motion Luca Urgese und Konsorten dem Regierungsrat zur Stellungnahme überwiesen:
+«Seit 2021 können alle steuerpflichtigen natürlichen Personen auf dem Portal eSteuern.BS ihre
+Steuererklärung komplett digital ausfüllen und einreichen. Dies stellt für Steuerpflichtige einen
+echten Mehrwert dar, entfällt doch seither das Einsenden von analogen Unterlagen.
+In der Beantwortung des Anzugs Luca Urgese und Konsorten betreffend «Digitalisierung vorantreiben – Steuererklärung online ausfüllen» hielt der Regierungsrat fest, dass langfristig die vorausgefüllte Steuererklärung möglich sein soll. Dies werde im Rahmen der geplanten Erweiterungsschritte geprüft (vgl. 19.5193.03, S. 3).
+Auch wenn mit der digitalen Steuererklärung ein wesentlicher Schritt gemacht werden konnte,
+schöpft der heutige Steuerveranlagungsprozess das volle Potenzial der Digitalisierung bei Weitem noch nicht aus. So verfügt der Kanton bereits heute über zahlreiche relevante Informationen,
+die für die Veranlagung genützt werden können:
+-
+
+Arbeitgebende sind verpflichtet, den Lohn ihrer Arbeitnehmerinnen und Arbeitnehmer direkt
+der Steuerverwaltung zu melden (sog. Lohnmeldeverfahren).
+
+-
+
+Der Kanton schickt Liegenschaftseigentümern jährlich die aktuellen Liegenschafts- und Eigenmietwerte, welche diese via Steuererklärung wieder an den Kanton zurückschicken müssen.
+
+-
+
+Der Kanton weiss aufgrund des Einwohnerregisters, wer wie viele Kinder in welchem Alter
+hat und kennt aufgrund früherer Steuerveranlagungen auch die Sorgerechtssituation, die er
+als Vorschlag automatisch in das Folgejahr übernehmen könnte, bis die Steuerpflichtigen
+eine Veränderung melden.
+
+-
+
+Aufgrund einer kürzlich vom Grossen Rat beschlossenen Gesetzesrevision kennt der Kanton künftig auch von der Arbeitslosenversicherung erhaltene Leistungen.
+
+Diese Aufzählung ist wohl nicht vollständig. Auch weitere steuerrelevante Informationen dürften
+dem Kanton bereits vorliegen. Es ist nicht ersichtlich, weshalb der Kanton diese Daten nicht nutzen sollte, um den Steuerpflichtigen das Ausfüllen der Steuerklärung zu erleichtern.
+Selbstverständlich sind bei einer solchen Lösung auch datenschutzrechtliche Vorgaben zu beachten. Datentransfers zwischen verschiedenen Amtsstellen benötigen eine entsprechende gesetzliche Grundlage. Durch eine entsprechende Gestaltung der Schnittstelle kann überdies sichergestellt werden, dass der Datentransfer automatisiert auf Ebene der steuerpflichtigen Person
+erfolgt und nur die Personen Einsicht in die entsprechenden Daten erhalten, die ohnehin Einsicht
+in die Steuererklärung haben.
+
+Den Mitgliedern des Grossen Rates des Kantons Basel-Stadt zugestellt am 2. Februar 2024.
+
+Seite 1/5
+
+Regierungsrat des Kantons Basel-Stadt
+
+Der Regierungsrat wird deshalb beauftragt, dem Grossen Rat die notwendigen gesetzlichen
+Grundlagen zu unterbreiten, damit beim Kanton vorhandene Daten über eine steuerpflichtige Person künftig automatisch und datenschutzkonform in die digitale Steuererklärung eingefügt werden
+können und die digitale Steuererklärung so weiterzuentwickeln, dass die vorhandenen Daten
+künftig automatisch über digitale Schnittstellen vorabgefüllt werden.
+Luca Urgese, Joël Thüring, Christine Keller, Daniel Albietz, Annina von Falkenstein, Niggi Daniel
+Rechsteiner, Fina Girard»
+
+Wir nehmen zu dieser Motion wie folgt Stellung:
+
+1.
+
+Zur rechtlichen Zulässigkeit der Motion
+
+1.1
+
+Grundlagen des Motionsrechts
+
+Mit einer Motion kann der Grosse Rat den Regierungsrat verpflichten, eine Verfassungs- oder Gesetzesvorlage oder eine Vorlage für einen Grossratsbeschluss vorzulegen (§ 42 Abs. 1 GO) oder
+eine Massnahme zu ergreifen (§ 42 Abs. 1bis GO). Der Grosse Rat kann dem Regierungsrat also
+sowohl in seinem eigenen Zuständigkeitsbereich als auch im Zuständigkeitsbereich des Regierungsrats Aufträge erteilen.
+Das Recht setzt dem Grossen Rat bezüglich Motionsbegehren allerdings auch Schranken, die in
+der Gewaltenteilung, im Gesetzmässigkeits-, im Föderalismus- und im Demokratieprinzip gründen.
+So darf eine Motion nicht gegen höherrangiges Recht verstossen (wie Bundesrecht, interkantonales Recht oder kantonales Verfassungsrecht). Zudem ist gemäss § 42 Abs. 2 GO eine Motion unzulässig, die einwirken will auf
+ den verfassungsrechtlichen Zuständigkeitsbereich des Regierungsrats,
+ einen Einzelfallentscheid,
+ einen in gesetzlich geordnetem Verfahren zu treffenden Entscheid oder
+ einen Beschwerdeentscheid.
+
+1.2
+
+Motionsforderung
+
+Mit der vorliegenden Motion soll der Regierungsrat beauftragt werden, «dem Grossen Rat die notwendigen gesetzlichen Grundlagen zu unterbreiten, damit beim Kanton vorhandene Daten über
+eine steuerpflichtige Person künftig automatisch und datenschutzkonform in die digitale Steuererklärung eingefügt werden können und die digitale Steuererklärung so weiterzuentwickeln, dass die
+vorhandenen Daten künftig automatisch über digitale Schnittstellen vorabgefüllt werden».
+
+1.3
+
+Rechtliche Prüfung
+
+Die von den Steuerpflichtigen einzureichende Steuererklärung betrifft sowohl die kantonale Staatssteuer als auch die direkte Bundessteuer.
+Die bundesrechtlichen Vorgaben ergeben sich hierzu zum einen aus Art. 124 Abs. 2 des Bundesgesetzes über die direkte Bundessteuer vom 14. Dezember 1990 (SR 642.11; DBG), der festschreibt, dass der Steuerpflichtige das Formular für die Steuererklärung wahrheitsgemäss und vollständig ausfüllen, persönlich unterzeichnen und samt den vorgeschriebenen Beilagen fristgemäss
+der zuständigen Behörde einreichen muss. Zum anderen muss der Steuerpflichtige alles tun, um
+eine vollständige und richtige Veranlagung zu ermöglichen (Art. 42 Abs. 1 Bundesgesetz über die
+Harmonisierung der direkten Steuern der Kantone und Gemeinden vom 14. Dezember 1990
+[SR 642.14; StHG]). Mit diesen Vorgaben ist die mit der Motion geforderte vorab ausgefüllte digitale
+
+Seite 2/5
+
+Regierungsrat des Kantons Basel-Stadt
+
+Steuererklärung konfrontiert, die konkret so umzusetzen ist, dass der Sinn und Zweck der bundesrechtlichen Vorgaben erfüllt ist. Ein besonderes Augenmerk ist dabei auf die grundrechtskonforme
+Ausgestaltung (Informationelle Selbstbestimmung) zu legen.
+Mit der Motion wird vom Regierungsrat die Ausarbeitung eines Gesetzesentwurfes beantragt. Der
+Erlass von Gesetzesbestimmungen fällt in die Zuständigkeit des Grossen Rates. Zudem verlangt
+die Motion nicht etwas, was sich auf den verfassungsrechtlichen Zuständigkeitsbereich des Regierungsrates, auf einen Einzelfallentscheid, auf einen in gesetzlich geordnetem Verfahren zu treffenden Entscheid oder einen Beschwerdeentscheid bezieht. Es spricht auch kein höherrangiges Recht
+wie Bundesrecht oder kantonales Verfassungsrecht gegen den Motionsinhalt.
+
+1.4
+
+Schlussfolgerung
+
+Die Motion ist als rechtlich zulässig anzusehen.
+
+2.
+
+Zum Inhalt der Motion
+
+2.1
+
+Ausgangslage
+
+Die Steuerverwaltung Basel-Stadt hat 2019 das Projekt eSteuern.BS lanciert. Ziel war es, die bestehende Steuerdeklarationssoftware BalTax durch eine webbasierte Lösung zu ersetzen. Zudem
+sollten neue E-Government-Dienste wie elektronische Fristverlängerungen und ein elektronisches
+Steuerkonto eingeführt werden. Über das Steuerkonto können Kontoauszüge und Einzahlungsscheine angezeigt sowie das Auszahlungskonto verwaltet werden. Die neue Weblösung für die
+Steuererklärung ging im Februar 2021 online. Die Dienste der Steuerverwaltung sind in das zentrale E-Government-Portal (ePortal) des Kantons integriert.
+In seiner Antwort zum Anzug Luca Urgese und Konsorten betreffend «Digitalisierung vorantreiben – Steuererklärung online ausfüllen» vom 20. November 2019 (Nr. 19.5139.02) hielt der
+Regierungsrat fest, dass die Effizienz des Veranlagungsprozesses künftig, wo möglich und sinnvoll
+aufgrund neuer Möglichkeiten weiter optimiert werden soll. Beispielsweise könnte zukünftig durch
+die Bereitstellung von Stammdaten wie Personen- und Liegenschaftsdaten usw. und von bereinigten Vorjahresdaten die Qualität der Selbstdeklaration und der Automatisierungsgrad in der Veranlagung erhöht werden. Die Bereitstellung einer vorausgefüllten Steuererklärung stelle jedoch höhere Anforderungen an den Schutzbedarf und die Authentisierung als das gewöhnliche
+elektronische Ausfüllen und Übermitteln.
+Im April 2023 hat der Regierungsrat die kantonale Datenstrategie verabschiedet, siehe auch
+https://www.statistik.bs.ch/ueber-uns/datenstrategie.html. Als zentrale Aspekte werden darin eine
+effiziente Datenerhebung im Sinne von «once only» und eine gemeinsame Datennutzung genannt.
+In Handlungsfeld 4 «Regulatorischer Rahmen» der Datenstrategie sollen bestehende rechtliche
+Grundlagen dahingehend analysiert werden, ob und wie sie die gemeinsame Datennutzung durch
+verschiedene Dienststellen erlauben. Gegebenenfalls sollen neue rechtliche Grundlagen geschaffen werden, um eine Datenerhebung nach dem «Once-Only-Prinzip» sowie eine gemeinsame
+Datennutzung vermehrt zu ermöglichen.
+
+2.2
+
+Rechtliche Grundlagen
+
+Im Falle des Angebots einer automatisch ausgefüllten Steuererklärung ist vorab die bundesrechtliche Zulässigkeit zu prüfen. Gemäss Bundesgesetz über die direkte Bundessteuer muss die steuerpflichtige Person das Formular für die Steuererklärung wahrheitsgemäss und vollständig ausfüllen, persönlich unterzeichnen und samt den vorgeschriebenen Beilagen fristgemäss der
+zuständigen Behörde einreichen. Auch das Steuerharmonisierungsgesetz enthält Vorgaben zum
+
+Seite 3/5
+
+Regierungsrat des Kantons Basel-Stadt
+
+Ausfüllen der Steuererklärung. Inwieweit die Einführung einer automatisch ausgefüllten Steuererklärung bundesrechtlich zulässig ist, müsste vertieft abgeklärt werden. Im Falle einer bundesrechtlichen Zulässigkeit wäre zudem zu prüfen, inwieweit kantonalrechtliche gesetzliche Grundlagen
+geschaffen werden müssten.
+Ein problematischer Punkt im Zusammenhang mit der vorausgefüllten Steuerklärung betrifft die
+Frage der Verantwortlichkeit, wenn falsch vorausgefüllte Besteuerungsgrundlagen von der steuerpflichtigen Person nicht korrigiert werden. Die steuerpflichtige Person wäre bei einer (teilweisen)
+vorausgefüllten Steuererklärung weiterhin verpflichtet, die Steuererklärung wahrheitsgemäss und
+vollständig auszufüllen, die vorausgefüllten Daten zu kontrollieren, allenfalls fehlenden Angaben zu
+ergänzen und die Steuererklärung einzureichen.
+
+2.3
+
+Datenschutzrechtliche Vorgaben
+
+Bei der Bearbeitung von personenbezogenen Daten sind die datenschutzrechtlichen Vorgaben zu
+beachten. Gemäss Gesetz über die Information und den Datenschutz darf ein öffentliches Organ
+Personendaten dann bearbeiten, wenn dafür eine gesetzliche Grundlage besteht. Die Personendaten dürfen nur zu dem Zweck bearbeitet werden, zu dem sie erhoben worden sind, soweit nicht
+eine gesetzliche Grundlage ausdrücklich eine weitere Verwendung vorsieht oder die betroffene
+Person im Einzelfall einwilligt. Die Vorausfüllung der Steuererklärung stellt eine (automatisierte)
+Bearbeitung von Personendaten dar, für welche aktuell keine gesetzliche Grundlage besteht.
+
+2.4
+
+Datenübermittlung
+
+Der Kanton verfügt zwar bereits über einige für die Veranlagung relevante Informationen. Allerdings
+gibt es noch diverse Hürden für eine vollständig automatisierte Lösung. Die vorhandenen Daten
+weisen teilweise Lücken auf. So verfügt die Steuerverwaltung bereits jetzt über Lohnausweise von
+unselbständig Erwerbenden. Daten von auswärtigen Arbeitgebenden fehlen jedoch, da nur für im
+Kanton Basel-Stadt ansässige Arbeitgebende eine Pflicht zur Einreichung der Lohnausweise besteht. Auch Angaben über die Anzahl minderjähriger Kinder liegen vor. Für volljährige Kinder und
+Kinder von Zugezogenen müssten jedoch Nachweise erbracht werden, um einen Abzug zu erhalten. Für viele weitere für die Steuererklärung relevante Daten gibt es keine zentrale Plattform, von
+der sie automatisiert übernommen werden könnten. Dazu zählen beispielsweise Einkünfte aus
+selbstständiger Erwerbstätigkeit, Pensionskassen und Leibrenten, der Abzug effektiver Berufskosten, Unterhaltsbeiträge sowie Angaben zu Erbschaften und Beteiligungen.
+
+3.
+
+Fazit
+
+Der Schritt zu einer automatisch ausgefüllten Steuererklärung findet heute seine Grenzen zum einen bei den übergeordneten rechtlichen Grundlagen sowie den datenschutzrechtlichen Vorgaben,
+die eingehender zu prüfen sind.
+Zum anderen sind die Möglichkeiten zu einer umfassenden automatisch ausgefüllten Steuererklärung insofern begrenzt, als eine Vielzahl von Daten nicht zentral erfasst sind oder lückenhaft sind.
+Der Regierungsrat steht der Effizienzsteigerung des Veranlagungsprozesses durch Nutzung neuer
+Möglichkeiten weiterhin positiv gegenüber. Die Anliegen der Motion sind zudem mit den Zielen
+vereinbar, welche der Regierungsrat in der Datenstrategie formuliert hat. Die automatische Steuererklärung könnte ein Pilotprojekt sein, um wie im Handlungsfeld 4 der Datenstrategie vorgesehen
+die rechtlichen Rahmenbedingungen für den Datenaustausch zu analysieren. Da die Grenzen der
+übergeordneten Rechtsgrundlagen und datenschutzrechtlicher Vorgaben aktuell noch nicht konkret abschätzbar sind, ist die in der Motion geforderte Ausarbeitung eines Gesetzesentwurfs nicht
+realisierbar. Die Motion soll darum als Anzug entgegengenommen werden.
+
+Seite 4/5
+
+Regierungsrat des Kantons Basel-Stadt
+
+4.
+
+Antrag
+
+Auf Grund dieser Stellungnahme beantragen wir, die Motion Luca Urgese und Konsorten betreffend
+„automatisch ausgefüllte Steuererklärung" dem Regierungsrat als Anzug zu überweisen.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Lukas Engelberger
+Vizepräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Seite 5/5
+
+

@@ -1,0 +1,186 @@
+Regierungsrat des Kantons Basel-Stadt
+
+Su
+
+An den Grossen Rat
+
+21.5533.02
+
+FD/P215533
+Basel, 6. Dezember 2023
+Regierungsratsbeschluss vom 5. Dezember 2023
+
+Anzug Oliver Thommen und Konsorten betreffend «ein digitales Forum für Basel»
+Der Grosse Rat hat an seiner Sitzung vom 17. November 2021 den nachstehenden Anzug Oliver
+Thommen dem Regierungsrat zum Bericht überwiesen:
+«Heute bestehen für die digitale Nutzerin eine Unzahl von verschiedenen Apps für behördliche Dienstleistungen in Basel-Stadt (Z.B. von BVB, Stadtplan, Parksmart, Dräggwägg), zudem besteht ein reales
+Bedürfnis bei Einzelpersonen, Vereinen und Gewerben nach lokalen Kontakten. Dies zeigt sich besonders auch am Erfolg von gängigen Socialmedia- und Kommunikations-Plattformen, welche auch
+der Kanton rege nutzt. Das Problem bei dieser Nutzung von Social Media-Plattformen wie Facebook
+dabei ist einerseits die Monopolbildung bei einzelnen Unternehmen, welche sich auch der hiesigen
+demokratischen Kontrolle vollends entziehen, andererseits auch der Druck für Einzelpersonen, Gewerbe, Vereinen und insbesondere auch des Kantons sich auf Plattformen zu kommunizieren, welche
+punkto Datensicherheit und Respekt der Datenhoheit jeder (natürlichen und juristischen) Person mangelhaft sind. Die Alternative wäre ein digitales Forum für die Einwohnerinnen und Einwohner des Kantons, das sinnvollerweise auch für die Menschen der angrenzenden Kantone und Länder offen wäre.
+Dieses Forum sollte folgende Parameter erfüllen:
+-
+
+Für alle Menschen in Basel-Stadt und idealerweise im Dreiland, ggf. auch für Tourists
+
+-
+
+Mehrsprachigkeit (Deutsch, Französisch, Englisch, Italienisch, Türkisch, Serbokroatisch, etc.)
+
+-
+
+Benutzendenfreundliche Registrierung und Bedienung
+
+-
+
+Zusammenfassung von verschiedenen bereits bestehenden Apps oder Plattformen in einer App
+(Bsp. Basellive App, Too good to go App, Online-Bussen-Schalter, Immobilien-BaselAPP)
+
+-
+
+Kommunikation zwischen den Einwohnerinnen und Einwohnern unkompliziert als Chat, Anruf oder
+Videoanruf
+
+-
+
+Gewährleistung des Datenschutzes (DSGVO), Schweizer oder Basler Server, keine Werbung oder
+Datenauswertung (ausgenommen OGD). Der Datenschutzbeauftragte ist einzubeziehen
+
+-
+
+Keine anonymen Nutzenden, nur mit verifiziertem Vor- Nachnamen
+
+-
+
+Förderung des realen Austausches durch interaktiven und digitalen Austausch
+
+-
+
+Ökologischer Betrieb der technischen Infrastruktur
+
+-
+
+Zugang als Webseite und als App
+
+-
+
+Ressourcen zur Vertrauensschaffung, zur Sicherung der Reichweite und zur Attraktivitätspflege
+
+Folgende (Schnittstellen zu) Dienstleistungen sollte ein digitales Forum anbieten:
+
+Den Mitgliedern des Grossen Rates des Kantons Basel-Stadt zugestellt am 8. Dezember 2023.
+
+Seite 1/3
+
+Regierungsrat des Kantons Basel-Stadt
+
+-
+
+Übersichtliche Publikation amtliche Mitteilungen
+
+-
+
+Informationen für und über Gewerbe, Vereine, Verwaltung und Politik
+
+-
+
+Ein Marktplatz für das lokale Gewerbe und für den Tausch und Verkauf von Einzelpersonen
+
+-
+
+Eine Agenda mit Veranstaltungen auf einen Blick
+
+-
+
+Diskussionsforen zu Themen in Basel und Durchführung von Umfragen
+
+-
+
+Zugang zu lokalen Nachrichten
+
+-
+
+Mobilitätsdienstleistungen
+
+Die Anzugstellenden bitten den Regierungsrat zu prüfen und zu berichten:
+1.
+
+Wie viele Apps der Kanton betreibt oder an wie vielen er beteiligt ist, welche Kosten diese in der
+Entwicklung und Betrieb bisher jährlich verursachen bzw. verursacht haben und welche Nutzendenzahlen diese verzeichnen?
+
+2.
+
+Auf welchen Socialmedia- und Kommunikationsplattformen der Kanton registriert ist und wie er
+diese nutzt, wie er die Effektivität dieser Kommunikation misst und bewertet und wie er je Plattform
+die Datensicherheit und den Datenschutz bewertet und kontrolliert?
+
+3.
+
+Welche Erfahrungen andere Gemeinden, Städte oder Kantone mit eigenen Plattformen/Foren
+gemacht haben und welche Rückschlüsse sich für die Situation von Basel und im Dreiland ergeben?
+
+4.
+
+Den Aufbau einer digitalen Plattform unter Berücksichtigung obiger Ausführungen.
+
+Oliver Thommen, Harald Friedl, Jérôme Thiriet, Sandra Bothe, Johannes Sieber»
+
+Wir berichten zu diesem Anzug wie folgt:
+
+1.
+
+Ausgangslage
+
+Mit dem bestehenden E-Government-Portal «eKonto» bietet der Kanton den Einwohnenden bereits
+einen guten Überblick über abgewickelte Verwaltungsvorgänge und einzelne kantonalen Dienstleistungen. Im Rahmen der Digitalisierungsbestrebungen soll das eKonto nun zu einem nutzerfreundlichen e(asy)-Portal ausgebaut werden. Ziel ist es, künftig alle digitalen Verwaltungsdienstleistungen über ein zentrales Zugangstor anzubieten. Das bestehende eKonto und die einzelnen
+E-Services werden schrittweise in das neue e(asy)-Portal integriert.
+So können Einwohnende und Unternehmen alle digitalen Dienstleistungen des Kantons direkt über
+das e(asy)-Portal nutzen, ohne Medienbrüche. Über das Portal sollen auch der Status von Verfahren sowie der Versand und Empfang von Dokumenten abgewickelt werden. Aus Kundensicht entsteht dadurch eine einheitliche digitale Schnittstelle für die gesamte Kommunikation mit der kantonalen Verwaltung.
+
+2.
+
+Inhaltliche Beurteilung
+
+Die Stadt Luzern verfolgt seit dem Jahr 2021 mit "Dialog Luzern" (https://dialogluzern.ch/) einen
+Ansatz in Richtung digitale Plattformen für Bürgerdialog und -beteiligung. Aufgrund des kurzen Betriebszeitraums lassen sich jedoch noch keine validen Rückschlüsse bezüglich der Akzeptanz und
+des Nutzens eines solchen Partizipationsangebots ziehen. Der Erfolg und Nutzen digitaler Bürgerbeteiligung sind noch unsicher. Der Regierungsrat wird die weitere Entwicklung weiter beobachten.
+Sollten sich zukünftig Möglichkeiten für sinnvolle Ergänzungen des bestehenden Digitalangebots
+ergeben, wird er diese prüfen.
+Der aktuelle Fokus liegt jedoch auf der Entwicklung des e(asy)-Portals. Dieses hat höchste Priorität,
+da es den Zugang zu Behördenleistungen vereinfachen und damit einen direkten Nutzen für die
+Bevölkerung schaffen wird.
+
+Seite 2/3
+
+Regierungsrat des Kantons Basel-Stadt
+
+Eine eigene digitale Plattform für Bürgerdialog und -beteiligung steht momentan nicht im Vordergrund. Solche Plattformen benötigen umfangreiche Ressourcen für Konzeption, Entwicklung und
+Betrieb. Es dürfte im Umfeld von grossen Playern wie Meta (Facebook) schwierig bis nahezu unmöglich sein, eine kritische Masse an Nutzenden zu erreichen, um die Plattform effektiv zu machen.
+Zudem besteht die Gefahr, dass der Kanton damit in Konkurrenz zur lokalen Medienlandschaft
+treten würde. Die Digitalstrategie des Kantons Basel-Stadt sieht ein Kundenportal sowie Austauschplattformen für Daten vor, welche die Vernetzung mit dem Bund, anderen Kantonen und
+Städten sowie der Privatwirtschaft erlauben sollen. Dabei gilt eine «Copy-First»-Philosophie:
+E-Services sollen übernommen und angepasst statt neu entwickelt werden. Der Fokus liegt auf der
+Digitalisierung bestehender Angebote, um zusätzlichen Nutzen zu schaffen, nicht auf neuen Diensten.
+Eine zentrale Übersicht darüber, wie viele Apps der Kanton betreibt oder an wie vielen er beteiligt
+ist, gibt es aktuell nicht. Ebenso liegt momentan keine vollständige Auflistung aller Social-MediaPlattformen vor, auf denen der Kanton Basel-Stadt registriert ist. Im Rahmen der Arbeiten rund um
+das e(asy)-Portal wird die App-Landschaft aber grundlegend überprüft, um diese schliesslich benutzerfreundlich der Bevölkerung zur Verfügung stellen zu können.
+Der Regierungsrat ist überzeugt, mit dem geplanten e(asy)-Portal und bestehenden Social-MediaKanälen aktuell die Bedürfnisse der Bevölkerung am besten abzudecken.
+
+3.
+
+Antrag
+
+Aufgrund dieser Stellungnahme beantragen wir, den Anzug Oliver Thommen und Konsorten betreffend «ein digitales Forum für Basel» abzuschreiben.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Lukas Engelberger
+Vizepräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Seite 3/3
+
+

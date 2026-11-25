@@ -1,0 +1,220 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+22.5573.03
+
+FD/P225573
+Basel, 27. August 2025
+Regierungsratsbeschluss vom 26. August 2025
+
+Anzug Beda Baumgartner betreffend «Bekämpfung des Fachkräftemangels – mehr Lernende im Bereich der Informations- und Kommunikationstechnik in der Verwaltung»
+Der Grosse Rat hat an seiner Sitzung vom 05. Juni 2024 vom Schreiben zum Anzug Annina von
+Falkenstein und Konsorten betreffend «Änderung der Kündigungsbestimmungen für Mitarbeiterinnen und Mitarbeiter des oberen Kaders aller dem Personalgesetz unterstellten Bereiche», Anzug
+Toya Krummenacher und Konsorten betreffend «Regulierung der Arbeit auf Abruf im Personalrecht
+des Kantons Basel-Stadt», Anzug Felix Wehrli und Konsorten betreffend «Reduktion der Arbeitszeit
+bei den Polizistinnen und Polizisten im Schichtdienst sowie weiteren Kantonsangestellten», Anzug
+Beda Baumgartner und Konsorten betreffend «Bekämpfung des Fachkräftemangels – mehr Lernende im Bereich der Informations- und Kommunikationstechnik in der Verwaltung» und Anzug
+Michael Hug und Tobias Christ betreffend «Verbesserung der Arbeitsbedingungen für Kantonsangestellte im Schicht- und Wochenenddienst» des Regierungsrates Kenntnis genommen und dem
+Antrag des Regierungsrates folgend den nachstehenden Anzug Beda Baumgartner stehen lassen
+und dem Regierungsrat zum erneuten Bericht überwiesen:
+«Der Fachkräftemangel in der Schweiz ist ein hochaktuelles Thema. Auch der Kanton ist als Arbeitgeber immer stärker davon betroffen, dass er für verschiedene Bereiche kein qualifiziertes Fachpersonal
+mehr findet. Dies wurde vom Regierungsrat auch mit der Antwort auf die Schriftliche Anfrage von Tim
+Cuènod «Folgen des Fachkräftemangels für den Kanton in seiner Rolle als Arbeitgeber» (https://grosserrat.bs.ch/dokumente/100403/000000403520.pdf) bestätigt. Vor allem im Bereich der «Informationsund Kommunikationstechnik» seien alle Departemente von einem Mangel an Fachpersonen betroffen.
+Neben der Rekrutierung von hochqualifiziertem Personal, das auf einem sehr konkurrenzfähigen Arbeitsmarkt schwierig zu finden ist, rückt dabei die Situation der Lehrstellen in den Fokus. Denn die
+interne, eigene Ausbildung von Fachkräften im Bereich der Informations- und Kommunikationstechnik
+bietet verschiedene Vorteile: Der Kanton kann auf die Rolle als interessanter Ausbildungsbetrieb fokussieren, perspektivisch teure Rekrutierung auf dem Arbeitsmarkt verringern und die Identifikation
+von Arbeitskräften mit dem Kanton als Arbeitgeber stärken. Die Unterzeichnenden bitten darum den
+Regierungsrat zu prüfen und zu berichten,
+ wie sich die aktuelle Situation der Lehrstellen im Bereich der Informations- und Kommunikationstechnik departementsübergreifend gestaltet?
+ was der Regierungsrat für weitere Möglichkeiten sieht, um mehr Lernende im Bereich der Informations- und Kommunikationstechnik auszubilden?
+ wie mehr Lehrstellen für Lernende im Bereich der Informations- und Kommunikationstechnik in der
+kantonalen Verwaltung geschaffen werden können?
+
+Den Mitgliedern des Grossen Rates des Kantons Basel-Stadt zugestellt am 29. August 2025.
+
+Seite 1/5
+
+Regierungsrat des Kantons Basel-Stadt
+
+Beda Baumgartner, Thomas Gander, Lorenz Amiet, Nicola Goepfert, Luca Urgese, Tim Cuénod,
+Balz Herter, Toya Krummenacher, Pascal Pfister, Fleur Weibel, Tobias Christ, Annina von Falkenstein, Olivier Battaglia»
+
+Wir berichten zu diesem Anzug wie folgt:
+
+1.
+
+Ausgangslage
+
+1.1
+
+Fachkräftemangel in IKT-Berufen in der Schweiz
+
+Das Staatssekretariat für Wirtschaft SECO stellte 2023 im Bericht zum Indikatorensystem Arbeitskräftesituation zur Beurteilung der Fachkräftenachfrage1 die stärksten Anzeichen für strukturellen
+Fachkräftemangel, neben den Gesundheitsberufen, im MINT-Bereich fest. Während die Gesundheitsberufe von einem erhöhten demographischen Ersatzbedarf betroffen sind, trifft dies auf die
+IKT-Spezialistinnen und -Spezialisten nicht zu. Es handelt sich hier um einen aufstrebenden Bereich, in dem die hohe Zahl offener Stellen viel eher mit dem Ausbau des Bedarfs zu erklären sind.
+Das bedeutet auch, dass die offenen Stellen zunehmend mit frisch ausgebildeten Fachkräften zu
+besetzen sind, da das bestehende Fachpersonal den Bedarf nicht decken kann.
+Erfreulicherweise steigt sowohl die Anzahl der Studierenden auf tertiärer Stufe in den MINT-Fächern und wie auch der Lernenden in den Informatik-Berufsausbildungen. Wobei der Anteil weiblicher Studierender bei lediglich 18% und jener der Auszubildenden über alle Berufslehren hinweg
+bei rund 14% liegt.
+
+1.2
+
+Situation IKT-Berufe im Kanton Basel-Stadt
+
+Auch im Kanton Basel-Stadt wächst die Branche: Von 2018 bis 2022 hat die Anzahl Arbeitsstätten
+(ein an einem bestimmten Ort gelegenes Unternehmen (Einzelunternehmen) oder Teil eines Unternehmens (z. B. Werkstatt, Werk, Verkaufsladen, Büro, Dienststelle, Lager), an welchem eine
+oder mehrere Personen für dasselbe Unternehmen arbeiten) in Information und Kommunikation
+um rund 13% zugenommen. Damit wuchs diese Branche etwa doppelt so stark wie der Schnitt der
+Wirtschaft der Stadt Basel (+6.3%).
+
+1
+
+Indikatorensystem Arbeitskräftesituation
+
+Seite 2/5
+
+Regierungsrat des Kantons Basel-Stadt
+
+1.2.1
+
+Ausbildungsverhältnisse im Kanton Basel-Stadt
+
+Die Anzahl der Ausbildungsverhältnisse in den IKT-Berufen (Informatikerin EFZ, ICT-Fachperson EFZ, Mediamatiker/in EFZ, Gebäudeinformatiker/in EFZ) im Kanton ist in den letzten Jahren
+stetig gestiegen und neue Berufe kamen hinzu (Entwickler/in digitales Business EFZ; noch keine
+Verträge) wie nachfolgende Grafik zeigt.
+
+Quelle: Finanzdepartement; erstellt mit Daten des Erziehungsdepartements
+
+1.3
+
+Situation beim Arbeitgeber Basel-Stadt
+
+Die Rekrutierung von Fachkräften im Bereich IKT ist auch beim Arbeitgeber Basel-Stadt zunehmend schwieriger geworden. Dies trifft auf die departementalen IKT-Stellen, aber im Besonderen
+für die Fachorganisation IT BS zu.
+Aktuelle branchenspezifische Lohnvergleiche (Löhne 2024) auch mit der Privatwirtschaft zeigen,
+dass die Löhne beim Arbeitgeber Basel-Stadt in IKT-Funktionen bei jüngeren Mitarbeitenden je
+nach Profil und Altersgruppe bis zu 20% unter dem Marktschnitt liegen. Auf Grund der Vergleichsdaten der Löhne 2022 lässt sich zudem feststellen, dass eine Annäherung der kantonalen Löhne
+an den Marktschnitt in der Regel mit einer Abnahme an Mitarbeitenden in tieferen Altersgruppen
+im Verhältnis zur totalen Anzahl Mitarbeitender im Profil einhergeht, d.h. je weniger Mitarbeitende
+in den tieferen Lohnstufen, desto besser ist der kantonale Durchschnittslohn im Vergleich zum
+Markt. Die Abnahme an jüngeren Mitarbeitenden in Verbindung mit diversen offenen Stellen im
+IKT-Bereich unterstreicht, dass insbesondere die Rekrutierung von jüngeren Mitarbeitenden auf
+Grund der unter dem Marktschnitt liegenden Löhne zunehmend schwieriger ist. Die Bedeutung
+dieser Herausforderung spitzt sich mit dem im Branchenwachstum begründeten Fachkräftemangel
+(siehe Ziffer 1.1) zu.
+Der Regierungsrat hat den Handlungsbedarf im Kontext des Fachkräftemangels im Allgemeinen,
+aber auch im Besonderen betreffend die IKT-Berufe erkannt und entsprechende Massnahmen u.a.
+im Projekt «Arbeitgeberattraktivität steigern» entwickelt, die nachfolgend unter Ziffer 2 dargestellt
+werden.
+1.3.1
+
+Ausbildungsverhältnisse beim Arbeitgeber Basel-Stadt 2024
+
+Der Kanton bildet aktuell die Berufsprofile Betriebsinformatiker/in EFZ, Gebäudeinformatiker/in EFZ, ICT-Fachperson EFZ und Informatiker/in EFZ aus. Insgesamt waren im Jahr 2024
+
+Seite 3/5
+
+Regierungsrat des Kantons Basel-Stadt
+
+12 Personen in diesen Profilen in Ausbildung. Das binäre Geschlechterverhältnis ist eine weibliche
+Person gegenüber 11 männlichen. Der Arbeitgeber Basel-Stadt trägt im Ausbildungsjahr 24/25
+rund 16% aller Ausbildungsverhältnisse im Kanton in den IKT-Berufen.
+
+2.
+
+Massnahmen im Kontext des Fachkräftemangels
+
+Der Regierungsrat hat im Jahr 2023 das Projekt «Arbeitgeberattraktivität steigern» lanciert, mit dem
+Ziel dem Fachkräftemangel nachhaltig und zukunftsorientiert auf gesamtkantonaler Ebene zu begegnen. Parallel dazu wurden spezifische Massnahmen für IKT-Funktionen bei ITBS mit besonderem Fokus auf die Aus- und Weiterbildung geprüft bzw. eingeleitet. Nachfolgend werden die im
+Kontext des Anliegens des Anzugs relevanten Massnahmen dargestellt.
+
+2.1
+
+Anhebung der Löhne der Auszubildenden des Kantons
+
+Um die Ausbildungsstellen beim Arbeitgeber Basel-Stadt zukunftsorientiert attraktiv zu halten, hat
+der Regierungsrat als Quick Win aus dem Projekt «Arbeitgeberattraktivität steigern» die Löhne der
+Auszubildenden auf Lehrjahr 24/25 auf Marktniveau angehoben. Ein entscheidendes Signal zur
+Förderung der Berufsbildung beim Arbeitgeber Basel-Stadt.
+
+2.2
+
+Anpassung der Lohnkurve im Bereich der Berufsteigenden
+
+Der Regierungsrat hat dem Grossen Rat mit Beschluss vom 27. Mai 2025 als Teil des Ratschlags
+Lohnmassnahmenpaket (Geschäftsnummer 25.0674.01/25.0675.91) eine Anpassung der Lohnkurve im Bereich der Berufseinsteigenden als Massnahme zur Steigerung der Arbeitgeberattraktivität (Projektcluster «Entlöhnung») vorgelegt. Diese Massnahme ist für IKT-Funktionen besonders
+relevant, da wie vorangehend ausgeführt, in diesen Berufen zunehmend direkt ab der Ausbildung
+rekrutiert werden muss, der Arbeitgeber Basel-Stadt jedoch in dieser Kohorte keine konkurrenzfähigen Löhne vorweisen kann (Ziffer 1.3). Eine Anhebung der Löhne der Berufseinsteigenden, d.h.
+die Perspektive von konkurrenzfähigen Löhnen direkt nach der Lehre, kann positive Auswirkungen
+auf die Attraktivität einer IKT-Lehre beim Kanton haben.
+
+2.3
+
+Prüfung von Teilzeitausbildungen und Nachqualifizierungen
+
+Das Finanzdepartement prüft als Massnahme des Gleichstellungsplans, inwiefern Teilzeitausbildungen und/oder die Möglichkeit der Nachqualifizierung im Informatikbereich mit Fokus auf Frauen
+bei ITBS realisiert werden könnten. So könnte der Gender Gap reduziert und zudem der bisher
+wenig angesprochene Pool an potenziellen Fachkräften der Quer- und Wiedereinsteigerinnen eröffnet werden.
+
+2.4
+
+Prüfung Imageanpassung kantonale IKT-Berufe/-Ausbildungen
+
+Zurzeit prüft das Finanzdepartement, inwiefern eine Anpassung des Images der IKT-Berufe und Ausbildungen beim Kanton zielführend zur stärkeren Gewinnung von Frauen sein könnte, wie das
+beispielsweise der Kanton Zürich zusammen mit ICT-Berufsbildung Schweiz, digitalswitzerland und
+taskforce4women mit der Initiative «Women in Tech»2 realisiert hat. Auch dies mit dem Ziel neues
+Potential bei jüngeren Frauen bzw. Quer- und Wiedereinsteigerinnen anzusprechen und damit
+schliesslich die Diversität zu fördern.
+
+2.5
+
+Aufbauprojekt Ausbildungsplätze bei ITBS
+
+Das Finanzdepartement hat mit Beginn des Lehrjahrs 24/25 ein Projekt zum Aufbau zusätzlicher
+Ausbildungsplätze bei ITBS gestartet. Ziel ist die Anzahl Lernender von aktuell vier kontinuierlich
+bis im Jahr 2027 auf total 12 bis 16 zu steigern, und dann auf diesem Niveau zu halten. Zur
+2
+
+Berufe der ICT brauchen einen Image-Wechsel, um mehr Frauen für den Einstieg zu motivieren | Kanton Zürich
+
+Seite 4/5
+
+Regierungsrat des Kantons Basel-Stadt
+
+Realisierung, wozu auch die bestmögliche Betreuung der Auszubildenden gehört, wurde eine «Lernenden-Homebase» geschaffen. Diese fiktive Umgebung bietet den Lernenden Raum, die Grundkenntnisse zu üben und zu lernen. Situativ und nach Kompetenzstand lernen die Lernenden später
+in Stages während mehrmonatigen Einsätzen spezifische Abteilungen von IT BS, anderer Dienststellen innerhalb des FD oder von anderen Departementen der kantonalen Verwaltung kennen. Zur
+Begleitung der Auszubildenden wurde die neue Rolle der/des Verantwortlichen Lernenden-Homebase eingeführt. Diese Rolle einer/eines Fachinstruktorin/-Instruktors verbindet die Aufgaben der
+Praxisausbildenden, der Berufsfeld- und der Berufsbildungsverantwortlichen.
+Mit diesem Aufbauprojekt möchte der Kanton nicht nur dem hauseigenen Fachkräftemangel begegnen, sondern auch seinen Beitrag leisten, dem Fachkräftemangel der Branche im Allgemeinen
+entgegenzuwirken: Diese 16 Lehrstellen bei ITBS werden rund 20% aller Ausbildungsplätze in IKTBerufen im Kanton entsprechen. Summiert mit den weiteren Ausbildungsverhältnissen in diesen
+Berufen in den Departementen trägt der Arbeitgeber Basel-Stadt zukünftig rund 30% aller IKTAusbildungsverhältnisse im Kanton.
+
+3.
+
+Fazit
+
+Der Regierungsrat teilt das Anliegen des Anzugs, dass dem Fachkräftemangel im Bereich der IKTBerufe auch mit der verstärkten Ausbildung von zukünftigen Fachleuten zu begegnen ist. Das bedeutet, dass neue Pools an potenziellen Fachkräften erschlossen werden müssen, aber insbesondere, dass heute zusätzliche Lehrstellen geschaffen werden müssen, um die Fachleute von morgen auszubilden. Deshalb strebt der Kanton an, die Anzahl Lernender in IKT-Berufen bei ITBS bis
+2027 rund zu vervierfachen. Indem der Arbeitgeber Basel-Stadt zukünftig geschätzt ein Drittel aller
+Ausbildungsverhältnisse in der Branche trägt, sichert er nicht nur seinen eigenen Bedarf an Fachkräften, sondern leistet auch einen wesentlichen Beitrag zur Ausbildung von Fachpersonal für die
+hiesige Wirtschaft.
+
+4.
+
+Antrag
+
+Aufgrund dieses Berichts beantragen wir, den Anzug Beda Baumgartner betreffend «Bekämpfung
+des Fachkräftemangels – mehr Lernende im Bereich der Informations- und Kommunikationstechnik
+in der Verwaltung» abzuschreiben.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Dr. Conradin Cramer
+Regierungspräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Seite 5/5
+
+

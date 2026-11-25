@@ -1,0 +1,63 @@
+Motion betreffend Schaffung einer gesetzlichen Grundlage für die Auslagerung von
+Informatikdienstleistungen
+
+25.5256.01
+
+Die rasche Entwicklung der Informationstechnologien führt dazu, dass cloud-basierte Lösungen zunehmend an
+Bedeutung gewinnen. Die Anforderungen an die kantonale Verwaltung gehen vermehrt in Richtung
+plattformunabhängiger Zugänge sowie «mobile Arbeit jederzeit und überall». Gleichzeitig setzen viele
+Anbieter:innen verstärkt auf cloud-basierte Systeme und bieten kaum noch On-Premises-Lösungen an. Auch der
+Regierungsrat hat am 8. April 2025 beschlossen, Microsoft 365 einzuführen – eine cloud-basierte Lösung.
+Mit der Nutzung von Cloud-Technologien ist zwangsläufig eine Auslagerung von Informatikdienstleistungen
+verbunden. Diese erfolgt ausserhalb der kantonalen Rechenzentren und bringt neue Herausforderungen für
+Informationssicherheit, Datenschutz und Archivierung.
+Gemäss § 3 Abs. 5 des Informations- und Datenschutzgesetzes vom 9. Juni 2010 (IDG) liegt bei einer
+Auslagerung von Personendaten eine Datenbearbeitung vor. Obwohl §7 Abs. 1 IDG die Bearbeitung durch Dritte
+unter bestimmten Bedingungen erlaubt, reicht die bestehende gesetzliche Grundlage für besonders umfangreiche
+oder risikobehaftete Auslagerungen nicht aus. Zudem regelt das IDG die Auslagerung von Personendaten nicht
+ausdrücklich.
+Die Nutzung cloud-basierter Dienstleistungen wie Microsoft 365 birgt eine Reihe faktischer und rechtlicher Risiken
+(Vgl. Vernehmlassungsunterlagen Solothurn):
+
+
+Mangelnde Transparenz über Serverstandorte,
+
+
+
+Datenbearbeitungen und eingesetzte Sicherheitsmassnahmen;
+
+
+
+Eingeschränkte Kontrollrechte;
+
+
+
+Begrenzter Vertragsgestaltungsspielraum bei Standardanwendungen;
+
+
+
+Erschwerte Durchsetzung von Rechtsansprüchen (z. B. bei Datenrückübertragung);
+
+
+
+Risiko des Datenzugriffs durch ausländische Behörden (z. B. US-CLOUD Act);
+
+
+
+Erhöhte Abhängigkeit von einzelnen Anbietern;
+
+
+Gefahr der Zweckentfremdung und des Data Mining von Metadaten.
+Diese Risiken können durch geeignete Massnahmen – etwa klare Regelungen zu Kontrollrechten, Beschränkung
+der auszulagernden Datenarten oder starke Verschlüsselung – reduziert werden.
+Eine neue gesetzliche Grundlage soll klare Regelungen zu Voraussetzungen, Zuständigkeiten,
+Verantwortlichkeiten und zum Risikomanagement bei der Auslagerung von Informatikdienstleistungen schaffen.
+Insbesondere ist zu klären, ob und welche Personendaten in Clouds ausgelagert werden sollen; dies
+insbesondere im Hinblick auf besondere Personendaten. Aber es sind nicht nur Personendaten, sondern auch
+Sachdaten zu berücksichtigen, sofern sie ein öffentliches Interesse betreffen.
+Die Motionär:innen fordern den Regierungsrat auf, aus obengenannten Gründen innert einem Jahr eine
+gesetzliche Grundlage für die Auslagerung von Informatikdienstleistungen zu schaffen.
+Anina Ineichen, Salome Bessenich, Bruno Lötscher-Steiger, Tobias Christ, Tonja Zürcher, Michael
+Graber, Adrian Iselin, Barbara Heer, Andrea Strahm, Fleur Weibel
+
+

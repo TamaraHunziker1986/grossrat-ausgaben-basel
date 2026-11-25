@@ -1,0 +1,157 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+21.5437.02
+
+WSU/P215437
+Basel, 27. September 2023
+Regierungsratsbeschluss vom 26. September 2023
+
+Anzug Daniel Sägesser und Konsorten betreffend «Funktionskontrolle bei den thermischen Solaranlagen»
+Der Grosse Rat hat an seiner Sitzung vom 15. September 2021 den nachstehenden Anzug Daniel
+Sägesser und Konsorten dem Regierungsrat zum Bericht überwiesen:
+«Im Gegensatz zu Photovoltaikanlagen werden thermische Solaranlagen in den seltensten Fällen
+technisch überwacht. Stichprobenartige Qualitätsprüfungen im Auftrag vom AUE Basel-Stadt zeigen,
+dass jede vierte thermische Solaranlage nicht richtig funktioniert, ja sogar Ausfälle über einen längeren
+Zeitraum hat, weil Störungen nicht erkannt werden.
+Der Kanton fördert erfreulicherweise die Installation thermischer Solaranlagen. Hausbesitzer*innen investieren viel Geld in diese Technik. Bei einem Anlagenausfall oder ungenügender Funktionsweise
+wird ohne Warnanlage der Produktionsausfall nicht bemerkt, weil die Zusatzheizung einspringt und die
+notwendige Wärme produziert.
+Zur Vermeidung von Anlagenausfällen gibt es seit kurzer Zeit Überwachungsgeräte, welche Fehler
+sofort melden. Um Anlagenbesitzende zur Installation zu motivieren hat z.B. der Gasverbund Mittelland
+GVM kürzlich eine Aktion gestartet: Während 4 Jahren übernimmt er das Anlagenmonitoring im Wert
+von CHF 640.– bei bestehenden thermischen Solaranlagen, welche mit einer Gasheizung kombiniert
+sind. Darin ist das Messgerät und die Dienstleistung für die Überwachung enthalten. Für Anlagenbesitzer ohne Gas, z.B. mit Pellet, Wärmepumpe oder Fernwärme ist dieses Angebot nicht verfügbar. In
+Basel-Stadt verbietet das Energiegesetz Gasheizungen. Bei Erneuerung muss auf erneuerbare Energieträger umgestellt werden.
+Vielen Anlagenbesitzenden ist die Problematik des Anlagenausfalls zu wenig bekannt. Dies auch, weil
+es bis anhin keine geeigneten Geräte gab, welche die Anlage überwachen. Ein Anlagenausfall ist unwirtschaftlich, verursacht einen höheren Energieverbrauch. Subventionen und Investitionen sind somit
+nutzlos.
+Die Unterzeichnenden bitten deshalb die Regierung zu prüfen und zu berichten:
+ ob der Kanton kurzfristig eine Sensibilisierungskampagne durchführen kann, in der er die Besitzerinnen thermischer Solaranlagen auf die Problematik der mangelnden Funktionstüchtigkeit aufmerksam macht
+ ob er in einem zweiten Schritt, finanziert über den Energiesparfonds, eine befristete Aktion durchführen kann mit der die Anlagebesitzer*innen motiviert werden entsprechende Überwachungsgeräte zu installieren
+ ob er, wenn notwendig, das Energiegesetz und dessen Verordnung so anpassen kann, dass thermische Solaranlagen bei Neuinstallation und bisherige Anlagen mit Übergangsfrist über Warngeräte verfügen müssen, die einen Anlagenausfall unmittelbar anzeigen.
+ ob gleich wie bei der Feuerungskontrolle für Heizanlagen auch thermische Solaranlagen periodisch
+durch eine ausgewiesene Fachperson kontrolliert werden müssen.
+
+Den Mitgliedern des Grossen Rates des Kantons Basel-Stadt zugestellt am 29. September 2023.
+
+Seite 1/4
+
+Regierungsrat des Kantons Basel-Stadt
+
+Daniel Sägesser, Raphael Fuhrer, Franz-Xaver Leonhardt, Brigitte Kühne, Nicole Strahm-Lavanchy,
+Alexandra Dill, Beatrice Messerli, Beat Braun, Salome Bessenich, Semseddin Yilmaz, Christian von
+Wartburg, Jean-Luc Perret, Toya Krummenacher, Stefan Wittlin, Tobias Christ, Laurin Hoppler, Brigitte
+Gysin, Salome Hofer, Harald Friedl, Danielle Kaufmann, Oliver Thommen, René Brigger»
+
+Wir berichten zu diesem Anzug wie folgt:
+
+1.
+
+Einleitung
+
+Seit 1. Januar 2010 fordert die kantonale Energiegesetzgebung, dass bei Neubauten oder beim
+Ersatz zentraler Heizungen die Warmwassererzeugung zu mindestens 50% mit erneuerbaren
+Energien erfolgen muss. Dies hat dazu geführt, dass in Basel rund 3’000 thermische Solaranlagen
+auf Dächern installiert und durch den Energieförderfonds finanziell unterstützt wurden.
+In den letzten Jahren ist die Zahl der neu installierten thermischen Solaranlagen rückläufig, da sich
+die Photovoltaik immer mehr durchsetzt. Auch mit der steigenden Zahl von Wärmepumpen werden
+Photovoltaikanlagen in Kombination mit diesen bevorzugt, da der erzeugte Strom direkt für den
+Betrieb der Wärmepumpe eingesetzt werden kann. Thermische Solaranlagen weisen jedoch bei
+richtiger Auslegung nach wie vor einen sehr hohen Wirkungsgrad auf und leisten damit einen wichtigen Beitrag zur Dekarbonisierung der Wärmeversorgung in unserem Kanton.
+Selbstverständlich liegt es im Interesse des Kantons, dass die geförderten Solaranlagen gut funktionieren und ihren Zweck erfüllen. Aus diesem Grund beauftragt das Amt für Umwelt und Energie
+regelmässig technische Expertinnen und Experten, die stichprobenhaft Qualitätskontrollen der bestehenden Anlagen durchführen. Diese Qualitätskontrollen zeigen, dass über 80% der Anlagen gut
+funktionieren.
+
+2.
+1.
+
+Beantwortung der einzelnen Fragen
+ob der Kanton kurzfristig eine Sensibilisierungskampagne durchführen kann, in der er die
+Besitzerinnen thermischer Solaranlagen auf die Problematik der mangelnden Funktionstüchtigkeit aufmerksam macht
+
+Im Februar 2023 wurden 2’950 Eigentümerinnen und Eigentümer von thermischen Solaranlagen
+vom Amt für Umwelt und Energie angeschrieben. Ziel des Schreibens war die Sensibilisierung für
+den Betrieb ihrer Anlagen. Das Schreiben wurde in Zusammenarbeit mit Energie Zukunft Schweiz
+lanciert.
+Energie Zukunft Schweiz hat mit Unterstützung von EnergieSchweiz den kostenlosen SolarwärmeCheck «solartest.ch» entwickelt. Damit können Anlageneigentümerinnen und -eigentümer die
+Funktionstüchtigkeit ihrer Anlage selbst überprüfen. Bei Fragen oder Unklarheiten bietet Energie
+Zukunft Schweiz eine telefonische Unterstützung an. Im mitgeschickten Flyer wurde zudem auf
+verschiedene zusätzliche Überwachungssysteme für thermische Solaranlagen hingewiesen. Die
+eingegangenen Rückmeldungen auf das Schreiben des Amts für Umwelt und Energie waren durchwegs positiv.
+2.
+
+ob er in einem zweiten Schritt, finanziert über den Energiesparfonds, eine befristete Aktion
+durchführen kann mit der die Anlagebesitzer*innen motiviert werden entsprechende Überwachungsgeräte zu installieren
+
+Wie bei anderen technischen Anlagen müssen auch für thermische Solaranlagen regelmässig auf
+ihre Funktionstüchtigkeit überprüft werden. Dies kam auch im erwähnten Schreiben des Amts für
+
+Seite 2/4
+
+Regierungsrat des Kantons Basel-Stadt
+
+Umwelt und Energie deutlich zum Ausdruck. In der Verantwortung stehen somit die Eigentümerinnen und Eigentümer - wie bei allen anderen technischen Anlagen auch.
+Zudem sind die thermischen Solaranlagen oft sehr unterschiedlich in das zentrale Heizsystem eingebunden. Eine einheitliche, kostengünstige und wirkungsvolle Überwachung ist deshalb nicht immer möglich.
+Die Überwachung durch ein Gerät ist nur eine Option. Ebenso ist die Kontrolle durch eine ausgewiesene Fachperson möglich, z.B. im Rahmen der regelmässigen Kontrolle der Heizungsanlage.
+Und auch die eigene Überprüfung der Anlage, wie unter «solartest.ch» empfohlen, ist eine Möglichkeit. Wird durch eine solche Kontrolle oder durch eine allfällig installierte Überwachung eine
+Fehlfunktion festgestellt, sollte immer eine Fachperson hinzugezogen werden.
+Eine befristete Aktion zur Förderung von Überwachungsgeräten würde somit zu kurz greifen. Funktionskontrolle und Unterhalt von technischen Anlagen sind Daueraufgaben, die je nach System
+unterschiedlich durchgeführt werden können. Das gilt auch für thermische Solaranlagen, die regelmässig auf ihre Funktionsfähigkeit überprüft werden sollten. Aus diesem Grund ist eine befristete
+Aktion nicht zielführend.
+3.
+
+ob er, wenn notwendig, das Energiegesetz und dessen Verordnung so anpassen kann, dass
+thermische Solaranlagen bei Neuinstallation und bisherige Anlagen mit Übergangsfrist über
+Warngeräte verfügen müssen, die einen Anlagenausfall unmittelbar anzeigen
+
+Ja, das Energiegesetz könnte dahingehend angepasst werden, dass eine Überwachung für neu
+installierte Solaranlagen vorgeschrieben wird. Denkbar wäre auch, eine Überwachung im Zusammenhang mit der Auszahlung von Fördergeldern zu fordern. Wie bereits einleitend beschrieben,
+werden thermische Solaranlagen heute jedoch kaum mehr neu installiert, da die Photovoltaik als
+Technologie für Gebäude mehr Vorteile bietet. Eine solche Anpassung der Energiegesetzgebung
+hätte daher keine grosse Wirkung.
+Für bestehende Anlagen ist eine nachträgliche Pflicht eher schwierig durchzusetzen. Zudem würde
+sie alle Anlageneigentümerinnen und -eigentümer treffen, obwohl die Mehrheit ihre Anlagen so
+wartet, dass sie gut funktionieren. Eine generelle Pflicht zur Installation von Warngeräten wäre auch
+mit einem höheren Vollzugsaufwand verbunden, da diese Pflicht schliesslich auch kontrolliert werden müsste. Angesichts der Tatsache, dass über 80% der Anlagen gut funktionieren, ist dies ein
+Aufwand, der nur bedingt sinnvoll ist.
+Zudem muss auch hier die Eigenverantwortung der Anlageneigentümerinnen und -eigentümer im
+Vordergrund stehen. Ein Interesse an der Funktionsfähigkeit der eigenen Anlagen sollte vorausgesetzt werden können, insbesondere auch unter dem Aspekt der erwähnten hohen Investitionskosten.
+Der Kanton Basel-Stadt wird weiterhin die Anlageneigentümerinnen und -eigentümer in regelmässigen Abständen auf die Thematik aufmerksam machen. Eine explizite Vorschrift zur Installation
+von Überwachungsgeräten scheint hier jedoch zu weit zu gehen.
+4.
+
+ob gleich wie bei der Feuerungskontrolle für Heizanlagen auch thermische Solaranlagen periodisch durch eine ausgewiesene Fachperson kontrolliert werden müssen.
+
+Heizungsanlagen werden regelmässig durch eine ausgewiesene Fachperson kontrolliert. Bei einer
+solchen Kontrolle werden in der Regel alle Anlagenkomponenten auf ihre Funktionsfähigkeit überprüft. Die Anlagenteile Heizung, Wärmespeicher, Boiler und die Anschlüsse der thermischen Solaranlage befinden sich meistens in den selben Räumlichkeiten, weshalb mit der Kontrolle der Heizungsanlage in den meisten Fällen auch die Funktion der thermischen Solaranlage mitgeprüft wird.
+
+Seite 3/4
+
+Regierungsrat des Kantons Basel-Stadt
+
+Darüber hinaus geben die Betriebsdaten der Heizungsanlage und der entsprechende Energieverbrauch Hinweise auf die Funktionsfähigkeit der thermischen Solaranlage. Steigt der Energieverbrauch der Heizungsanlage, deutet dies auf eine Störung der thermischen Solaranlage hin.
+In Anbetracht dessen, dass das Zusammenspiel der verschiedenen Anlagenkomponenten im Zeitalter der Dekarbonisierung zunehmend komplexer werden, wird der Regierungsrat diesen Punkt
+bei der nächsten Revision der Energiegesetzgebung aufgreifen. Denn es ist dem Regierungsrat
+ein grosses Anliegen, dass die im Kanton Basel-Stadt genutzte Energie nicht nur erneuerbar ist,
+sondern auch effizient genutzt wird.
+
+3.
+
+Antrag
+
+Aufgrund dieses Berichts beantragen wir, den Anzug Daniel Sägesser und Konsorten betreffend
+«Funktionskontrolle bei den thermischen Solaranlagen» abzuschreiben.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Beat Jans
+Regierungspräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Seite 4/4
+
+

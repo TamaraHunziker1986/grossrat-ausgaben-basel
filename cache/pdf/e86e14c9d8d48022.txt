@@ -1,0 +1,2189 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+23.0449.01
+21.5232.02
+
+BVD/P230449, P215232
+Basel, 7. Juni 2023
+Regierungsratsbeschluss vom 6. Juni 2023
+
+Ratschlag „Lockerung und Vereinfachung der Bauvorschriften zur
+Stärkung des Blockrands sowie eine Differenzierung der Dachgeschossvorschriften“ (P230449)
+Änderung des Bau- und Planungsgesetzes (BPG) vom 17. November 1999
+(SG 730.100)
+sowie
+
+Bericht zum Anzug Stefan Wittlin und Konsorten betreffend «Schaffung von Anreizen für die bauliche Verdichtung im Bestand»
+(P215232)
+
+Den Mitgliedern des Grossen Rates des Kantons Basel-Stadt zugestellt am 9. Juni 2023.
+
+Seite 1/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+Inhalt
+1.
+
+Begehren ................................................................................................................... 3
+
+2.
+
+Das Wichtigste in Kürze ........................................................................................... 3
+2.1
+2.2
+2.3
+
+Innere Verdichtung und Stadtklima ........................................................................................... 3
+Stärkung des Blockrands.......................................................................................................... 4
+Differenzierung der Dachgeschosse ......................................................................................... 4
+
+3.
+
+Grundkonzeption des Blockrands im Kanton Basel-Stadt ................................... 4
+
+4.
+
+Vereinfachung und Lockerung der Blockrandvorschriften .................................. 5
+4.1
+
+4.2
+
+4.3
+
+5.
+
+Präzisierung der zulässigen Dachgeschosse ...................................................... 16
+5.1
+5.2
+5.3
+
+6.
+
+Lockerung des Lichteinfallswinkels strassenseitig ..................................................................... 5
+4.1.1 Der Lichteinfallswinkel im BPG ..................................................................................... 6
+4.1.2 Änderungsbedarf im Bau- und Planungsgesetz ............................................................. 7
+4.1.3 Auswirkung der Lockerung............................................................................................ 7
+Stärkung des Blockrands durch minimale Bautiefe von zwölf Metern ........................................ 8
+4.2.1 Änderungsbedarf im BPG ............................................................................................10
+4.2.2 Auswirkung der minimalen Blockrandtiefe von zwölf Metern .........................................11
+Schutz der noch bestehenden Bauwiche .................................................................................14
+4.3.1 Änderungsbedarf im BPG ............................................................................................14
+Zweites Dachgeschoss in den Zonen 5 und 6..........................................................................16
+Dachgeschosse in den Zonen 2 und 2a ...................................................................................16
+Dachgeschosse ausserhalb des Blockrandbereichs in den Zonen 4 und 5a .............................17
+
+Weitere Anpassungen des BPG ............................................................................ 17
+6.1
+6.2
+
+Lockerung des minimalen Baulinienabstands von zwölf Metern ...............................................18
+Flexibilisierung der Gestaltung von Erkern...............................................................................19
+
+7.
+
+Auswirkungen auf das Stadtklima ........................................................................ 19
+
+8.
+
+Konkrete Änderungen des Bau- und Planungsgesetzes .................................... 20
+
+9.
+
+Öffentliche Vernehmlassung ................................................................................. 27
+9.1
+9.2
+9.3
+9.4
+9.5
+9.6
+9.7
+9.8
+9.9
+9.10
+
+Formelles ................................................................................................................................27
+Materielles ..............................................................................................................................28
+Allgemeine Rückmeldungen ....................................................................................................29
+Rückmeldungen zur Lockerung des Lichteinfallswinkels ..........................................................34
+Rückmeldungen zur garantierten Blockrandtiefe ......................................................................34
+Rückmeldungen zur Präzisierung der Dachgeschosse der Zonen 5 und 6 ...............................34
+Rückmeldungen zur Präzisierung der Dachgeschosse der Zonen 2 und 2a .............................35
+Rückmeldungen zur Präzisierung der Dachgeschosse der Zonen 4 und 5a .............................36
+Rückmeldungen zur Präzisierung des Baulinienabstands ........................................................36
+Rückmeldungen zur Flexibilisierung der Erker .........................................................................37
+
+10. Anzug Stefan Wittlin und Konsorten betreffend «Schaffung von Anreizen
+für die bauliche Verdichtung im Bestand» (P215232) ......................................... 37
+10.1 Bericht zum Anzug Wittlin........................................................................................................38
+10.2 Antrag zum Anzug Wittlin ........................................................................................................39
+
+11. Prüfungen ............................................................................................................... 39
+12. Antrag ...................................................................................................................... 40
+
+Seite 2/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+1.
+
+Begehren
+
+Mit diesem Ratschlag beantragen wir Ihnen, die vorliegenden Änderungen des Bau- und Planungsgesetzes (BPG, SG 730.100) zu genehmigen. Der strassenseitige Lichteinfall soll gelockert und die
+minimal zulässige Bautiefe im Blockrand auf zwölf Meter angehoben werden. Als Ausgleich dazu
+sollen Hofbebauungen weniger Fläche und weniger Geschosse aufweisen dürfen und bestehende
+Bauwiche in Ecklagen geschützt werden. Darüber hinaus sollen mit diesem Ratschlag weitere Anpassungen am Bau- und Planungsgesetz vorgenommen werden, die mit den vorliegenden Änderungen in einem Zusammenhang stehen. Insbesondere soll die Anzahl der Dachgeschosse je nach
+Zone differenziert geregelt werden.
+
+2.
+
+Das Wichtigste in Kürze
+
+2.1
+
+Innere Verdichtung und Stadtklima
+
+Die Stadtentwicklung im Kanton Basel-Stadt folgt gemäss dem kantonalen Richtplan der Strategie
+der «Siedlungsentwicklung nach innen». Mit der Verdichtung nach innen sollen ungenutzte bauliche Potenziale aktiviert und damit der Druck auf unbebautes Land reduziert werden. Ziel ist ein
+nachhaltiger Umgang mit der Ressource Boden. Der Kanton setzt dabei auf vier Säulen: 1. Anpassungen im Bestand, 2. Aufzonungen, 3. punktuelle Verdichtungen und 4. Arealentwicklungen. Massgebliche Potenziale bestehen dabei nur bei den Arealentwicklungen. Alle vier Säulen tragen aber
+ihren Anteil bei. Die vorliegenden Massnahmen entfalten ihre Wirkung als Teil der Säule 1 «Anpassungen im Bestand».
+Der Innenverdichtung stehen das sich verändernde Stadtklima und Massnahmen zum Klimaschutz
+gegenüber. Mit der zunehmenden Klimaerwärmung, insbesondere der sommerlichen Hitze, verändern sich die Anforderungen an die Gestaltung der Stadt. Um die Erwärmung des Klimas zu verlangsamen, ändert sich der Umgang mit der bestehenden Bausubstanz. Die Entwicklung des Bestands gewinnt gegenüber Ersatzneubauten an Wichtigkeit.
+Die Verdichtung nach innen auf der einen Seite und die klimaangepasste Stadtentwicklung sowie
+der Klimaschutz auf der anderen Seite müssen sich nicht entgegenstehen. Beide Anliegen sind
+von grossem öffentlichen Interesse. Ziel der Stadtentwicklung ist es daher, Wege zu finden, mit
+denen beiden Seiten entsprochen werden kann.
+Die vorliegende Revision des Bau- und Planungsgesetzes nahm ihren Anfang nicht als «Klimarevision». Sie ist auch nach wie vor nicht als solche gedacht. Eine Überprüfung der gesetzlichen
+Rahmenbedingungen mit Blick auf eine klimaangepasste Stadt und Massnahmen zur Reduktion
+des Klimawandels erfolgt aktuell im Zusammenhang mit dem Stadtklimakonzept, den Klimavorstössen des Grossen Rats und der kantonalen Klimastrategie. Ungeachtet dessen muss heute jede
+Massnahme auch mit Blick auf die Herausforderungen aufgrund des Klimawandels gedacht und
+bearbeitet werden.
+Die mit diesem Ratschlag vorgeschlagenen Anpassungen am Bau- und Planungsgesetz gehen
+auch mit Blick auf die Klimaerwärmung in die gewünschte Richtung. Eine gezielte Lenkung der
+Verdichtung auf den Blockrandbereich bei einer gleichzeitigen Entlastung der Höfe vom baulichen
+Druck kann beiden Anliegen – der inneren Verdichtung und der Anpassung der Kernstädte an den
+Klimawandel – gerecht werden. Zumal die Verdichtung nach innen auf einer grösseren Massstabsebene dazu beiträgt, die noch unbebaute Landschaft vom Entwicklungsdruck zu entlasten und
+Pendelströme aus dem Umland in die arbeitsplatzreichen Kerngebiete zu minimieren.
+
+Seite 3/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+2.2
+
+Stärkung des Blockrands
+
+Der Blockrand ist die vorherrschende Bebauungstypologie in der Kernstadt. Dem Bau- und Planungsgesetz liegt der Blockrand als Typus zu Grunde. Als Massnahme der Säule 1 «Anpassungen
+im Bestand» soll der Blockrand als Typ weiter gestärkt und durch eine Vereinfachung der baurechtlichen Regeln die Entwicklung im Inneren des Siedlungsgebiets auf diesen Bereich fokussiert werden. Dazu soll der strassenseitige Lichteinfallswinkel gelockert (Kapitel 4.1) und die minimale Bautiefe im Blockrand von zehn auf zwölf Meter vergrössert werden (Kapitel 4.2). Als Ausgleich dazu
+sollen die Hofbebauungen in der Fläche und die Anzahl Geschosse eingeschränkt (Kapitel 5) und
+die bestehenden Bauwiche in Ecklagen geschützt werden (Kapitel 4.4).
+Mit der Lockerung der Vorschriften im Blockrand sind nicht in erster Linie mehr Wohnungen zu
+erwarten. Ziel ist es, Aus- und Umbauten von bestehenden Gebäuden zu erleichtern. So können
+durch die Lockerung des Lichteinfallswinkels Aufstockungen und Dachausbauten einfach realisiert
+werden. Durch die garantierte Bautiefe von zwölf Metern können durch Balkonerweiterungen oder
+Lichtanbauten Wohnhäuser auch ohne Neubauten attraktiver werden.
+
+2.3
+
+Differenzierung der Dachgeschosse
+
+Die Vereinfachung und Liberalisierung der Dachbauvorschriften, die der Grosse Rat im Januar
+2017 beschlossen hatte1, verfolgte ebenfalls das Ziel der inneren Verdichtung. In der kurzen Zeit
+seit der Revision hat sich gezeigt, dass die Liberalisierung nicht überall die gewünschten Effekte
+erzielte. Insbesondere in der Gemeinde Riehen, in der grosse Gebiete den Zonen 2a und 2 zugewiesen sind (keine klassische Blockrandstruktur), führt das nun zulässige zweite Dachgeschoss zu
+unerwünschten Resultaten, z.B. eine vier- bis fünfgeschossige Baute in einer zweigeschossigen
+Zone. In den Zonen 5 und 6 hingegen verhindert die maximale Gebäudehöhe, dass das zweite
+Dachgeschoss tatsächlich realisiert werden kann. Dies ist vor allem dort störend, wo mit der Zonenplanrevision Blockrandbereiche entlang grösserer Strassen in die Zone 6 aufgezont wurden
+(bspw. St. Alban-Anlage, Lehenmattstrasse oder Kleinhüningeranlage). Mit dem vorliegenden Ratschlag sollen daher die Dachgeschosse in den unterschiedlichen Zonen differenzierter geregelt
+werden (Kapitel 5).
+
+3.
+
+Grundkonzeption des Blockrands im Kanton Basel-Stadt
+
+Das städtebauliche Gesicht der Stadt Basel ist seit langem geprägt von der Blockrandbebauung.
+Die bereits in der Gründerzeit vorherrschende bauliche Struktur hat sich bis heute gehalten. Sie
+erstreckt sich nicht nur über weite Bereiche der Kernstadt, sondern liegt als Grundkonzeption auch
+dem geltenden Bau- und Planungsgesetz des Kantons und seinen Vorgängern zugrunde. Das Gesetz regelt den Blockrand als Grundprinzip und ergänzend die davon abweichenden Typologien.
+Der Blockrand als Bautypologie wird also bereits heute aktiv gefördert. So wird das zulässige Mass
+der Nutzung (die Bruttogeschossfläche, BGF) nicht nur über die Ausnutzungsziffer (AZ) als Verhältnis der Nutzfläche zur Grundfläche definiert. Das Gesetz sieht parallel dazu eine Berechnung
+über ein Vergleichsprojekt vor. Massgebend für das Bauprojekt ist dabei der höhere Wert. Diese
+Methode ermöglicht es, ungeachtet von der Parzellengrösse und des über die AZ möglichen Nutzungsmasses den Blockrand vollständig und geschlossen zu bebauen. Gerade auf wenig tiefen
+Parzellen mit einem breiten Strassenanstoss übersteigt das Nutzungsmass nach Vergleichsprojekt
+dasjenige nach AZ oft um ein Vielfaches. Tatsächlich wird das Nutzungsmass nur bei wenigen
+Parzellen über die AZ bestimmt (etwa 540 von knapp 22‘000 Parzellen2). Dabei handelt es sich
+insbesondere um sehr grosse oder tiefe Parzellen oder solche mit Spezialformen.
+
+1 Ratschlag Nr. 16.1208.01 vom 17. August 2016
+2 Gesamtzahl gemäss Auskunft der Fachstelle für Geoinformation. Stand 2017
+
+Seite 4/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+Der Blockrand wird aber auch durch einige Regeln geschwächt. Diese sollen nun angepasst, gelockert und vereinfacht werden, ohne aber gravierende Auswirkungen auf die Nachbarschaft oder
+auf das Grundkonzept des Bau- und Planungsgesetzes zu verursachen.
+
+4.
+
+Vereinfachung und Lockerung der Blockrandvorschriften
+
+4.1
+
+Lockerung des Lichteinfallswinkels strassenseitig
+
+Abb. 1:
+
+Heutige Regelung des Strassenprofils durch Wandhöhe, Baulinienabstand und Lichteinfallswinkel. (Kein Massstab)
+
+Das Bau- und Planungsgesetz regelt mit unterschiedlichen Vorschriften, wie an Strassen gebaut
+werden kann:
+Wandhöhe/Geschossanzahl: Der Zonenplan und das Bau- und Planungsgesetz definieren, wie viele Vollgeschosse bis zu welcher Höhe gebaut werden dürfen. Diese Parameter
+begründen den sogenannten Zonencharakter einer Bauzone und damit traditionell ein
+Grundanliegen der Basler Zonenordnung.
+Baulinienabstand: Bau- und Strassenlinien definieren, wo an Strassen gebaut werden
+muss, durch welche Strassen die Bauten zu erschliessen sind und wie breit die Strassenfluchten bzw. die angebauten Strassen inkl. Trottoirs und allfälligen Velostreifen selbst
+sein sollen.
+Lichteinfallswinkel: Der Lichteinfallswinkel sichert als Abstands- und Höhenbegrenzung
+eine ausreichende Belichtung wohnsensibler Räume wie Schlafzimmer, Wohnzimmer, Küchen und Wohnküchen oder anderer zum dauernden Aufenthalt dienender Räume.
+Nach der Grundkonzeption der Basler Baugesetzgebung ergänzen sich diese drei Regeln harmonisch. So kann eine fünfgeschossige Bebauung in der Zone 5a mit einer Wandhöhe von 18 m und
+einem Baulinienabstand von mindestens 18 Meter ohne weitere Einschränkung durch den Lichteinfallswinkel realisiert werden (siehe Abb. 1).
+Tatsächlich sieht es in den dichteren Baugebieten der Stadt, mit engeren Strassen und knapperen
+Baulinienabständen, anders aus. So zwingt ein Baulinienabstand von 15 Meter in der Zone 5a mit
+einer zulässigen Wandhöhe von 18 Meter Bauwillige dazu, auf ein Hochparterre zu verzichten oder
+
+Seite 5/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+das oberste Vollgeschoss zurückzuversetzen (siehe Abb. 2). Dies kann zu einer unerwünschten
+Beeinträchtigung des Strassenbildes führen, verhindert zweckmässige Dachaus- oder aufbauten
+und schmälert die Wirtschaftlichkeit von Baumassnahmen.
+
+Abb. 2:
+
+Beispiel der Reduktion des Volumens durch den Lichteinfallswinkel bei einem Baulinienabstand von 15 m. (Kein Massstab)
+
+Ziel ist es also, den strassenseitigen Lichteinfallswinkel so anzupassen, dass das Strassenprofil in
+erster Linie durch die zonenmässige Wandhöhe und den Baulinienabstand definiert wird. In zweiter
+Linie verhindert ein «gelockerter» Lichteinfallswinkel bei engen Baulinienabständen Konflikte mit
+dem Zonencharakter, vorab in den Bauzonen 4 und 5a.
+4.1.1
+
+Der Lichteinfallswinkel im BPG
+
+Im Bau- und Planungsgesetz ist der Lichteinfallwinkel entsprechend seiner Bedeutung für die
+Wohnqualität breit verankert. Dabei findet er aus zwei unterschiedlichen Perspektiven Anwendung.
+1.
+
+Aus Sicht von Betroffenen, die eine ausreichende Belichtung ihrer Räume sicherstellen
+müssen (so z.B. in § 64)
+
+Räume, die dem dauernden Aufenthalt von Menschen dienen, müssen ausreichend belichtet sein.
+Jeder Raum benötigt dazu eine minimale Fensterfläche. Damit diese Fensterfläche für eine ausreichende Belichtung sorgt, müssen Nachbargebäude diesen Fenstern gegenüber einen minimalen
+Abstand bzw. eine maximale Höhe aufweisen. Dafür sorgt der Lichteinfallswinkel.
+Der Lichteinfallswinkel setzt die zulässige Höhe eines Nachbargebäudes mit dem Abstand zum
+jeweiligen Fenster in einen Bezug. Je weiter ein Gebäude vom Nachbargebäude entfernt ist, desto
+höher darf es sein. Konkret regelt § 64 BPG einen Lichteinfallswinkel von 45° in den Zonen
+5a, 4, 3, 2, 2a und einen Winkel von 60° in den Zonen 6 und 5.
+2.
+
+Aus Sicht von Nachbar*innen, die einen Neubau so ausführen müssen, dass sie die Belichtung auf Nachbargrundstücken nicht beeinträchtigen. (so. z.B. in §§ 22, 23, 28...)
+
+Der Lichteinfallswinkel dient für Bauwillige zugleich als Abstands- und Höhenbegrenzungsregel.
+Wer sehr nah oder sehr hoch baut, der verbaut seinen Nachbar*innen potenziell das Recht, Fenster
+
+Seite 6/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+als ausreichend belichtet anrechnen zu können. Wer also bereits anrechenbare Fenster hat, beeinflusst damit gleichzeitig auch, in welchem Abstand und in welcher Höhe ein Nachbar zu diesem
+Fenster bauen kann. Dies gilt umgekehrt auch, wenn jemand neu baut: Jeder Neubau beeinflusst,
+wo später noch Fenster angerechnet werden können.
+Eine Ausnahme davon kennt das Bau- und Planungsgesetz bereits heute. Fenster an Baulinien
+dürfen auch angerechnet werden, wenn der Lichteinfallswinkel bereits durch «zu hohe» Gebäude
+(z.B. altrechtlich) auf der gegenüberliegenden Strassenseite verbaut ist (§ 64 Abs. 2 BPG).
+4.1.2
+
+Abb. 3:
+
+Änderungsbedarf im Bau- und Planungsgesetz
+
+Auswirkungen des gelockerten Lichteinfallswinkels in der Zone 5a bei einem Baulinienabstand von 15 m. (Kein Massstab)
+
+Hofseitig ist der Lichteinfallswinkel ein zweckmässiges Mittel, um Abstände und Höhen so zu regulieren, dass eine ausreichende Belichtung von sensiblen Räumen in bestehenden und künftigen
+Gebäuden sichergestellt ist. Auf der Strassenseite ist das anders. Dort gilt der Lichteinfallswinkel
+zusätzlich zu den Baulinien und den Wandhöhen und kann damit zu städtebaulich und architektonisch unerwünschten Resultaten führen. Aus diesem Grund soll er gelockert werden.
+Konkret soll der Lichteinfallswinkel neu erst ab einer Höhe von drei Metern über dem Messpunkt
+der Wandhöhe gemessen werden (siehe Abb. 3). Dies ermöglicht bei einem Baulinienabstand von
+15 Metern die volle Nutzung der zulässigen 18 Meter Wandhöhe in der Zone 5a. Bei engeren Abständen wirkt der Lichteinfallswinkel nach wie vor. Er verhindert zu starke Unterschiede zwischen
+den Wandhöhen und den Abständen zu benachbarten Gebäuden. Durch die Ermöglichung der
+vollen Nutzbarkeit der Wandhöhe von 18 Meter können u.a. das Wohnen im Hochparterre gefördert
+oder Aufstockungen begünstigt werden.
+4.1.3
+
+Auswirkung der Lockerung
+
+Gemäss § 98 BPG darf der Baulinienabstand in Strassen, die beidseitig bebaubar sind, in der Regel
+nicht weniger als zwölf Meter betragen (siehe dazu auch Kapitel 6.1). Somit hat der Lichteinfallswinkel in den Zonen 2, 2a und 3, die Wandhöhen von acht und elf Metern aufweisen, bereits heute
+keine Wirkung. In den Zonen 5 und 6 ist eine Einschränkung möglich, aber äusserst selten, da dort
+ein Lichteinfallswinkel von 60° gilt.
+
+Seite 7/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+Eine Analyse der Situation für die Zonen 4 und 5a zeigt, dass trotz der angestrebten Lockerung
+nach wie vor rund 6% aller Parzellen (1‘100 in der Zone 5a und 260 in der Zone 4) im Gebiet der
+Stadt Basel durch den strassenseitigen Lichteinfallswinkel eingeschränkt werden. Die zulässige
+Gebäudehöhe wird dadurch nicht geändert und die Anrechenbarkeit von Fenstern wird vereinfacht.
+Schutz vor starken Beeinträchtigungen garantiert der Lichteinfallswinkel nach wie vor.
+In der Gemeinde Riehen bestehen wenige Zone 4-Flächen entlang der Lörracherstrasse. Dort profitieren aufgrund der Baulinienabstände zwei Parzellen leicht. Die restlichen Parzellen der Gemeinde befinden sich in den Zonen 2, 2a, 2R und 3 oder in Schutz- und Schonzonen sowie Zonen
+für Nutzungen im öffentlichen Interesse. Die Gemeinde Bettingen ist von der Änderung nicht betroffen, da das Siedlungsgebiet nur die Zone 2a, Schutz- und Schonzonen sowie Zonen für Nutzungen im öffentlichen Interesse umfasst.
+Die Lockerung wirkt also vor allem in den bereits dicht bebauten Gebieten der Stadt. Die Vorteile
+der vollen zonenmässigen Ausnutzung der oberen Vollgeschosse bzw. der Dachgeschosse überwiegen den nachteiligen Einfluss auf die Erdgeschosse sowie die Vorgärten der gegenüberliegenden Strassenseite. Dachausbauten schaffen, sofern sie eben zweckmässig erfolgen können
+(z.B. mit Dachaufbauten), zusätzlichen Wohnraum. Auf der anderen Seite beherbergen viele bestehende Erdgeschosse bereits heute Arbeitsnutzungen. Selbst die oft nur theoretische Möglichkeit, dort Wohnungen zu erstellen, führt aber dazu, dass der Lichteinfallswinkel ab dem Erdgeschoss eingehalten werden muss.
+Schliesslich fördert diese Lockerung des Lichteinfallswinkels auch das Erdgeschosswohnen im
+Hochparterre und zwar dadurch, dass die hierzu (in der weitverbreiteten Zone 5a) erforderliche
+volle Nutzung der Wandhöhe von 18 Metern gesichert wird. Dies ist städtebaulich wünschbar, weil
+Hochparterrewohnungen im Erdgeschoss die Nachteile von bodenebenen Erdgeschosswohnungen, insbesondere die direkte Einsehbarkeit, nicht aufweisen. Dies trotz der möglichen, vermeintlich beeinträchtigenden Mehrhöhe auf der gegenüberliegenden Strassenseite. Je nach Himmelsrichtung kann die Lockerung auch einen geringen Einfluss auf die Besonnung von Vorgärten und
+auf das Allmendgrün haben.
+
+4.2
+
+Stärkung des Blockrands durch minimale Bautiefe von zwölf Metern
+
+Das Grundkonzept des Bau- und Planungsgesetzes basiert auf der Blockrandbebauung. Auch ausserhalb des Blockrands im Hofbereich kann gebaut oder statt der geschlossenen eine offene Bebauung realisiert werden. Der Blockrandbereich wird aber vom Gesetz bevorzugt, vor allem durch
+die Berechnung der zulässigen Bruttogeschossfläche über das Vergleichsprojekt.
+
+Seite 8/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+Abb. 4:
+
+Regelung des hofseitigen Abstands heute.
+
+Der Blockrandbereich wird definiert durch den Bereich von der Baulinie in die Parzelle hinein bis
+zu einer Tiefe von zwölf Metern in den Zonen 2 und 2a bzw. 15 Metern in den Zonen 3, 4 und 5a.
+Diese maximale Gebäudetiefe im Blockrandbereich wird durch verschiedene Vorschriften eingeschränkt.
+1.
+
+Die Blockrandtiefe muss auf 12 m reduziert werden, soweit es zur Einhaltung einer Freifläche
+von 50% (der Parzellenfläche hinter der Baulinie) notwendig ist. (§ 15 Abs. 1 BPG)
+
+2.
+
+Die Blockrandtiefe muss weiter herabgesetzt werden, soweit es zur Einhaltung eines Grenzabstandes zur hinteren Grundstücksgrenze nötig ist, der der Hälfte der zulässigen Höhe der
+Gebäudewände entspricht, mindestens aber 6 m beträgt. (§ 15 Abs. 2 BPG)
+
+3.
+
+Für eine Blockrandtiefe von 10 m darf der Grenzabstand unter Umständen reduziert werden.
+(§ 16 BPG)
+
+Sofern die Freifläche nicht eingehalten werden kann und die maximale Bautiefe 12 Meter beträgt,
+müssen alle Gebäude im Blockrand einen Abstand zur hinteren Grundstücksgrenze einhalten, der
+der Hälfte der zulässigen Höhe entspricht, aber nicht weniger als sechs Meter betragen darf (in der
+Zone 5a mit einer Wandhöhe von 18 Metern also immer mindestens 9 Meter). Sofern dieses Mass
+nicht eingehalten werden kann, ist noch eine minimale Bautiefe von 10 Meter garantiert.
+
+Seite 9/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+Abb. 5:
+
+Beispiel der Beeinträchtigung der Blockrandbebauung durch eine Hofbebauung. (Rot = Nutzungsverlust)
+
+Mehrgeschossige Gebäude im Hofbereich sind nur zulässig, wenn eine Freifläche von mindestens
+50% eingehalten werden kann. Darüber hinaus muss der Abstand aller Gebäudeteile der Hälfte
+ihrer projektierten Höhe entsprechen, darf aber nicht weniger als 6 m betragen. Durch eine Abtreppung kann also im Hofbereich immer bis auf sechs Meter an die Grenze heran gebaut werden.
+Dies führt zu unerwünschten Gebäudeformen und hat zur Konsequenz, dass Gebäude im Blockrand oft mindestens in ihrer Höhe beschränkt werden. Unglücklicherweise muss eine Blockrandbebauung auch dann in ihrer Höhe beschränkt werden, wenn zwar noch ein theoretischer Baubereich
+im Hof des benachbarten Grundstücks besteht, dieser jedoch aufgrund seiner zu geringen Grösse,
+der fehlenden Freifläche oder der zulässigen Bruttogeschossfläche gar nicht bebaut werden kann.
+Die Blockrandtiefe ist also keineswegs einheitlich, sondern von verschiedenen Faktoren abhängig.
+Vor allem gegenüber Gebäuden im Hofbereich ist der Blockrand stärker reguliert. Das führt zu
+einem erhöhten Druck den Hofbereich zu überbauen.
+Die Höfe haben in den dichten Gebieten der Stadt eine wichtige städtebauliche, ökologische, stadtklimatische und soziale Funktion. Sie schaffen einen wichtigen Ausgleich zur Dichte der Stadt. Aus
+diesem Grund muss der bauliche Druck von den Innenhöfen Richtung Blockrand verlagert werden.
+Nur so können die Höfe auch weiterhin ihre wichtigen Funktionen wahrnehmen.
+Ziel ist es also, den Blockrandbereich gegenüber dem Hofbereich zu stärken und eine einheitliche
+Blockrandtiefe zu ermöglichen, die nicht mehr von der Parzellentiefe oder von grossen Hofparzellen
+gesteuert wird. Selbstverständlich müssen Blockrandbebauungen zueinander sowie zu bereits bestehenden Hofgebäuden nach wie vor einen angemessenen Abstand einhalten bzw. durch eine
+Reduktion der Höhe auf die jeweilige Situation reagieren (Bestandesschutz).
+4.2.1
+
+Änderungsbedarf im BPG
+
+Bei der Änderung im Umgang mit der Blockrandtiefe gegenüber Hofbebauungen werden
+drei Grundprinzipien des Bau- und Planungsgesetzes NICHT in Frage gestellt:
+
+Seite 10/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+1. Freifläche von 50%: Die Hälfte der Fläche hinter der Baulinie darf nicht überbaut werden.
+Die Freifläche dient als Regulativ gegen eine zu starke Verdichtung und schützt die wenigen
+Grünflächen in den Höfen.
+2. Lichteinfallswinkel von 45°: Der hofseitige Lichteinfallswinkel stellt im Gegensatz zum
+strassenseitigen als einzige Regelung eine ausreichende Belichtung sicher. Der Lichteinfallswinkel ist zudem mit seinem „Höhe gleich Abstand“-Verhältnis (1:1) in der Praxis zweckmässig und einfach anwendbar.
+3. Bestandesschutz: Bestehende Bauten geniessen bereits heute einen hohen Schutz gegenüber Neubauten. Dies soll so bleiben. Bestehende Nachbarbauten sollen nicht durch
+die neuen Regelungen in Bedrängnis geraten.
+
+Abb. 6:
+
+Beispiel der Auswirkungen des Gebäudeabstands auf eine Hofbebauung. (Grün = Nutzungsgewinn, Rot = Nutzungsverlust)
+
+Neu soll der Grenzabstand zur hinteren Grundstücksgrenze durch einen Gebäudeabstand ersetzt
+werden. Der Gebäudeabstand von Gebäuden im Blockrand zu Hofbebauungen (und umgekehrt)
+ergibt sich aus der jeweils zulässigen Wandhöhe der Blockrandbebauung. Ist der Blockrand der
+Zone 5a zugeordnet (Wandhöhe 18 Meter), so müssen die Gebäude zueinander einen Abstand
+von mindestens 18 Meter einhalten, wobei eine Blockrandtiefe von zwölf Metern gesichert bleibt.
+Grenzt ein Blockrandgebäude an einen gegenüberliegenden Blockrand, so ändert sich nichts.
+Beide Gebäude müssen aufeinander Rücksicht nehmen und gegebenenfalls in der Höhe (statt wie
+bisher in der Tiefe) reduziert werden.
+4.2.2
+
+Auswirkung der minimalen Blockrandtiefe von zwölf Metern
+
+Eine Hofparzelle (bzw. eine theoretisch mögliche Hofbebauung) kann viele Blockrandparzellen im
+Umfeld einschränken. So zeigen die Beispiele in den Abbildungen 5 und 6 nicht das ganze Ausmass, da der Verlust im Hof meist um ein Vielfaches im Blockrand kompensiert wird. Das wird
+besser in Abbildung 7 ersichtlich. Die dort dargestellte Hofparzelle wird durch die vorgeschlagene
+Änderung tatsächlich in ihren baulichen Möglichkeiten beschnitten. Die Wirkung auf die Nachbarschaft ist aber ungleich grösser.
+
+Seite 11/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+Abb. 7:
+
+Beispiel der Auswirkungen des Gebäudeabstands auf einen Blockrand im Kleinbasel.
+Grau= heute mögliche Blockrandbebauung / Grün = Nutzungsgewinn durch Änderung
+Rot = heute theoretisch bebaubare Fläche im Hof / Blau = theoretisch bebaubare Fläche im Hof nach der Änderung
+
+Die betroffene Hofparzelle weist heute ein zulässiges Nutzungsmass von rund 1‘900 m2 BGF
+(nach AZ) auf. Davon können im Blockrand ca. 900 m2 BGF realisiert werden. Unter Berücksichtigung der notwendigen Freifläche und der Grenzabstände ist im Hof ein zusätzliches Gebäude mit
+drei Vollgeschossen und einem Dachgeschoss bei einer BGF von 1‘000 m2 realisierbar. Heute besteht bereits ein teilweise zweigeschossiger Gewerbebau im Hof. Ein eingeschossiger Gewerbebau ist auch in Zukunft möglich. Ein mehrgeschossiges Gebäude kann nach der hier beantragten
+Änderung aber nicht mehr realisiert werden. Es bleibt lediglich eine bebaubare Grundfläche von
+rund 25 m2. Auf dieser Grundfläche ist kein mehrgeschossiges Gebäude mehr realisierbar.
+Auf der anderen Seite führt die Änderung im Blockrandbereich zu mindestens 1‘700 m2 zusätzlicher
+Bruttogeschossfläche. Dies ergibt insgesamt einen Gewinn von 700 m2 Geschossfläche.
+In der Praxis hat die Änderung jedoch eine weit grössere positive Wirkung als auf den ersten Blick
+ersichtlich. Wie bereits weiter oben beschrieben, fordert das Bau- und Planungsgesetz, dass ein
+Lichteinfallswinkel auf alle theoretisch möglichen mehrgeschossigen Nachbargebäude eingehalten
+werden muss. Faktisch begrenzt diese Regelung viele Gebäude, auch wenn das theoretische
+Nachbargebäude gar nie gebaut werden kann.
+
+Seite 12/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+Abb. 8:
+
+Beispiel der Auswirkungen des Gebäudeabstands auf einen Blockrand im Quartier St. Johann.
+Grau= heute mögliche Blockrandbebauung
+Grün = Nutzungsgewinn durch Änderung
+Rot = heute theoretisch bebaubare Fläche im Hof
+
+Ein mehrgeschossiges Gebäude ist überall dort möglich, wo ein Grenzabstand von sechs Metern
+eingehalten wird (siehe beispielweise die roten Flächen in Abbildung 8). Ob eine sinnvolle Gebäudegrösse bzw. Gebäudegrundfläche resultiert, die ein funktionierendes Gebäude ermöglicht, ist
+dabei unerheblich. Genauso wenig ist relevant, ob die für eine Bebauung ausserhalb des Blockrandbereichs nötige Bruttogeschossfläche sowie die nötige Freifläche eingehalten werden kann.
+Dies führt dazu, dass weit mehr Parzellen von der hier vorgeschlagenen Änderung profitieren als
+dass ihnen daraus Nachteile erwachsen. Am Beispiel in Abbildung 8 wird ersichtlich, dass viele
+Parzellen profitieren, aber keine Parzelle tatsächlich in ihren baulichen Möglichkeiten eingeschränkt wird. Es entsteht ein Gewinn an Bruttogeschossfläche von mindestens 800 m2 ohne negative Auswirkungen für die Nachbarschaft.
+Wie beim strassenseitigen Lichteinfallswinkel sind auch hier lediglich die Zonen 4 und 5a betroffen,
+da der Gebäudeabstand in den Zone 2, 2a und 3 mit zulässigen Gebäudehöhen von unter
+zwölf Metern selten zu grösseren Auswirkungen auf Hofparzellen führt.
+Eine Analyse aller Parzellen in der Stadt hat gezeigt, dass das Mass der baulichen Nutzung lediglich bei rund 5403 von den insgesamt rund 22‘000 Parzellen durch die AZ bestimmt wird. Davon
+wird nur bei zwölf Parzellen oder 0,05% tatsächlich die Möglichkeit einer Hofbebauung massgeblich eingeschränkt. Die oben beschriebenen Beispiele in den Abb. 6 und 7 zeigen deutlich, dass
+bereits in diesen zwei Gevierten der Gewinn substanziell ist.
+
+3 Gemäss Erhebung des Planungsamts. Stand 2017.
+
+Seite 13/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+4.3
+
+Schutz der noch bestehenden Bauwiche
+
+Der bauliche Druck besteht nicht nur in den Höfen. Durch den stärkeren Schutz von bestehenden
+Gebäuden über das neue Wohnraumfördergesetz steigt auch der Druck auf noch unbebaute Abschnitte im Blockrandbereich. Dass unbebaute Flächen im Blockrand geschlossen werden, ist im
+Prinzip zu begrüssen. Wenn aber noch offene Ecklagen geschlossen werden, hat das oft eine negative Wirkung. Ecklagen sind in verschiedener Hinsicht eine städtebauliche Spezialität. So ist die
+Grundrissanordnung aufgrund der Ecklage schwieriger. Es besteht viel Fassadenfläche gegen den
+Strassenraum, aber wenig gegen den Hof. Aus diesen und weitere Gründen sind viele Ecklagen,
+besonders in den Aussenquartieren (Bachletten, Gellert, Hirzbrunnen, etc.), nicht geschlossen. Das
+ermöglicht, auf drei Seiten Fenster und damit sehr attraktive Grundrisse zu schaffen.
+Auch historisch gesehen war der Bauwich der Normalfall. Früher diente er zur Entlüftung, der durch
+das Gewerbe und die weit verbreiteten Holz- und Kohleheizungen belastete Luft in den Höfen. Das
+ist heute glücklicherweise kein Problem mehr. Die Luft ist nicht mehr im selben Mass belastet wie
+früher. Gleichzeitig mit der Verbesserung der Luftqualität sank aber auch der Schutz der Bauwiche
+über das Bau- und Planungsgesetz. Spätestens ab 1993 wurde mit einer Änderung des Hochbautengesetzes eine weitgehende Ausnahmebestimmung zur Schliessung der Eckbebauungen eingeführt. Interessen des Städtebaus und des Umweltschutzes sollten die vermehrte Schliessung der
+Eckbebauungen im Einzelfall ermöglichen. In erster Linie waren es jedoch die Belange des Lärmschutzes, die nach einer «vermehrten Beruhigung der Hinterhöfe» riefen: Damit sollten die Grenzwerte der eidgenössischen Lärmschutzverordnung durch die bauliche Massnahme der kompletten
+Schliessung der Randbereiche auch in Ecklagen das Hinterland gegen die Strassen hin abschirmen. Die uneingeschränkte Zulassung der geschlossenen Randbebauung auch auf Eckparzellen
+gehörte schliesslich zu den wesentlichen Abweichungen des Bau- und Planungsgesetzes
+(ab 2000) vom früheren Recht.
+Heute spricht neben der städtebaulich und architektonisch problematischen Schliessung der noch
+offenen Ecklagen auch das Anliegen einer besseren Durchlüftung, im Sinne der klimaangepassten
+Stadt, für einen Schutz von Bauwichen. Auch wenn der Nutzen für die Durchlüftung widersprüchlich
+beurteilt wird, spricht auch aus dieser Sicht nichts dagegen, die noch vorhandenen Bauwiche zu
+erhalten. Allerdings muss im Einzelfall geprüft werden, ob dadurch eine starke Verbesserung des
+Lärmschutzes verhindert wird.
+4.3.1
+
+Änderungsbedarf im BPG
+
+Aufgrund der Rückmeldungen im Rahmen der öffentlichen Vernehmlassung zum vorliegenden Gesetzesentwurf und unter Einbezug von Erfahrungswerten aus der Bewilligungspraxis wurde die
+Wiedereinführung von Bauwichen geprüft. Eine generelle Einführung von Bauwichen wurde aus
+verschieden Gründen wieder verworfen. Neben den bereits in der Antwort zum Anzug Dill und
+Konsorten (P195146) beschriebenen Gründen, wie dem fehlenden Nutzen für eine bessere Durchlüftung, hat eine generelle Einführung in vielen Fällen eine negative Auswirkung auf die Lärmsituation. Nach wie vor profitieren viele Höfe vom geschlossenen Blockrand, der eine starke Lärmschutzwirkung entfaltet. Zudem verhindert der Bestandesschutz, dass bestehende Gebäude bei
+Umbauten und Sanierungen wieder geöffnet werden. Dies zeigt, dass es kein genügendes öffentliches Interesse für eine generelle Wiedereinführung von Bauwichen in Ecklagen besteht.
+Anders sieht es beim Schutz von noch bestehenden Bauwichen aus. Der Schutz könnte dem weiter
+oben beschriebenen Problem der Schliessung von Baulücken gut entgegenwirken. Das schützt
+einerseits die bestehenden Gebäude in den Ecklagen vor eingreifenden Veränderungen und
+schafft andererseits keine neuen Lärmprobleme, da die Lücken ja bereits bestehen. Sollte das
+Schliessen einer Ecklage die einzige Möglichkeit sein, einen substanziellen Schutz vor Lärm im
+Hof zu erreichen (also nach der Sanierung der Lärmquelle und weiterer Massnahmen zum Lärmschutz), so ist ausnahmsweise eine Schliessung der Ecklage zu prüfen und gegebenenfalls ausnahmsweise zu bewilligen.
+
+Seite 14/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+Neu sollen also bestehende Lücken im Blockrandbereich in Ecklagen offen bleiben. Dabei sind die
+verschiedenen Parzellengrössen und Formen zu berücksichtigen. Es ist nicht das Ziel, dass Baulücken von 30 bis 40 Metern offen bleiben. Aus diesem Grund wird das Mass so festgesetzt, dass
+Fenster an den seitlichen Fassaden möglich sind, also ein Lichteinfallswinkel von 45° sichergestellt
+werden kann. Damit werden neu auch dort Fenster möglich, wo heute noch Brandmauern ausgebildet werden müssen.
+
+Abb. 9:
+
+Erhalt Bauwich: Beispiel der durch die Regelung freigehaltenen Flächen in Ecklagen (grün).
+
+Abb. 10: Erhalt Bauwich: Beispiel der Bebaubarkeit gegen ein Gebäude in Ecklagen in der Zone 3. Grün ist der heute bebaubare
+Bereich der künftig freigehalten werden müsste.
+
+Seite 15/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+5.
+
+Präzisierung der zulässigen Dachgeschosse
+
+5.1
+
+Zweites Dachgeschoss in den Zonen 5 und 6
+
+Im Januar 2017 hat der Grosse Rat eine Vereinfachung und Liberalisierung der Dachbauvorschriften beschlossen4. Damit wurden die Möglichkeiten im Bereich der Dachgeschosse erweitert und
+vereinfacht. Nach nur kurzer Zeit der Anwendung der neuen Regelungen hat sich gezeigt, dass die
+Vereinfachung bei den Zonen 5 und 6 nicht wirkt wie beabsichtigt.
+Gemäss § 36 lit. c BPG entspricht die zulässige Geschossfläche über dem obersten Vollgeschoss
+in den Zonen 5 und 6 der für die Nutzungsberechnung massgebenden Dachgeschossfläche. Die
+Nutzungsberechnung erfolgt über § 36 lit. a BPG, wonach die zulässige Bruttogeschossfläche die
+Grundfläche der Vollgeschosse sowie die Fläche eines 1,5 m hinter die Baulinie zurückgesetzten
+Dachgeschosses umfasst. Litera a ist insofern unproblematisch, da neu ein zweites Dachgeschoss
+nicht an die Bruttogeschossfläche angerechnet wird. Der direkte Verweis von Litera c auf Litera a
+führt aber dazu, dass die Liberalisierung der Dachbauvorschriften in der Zone 5 und 6 faktisch nicht
+greift, da zwar bereits jetzt zwei Dachgeschosse realisiert werden können, diese aber insgesamt
+nur die Fläche eines Dachgeschosses umfassen dürfen. Dies ist eine unerwünschte Ungleichbehandlung, insbesondere im Hinblick auf die mit der aktuellen Zonenplanrevision (Teil II aus dem
+Jahr 2018) erfolgten Aufzonungen von Blockrandbereichen in die Zone 6. Darüber hinaus ist es mit
+einer Gebäudehöhe von 24 Metern in der Zone 5, respektive 26 Metern in der Zone 6 gar nicht
+möglich, bei der vollen Ausnutzung zur zulässigen Wandhöhe zwei normgerechte Dachgeschosse
+übereinander anzuordnen.
+Mit der Liberalisierung der Dachbauvorschriften wurden die Möglichkeiten insofern vereinfacht, als
+dass innerhalb des zulässigen Dachprofils ein zweites Dachgeschoss ermöglicht wurde, das aber
+eben nicht an die zulässige Bruttogeschossfläche angerechnet wird. Damit erhält man ein zweites Dachgeschoss «gratis». Dies soll nun auch in den Zonen 5 und 6 möglich werden.
+
+5.2
+
+Dachgeschosse in den Zonen 2 und 2a
+
+Wie sich seit der Revision der Dachbauvorschriften im 2016 vor allem in der Gemeinde Riehen an
+verschiedenen Beispielen gezeigt hat, führt die in erster Linie für Blockrandbebauungen gedachte
+Liberalisierung im Bereich der Dachgeschosse in den Zonen 2 und 2a auf grossen Parzellen und
+in Hanglagen zu architektonisch und gestalterisch unerwünschten und unerwarteten Ergebnissen.
+Denn anders als in der Stadt gibt es in den Landgemeinden keine geschlossenen Blockränder. Der
+architektonische Charakter von Riehen ist geprägt durch die zweigeschossige Zeilenbauweise, oft
+mit Giebeldächern sowie zweigeschossigen Punktbauten. Dies ist vergleichbar mit den Auswirkungen im Hofbereich (siehe Kapitel 6.3).
+Die nun zulässigen zwei Dachgeschosse verlagern das Verhältnis zwischen den zulässigen zwei
+Vollgeschossen und dem darauf aufbauenden Dach zu Ungunsten des ortstypischen Erscheinungsbildes. Das Dach überwiegt die Erscheinung des gesamten Gebäudes. Neben der ästhetischen Komponente geht damit gleichzeitig auch eine erhebliche Nutzungserhöhung einher, da das
+zweite Dachgeschoss nicht an die BGF zählt. Diese Erhöhung war (und ist) so in den Zonen 2 und
+2a nicht beabsichtigt. Die Lockerung der Dachbauvorschriften zielte in erster Linie auf den Blockrand und Gebäude in den Zonen 4 und 5a. Aus diesem Grund soll in Abweichung von der allgemeinen Regelung in den Zonen 2 und 2a kein zweites Dachgeschoss mehr zulässig sein. Ein zweites Dachgeschoss unter einem bereits bestehenden Giebeldach (also vor der Änderung des Bauund Planungsgesetzes errichtet) bleibt erlaubt. Mit dieser Massnahme kann das Ortsbild von Riehen und Bettingen gewahrt werden.
+
+4 Beschluss Nr. 17/02/14G vom 11.01.2017
+
+Seite 16/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+5.3
+
+Dachgeschosse ausserhalb des Blockrandbereichs in den Zonen 4 und 5a
+
+Mit der Revision des Bau- und Planungsgesetzes im Bereich der Dachbauvorschriften wurde die
+maximale First- bzw. Gebäudehöhe für die Zonen 2 bis 5a aufgehoben. Die Ausdehnung der Dächer wird nun nur noch über die Dachprofillinie beschränkt.
+Gemäss § 25 BPG bezeichnet die Dachprofillinie die Höchsthöhe der über den Gebäudewänden
+liegenden Gebäudeteile. Sie steigt in einem Winkel von 45° von den Linien aus, an denen Gebäudewände an der Baulinie und auf der von der Baulinie abgewandten Gebäudeseite ihre grösste
+Höhe erreichen können. Für Hofbebauungen gilt ergänzend dazu, gemäss § 29 lit. d. BPG, dass
+Dachgeschosse zurückgesetzt oder mit einem Schrägdach überdeckt werden müssen.
+Dies führt dazu, dass auf Hofbebauungen sehr hohe Satteldächer entstehen könnten. Bei einer
+Hofbebauung in der Zone 5a mit einer zulässigen Wandhöhe von 18 Metern und einer Grundfläche
+von 20 mal 20 Metern wäre das zulässige Satteldach bereits zehn Meter hoch, die Gebäudehöhe
+also 28 Meter. Bei einem Gebäude auf derselben Parzelle im Blockrand wäre die maximal mögliche
+Dachhöhe aufgrund der Gebäudetiefe von 15 Metern auf 7,5 Meter beschränkt (Gebäudehöhe
+25,5 Meter). Diese ungleiche Ausgangslage ist nicht erwünscht und führt zu städtebaulich untragbaren Situationen.
+Mit Blick auf die weiter oben beschriebene Stärkung des Blockrands muss die Dichte von
+Hofbebauungen grundsätzlich kritisch beurteilt werden. Die Innenhöfe stellen, sofern nur wenig
+bebaut und als Frei- und Grünraum gestaltet, besonders in den bereits dicht bebauten Quartieren
+einen wichtigen Ausgleich sicher. Heute stellen Hofbebauungen, vor allem in den dichten Gebieten
+der Zonen 4 und 5a, nicht nur in ihrer flächigen Ausdehung, sondern auch in ihrer Höhe eine Last
+für die Qualität der Innenhöfe dar.
+Aus diesem Grund soll in den dichten Zonen 4 und 5a im Hofbereich auf Dachgeschosse verzichtet
+werden. Die Gewichtung zwischen Blockrand und Hof wird so zusätzlich zugunsten des Blockrands
+verschoben.
+
+Abb. 11: Zeilenbebauung in der Zone 4. Beispiel: Holeestrasse / Kaltbrunnenstrasse. Quelle: MapBS
+
+Es gibt allerdings Parzellen in den Zonen 4 und 5a, die nicht in das Block-Hof-Muster passen. Dabei
+ist insbesondere an Bebauungen in der Zeilenbauweise zu denken. Die Einschränkung der Dachgeschosse in den dichteren Zonen muss daher so erfolgen, dass reine Zeilenbebauungen nicht
+davon betroffen sind.
+
+6.
+
+Weitere Anpassungen des BPG
+
+Nebst den vorher beschriebenen Änderungen des Bau- und Planungsgesetzes sollen weitere
+kleine Bereinigungen vorgenommen werden. Ziel ist auch hier, die baurechtlichen Rahmenbedingungen durch weitere kleinere Anpassungen zu vereinfachen.
+
+Seite 17/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+6.1
+
+Lockerung des minimalen Baulinienabstands von zwölf Metern
+
+Gemäss § 98 BPG muss der Abstand von Baulinien mindestens zwölf Meter betragen. Diese Vorschrift führt immer wieder zu unbefriedigenden Ergebnissen. Namentlich in der Altstadt, mit ihren
+kleinräumigen Strukturen und engen Strassen und Gassen, kann der Mindestabstand von
+zwölf Metern oft nicht eingehalten werden.
+Beispiel: Theatergässlein
+Vor Jahrzehnten wurde eine Strassenverbindung zwischen dem Birsig-Parkplatz und der
+Steinenvorstadt geplant. Das ist heute kein Thema mehr. Daher konnten im Jahr 2017 die
+vor der alten Strassenlinie liegenden Liegenschaften Theatergässlein 15 und 17 wieder eingezont werden.
+Weil das Theatergässlein nur ca. 3,5 Meter breit ist, beträgt der Abstand zu den gegenüberliegenden Liegenschaften ebenfalls nur knapp 3,5 Meter. Aufgrund des gemäss § 98 BPG
+geforderten Mindestabstands von Baulinien konnten entlang des Theatergässleins keine
+neuen Baulinien gelegt werden.
+Um eine rechtlich korrekte Situation zu schaffen, wurden entlang des Theatergässleins Baugrenzen anstelle von Baulinien festgesetzt. Hierfür musste sogar die bestehende Baulinie
+der von der Einzonung nicht betroffenen gegenüberliegenden Liegenschaft Steinenvorstadt 13 aufgehoben werden.
+
+Abb. 12: Ausschnitt Zonenplan. Quelle MapBS
+
+Die Einhaltung des Mindestabstands von zwölf Metern führt aber auch ausserhalb der Altstadt zu
+unbefriedigenden Lösungen.
+Beispiel A: Projekt Eidgenossenweg
+Für die Realisierung einer verdichteten Bebauung mussten am Eidgenossenweg die Baulinien neu festgesetzt werden, weil sonst einzelne Teile der neuen Gebäude über die bestehenden Baulinien hinausgeragt hätten. Weil der Eidgenossenweg als Erschliessungsstrasse nur ca. 8 m breit ist, musste bei der Festlegung der neuen Baulinien ein gesetzlicher
+Vorgarten festgesetzt werden, dessen Verlauf aufgrund der unterschiedlichen Breite der
+Strasse auch unterschiedlich breit ist.
+Beispiel B: Industrie und Gewerbeareale
+In der Hagenaustrasse betragen die aktuellen Baulinienabstände 7,5 Meter. Bei einer Änderung müssten diese auf zwölf Meter erweitert werden, was einerseits zu grösseren Verlusten der baulichen Nutzung führen und andererseits Vorgärten gesetzlich vorschreiben
+würde, die in diesen Zonen zu unnötigen Behinderungen für die Gewerbetreibenden führen.
+Beispielweise sollte bei einer Liegenschaft in Zone 7 ein Besucherparkplatz eingerichtet
+werden, der aber wegen der Vorgartenbestimmung nicht bewilligt werden konnte.
+
+Seite 18/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+Es gibt also Situationen, in denen ein Baulinienabstand von mindestens zwölf Metern nicht zielführend ist. Den minimalen Baulinienabstand aber einfach aufzuheben ist, mit Blick auf die weiter oben
+beschriebenen Regeln zur Definition des Strassenprofils, ebenfalls unzweckmässig. Ein minimaler
+Abstand von zwölf Metern hat sich in den meisten Fällen als geeignete Grösse erwiesen. Für gut
+begründete Spezialfälle soll aber von der Regel abgewichen werden können.
+
+6.2
+
+Flexibilisierung der Gestaltung von Erkern
+
+In der Praxis hat die Ausschöpfung der gesetzlich maximalen Grundfläche bei der Ausgestaltung
+von Erkern Priorität. Das Bau- und Planungsgesetz definiert Erker so, dass ohne Nutzungsverlust
+kein gestalterischer Spielraum besteht. Dies ist umso störender, weil durch die aktuelle Regelung
+auch die in den Gründerzeitquartieren weit verbreiteten Erker heute oft nicht mehr bewilligbar sind.
+Erker und Risalite gliedern die Fassade und tragen wesentlich zur Massstäblichkeit eines Gebäudes bei. Die Vorschriften sollen nun so geändert werden, dass die maximale Fläche gegenüber der
+heutigen Regelung unverändert bleibt. Es soll nicht mehr mit einem Flächenverlust bestraft werden,
+wer den Gestaltungsspielraum für eine bessere Lösung nutzt.
+Dies wird erreicht, wenn die Flächenberechnung sich auf die heutige Regelung bezieht
+(max. 1.5 Meter mal 1/3 der Fassadenlänge), der Gestaltungsspielraum sich aber statt auf einen
+Drittel der Fassade neu auf die Hälfte der Fassade bezieht.
+
+Abb. 13: Beispiel der vorgeschlagenen Erker-Regelung mit Gestaltungsspielraum bei gleichbleibender Fläche
+
+7.
+
+Auswirkungen auf das Stadtklima
+
+Der Bebauungstyp Blockrand ist aus stadtklimatischer Sicht keine günstige Bebauungsstruktur.
+Aus den neuen Klimaanalysenkarten ist zu erkennen, dass beispielsweise das Kaltluftströmungsfeld, das von der Erhöhung Bruderholz in die Stadt fliesst, durch die Blockrandstruktur des Quartiers Gundeldingen fast vollständig blockiert wird. Dies hat einen stadtklimatisch negativen Einfluss
+auf grosse Teile in der Innenstadt. Weiter ist in der Klimaanalysekarte zu erkennen, dass Blockrandbebauungen stärker erwärmt werden, wie beispielsweise die durchgrünte Zeilenbebauung im
+Gellertquartier. Blockrand-Gebiete werden zukünftig mit den zu erwartenden Klimawandelbedingungen noch wärmer.
+Die vertikale Nachverdichtung, wie sie durch die Vereinfachung der Blockrandvorschriften ermöglicht wird, stellt generell aus stadtklimatischer Sicht eine weniger belastende Lösung dar als andere
+
+Seite 19/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+Massnahmen der inneren Verdichtung. Insbesondere die längere Beschattung von Strassenschluchten und von gegenüberliegenden Gebäuden kann den Wärmeinseleffekt leicht minimieren,
+indem sich Asphalt und Hausfassaden an Sommertagen weniger stark aufwärmen können.
+Den baulichen Druck von den Innenhöfen Richtung Blockrand zu verlagern begünstigt nicht nur
+städtebauliche, ökologische und soziale Funktionen. Es kann auch stadtklimatische Vorteile bringen, wenn diese Höfe begrünt sind. Grünflächen mit Baumbestand spenden an heissen Sommertagen Schatten und sorgen somit für eine hohe Aufenthaltsqualität. In heissen Sommernächten
+haben diese zudem eine kühlende Wirkung auf die Umgebung. Die Wiedereinführung der Bauwiche ermöglicht schliesslich, durch eine bessere Durchlüftung von dieser kühlenden Wirkung der
+Innenhöfe zu profitieren.
+
+8.
+
+Konkrete Änderungen des Bau- und Planungsgesetzes
+
+Nach den allgemeinen Erläuterungen folgen nun die konkreten Änderungsvorschläge am Bau- und
+Planungsgesetz. Die Darstellung folgt der Reihenfolge der Paragrafen im bestehenden Gesetz. Die
+Änderungsvorschläge sind jeweils fett geschrieben.
+Bestehende Fassung
+Neue Fassung
+§ 11. (Anordnung > Allgemeines > Geschosszahl > Dach- § 11. (Anordnung > Allgemeines > Geschosszahl > Dachgeschosse)
+geschosse)
+1 Dachgeschosse werden nicht an die zulässige Ge- 1 Dachgeschosse werden nicht an die zulässige Geschosszahl angerechnet, wenn sie mindestens auf der schosszahl angerechnet, wenn sie mindestens auf der
+Strassen- und auf der Hofseite hinter das oberste Vollge- Strassen- und auf der Hofseite hinter das oberste Vollgeschoss zurückgesetzt (Attikageschosse) oder mit höchs- schoss zurückgesetzt (Attikageschosse) oder mit höchstens 1,4 m hohen Kniestöcken angelegt werden.
+tens 1,4 m hohen Kniestöcken angelegt werden.
+2 Das erste Attikageschoss muss zu den Wänden auf der 2 Das erste Attikageschoss muss zu den Wänden auf der
+Strassen- und auf der Hofseite des obersten Vollgeschos- Strassen- und auf der Hofseite des obersten Vollgeschosses einen Abstand von je 1,5 m einhalten. Dieser Abstand ses einen Abstand von je 1,5 m einhalten. Dieser Abstand
+kann stellenweise bis auf 0,8 m verringert werden, wenn kann stellenweise bis auf 0,8 m verringert werden, wenn
+dabei die gesamte Grundfläche des Dachgeschosses nicht dabei die gesamte Grundfläche des Dachgeschosses nicht
+vergrössert wird.
+vergrössert wird.
+2 bis Treppenhaus und Liftschacht sind davon ausgenom- 2 bis Treppenhaus und Liftschacht sind davon ausgenommen, sofern sie das erste Dachgeschoss nicht überragen men, sofern sie das erste Dachgeschoss nicht überragen
+und sich nicht über mehr als ein Drittel der Fassadenbreite und sich nicht über mehr als ein Drittel der Fassadenbreite
+erstrecken.
+erstrecken.
+3 Die Kniestockhöhe entspricht dem Abstand zwischen 3 Die Kniestockhöhe entspricht dem Abstand zwischen
+dem rohen Fussboden und der Oberkante der Dachbalken dem rohen Fussboden und der Oberkante der Dachbalken
+auf der Aussenseite.
+auf der Aussenseite.
+4 Zwei Dachgeschosse sind nur zulässig, wenn sie inner- 4 Zwei Dachgeschosse sind nur zulässig, wenn sie innerhalb der Dachprofillinie liegen, die über dem obersten Voll- halb der Dachprofillinie liegen, die über dem obersten Vollgeschoss ansetzt.
+geschoss ansetzt.
+5 In den Zonen 2 und 2a ist ein zweites Dachgeschoss
+nur unter einem bestehenden Giebeldach zulässig.
+
+Erläuterung zu § 11:
+Ein zweites Dachgeschoss führt in den Zonen 2 / 2a zu unerwünschten Zuständen, insbesondere
+im von diesen Zonen dominierten Riehen. Nebst zwei Vollgeschossen sind heute zwei Dachgeschosse zulässig, was zu ästhetisch unerwünschten Proportionen der Gebäude führt. Aus diesem
+Grund wird die Liberalisierung der Anzahl Dachgeschosse für diese zwei Zonen wieder zurückgenommen.
+In einem bereits rechtmässig erstellten bestehenden Giebeldach ist ein zweites Dachgeschoss
+aber weiterhin zulässig. So sollen bereits erstellte Giebeldächervoll genutzt werden können, ohne
+
+Seite 20/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+das Volumen dabei verändern zu müssen. Dies ist im Sinne der inneren Verdichtung zweckmässig.
+Unter neuen Giebeldächern ist kein zweites Dachgeschoss mehr erlaubt.
+Bestehende Fassung
+Neue Fassung
+§ 15. (Randbebauungen > Gebäudetiefen > Beschränkun- § 15. (Randbebauungen > Gebäudetiefen > Beschränkungen)
+gen)
+1 Die Gebäudetiefe muss herabgesetzt werden, soweit es 1 Die Gebäudetiefe muss herabgesetzt werden, soweit es
+zur Einhaltung einer Freifläche von 50% der hinter der Bau- zur Einhaltung einer Freifläche von 50% der hinter der Baulinie liegenden Grundstücksfläche nötig ist, höchstens aber linie liegenden Grundstücksfläche nötig ist, höchstens aber
+auf 12 m. Unterirdische und auf Freiflächen zulässige Bau- auf 12 m. Unterirdische und auf Freiflächen zulässige Bauten (§ 52) werden nicht berücksichtigt.
+ten (§ 52) werden nicht berücksichtigt.
+2 Die Gebäudetiefe muss weiter herabgesetzt werden, so- 2 Die Gebäudetiefe muss weiter herabgesetzt werden,
+weit es zur Einhaltung eines Abstandes zur hinteren soweit es zur Einhaltung eines Abstandes zur hinteren
+Grundstücksgrenze nötig ist, der der Hälfte der zulässigen Grundstücksgrenze nötig ist, der der Hälfte der zuläsHöhe der Gebäudewände entspricht, mindestens aber 6 m sigen Höhe der Gebäudewände entspricht, mindestens
+beträgt.
+aber 6 m beträgt.
+
+Erläuterung zu § 15:
+§ 14 BPG definiert das Höchstmass der Tiefe von Randbebauungen. Es sind 15 Meter in den Zonen 5a, 4 und 3 sowie zwölf Meter in den Zonen 2 und 2a. § 15 BPG regelt darüber hinaus gehende
+Beschränkungen der Gebäudetiefe im Blockrandbereich.
+§ 15 Abs. 1 BPG fordert eine Freifläche von 50%. Damit wird in Verbindung mit § 52 BPG ein
+ausreichender Frei- und Grünraum sichergestellt. Können diese 50% nicht erreicht werden, muss
+die Tiefe der Randbebauung bis auf maximal zwölf Meter reduziert werden. Eine weitere Reduktion
+der Gebäudetiefe aufgrund der Freifläche ist nicht vorgeschrieben.
+§ 15 Abs. 2 BPG fordert zusätzlich zur Freifläche einen Grenzabstand zur hinteren Grundstücksgrenze, der der Hälfte der zulässigen Höhe der Gebäudewände entspricht. In der Zone 5a mit einer
+zulässigen Wandhöhe von 18 Metern ist also ein Grenzabstand von 9 Metern einzuhalten. Kann
+dies nicht sichergestellt werden, muss die Gebäudetiefe bis auf maximal zehn Meter herabgesetzt
+werden (siehe § 16 BPG). Dies soll zur Stärkung des Blockrands (siehe Kapitel 4.2) geändert werden.
+Neu muss die Gebäudetiefe nicht mehr weiter herabgesetzt werden (also unter zwölf Meter). Wenn
+der Abstand zu anderen Randbebauungen bzw. der Lichteinfallswinkel es erfordert, ist die Höhe
+eines Gebäudes zu reduzieren (siehe dazu § 23 Abs. 1 BPG).
+Ecklagen oder sehr enge Situationen regelt § 16 BPG (siehe unten). Den Umgang mit bereits bestehenden Gebäuden im Hof oder im gegenüberliegenden Blockrand regelt § 28 Abs. 4 BPG
+(„Der zur bestimmungsgemässen Nutzung nötige Lichteinfall auf bestehende Gebäude im gleichen
+Baublock muss gewahrt werden.“).
+Bestehende Fassung
+Neue Fassung
+§ 16. (Randbebauungen > Gebäudetiefen > Mindestmass) § 16. (Randbebauungen > Gebäudetiefen > Mindestmass)
+1 Soweit es für Gebäudetiefen von 10 m nötig ist, darf der 1 Soweit es für Gebäudetiefen von 10 m nötig ist, darf der
+Grenzabstand herabgesetzt werden,
+Grenzabstand herabgesetzt werden,
+a) wenn die für zulässige Nutzungen nötigen Lichteinfalls- a) wenn die für zulässige Nutzungen nötigen Lichteinfallswinkel durch Höhenbegrenzungen eingehalten werden;
+winkel durch Höhenbegrenzungen eingehalten werden;
+b) wenn nicht vorgeschrieben ist und darauf verzichtet wird, b) wenn nicht vorgeschrieben ist und darauf verzichtet wird,
+unterhalb der Eckpunkte der gesetzmässigen Lichteinfalls- unterhalb der Eckpunkte der gesetzmässigen Lichteinfallswinkel liegende Räume für Nutzungen zu verwenden, die winkel liegende Räume für Nutzungen zu verwenden, die
+Fenster auf der Hofseite voraussetzen.
+Fenster auf der Hofseite voraussetzen.
+2 Nicht eingehalten werden müssen
+
+2 Nicht eingehalten werden müssen
+
+Seite 21/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+a) Grenzabstände, die Abstände mehrgeschossiger Ge- a) Grenzabstände, die Abstände mehrgeschossiger Gebäude von weniger als 3,5 m zur Folge haben könnten;
+bäude von weniger als 3,5 m zur Folge haben könnten;
+b) Abstände von weniger als 7 m zwischen Randbebauun- b) Abstände von weniger als 7 m zwischen Randbebauungen, die in einem Winkel von weniger als 60°/360 aufeinan- gen, die in einem Winkel von weniger als 60°/360 aufeinandertreffen.
+dertreffen.
+3 Wenn nichts anderes vereinbart ist, dürfen Gebäude- 3 Wenn nichts anderes vereinbart ist, dürfen Gebäudewände auf der Hofseite mit einem Grenzabstand von weni- wände auf der Hofseite mit einem Gebäudeabstand
+ger als 3,5 m keine Fenster haben.
+von weniger als 3,5 m keine Fenster haben.
+4 Vereinbarungen über die Herabsetzung von Grenzab- 4 Vereinbarungen über die Herabsetzung von Gebäuständen und über Fensterrechte sind als Dienstbarkeiten deabständen und über Fensterrechte sind als Dienstim Grundbuch einzutragen.
+barkeiten im Grundbuch einzutragen.
+
+Erläuterung zu § 16:
+Mit dem Wegfall des Grenzabstands zur hinteren Grundstücksgrenze in § 15 Abs. 2 BPG und der
+damit verbundenen Pflicht, unter Umständen die Bautiefe unter zwölf Meter zu reduzieren, werden
+die § 16 Abs. 1 und Abs. 2 BPG obsolet. Weniger als zwölf Meter tief muss im Blockrand nicht mehr
+gebaut werden. Für grössere Gebäudetiefen wäre eine Freifläche von 50% zwingend und damit
+sind auch ausreichende Abstände zu Nachbargebäuden sichergestellt. Zusätzlich stellt auch
+§ 23 Abs. 1 BPG eine ausreichende Belichtung von sensiblen Räumen sicher. Zu nahe Situationen
+können nur entstehen, wenn keine sensiblen Räume zueinander angeordnet werden. Sofern nicht
+die Lichteinfallswinkel entgegenstehen, darf also bei Gebäudetiefen von bis zu zwölf Metern bis auf
+die hintere Grundstücksgrenze gebaut werden.
+Sofern Gebäudewände zueinander weniger als 3,5 m Abstand aufweisen, sind keine Fenster zulässig, unabhängig davon, welche Nutzungen sich in den Räumen dahinter befinden. Da nicht mehr
+auf die Grenze Bezug genommen wird, sondern auf den Abstand zu anderen Gebäuden, wird hier
+der Grenzabstand durch den Gebäudeabstand ersetzt. Besteht beispielsweise ein eingeschossiger
+Gewerbeanbau auf der Nachbarparzelle, so darf zwar zwölf Meter tief gebaut werden, das auf den
+Anbau ausgerichtete Erdgeschoss darf dann aber nur Fenster haben, wenn der Abstand zu diesem
+Anbau mehr als 3,5 Meter beträgt.
+Bestehende Fassung
+Neue Fassung
+§ 17. (Vorragende Bauteile > Strassenseite > im Allgemei- § 17. (Vorragende Bauteile > Strassenseite > im Allgemeinen)
+nen)
+1 Baulinien dürfen um einen Zehntel des Baulinienabstan- 1 Baulinien dürfen um einen Zehntel des Baulinienabstandes, höchstens aber um 1,5 m durch Bauteile wie Dächer, des, höchstens aber um 1,5 m durch Bauteile wie Dächer,
+Balkone, Freitreppen, Erker und Risalite sowie durch un- Balkone, Freitreppen, Erker und Risalite sowie durch unterirdische Anbauten überschritten werden.
+terirdische Anbauten überschritten werden.
+2 Erker, Risalite und Balkone dürfen sich nicht über mehr 2 Erker, Risalite und Balkone dürfen sich nicht über mehr
+als die Hälfte, Erker alleine sich nicht über mehr als einen als die Hälfte, Erker alleine sich nicht über mehr als einen
+Drittel der Fassadenbreite erstrecken.
+Drittel der Fassadenbreite erstrecken.
+3 Die Grundfläche von Erkern darf das Mass von einem
+Zehntel des Baulinienabstands, höchstens aber 1,5 m,
+mal einen Drittel der Fassadenlänge nicht überschreiten.
+
+Erläuterung zu § 17:
+Mit der Änderung von § 17 Abs. 2 und 3 BPG kann für Erker ein Gestaltungsspielraum ermöglicht
+werden, ohne die maximale Grundfläche zu beschneiden. So wird niemand mehr eingeschränkt
+bei einer hochwertigen Gestaltung des Erkers.
+
+Seite 22/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+Bestehende Fassung
+Neue Fassung
+§ 23. (Höhen > Beschränkungen durch Lichteinfallswinkel) § 23. (Höhen > Beschränkungen durch Lichteinfallswinkel)
+1 Gebäudewände dürfen nicht in die für anrechenbare 1 Gebäudewände dürfen nicht in die für anrechenbare
+Fensterflächen nötigen Lichteinfallswinkel der auf anderen Fensterflächen nötigen Lichteinfallswinkel der auf anderen
+Grundstücken zulässigen mehrgeschossigen Gebäude ra- Grundstücken zulässigen mehrgeschossigen Gebäude ragen. Der Lichteinfallswinkel gilt als eingehalten, wenn die gen. Der Lichteinfallswinkel gilt als eingehalten, wenn die
+Abstände sämtlicher Gebäudeteile mindestens so gross Abstände sämtlicher Gebäudeteile mindestens so gross
+sind wie ihre Höhen.
+sind wie ihre Höhen.
+2 Die Höhe von Gebäudeteilen auf der Strassenseite darf 2 Die Höhe von Gebäudeteilen auf der Strassenseite
+nicht grösser sein als ihr Abstand zur gegenüberliegenden darf höchstens 3 m grösser sein als ihr Abstand zur
+Baulinie.
+gegenüberliegenden Baulinie.
+
+Erläuterung zu § 23:
+§ 23 Abs. 1 BPG klärt grundsätzlich, welche Lichteinfallswinkel einzuhalten sind, nämlich diejenigen
+zu möglichen mehrgeschossigen Gebäuden auf anderen Grundstücken, also zu Baupotenzialen,
+nicht nur zu bestehenden Gebäuden. Zudem regelt Abs. 1, dass der Lichteinfallswinkel grundsätzlich topografieunabhängig, also auf einer Ebene gemessen wird (Höhe = Abstand). Dies soll hier
+nochmals deutlich festgehalten werden.
+§ 23 Abs. 2 BPG wird entsprechend der angestrebten Lockerung des strassenseitigen Lichteinfallswinkels präzisiert und um die zusätzlichen drei Meter in der Höhe erweitert. Am konkreten Beispiel ist der Lichteinfallswinkel bei einem Baulinienabstand von zwölf Metern eingehalten, wenn ein
+Gebäudeteil eine Höhe von 15 Metern (zwölf Meter plus drei Meter) nicht überschreitet.
+Im Prinzip wären damit keine Wohnnutzungen in Erdgeschossen an der Baulinie mehr möglich, da
+die dazu notwendigen Lichteinfallswinkel nicht mehr gewährleistet sind. § 64 Abs. 2 BPG sorgt
+jedoch bereits heute dafür, dass an Baulinien Fenster angerechnet werden können, wenn die notwendigen Lichteinfallswinkel nicht eingehalten sind.
+Bestehende Fassung
+Neue Fassung
+§ 28. (Randbebauung > Beschränkungen des Projektie- § 28. (Randbebauung > Beschränkungen des Projektierungsspielraumes)
+rungsspielraumes)
+1 Die Bauflucht von Gebäuden muss durch die an der Bau- 1 Die Bauflucht von Gebäuden muss durch die an der Baulinie stehenden Teile der Gebäudewände dominiert wer- linie stehenden Teile der Gebäudewände dominiert werden. Vor oder hinter der Baulinie liegende Gebäudeteile den. Vor oder hinter der Baulinie liegende Gebäudeteile
+müssen sich in die Fassaden einordnen.
+müssen sich in die Fassaden einordnen.
+2 Wenn Emissionen nicht ausreichend begrenzt werden 1bis Bestehende offene Blockrandbereiche auf Grundkönnen, kann eine Bauweise angeordnet werden, die ihre stücken in Ecklagen dürfen nur bebaut werden, wenn
+Ausbreitung hindert.
+ein Abstand zum Gebäude in der Ecklage sichergestellt ist, der mindestens der zulässigen Höhe der Ge3 Wenn nicht bis an die seitliche Grundstücksgrenze ge- bäudewände entspricht.
+baut wird, muss der Abstand dazu mindestens 3 m betragen.
+2 Wenn Emissionen nicht ausreichend begrenzt werden
+können, kann eine Bauweise angeordnet werden, die ihre
+4 Der zur bestimmungsgemässen Nutzung nötige Lichtein- Ausbreitung hindert.
+fall auf bestehende Gebäude im gleichen Baublock muss
+gewahrt bleiben.
+3 Wenn nicht bis an die seitliche Grundstücksgrenze gebaut wird, muss der Abstand dazu mindestens 3 m betragen.
+4 Der zur bestimmungsgemässen Nutzung nötige Lichteinfall auf bestehende Gebäude im gleichen Baublock muss
+gewahrt bleiben.
+
+Seite 23/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+Erläuterung zu § 28:
+Entsprechend den Erläuterungen im Kapitel 4.3 soll der Bauwich, der bis Anfang 1990 noch Gegenstand des damaligen Hochbautengesetzes war, wieder eingeführt werden. Die damaligen Regelungen können aber nicht mit den damaligen Formulierungen in die heute bestehende Systematik übernommen werden. Aus diesem Grund braucht es eine neue Regelung.
+Da es sich um eine Beschränkung des Projektierungsspielraums für Randbebauungen handelt,
+drängt sich eine Ergänzung von § 28 BPG auf. Mit einem neuen Abs. 1bis kann der Bauwich sinnvoll im Gesetz verortet werden.
+Wichtig bei der neuen Regelung ist, dass nur Eckparzellen (Grundstücke in Ecklagen) betroffen
+sind und insbesondere bei sehr kleinen Parzellenzuschnitten keine Abhängigkeiten mit Nachbarparzellen entstehen. Mit dem zweiten Teilsatz wird sichergestellt, dass sehr grosse Lücken trotzdem bebaut werden dürfen, dabei aber zum bestehenden Eckgebäude ein Abstand eingehalten
+werden muss, der seitliche Fenster auf der Blockrandseite bis ins Erdgeschoss ermöglicht, die also
+einen Lichteinfallswinkel einhalten.
+Bestehende Fassung
+§ 29. (Andere Bebauungen)
+
+Neue Fassung
+§ 29. (Andere Bebauungen)
+
+1 Ausserhalb des Blockrandbereichs gelten die Vorschrif- 1 Ausserhalb des Blockrandbereichs gelten die Vorschriften für Randbebauungen mit folgenden Abweichungen:
+ten für Randbebauungen mit folgenden Abweichungen:
+a) Die Bebauung ist zulässig, soweit die hinter der Baulinie a) Die Bebauung ist zulässig, soweit die hinter der Baulinie
+liegende Grundstücksfläche noch nicht zu 50% überbaut liegende Grundstücksfläche noch nicht zu 50% überbaut
+ist. Werden Teile der Freifläche im Blockrandbereich über- ist. Werden Teile der Freifläche im Blockrandbereich überbaut, ist die Bebauung ausserhalb des Blockrandbereichs baut, ist die Bebauung ausserhalb des Blockrandbereichs
+in dem zur Einhaltung von 50% Freifläche nötigen Umfang in dem zur Einhaltung von 50% Freifläche nötigen Umfang
+zu beseitigen.
+zu beseitigen.
+b) Sämtliche Gebäudeteile müssen einen Grenzabstand b) Sämtliche Gebäudeteile müssen einen Grenzabstand
+einhalten, der mindestens ihrer halben Höhe entspricht und einhalten, der mindestens ihrer halben Höhe entspricht und
+nicht kleiner als 6 m sein darf. Die Höhen werden von der nicht kleiner als 6 m sein darf. Zum Blockrandbereich
+für die Wandhöhe massgebenden Linie aus bestimmt. An müssen diese zudem einen Gebäudeabstand einhalWegen ohne Baugrenzen sind die Abstände zur Wegmitte ten, der der zulässigen Wandhöhe im jeweiligen Blockeinzuhalten.
+randbereich entspricht. Die Höhen werden von der für die
+Wandhöhe massgebenden Linie aus bestimmt. An Wegen
+c) Zu Bauten auf dem gleichen Grundstück müssen keine ohne Baugrenzen sind die Abstände zur Wegmitte einzuAbstände eingehalten werden.
+halten.
+d) Dachgeschosse müssen auf mindestens zwei parallelen c) Zu Bauten auf dem gleichen Grundstück müssen keine
+Seiten der Gebäude oder Gebäudeteile und auf allen Sei- Abstände eingehalten werden.
+ten, deren Länge die zulässige Gebäudetiefe im Blockrandbereich übersteigt, zurückgesetzt oder mit einem d) Dachgeschosse müssen auf mindestens zwei parallelen
+Schrägdach überdeckt werden. Die zulässige Grundfläche Seiten der Gebäude oder Gebäudeteile und auf allen Seizurückgesetzter Geschosse wird durch einen Abstand von ten, deren Länge die zulässige Gebäudetiefe im Block1,5 m zu den längeren Seiten bestimmt.
+randbereich übersteigt, zurückgesetzt oder mit einem
+Schrägdach überdeckt werden. Die zulässige Grundfläche
+e) Unterirdische Bauten und Anlagen sind auf der ganzen zurückgesetzter Geschosse wird durch einen Abstand von
+Fläche zulässig.
+1,5 m zu den längeren Seiten bestimmt. In den Zonen 4
+und 5a sind Dachgeschosse ausserhalb des Blockf) Eingeschossige Bauten und Anbauten müssen keine Ab- randbereichs nur zulässig, sofern der Blockrandbestände einhalten, wenn sie insgesamt nicht mehr als 3 m reich desselben Baublocks nicht überwiegend bebaut
+und mit ihrem Boden nicht mehr als 50 cm aus dem natür- ist.
+lichen oder abgegrabenen Erdboden hervortreten. Wo
+mässig störende Betriebe zugelassen sind, ist eine Ge- e) Unterirdische Bauten und Anlagen sind auf der ganzen
+samthöhe von 4,5 m zulässig. Bei einem Grenzabstand Fläche zulässig.
+von weniger als 3 m dürfen gegen die Nachbargrenze gerichtete Wände keine Öffnungen haben, wenn nichts Ab- f) Eingeschossige Bauten und Anbauten müssen keine Abweichendes vereinbart ist.
+stände einhalten, wenn sie insgesamt nicht mehr als 3 m
+und mit ihrem Boden nicht mehr als 50 cm aus dem natürg) Anbauten zur Erweiterung von Räumen in Erdgeschos- lichen oder abgegrabenen Erdboden hervortreten. Wo
+sen dürfen ihren Boden und ihre Decke auf der Höhe des
+
+Seite 24/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+Bodens und der Decke des zu erweiternden Erdgeschos- mässig störende Betriebe zugelassen sind, ist eine Geses haben, wenn der Grenzabstand einer solchen Anbaute samthöhe von 4,5 m zulässig. Bei einem Grenzabstand
+mindestens ihrer Höhe entspricht.
+von weniger als 3 m dürfen gegen die Nachbargrenze gerichtete Wände keine Öffnungen haben, wenn nichts Abh) Der Grenzabstand von Geländern und anderer Vorrich- weichendes vereinbart ist.
+tungen zur Abgrenzung von Terrassen auf eingeschossigen Bauten muss mindestens ihrer Höhe entsprechen.
+g) Anbauten zur Erweiterung von Räumen in Erdgeschossen dürfen ihren Boden und ihre Decke auf der Höhe des
+2 Die Vorschriften über Grenzabstände gelten nicht,
+Bodens und der Decke des zu erweiternden Erdgeschosses haben, wenn der Grenzabstand einer solchen Anbaute
+a) wenn gemeinsam Baubewilligungen für Gebäude bean- mindestens ihrer Höhe entspricht.
+tragt werden, die auf der Grenze zusammengebaut sind;
+h) Der Grenzabstand von Geländern und anderer Vorrichb) wenn an ein bestehendes Gebäude angebaut werden tungen zur Abgrenzung von Terrassen auf eingeschossikann;
+gen Bauten muss mindestens ihrer Höhe entsprechen.
+c) wenn ein Grenzbaurecht besteht und keine Rechte Drit- 2 Die Vorschriften über Gebäude- und Grenzabstände
+ter berührt werden.
+gelten nicht,
+3 Abstände zu Grenzen ausserhalb des Blockrandbereichs a) wenn gemeinsam Baubewilligungen für Gebäude beandürfen bis auf 6 m herabgesetzt werden,
+tragt werden, die auf der Grenze zusammengebaut sind;
+a) wenn die für zulässige Nutzungen nötigen Lichteinfalls- b) wenn an ein bestehendes Gebäude angebaut werden
+winkel durch Dienstbarkeiten oder öffentlich-rechtliche Ei- kann;
+gentumsbeschränkungen gesichert sind oder
+c) wenn ein Grenzbaurecht besteht und keine Rechte Dritb) wenn nicht vorgeschrieben ist und darauf verzichtet wird, ter berührt werden.
+unterhalb der Eckpunkte der gesetzmässigen Lichteinfallswinkel liegende Räume für Nutzungen zu verwenden, die 3 Abstände zu Grenzen ausserhalb des Blockrandbereichs
+zur Grenze gerichtete Fenster voraussetzen.
+dürfen bis auf 6 m herabgesetzt werden,
+4 Vereinbarungen über die Herabsetzung von Grenzab- a) wenn die für zulässige Nutzungen nötigen Lichteinfallsständen sind als Dienstbarkeiten im Grundbuch einzutra- winkel durch Dienstbarkeiten oder öffentlich-rechtliche Eigen.
+gentumsbeschränkungen gesichert sind oder
+b) wenn nicht vorgeschrieben ist und darauf verzichtet wird,
+unterhalb der Eckpunkte der gesetzmässigen Lichteinfallswinkel liegende Räume für Nutzungen zu verwenden, die
+zur Grenze gerichtete Fenster voraussetzen.
+4 Vereinbarungen über die Herabsetzung von Gebäude- und Grenzabständen sind als Dienstbarkeiten
+im Grundbuch einzutragen.
+
+Erläuterung zu § 29:
+Eine Blockrandtiefe von mindestens zwölf Metern wird sichergestellt durch § 16 BPG. Bebauungen
+im Hof müssen zum Blockrandbereich nun immer einen Gebäudeabstand einhalten, der der Höhe
+im Blockrand entspricht (z.B. Zone 5a = 18 m). Aus diesem Grund muss § 29 Abs. 1 lit. b BPG um
+eine entsprechende Aussage erweitert werden.
+In Abs. 2 gilt es zudem, nebst dem Grenz- auch den Gebäudeabstand zu berücksichtigen, da dieser
+aus denselben Gründen wie der Grenzabstand nicht immer eingehalten werden muss.
+Schliesslich soll durch ein Verbot von Dachgeschossen in den Zonen 4 und 5a die Qualität von
+Höfen gestärkt und die Belastung des Blockrands durch Hofbebauungen gesenkt werden. Gleichzeitig gilt es, Gebiete mit Zeilenbebauungen vom Verbot auszunehmen. Dies wird erreicht, indem
+Gevierte ausgenommen werden, deren Blockrand nicht «überwiegend» bebaut ist.
+
+Seite 25/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+Bestehende Fassung
+§ 36. (Zonen 6 und 5)
+
+Neue Fassung
+§ 36. (Zonen 6 und 5)
+
+1 In den Zonen 6 und 5 gelten die Vorschriften für die Zo- 1 In den Zonen 6 und 5 gelten die Vorschriften für die Zonen 5a, 4, 3 und 2 mit folgenden Abweichungen:
+nen 5a, 4, 3 und 2 mit folgenden Abweichungen:
+a) Die zulässige Bruttogeschossfläche entspricht der zu- a) Die zulässige Bruttogeschossfläche entspricht der zulässigen Grundfläche der Vollgeschosse und eines 1,5 m lässigen Grundfläche der Vollgeschosse und eines 1,5 m
+hinter die Baulinie zurückgesetzten Dachgeschosses.
+hinter die Baulinie zurückgesetzten Dachgeschosses.
+b) Wenn Nutzungspläne oder besondere Vorschriften b) Wenn Nutzungspläne oder besondere Vorschriften
+nichts Abweichendes bestimmen, ist die ganze Grund- nichts Abweichendes bestimmen, ist die ganze Grundstücksfläche überbaubar.
+stücksfläche überbaubar.
+c) Die zulässige Geschossfläche über dem obersten Voll- c) Die zulässige Geschossfläche über dem obersten
+geschoss entspricht der für die Nutzungsberechnung mas- Vollgeschoss entspricht der für die Nutzungsberechsgebenden Dachgeschossfläche.
+nung massgebenden Dachgeschossfläche.
+d) Gebäude, die nicht an die Grundstücksgrenze gebaut d) Gebäude, die nicht an die Grundstücksgrenze gebaut
+werden, müssen einen Mindestabstand von 3 m dazu ein- werden, müssen einen Mindestabstand von 3 m dazu einhalten. Ausgenommen sind eingeschossige Bauten und halten. Ausgenommen sind eingeschossige Bauten und
+Anbauten, die den Vorschriften über das Bauen ausserhalb Anbauten, die den Vorschriften über das Bauen ausserhalb
+des Blockrandbereichs in den Zonen 5a, 4, 3 und 2 ent- des Blockrandbereichs in den Zonen 5a, 4, 3 und 2 entsprechen.
+sprechen.
+e) Die Höhe der Gebäudewände darf 20 m in der Zone 6 e) Die Höhe der Gebäudewände darf 20 m in der Zone 6
+und 18 m in der Zone 5 nicht übersteigen.
+und 18 m in der Zone 5 nicht übersteigen.
+f) Die Gebäudehöhe ist auf 25 m in der Zone 6 und auf 24 f) Die Gebäudehöhe ist auf 28 m in der Zone 6 und auf
+m in der Zone 5 begrenzt.
+26 m in der Zone 5 begrenzt.
+g) In der Zone 5 darf die Höhe von Gebäudeteilen auf der g) In den Zonen 5 und 6 darf die Höhe von GebäudeteiStrassenseite höchstens 4 m grösser sein als ihr Abstand len auf der Strassenseite höchstens 4 m grösser sein
+zur gegenüberliegenden Baulinie. In der Zone 6 gilt diese als ihr Abstand zur gegenüberliegenden Baulinie. BeBeschränkung, wenn die Gebäudehöhen auf der gegen- finden sich die Gebäude auf der gegenüberliegenden
+überliegenden Strassenseite ebenfalls durch den Bauli- Strassenseite ebenfalls in den Zonen 5 oder 6 gilt diese
+nienabstand beschränkt werden.
+Beschränkung nicht.
+
+Erläuterung zu § 36:
+Zur Gleichbehandlung mit den Zonen 3 bis 5a sind nun neu auch in den Zonen 5 und 6 zwei ordentliche Dachgeschosse zulässig. Diese müssen zu allen Strassenseiten gegenüber dem obersten Vollgeschoss einen Rücksprung von mindestens 1,5 Metern aufweisen. Alternativ ist auch ein
+Satteldach möglich, das einen Kniestock von maximal 1,4 Metern aufweisen darf. Dies entspricht
+weitgehend der Regelung in den übrigen Nummernzonen (§ 11 BPG). Aus diesem Grund kann hier
+auf eine Wiederholung verzichtet werden.
+Innerhalb der bestehenden Gebäudehöhen sind zwei Dachgeschosse aber kaum unterzubringen.
+Insbesondere für in den Zonen 5 und 6 verbreiteten Arbeitsflächen reichen sechs Meter für zwei
+normgerechte Dachgeschosse nicht aus. Aus diesem Grund wird die Gebäudehöhe um zwei Meter
+angehoben. Die Lichteinfallswinkel und Dachprofilvorschriften gelten davon ungeachtet weiter.
+Vorschrift g) steht im Widerspruch zur Lockerung des strassenseitigen Lichteinfallswinkels und
+muss daher geändert werden. Es gilt der Lichteinfall zur gegenüberliegenden Zone ab einer Höhe
+von vier Metern wie bisher. Wenn die Gebäude auf der gegenüberliegenden Strassenseite sich
+ebenfalls in den Zonen 5 oder 6 befinden, gilt diese Höhenbeschränkung nicht.
+Bestehende Fassung
+Neue Fassung
+§ 98. (Strassen-, Weg- und Baulinien > Projektierungsvor- § 98. (Strassen-, Weg- und Baulinien > Projektierungsvorschriften)
+schriften)
+1 Der Erschliessungsplan muss auf den zu erwartenden 1 Der Erschliessungsplan muss auf den zu erwartenden
+Gebrauch der Strasse oder des Weges abgestimmt sein. Gebrauch der Strasse oder des Weges abgestimmt sein.
+
+Seite 26/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+2 Der Baulinienabstand muss mindestens 12 m betragen. 2 Der Baulinienabstand beträgt in der Regel mindesIst die Strasse nur einseitig bebaubar, beträgt der Mindest- tens 12 m. Ist die Strasse nur einseitig bebaubar, beabstand zur gegenüberliegenden Strassenlinie 7 m.
+trägt der Mindestabstand zur gegenüberliegenden
+Strassenlinie in der Regel 7 m. In begründeten Fällen
+3 Wenn keine überwiegenden Interessen entgegenstehen, kann von diesen Mindestvorgaben abgewichen wermüssen Strassen und Wege mit Fussgängerverkehr behin- den.
+dertengerecht projektiert werden.
+3 Wenn keine überwiegenden Interessen entgegenstehen,
+müssen Strassen und Wege mit Fussgängerverkehr behindertengerecht projektiert werden.
+
+Erläuterung § 98:
+Mit der Änderung von § 98 Abs. 2 BPG soll zum Ausdruck gebracht werden, dass zwölf Meter der
+minimale Abstand zwischen zwei Baulinien ist. In begründeten Einzelfällen, z. B. aufgrund historischer Gegebenheiten, kann von der Minimalvorgabe abgewichen werden.
+
+9.
+9.1
+
+Öffentliche Vernehmlassung
+Formelles
+
+Vom 28. Januar 2021 bis am 28. April 2021 wurde der Entwurf des Ratschlags «Vereinfachung und
+Liberalisierung der Blockrandvorschriften zur Förderung der inneren Verdichtung» in eine öffentliche Vernehmlassung geschickt. Mit einer Medienmitteilung wurden die Medien über die Vernehmlassung orientiert. Zudem wurden 54 Vereine, Verbände, Parteien und Organisationen direkt zur
+Vernehmlassung eingeladen. Die Vorlage wurde darüber hinaus auf deren Wunsch hin dem SIA
+sowie den Stadtteilsekretariaten Kleinbasel und Basel West im Detail vorgestellt.
+Die Unterlagen der Vernehmlassung standen digital über die Website des Kantons zur Verfügung.
+Für die Vernehmlassung stand ein standardisierter Fragebogen zur Verfügung, um die Rückmeldungen entsprechend den einzelnen Themengebieten der Revision zu strukturieren.
+Innerhalb der (bis am 5. Mai 2021 erstreckten) Frist sind 26 Stellungnahmen zur Vernehmlassung
+eingegangen. Konkret liegen Rückmeldungen der folgenden Vereine, Verbände, Parteien und Organisationen vor.
+Nr. 1
+Nr. 2
+Nr. 3
+Nr. 4
+Nr. 5
+Nr. 6
+Nr. 7
+Nr. 8
+Nr. 9
+Nr. 10
+Nr. 11
+Nr. 12
+Nr. 13
+Nr. 14
+Nr. 15
+Nr. 16
+Nr. 17
+Nr. 18
+Nr. 19
+Nr. 20
+Nr. 21
+
+Evangelische Volkspartei Basel-Stadt
+ProNatura Basel
+BSA Basel
+Quartierverein Kornfeld Riehen
+Heimatschutz Basel
+FSU NWCH
+SVIT beider Basel
+Gemeinderat Riehen
+Gewerbeverband Basel-Stadt
+Grünliberale Partei Basel-Stadt
+NQV Bruderholz
+Verein Ökostadt
+Wohnbaugenossenschaften Nordwestschweiz
+Hauseigentümerverband Basel-Stadt
+FDP.Die Liberalen Basel-Stadt
+SIA Sektion Basel
+Freiwillige Basler Denkmalpflege
+Die Mitte
+Grüne Partei Basel-Stadt
+SP Basel-Stadt
+Handelskammer beider Basel
+
+26.02.2021
+25.03.2021
+16.04.2021
+20.04.2021
+21.04.2021
+22.04.2021
+22.04.2021
+23.04.2021
+23.04.2021
+26.04.2021
+26.04.2021
+27.04.2021
+27.04.2021
+27.04.2021
+27.04.2021
+27.04.2021
+27.04.2021
+28.04.2021
+28.04.2021
+28.04.2021
+28.04.2021
+
+Seite 27/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+Nr. 22
+Nr. 23
+Nr. 24
+Nr. 25
+Nr. 26
+
+9.2
+
+Ortsbildkommission Riehen
+Countdown 2030
+BastA!
+LDP Liberal-Demokratische Partei Basel-Stadt
+NQV ST. Johann
+
+28.04.2021
+29.04.2021
+03.05.2021
+04.05.2021
+04.05.2021
+
+Materielles
+
+Die 26 Rückmeldungen zur öffentlichen Vernehmlassung zeigten ein konstruktiv-kritisches und insgesamt unterstützendes Bild. Einzig BastA! lehnte die Revision grundsätzlich ab.
+Inhaltlich wurden die Lockerung des strassenseitigen Lichteinfallswinkels, die Präzisierung der
+Dachgeschosse in den Zonen 5 und 6, die Anpassungen beim Baulinienabstand sowie die Flexibilisierung der Erker weitgehend begrüsst. Zur garantierten Blockrandtiefe von zwölf Metern sowie
+zu den Präzisierungen bei den Dachgeschossen im Hof gab es kritische Rückmeldungen. Einzig
+die Präzisierung der Dachgeschosse in den Zonen 2 und 2a wurde stark kritisiert, mehr dazu weiter
+unten.
+
+Abb. 14: Übersicht über die Rückmeldungen zu den einzelnen Themen der Revisionsvorlage.
+
+In den folgenden Abschnitten werden die Rückmeldungen, die Kritikpunkte und die Fragen summarisch wiedergegeben und auf die einzelnen Punkte reagiert (sichtbar durch ⇨).
+
+Seite 28/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+9.3
+
+Allgemeine Rückmeldungen
+
+BSA, FSU, Gewerbeverband, GLP, WBG, FDP und SP fragen sich nach dem tatsächlichen Verdichtungspotenzial, das mit den hier vorgeschlagenen Massnahmen aktiviert werden könne. Es
+wurde daher mehrfach die Forderung nach weitergehenden Analysen des Potentials verlangt.
+ Die Reichweite der hier vorgeschlagenen Massnahmen wird von den Vernehmlassungsteilnehmenden generell eher überschätzt. Wie bereits in der Einleitung des Ratschlags erläutert, sind Massnahmen der inneren Verdichtung auf allen Ebenen und mit allen Instrumenten zu verfolgen. Dabei haben die grossen Arealentwicklungen den stärksten Einfluss. Auch
+die mit der im 2020 abgeschlossenen Zonenplanrevision ergriffenen Massnahmen sowie
+weitere Einzelprojekte (kleinere Arealentwicklungen) tragen zur inneren Verdichtung bei.
+Die hier beantragten Anpassungen am Bau- und Planungsgesetz liegen in dieser Hierarchie
+und von ihrem Wirkungspotenzial her dahinter. Der Fokus liegt dabei hauptsächlich auf der
+Vereinfachung und der Lockerung und weniger auf der inneren Verdichtung.
+ Eine systematische Darstellung der durch das Gesetz zu erwartenden Gewinne/Verluste
+kann bei mehr als 22'000 betroffenen Parzellen nicht mit einem verhältnismässigen Aufwand erarbeitet werden. Mit den Ausführungen im Ratschlag und den beispielhaft dargestellten Gevierten sollte aber ein grundsätzliches Verständnis der zu erwartenden Auswirkungen möglich sein.
+Heimatschutz, SP, Countdown2030, BastA! und NQV St. Johann befürchten, dass die Massnahmen der Revision Bestandsbauten im Blockrand unter Druck setzen und damit Ersatzneubauten fördern würden. Stattdessen sollten vermehrt Sanierungen, Umbauten und Erweiterungen gefördert werden.
+ Die vorgeschlagenen Massnahmen zielen nicht auf eine Erneuerung, sondern vor allem auf
+Vereinfachungen und Erleichterungen. Der Erneuerungsdruck wird zudem durch das neue
+Wohnraumfördergesetz abgefedert, indem Ersatzneubauten an Bedingungen geknüpft
+werden. Das WRFG schafft damit die hier geforderten Anreize für Sanierungen, Umbauten
+und Erweiterungen.
+Für die Handelskammer beider Basel bedürfe die Anhebung der Bautiefe vertiefter Abklärungen.
+Es scheine, als ob die Vergrösserung bestehender Einheiten gegenüber der Schaffung neuer
+Wohn- und Arbeitseinheiten priorisiert würde. Zudem könne die unkoordinierte Anhebung der Bautiefe im Bestand zu architektonisch unbefriedigenden Lösungen führen.
+ Die vorgeschlagene Änderung der Bautiefe trifft nur einen Teil der Gebäude auf sehr kleinen
+bzw. wenig tiefen Parzellen (weniger als 24 Meter tief). Die Anhebung der zulässigen Blockrandtiefe von minimal zehn auf zwölf Meter wird daher nicht zu unvorhersehbaren Veränderungen führen. Im Gegenteil, die Auswirkungen sind offensichtlich. Die heute stark mäandrierenden hofseitigen Blockrandfluchten können (über einen langen Zeitraum)
+aneinander angeglichen werden. Sie werden sich zwischen zwölf bis 15 Meter statt wie
+bisher zwischen zehn und 15 Meter bewegen. Dass damit nicht in erster Linie zusätzlicher
+Wohnraum entstehen wird, ist richtig. Das ist aber auch nicht das Hauptziel der Massnahme. Im Vordergrund steht die Vereinfachung des Gesetzes, der Abbau von heute nicht
+mehr zeitgemässen Regeln und vor allem die Möglichkeit, auch auf kleineren Parzellen angemessene Wohnungsgrundrisse erstellen zu können, inkl. Lift, rollstuhlgängige Badezimmer und vernünftige Balkonflächen. Insofern zielt die Anpassung auch nicht in erster Linie
+auf Neubauten, sondern auf eine zeitgemässe Sanierung bestehender Gebäude.
+EVP, HEV, Grüne, SP, Countdown2030, BastA! und NQV St. Johann fordern, dass im Gegenzug zur Stärkung des Blockrands Massnahmen zur ökologischen Aufwertung bzw. zur aktiven Entdichtung der Höfe ergriffen werden müssten. Die SP fragt konkret, ob Massnahmen wie z.B. Nutzungsboni und andere gezielten Anreize geschaffen werden könnten, um auf den Besitzstand im
+Hinterhof verzichten zu können.
+
+Seite 29/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+ Die aktive Begrünung bzw. Entdichtung der Innenhöfe ist ein altes Anliegen des Regierungsrats. Dieses scheitert jeweils am Bestandesschutz. Der Staat kann niemanden zum
+Abbruch rechtmässig erstellter Bauten und Anlagen zwingen. Dies wäre einzig durch Enteignungen oder den Kauf entsprechender Grundstücke möglich, was aus Sicht des Regierungsrats nicht im Verhältnis zu den Konsequenzen und Kosten stünde. Wenn aber abgebrochen und neu gebaut wird, dann gelten die aktuellen Vorschriften des Gesetzes, das
+eine Freifläche von 50% und einen Grünanteil von zwei Dritteln vorsieht. Bei allen Neubauprojekten werden diese Vorgaben im Baubewilligungsverfahren konsequent eingefordert.
+ Auch das neue Wohnraumfördergesetz wirkt sich zusätzlich zum Bestandesschutz auf bestehende Hofbebauungen und deren Potenzial für die Aufwertung der Höfe aus. Wo bereits
+Wohnraum besteht, wird dieser nun schwerer zugunsten einer Bebauung im Blockrand
+rückgebaut werden können.
+ Der Regierungsrat sieht die Massnahmen zur Stärkung des Blockrands als Anreiz, die zulässige Bruttogeschossfläche auf einer Parzelle vermehrt im Blockrand zu nutzen statt im
+Hof. Durch den im Gesetz bereits bestehenden Nutzungstransfer könnte dies auch über
+Parzellen hinweg geschehen.
+Im Zusammenhang mit der Forderung, Höfe aktiv zu entlasten, wurde von Countdown2030 und
+BastA! zudem die Forderung aufgestellt, auch die mögliche Unterkellerung eines Grundstücks zu
+minimieren (z.B. auf 50%).
+ Die Reduktion der Unterkellerung bzw. der unterkellerten Fläche ist im Hinblick auf eine
+klimaangepasste Stadtentwicklung ein interessanter Gedanke. Die Spezialkommission
+Klima untersucht aktuell die Idee im Rahmen der Überprüfung der Gesetze auf ihre Klimawirkung.
+Aus Sicht des Gewerbeverbands und der FDP wäre es sinnvoller, die Blockrandbebauung zu
+stärken, ohne gleichzeitig die Hofbebauung zu erschweren. Hofbebauungen seien in den letzten
+Jahren immer beliebter geworden. Städtebaulich habe sich dieser Typ bewährt. So könne zusätzlicher Wohnraum geschaffen werden, ohne nennenswerte Einbussen für die umliegende Anwohnerschaft hinnehmen zu müssen.
+ Mit Blick auf den Schutz des bestehenden Wohnraums, die stadtklimatischen Bedürfnisse,
+die Wohnhygiene sowie den Bedarf nach Frei- und Grünraum kann die Stärkung des Blockrands nicht ohne flankierende Massnahmen erfolgen. Ohne Einschränkungen im Hof sind
+Anpassungen im Blockrand nicht möglich. Der Ratschlag zeigt aber auf, dass die Vorteile
+im Blockrand die Einschränkungen im Hof weit übersteigen.
+ Hofbebauungen wurden in den letzten Jahren, spätestens seit der Liberalisierung der Hofbebauungen mit dem neuen Gesetz im Jahr 2000, in der Tat immer beliebter. Dies ist einer
+der Hauptgründe für den vorliegenden Revisionsvorschlag. Neue Hofbebauungen stehen
+regelmässig unter grosser Kritik. Im Gegensatz zu Gewerbebauten, die schon seit langem
+viele Höfe prägen, sind Wohnbauten meist höher und voluminöser, da sie sich nicht an den
+tatsächlichen Bedürfnissen eines Gewerbebetriebs, sondern an der Maximierung der Anzahl Wohneinheiten orientieren. Dies hat die Wahrnehmung von Hofbebauungen stark beeinflusst. Schliesslich ist es mit Blick auf das Stadtklima angezeigt, noch nicht oder nur
+wenig bebaute Hinterhöfe vom baulichen Druck zu entlasten. Die Bebauung einer Hofparzelle hat eine starke Auswirkung auf viele Blockrandparzellen. Die Einschränkung durch die
+hier vorgeschlagenen Massnahmen trifft wenige, der Gewinn kommt aber vielen zugute.
+Die Freiwillige Basler Denkmalpflege regt an, dass bei Gebäuden in Schutz- oder Schonzone
+sowie im Inventar befindlicher Objekte eine Ausnahmeregelung geschaffen werden müsse, damit
+die Eigentümer*innen nicht durch die Einschränkungen bei Hofbauten benachteiligt würden. Hofbebauungen sollten, wo sinnvoll oder im Sinne einer Kompensation, grundsätzlich weiterhin möglich sein.
+
+Seite 30/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+ Es besteht mit den §§ 80 ff. BPG immer eine Ausnahmemöglichkeit, wenn die entsprechenden Bedingungen gewahrt werden. In der Schutzzone gelten zudem die übrigen Regeln
+des Gesetzes höchstens subsidiär, wenn überhaupt. Die Schutzzone ist keine Bauzone im
+Sinne des Raumplanungsgesetzes. In der Schutzzone stehen also nicht die Vorgaben zur
+Bruttogeschossfläche, zu Abständen, etc. im Vordergrund, sondern der Erhalt des historischen und künstlerischen Werts.
+ Hofbauten werden mit den neuen Regeln nicht generell verunmöglicht. Sie müssen aber,
+wo es für eine Bautiefe im Blockrand von zwölf Metern nötig ist, einen grösseren Abstand
+einhalten als bisher. Die Untersuchung aller Hofparzellen im Kanton Basel-Stadt hat gezeigt, dass lediglich bei zwölf Parzellen die Bebaubarkeit durch die neuen Regeln im Vergleich zu heute substanziell eingeschränkt wird.
+Auch der Heimatschutz und die GLP sind der Ansicht, dass Ausnahmen für bessere Lösungen
+ermöglicht werden sollten. Hierzu sollte gemäss Heimatschutz insbesondere der Stadtbildkommission auch in den Nummernzonen wieder die Kompetenz zur Beurteilung zugesprochen werden.
+ Ausnahmen sind ein zweischneidiges Instrument. Auf der einen Seite können sie gute Lösungen ermöglichen, wo es der allgemeine gesetzliche Rahmen nicht zulässt. Auf der anderen Seite schaffen Ausnahmemöglichkeiten Rechtsunsicherheit und sind anfällig für Willkür. Das Gesetz sieht in den §§ 80 ff BPG bereits Ausnahmebestimmungen vor, die aus
+Sicht des Regierungsrats nicht erweitert werden sollten.
+ Die Kompetenzen der Stadtbildkommission wurden erst kürzlich neu geregelt. Der Regierungsrat wird daher zum aktuellen Zeitpunkt keine erneuten Änderungen vornehmen.
+In verschiedenen Stellungnahmen wurden weitergehende oder umfassendere Vereinfachungen
+des Gesetzes gewünscht. Die GLP fragte in diesem Rahmen nach einer generellen Vereinfachung,
+da es sich beim BPG auch im interkantonalen Vergleich um ein äusserst komplexes und unüberschaubares Regelwerk handle.
+ Das Bau- und Planungsgesetz des Kantons Basel-Stadt kann nicht mit anderen kantonalen
+oder kommunalen Baugesetzgebungen verglichen werden, dadas kantonale Gesetz gleichzeitig ein kommunales Gesetz ist. Gleichzeitig dürfen auch die Bedürfnisse der Gemeinden
+Riehen und Bettingen nicht ausser Acht gelassen werden. Zudem nimmt das Gesetz besonders Bezug auf die hiesigen Verhältnisse (z.B. den Blockrand) und ist daher auch in
+seiner Systematik einzigartig. Die hier vorgeschlagenen Vereinfachungen und Lockerungen
+sind aus Sicht des Regierungsrats ausgewogen und aufeinander abgestimmt. Es besteht
+darüber hinaus kein unmittelbarer Bedarf für eine umfassende Revision des Gesetzes. Dabei sind noch in Arbeit befindliche Massnahmen im Rahmen der Klimastrategie ausgenommen.
+Der BSA Basel schlägt weitergehende Massnahmen vor, wie den Wegfall des Lichteinfallswinkels,
+eine garantierte Blockrandtiefe von 15 Metern und eine Reduktion der Freifläche (heute mindestens 50%).
+ Der Regierungsrat hat bei der Erarbeitung der vorliegenden Massnahmen auch
+weitergehende Vereinfachungen und Erleichterungen geprüft. Dabei zeigte sich, dass die
+Aufhebung des Lichteinfallswinkels zu unerwünschten Ergebnissen führen kann. Die
+garantierte Blockrandtiefe von 15 Metern würde zu einer Reduktion der Freifläche führen,
+was aus stadtklimatischen und ökologischen Überlegungen nicht zu verantworten wäre. Der
+Regierungsrat ist der Meinung, dass es sich bei den nun vorgeschlagenen Massnahmen
+um ausgewogene und vertretbare Erleichterungen und Vereinfachungen handelt.
+
+Seite 31/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+Die Ortsbildkommission Riehen regt eine Flexibilisierung der Platzierung des Attikageschosses
+an. Eine freiere Platzierung mit partieller Fassadenbündigkeit würde den architektonischen Spielraum erweitern und bessere gestalterische Lösungen ermöglichen. Auch wäre aus Sicht der OBK
+prüfenswert, ob die 12 x 25 m-Baufelder in der Zone 2a aufgehoben werden könnten.
+ Bereits heute bietet das Bau- und Planungsgesetz eine Flexibilität bei der Anordnung der
+Dachgeschosse. Der in der Regel nötige Rücksprung von der Hauptfassade von 1,5 Metern
+kann stellenweise auf 80 Zentimeter reduziert werden. Würde diese Regelung weiter aufgeweicht, so dass stellenweise gar kein Rücksprung mehr notwendig wäre, würde dies den
+vom Gesetz geforderten Zonencharakter, der durch die sichtbare Anzahl Vollgeschosse
+definiert wird, untergraben. Dies ist eines der zentralen Prinzipien des Gesetzes, so dass
+z.B. in einer Zone 4 alle Gebäude einen viergeschossigen Charakter aufweisen. Der Attikarücksprung dient in diesem Rahmen dazu, die Dachgeschosse gestalterisch und sichtbar
+von den den Zonencharakter bestimmenden Vollgeschossen abzusetzen.
+ Die Grösse der Baufelder in der Zone 2a führt zur bekannten und verbreiteten städtebaulichen «Körnigkeit», die den Charakter dieser Zone prägt. Daran will der Regierungsrat nichts
+ändern.
+WBG und SP fordern eine gesetzliche Grundlage für die Verankerung von raumplanerischen und
+wohnpolitischen Zielsetzungen in Bebauungsplänen (§ 101 BPG) sowie als flankierende Massnahmen der aufgezeigten Liberalisierungen.
+ Die Forderung entspricht dem Anzug Brigger und Konsorten betreffend Ergänzung der Bebauungspläne mit raumplanerischen Zielen (P195022). Der Regierungsrat hatte dazu 2021
+Bericht erstattet. Der Anzug wurde stehen gelassen. In der Antwort argumentierte der Regierungsrat, dass § 101 BPG bereits heute einen grossen Spielraum zur Festlegung von
+speziellen Regelungen bietet, sofern der für das jeweilige Thema notwendige breitere gesetzliche Rahmen bereits besteht. Es ist nicht Ziel und Zweck von Bebauungsplänen, allgemein relevante Themen auf diesem «Umweg» im Detail zu regeln.
+Als Beispiel können hier individuelle Vorschriften zum Wohnanteil dienen, deren Ausführung und Umsetzung mit der Verordnung über den Wohnflächenanteil den nötigen gesetzlichen Rahmen haben. Im Bebauungsplan lassen sich, gestützt auf diesen allgemeinen
+Rahmen, konkrete, auf das jeweilige Gebiet bezogene Wohnanteile festlegen, ohne erneut
+definieren zu müssen, was ein Wohnanteil ist.
+So steht es auch mit anderen Themen, wie dem preisgünstigen Wohnraum, der Residenzpflicht oder anderen raumplanerischen oder wohnpolitischen Themen. Mit der Motion Brigger und Konsorten betreffend Definition des preisgünstigen Wohnungsbaus und Schaffung
+der gesetzlichen Grundlagen für Bebauungspläne (P215511) wurde dem Thema vom Grossen Rat erneut Nachdruck verliehen. In seiner Antwort bestätigt der Regierungsrat den Regelungsbedarf und wird im Rahmen der Behandlung der Initiative «Basel baut Zukunft» einen entsprechenden Vorschlag vorlegen.
+WBG stellt die Frage in den Raum, ob nicht eine weitere generelle Zonenplanrevision im Sinne
+einer «inneren Verdichtung» zumindest für die Wohnflächenmobilisierung ein geeigneteres Instrument gewesen wäre als die vorliegenden Massnahmen.
+ Mit einer Revision des Zonenplans lässt sich die innere Verdichtung tatsächlich wirkungsvoller vorantreiben als mit den hier vorgelegten Massnahmen. Eine umfangreiche Zonenplanrevision wurde aber im 2020 nach mehr als zehnjähriger Arbeit abgeschlossen. Eine
+wichtige Stossrichtung war dabei die innere Verdichtung. Nach den Vorgaben des eidgenössischen Raumplanungsgesetzes werden Zonenpläne nach 15 Jahren überprüft und gegebenenfalls angepasst. Eine frühere Revision darf nur erfolgen, wenn sich die Verhältnisse
+erheblich geändert haben. Damit soll die sogenannte Planbeständigkeit gewahrt werden,
+die betroffenen Grundeigentümer*innen für eine gewisse Zeit Sicherheit über die geltenden
+baurechtlichen Möglichkeiten geben soll. Die Anpassungen am Bau- und Planungsgesetz
+
+Seite 32/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+sind damit aber trotzdem im Alltag von Bauwilligen hilfreich, vereinfachen bauliche Massnahmen, erhalten freie Innenhöfe und vereinheitlichen die Regelungen.
+Die Grünen fordern Massnahmen zur Förderung von ökologisch nachhaltigem Bauen und Entwickeln.
+ Die im vorliegenden Bericht beantragten Anpassungen steuern nicht die Details eines Gebäudes, sondern dessen Lage und Abmessung. Dabei soll im Sinne einer «Umverteilung»
+der bauliche Druck aus den Höfen in den Blockrand verlagert werden. Dies führt dazu, dass
+nicht noch mehr Höfe bebaut werden, während im Block potenzielle Reserven brachliegen.
+Dass ökologisch nachhaltige Materialien und Bauweisen angewendet werden, ist wünschenswert und wird vom Regierungsrat unterstützt. Er erachtet es aber nicht als sinnvoll,
+auf Gesetzesstufe Bautechniken und Materialien vorzuschreiben oder zu fördern, da sich
+diese immer wieder ändern. Eine gesetzliche Regelung könnte dabei sogar bremsend wirken. Es ist das Ziel, die Regeln zu vereinfachen und abzubauen und nicht weitere Regeln
+zu erlassen. Auf der anderen Seite kommt dem Thema durch die Debatte um Netto-Null ein
+neues Gewicht zu. Es wird in diesem Zusammenhang geprüft werden müssen, ob und welche Regelungen im Umgang mit Materialien zweckmässig sind.
+Verein Ökostadt, Grüne, SP und Countdown2030 wünschen, dass mit Blick auf das Stadtklima
+Massnahmen für eine bessere Kühlung und Durchlüftung ergriffen würden. So soll z. B. der Schutz
+noch bestehender Bauwiche (Baulücken) wieder eingeführt werden.
+ Der Regierungsrat hat zur Forderung der Wiedereinführung von Bauwichen mit der Antwort
+auf die in einen Anzug umgewandelte Motion Alexandra Dill und Konsorten betreffend «Basel pro Klima: Massnahmen zur besseren Durchlüftung der Stadt und zur Verbesserung des
+Luftklimas» (P195146) ausführlich Stellung genommen. Entgegen der damaligen Antwort
+gibt es mittlerweile auch aus der Baubewilligungspraxis Beispiele, die zumindest den Erhalt
+von Bauwichen nicht nur aus stadtklimatischen, sondern auch aus städtebaulichen und architektonischen Gründen als wünschenswert begrüssen. Zudem hat eine vertiefte Prüfung
+des Anliegens gezeigt, dass es im Sinne der Stärkung des Blockrands auch thematisch gut
+in die vorliegende Revision passt. Der Ratschlag schlägt daher nun eine entsprechende
+Vorschrift zum Erhalt der bestehenden Bauwiche vor (siehe Kapitel 4.3 / § 28 des Entwurfs BPG).
+BastA! fordert eine grundsätzliche Überarbeitung des Bau- und Planungsgesetzes mit Blick auf die
+Herausforderungen des Klimaschutzes und der Klimaanpassung, den Schutz des Bodens (oberund unterirdisch) und die Vereinfachung und Förderung von energetischen Sanierungen ohne grossen Baueingriff.
+ Eine Totalrevision des Bau- und Planungsgesetzes ist aktuell nicht angezeigt. Anpassungen mit Blick auf eine klimagerechte Stadt werden aber aktuell im Rahmen der Klimavorstösse und des Berichts der Spezialkommission Klima untersucht. Es folgt dazu ein separater Bericht.
+Der Neutrale Quartierverein St. Johann möchte, dass Massnahmen zur Klimaanpassung definiert und zeitgleich umgesetzt werden. Bevor das Stadtklimakonzept nicht vorliege, solle auch nicht
+weiter an der Revision gearbeitet werden.
+ Das Stadtklimakonzept liegt mittlerweile vor und definiert Massnahmen für eine klimagerechte Stadt. Welche gesetzlichen Anpassungen mit Blick auf die Klimaveränderung sinnvoll sind, wird aktuell untersucht. Daneben schlägt der Regierungsrat aufgrund der Rückmeldungen aus der Vernehmlassung vor, die noch bestehenden Bauwiche zu schützen und
+damit einen Beitrag zur Durchlüftung der Stadt und zum Schutz von Eckbebauungen im
+Blockrand zu leisten.
+
+Seite 33/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+9.4
+
+Rückmeldungen zur Lockerung des Lichteinfallswinkels
+
+In fast allen Stellungnahmen wird die Lockerung des strassenseitigen Lichteinfalls begrüsst. In vielen Stellungnahmen wird sogar die grundsätzliche Aufhebung des strassenseitigen Lichteinfallswinkels gefordert. Einzig Basta! lehnt den Vorschlag ab, da sich dadurch die Wohnqualität der
+Erdgeschosswohnungen verschlechtern würde. Grüne und Countdown2030 bemerken, dass sichergestellt werden müsse, dass auch in Zukunft, bei gelockertem Lichteinfallswinkel, Wohnungen
+im Erdgeschoss bewilligt werden können.
+ Die Abschaffung des strassenseitigen Lichteinfallswinkels wurde untersucht, aber verworfen. Der hier vorgeschlagene gelockerte Lichteinfallswinkel entschärft die Nachteile der
+heutigen Regelung und stellt gleichzeitig weiterhin sicher, dass in extremen Situationen, wo
+z.B. eine 18 Meter hohe Zone 5a an eine weniger als zwölf Meter breite Strasse grenzt,
+weiterhin ein gewisser Schutz sichergestellt ist.
+ Gemäss § 64 Abs. 2 BPG werden «gegen eine Baulinie gerichtete Fensterflächen oberirdischer Geschosse [...] auch angerechnet, wenn die Lichteinfallswinkel nicht eingehalten
+sind». Damit ist sichergestellt, dass auch mit der neuen Regelung zum Lichteinfallswinkel
+Wohnungen im Erdgeschoss bewilligt werden können.
+ Schliesslich ermöglicht die volle Ausnutzung der zulässigen Wandhöhe vermehrt Hochparterrewohnungen, die das Wohnen im Erdgeschoss attraktiver machen.
+
+9.5
+
+Rückmeldungen zur garantierten Blockrandtiefe
+
+Die garantierte Blockrandtiefe von zwölf Metern wird mehrheitlich begrüsst. Viele Rückmeldungen
+sehen aber die damit einhergehenden Auswirkungen auf Hofbebauungen kritisch. In anderen Stellungnahmen werden ebendiese Konsequenzen mit Blick auf mehr Lebensqualität in den Höfen
+begrüsst.
+ Die garantierte Blockrandtiefe von zwölf Metern vereinfacht die gesetzliche Mechanik zur
+Bestimmung der zulässigen Bautiefe stark. Die Vereinfachung der Vorschriften ist denn
+auch eines der Ziele dieser Vorlage. Diese Massnahme muss aber für eine gleichbleibende
+oder steigende Wohnqualität durch eine Veränderung der Vorschriften für Hofbebauungen
+aufgefangen werden. Dabei ist wichtig, sich vor Augen zu führen, dass – entsprechend den
+Ausführungen im Kapitel 4.2 – nur sehr wenige Hofbebauungen durch die garantierte Blockrandbebauung eingeschränkt werden, aber sehr viele Gebäude und Liegenschaften im
+Blockrand von dieser Massnahme profitieren. Aus Sicht des Regierungsrats überwiegen die
+Vorteile dieser Vereinfachung die Nachteile bei weitem.
+FSU bittet zu prüfen, wie mit reinen Hofparzellen umgegangen wird, die nicht mehr bebaut werden
+können und fragt, ob in solchen Situationen eine weitergehende Bautiefe als die vorgeschlagenen
+zwölf Meter, je nach Grösse des Hofbereichs, sinnvoll und machbar wäre.
+ Die garantierte Blockrandtiefe wird im ganzen Stadtgebiet keine einzige reine Hofparzelle
+unbebaubar machen. Das hat die Überprüfung gezeigt (siehe Kapitel 4.2.2). Sofern eine
+Freifläche von 50% eingehalten werden kann, können Randbebauungen weiterhin bis
+15 Meter tief gebaut werden. Eine zusätzliche Regelung braucht es hier also nicht.
+
+9.6
+
+Rückmeldungen zur Präzisierung der Dachgeschosse der Zonen 5 und 6
+
+Alle Rückmeldungen unterstützen die Präzisierung der Dachgeschossregelungen in den Zonen 5 und 6.
+
+Seite 34/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+9.7
+
+Rückmeldungen zur Präzisierung der Dachgeschosse der Zonen 2 und 2a
+
+Die Präzisierung der Dachgeschossregelungen in den Zonen 2 und 2a ist das am kritischsten beurteilte Thema der Vorlage. Die ablehnenden Rückmeldungen lassen sich grob in drei Kategorien
+unterteilen:
+1. Die Änderung der Dachgeschossregelung wird abgelehnt, weil die Aufstockung um ein
+zweites Dachgeschoss erst vor kurzem eingeführt wurde.
+ Es ist richtig, dass die Änderungen im Gesetz sehr neu sind. Die Liberalisierung der Dachbauvorschriften wird auch erst langsam baulich sichtbar. Die Änderung wurde damals für
+alle Zonen gleichermassen beschlossen und fokussierte vor allem auf den Blockrand. In
+den Zonen 2 und 2a hat aber die kurze Zeit seit der Einführung des zweiten Dachgeschosses klar gezeigt, dass damit unerwartete und unerwünschte Gebäude resultieren, die das
+Stadt- und Dorfbild stark beeinträchtigen. Dies vor allem auf grossen Parzellen und in Hanglagen. Aus diesem Grund ist hier schnell eine Präzisierung der allgemeinen Dachvorschriften für die Zonen 2 und 2a erforderlich.
+2. Die Änderung wird abgelehnt, da auch die Zonen 2 und 2a etwas zur Verdichtung beitragen
+sollen.
+ Die Liberalisierung der Dachbauvorschriften ist eine generelle Massnahme, die in den dichteren Zonen zur Verdichtung beiträgt. In den Zonen 2 und 2a hat sich diese Massnahme in
+der Praxis hingegen als kontraproduktiv erwiesen. Wenn auch in den tiefen Zonen eine
+Verdichtung anzustreben wäre, wäre die Anpassung der Bauvorschriften zudem nicht der
+geeignete Weg: Hierfür müsste stattdessen das Instrument der Aufzonung sowie Bebauungspläne gewählt werden.
+3. Die Änderung wird abgelehnt, da dadurch das neue bauliche Potenzial wieder rückgängig
+gemacht wird.
+ Die negativen Konsequenzen in den Landgemeinden, insbesondere in Hanglagen, machen
+eine schnelle Reaktion notwendig. Wo Bauwillige bereits von der Lockerung profitiert haben, lassen sich die Bauten nicht rückgängig machen. Überall sonst überwiegt der Nutzen
+dieser Einschränkung den Verlust an Potenzial bei weitem.
+Die EVP verlangt, dass nur bei Flachdächern ein zweites Dachgeschoss verboten werden soll.
+ Diese Einschränkung würde dazu führen, dass nur noch Satteldächer gebaut würden. Das
+wäre einerseits städtebaulich unerwünscht und andererseits auch ökologisch kritisch, da
+Satteldächer nicht begrünt werden können. Der Regierungsrat lehnt diesen Vorschlag daher ab.
+Der NQV Bruderholz verlangt, dass ein zweites Dachgeschoss nicht generell verboten wird, sondern dass eine differenzierte Regelung über die Dachprofillinien und die Gebäudehöhen gesucht
+wird.
+ Ziel des vorliegenden Ratschlags ist zuerst einmal eine Vereinfachung der Regeln. Mit der
+Liberalisierung der Dachbauvorschriften wurde die Firsthöhe generell aus dem Gesetz gestrichen. Diese wieder einzuführen oder durch eine neue «Gebäudehöhe» zu ersetzen,
+führt nicht zum Ziel. Die vom Regierungsrat vorgelegte Regelung ermöglicht weiterhin
+Dachgeschosse, ob als Flachdach oder als Satteldach. Sie schaltet aber den jetzt vorhandenen Anreiz aus, überhohe Gebäude zu realisieren, bei denen das Dach die Erscheinung
+des Gebäudes prägt. Es ist richtig, dass in der Zone 2a durch die Regelung der Gebäudegrundfläche ohnehin keine grossen Flächen im zweiten Dachgeschoss realisiert werden
+
+Seite 35/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+können, doch diese kleinen Räume haben eine sehr grosse Beeinträchtigung der Nachbarschaft und des Stadt- und Dorfbilds zur Folge. In der Zone 2 kommt erschwerend hinzu,
+dass die Grundfläche der Gebäude ausserhalb des Blockrandbereichs eben nicht auf
+zwölf Meter beschränkt ist und dort die negativen Konsequenzen der bestehenden Regelung viel weitreichender sind.
+Die SVIT regt an, dass für die Stadt und die Landgemeinden differenzierte Regelungen geschaffen
+werden sollen.
+ Die Problematik des zweiten Dachgeschosses betrifft alle Gebiete, die in den Zonen 2 und
+2a in der Stadt und den Landgemeinden gleichermassen. Eine differenzierte Regelung ist
+daher nicht zweckmässig.
+WBG und Grüne schlagen vor, den pauschalen Verzicht auf das zweite Dachgeschoss aus der
+Vorlage herauszustreichen und stattdessen über die Gestaltungsvorschriften von § 58 bzw. über
+den Einfluss der Stadt- und Dorfbildkommission einschränkend auf unerwünschte Dachgestaltungen Einfluss zu nehmen.
+ Die Kompetenzen der Stadt- und Dorfbildkommissionen wurden erst kürzlich eingeschränkt,
+eine erneute Veränderung der Kompetenzen ist aktuell nicht angezeigt. Unabhängig davon
+dürfen die Stadt- und Dorfbildkommissionen zwar eine gute Gesamtwirkung einfordern, dabei das zulässige Mass der baulichen Nutzung entsprechend dem Gesetz aber nicht einschränken.
+
+9.8
+
+Rückmeldungen zur Präzisierung der Dachgeschosse der Zonen 4 und 5a
+
+Die Präzisierung der Vorschriften für Hofbebauungen in den Zonen 4 und 5a wird überwiegend
+begrüsst. Nur die FDP lehnt Einschränkungen im Hof generell ab.
+Riehen gibt zu bedenken, dass die raumplanerisch gewünschte Innenentwicklung in Riehen zunehmend in der zweiten Bautiefe, d.h. ausserhalb des durch die Baulinie definierten Blockbereichs,
+stattfindet. Da die Ausdehnung der Dächer wie in der Vorlage beschrieben nur noch über die Dachprofillinie beschränkt wird, können in der Hofbebauung auch in den Zonen 2a, 2 und 3 sehr hohe
+Satteldächer entstehen und zu städtebaulich nicht erwünschten und untragbaren Situationen führen. Riehen schlägt daher vor, ausserhalb des Blockbereichs die vor der letzten Revision geltende
+Regelung mit einer definierten Gebäudehöhe resp. Firsthöhe wieder einzuführen.
+ Die Bedenken der Gemeinde Riehen sind berechtigt. Durch die Präzisierung der Dachgeschosse in den Zonen 2 und 2a bzw. in den Zonen 4 und 5a wird das Problem von hohen
+Dächern in der zweiten Baureihe weitgehend behoben. In der Zone 3 bleibt die freie Dachhöhe zwar bestehen, aufgrund des besseren Verhältnisses zwischen Voll- und Dachgeschossen sind dort aber keine oder weniger starke negativen Auswirkungen zu erwarten.
+
+9.9
+
+Rückmeldungen zur Präzisierung des Baulinienabstands
+
+Die Möglichkeit, in Ausnahmefällen Baulinienabstände von weniger als zwölf Metern zu schaffen,
+wird weitgehend begrüsst. Nur BastA! lehnt die Änderung ab. In begründeten Fällen könnten stattdessen im Rahmen von Bebauungsplänen Ausnahmeregelungen getroffenen werden.
+ Baulinien werden gemäss § 106 BPG durch den Regierungsrat festgesetzt. Bebauungspläne unterstehen in der Regel dem Beschluss durch den Grossen Rat. Für die Legung von
+Baulinien den Grossen Rat zu befragen, widerspricht der Legitimationskompetenz des Gesetzes und überstrapaziert das Instrument des Bebauungsplans. Der Regierungsrat erachtet die vorgeschlagene Formulierung als angemessenen Mittelweg zwischen der generellen
+
+Seite 36/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+Regelung von einem Mindestabstand von zwölf Metern und der Möglichkeit, in einzelnen,
+gut begründeten Fällen, zum Beispiel in der Innerstadt, auch davon abweichen zu können.
+
+9.10
+
+Rückmeldungen zur Flexibilisierung der Erker
+
+Die Flexibilisierung der Erkervorschriften wird mehrheitlich begrüsst. Die EVP lehnt die Flexibilisierung ab. FSU sieht die Flexibilisierung kritisch, da damit eher der Wohnraum nach aussen vergrössert würde und ein uneinheitlicheres und unruhigeres Bild im Strassenraum entstehen könne. GLP
+fragt zusätzlich, ob Erker und Balkone gleich zu behandeln seien.
+ Die Anpassung der Vorschrift geht auf die Erfahrungen der Stadtbildkommission zurück,
+wonach gerade die klassischen Erker, die an vielen gründerzeitlichen Gebäudezeilen in der
+Stadt zu sehen sind, mit der heutigen Vorschrift nicht mehr realisiert werden können. Die
+heute möglichen Erker hingegen stören durch die erzwungene Maximierung in der Tiefe
+statt in der Breite das Strassenbild. Mit der Flexibilisierung soll der Druck in die Tiefe reduziert und der in vielen Strassen bekannte Erkertyp wieder gestärkt werden.
+
+10.
+
+Anzug Stefan Wittlin und Konsorten betreffend «Schaffung von
+Anreizen für die bauliche Verdichtung im Bestand» (P215232)
+
+Der Grosse Rat hat an seiner Sitzung vom 20. Mai 2021 den nachstehenden Anzug Stefan Wittlin
+und Konsorten betreffend «Schaffung von Anreizen für die bauliche Verdichtung im Bestand» zur
+Berichterstattung überwiesen:
+„Es laufen im Kanton Basel-Stadt derzeit verschiedene politische Prozesse mit Auswirkungen auf das
+Bau- und Planungsgesetz (BPG), die sich direkt oder indirekt auf das Bauen im Bestand auswirken.
+Grundsätzlich wird von den Anzugstellenden gefordert, diese Prozesse gesamtheitlich und koordiniert
+zu betrachten.
+2018 hat die Bau- und Raumplanungskommission (BRK) die Motion betreffend Vereinfachung des
+Baubewilligungswesens (18.5155.01) eingereicht. Eines der fünf Kernanliegen fordert den Regierungsrat dazu auf, «Voraussetzungen und Anreize zu schaffen, damit bei bestehenden Bauten und
+Betrieben ökologisch und raumplanerisch sinnvolle Sanierungen/Erneuerungen vereinfacht umgesetzt
+werden können». Der Ratschlag zu energetisch sinnvollen Sanierungen, Umbauten oder Erneuerungen (19.1369.01) sieht eine Ergänzung von §106 BPG vor, die Bebauungspläne bis 8'000 m² mit um
+10% erhöhtem Nutzungsmass in die Kompetenz des Regierungsrats legen will. Dieser Spielraum für
+ein erhöhtes Nutzungsmass scheint jedoch nicht nur für Umbauten oder Erneuerungen zu gelten, sondern auch für Ersatzneubauten.
+Im Januar 2021 hat der Regierungsrat die öffentliche Vernehmlassung zum Ratschlag Vereinfachung
+und Liberalisierung der Blockrandvorschriften zur Förderung der inneren Verdichtung lanciert. Auch
+hier wird mit einer Anpassung des BPG in gewissen Fällen das zulässige Nutzungsmass erhöht.
+Je grösser die Differenz zwischen Nutzungsmass des Bestands und zulässigem Nutzungsmass ausfällt, desto grösser ist der Anreiz, dieses mit baulichen Massnahmen auszuschöpfen. Damit erhöht
+sich der Druck auf die bestehenden Gebäude, weil die Ausschöpfung des Nutzungsmasses mit Ersatzneubauten oft einfacher zu erreichen ist. Bauliche Lösungen im Bestand (z.B. Aufstockungen)
+haben jedoch erhebliche Vorteile und sollten deshalb gefördert werden.
+1. Klimaschutz: Neubauten, insbesondere jene mit einem hohen Betonanteil, verursachen immense
+CO2-Emmissionen. Bestehende Bausubstanz zu erhalten ist ressourcenschonender als jeder
+noch so nachhaltige Neubau.
+2. Bezahlbare Mietwohnungen: Bestehende Bausubstanz zu erhalten ist erstrebenswert, wenn
+dadurch Wohnraum mit bezahlbaren Mieten erhalten werden kann. Das Ziel muss sein, dass auch
+Umbauten mit Erweiterung des Nutzungsmasses (z.B. Aufstockungen) ohne Kündigungen umgesetzt werden.
+
+Seite 37/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+3. Baukultur: Viele gut erhaltene Mehrfamilienhäuser, insbesondere aus der Zeit der Jahrhundertwende um 1900, hätten Potential für Verdichtung. Mit sorgfältig gestalteten Aufstockungen kann
+deren kulturhistorischer Wert erhalten werden.
+Im Sinne dieser Auslegeordnung bitten die Anzugstellenden den Regierungsrat, bauliche Verdichtungsmassnahmen im Bestand (Umbauten, Anbauten, Erweiterungen, Aufstockungen, etc.) mit gezielten Massnahmen zu fördern und diesbezüglich zu prüfen und berichten,
+-
+
+welche Möglichkeiten er sieht, Anreize für das Verdichten im Bestand zu schaffen, z.B. mittels
+Nutzungsbonus,
+
+-
+
+ob bei der Bewilligung von Umbauten ein grösserer Spielraum geschafft werden könnte für die
+Erreichung des zulässigen Nutzungsmasses, z.B. in Form von hofseitigen Anbauten für Erschliessungsräume und Aufzüge, und
+
+-
+
+ob er Möglichkeiten sieht, das Bauen im Bestand mit finanziellen Anreizen (z.B. Subventionierungen) zu fördern und unter welchen Voraussetzungen dies erfolgen könnte.
+
+Die Anzugstellenden bitten den Regierungsrat, diese Themen bereits im Rahmen der laufenden Bearbeitung des Ratschlags «Vereinfachung und Liberalisierung der Blockrandvorschriften zur Förderung
+der inneren Verdichtung» aufzunehmen.
+Stefan Wittlin, Alexandra Dill, Michela Seggiani, Christoph Hochuli, Jeremy Stephenson, Michael Hug,
+Bülent Pekerman, Sandra Bothe, Lisa Mathys, Pascal Pfister, Jürg Stöcklin, Jean-Luc Perret, Tim
+Cuénod, René Brigger“
+
+10.1
+
+Bericht zum Anzug Wittlin
+
+Das Ziel der vorliegenden Revision des Bau- und Planungsgesetzes ist die Stärkung des Blockrands und die Vereinfachung der Vorschriften. Dies soll mit den verschiedenen weiter oben beschriebenen Massnahmen erreicht werden. Das Ziel ist hingegen nicht, wie dies die Anzugstellenden befürchten, Neubauten zu fördern oder diese Sanierungen und Umbauten vorzuziehen. Durch
+die Lockerung des Lichteinfallswinkels strassenseitig oder die garantierte Blockrandtiefe von
+zwölf Metern profitieren sowohl Neubauten als auch Umbauten. So können Dachaufstockungen
+von der Lockerung des Lichteinfallswinkels oder hofseitige Balkon- oder Liftanbauten von der garantierten Blockrandtiefe profitieren.
+Bestehende Bauten geniessen ohnehin bereits heute, gestützt auf die Besitzstandsgarantie, einen
+hohen Schutz gegenüber Neubebauungen. Dies vor allem auch in den zahlreichen Fällen, wo Bestandesbauten aufgrund ihrer Bauweise nach älteren Zonenordnungen oder Gesetzen höhere bauliche Nutzungen aufweisen, als dies nach geltendem Recht für Neubauten möglich wäre. Aufgrund
+der grossen Nachfrage nach Wohnraum in Basel werden bereits heute häufig Nutzungsänderungen von bestehenden brachliegenden Gewerbenutzungen zu Wohnnutzungen im Rahmen der sogenannten «erweiterten Besitzstandsgarantie» gemäss § 77 Abs. 3 BPG favorisiert. Aufgrund der
+Bestandesgarantie werden schliesslich bauliche Erweiterungen, inkl. Aufstockungen, Dachausbauten und Anbauten von bestehenden Blockrandbauten, soweit es die Nutzungsordnung zulässt,
+rege genutzt.
+Unabhängig davon hat die Basler Stimmbevölkerung mit der Annahme der Initiative «Ja zum
+ECHTEN Wohnschutz», respektive mit der Revision des Wohnraumfördergesetzes, am 28. November 2021 den Wohnschutz verstärkt. Die neuen Bestimmungen zum Schutz von bezahlbarem
+Wohnraum traten am 28. Mai 2022 in Kraft. Insbesondere wurden die Voraussetzungen für Abbruch
+von Wohnraum strenger, da Ersatzneubauten höhere Anforderungen erfüllen müssen:
+
+Seite 38/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+§ 7 Abbruch von Wohnraum
+1
+
+Jeder Abbruch von Gebäuden, die vorwiegend Wohnzwecken dienen, bedarf einer Bewilligung.
+
+2
+
+Keiner Bewilligung gemäss diesem Gesetz bedarf der Abbruch, der aufgrund einer rechtskräftigen
+behördlichen Verfügung oder im Interesse von öffentlichen Bauten und Anlagen oder des gemeinnützigen Wohnungsbaus erforderlich ist.
+3
+
+Vorbehältlich der Einhaltung der nutzungsplanerischen Vorschriften zum Wohnanteil kann die Abbruchbewilligung ausnahmsweise erteilt werden, wenn
+a) der Ersatzneubau mindestens 20% mehr Wohnraum umfasst, sofern eine Aufstockung im Bestand technisch nicht möglich oder nach ökologischen Kriterien auch unter Berücksichtigung des
+Aspekts der grauen Energie nicht sinnvoll erscheint und der Ersatzneubau ökologischen Kriterien
+vollumfänglich entspricht,
+b) der Ersatzbau mindestens 40% mehr Wohnraum umfasst, sofern die ökologischen Kriterien nicht
+erfüllt werden,
+c) und die gesicherte Finanzierung nachgewiesen ist.
+4
+
+In Zeiten der Wohnungsnot kann eine Ausnahmebewilligung gemäss Abs. 3 zudem nur erteilt werden, sofern die Kriterien von §§ 8a bis 8e erfüllt sind.
+5
+
+Die Abbruchbewilligung kann auch in Zeiten der Wohnungsnot erteilt werden, wenn
+a) der zum Abbruch vorgesehene Wohnraum mit angemessenem Aufwand nicht erhalten werden
+kann, es sei denn, dieser Aufwand ist auf eine offensichtliche Vernachlässigung des Gebäudeunterhalts zurückzuführen;
+b) mit der Ersatzbaute mehrheitlich gewerblichen Zwecken dienende Räume oder Verwaltungsräume geschaffen werden sollen und die Voraussetzungen erfüllt sind, eine Zweckentfremdung
+der betroffenen Wohnräume zu bewilligen.
+
+Mit diesen neuen und zusätzlichen Anforderungen für Ersatzneubauten sind aus Sicht des Regierungsrats weitere Anreize – wie etwa die im Anzug genannten Nutzungsboni oder finanziellen Anreize – für die Verdichtung im Bestand, bzw. für Sanierungen und Umbauten nicht mehr notwendig.
+Insbesondere die Vorgaben nach § 7 Abs. 3 WRFG erschweren Ersatzneubauten deutlich. Es ist
+davon auszugehen, dass nun Sanierungen, Umbauten oder Aufstockungen in vielen Fällen einem
+Ersatzneubau vorgezogen werden bzw. werden müssen. Die Wirkung dieser Regelungen muss
+nun zuerst abgewartet werden. Weitergehende Massnahmen und Anpassungen im Gesetz werden
+im Rahmen der nächsten BPG-Revision diskutiert und geprüft werden, insbesondere auch mit Fokus auf die grauen Treibhausgasemissionen.
+
+10.2
+
+Antrag zum Anzug Wittlin
+
+Aufgrund obenstehender Ausführungen und des vorliegenden Ratschlags beantragt der Regierungsrat, den Anzug Stefan Wittlin und Konsorten betreffend «Schaffung von Anreizen für die bauliche Verdichtung im Bestand» abzuschreiben.
+
+11.
+
+Prüfungen
+
+Das Finanzdepartement hat den vorliegenden Ratschlag gemäss § 8 des Gesetzes über den kantonalen Finanzhaushalt (Finanzhaushaltgesetz) vom 14. März 2012 überprüft.
+Das Justiz- und Sicherheitsdepartement hat den Erlass gemäss § 4 Abs. 1 des Gesetzes über
+Publikationen im Kantonsblatt und über die Gesetzessammlung des Kantons Basel-Stadt vom
+19. Oktober 2016 (Publikationsgesetz; SG 151.200) in rechtlicher sowie in redaktioneller und gesetzestechnischer Hinsicht geprüft.
+
+Seite 39/40
+
+Regierungsrat des Kantons Basel-Stadt
+
+Der Vortest zur Regulierungsfolgenabschätzung hat ergeben, dass Unternehmen nicht negativ von
+der vorliegenden Revision betroffen sind. Die Änderungen haben insbesondere für Gewerbebetriebe keine negativen Auswirkungen. Insbesondere bleiben die Ausnahmebestimmungen gemäss
+§ 81 Abs. 1 lit. c BPG in Kraft, die Erleichterungen für Gewerbebetriebe vorsehen. Auch können
+weiterhin eingeschossige Bauten bis an die Parzellengrenzen gebaut werden. Schliesslich sind
+bestehende Gebäude gemäss den §§ 77 ff. BPG in ihrem Bestand geschützt, auch wenn sie den
+geltenden Vorschriften widersprechen.
+
+12.
+
+Antrag
+
+Gestützt auf unsere Ausführungen beantragen wir dem Grossen Rat die Annahme des nachstehenden Beschlussentwurfes.
+Aufgrund dieses Berichts beantragen wir, den Anzug Stefan Wittlin und Konsorten betreffend
+«Schaffung von Anreizen für die bauliche Verdichtung im Bestand» abzuschreiben.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Beat Jans
+Regierungspräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Beilagen
+Entwurf Grossratsbeschluss
+Synopse
+Vortest Regulierungsfolgenabschätzung
+
+Seite 40/40
+
+FORMELL GEPRÜFT (2) | ID: 5196 | 03.01.2023
+
+Bau- und Planungsgesetz
+(BPG)
+Änderung vom [Datum]
+Der Grosse Rat des Kantons Basel-Stadt,
+nach Einsichtnahme in den Ratschlag des Regierungsrats Nr. [hier Nummer eingeben] vom [hier Datum
+eingeben] sowie in den Bericht der Bau- und Planungskommission Nr. [hier Nummer eingeben] vom
+[hier Datum eingeben],
+beschliesst:
+I.
+Bau- und Planungsgesetz (BPG) vom 17. November 1999 1) (Stand 23. Dezember 2019) wird wie folgt
+geändert:
+§ 11 Abs. 5 (neu)
+5
+In den Zonen 2 und 2a ist ein zweites Dachgeschoss nur unter einem bestehenden Giebeldach zulässig.
+§ 15 Abs. 2 (aufgehoben)
+2
+Aufgehoben.
+§ 16 Abs. 1 (aufgehoben), Abs. 2 (aufgehoben), Abs. 3 (geändert), Abs. 4 (geändert)
+1
+Aufgehoben.
+2
+Aufgehoben.
+3
+Wenn nichts anderes vereinbart ist, dürfen Gebäudewände auf der Hofseite mit einem Gebäudeabstand von weniger als 3,5 m keine Fenster haben.
+4
+Vereinbarungen über die Herabsetzung von Gebäudeabständen und über Fensterrechte sind als Dienstbarkeiten im Grundbuch einzutragen.
+§ 17 Abs. 2 (geändert), Abs. 3 (neu)
+2
+Erker, Risalite und Balkone dürfen sich nicht über mehr als die Hälfte der Fassadenbreite erstrecken.
+3
+Die Grundfläche von Erkern darf das Mass von einem Zehntel des Baulinienabstands, höchstens aber
+1,5 m mal einen Drittel der Fassadenlänge, nicht überschreiten.
+§ 23 Abs. 2 (geändert)
+2
+Die Höhe von Gebäudeteilen auf der Strassenseite darf höchstens 3 m grösser sein als ihr Abstand zur
+gegenüberliegenden Baulinie.
+§ 28 Abs. 1bis (neu)
+1bis
+Bestehende offene Blockrandbereiche auf Grundstücken in Ecklagen dürfen nur bebaut werden,
+wenn ein Abstand zum Gebäude in der Ecklage sichergestellt ist, der mindestens der zulässigen Höhe
+der Gebäudewände entspricht.
+§ 29 Abs. 1, Abs. 2 (geändert), Abs. 4 (geändert)
+1
+Ausserhalb des Blockrandbereichs gelten die Vorschriften für Randbebauungen mit folgenden Abweichungen:
+
+1)
+
+SG 730.100
+
+1
+
+b)
+
+(geändert) Sämtliche Gebäudeteile müssen einen Grenzabstand einhalten, der mindestens ihrer halben Höhe entspricht und nicht kleiner als 6 m sein darf. Zum Blockrandbereich müssen
+diese zudem einen Gebäudeabstand einhalten, der der zulässigen Wandhöhe im jeweiligen
+Blockrandbereich entspricht. Die Höhen werden von der für die Wandhöhe massgebenden
+Linie aus bestimmt. An Wegen ohne Baugrenzen sind die Abstände zur Wegmitte einzuhalten.
+d)
+(geändert) Dachgeschosse müssen auf mindestens zwei parallelen Seiten der Gebäude oder
+Gebäudeteile und auf allen Seiten, deren Länge die zulässige Gebäudetiefe im Blockrandbereich übersteigt, zurückgesetzt oder mit einem Schrägdach überdeckt werden. Die zulässige
+Grundfläche zurückgesetzter Geschosse wird durch einen Abstand von 1,5 m zu den längeren
+Seiten bestimmt. In den Zonen 4 und 5a sind Dachgeschosse ausserhalb des Blockrandbereichs
+nur zulässig, sofern der Blockrandbereich desselben Baublocks nicht überwiegend bebaut ist.
+2
+Die Vorschriften über Gebäude- und Grenzabstände gelten nicht,
+Aufzählung unverändert.
+4
+Vereinbarungen über die Herabsetzung von Gebäude- und Grenzabständen sind als Dienstbarkeiten
+im Grundbuch einzutragen.
+§ 36 Abs. 1
+1
+In den Zonen 6 und 5 gelten die Vorschriften für die Zonen 5a, 4, 3 und 2 mit folgenden Abweichungen:
+c)
+Aufgehoben.
+f)
+(geändert) Die Gebäudehöhe ist auf 28 m in der Zone 6 und auf 26 m in der Zone 5 begrenzt.
+g)
+(geändert) In den Zonen 5 und 6 darf die Höhe von Gebäudeteilen auf der Strassenseite höchstens 4 m grösser sein als ihr Abstand zur gegenüberliegenden Baulinie. Befinden sich die Gebäude auf der gegenüberliegenden Strassenseite ebenfalls in den Zonen 5 oder 6, gilt diese
+Beschränkung nicht.
+§ 98 Abs. 2 (geändert)
+2
+Der Baulinienabstand beträgt in der Regel mindestens 12 m. Ist die Strasse nur einseitig bebaubar,
+beträgt der Mindestabstand zur gegenüberliegenden Strassenlinie in der Regel 7 m. In begründeten Fällen kann von diesen Mindestvorgaben abgewichen werden.
+II. Änderung anderer Erlasse
+Keine Änderung anderer Erlasse.
+III. Aufhebung anderer Erlasse
+Keine Aufhebung anderer Erlasse.
+IV. Schlussbestimmung
+Diese Änderung ist zu publizieren; sie unterliegt dem Referendum und der Regierungsrat bestimmt den
+Zeitpunkt des Inkrafttretens.
+
+[Behörde]
+[Funktion 1]
+[NAME 1]
+[Funktion 2]
+[NAME 2]
+
+ZRD
+03.01.2023
+
+RGS
+
+2
+
+Synopse
+Änderung BPG Blockrandvorschriften
+Von diesem Geschäft tangierte Erlasse (SG Nummern)
+Neu:
+–
+Geändert:
+730.100
+Aufgehoben: –
+
+Geltendes Recht
+
+Kopie von Arbeitsversion (Stempel 21.10.2020)
+Bau- und Planungsgesetz
+(BPG)
+Der Grosse Rat des Kantons Basel-Stadt,
+nach Einsichtnahme in den Ratschlag des Regierungsrats Nr. [hier Nummer eingeben] vom [hier Datum eingeben] sowie in den Bericht der Bau- und Planungskommission Nr. [hier Nummer eingeben] vom [hier Datum eingeben],
+beschliesst:
+
+I.
+Bau- und Planungsgesetz (BPG) vom 17. November 1999 (Stand 23. Dezember 2019) wird wie folgt geändert:
+§ 11
+1
+
+Dachgeschosse werden nicht an die zulässige Geschosszahl angerechnet,
+wenn sie mindestens auf der Strassen- und auf der Hofseite hinter das oberste
+Vollgeschoss zurückgesetzt (Attikageschosse) oder mit höchstens 1,4 m hohen
+Kniestöcken angelegt werden.
+2
+
+Das erste Attikageschoss muss zu den Wänden auf der Strassen- und auf der
+Hofseite des obersten Vollgeschosses einen Abstand von je 1,5 m einhalten.
+Dieser Abstand kann stellenweise bis auf 0,8 m verringert werden, wenn dabei
+die gesamte Grundfläche des Dachgeschosses nicht vergrössert wird.
+
+-2-
+
+Geltendes Recht
+
+Kopie von Arbeitsversion (Stempel 21.10.2020)
+
+2bis
+
+Treppenhaus und Liftschacht sind davon ausgenommen, sofern sie das erste
+Dachgeschoss nicht überragen und sich nicht über mehr als ein Drittel der Fassadenbreite erstrecken.
+3
+
+Die Kniestockhöhe entspricht dem Abstand zwischen dem rohen Fussboden
+und der Oberkante der Dachbalken auf der Aussenseite.
+4
+
+Zwei Dachgeschosse sind nur zulässig, wenn sie innerhalb der Dachprofillinie
+liegen, die über dem obersten Vollgeschoss ansetzt.
+5
+
+In den Zonen 2 und 2a ist ein zweites Dachgeschoss nur unter einem bestehenden Giebeldach zulässig.
+§ 15
+1
+
+Die Gebäudetiefe muss herabgesetzt werden, soweit es zur Einhaltung einer
+Freifläche von 50% der hinter der Baulinie liegenden Grundstücksfläche nötig ist,
+höchstens aber auf 12 m. Unterirdische und auf Freiflächen zulässige Bauten (§
+52) werden nicht berücksichtigt.
+2
+
+Die Gebäudetiefe muss weiter herabgesetzt werden, soweit es zur Einhaltung
+eines Abstandes zur hinteren Grundstücksgrenze nötig ist, der der Hälfte der zulässigen Höhe der Gebäudewände entspricht, mindestens aber 6 m beträgt.
+
+2
+
+Aufgehoben.
+
+1
+
+Aufgehoben.
+
+§ 16
+1
+
+Soweit es für Gebäudetiefen von 10 m nötig ist, darf der Grenzabstand herabgesetzt werden,
+a) wenn die für zulässige Nutzungen nötigen Lichteinfallswinkel durch Höhenbegrenzungen eingehalten werden;
+b) wenn nicht vorgeschrieben ist und darauf verzichtet wird, unterhalb der Eckpunkte der gesetzmässigen Lichteinfallswinkel liegende Räume für Nutzungen
+zu verwenden, die Fenster auf der Hofseite voraussetzen.
+
+-3-
+
+Geltendes Recht
+
+Kopie von Arbeitsversion (Stempel 21.10.2020)
+
+2
+
+2
+
+Nicht eingehalten werden müssen
+
+Aufgehoben.
+
+a) Grenzabstände, die Abstände mehrgeschossiger Gebäude von weniger als 3,5
+m zur Folge haben könnten;
+b) Abstände von weniger als 7 m zwischen Randbebauungen, die in einem Winkel von weniger als 60°/360 aufeinandertreffen.
+3
+
+Wenn nichts anderes vereinbart ist, dürfen Gebäudewände auf der Hofseite mit
+einem Grenzabstand von weniger als 3,5 m keine Fenster haben.
+
+3
+
+4
+
+4
+
+Vereinbarungen über die Herabsetzung von Grenzabständen und über Fensterrechte sind als Dienstbarkeiten im Grundbuch einzutragen.
+
+Wenn nichts anderes vereinbart ist, dürfen Gebäudewände auf der Hofseite mit
+einem Grenzabstand Gebäudeabstand von weniger als 3,5 m keine Fenster haben.
+Vereinbarungen über die Herabsetzung von Grenzabständen Gebäudeabständen und über Fensterrechte sind als Dienstbarkeiten im Grundbuch einzutragen.
+
+§ 17
+1
+
+Baulinien dürfen um einen Zehntel des Baulinienabstandes, höchstens aber um
+1,5 m durch Bauteile wie Dächer, Balkone, Freitreppen, Erker und Risalite sowie
+durch unterirdische Anbauten überschritten werden.
+2
+
+Erker, Risalite und Balkone dürfen sich nicht über mehr als die Hälfte, Erker alleine sich nicht über mehr als einen Drittel der Fassadenbreite erstrecken.
+
+2
+
+Erker, Risalite und Balkone dürfen sich nicht über mehr als die Hälfte, Erker alleine sich nicht über mehr als einen Drittel der Fassadenbreite erstrecken.
+3
+
+Die Grundfläche von Erkern darf das Mass von einem Zehntel des Baulinienabstands, höchstens aber 1,5 m mal einen Drittel der Fassadenlänge, nicht überschreiten.
+§ 23
+1
+
+Gebäudewände dürfen nicht in die für anrechenbare Fensterflächen nötigen
+Lichteinfallswinkel der auf anderen Grundstücken zulässigen mehrgeschossigen
+Gebäude ragen. Der Lichteinfallswinkel gilt als eingehalten, wenn die Abstände
+sämtlicher Gebäudeteile mindestens so gross sind wie ihre Höhen.
+
+-4-
+
+Geltendes Recht
+
+Kopie von Arbeitsversion (Stempel 21.10.2020)
+
+2
+
+2
+
+Die Höhe von Gebäudeteilen auf der Strassenseite darf nicht grösser sein als
+ihr Abstand zur gegenüberliegenden Baulinie.
+
+Die Höhe von Gebäudeteilen auf der Strassenseite darf nicht höchstens 3
+m grösser sein als ihr Abstand zur gegenüberliegenden Baulinie.
+
+§ 28
+1
+
+Die Bauflucht von Gebäuden muss durch die an der Baulinie stehenden Teile
+der Gebäudewände dominiert werden. Vor oder hinter der Baulinie liegende Gebäudeteile müssen sich in die Fassaden einordnen.
+1bis
+
+Bestehende offene Blockrandbereiche auf Grundstücken in Ecklagen dürfen
+nur bebaut werden, wenn ein Abstand zum Gebäude in der Ecklage sichergestellt ist, der mindestens der zulässigen Höhe der Gebäudewände entspricht.
+2
+
+Wenn Emissionen nicht ausreichend begrenzt werden können, kann eine Bauweise angeordnet werden, die ihre Ausbreitung hindert.
+3
+
+Wenn nicht bis an die seitliche Grundstücksgrenze gebaut wird, muss der Abstand dazu mindestens 3 m betragen.
+4
+
+Der zur bestimmungsgemässen Nutzung nötige Lichteinfall auf bestehende Gebäude im gleichen Baublock muss gewahrt bleiben.
+§ 29
+1
+
+Ausserhalb des Blockrandbereichs gelten die Vorschriften für Randbebauungen
+mit folgenden Abweichungen:
+a) Die Bebauung ist zulässig, soweit die hinter der Baulinie liegende Grundstücksfläche noch nicht zu 50% überbaut ist. Werden Teile der Freifläche im
+Blockrandbereich überbaut, ist die Bebauung ausserhalb des Blockrandbereichs in dem zur Einhaltung von 50% Freifläche nötigen Umfang zu beseitigen.
+
+-5-
+
+Geltendes Recht
+
+Kopie von Arbeitsversion (Stempel 21.10.2020)
+
+b) Sämtliche Gebäudeteile müssen einen Grenzabstand einhalten, der mindestens ihrer halben Höhe entspricht und nicht kleiner als 6 m sein darf. Die Höhen
+werden von der für die Wandhöhe massgebenden Linie aus bestimmt. An Wegen ohne Baugrenzen sind die Abstände zur Wegmitte einzuhalten.
+
+b) Sämtliche Gebäudeteile müssen einen Grenzabstand einhalten, der mindestens ihrer halben Höhe entspricht und nicht kleiner als 6 m sein darf. Zum
+Blockrandbereich müssen diese zudem einen Gebäudeabstand einhalten, der
+der zulässigen Wandhöhe im jeweiligen Blockrandbereich entspricht. Die Höhen werden von der für die Wandhöhe massgebenden Linie aus bestimmt. An
+Wegen ohne Baugrenzen sind die Abstände zur Wegmitte einzuhalten.
+
+c) Zu Bauten auf dem gleichen Grundstück müssen keine Abstände eingehalten
+werden.
+d) Dachgeschosse müssen auf mindestens zwei parallelen Seiten der Gebäude
+oder Gebäudeteile und auf allen Seiten, deren Länge die zulässige Gebäudetiefe im Blockrandbereich übersteigt, zurückgesetzt oder mit einem Schrägdach
+überdeckt werden. Die zulässige Grundfläche zurückgesetzter Geschosse wird
+durch einen Abstand von 1,5 m zu den längeren Seiten bestimmt.
+
+e) Unterirdische Bauten und Anlagen sind auf der ganzen Fläche zulässig.
+f) Eingeschossige Bauten und Anbauten müssen keine Abstände einhalten, wenn
+sie insgesamt nicht mehr als 3 m und mit ihrem Boden nicht mehr als 50 cm
+aus dem natürlichen oder abgegrabenen Erdboden hervortreten. Wo mässig
+störende Betriebe zugelassen sind, ist eine Gesamthöhe von 4,5 m zulässig.
+Bei einem Grenzabstand von weniger als 3 m dürfen gegen die Nachbargrenze
+gerichtete Wände keine Öffnungen haben, wenn nichts Abweichendes vereinbart ist.
+g) Anbauten zur Erweiterung von Räumen in Erdgeschossen dürfen ihren Boden
+und ihre Decke auf der Höhe des Bodens und der Decke des zu erweiternden
+Erdgeschosses haben, wenn der Grenzabstand einer solchen Anbaute mindestens ihrer Höhe entspricht.
+h) Der Grenzabstand von Geländern und anderer Vorrichtungen zur Abgrenzung
+von Terrassen auf eingeschossigen Bauten muss mindestens ihrer Höhe entsprechen.
+
+d) Dachgeschosse müssen auf mindestens zwei parallelen Seiten der Gebäude
+oder Gebäudeteile und auf allen Seiten, deren Länge die zulässige Gebäudetiefe im Blockrandbereich übersteigt, zurückgesetzt oder mit einem Schrägdach
+überdeckt werden. Die zulässige Grundfläche zurückgesetzter Geschosse wird
+durch einen Abstand von 1,5 m zu den längeren Seiten bestimmt. In den Zonen
+4 und 5a sind Dachgeschosse ausserhalb des Blockrandbereichs nur zulässig,
+sofern der Blockrandbereich desselben Baublocks nicht überwiegend bebaut
+ist.
+
+-6-
+
+Geltendes Recht
+
+Kopie von Arbeitsversion (Stempel 21.10.2020)
+
+2
+
+2
+
+Die Vorschriften über Grenzabstände gelten nicht,
+
+Die Vorschriften über Gebäude- und Grenzabstände gelten nicht,
+
+a) wenn gemeinsam Baubewilligungen für Gebäude beantragt werden, die auf
+der Grenze zusammengebaut sind;
+b) wenn an ein bestehendes Gebäude angebaut werden kann;
+c) wenn ein Grenzbaurecht besteht und keine Rechte Dritter berührt werden.
+3
+
+Abstände zu Grenzen ausserhalb des Blockrandbereichs dürfen bis auf 6 m
+herabgesetzt werden,
+a) wenn die für zulässige Nutzungen nötigen Lichteinfallswinkel durch Dienstbarkeiten oder öffentlich-rechtliche Eigentumsbeschränkungen gesichert sind oder
+b) wenn nicht vorgeschrieben ist und darauf verzichtet wird, unterhalb der Eckpunkte der gesetzmässigen Lichteinfallswinkel liegende Räume für Nutzungen
+zu verwenden, die zur Grenze gerichtete Fenster voraussetzen.
+4
+
+Vereinbarungen über die Herabsetzung von Grenzabständen sind als Dienstbarkeiten im Grundbuch einzutragen.
+
+4
+
+Vereinbarungen über die Herabsetzung von Gebäude- und Grenzabständen
+sind als Dienstbarkeiten im Grundbuch einzutragen.
+
+§ 36
+1
+
+In den Zonen 6 und 5 gelten die Vorschriften für die Zonen 5a, 4, 3 und 2 mit
+folgenden Abweichungen:
+a) Die zulässige Bruttogeschossfläche entspricht der zulässigen Grundfläche der
+Vollgeschosse und eines 1,5 m hinter die Baulinie zurückgesetzten Dachgeschosses.
+b) Wenn Nutzungspläne oder besondere Vorschriften nichts Abweichendes bestimmen, ist die ganze Grundstücksfläche überbaubar.
+c) Die zulässige Geschossfläche über dem obersten Vollgeschoss entspricht der
+für die Nutzungsberechnung massgebenden Dachgeschossfläche.
+
+c) Aufgehoben.
+
+-7-
+
+Geltendes Recht
+
+Kopie von Arbeitsversion (Stempel 21.10.2020)
+
+d) Gebäude, die nicht an die Grundstücksgrenze gebaut werden, müssen einen
+Mindestabstand von 3 m dazu einhalten. Ausgenommen sind eingeschossige
+Bauten und Anbauten, die den Vorschriften über das Bauen ausserhalb des
+Blockrandbereichs in den Zonen 5a, 4, 3 und 2 entsprechen.
+e) Die Höhe der Gebäudewände darf 20 m in der Zone 6 und 18 m in der Zone 5
+nicht übersteigen.
+f) Die Gebäudehöhe ist auf 25 m in der Zone 6 und auf 24 m in der Zone 5 begrenzt.
+
+f) Die Gebäudehöhe ist auf 2528 m in der Zone 6 und auf 2426 m in der Zone 5
+begrenzt.
+
+g) In der Zone 5 darf die Höhe von Gebäudeteilen auf der Strassenseite höchstens 4 m grösser sein als ihr Abstand zur gegenüberliegenden Baulinie. In der
+Zone 6 gilt diese Beschränkung, wenn die Gebäudehöhen auf der gegenüberliegenden Strassenseite ebenfalls durch den Baulinienabstand beschränkt werden.
+
+g) In der Zoneden Zonen 5 und 6 darf die Höhe von Gebäudeteilen auf der Strassenseite höchstens 4 m grösser sein als ihr Abstand zur gegenüberliegenden
+Baulinie. In der Zone 6 gilt diese Beschränkung, wenn Befinden sich die GebäudehöhenGebäude auf der gegenüberliegenden Strassenseite ebenfalls
+durchin den Baulinienabstand beschränkt werdenZonen 5 oder 6, gilt diese Beschränkung nicht.
+
+§ 98
+1
+
+Der Erschliessungsplan muss auf den zu erwartenden Gebrauch der Strasse
+oder des Weges abgestimmt sein.
+2
+
+Der Baulinienabstand muss mindestens 12 m betragen. Ist die Strasse nur einseitig bebaubar, beträgt der Mindestabstand zur gegenüberliegenden Strassenlinie 7 m.
+
+2
+
+Der Baulinienabstand muss beträgt in der Regel mindestens 12 m betragen. Ist
+die Strasse nur einseitig bebaubar, beträgt der Mindestabstand zur gegenüberliegenden Strassenlinie in der Regel 7 m. In begründeten Fällen kann von diesen
+Mindestvorgaben abgewichen werden.
+
+3
+
+Wenn keine überwiegenden Interessen entgegenstehen, müssen Strassen und
+Wege mit Fussgängerverkehr behindertengerecht projektiert werden.
+
+II.
+Keine Änderung anderer Erlasse.
+
+III.
+
+-8-
+
+Geltendes Recht
+
+Kopie von Arbeitsversion (Stempel 21.10.2020)
+Keine Aufhebung anderer Erlasse.
+
+IV.
+Diese Änderung ist zu publizieren; sie unterliegt dem Referendum und der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens.
+[Behörde]
+
+Regierungsrat des Kantons Basel-Stadt
+
+ Regulierungsfolgenabschätzung (RFA)
+
+
+Teil A:
+Klärung der Betroffenheit („Vortest“)
+Titel des Geschäfts: Lockerung und Vereinfachung der Bauvorschriften zur Stärkung des Blockrands sowie
+eine Differenzierung der Dachgeschossvorschriften (BPG-Revision)
+P-Nr.: P210062
+Erlassform:
+Gesetz
+Verordnung
+Federführendes Departement:
+PD
+BVD
+ED
+FD
+GD
+JSD
+WSU
+Ist folgende Frage mit „Ja“ zu beantworten, liegt eine Betroffenheit der Wirtschaft vor, d.h. die Regulierungsfolgenabschätzung (Teil B) ist durchzuführen.
+
+1. Können Unternehmen vom Vorhaben direkt oder indirekt negativ betroffen sein? (direkt: z.B. in Form
+von Kosten, Berichtspflichten, Auflagen; indirekt: z.B. Verschlechterung der Standortattraktivität)
+Ja
+
+Nein
+
+Der Vortest zur Betroffenheit ist obligatorischer Bestandteil des Berichtes an den Regierungsrat bzw.
+des Ratschlags an den Grossen Rat. Liegt keine Betroffenheit der Wirtschaft vor, ist dies in einem
+separaten Abschnitt („Regulierungsfolgenabschätzung“) im Bericht bzw. Ratschlag kurz zu begründen. Ist eine Betroffenheit festgestellt worden, ist Teil B des Fragenkatalogs auszufüllen.
+
+Empfehlung:
+Der Regierungsrat empfiehlt, den Fragebogen bereits bei der Ausarbeitung des Erlasses
+bzw. dessen Revision zu berücksichtigen und nach dessen Finalisierung auszufüllen.
+
+

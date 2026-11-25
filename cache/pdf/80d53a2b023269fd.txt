@@ -1,0 +1,42 @@
+Motion betreffend Open-Source für Basel-Stadt analog Art. 9 EMBAG
+
+25.5091.01
+
+Der Kanton Basel-Stadt hat sich in der Open Source Strategie 2010 das Ziel gesetzt, den Einsatz von offenen
+IKT-Systemen und -Standards durch geeignete Massnahmen zu fördern. In der Antwort auf die Schriftliche
+Anfrage betreffend Einsatz von Open Source Software bei kantonalen IT-Projekten (P22.5263) betonte der
+Regierungsrat, dass dabei ein differenzierter und pragmatischer Ansatz verfolgt werde, der sich nicht auf die
+Frage "Windows versus Linux" beschränke. Der Anfragestellerin ging es aber keineswegs darum, das
+grundsätzliche Prinzip "buy before make" zu hinterfragen, sondern vielmehr darum, das Vorgehen bei
+Eigenentwicklungen und Anwendungen im Auftrag der Verwaltung abzufragen. Erste Wahl bleibt weiterhin der
+Einsatz bestehender und funktionierender Software.
+Seit dem 1. Januar 2024 ist das nationale «Bundesgesetz über den Einsatz elektronischer Mittel zur Erfüllung von
+Behördenaufgaben» (EMBAG, SR 172.019) in Kraft. Dieses Gesetz gilt gemäss Art. 2 ausschliesslich für die
+zentrale Bundesverwaltung. Eine sinngemässe Regelung könnte aber analog auch für den Kanton Basel-Stadt
+angewandt werden, was insbesondere auch gemeinsame Softwareprojekte mit dem Bund und anderen Kantonen
+ermöglichen würde, was zeitliche und finanzielle Ressourcen sparen kann. Art. 9 EMBAG hält fest, dass
+Behörden den Quellcode von Software offenlegen, die sie zur Erfüllung ihrer Aufgaben entwickeln oder
+entwickeln lassen, es sei denn, die Rechte Dritter oder sicherheitsrelevante Gründe würden dies ausschliessen
+oder einschränken. Die Bundesbehörden erlauben zudem jeder Person, die Software zu nutzen,
+weiterzuentwickeln und weiterzugeben, und erheben keine Lizenzgebühren, wobei die Rechte in Form von
+privatrechtlichen Lizenzen erteilt werden.
+Eine Eigenentwicklung soll auch zukünftig nur in Frage kommen, wenn keine bereits bestehende und
+funktionierende Software für den gleichen Zweck eingekauft werden kann. Im Falle einer Eigenentwicklung kann
+analog zum Grundsatz bei "Open Data" argumentiert werden, dass der erzeugte Quellcode der Allgemeinheit und
+den Unternehmen frei zur Verfügung stehen sollte, da durch den Kanton entwickelte Software aus Steuergeldern
+finanziert wird. Die Entwicklung und Nutzung von Open-Source-Software der kantonalen Behörden kann das
+Vertrauen der Bevölkerung in die Arbeit der Verwaltung stärken: Die Offenlegung des Quellcodes erlaubt Dritten,
+die Software einzusehen, Fehler zu entdecken, zu kommentieren und so die Qualität und Sicherheit zu
+verbessern. Ein in Open-Source erstellter Quellcode kann einfacher in anderen Projekten verwendet werden,
+sodass Synergien genutzt und Kosten gesenkt werden können. Auch andere Kantone könnten von Basler
+Lösungen profitieren und so die digitale Verwaltung der Schweiz weiterentwickeln. Ebenso könnten Gemeinden
+und Unternehmen von quelloffener Software profitieren, da Schnittstellen einfacher zu nutzen wären und sie
+ähnliche Aufgaben auf kommunaler Ebene einfacher umsetzen könnten.
+Der Regierungsrat wird beauftragt, dem Grossen Rat eine Vorlage zu unterbreiten, um eine gesetzliche
+Grundlage sinngemäss analog Art. 9 EMBAG zu schaffen. So soll der Quellcode von Software der kantonalen
+Behörden grundsätzlich offengelegt werden, sofern nicht sicherheitsrelevante Gründe oder Rechte Dritter
+dagegensprechen.
+Salome Bessenich, Pascal Pfister, Olivier Battaglia, Nicola Goepfert, Daniel Albietz, Erich Bucher,
+Jo Vergeat, Oliver Thommen, Michela Seggiani, Brigitte Kühne
+
+

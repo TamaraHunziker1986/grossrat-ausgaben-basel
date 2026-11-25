@@ -1,0 +1,242 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+22.5123.03
+
+BVD/P 225123
+Basel, 14. Oktober 2026
+Regierungsratsbeschluss vom 13. Oktober 2026
+
+Anzug Annina von Falkenstein und Konsorten betreffend «Beleuchtung und Randmarkierungen auf Velowegen und -routen durch ein
+smartes Beleuchtungssystem»
+Der Grosse Rat hat an seiner Sitzung vom 23. Oktober 2024 vom Schreiben 22.5123.02 des Regierungsrates Kenntnis genommen und entgegen dem Antrag des Regierungsrates den nachstehenden Anzug Annina von Falkenstein und Konsorten stehen lassen und dem Regierungsrat zum
+erneuten Bericht überwiesen:
+«In Basel haben wir verschiedene Velorouten und Radwege, die entweder unbeleuchtet oder schlecht
+beleuchtet sind. Im Gegensatz dazu sind die Autostrassen sehr gut beleuchtet.
+Mit der Sanierung des Tramtrassees Riehen-Basel wurde auch die Beleuchtung auf den Trammasten
+erneuert. Die Scheinwerfer sind jedoch auf die Autofahrbahn gerichtet, wo keine Velos fahren.
+In Basel-Stadt haben diverse Veloachsen/Velorouten keine Beleuchtung oder keine Führung durch
+weisse Randlinien. Ohne Randlinien ist trotz guter Beleuchtung am Velo der Fahrbahnrand bei Dunkelheit und/oder Nässe/Nebel schwer erkennbar. Ältere Velofahrende haben zum Teil auch Probleme
+mit dem Nachtsehen, was für diese zusätzlich erschwerend ist. Gerade auf schlecht beleuchteten
+Velorouten können Unfälle gravierende Folgen haben, da Auffahrunfälle drohen oder die Verunfallten
+nicht schnell gesehen werden können.
+Zur besseren Verkehrsführung sollten deshalb Radwege und Velorouten mit Randlinien markiert und
+beleuchtet werden. Bei der Beleuchtung sollte nach Möglichkeit auf ein smartes System zurückgegriffen werden, das beispielsweise durch Solarenergie betrieben wird. Des Weiteren könnten Bewegungssensoren das Licht dann einstellen, wenn eine Velofahrerin angefahren kommt, um Tiere nicht durch
+Dauerbeleuchtung zu irritieren und die Lichtverschmutzung in Grenzen zu halten. Ebenfalls könnte die
+Nutzung eines unter Lichteinfluss reflektierenden Bodenbelags geprüft werden.
+Die Unterzeichnenden bitten deshalb die Regierung zu prüfen und zu berichten:
+-
+
+Ob auf folgenden Velorouten die Sicherheit durch die Markierung von Randlinien und Installation einer Beleuchtung verbessert werden kann:
+
+-
+
+Nebenfahrbahn der Riehen- und Aeusseren Baselstrasse, Abschnitt Bettingerstrasse – Eglisee –
+Im Surinam.
+
+-
+
+Rad-/Fussweg Bäumlihofstrasse, Abschnitt Allmendstrasse – Gotenstrasse.
+
+-
+
+Radweg Bäumlihof-Gymnasium – Riehen Esterliweg, entlang der DB-Bahnlinie.
+
+-
+
+Badweglein und Bachgraben-Promenade.
+
+Publiziert am 16. Oktober 2026 auf: grosserrat.bs.ch
+
+Seite 1/5
+
+Regierungsrat des Kantons Basel-Stadt
+
+-
+
+Rad-/Fussweg Riehenring, Abschnitt Horburgstrasse – Mauerstrasse, entlang Thomy-FranckAreal.
+
+-
+
+Rad-/Fussweg Mauerstrasse, Wiesenkreisel – Klybeckstrasse.
+
+-
+
+Lange Erlen, ab Ende neuem Radweg (beim Tierpark) – Lörrach Grenze, nur Randlinie.
+
+-
+
+Welche weiteren, hier nicht namentlich aufgeführten, Velorouten und Radwege in Basel-Stadt
+durch Installation von (verbesserter) Beleuchtung und Markierung erhöhte Sicherheit bieten könnten.
+
+-
+
+Auf welchen Strecken die Fahrbahnbeleuchtung durch leichte Ausrichtungsänderung ebenfalls
+einen Teil des Lichtkegels auf die Velofahrbahn geleitet werden kann.
+
+-
+
+Inwiefern bei der Beleuchtung von Velorouten und Radwegen ein smartes Beleuchtungssystem
+zum Zuge kommen kann, dass sich nur dann einschaltet, wenn ein Velo vorbeifährt, und damit
+die Lichtverschmutzung zum Schutz der hiesigen Fauna begrenzt.
+
+-
+
+Ob ein solches Lichtsystem netzunabhängig oder hauptsächlich mit Strom betrieben werden
+kann, der vor Ort produziert wird.
+Annina von Falkenstein, Jérôme Thiriet, Karin Sartorius, Brigitte Gysin, Andreas Zappalà,
+Tim Cuénod, Andrea Elisabeth Knellwolf, Raffaela Hanauer, Barbara Heer»
+
+Wir berichten zu diesem Anzug wie folgt:
+
+1.
+
+Einleitung
+
+Die Verkehrskennzahlen von 2025 bestätigen, dass das Velo als Fortbewegungsmittel in BaselStadt immer beliebter ist. Die Förderung dieser umweltschonenden Fortbewegungsart ist weiterhin
+ein wichtiges verkehrspolitisches Ziel des Regierungsrates.
+
+1.1
+
+Grundsätze der Beleuchtung
+
+Bereits im Zwischenbericht vom 27. März 2024 (22.5123.02) hat der Regierungsrat die Wichtigkeit
+einer guten Strassenbeleuchtung als wesentliches Element der Veloförderung in der Alltagsmobilität erläutert. Ebenfalls ausführlich beschrieben ist, wie die IWB die öffentliche Beleuchtung für die
+Stadt Basel im Auftrag des Kantons planen und projektieren.
+Die IWB stellen die Allmendbeleuchtung in Basel-Stadt bis ins Jahr 2028 zu einem Grossteil auf
+LED um. LED-Beleuchtungen werden von Menschen oft als heller wahrgenommen. Die IWB erwarten deshalb, dass sich mit der Umstellung auf LED das Sicherheitsgefühl der Menschen erhöht.
+Dank der grösseren Reichweite der LED-Leuchten kann gerade auch auf Fuss- und Velowegen
+nochmals eine bessere Wirkung erreicht werden. Die neue Technologie braucht weniger Energie
+und verbessert die Umwelteinflüsse und Wohnqualität.
+Die IWB haben seit dem letzten Zwischenbericht auch zwei adaptive Beleuchtungssysteme getestet: Am Gellerttunnel haben sie ein bewegungsunabhängiges System getestet. Dieses richtet sich
+nach der Tageszeit, um die Adaptionszeit des Auges im Tunnel zu verkürzen. Bei Sonnenlicht ist
+auch im Tunnel die Beleuchtung stärker, nachts wird die Beleuchtung im Tunnel auf das sicherheitsrelevante Mass gedimmt. Am St. Galler-Ring wurde ein System mit einer bewegungsabhängigen Steuerung der Beleuchtung getestet. Die IWB schauen alle Velorouten auf Kantonsgebiet an
+und prüfen, ob und wo adaptive Beleuchtungssysteme einen Mehrwert schaffen können. Aus heutiger Sicht eignen sich bewegungsabhängige Beleuchtungssysteme besonders für exklusiv für den
+Veloverkehr vorgesehene Routen. Diese Strecken verlaufen häufig entlang von Grünflächen, wo
+insbesondere die Fauna von einer reduzierten Beleuchtung profitiert. Im Interesse des Sicherheitsgefühls verzichten die IWB bewusst darauf, die öffentliche Beleuchtung komplett auszuschalten.
+
+Seite 2/5
+
+Regierungsrat des Kantons Basel-Stadt
+
+2.
+1.
+
+Antworten zu den einzelnen Fragen
+Ob auf folgenden Velorouten die Sicherheit durch die Markierung von Randlinien und Installation einer Beleuchtung verbessert werden kann:
+
+Die rechtliche Grundlage von Randlinien in Basel-Stadt ist gegenüber März 2024 unverändert. Der
+Regierungsrat verweist auf die Ausführungen im Zwischenbericht. Im gleichen Zusammenhang
+verweisen wir auch auf die Beantwortung der Schriftlichen Anfrage Jörg Vitelli betreffend «Randlinien entlang Velorouten und Radwege» (P205161).
+Abgesehen von den Langen Erlen entspricht die öffentliche Beleuchtung auf allen genannten Strecken der Normierung für öffentlich beleuchtete Velorouten. Eine gute Strassenbeleuchtung verbessert das Sicherheitsgefühl und fördert das Umsteigen aufs Velo. Dort, wo sich die Beleuchtungssituation als Schwachstelle erwies, wurde sie im Rahmen der laufenden Umrüstung der öffentlichen
+Strassenbeleuchtung auf LED bereits verbessert oder es ist eine Verbesserung geplant und terminiert. Weitere umgesetzte Massnahmen sind die Markierung von Leitlinien und regelmässige Rückschnitte von Grün. Dazu kann heute folgendes gesagt werden:
+Die Nebenfahrbahn der Riehen- und Aeusseren Baselstrasse, im Abschnitt Bettingerstrasse –
+Eglisee – Im Surinam, ist gemäss IWB gut ausgeleuchtet. Ein im Rahmen der Anzugsbeantwortung
+beauftragtes externes Planungsbüro hat die Einschätzung der IWB überprüft und bestätigt.
+Am Fussweg Bäumlihofstrasse (Velos gestattet), im Abschnitt Allmendstrasse – Gotenstrasse,
+wurde neu eine separate LED-Beleuchtung installiert. Die bessere Ausleuchtung betrifft die ganze
+Strecke auf Boden der Stadt Basel und der Gemeinde Riehen.
+Die Beleuchtung des Radwegs Bäumlihof-Gymnasium – Riehen Esterliweg, entlang der DB-Bahnlinie, wurde auf LED umgestellt. Die Gemeinde Riehen hat zudem gleisseitig eine Randlinie markiert.
+Die Umrüstung auf LED-Beleuchtung beim Badweglein und an der Bachgraben-Promenade ist im
+Nordostteil bereits erfolgt. Im West- und Südteil sind bereits ältere LED-Leuchten verbaut, die im
+Jahr 2029 auf neuere Modelle umgerüstet werden sollen.
+Die Beleuchtung am Rad-/Fussweg Riehenring, im Abschnitt Horburgstrasse – Mauerstrasse, entlang dem Thomy-Franck-Areal, entsprach zwar ebenso den Normen. Der Weg war zwar sehr
+gleichmässig, aber eher schwach ausgeleuchtet. Als Massnahme wurde die Beleuchtung dieses
+Jahr neu berechnet und an den bisherigen Standorten auf LED umgerüstet. Dank der grösseren
+Reichweite der LED-Leuchten wird eine bessere Wirkung erreicht. Mit dem Projekt «Tram Klybeck»
+wird die Beleuchtung grundlegend überarbeitet.
+Am Rad-/Fussweg Mauerstrasse, Wiesekreisel – Klybeckstrasse wurde die Ausleuchtung durch
+die Vegetation vor Ort beeinträchtigt. Die Stadtgärtnerei hat die Bäume in der Zwischenzeit zurückgeschnitten. Sie wird in Zukunft die Vegetation jährlich kontrollieren. Zudem haben die IWB im
+Jahr 2025 die Beleuchtung auf LED umgerüstet.
+Die Veloroute durch die Langen Erlen führt durch den Wald und ist deshalb aus Rücksicht auf Flora
+und Fauna nicht beleuchtet. Auf den gemischt genutzten Wegen sollen die Velofahrenden auf die
+vielen Fussgänger/-innen, Familien und Kinder wie auch mögliche Tiere Rücksicht nehmen und
+entsprechend langsam fahren. Randlinien könnten fälschlicherweise vermitteln, dass es sich primär
+um eine Velofahrverbindung handelt und dadurch zum schnelleren Fahren verleiten. Zur besseren
+Führung könnten stellenweise Leitpfosten mit Reflektoren eingesetzt werden. Ein entsprechender
+Praxistest hat der Regierungsrat mit seinem Zwischenbericht von März 2024 in Aussicht gestellt.
+Der Praxistest erfolgt entgegen ersten Aussagen nicht am Standort Lange Erlen. Das Bau- und
+
+Seite 3/5
+
+Regierungsrat des Kantons Basel-Stadt
+
+Verkehrsdepartement prüft stattdessen, ob der Versuch am unbeleuchteten Abschnitt des
+Grenzacherwegs, ab südlich der Abzweigung «Bei der Lehmgrube» bis zur Landesgrenze bei
+Grenzach-Wyhlen, durchgeführt werden kann.
+2.
+
+Welche weiteren, hier nicht namentlich aufgeführten, Velorouten und Radwege in Basel-Stadt
+durch Installation von (verbesserter) Beleuchtung und Markierung erhöhte Sicherheit bieten
+könnten.
+
+Im Hinblick auf den damaligen Zwischenbericht hat eine verwaltungsinterne Arbeitsgruppe mit Unterstützung eines externen Planungsbüros einige Standorte mit Optimierungspotenzial eruiert.
+Auch Pro Velo hat der Arbeitsgruppe gemeldete Örtlichkeiten weitergeben, wo die Beleuchtung als
+ungenügend wahrgenommen wird.
+Seit dem Zwischenbericht haben der Kanton bzw. die IWB an einigen der eruierten Standorte folgende Massnahmen umgesetzt bzw. zur Umsetzung terminiert:
+ Die Beleuchtung am Altrheinweg (Wiesendamm–Inselstrasse), am Wiesendamm (Altrheinweg–Kleinhüningerstrasse) und am St. Galler-Ring (Wanderstrasse–Allschwilerstrasse)
+wurde im Jahr 2025 auf LED umgerüstet.
+ An der St. Jakobs-Strasse (Abschnitt Singerstrasse West-Singerstrasse Ost) wurde die Vegetation im Frühling 2026 zurückgeschnitten.
+ Die Beleuchtung der Unterführung St. Jakobs-Strasse (Velo-/Gehweg) wurde im Frühling 2026 überprüft und soll im 2027 auf LED umgerüstet werden.
+ Im Gellerttunnel wurde diesen Sommer ein erfolgreicher Test mit adaptiver Leuchte und
+Helligkeitssensor durchgeführt. Im 2027 wird der gesamte Gellerttunnel mit neuen steuerbaren Leuchten ausgerüstet.
+ In der Fussgängerunterführung nördlich der Schwarzwaldbrücke soll im 2027 eine zusätzliche Leuchte installiert werden.
+ In der Unterführung Hexenweglein soll im 2027 ebenfalls eine adaptive Beleuchtung installiert werden.
+ An der Frankfurt-Strasse wird bis 2027 die öffentliche Beleuchtung auf LED umgerüstet
+werden.
+ Am Knoten St. Jakobs-Strasse/Singerstrasse (Velo-/ Gehweg) und an der St. JakobsStrasse (Velo-/Gehweg) werden im 2027 zusätzliche Leuchten installiert.
+ Am Unteren Rheinweg, an der St. Jakobs-Strasse (Velo-/Gehweg), an der GrenzacherPromenade und am St. Alban-Rheinweg wird im 2027 die öffentliche Beleuchtung auf LED
+umgerüstet.
+ Am Fussgängersteg (Velo gestattet) über die Schwarzwaldbrücke wird eine Lichtquelle an
+der Brückendecke angestrebt. Die Umstellung soll zeitlich koordiniert mit anstehenden Arbeiten der Schweizerischen Rheinhäfen im Jahr 2028 erfolgen. Da die Brücke im Besitz der
+SBB ist, braucht es auch mit diesen eine Abstimmung.
+3.
+
+Auf welchen Strecken die Fahrbahnbeleuchtung durch leichte Ausrichtungsänderung ebenfalls einen Teil des Lichtkegels auf die Velofahrbahn geleitet werden kann.
+
+Öffentliche Fussgänger- und Velowege werden nach den geltenden Normen ausgeleuchtet. Da
+eine gute Strassenbeleuchtung das Sicherheitsgefühl verbessert und das Umsteigen aufs Velo fördert, wurden zahlreiche Standorte über die gesetzlichen Anforderungen hinaus nachgebessert. Mit
+der laufenden flächendeckenden Umrüstung auf LED werden sämtliche Anwendungsbereiche neu
+berechnet und optimiert beleuchtet. Gemäss Aussage der IWB soll dies bis Ende 2028 umgesetzt
+sein.
+
+Seite 4/5
+
+Regierungsrat des Kantons Basel-Stadt
+
+4.
+
+Inwiefern bei der Beleuchtung von Velorouten und Radwegen ein smartes Beleuchtungssystem zum Zuge kommen kann, dass sich nur dann einschaltet, wenn ein Velo vorbeifährt, und
+damit die Lichtverschmutzung zum Schutz der hiesigen Fauna begrenzt.
+
+In diesem Jahr fand ein erfolgreicher Test mit Bewegungssensoren am St. Galler-Ring statt. Dafür
+geeignete Velorouten sollen entsprechend bis 2028 ausgerüstet werden. Besonders dafür geeignet
+sind Routen, die exklusiv dem Velo vorbehalten sind und nicht gleichzeitig dem Autoverkehr dienen. Die Beleuchtungsstärke wird über einen definierten Zeitplan um bis zu 50% der Anfangshelligkeit reduziert. Im Interesse des Sicherheitsgefühls verzichten die IWB bewusst darauf, die öffentliche Beleuchtung komplett auszuschalten.
+5.
+
+Ob ein solches Lichtsystem netzunabhängig oder hauptsächlich mit Strom betrieben werden
+kann, der vor Ort produziert wird.
+
+Die IWB betreiben für die Stadt Basel ein umfassendes Netz für die öffentliche Beleuchtung. Betrieblich macht es Sinn, dass die neuen Anlagen in das bestehende Netz integriert werden. Aus
+Betreibersicht sind Solarleuchten sowohl in der Anschaffung als auch im Unterhalt sehr aufwendig
+und bieten nicht die gewünschte Versorgungssicherheit. Die IWB haben 100 Prozent erneuerbarer
+Strom und dieser stammt, abgesehen vom gesetzlich geförderten Pflichtanteil, aus Schweizer Eigenproduktion.
+
+3.
+
+Antrag
+
+Aufgrund dieses Berichts beantragen wir, den Anzug Annina von Falkenstein und Konsorten betreffend «Beleuchtung und Randmarkierungen auf Velowegen und -routen durch ein smartes Beleuchtungssystem» abzuschreiben.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Dr. Conradin Cramer
+Regierungspräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Seite 5/5
+
+

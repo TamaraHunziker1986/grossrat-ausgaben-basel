@@ -1,0 +1,414 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+23.1779.01
+22.5161.03
+
+JSD/P231779, P225161
+Basel, 20. Dezember 2023
+Regierungsratsbeschluss vom 19. Dezember 2023
+
+Ratschlag zu einer Teilrevision des Gesetzes betreffend Einführung des Bundesgesetzes über Schuldbetreibung und Konkurs
+sowie
+
+Bericht zur Motion David Jenny und Konsorten betreffend Anpassung des Gesetzes betreffend Einführung des Bundesgesetzes
+über Schuldbetreibung und Konkurs (EG SchKG) an das Gerichtsorganisationsgesetz (GOG)
+
+Den Mitgliedern des Grossen Rates des Kantons Basel-Stadt zugestellt am 22. Dezember 2023.
+
+Seite 1/7
+
+Regierungsrat des Kantons Basel-Stadt
+
+Inhalt
+1.
+
+Begehren .................................................................................................................... 3
+
+2.
+
+Ausgangslage ............................................................................................................ 3
+
+3.
+
+Teilrevision des EG SchKG ...................................................................................... 3
+3.1
+3.2
+3.3
+
+Aufhebung von § 3 EG SchKG ................................................................................................. 3
+Aufhebung von § 11 EG SchKG ............................................................................................... 4
+Übergangsbestimmung im EG SchKG...................................................................................... 5
+
+4.
+
+Motion David Jenny und Konsorten ........................................................................ 5
+
+5.
+
+Finanzielle Auswirkungen ........................................................................................ 6
+
+6.
+
+Prüfungen .................................................................................................................. 6
+
+7.
+
+Antrag ......................................................................................................................... 7
+
+Seite 2/7
+
+Regierungsrat des Kantons Basel-Stadt
+
+1.
+
+Begehren
+
+Mit diesem Ratschlag beantragen wir Ihnen die Aufhebung von § 3 und § 11 des Gesetzes betreffend Einführung des Bundesgesetzes über Schuldbetreibung und Konkurs vom 22. Juni 1891
+(SG 230.100), im Folgetext als EG SchKG bezeichnet. Gleichzeitig wird beantragt, die Motion
+David Jenny und Konsorten betreffend Anpassung des Gesetzes betreffend Einführung des Bundesgesetzes über Schuldbetreibung und Konkurs (EG SchKG) an das Gerichtsorganisationsgesetz (GOG) abzuschreiben.
+
+2.
+
+Ausgangslage
+
+Gemäss Art. 122 Abs. 1 der Bundesverfassung der Schweizerischen Eidgenossenschaft vom
+18. April 1999 (SR 101) ist die Gesetzgebung auf dem Gebiet des Zivilrechts und des Zivilprozessrechts Sache des Bundes. Der Bund hat diese Kompetenz weitgehend ausgeschöpft.
+Im Bereich des Zivilprozessrechts – wozu auch das Schuldbetreibungs- und Konkursrecht gezählt
+wird – dürfen die Kantone nur legiferieren, soweit die Schweizerische Zivilprozessordnung (Zivilprozessordnung, ZPO) vom 19. Dezember 2008 (SR 272) und weitere Bundesvorschriften, wie
+etwa das Bundesgesetz über Schuldbetreibung und Konkurs (SchKG) vom 11. April 1889
+(SR 281.1), Raum dafür lassen (MÜLLER-CHEN MARKUS/CATRINA RAMONA, in: Die schweizerische
+Bundesverfassung, St. Galler Kommentar, 4. Aufl., Zürich/St. Gallen 2023, Art. 122 N 12, 15). Im
+Bereich des Schuldbetreibungs- und Konkursrechts werden die wenigen vom Bundesrecht den
+Kantonen überlassenen Entscheide in den jeweiligen kantonalen Einführungsgesetzen zum
+SchKG und weiteren kantonalen Erlassen geregelt.
+Gemäss Art. 122 Abs. 2 der Bundesverfassung verbleibt allerdings die Organisation der Gerichte
+und der Rechtsprechung in Zivilsachen vorbehältlich anderer gesetzlicher Regelungen in der Zuständigkeit der Kantone. Dementsprechend soll die Festlegung von Gerichtstypen und Zuständigkeiten (Einzelrichter, Kollegialgericht, Fachgerichte), die Bildung der Gerichtskreise usw. in
+erster Linie Sache der Kantone sein (BIAGGINI GIOVANNI, in: BV Kommentar, Bundesverfassung
+der Schweizerischen Eidgenossenschaft, 2. Aufl., Zürich 2017, Art. 122 Zivilrecht N 6).
+Art. 4 Abs. 1 ZPO legt dementsprechend als Grundsatz fest, dass das kantonale Recht die sachliche und funktionelle Zuständigkeit der Gerichte regelt, soweit das Gesetz nichts anderes bestimmt. Die ZPO enthält bezüglich der sachlichen Zuständigkeit für richterliche Entscheidungen
+im Rahmen des betreibungsrechtlichen Nachlassverfahrens keine Ausnahmen von diesem
+Grundsatz (siehe Ausnahmen in W EY RAINER, in: Sutter-Somm/Hasenböhler/Leuenberger,
+ZPO Komm., 3. Aufl. 2016, Art. 4 N 9 f.). Im gleichen Sinne sieht Art. 23 SchKG vor, dass die
+Kantone die richterlichen Behörden bezeichnen, welche für die im SchKG dem Richter zugewiesenen Entscheidungen zuständig sind.
+Somit obliegt es dem kantonalen Gesetzgeber festzulegen, welches Gericht in welcher Zusammensetzung das Nachlassgericht nach Art. 293 ff. SchKG bildet und somit zuständig ist für die in
+Art. 293 ff. SchKG vorgeschriebenen richterlichen Entscheidungen im Rahmen des Nachlassverfahrens.
+
+3.
+
+Teilrevision des EG SchKG
+
+3.1
+
+Aufhebung von § 3 EG SchKG
+
+§ 3 EG SchKG lautet:
+§3
+In den Landgemeinden können die Gemeinderäte bei Pfändungen, Konkursen und Versteigerungen als
+Gehilfen des Betreibungs- und Konkursamtes verwendet werden.
+
+Seite 3/7
+
+Regierungsrat des Kantons Basel-Stadt
+
+§ 3 EG SchKG besteht unverändert seit Erlass des EG SchKG im Jahre 1891 und wurde bei seiner Entstehung folgendermassen im Ratschlag Nr. 874 vom 8. Juni 1891, S. 10, kommentiert:
+«§ 3 gibt zu keiner Bemerkung Anlass.»
+Was offenbar zur Zeit der Entstehung des EG SchKG eine allgemein anerkannte und nicht erklärungsbedürftige Möglichkeit des behördlichen Vorgehens bei Pfändungen, Konkursen und Versteigerungen auf dem Gebiet der Gemeinden war, weist seit vielen Jahrzehnten keine praktische
+Bedeutung mehr auf. Sowohl das konsultierte Betreibungs- und Konkursamt des Kantons Basel-Stadt als auch die befragten Einwohnergemeinden Riehen und Bettingen kennen keine Anwendungsfälle der Vorschrift noch sehen sie im Lichte der heutigen Gegebenheiten und Abläufe
+bei Verfahren nach SchKG einen Sinn für deren Anwendung. Daher plädieren sie alle für eine
+Streichung der Vorschrift.
+§ 3 EG SchKG bildet im Übrigen nicht die rechtliche Grundlage für die langjährige bestehende
+Praxis, in Riehen und Bettingen gelegene Grundstücke unabhängig vom Versteigerungsgrund
+(Versteigerung nach SchKG oder aufgrund anderer Rechtsgrundlagen) in aller Regel in Riehen
+zu versteigern, was mitunter in Anwesenheit von Vertreterinnen und Vertretern von Gemeindebehörden geschieht.
+Aus diesen Erwägungen kann geschlossen werden, dass § 3 EG SchKG mangels praktischer
+Bedeutung aufgehoben werden kann.
+
+3.2
+
+Aufhebung von § 11 EG SchKG
+
+§ 11 EG SchKG lautet:
+§ 11
+1Für das Nachlassverfahren (BG Art. 293–332) ist das Dreiergericht als einzige Instanz zuständig.
+2Für Begehren betreffend eine einvernehmliche private Schuldenbereinigung gemäss Art. 333 ff. des Bundesgesetzes ist der Einzelrichter als einzige Instanz zuständig.
+
+In seiner heutigen Fassung stammt § 11 EG SchKG aus dem Jahre 1996, als die gerichtlichen
+Zuständigkeiten im Zuge der «Anpassung des kantonalen Einführungsgesetzes (EG SchKG,
+SG 230.100) an das revidierte Bundesgesetz über Schuldbetreibung und Konkurs (SchKG)» aus
+praktischen und systematischen Gründen vom Fünfergericht auf das Dreier- (Abs. 1) bzw. Einzelgericht (Abs. 2) des Zivilgerichts übertragen wurden (Ratschlag Nr. 8685 vom 25. Juni 1996,
+S. 3 und 6 f.). Bei der Einführung der ZPO, zunächst mit einem vorübergehend von 1. Januar 2011 bis 30. Juni 2016 geltenden kantonalen Gesetz über die Einführung der Schweizerischen
+Zivilprozessordnung (EG ZPO) vom 13. Oktober 2010 (SG 221.100; GR Nr. 09.0915) sowie danach im Gesetz betreffend die Organisation der Gerichte und der Staatsanwaltschaft (Gerichtsorganisationsgesetz, GOG) vom 3. Juni 2015 (SG 154.100), in welches das EG ZPO integriert wurde, wurde die Zuständigkeitsregelung von § 11 EG SchKG ohne Begründung beibehalten.
+Nach Art. 251 ZPO gilt für Entscheide, die vom Nachlassgericht nach SchKG getroffen werden
+das summarische Verfahren nach Art. 252 ff. ZPO. Das GOG sieht in § 71 Abs. 1 Ziff. 1 lit. b bezüglich der sachlichen Zuständigkeit vor, dass das Einzelgericht des Zivilgerichts für alle summarischen Verfahren (nach der ZPO, siehe § 70 Abs. 1 GOG) unabhängig vom Streitwert zuständig
+ist.
+§ 6 EG SchKG bestimmt, dass für die im Bundesgesetz, d.h. im SchKG, dem Gericht zugewiesenen Entscheidungen die gerichtlichen Behörden nach Massgabe des Gesetzes betreffend die
+Organisation der Gerichte und der Staatsanwaltschaft (Gerichtsorganisationsgesetz, GOG) vom
+3. Juni 2015 zuständig sind, soweit das EG SchKG nichts Abweichendes bestimmt.
+§ 11 EG SchKG ist eine solche dem GOG vorgehende Spezialbestimmung zur gerichtlichen Zuständigkeit.
+
+Seite 4/7
+
+Regierungsrat des Kantons Basel-Stadt
+
+Eine ersatzlose Aufhebung von § 11 Abs. 1 EG SchKG führt dazu, dass für die gerichtlichen
+Entscheide im Nachlassverfahren nach Art. 293-332 SchKG zukünftig aufgrund von
+§ 71 Abs. 1 Ziff. 1 lit. b GOG das Einzelgericht anstatt das Dreiergericht des Zivilgerichts sachlich
+zuständig würde.
+Die Aufhebung von § 11 Abs. 2 EG SchKG, der bereits heute für Entscheide nach
+Art. 333 ff. SchKG das Einzelgericht («den Einzelrichter») für zuständig erklärt, bedeutet
+einzig einen Wechsel der diesbezüglichen Rechtsgrundlage von § 11 Abs. 2 EG SchKG auf
+§ 71 Abs. 1 Ziff. 1 lit. b GOG.
+Das Zivilgericht, als von der Zuständigkeitsregelung von § 11 EG SchKG betroffene Gerichtsinstanz, hat sich zur vorliegenden Motion dahingehend geäussert, dass es die vorgeschlagene Änderung begrüsse. Das Appellationsgericht hat auf eine Stellungnahme verzichtet.
+Es ist gemäss heutiger Betrachtung kein Grund ersichtlich, weshalb im Vergleich mit anderen
+dem summarischen Verfahren zugewiesenen Verfahren für Nachlassverfahren nach SchKG eine
+abweichende spezialgesetzliche gerichtliche Zuständigkeitsregelung im EG SchKG notwendig
+wäre. Daher kann § 11 EG SchKG gesamthaft (Abs. 1 und Abs. 2) aufgehoben werden.
+
+3.3
+
+Übergangsbestimmung im EG SchKG
+
+Die Aufhebung von § 11 EG SchKG verlangt eine Übergangsbestimmung im EG SchKG für zum
+Zeitpunkt der Gesetzesänderung hängige Nachlassverfahren (inklusive die in Abs. 2 genannten
+einvernehmlichen privaten Schuldenbereinigungen), da die Zuständigkeit für Fälle nach
+§ 11 Abs. 1 vom Dreiergericht auf das Einzelgericht übergeht und für Fälle nach Abs. 2 die
+Rechtsgrundlage für die Zuständigkeit ändert.
+Unter Berücksichtigung der gesetzlichen Ausgestaltung des Nachlassverfahrens nach SchKG
+sowie dessen Ablaufs am Zivilgericht, bietet es sich an, die bei Inkrafttreten der vorliegenden Änderung des EG SchKG hängigen Nachlassverfahren nach neuem Recht und somit nach neuer
+Zuständigkeitsordnung weiterzuführen.
+
+4.
+
+Motion David Jenny und Konsorten
+
+Der Grosse Rat hat an seiner Sitzung vom 9. November 2022 vom Schreiben Nr. 22.5161.02 des
+Regierungsrates Kenntnis genommen und dem Antrag des Regierungsrates folgend die nachstehende Motion David Jenny und Konsorten betreffend Anpassung des Gesetzes betreffend Einführung des Bundesgesetzes über Schuldbetreibung und Konkurs (EG SchKG) an das Gerichtsorganisationsgesetz (GOG) dem Regierungsrat zur Ausarbeitung einer Vorlage innert
+zwei Jahren überwiesen:
+«Gemäss § 11 Abs. 1 des Gesetzes betreffend Einführung des Bundesgesetzes über Schuldbetreibung und Konkurs (SG 230.100) ist für das Nachlassverfahren gemäss Art. 293-332 SchKG das
+Dreiergericht als einzige Instanz zuständig. Für Begehren betreffend eine einvernehmliche private
+Schuldenbereinigung gemäss Art. 333 SchKG ist gemäss § 11 Abs. 2 EG SchKG der Einzelrichter
+als einzige Instanz zuständig. Generell legt das Gerichtsorganisationsgesetz (GOG) in § 71 Abs. 1
+Ziff. 1 lit, b. fest, dass für alle summarischen Verfahren unabhängig vom Streitwert das Einzelgericht
+zuständig ist. Gemäss Art. 251 ZPO gilt das summarische Verfahren insbesondere für Entscheide,
+die vom Rechtsöffnungs-, Konkurs, Arrest- und Nachlassgericht getroffen werden, somit auch für
+Entscheide gemäss § 11 EG SchKG. Warum in Basel-Stadt für Entscheide im Nachlassverfahren
+das Dreiergericht (und nicht das Einzelgericht) zuständig sein soll, ist nicht ersichtlich (so ist beispielsweise auch im Kanton Basel-Landschaft die Zuständigkeit des Zivilkreisgerichtspräsidiums
+vorgesehen (§ 3 des BL Einführungsgesetzes zur Schweizerischen Zivilprozessordnung)). Nach Ansicht der Motionärinnen und Motionäre soll diese Sonderregelung aufgehoben und damit dem Zivilgericht eine bessere Ressourcenallokation ermöglicht werden. Eine Festlegung, dass für die einvernehmliche private Schuldenbereinigung der Einzelrichter (wie der veraltete Gesetzestext lautet)
+
+Seite 5/7
+
+Regierungsrat des Kantons Basel-Stadt
+
+zuständig ist, ist unnötig, der Verweis vom § 6 EG SchKG auf das GOG führt sowieso zur Zuständigkeit des Einzelgerichtes. § 11 EG SchKG kann somit vollständig aufgehoben werden.
+Im Zuge der Vorbereitung der Aufhebung von § 11 EG SchKG kann auch geprüft werden, ob
+§ 3 EG SchKG aufgehoben oder geändert werden soll. Diese Bestimmung lautet wie folgt: "In den
+Landgemeinden können die Gemeinderäte bei Pfändungen, Konkursen und Versteigerungen als
+Gehilfen des Betreibungs- und Konkursamtes verwendet werden". Dieser Beizug von Gemeinderäten scheint in der Praxis nicht mehr benötigt zu werden. Falls für allfällige Hilfeleistungen zu Gunsten
+des Betreibungs- und Konkursamtes die Landgemeinden noch immer benötigt werden, so ist eine
+zeitgemässe gesetzliche Grundlage zu schaffen.
+Die Motionärinnen und Motionäre fordern deshalb, dass der Regierungsrat den obigen Erwägungen
+entsprechende Änderungen des Gesetzes betreffend Einführung des Bundesgesetzes über Schuldbetreibung und Konkurs und allenfalls des Gerichtsorganisationsgesetzes innert zweier Jahre vorlegt.
+David Jenny, Jeremy Stephenson, Michelle Lachenmeier, Erich Bucher, Lukas Faesch, Joël Thüring,
+Daniel Albietz, Mark Eichner, Claudia Baumgartner, Danielle Kaufmann»
+
+Mit dem vorliegenden Ratschlag werden die beiden Motionsforderungen zur Aufhebung von
+§ 11 EG SchKG sowie zur Prüfung einer allfälligen Aufhebung oder Änderung von § 3 EG SchKG
+erfüllt.
+Der Vollständigkeit halber bleibt noch anzufügen, dass im Bund zurzeit mehrere Teilrevisionen
+des SchKG, zu denen bisher die Vernehmlassungsverfahren durchgeführt wurden, geplant sind.
+Diese Rechtsetzungsvorhaben verlangen trotz Auswirkungen auf die Kantone gemäss ihrem heutigen inhaltlichen Stand voraussichtlich keine in nächster Zeit vorzunehmende Änderung des kantonalen EG SchKG.
+
+5.
+
+Finanzielle Auswirkungen
+
+Die finanziellen Auswirkungen der Vorlage halten sich in engen Grenzen. Grundsätzlich hat die
+Verschiebung der Zuständigkeit nach § 11 Abs. 1 EG SchKG vom Dreiergericht auf das Einzelgericht des Zivilgerichts Sparpotential. Das Zivilgericht weist jedoch darauf hin, dass durch den
+Wechsel der Zuständigkeit vom Dreiergericht zum Einzelgericht aufgrund der geringen Anzahl
+der entsprechenden Verfahren (Durchschnitt der Jahre 2016-2022: 6.8 Fälle pro Jahr) keine finanziell relevanten Änderungen bei den Ressourcen zu erwarten seien.
+Die Aufhebung von § 3 EG SchKG hat keine finanziellen Auswirkungen, da diese Bestimmung
+seit Jahrzehnten keine Anwendung mehr findet.
+
+6.
+
+Prüfungen
+
+Das Finanzdepartement hat den vorliegenden Ratschlag gemäss § 8 des Gesetzes über den
+kantonalen Finanzhaushalt (Finanzhaushaltgesetz) vom 14. März 2012 überprüft.
+Das Justiz- und Sicherheitsdepartement hat den Erlass gemäss § 4 Abs. 1 des Gesetzes über
+Publikationen im Kantonsblatt und über die Gesetzessammlung des Kantons Basel-Stadt vom
+19. Oktober 2016 (Publikationsgesetz; SG 151.200) in redaktioneller und gesetzestechnischer
+Hinsicht geprüft.
+Gemäss Vortest ist keine Regulierungsfolgenabschätzung (RFA) zur Betroffenheit der Wirtschaft
+vorzunehmen.
+
+Seite 6/7
+
+Regierungsrat des Kantons Basel-Stadt
+
+7.
+
+Antrag
+
+Gestützt auf unsere Ausführungen beantragen wir dem Grossen Rat die Annahme des nachstehenden Beschlussentwurfes sowie die Abschreibung der Motion David Jenny und Konsorten betreffend Anpassung des Gesetzes betreffend Einführung des Bundesgesetzes über Schuldbetreibung und Konkurs (EG SchKG) an das Gerichtsorganisationsgesetz (GOG).
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Lukas Engelberger
+Vizepräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Beilagen
+- Entwurf Gesetzestext für Grossratsbeschluss
+- Synopse
+- Regulierungsfolgenabschätzung, Teil A Vortest
+
+Seite 7/7
+
+FORMELL GEPRÜFT | ID: 6280 | 06.12.2023
+
+Gesetz betreffend Einführung des Bundesgesetzes über Schuldbetreibung und Konkurs
+Änderung vom [Datum]
+Der Grosse Rat des Kantons Basel-Stadt,
+nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. [Ratschlag-Nr.] vom [Datum] sowie in
+den Bericht der [Kommission] Nr. [Kommissionsbericht-Nr.] vom [Datum],
+beschliesst:
+I.
+Gesetz betreffend Einführung des Bundesgesetzes über Schuldbetreibung und Konkurs vom
+22. Juni 1891 1) (Stand 1. Juli 2016) wird wie folgt geändert:
+§ 3
+Aufgehoben.
+§ 11
+Aufgehoben.
+§ 45a (neu)
+1
+Nach Inkrafttreten der Aufhebung von § 11 werden hängige Nachlassverfahren, einschliesslich Begehren betreffend einvernehmliche private Schuldenbereinigung, nach neuem Recht weitergeführt.
+II. Änderung anderer Erlasse
+Keine Änderung anderer Erlasse.
+III. Aufhebung anderer Erlasse
+Keine Aufhebung anderer Erlasse.
+IV. Schlussbestimmung
+Diese Änderung ist zu publizieren; sie unterliegt dem Referendum und tritt am fünften Tag nach der
+Publikation des unbenutzten Ablaufs der Referendumsfrist oder im Falle der Volksabstimmung am fünften Tag nach der Publikation der Annahme durch die Stimmberechtigten in Kraft.
+
+[Behörde]
+[Funktion 1]
+[NAME 1]
+[Funktion 2]
+[NAME 2]
+
+ZRD
+06.12.2023
+1)
+
+SG 230.100
+
+RGS
+
+Synopse
+Gesetz betreffend Einführung des Bundesgesetzes über Schuldbetreibung und Konkurs
+Von diesem Geschäft tangierte Erlasse (SG Nummern)
+Neu:
+–
+Geändert:
+230.100
+Aufgehoben: –
+
+Geltendes Recht
+
+Änderung, Entwurf Regierungsrat
+Gesetz betreffend Einführung des Bundesgesetzes über Schuldbetreibung und Konkurs
+Der Grosse Rat des Kantons Basel-Stadt,
+nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. [Ratschlag-Nr.]
+vom [Datum] sowie in den Bericht der [Kommission] Nr. [Kommissionsbericht-Nr.]
+vom [Datum],
+beschliesst:
+
+I.
+Gesetz betreffend Einführung des Bundesgesetzes über Schuldbetreibung und
+Konkurs vom 22. Juni 1891 (Stand 1. Juli 2016) wird wie folgt geändert:
+§ 3
+
+§ 3 Aufgehoben.
+
+1 In den Landgemeinden können die Gemeinderäte bei Pfändungen, Konkursen
+
+und Versteigerungen als Gehilfen des Betreibungs- und Konkursamtes verwendet werden.
+§ 11
+1 Für das Nachlassverfahren (BG Art. 293–332) ist das Dreiergericht als einzige
+
+Instanz zuständig.
+
+§ 11 Aufgehoben.
+
+-2-
+
+Geltendes Recht
+
+Änderung, Entwurf Regierungsrat
+
+2 Für Begehren betreffend eine einvernehmliche private Schuldenbereinigung ge-
+
+mäss Art. 333 ff. des Bundesgesetzes ist der Einzelrichter als einzige Instanz zuständig.
+§ 45a
+1 Nach Inkrafttreten der Aufhebung von § 11 werden hängige Nachlassverfahren,
+
+einschliesslich Begehren betreffend einvernehmliche private Schuldenbereinigung, nach neuem Recht weitergeführt.
+
+II.
+Keine Änderung anderer Erlasse.
+
+III.
+Keine Aufhebung anderer Erlasse.
+
+IV.
+Diese Änderung ist zu publizieren; sie unterliegt dem Referendum und tritt am
+fünften Tag nach der Publikation des unbenutzten Ablaufs der Referendumsfrist
+oder im Falle der Volksabstimmung am fünften Tag nach der Publikation der Annahme durch die Stimmberechtigten in Kraft.
+[Behörde]
+
+Regierungsrat des Kantons Basel-Stadt
+
+Regulierungsfolgenabschätzung (RFA)
+
+Teil A:
+Klärung der Betroffenheit [„Vortest")
+Titel des Geschäfts: Ratschlag zu einer Teilrevision des Gesetzes betreffend Einführung des
+Bundesgesetzes über Schuldbetreibung und Konkurs sowie Bericht zur Motion David Jenny und Konsorten
+betreffend Anpassung des Gesetzes betreffend Einführung des Bundesgesetzes über Schuldbetreibung und
+Konkurs (EG SchKG) an das Gerichtsorganisationsgesetz (GOG)
+P-Nr.: ............../P225161
+
+Erlassform: ^ Gesetz D Verordnung
+Federführendes Departement: Q PD D BVD
+
+ED
+
+FD Q GD
+
+JSD
+
+wsu
+
+Ist folgende Frage mit „Ja" zu beantworten, liegt eine Betroffenheit der Wirtschaft vor, d.h. die Regulierungsfolgenabschätzung (Teil B) ist durchzuführen.
+
+1. Können Unternehmen vom Vorhaben direkt oder indirekt negativ betroffen sein? (direkt: Z.B. in Form
+von Kosten, Berichtspflichten, Auflagen; indirekt: Z.B. Verschlechterung der Standortattraktivität)
+Ja
+
+Nein ^|
+
+Der Vortest zur Betroffenheit ist obligatorischer Bestandteil des Berichtes an den Regierungsrat bzw.
+des Ratschlags an den Grossen Rat. Liegt keine Betroffenheit der Wirtschaft vor, ist dies in einem
+separaten Abschnitt („Regulierungsfolgenabschätzung") im Bericht bzw. Ratschlag kurz zu begründen. Ist eine Betroffenheit festgestellt worden, ist Teil B des Fragenkatalogs auszufüllen.
+
+Empfehlung:
+
+Der Regierungsrat empfiehlt, den Fragebogen bereits bei der Ausarbeitung des Erlasses
+bzw. dessen Revision zu berücksichtigen und nach dessen Finalisierung auszufüllen.
+
+

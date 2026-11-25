@@ -1,0 +1,2119 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+24.1692.01
+14.5352.06
+18.5190.07
+19.5441.05
+21.5221.04
+
+PD/P241692/P145352/P185190/P195441/P215221
+Basel, 12. August 2026
+Regierungsratsbeschluss vom 11. August 2026
+
+Ratschlag betreffend
+Änderung des Gesetzes über Wahlen und Abstimmungen (Wahlgesetz) vom 21. April 1994,
+des Gesetzes betreffend Initiative und Referendum (IRG) vom
+16. Januar 1991,
+des Gesetzes betreffend die Organisation des Regierungsrates und
+der Verwaltung des Kantons Basel-Stadt (Organisationsgesetz,
+OG) vom 22. April 1976 sowie
+Aufhebung des Grossratsbeschlusses betreffend Abbitte der von
+der Gesamtheit der Stimmberechtigten gewählten Behördenmitgliedern von ihren Stellen vom 27. Februar 1896 und
+Bericht zum Anzug Conradin Cramer und Daniel Goepfert betreffend Aufschlüsselung von Wahl- und Abstimmungsresultaten nach
+Quartieren und
+Bericht zum Anzug Harald Friedl und Konsorten betreffend Verlängerung der Frist für die Festlegung von Abstimmungen und
+Bericht zum Anzug Esther Keller und Konsorten betreffend Pilotprojekt ‹Smart Voting›: Demokratie 2.0 sowie
+Bericht zum Anzug Luca Urgese und Konsorten betreffend regelmässige Befragungen nach Wahlen und Abstimmungen
+
+Publiziert am 14. August 2026 auf: grosserrat.bs.ch
+
+Seite 1/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+Inhalt
+1.
+
+Begehren .................................................................................................................... 4
+
+2.
+
+Ausgangslage und Ziele der Revision ..................................................................... 4
+2.1
+2.2
+
+Das Gesetz über Wahlen und Abstimmungen .............................................................................. 4
+Anpassungen aufgrund von Erkenntnissen aus der Praxis .......................................................... 4
+2.2.1 Anpassung der Wählbarkeitsvoraussetzungen der Gerichtspräsidien ..............................4
+2.2.2 Gesetzliche Verankerung der «Streichungsregeln» bei überzähligen Stimmen ...............5
+2.2.3 Anpassung der Frist zur Einreichung von Wahlvorschlägen .............................................5
+2.3 Aktualisierung der Regelung zur Zuteilung der Grossratssitze auf die Wahlkreise ...................... 5
+2.4 Neuregelung des Rücktritts vom Volk gewählter Amtsträgerinnen und Amtsträger ..................... 5
+2.5 Anpassung der Bestimmung zum politischen Wohnsitz ............................................................... 6
+2.6 Anzug Harald Friedl und Konsorten betreffend Verlängerung der Frist für die Festlegung von
+Abstimmungen (18.5190) .............................................................................................................. 6
+2.7 Anzug Esther Keller und Konsorten betreffend Pilotprojekt «Smart Voting»: Demokratie 2.0
+(19.5441) ....................................................................................................................................... 6
+2.8 Anzug Luca Urgese und Konsorten betreffend regelmässige Befragungen nach Wahlen und
+Abstimmungen (21.5221) .............................................................................................................. 7
+2.9 Anzug Conradin Cramer und Daniel Goepfert betreffend Aufschlüsselung von Wahl- und
+Abstimmungsresultaten nach Quartieren (14.5352) ..................................................................... 7
+2.10 Öffentliche Vernehmlassung ......................................................................................................... 7
+
+3.
+
+Kommentar zu den einzelnen Änderungen des Wahlgesetzes ............................. 8
+3.1
+
+3.2
+
+3.3
+
+3.4
+
+3.5
+
+3.6
+
+3.7
+
+3.8
+3.9
+
+Politischer Wohnsitz ...................................................................................................................... 8
+3.1.1 § 2 Wahlgesetz (geändert) .................................................................................................8
+3.1.2 Kommentar .........................................................................................................................8
+Studien und Pilotprojekte zur Weiterentwicklung der politischen Rechte ..................................... 9
+3.2.1 § 15a Wahlgesetz (neu) .....................................................................................................9
+3.2.2 Kommentar .........................................................................................................................9
+Befragungen von Stimmberechtigten .......................................................................................... 11
+3.3.1 § 15b Wahlgesetz (neu) .................................................................................................. 11
+3.3.2 Kommentar ...................................................................................................................... 11
+3.3.3 Anzug Conradin Cramer und Daniel Goepfert betreffend «Aufschlüsselung von Wahlund Abstimmungsresultaten nach Quartieren» (14.5352) .............................................. 14
+Festlegung des Abstimmungstermins ......................................................................................... 15
+3.4.1 § 16 Wahlgesetz (geändert) ............................................................................................ 15
+3.4.2 Kommentar ...................................................................................................................... 15
+Einreichung von Wahlvorschlägen .............................................................................................. 17
+3.5.1 § 35 Wahlgesetz (geändert) ............................................................................................ 17
+3.5.2 Kommentar ...................................................................................................................... 17
+Zuteilung der Sitze im Grossen Rat auf die Wahlkreise ............................................................. 18
+3.6.1 § 42 Wahlgesetz (geändert) ............................................................................................ 18
+3.6.2 Kommentar ...................................................................................................................... 19
+Streichungsregeln bei überzähligen Stimmen ............................................................................ 19
+3.7.1 § 49a Wahlgesetz (neu) .................................................................................................. 19
+3.7.2 Kommentar ...................................................................................................................... 20
+Ermittlung des Wahlergebnisses bei Proporzwahlen ................................................................. 21
+3.8.1 § 54 Wahlgesetz (geändert) ............................................................................................ 21
+Anpassung der Voraussetzungen der Wählbarkeit als Gerichtspräsidentin oder
+Gerichtspräsident ........................................................................................................................ 22
+3.9.1 § 64 Wahlgesetz (geändert) ............................................................................................ 22
+3.9.2 Kommentar ...................................................................................................................... 22
+3.9.3 § 66 Wahlgesetz (geändert) ............................................................................................ 24
+3.9.4 Kommentar ...................................................................................................................... 25
+
+Seite 2/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+3.9.5 § 68 Wahlgesetz (geändert) ............................................................................................ 25
+3.9.6 Kommentar ...................................................................................................................... 25
+3.10 Regelung des Rücktritts des Mitglieds des Ständerates ............................................................ 26
+3.10.1 § 77b Wahlgesetz (neu) .................................................................................................. 26
+3.10.2 Kommentar ...................................................................................................................... 26
+3.11 Verfahren bei Gerichtspräsidiumswahlen bei geringer Anzahl von Wahlvorschlägen ............... 28
+3.11.1 § 78 Wahlgesetz (geändert) ............................................................................................ 28
+3.11.2 Kommentar ...................................................................................................................... 28
+
+4.
+
+Änderung und Aufhebung weiterer Erlasse.......................................................... 29
+4.1
+
+4.2
+
+4.3
+
+Anpassung der Abstimmungsfristen bei Volksinitiativen ............................................................ 29
+4.1.1 § 24a des Gesetzes betreffend Initiative und Referendum (geändert) ........................... 29
+4.1.2 Kommentar ...................................................................................................................... 29
+Regelung des Rücktritts der Regierungspräsidentin oder des Regierungspräsidenten und
+von Mitgliedern des Regierungsrates im Organisationsgesetz ................................................... 30
+4.2.1 § 25a Organisationsgesetz (neu) .................................................................................... 30
+4.2.2 Kommentar ...................................................................................................................... 31
+Aufhebung des Grossratsbeschlusses betreffend Abbitte der von der Gesamtheit der
+Stimmberechtigten gewählten Behördenmitgliedern von ihren Stellen (SG 162.300)................ 32
+
+5.
+
+Finanzielle Auswirkungen ...................................................................................... 32
+
+6.
+
+Formelle Prüfungen und Regulierungsfolgenabschätzung................................. 32
+
+7.
+
+Antrag ....................................................................................................................... 32
+
+Seite 3/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+1.
+
+Begehren
+
+Mit diesem Ratschlag beantragen wir Ihnen eine Teilrevision des Gesetzes über Wahlen und Abstimmungen vom 21. April 1994 (Wahlgesetz; SG 132.100), eine Änderung des Gesetzes betreffend Initiative und Referendum vom 16. Januar 1991 (IRG, SG 131.100), eine Änderung des Gesetzes betreffend die Organisation des Regierungsrates und der Verwaltung des Kantons BaselStadt vom 22. April 1976 (Organisationsgesetz, OG; SG 153.100) sowie die Aufhebung des Grossratsbeschlusses betreffend Abbitte der von der Gesamtheit der Stimmberechtigten gewählten Behördenmitglieder von ihren Stellen vom 27. Februar 1896 (SG 162.300).
+Wir beantragen darüber hinaus, den Anzug Conradin Cramer und Daniel Goepfert betreffend Aufschlüsselung von Wahl- und Abstimmungsresultaten nach Quartieren (14.5352), den Anzug Harald Friedl und Konsorten betreffend Verlängerung der Frist für die Festlegung von Abstimmungen
+(18.5190), den Anzug Esther Keller und Konsorten betreffend Pilotprojekt ‹Smart Voting›: Demokratie 2.0 (19.5441) sowie den Anzug Luca Urgese und Konsorten betreffend regelmässige Befragungen nach Wahlen und Abstimmungen (21.5221) als erledigt abzuschreiben.
+
+2.
+
+Ausgangslage und Ziele der Revision
+
+2.1
+
+Das Gesetz über Wahlen und Abstimmungen
+
+Das geltende Wahlgesetz ist im Jahr 1994 in Kraft getreten. Es wurde seither mehrfach punktuell
+revidiert. Das Gesetz befindet sich grundsätzlich auf einem zeitgemässen Stand. Grundlegende
+Änderungen drängen sich daher nicht auf. Mit der vorliegenden Revision sollen einige Anpassungen und Ergänzungen aufgrund von Erkenntnissen bei der Durchführung von Wahlen und Abstimmungen sowie eine Aktualisierung aufgrund veränderter Umstände vorgenommen sowie der verbleibende Gehalt eines alten Nebenerlasses in das Wahlgesetz integriert werden, um diesen
+aufheben zu können. Zudem werden die Anliegen aus vier Anzügen des Grossen Rates zum Wahlrecht in neuen oder geänderten Bestimmungen umgesetzt.
+
+2.2
+
+Anpassungen aufgrund von Erkenntnissen aus der Praxis
+
+2.2.1
+
+Anpassung der Wählbarkeitsvoraussetzungen der Gerichtspräsidien
+
+Die Präsidentinnen und Präsidenten der Gerichte werden im Majorzwahlverfahren gewählt. Anders
+als bei der im Proporzwahlverfahren durchgeführten Wahl des Grossen Rates ist es bei Majorzwahlen in unserem Kanton möglich, nicht nur formal zur Wahl vorgeschlagene Personen zu wählen,
+sondern jede Person, welche die gesetzlichen Voraussetzungen erfüllt (§ 64 Abs. 1 Wahlgesetz).
+Die Namen formal zur Wahl vorgeschlagener Personen werden auf dem Wahlzettel vorgedruckt
+und können von den Stimmberechtigten angekreuzt werden. Die Wahl nicht zur Wahl vorgeschlagener wählbarer Personen erfolgt, indem die stimmberechtigte Person deren Namen auf die leeren
+Linien auf dem Wahlzettel schreibt und ankreuzt.
+§ 12 Abs. 1 des Gesetzes betreffend die Organisation der Gerichte (GOG; SG 154.100) hält fest,
+dass für die Wahl in ein Gerichtspräsidium – neben der Stimmberechtigung – ein juristischer Abschluss einer schweizerischen Universität vorausgesetzt ist. Gemäss § 12 Abs. 3 GOG sind auch
+stimmberechtigte Personen mit ausländischem Studienabschluss, die über ein kantonales Anwaltspatent verfügen, wählbar. Das Vorliegen der Wählbarkeit der gewählten Person ist Voraussetzung
+für eine gültige Stimmabgabe. Bei der Wahl von Personen, für die kein Wahlvorschlag eingereicht
+wurde, muss das Wahlbüro am Wahlwochenende bei der Auszählung der Stimmen prüfen, ob die
+gewählten Personen über den gesetzlich verlangten akademischen Abschluss verfügen. Da aber
+kein Verzeichnis oder Register der Universitäten über die erteilten juristischen Abschlüsse besteht,
+ist die Überprüfung dieser Wählbarkeitsvoraussetzung oft nur mit grössten Schwierigkeiten oder
+überhaupt nicht möglich. Im Interesse einer vollständig korrekten Erfassung des Wahlergebnisses
+
+Seite 4/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+sollen daher über eine Ergänzung des Wahlgesetzes neu nur noch Personen als Gerichtspräsidentin oder Gerichtspräsident wählbar sein, für die vor der Wahl ein gültiger Wahlvorschlag eingereicht worden ist. Mit der Einreichung des Wahlvorschlags ist ein Beleg für das Vorhandensein der
+Wahlvoraussetzungen einzureichen.
+2.2.2
+
+Gesetzliche Verankerung der «Streichungsregeln» bei überzähligen Stimmen
+
+Bei der Wahl des Grossen Rates können die Stimmberechtigten maximal so viele Stimmen abgeben, wie Sitze in ihrem Wahlkreis zu vergeben sind. Jede Kandidatin oder jeder Kandidat darf
+höchstens dreimal gewählt werden. Überzählige Stimmen müssen bei der Auszählung durch die
+Mitarbeitenden der Wahlbüros auf den Wahlzetteln gestrichen werden, da sie nicht berücksichtigt
+werden dürfen.
+Sind mehrere Namen auf dem Wahlzettel zu streichen, so stellt sich die Frage, in welcher Reihenfolge überzählige Stimmen zu streichen sind. In der Praxis werden hierbei die Streichungsregeln
+des Bundes für die Nationalratswahlen analog angewandt, da das Wahlgesetz keine entsprechende Bestimmung enthält. Eine ausdrückliche Rechtsgrundlage für den Analogieschluss fehlt
+ebenfalls. Zu Erhöhung der Rechtssicherheit sollen daher die Streichungsregeln neu auch im kantonalen Wahlrecht ausdrücklich genannt werden.
+2.2.3
+
+Anpassung der Frist zur Einreichung von Wahlvorschlägen
+
+Heute müssen Wahlvorschläge für kantonale Wahlen spätestens am achtletzten Montag vor dem
+Urnengang bei der Staatskanzlei eingereicht werden. Diese Frist von rund acht Wochen zur Vorbereitung der Wahlen hat sich in der Vergangenheit öfters als äusserst knapp erwiesen im Hinblick
+auf die Erstellung und den rechtzeitigen Versand der Wahlunterlagen. Mit dem Testbetrieb für die
+elektronische Stimmabgabe hat sich die Situation zugespitzt, da die Vorbereitung des elektronischen Urnengangs mit den Vorbereitungen für die herkömmlichen Stimmkanäle koordiniert werden
+muss und damit zusätzliche Aufgaben ins bestehende enge Fristengefüge eingeplant werden müssen. Eine moderate Verlängerung der Frist gemäss § 35 Wahlgesetz um eine Woche würde es
+ermöglichen, die Stimm- und Wahlunterlagen fristgerecht und ohne zu grossen Termindruck zu
+erstellen. Die Parteien werden weiterhin jeweils ein halbes Jahr vor den Gesamterneuerungswahlen resp. den National- und Ständeratswahlen über alle notwendigen Angaben verfügen. Sie haben
+sodann rund vier Monate Zeit für die Anmeldung von Kandidaturen.
+
+2.3
+
+Aktualisierung der Regelung zur Zuteilung der Grossratssitze auf die Wahlkreise
+
+Bis zum Jahr 2010 führte der Bund alle zehn Jahre eine eidgenössische Volkszählung durch. Die
+erhobenen Daten dienten als Grundlage für die Berechnung der Zahl der Sitze, die in den fünf kantonalen Wahlkreisen bei der Wahl des Grossen Rates vergeben werden. Das geltende Recht
+schreibt vor, dass nach jeder eidgenössischen Volkszählung die Zahl der den einzelnen Wahlkreisen zustehenden Sitze durch den Grossen Rat festgelegt wird. Da der Bund seit 2010 aber jedes
+Jahr die wichtigsten Daten über die Bevölkerungsstruktur in der Schweiz erhebt, muss das Wahlgesetz angepasst werden, da eine jährliche Zuteilung der Sitze im Grossen Rat auf die Wahlkreise
+angesichts der vierjährigen Amtsdauer des Parlaments unnötig ist.
+
+2.4
+
+Neuregelung des Rücktritts vom Volk gewählter Amtsträgerinnen und
+Amtsträger
+
+Das Vorgehen beim Rücktritt der vom Volk gewählten Amtsträgerinnen und Amtsträger ist in einem
+über 120 Jahre alten Beschluss des Grossen Rates geregelt1. Dieser Beschluss ist durch mehrere
+
+1
+
+Grossratsbeschlusses betreffend Abbitte der von der Gesamtheit der Stimmberechtigten gewählten Behördenmitgliedern von ihren Stellen
+(SG 162.300)
+
+Seite 5/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+gesetzliche Neuregelungen des Rücktritts gewisser Amtsträgerinnen und Amtsträger teilweise hinfällig geworden. Auf den Rücktritt der Regierungspräsidentin oder des Regierungspräsidenten sowie der Mitglieder des Regierungsrates ist der Grossratsbeschluss aber noch heute anwendbar.
+Die Anwendbarkeit auf den Rücktritt des Mitglieds des Ständerates ist unklar. Der verbliebene Gehalt des Beschlusses soll zur Verbesserung der Übersichtlichkeit der Rechtsordnung in das Gesetzesrecht (ins Wahlgesetz und ins Organisationsgesetz) überführt und der Grossratsbeschluss zugleich aufgehoben werden. Gleichzeitig wird die Rechtslage bezüglich Rücktritts aus dem
+Ständerat geklärt.
+
+2.5
+
+Anpassung der Bestimmung zum politischen Wohnsitz
+
+Der politische Wohnsitz ist der Ort, an dem die Stimmberechtigten ihr Stimmrecht ausüben. Er
+richtet sich grundsätzlich nach dem Bundesrecht und es gilt der Grundsatz der Einheit des politischen Wohnsitzes für alle Staatsebenen. Doch auch die Kantonsverfassung und das Wahlgesetz
+enthalten Bestimmungen zum politischen Wohnsitz. Eine Anpassung der Regelung des politischen
+Wohnsitzes im Bundesrecht macht es nötig, auch die entsprechende Bestimmung des Wahlgesetzes anzupassen. Neu verweist das kantonale Recht auf die bundesrechtliche Definition des politischen Wohnsitzes, um deutlich zu machen, dass in Bundes- und kantonalen Angelegenheiten ein
+einheitlicher Begriff des politischen Wohnsitzes besteht.
+
+2.6
+
+Anzug Harald Friedl und Konsorten betreffend Verlängerung der Frist für
+die Festlegung von Abstimmungen (18.5190)
+
+Der Anzug Harald Friedl und Konsorten betreffend Verlängerung der Frist für die Festlegung von
+Abstimmungen möchte die gesetzliche Frist zur Festlegung der Abstimmungstermine und -vorlagen von heute zwei auf neu drei Monate an die entsprechende Frist bei Wahlen angleichen, um
+Parteien und Organisationen mehr Zeit für den politischen und demokratischen Meinungsbildungsprozess einzuräumen. Der Regierungsrat anerkennt das Anliegen und legt eine Änderung von
+§ 16 Wahlgesetz vor, welche dieses umsetzt. Aufgrund des sehr straffen Fristengefüges bei den
+Verfahren der Behandlung zustande gekommener Volksinitiativen muss im Zusammenhang mit
+dieser Änderung des Wahlgesetzes auch eine Bestimmung des Gesetzes betreffend Initiative und
+Referendum (IRG), welche die Rahmenfristen zur Behandlung von Volksinitiativen vom Zustandekommen bis zur Volksabstimmung regelt, angepasst werden.
+
+2.7
+
+Anzug Esther Keller und Konsorten betreffend Pilotprojekt «Smart Voting»:
+Demokratie 2.0 (19.5441)
+
+Der Anzug Esther Keller und Konsorten betreffend «Pilotprojekt ‹Smart Voting›: Demokratie 2.0»
+zielt auf nichts weniger als «eine fundamentale Änderung der Entscheidungsfindung» bei Wahlen
+und Abstimmungen. Unter «Smart Voting» werden dabei Systeme der differenzierten Stimmabgabe verstanden, mittels welcher die Stimmberechtigten bei Urnengängen ihre Meinung in Abstufungen kundtun könnten. Der Vorstoss verlangt, es sei zu prüfen, wie ein Pilotprojekt mit «Smart
+Voting» durchgeführt werden und wie ein solches Projekt wissenschaftlich begleitet werden könnte.
+Heute besteht keine gesetzliche Grundlage, die Vorarbeiten zu einer derartigen Weiterentwicklung
+der politischen Rechte zulassen würde. Da die staatspolitischen Folgen einer solchen Reform der
+politischen Rechte unbekannt sind, ist eine rechtliche Grundlage zu schaffen, welche die Veranlassung und Förderung entsprechender wissenschaftlicher Studien durch den Regierungsrat zulässt
+sowie die Durchführung und Mitwirkung an Pilotprojekten zur Weiterentwicklung der politischen
+Rechte erlaubt.
+
+Seite 6/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+2.8
+
+Anzug Luca Urgese und Konsorten betreffend regelmässige Befragungen
+nach Wahlen und Abstimmungen (21.5221)
+
+Der Anzug Luca Urgese und Konsorten betreffend regelmässige Befragungen nach Wahlen und
+Abstimmungen verlangt, dass der Kanton regelmässig nach kantonalen Urnengängen Nachbefragungen von Stimmberechtigten in Auftrag gibt, um deren Motive für ihr Abstimmungsverhalten zu
+ermitteln. Heute gibt die Verwaltung demoskopische Nachbefragungen dann in Auftrag, wenn dies
+der Umsetzung des Volksentscheids oder der Planung des weiteren Vorgehens dient. Davon will
+der Regierungsrat grundsätzlich nicht abweichen, denn die Ermittlung der Beweggründe der
+Stimmberechtigten für ihr Stimmverhalten allein stellt keine Staatsaufgabe dar. Auch wären die
+Kosten regelmässiger Befragungen nicht verhältnismässig zu deren Nutzen. Anders als der Bund
+kennt kein Kanton regelmässige demoskopische Studien nach Abstimmungen oder Wahlen. Der
+Regierungsrat anerkennt aber das Bedürfnis, dass eine Leitlinie bestehen sollte, wann demoskopische Analysen in Auftrag gegeben werden können. Er legt eine neue Bestimmung vor, welche
+drei alternative Tatbestände vorsieht, bei deren Vorliegen Nachbefragungen vorgenommen werden
+können. Zudem sollen die Ergebnisse von demoskopischen Untersuchungen stets veröffentlicht
+werden.
+
+2.9
+
+Anzug Conradin Cramer und Daniel Goepfert betreffend Aufschlüsselung
+von Wahl- und Abstimmungsresultaten nach Quartieren (14.5352)
+
+Der Anzug Conradin Cramer und Daniel Goepfert betreffend «Aufschlüsselung von Wahl- und Abstimmungsresultaten nach Quartieren» verlangt, dass die Wahl- und Abstimmungsergebnisse der
+Stadt Basel nach Stadtquartieren aufgeschlüsselt werden. Der Regierungsrat hat dem Grossen Rat
+mit Schreiben vom 30. Mai 2017 sowie vom 14. Oktober 2020 zu diesem Vorstoss berichtet. Er
+stand dabei einer Auswertung von Abstimmungsergebnissen nach Quartieren aufgrund von Überlegungen zum Schutz des Stimmgeheimnisses sowie zu den nötigen finanziellen Aufwendungen
+kritisch gegenüber.
+An dieser Haltung des Regierungsrates hat sich nichts geändert. Abgesehen vom Schutz des
+Stimmgeheimnisses und den finanziellen Folgen ist zu bedenken, dass quartierbezogene Auswertungen der Abstimmungsergebnisse das Risiko einer gesellschaftlichen Spaltung mit sich brächten.
+Die Teilergebnisse der Quartiere könnten politisch gegeneinander ausgespielt werden. Dem Anzug
+Cramer und Goepfert sind die neu gestützt auf den Anzug Luca Urgese und Konsorten betreffend
+regelmässige Befragungen nach Wahlen und Abstimmungen gesetzlich geregelten Nachwahlbefragungen als passendes Instrument für weitergehende Analysen von Wahl- und Abstimmungsergebnissen entgegenzusetzen. Auch auf die Regelung der in den Schreiben des Regierungsrates
+vom 30. Mai 2017 sowie vom 14. Oktober 2020 vorgeschlagenen sozio-demografischen Auswertungen der Stimmbeteiligung wird verzichtet, da die neu geregelten Nachbefragungen nach Abstimmungen und Wahlen besser geeignet sind, Erkenntnisse über das Stimmverhalten verschiedener Bevölkerungsgruppen zu gewinnen. Mit der vorgeschlagenen Umsetzung des
+Anzugs Urgese beantragt der Regierungsrat daher die Abschreibung des Anzugs Cramer
+und Goepfert.
+
+2.10
+
+Öffentliche Vernehmlassung
+
+Zum vorliegenden Ratschlag wurde vom 5. Mai bis 5. August 2025 eine öffentliche Vernehmlassung durchgeführt. Zu dieser wurden die kantonalen politischen Parteien und Verbände sowie die
+Gemeinden eingeladen. Erstmals bei einer Vernehmlassung zu einem Erlassprojekt wurde diese
+digital mit dem kantonalen E-Mitwirkungstool durchgeführt.
+Es gingen insgesamt elf Stellungnahmen ein; sieben von kantonalen politischen Parten (Basta,
+EVP, FDP, GLP, Grüne, LDP und SP); je eine von den Einwohnergemeinden Riehen und Bettin-
+
+Seite 7/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+gen, vom Gewerbeverband sowie von einer Privatperson. Aufgrund der Auswertung der Vernehmlassung wurden diverse Anpassungen am Ratschlag vorgenommen. Auf diese wird unten in der
+Kommentierung der einzelnen Bestimmungen eingegangen.
+
+3.
+
+Kommentar zu den einzelnen Änderungen des Wahlgesetzes
+
+3.1
+
+Politischer Wohnsitz
+
+3.1.1
+
+§ 2 Wahlgesetz (geändert)
+
+Gesetz über Wahlen und Abstimmungen
+vom 21. April 1994
+§ 2 Politischer Wohnsitz
+1
+Die Stimmberechtigten üben das Stimmrecht
+in der Gemeinde aus, in welcher sie wohnen
+und angemeldet sind.
+2
+
+Wer statt des Heimatscheins einen anderen
+Ausweis (Heimatausweis, Interimsschein usw.)
+hinterlegt, begründet politischen Wohnsitz nur
+mit dem Nachweis, dass er am Ort, wo der Heimatschein liegt, nicht im Stimmregister eingetragen ist.
+3.1.2
+
+neu
+§ 2 Politischer Wohnsitz
+1
+Die Stimmberechtigten üben das Stimmrecht
+in der Gemeinde aus, in welcher sie wohnen
+und angemeldet sind an ihrem politischen
+Wohnsitz aus. Dieser richtet sich nach den Vorschriften des Bundesrechts.
+2
+aufgehoben
+
+Kommentar
+
+Als politischer Wohnsitz wird der Ort bezeichnet, an dem die Stimmberechtigten ihre politischen
+Rechte ausüben. Art. 39 Abs. 2 Satz 1 der Bundesverfassung der Schweizerischen Eidgenossenschaft (BV; SR 101) bestimmt, dass die politischen Rechte am Wohnsitz ausgeübt werden. Auch
+§ 40 Abs. 1 der Verfassung des Kantons Basel-Stadt (KV; SG 111.100) nennt als Voraussetzung
+der Stimmberechtigung, dass der politische Wohnsitz im Kanton liegen muss. Der politische Wohnsitz einer stimmberechtigten Person befand sich nach bisher geltendem Recht in der Gemeinde, in
+der sie wohnt und angemeldet ist (Art. 3 Abs. 1 Satz 1 des Bundesgesetzes über die politischen
+Rechte vom 17. Dezember 1976; BPR).
+Beim politischen Wohnsitz handelt es sich gemäss der Rechtsprechung des Bundesgerichts um
+einen bundesrechtlichen Begriff. Gemäss Lehre und Praxis gilt er auch für die Wahrnehmung der
+politischen Rechte in Kantonen und Gemeinden. Kantone und Gemeinden haben aus Gründen der
+Praktikabilität keine Möglichkeit, einen autonomen kantonalrechtlichen Wohnsitzbegriff zu verwenden. Es gilt somit der Grundsatz der Einheit des politischen Wohnsitzes.2
+Für den Kanton Basel-Stadt hält § 2 Abs. 1 Wahlgesetz heute – entsprechend der bisherigen Definition im BPR – fest, dass die Stimmberechtigten das Stimmrecht in der Gemeinde ausüben, in
+welcher sie wohnen und angemeldet sind. Diese Bestimmung hat aufgrund der Verbindlichkeit der
+bundesrechtlichen Bestimmung bloss deklaratorischen Charakter.
+Im Rahmen einer Teilrevision des BPR haben die eidgenössischen Räte am 19. Juni 2026
+Art. 3 Abs. 1 BPR geändert. Neu wird für die Definition des politischen Wohnsitzes auf das Registerharmonisierungsgesetz des Bundes vom 23. Juni 2006 (RHG) Bezug genommen: Der politische
+Wohnsitz liegt nun grundsätzlich in der Niederlassungsgemeinde gemäss Art. 3 lit. b RHG. Zwar
+kommt es durch diese Anpassung zu keiner Änderung der materiellen Rechtslage. Dennoch ist
+2
+
+Vgl. Hangartner/Kley/Braun Binder/Glaser, Die demokratischen Rechte in Bund und Kantonen der Schweizerischen Eidgenossenschaft, Zürich 22023,
+Rz 155.
+
+Seite 8/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+aufgrund der Verbindlichkeit der bundesrechtlichen Definition des politischen Wohnsitzes
+§ 2 Abs. 1 Wahlgesetz überholt. Die Bestimmung ist daher anzupassen und durch eine umfassende, dynamische Verweisung auf die Bestimmungen des Bundesrechts zum politischen Wohnsitz zu ersetzen. Dadurch können Fragen und Verunsicherung aufgrund der abweichenden Definition des politischen Wohnsitzes vermieden werden.
+Auch § 2 Abs. 2 Wahlgesetz ist nicht mehr aktuell, weil sich die melderechtlichen Bestimmungen
+im Bundesrecht mittlerweile geändert haben. Die frühere Praxis der Hinterlegung des Heimatscheins, respektive des Heimatausweises, Interimsausweises oder dergleichen, ist überholt. Die
+Verordnung des Bundes über den Heimatschein vom 22. Dezember 1980 wurde bereits per
+1. Juli 2004 aufgehoben. Im Kanton Basel-Stadt wurde die Pflicht zur Schriftenhinterlegung mit Inkrafttreten des Gesetzes über Niederlassung und Aufenthalt (NAG; SG 122.200) am 1. Juli 2017
+aufgehoben. Seither genügt für die Anmeldung zur Niederlassung, neben dem Nachweis der Identität, die Vorlage eines beliebigen Zivilstandsdokuments. Die Hinterlegung eines Zivilstandsdokuments ist nicht mehr notwendig, weil die Gemeinden durch das elektronische Zivilstandsregister
+(Infostar) mittlerweile eine direkte Abfragemöglichkeit haben, wodurch ausgeschlossen werden
+kann, dass eine Person in mehr als einem Kanton im Stimmregister eingetragen wird. Aufgrund
+dieser Umstände entspricht § 2 Abs. 2 Wahlgesetz nicht mehr der heutigen Rechtswirklichkeit und
+kann ersatzlos aufgehoben werden.
+Die Anpassung dieser Bestimmung wurde aufgrund der Änderung des BPR in die Wahlgesetzrevision aufgenommen und war noch nicht Teil der Vernehmlassungsvorlage.
+
+3.2
+
+Studien und Pilotprojekte zur Weiterentwicklung der politischen Rechte
+
+3.2.1
+
+§ 15a Wahlgesetz (neu)
+1.C Weiterentwicklung der politischen
+Rechte
+§ 15a
+1
+Der Regierungsrat kann zur Weiterentwicklung der politischen Rechte Studien in Auftrag
+geben oder fördern. Er kann zudem Pilotprojekte durchführen oder bei diesen mitwirken.
+
+3.2.2
+
+Kommentar
+
+Der Grosse Rat hat an seiner Sitzung vom 20. November 2019 dem Regierungsrat den Anzug
+Esther Keller und Konsorten betreffend «Pilotprojekt ‹Smart Voting›: Demokratie 2.0» überwiesen
+(19.5441). Im Anzugstext wird erklärt, das «heutige Abstimmungssystem» werde der zunehmenden Komplexität der Abstimmungsvorlagen nicht mehr gerecht. Die Stimmbürgerinnen und Stimmbürger müssten mit einem Ja- oder Nein-Votum über Vorlagen entscheiden, deren langwierigen
+Entstehungsprozess sie meist nicht hätten beeinflussen können. Dieses «binäre System» lasse
+keine differenzierte Äusserung zu einer Vorlage zu. Anstatt nach Urnengängen aufwendige Umfragen durchzuführen, um festzustellen, weshalb die Bevölkerung eine Vorlage verworfen habe und
+wie man eine neue Vorlage gestalten müsse, damit sie eine Mehrheit finde, sei ein Abstimmungssystem zuzulassen, das eine differenziertere Stimmabgabe ermögliche. Als Beispiel führt der Anzugstext an, bei der Abstimmung über ein öffentliches Bauprojekt könnten den Stimmberechtigten
+mehrere Projektvarianten vorgelegt werden, welche diese jeweils auf einer Skala von null bis
+zehn Punkten bewerten könnten. Das Projekt, gegen welches die Abstimmung den geringsten Widerstand ergeben habe, solle weiterverfolgt werden. Auch bei Wahlen könne «Smart Voting» angewandt werden; die Kandidierenden könnten von den Stimmberechtigten ebenfalls auf einer Skala
+von null bis zehn beurteilt werden. Die oder der Kandidierende mit der geringsten Ablehnung wäre
+gewählt. Der Anzug hält weiter fest, ein entsprechendes Wahl- und Abstimmungssystem sei kaum
+ohne E-Voting umsetzbar. Es sei davon auszugehen, dass sich E-Voting langfristig durchsetzen
+
+Seite 9/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+werde. Versuche mit Smart Voting könnten parallel zu den regulären Abstimmungen durchgeführt
+werden und hätten bis auf weiteres keinen Einfluss auf das Abstimmungsresultat. Mittels Befragungen der Teilnehmenden solle eruiert werden, inwiefern die Möglichkeit der differenzierten Stimmabgabe die Zufriedenheit der Bevölkerung mit dem Abstimmungsresultat beeinflusse. Der Anzug
+verlangt die Erstellung eines Konzepts zu einem Pilotprojekt zu «Smart Voting», welches insbesondere darüber Auskunft geben solle, welche personellen und finanziellen Ressourcen dazu nötig
+wären, sowie die Prüfung der Möglichkeiten der wissenschaftlichen Begleitung eines solchen Projekts.
+Anzumerken ist, dass der Begriff «Smart Voting» nach Wissen des Regierungsrates bisher in keinem Zusammenhang für die im Anzug thematisierten differenzierenden Systeme der Stimmabgabe
+verwendet wurde und aufgrund der Verwechslungsgefahr mit der Online-Plattform «smartvote»
+vermieden werden sollte. Stattdessen sollte von «differenzierter Stimmabgabe» o.ä. die Rede sein.
+In seinem Bericht vom 17. November 2021 zum Anzug Esther Keller und Konsorten hielt der Regierungsrat fest, dass der Vorstoss nicht bloss die Digitalisierung der bestehen Verfahren im Bereich der politischen Rechte anstrebt, sondern auf eine fundamentale Neugestaltung der Meinungsäusserung bei Wahlen und Abstimmungen zielt. Die grundsätzliche Veränderung der politischen
+Rechte, die eine Differenzierung der Stimmabgabe im Sinne des Anzugs Esther Keller mit sich
+bringen würde, kontrastiert mit dem bisher geringen öffentlichen Interesse an der Thematik: Abgesehen von einer im Anzug erwähnten Studie der Universität Fribourg, in welcher Möglichkeiten der
+differenzierten Stimmabgabe angesprochen werden, wurde diese Idee in der Schweiz bisher erst
+kürzlich im Rahmen des «Demokratie Labors Basel» thematisiert. Dieses vom Verein «Smart Regio
+Basel» angestossene und gemeinsam mit der Berner Fachhochschule entwickelte Projekt wurde
+am 15. September 2022 öffentlich vorgestellt. Es umfasst Teilprojekte zu Verfahren der differenzierten Stimmabgabe bei Abstimmungen und Wahlen. Ein massgebliches gesellschaftliches Bedürfnis nach einer differenzierten Stimmabgabe ist derzeit aber nicht erkennbar. Auch im Projekt
+der Staatskanzlei zur digitalen Mitbestimmung, das mit einem breiten Dialog mit interessierten Kreisen verbunden war, wurden keine Anliegen in diesem Sinne eingebracht. Zugleich hat der Regierungsrat zur Kenntnis genommen, dass differenziertere Formen der Stimmabgabe in unterschiedlichen Varianten in anderen Ländern – etwa in den Vereinigten Staaten, Irland und Australien – bei
+der Durchführung von Wahlen zur Anwendung kommen. In der Schweiz ist die Thematik aber noch
+kaum erforscht und die staatspolitischen Konsequenzen einer differenzierten Stimmabgabe sind
+unbekannt. Ebenso unbekannt ist, inwiefern die Einführung von E-Voting tatsächlich zwingend Voraussetzung zur Umsetzung differenzierender Systeme der Stimmabgabe wäre. Aufgrund der
+Tragweite einer so fundamentalen Umgestaltung der politischen Rechte ist der Regierungsrat der
+Auffassung, dass zunächst Untersuchungen und Abklärungen zur differenzierten Stimmabgabe
+stattfinden müssten, bevor gegebenenfalls die Konzeption eines Pilotprojekts erfolgen könnte.
+Mit der neuen Norm von § 15a des Wahlgesetzes wird der Regierungsrat erstens ausdrücklich
+autorisiert, zur Weiterentwicklung der politischen Rechte Studien selbst in Auftrag zu geben oder
+entsprechende Untersuchungen Dritter zu fördern. Zweitens ermächtigt die Bestimmung den Regierungsrat, Pilotprojekte im Hinblick auf neue Systeme der politischen Rechte durchzuführen oder
+an solchen mitzuwirken. Diese Mittel sollten es erlauben, die staatspolitischen, rechtlichen, technischen und finanziellen Implikationen besser beurteilen zu können.
+In der öffentlichen Vernehmlassung wurde die neue Bestimmung von einer Mehrzahl der Teilnehmenden begrüsst (Basta, GLP, Grüne, SP, Gewerbeverband, Gemeinden Riehen und Bettingen
+sowie die teilnehmende Privatperson; kritisch: EVP, FDP und LDP). Aufgrund der mehrheitlich positiven Rückmeldungen hat der Regierungsrat die Bestimmung unverändert im Ratschlag belassen.
+Es ist darauf hinzuweisen, dass der vorgeschlagene Gesetzestext den Regierungsrat zwar ermächtigt, aber nicht verpflichtet, entsprechende Studien und Pilotprojekte zu fördern.
+
+Seite 10/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+Festzuhalten bleibt, dass derzeit eine grosse Zahl unterschiedlicher Bestrebungen zur Reform der
+politischen Rechte im Kanton vorliegt (siehe die entsprechende Übersicht im Bericht des Regierungsrates vom 17. November 2021 zum Anzug Esther Keller, Ziffer 2). Diese zielen teilweise auf
+eine Erweiterung des Kreises der in kantonalen Angelegenheiten stimmberechtigten Personen
+(u.a. Stimm- und Wahlrecht ab 16 Jahren, Stimm- und Wahlrecht für Personen unter umfassender
+Beistandschaft), teilweise betreffen sie die Digitalisierung der Instrumente der politischen Rechte
+(E-Voting und E-Collecting), teilweise verschiedene Rahmenbedingungen von Urnengängen. Die
+Behandlung dieser Reformbestrebungen geniesst für den Regierungsrat Priorität gegenüber der
+im Anzug angestossenen grundsätzlichen Umgestaltung der Meinungsäusserung bei Wahlen und
+Abstimmungen.
+
+3.3
+
+Befragungen von Stimmberechtigten
+
+3.3.1
+
+§ 15b Wahlgesetz (neu)
+1.D Befragungen von Stimmberechtigten
+§ 15b
+1
+Der Regierungsrat kann nach Abstimmungen
+Befragungen von Stimmberechtigten in Auftrag
+geben, insbesondere wenn
+a) es für die Umsetzung des Volksentscheids oder die Planung des weiteren
+Vorgehens von wesentlicher Bedeutung
+ist, die Beweggründe der Stimmberechtigten zu kennen;
+b) der Anteil der Ja-Stimmen zwischen
+49% und 51% liegt;
+c) das Abstimmungsergebnis von der Abstimmungsempfehlung des Grossen Rates sowie den gleichlautenden Abstimmungsempfehlungen aller Parteien, die
+eine Fraktion im Grossen Rat bilden, abweicht.
+2
+Die Ergebnisse der Befragungen werden veröffentlicht.
+
+3.3.2
+
+Kommentar
+
+Der im Mai 2021 vom Grossen Rat überwiesene Anzug Luca Urgese und Konsorten betreffend
+regelmässige Befragungen nach Wahlen und Abstimmungen zielt auf die Durchführung regelmässiger Nachbefragungen im Auftrag des Kantons im Nachgang zu kantonalen Urnengängen ab.
+Durch die Kenntnis der Beweggründe der Stimmberechtigten für ihr Abstimmungsverhalten könnten die Volksentscheide besser verstanden und dadurch könnte besser auf die Bedürfnisse der
+Stimmberechtigten reagiert werden, so die Begründung des Vorstosses. Auf Bundesebene würden
+solche Vox- bzw. Voto-Analysen zu jeder Abstimmung in Auftrag gegeben. Die Erkenntnisse solcher Analysen flössen in die politische Arbeit mit ein. Der Anzug verweist zudem auf ein (mittlerweile beendetes) Projekt des Zentrums für Demokratie im Kanton Aargau, bei welchen nach jedem
+Urnengang mindestens 1'000 Aargauer Stimmberechtigte befragt wurden. Die Finanzierung der
+Studien solle über den Swisslos-Fonds erfolgen. Die Entscheidmotive der Stimmbevölkerung besser zu verstehen, würde zu besseren politischen Entscheiden führen und sei daher als gemeinnützig zu beurteilen (21.5221.01).
+Nachanalysen nach Wahlen und Abstimmungen sind Instrumente der Meinungsforschung. Sie werden in der Regel von auf demoskopische Untersuchungen spezialisierten Instituten durchgeführt.
+Diese befragen in den Tagen und Wochen nach einem Urnengang in einer Stichprobe ausgewählte
+
+Seite 11/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+Personen nach den Motiven für ihr jeweiliges Abstimmungs- bzw. Wahlverhalten. Die Befragungen
+erfolgen telefonisch, per Fragebogen in Papierform oder per Online-Fragebogen. Die Ergebnisse
+der Umfragen werden in der Regel anschliessend modelliert, d. h. sie werden den statistischen
+Grössen der Demografie, Geografie und politischen Einstellung angepasst, mit dem Ziel, das Ergebnis anschliessend auf die gesamte jeweilige Stimmbevölkerung hochzurechnen. Ebenfalls Teil
+der Analysen ist die Erläuterung und Interpretation der Abstimmungs- bzw. Wahlergebnisse.
+Regelmässige Nachbefragungen nach Wahlen und Abstimmungen werden heute im Kanton BaselStadt nicht durchgeführt. Der Kanton gibt aber im Einzelfall, insbesondere nach knappem Ausgang,
+Nachanalysen in Auftrag, wenn dies der besseren Umsetzung einer in der Volksabstimmung angenommenen Vorlage bzw. der besseren politischen Neuorientierung nach der Ablehnung einer
+Vorlage dient. In den vergangen fünfzehn Jahren wurden nach den folgenden kantonalen Abstimmungen beim Meinungsforschungsinstitut gfs Bern Nachanalysen in Auftrag gegeben:
+
+
+
+
+
+
+
+Grossratsbeschluss vom 12. Juni 2013 betreffend Zonenänderung, Festsetzung eines Bebauungsplanes im Bereich Clarastrasse, Riehenring und Drahtzugstrasse (Areal Claraturm); Abstimmung vom 24. November 2013. Die Vorlage wurde mit 52,91% Ja-Stimmen
+angenommen. Kosten der Nachanalyse: 37'798.90 Franken.
+Grossratsbeschluss vom 15. Januar 2014 betreffend Stadtrandentwicklung Ost, Abstimmung vom 28. September 2014. Die Vorlage wurde mit 50,77% Nein-Stimmen abgelehnt.
+Kosten der Nachanalyse: 44'750.85 Franken.
+Grossratsbeschluss vom 12. September 2018 betreffend Staatsvertrag zwischen den Kantonen Basel-Stadt und Basel-Landschaft über die Universitätsspital Nordwest AG und Beteiligungsgesetz USNW, Abstimmung vom 10. Februar 2019. Die Vorlage wurde mit
+55,95% Nein-Stimmen abgelehnt. Kosten der Nachanalyse: 47'750.95 Franken.
+Grossratsbeschluss vom 23. April 2020 betreffend Änderung des Gesetzes über die Wohnraumförderung (Wohnraumfördergesetz, WRFG), Abstimmung vom 29. November 2020.
+Die Vorlage wurde mit 50,05% Ja-Stimmen angenommen. Kosten der Nachanalyse:
+39'514.05 Franken.
+
+Die Bundeskanzlei lässt im Auftrag des Bundesrates seit den 1970er-Jahren Nachwahlbefragungen nach eidgenössischen Urnengängen durchführen. Die gesetzliche Grundlage bildet Art. 11 des
+Regierungs- und Verwaltungsorganisationsgesetzes (RVOG; SR 172.010), wonach der Bundesrat
+verpflichtet ist, die Beziehungen zur Öffentlichkeit zu pflegen. Der laufende Vertrag des Bundes mit
+dem Institut gfs für die sogenannten VOX-Analysen nach jedem eidgenössischen Abstimmungstermin im Zeitraum vom 1. August 2020 bis zum 31. Dezember 2027 hat ein Volumen von 1,6 Millionen Franken.
+Die Staatskanzlei hat im Zusammenhang mit der Beantwortung des Anzugs eine Umfrage bei den
+Kantonen durchgeführt. Diese ergab, dass in keinem der 20 teilnehmenden Kantone regelmässige
+Nachanalysen nach Abstimmungen oder Wahlen durchgeführt werden. Auch Nachbefragungen im
+Einzelfall werden nur sehr selten in Auftrag gegeben (in zwei von 20 Kantonen). Verschiedene
+Kantone hielten fest, regelmässige Nachbefragungen nach Abstimmungen stellten keine öffentliche Aufgabe dar.
+In seiner Stellungnahme zum Anzug vom 15. März 2023 (21.5221.02) hielt der Regierungsrat fest,
+der Kanton mache vom Instrument der Nachbefragung dann Gebrauch, wenn aufgrund der Ergebnisse einer solchen Analyse ein Volksentscheid voraussichtlich besser umgesetzt bzw. wenn die
+kantonale Politik noch spezifischer dem Volkswillen entsprechend gestaltet werden könne. In diesen Fällen dienten Nachanalysen der Erfüllung der öffentlichen Aufgaben des Kantons. Daher beabsichtige der Regierungsrat, auch zukünftig in solchen Fällen Nachanalysen nach Abstimmungen
+in Auftrag zu geben. Die Durchführung von Nachbefragungen allein zur Information der Öffentlichkeit diene hingegen nicht der Erfüllung einer öffentlichen Aufgabe des Kantons. Der Kanton sei zur
+Information der Öffentlichkeit hinsichtlich seiner Tätigkeit verpflichtet (vgl. § 20 des Gesetzes über
+die Information und den Datenschutz; IDG). Beschaffung und Verbreitung anderer Informationen,
+und seien sie auch von politischem Interesse, oblägen nicht den kantonalen öffentlichen Organen.
+
+Seite 12/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+Es bestehe kein Auftrag des Verfassungs- oder Gesetzgebers, politische Ereignisse und Prozesse
+zu analysieren. Deren Darstellung und Untersuchung seien vielmehr Aufgaben der unabhängigen
+Medien sowie der Wissenschaft. Sollte hieran etwas geändert werden, wäre die Schaffung einer
+entsprechenden gesetzlichen Grundlage nötig.
+Neben diesen grundsätzlichen Überlegungen sprachen für den Regierungsrat aber auch die Kosten sowie die Finanzierungsmöglichkeiten gegen die Durchführung regelmässiger Nachanalysen
+durch den Kanton. Die vom Kanton in der jüngeren Vergangenheit in Auftrag gegebenen Nachanalysen kosteten rund 38'000 bis rund 48'000 Franken pro Befragung. Es sei davon auszugehen,
+dass auch die Kosten regelmässiger Nachanalysen in dieser Grössenordnung liegen würden. Angenommen, es würden jährlich zu drei bis fünf kantonalen Abstimmungsvorlagen Nachanalysen
+durchgeführt, wäre mit jährlichen Kosten im sechsstelligen Bereich zu rechnen. Hieran würde auch
+eine Zusammenarbeit mit dem Fachbereich Politikwissenschaft der Universität Basel, wie sie im
+Anzug angeregt wird, nichts Grundlegendes ändern: Auch die Universität würde ihre Aufwendungen und diejenigen ihrer Unterbeauftragten in Rechnung stellen.
+Die Kosten für regelmässige Nachbefragungen müssten mit Mitteln aus dem ordentlichen Budget
+des Kantons finanziert werden. Eine Finanzierung von Nachanalysen mit Mitteln aus dem kantonalen Swisslos-Fonds, wie sie im Anzug angeregt wird, wäre aus rechtlichen Gründen nicht möglich: Im Kanton Aargau, auf welchen sich die Anzugstellenden beispielhaft berufen, dürfen Mittel
+aus dem Swisslos-Fonds unter anderem «für wissenschaftliche und soziale Vorhaben von allgemeinem Interesse» (§ 2 Abs. 2 lit. f der Verordnung über die Verwendung der Mittel des SwisslosFonds [des Kantons Aargau]; SAR 611.115) verwendet werden. Die basel-städtische Verordnung
+über die Verwendung von Geldern aus dem Swisslos-Fonds (Swisslos-Fonds-Verordnung;
+SG 561.120) sieht einen entsprechenden Verwendungszweck nicht vor. Aus dem Swisslos-Fonds
+werden in Basel-Stadt Beiträge für gemeinnützige oder wohltätige Zwecke im sozialen, kulturellen
+oder sportlichen Bereich ausgerichtet (§ 2 Abs. 1 Swisslos-Fonds-Verordnung). Anders als im Kanton Aargau liegen in Basel-Stadt wissenschaftliche Studien nicht im Förderbereich, da sich der
+Kanton bereits massgeblich an der Forschung durch die Universität Basel beteiligt. Nachbefragungen nach Volksabstimmungen haben keinen gemeinnützigen Zweck im Sinne der Swisslos-FondsVerordnung, da nicht die breite Allgemeinheit, sondern nur gewisse, politisch stark interessierte
+Personen profitieren würden. Ein weiterer Hinderungsgrund für die Finanzierung von regelmässigen Nachbefragungen aus dem kantonalen Swisslos-Fonds besteht in § 3 Abs. 2 Swisslos-FondsVerordnung, welcher vorsieht, dass Projektunterstützungen in der Regel einmaliger Natur sind,
+weshalb grundsätzlich keine wiederkehrenden Projekte finanziert werden.
+In der Diskussion zur Stellungnahme des Regierungsrates anlässlich der Sitzung des Grossen Rates vom 26. April 2023 anerkannten diverse Sprechende die Argumente des Regierungsrates gegen eine Umsetzung des Anzugs. Dennoch vertrat eine Mehrheit des Rates, die Beweggründe für
+das Stimmverhalten sowie deren Erforschung seien von öffentlichem Interesse. Der Vorstoss verlange nicht permanente Befragungen nach jeder Volksabstimmung. Es wurde vorgebracht, der Begriff «regelmässig» könne auch so ausgelegt werden, dass dargelegt werde, in welchen Fällen
+Nachanalysen durchgeführt werden sollten. Auch solle die Freiheit des Regierungsrates nicht beschnitten werden, zu entscheiden, in welchen Fällen Nachbefragungen durchzuführen seien. Wünschenswert sei aber die Definition von Leitlinien, welche vorgäben, in welchen Fällen Befragungen
+in Auftrag gegeben werden sollten.
+Der Regierungsrat anerkennt das Bedürfnis nach grösserer Nachvollziehbarkeit der Entscheide,
+wann Befragungen im Nachgang von Volksabstimmungen durchgeführt werden. Daher legt er mit
+dem neuen § 15b Wahlgesetz eine gesetzliche Grundlage vor, welche eine Leitlinie vorgibt, in welchen Fällen der Kanton eine Nachbefragung in Auftrag geben soll.
+Die Bestimmung ist bewusst als Kann-Bestimmung gestaltet, um zu signalisieren, dass die aufgeführten, alternativ anwendbaren Kriterien beim Entscheid, ob eine Nachbefragung in Auftrag gegeben werden soll, heranzuziehen sind, der Regierungsrat in seinem Entscheid aber frei bleibt.
+
+Seite 13/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+Gemäss dem neuen § 15b Abs. 1 lit. a Wahlgesetz kann eine Nachbefragung nach Abstimmungen
+durchgeführt werden, wenn es für die Umsetzung des Volksentscheids oder die Planung des weiteren Vorgehens von wesentlicher Bedeutung ist, die Beweggründe der Stimmberechtigten zu kennen. Mit dieser Formulierung werden diejenigen Fälle erfasst, in welchen schon bisher Nachbefragungen praxisgemäss in Auftrag gegeben wurden. Es geht zum einen um Fälle, wenn bei einem
+positiven Volksentscheid zu einer Vorlage verschiedene Wege der Umsetzung offenstehen und
+eine Untersuchung der Beweggründe der Stimmberechtigten der Verwaltung voraussichtlich helfen
+kann, den Entscheid im Sinne der Bevölkerung umzusetzen. Zum anderen muss die Verwaltung
+auch nach negativen Entscheidungen des Souveräns oftmals nächste Schritte planen, da ein Nichthandeln nicht opportun ist. Auch in diesen Fällen kann es dienlich sein, die Motive der Stimmberechtigen näher zu kennen.
+§ 15b Abs. 1 lit. b Wahlgesetz setzt hingegen bei einem arithmetischen Grund an, um eine Nachbefragung in Auftrag zu geben: Die Erfahrung zeigt, dass es besonders bei einem sehr knappen
+Abstimmungsausgang politisch von Interesse sein kann, die oftmals vielschichtigen Beweggründe
+der Stimmberechtigen für ihr Abstimmungsverhalten zu kennen. Häufig liegt in diesen Fällen die
+Motivlage weniger «auf der Hand» als bei einem eindeutigen Ausgang. Daher kann der Regierungsrat eine Nachbefragung in Auftrag geben, wenn der Ja-Stimmenanteil zwischen 49% und
+51% liegt.
+Das in § 15b Abs. 1 lit. c Wahlgesetz genannte dritte Kriterium geht auf die Grossratsdebatte vom
+26. April 2023 zurück. Dort wurde vorgebracht, es interessiere, welche Beweggründe vorlägen,
+wenn eine Mehrheit der Bevölkerung entgegen den Empfehlungen aller Parteien und der Behörden
+abstimme. Um Klarheit zu schaffen, wann (gleichlautende) «Empfehlungen aller Parteien» vorliegen, wurde das Kriterium eingegrenzt auf diejenigen Parteien, die im Grossen Rat eine Fraktion
+bilden. Der Regierungsrat ist der Auffassung, dass es tatsächlich von besonderem politischem Interesse sein kann, die Beweggründe der Stimmberechtigten zu erfahren, wenn diese entgegen den
+übereinstimmenden Empfehlungen des Grossen Rates und der massgeblichen politischen Parteien entscheiden.
+In der Vernehmlassung wurde eine Variante dieser Bestimmung zur Beurteilung vorgelegt, welche
+sich auf das Kriterium gemäss § 15b lit. a Wahlgesetz beschränkte. In den meisten Stellungnahmen
+wurde die Bestimmung grundsätzlich begrüsst (Basta, EVP, FDP, GLP, Grüne, SP, Gewerbeverband, Gemeinde Riehen). Auf Kritik stiess aber, dass keine weiteren, konkreteren Kriterien genannt
+würden (FDP, Grüne, Gewerbeverband). Aufgrund der Rückmeldungen in der Vernehmlassung
+wurde die Bestimmung angepasst, indem die beiden weiteren Kriterien, welche für die Durchführung einer Nachbefragung sprechen, aufgenommen wurden (§ 15b lit. b und c Wahlgesetz).
+Ebenfalls kritisiert wurde, dass keine zwingende Veröffentlichung der Befragungsergebnisse vorgesehen war (Basta, SP). An den Ergebnissen demoskopischer Befragungen nach Wahlen und
+Abstimmungen besteht tatsächlich in aller Regel ein erhebliches öffentliches Interesse. Daher
+wurde § 15b Abs. 2 Wahlgesetz ebenfalls angepasst. Die Bestimmung sieht nun vor, dass die
+Ergebnisse von Nachbefragungen zu veröffentlichen sind.
+3.3.3
+
+Anzug Conradin Cramer und Daniel Goepfert betreffend «Aufschlüsselung von
+Wahl- und Abstimmungsresultaten nach Quartieren» (14.5352)
+
+Der Anzug Conradin Cramer und Daniel Goepfert betreffend «Aufschlüsselung von Wahl- und Abstimmungsresultaten nach Quartieren» verlangt, dass die Wahl- und Abstimmungsresultate der
+Stadt Basel nach Quartieren differenziert werden bzw. dass der Regierungsrat dem Grossen Rat
+die hierzu notwendigen gesetzlichen Grundlagen vorlegt. Was in Bern, Zürich und Genf schon länger praktiziert werde, solle auch in Basel realisiert werden. Der Regierungsrat hat dem Grossen
+Rat mit Schreiben vom 30. Mai 2017 sowie vom 14. Oktober 2020 zu diesem Vorstoss berichtet
+und aufgezeigt, dass auch nach der Einführung der maschinenlesbaren Stimmzettel eine Aufschlüsselung der Wahl- und Abstimmungsresultate der Stadt Basel nach Quartieren technisch nicht
+
+Seite 14/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+ohne weiteres möglich ist. Er stand dabei einer Auswertung von Abstimmungsergebnissen nach
+Quartieren aufgrund von Überlegungen zum Schutz des Stimmgeheimnisses sowie zu den nötigen
+finanziellen Aufwendungen kritisch gegenüber. An dieser Haltung des Regierungsrates hat sich
+nichts geändert.
+Zu bedenken ist überdies, dass quartierbezogene Auswertungen der Abstimmungsergebnisse das
+Risiko einer gesellschaftlichen Spaltung mit sich brächten. Die Teilergebnisse der Quartiere könnten politisch gegeneinander ausgespielt werden; einzelne Quartiere könnten Forderungen aus den
+rechtlich nicht relevanten Teilergebnissen ableiten. Zudem wäre fraglich, welche Aussagekraft
+quartierbezogene Wahl- und Abstimmungsergebnisse hätten bzw. welche Schlussfolgerungen
+diese überhaupt zulassen würden.
+Den im Anzug Cramer und Goepfert verlangten quartierweisen Aufschlüsselungen der Abstimmungs- und Wahlergebnisse sind daher die neu gestützt auf den Anzug Luca Urgese und Konsorten betreffend regelmässige Befragungen nach Wahlen und Abstimmungen gesetzlich geregelten
+demoskopischen Nachbefragungen als passendes Instrument für weitergehende Analysen von
+Wahl- und Abstimmungsergebnissen entgegenzusetzen. Mittels wissenschaftlicher Nachbefragungen können Abstimmungsergebnisse im Einzelfall nach jeweils interessierenden Parametern analysiert werden, womit diese sehr viel effizienter sind, wenn es darum geht, das Stimmverhalten der
+Stimmberechtigten vertieft zu untersuchen. Auch die in den Schreiben vom 30. Mai 2017 sowie
+vom 14. Oktober 2020 angedachten sozio-demografischen Auswertungen der Stimmbeteiligung
+erübrigen sich damit, da deren Erkenntniswert ebenfalls hinter demjenigen von analytischen Nachbefragungen von Stimmberechtigten zurückbleibt. Mit der vorgeschlagenen Umsetzung des Anzugs Urgese beantragt der Regierungsrat daher die Abschreibung des Anzugs Cramer und Goepfert.
+
+3.4
+
+Festlegung des Abstimmungstermins
+
+3.4.1
+
+§ 16 Wahlgesetz (geändert)
+
+Gesetz über Wahlen und Abstimmungen
+neu
+vom 21. April 1994
+§ 16 Festlegung des Termins
+§ 16 Festlegung des Termins
+1
+Der Regierungsrat setzt den Wahl- und Ab- 1 Der Regierungsrat setzt den Wahl- und Abstimmungstermin fest. Wahlen sind in der Regel stimmungstermin fest. Wahlen und Abstimmundrei Monate, Abstimmungen zwei Monate vor- gen sind in der Regel drei Monate, Abstimmunher bekanntzugeben.
+gen zwei Monate vorher bekanntzugeben.
+3.4.2
+
+Kommentar
+
+Ein ursprünglich als Motion eingereichter, vom Grossen Rat in einen Anzug abgewandelter Vorstoss Harald Friedl und Konsorten betreffend Verlängerung der Frist für die Festlegung von Abstimmungen (18.5190) verlangt, dass die Frist zur Bekanntgabe von Abstimmungsterminen durch
+den Regierungsrat von zwei auf drei Monate verlängert und damit an die Frist zur Bekanntgabe
+von Wahlterminen angeglichen werden soll. Im Text des Vorstosses wird dazu ausgeführt, die heutige Ankündigungszeit für Abstimmungen sei für die Parteien sowie Organisationen herausfordernd
+knapp und hemme, vor allem bei umstrittenen Vorlagen, den politischen und demokratischen Meinungsbildungsprozess. In diesem kurzen Zeitraum müssten die innerparteiliche Meinungsbildung
+zur definitiven Vorlage, die Parolenfassung sowie Vorbereitung und Ausführen einer Kampagne bis
+hin zu einer öffentlichen Debatte erfolgen. Bei einer Verlängerung der Frist von zwei auf drei Monate sei es immer noch möglich, die kantonalen Vorlagen auf die nationalen abzustimmen, da der
+Bundesrat die eidgenössischen Abstimmungsvorlagen bereits vier Monate im Voraus bestimme
+(18.5190.01).
+
+Seite 15/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+Der Regierungsrat erklärte in seinen Stellungnahmen zum Anzug Friedl (18.5190.02, 18.5190.03
+und 18.5190.04), er erachte das Anliegen des Vorstosses als nachvollziehbar. Zugleich gab er zu
+bedenken, die heutige Regelung sei grundsätzlich ein bewährter und gut eingespielter Kompromiss
+zwischen Verfahrensökonomie, Beratungsdauer und Meinungsbildungsprozess. Zu berücksichtigen sei insbesondere die Rahmenfrist von 18 bzw. 24 Monaten vom Zustandekommen einer Volksinitiative bis zur Abstimmung gemäss § 24a Abs. 1 und 2 des Gesetzes betreffend Initiative und
+Referendum (IRG; SG 131.100). Innerhalb dieser Rahmenfrist seien folgende weiteren Fristen zu
+beachten:
+- drei Monate für den Antrag des Regierungsrates an den Grossen Rat betreffend rechtliche
+Zulässigkeit einer zustande gekommenen Initiative und zum weiteren Verfahren
+(§ 13 Abs. 1 IRG);
+- sechs Monate für einen Bericht des Regierungsrates bzw. einer Grossratskommission an
+den Grossen Rat (§ 19 Abs. 1 IRG);
+- die vorliegend fragliche Frist von zwei Monaten für die Bekanntgabe der Abstimmungsvorlagen (§ 16 Abs. 1 Wahlgesetz).
+Bei einer Verlängerung der Frist zur Bekanntgabe der Abstimmungsvorlagen müsste aufgrund der
+Rahmenfrist eine der Fristen zur Berichterstattung gekürzt werden. Die Einhaltung dieser knapp
+bemessenen Fristen sei aber schon heute eine grosse Herausforderung. Würde die Frist zur Bekanntgabe der Abstimmungsvorlage verlängert, ohne die Berichterstattungsfristen zu ändern,
+würde wiederum der ebenfalls bereits heute sehr kurze Zeitraum, der dem Grossen Rat zur Beratung der Initiativen bleibt, verkürzt werden. Dies erachtete der Parlamentsdienst als problematisch,
+zumal auch diese Zeit ohnehin schon äusserst knapp bemessen sei. Bereits eine Kürzung um einen weiteren Monat vergrössere den Druck auf eine sorgfältige politische Diskussion beträchtlich.
+Hinzu komme, dass die genannten Fristen de facto ohnehin kürzer als aufgeführt ausfallen würden,
+da einerseits die Drei-Wochen-Frist für die Traktandierung eines Berichts im Grossen Rat berücksichtigt werden müsse; andererseits werde auch die Zuweisungen durch das Ratsbüro nur einmal
+monatlich vorgenommen. Weiter müsse beachtet werden, dass in den Monaten Juli und August
+keine Kommissionssitzungen stattfinden und gar erst jeweils im September wieder eine Grossratssitzung angesetzt werde. Aus diesen Gründen lehnte der Regierungsrat die Verlängerung für die
+Bekanntgabe der Abstimmungsvorlagen von zwei auf drei Monate ab. Mit Beschluss vom
+23. Juni 2022 überwies der Grosse Rat, entgegen dem regierungsrätlichen Antrag, den Anzug
+Friedl der JSSK zur Berichterstattung. Die Kommission behandelte die Vorlage an zwei Sitzungen
+und lud dazu Vertreterinnen und Vertreter des Präsidialdepartements/Staatskanzlei ein. Diskutiert
+wurde insbesondere die Möglichkeit einer moderaten Anhebung der gesetzlich vorgesehenen Gesamtfrist zur Behandlung von Initiativen, ohne dadurch den Grundsatz, dass Initiativen durch Exekutive und Parlament zügig zu behandeln sind, aufzuweichen. Werden die Rahmenfristen gemäss
+§ 24a Abs. 1 und 2 IRG im gleichen Umfang verlängert wie die Frist für die Bekanntgabe der Abstimmungsvorlagen, also um einen Monat, so können Prüfung, Berichterstattung und Beratung von
+kantonalen Volksinitiativen weiterhin im seit Jahren eingespielten Rahmen erfolgen. Der Regierungsrat beantragt daher die vorliegende Änderung von § 16 Wahlgesetz zusammen mit einer entsprechenden Anpassung von § 24a Abs. 1 und 2 IRG (vgl. unten 4.1).
+In der Vernehmlassungsvorlage war eine Umsetzung des Anzugs Friedl nicht vorgesehen, was auf
+Kritik mehrerer Vernehmlassungsteilnehmenden stiess (FDP, GLP, Grüne, SP und Gewerbeverband). Aufgrund dieser Kritik wurde dem Vorstoss mit der vorliegenden Anpassung von § 16 Wahlgesetz sowie mit der Änderung von § 24a IRG entsprochen.
+
+Seite 16/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+3.5
+
+Einreichung von Wahlvorschlägen
+
+3.5.1
+
+§ 35 Wahlgesetz (geändert)
+
+Gesetz über Wahlen und Abstimmungen
+neu
+vom 21. April 1994
+§ 35 Einreichung
+§ 35 Einreichung
+1
+Wahlvorschläge sind dem zuständigen Depar1
+Wahlvorschläge sind dem zuständigen Departement auf dem amtlichen Formular einzutement auf dem amtlichen Formular einzureichen. Sie müssen spätestens am achtletzten
+reichen. Sie müssen spätestens am achtletzten
+neuntletzten Montag, 09.00 Uhr, vor dem WahlMontag, 09.00 Uhr, vor dem Wahlsonntag im
+sonntag im Besitz des Büros für Wahlen und
+Besitz des Büros für Wahlen und AbstimmunAbstimmungen sein.
+gen sein.
+2
+2
+…
+unverändert
+3.5.2
+
+Kommentar
+
+Vor sämtlichen eidgenössischen und kantonalen Wahlen können Stimmberechtigte beim zuständigen Präsidialdepartement (Staatskanzlei) Wahlvorschläge einreichen. Die Namen der gültig vorgeschlagenen Kandidierenden werden später auf Wahlzetteln aufgedruckt. § 35 Wahlgesetz definiert
+unter anderem den spätesten Zeitpunkt vor dem Wahltermin, an welchem Wahlvorschläge noch
+eingereicht werden können. Nach geltendem Recht müssen Wahlvorschläge spätestens am achtletzten Montag, 09:00 Uhr, vor dem Wahltermin beim zuständigen Departement eingereicht werden.
+In der folgenden Zeit bis zum Wahltermin muss die Staatskanzlei zahlreiche operative Vorbereitungen für die Wahlen treffen. Da die Stimmberechtigen die Stimmrechtsausweise (und mit diesen die
+weiteren Wahl- und Abstimmungsunterlagen) drei bis vier Wochen vor dem Wahltermin erhalten
+müssen (§ 5 Wahlgesetz), verbleiben der Staatskanzlei nur rund vier Wochen Zeit für die Prüfung
+und Bereinigung der Wahlvorschläge, die Vergabe der Ordnungsnummern, die Erstellung der
+Druckvorlagen sowie den anschliessenden Druck und Versand der Wahlunterlagen an die Stimmberechtigten. Für die Bereinigung der Wahlvorschläge gibt das kantonale Recht eine Frist von
+drei Tagen vor. Bei eidgenössischen Wahlen hingegen statuiert das Bundesrecht eine Bereinigungsfrist von mindestens einer Woche. Somit verbleiben bei den National- und Ständeratswahlen
+noch knapp drei Wochen für den Druck und Versand an die in der Schweiz wohnhaften Stimmberechtigten. Der Versand an die Auslandschweizer Stimmberechtigten erfolgt aber eine Woche früher aufgrund der teilweise langen Zustellfristen. Deshalb verbleiben schlussendlich eine bis maximal zwei Wochen für die Erstellung der Druckvorlagen für das Wahlmaterial. Zwar werden diese
+Unterlagen im Entwurf frühzeitig vorbereitet. Dennoch müssen die richtigen Namen und weiteren
+Angaben zu den Kandidierenden, den Listen und gegebenenfalls Listenverbindungen eingefüllt und
+anschliessend sorgfältig kontrolliert werden. Danach geht die Druckvorlage an die Druckerei, die
+wiederum bei der Staatskanzlei ein Gut-zum-Druck einholen muss. Dementsprechend hat sich die
+geschilderte Fristenlage in der Vergangenheit öfters als äusserst knapp erwiesen, was auch Auswirkungen auf die Möglichkeiten der Qualitätskontrolle hat.
+Seit der Aufnahme des Testbetriebs für die elektronische Stimmabgabe hat sich die Situation stark
+zugespitzt, da die Vorbereitung des elektronischen Urnengangs mit den Vorbereitungen für die
+herkömmlichen Stimmkanäle koordiniert werden muss. Insbesondere können erst nach Eingang
+der Wahlvorschläge die Sicherheits- und Prüfcodes auf den Stimmrechtsausweisen der Auslandschweizer Stimmberechtigten für die elektronische Stimmabgabe generiert werden. Dieser Vorgang kann in der Theorie zwar in das bestehende Fristengefüge eingeplant werden. Jedoch kam
+es in der Praxis schon vor, dass bei Abstimmungen dieser Termin (aus technischen oder personellen Gründen) verschoben werden musste. Für solche Backup-Termine bleibt aber insbesondere
+bei eidgenössischen Wahlen aufgrund der geschilderten Fristenlage keine Zeit. Die Fristenknappheit könnte somit zur Folge haben, dass der elektronische Stimmkanal kurzfristig ausfallen würde.
+
+Seite 17/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+Aus diesen Gründen soll die Frist gemäss § 35 Wahlgesetz moderat, um eine Woche, angepasst
+werden. Dies ermöglicht, die geschilderten Vorgänge mit etwas weniger Zeitdruck durchführen zu
+können und die Gefahr von Fehlern sowie eines verspäteten Versands der Wahlunterlagen zu minimieren.
+In der Vernehmlassung erklärten sich Basta, SP und die Einwohnergemeinden Riehen und Bettingen mit der Anpassung einverstanden. EVP, GLP und LDP äusserten sich kritisch zu der Änderung.
+Sie befürchteten einen erhöhten Zeitdruck bei der Suche nach Kandidierenden. Den Parteien und
+Gruppierungen, welche Wahlvorschläge einreichen möchten, entstehen durch diese geringfügige
+Anpassung aber keine spürbaren Nachteile, da die amtlichen Formulare zur Abgabe von Wahlvorschlägen bereits rund sechs Monate vor dem spätesten Einreichungstermin erhältlich sind. Die
+Staatskanzlei wird zudem ab Inkrafttreten der neuen Bestimmung die Formulare zur Einreichung
+der Wahlvorschläge bei kantonalen Gesamterneuerungswahlen sowie bei den Nationalratswahlen
+mindestens eine Woche früher als bisher zur Verfügung stellen, so dass die Parteien mindestens
+gleich lang wie bisher Zeit haben werden, um ihre Wahlvorschläge zu planen und einzureichen.
+Für die Staatskanzlei würde eine zusätzliche Woche Vorbereitungszeit demgegenüber einen entscheidenden Unterschied machen.
+Die weiteren Vernehmlassungsteilnehmenden äusserten sich nicht zu diesem Änderungsvorschlag.
+
+3.6
+
+Zuteilung der Sitze im Grossen Rat auf die Wahlkreise
+
+3.6.1
+
+§ 42 Wahlgesetz (geändert)
+
+Gesetz über Wahlen und Abstimmungen
+neu
+vom 21. April 1994
+§ 42 Einteilung
+§ 42 Einteilung
+1
+Für die Wahl ist der Kanton in folgende Wahl- 1 unverändert
+kreise aufgeteilt: Grossbasel-Ost, GrossbaselWest, Kleinbasel, Riehen und Bettingen.
+2
+2
+Die Grenze zwischen Grossbasel-Ost und
+unverändert
+Grossbasel-West verläuft auf einer Linie, welche von der Kantonsgrenze bei Binningen dem
+Birsig bis zur Heuwaage folgt und von da durch
+den Steinengraben über den Holbeinplatz und
+durch den Leonhardsgraben, den Petersgraben
+und durch den obersten Teil des St. JohannsRheinwegs zum Rhein geht, wobei die Mitte
+der genannten Strassen und Plätze die Grenze
+bildet.
+3
+Die Wahl erfolgt in den einzelnen Wahlkreisen 3 Die Wahl erfolgt in den einzelnen Wahlkreisen
+nach dem Verhältnis deren Bevölkerung. Nach nach dem Verhältnis deren Bevölkerung. Nach
+jeder eidgenössischen Volkszählung wird durch jeder Spätestens neun Monate vor der Wahl
+Grossratsbeschluss die Zahl der den einzelnen wird durch Grossratsbeschluss anhand der
+Wahlkreisen zustehenden Sitze festgelegt.
+letzten veröffentlichten Daten der eidgenössischen Volkszählung wird durch Grossratsbeschluss die Zahl der den einzelnen Wahlkreisen zustehenden Sitze festgelegt.
+4
+Jeder Wahlkreis hat Anspruch auf mindestens 4 unverändert
+einen Sitz.
+
+Seite 18/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+3.6.2
+
+Kommentar
+
+Die Wahl des Grossen Rates findet nach dem Proporzwahlsystem statt (§ 30 Abs. 1 lit. a Wahlgesetz). Für die Wahl ist der Kanton in fünf Wahlkreise aufgeteilt, wobei die Wahl in den einzelnen
+Wahlkreisen nach dem Verhältnis deren Bevölkerung erfolgt (§ 42 Abs. 3 Satz 1 Wahlgesetz).
+§ 42 Abs. 3 Satz 2 Wahlgesetz bestimmt, dass nach jeder eidgenössischen Volkszählung die Sitzzahl pro Wahlkreis durch den Grossen Rat bestimmt wird. Zur Bestimmung der Bevölkerungszahlen der Wahlkreise sind die Daten der eidgenössischen Volkszählung heranzuziehen, da nur diese
+die statistisch relevante ständige Wohnbevölkerung wiedergeben. Das Statistische Amt des Kantons Basel-Stadt berechnet gestützt auf die Zahlen des Bundesamts für Statistik, wie viele Sitze im
+Grossen Rat jedem Wahlkreis zustehen.
+Von 1850 bis 2010 wurden die Volkszählungen alle zehn Jahre durchgeführt. Anschliessend wurden jeweils die Sitzzahlen für die folgenden Wahlen bis zur nächsten Volkszählung berechnet. Seit
+2010 erhebt der Bund gemäss Art. 1 des Bundesgesetzes über die eidgenössische Volkzählung
+vom 22. Juni 2007 (Volkszählungsgesetz, SR 431.112) aber jährlich Daten über die Bevölkerungsstruktur in der Schweiz. Damit besteht kein Anlass mehr für ein Vorgehen gemäss
+§ 42 Abs. 3 Satz 2 Wahlgesetz, denn es besteht kein Grund, die Zahl der den Wahlkreisen zustehenden Sitze im Grossen Rat jährlich festzulegen, da die Wahl des Grossen Rates nur alle vier
+Jahre stattfindet. Entsprechend ist diese Bestimmung so anzupassen, dass die Festlegung der Zahl
+der Sitze im Grossen Rat je Wahlkreis jeweils rechtzeitig vor jeder Gesamterneuerungswahl erfolgt.
+Aus Gründen der Rechtssicherheit und damit die Vorbereitungen der Wahl regulär und ohne Zeitdruck durchgeführt werden können, erscheint es als angezeigt, den Beschluss des Grossen Rates
+über die Zahl der den einzelnen Wahlkreisen zustehenden Sitze mindestens neun Monate vor der
+Wahl vorzunehmen. Heranzuziehen sind die jeweils aktuellsten veröffentlichen Volkszählungsdaten. Da die Daten der eidgenössischen Volkszählung für ein bestimmtes Jahr in der Regel erst
+einige Monate nach Beginn des Folgejahres vorliegen, wird für die Berechnung der Sitzverteilung
+auf die Wahlkreise auf die Daten der Volkszählung des vorletzten Jahres vor dem Wahljahr zurückzugreifen sein.
+Im Rahmen der Vernehmlassung bemerkten Basta und SP, die Volkszählungsdaten würden weitgehend aus den Einwohnerregistern der Gemeinden übernommen. Es sei daher fraglich, weshalb
+in der Bestimmung nicht direkt auf das Einwohnerregister abgestellt werde. Die Zahlen der Einwohnerregister werden aber durch das Bundesamt für Statistik bei der Erstellung der Volkszählungsdaten bereinigt und können daher von den Zahlen der Einwohnerregister abweichen. Nur die
+Zahlen der Volkszählung stellen die amtliche Feststellung der ständigen Wohnbevölkerung der
+Schweiz dar, weshalb auf diese abzustellen ist.
+
+3.7
+
+Streichungsregeln bei überzähligen Stimmen
+
+3.7.1
+
+§ 49a Wahlgesetz (neu)
+
+Gesetz über Wahlen und Abstimmungen
+vom 21. April 1994
+
+neu
+§ 49a Überzählige Stimmen
+1
+Enthält ein Wahlzettel den Namen einer kandidierenden Person mehr als dreimal, so bleiben die letzten Nennungen unberücksichtigt.
+2
+Enthält ein Wahlzettel mehr Namen, als Sitze
+zu vergeben sind, so bleiben die letzten vorgedruckten nicht handschriftlich kumulierten, danach die letzten handschriftlich ausgefüllten
+Namen unberücksichtigt.
+
+Seite 19/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+3.7.2
+
+Kommentar
+
+Bei der Wahl des Grossen Rates können die Stimmberechtigen so viele Stimmen abgeben, wie
+Sitze in ihrem Wahlkreis zu vergeben sind (§ 47 Abs. 2 Wahlgesetz). Sie können dabei einen Wahlzettel unverändert einlegen, dürfen aber auch Namen auf Wahlzetteln streichen, Namen von anderen Wahllisten ihres Wahlkreises eintragen (sog. panaschieren) oder einen Namen mehrfach
+aufführen (sog. kumulieren; § 48 Abs. 1 Wahlgesetz). Werden mehr Stimmen abgegeben, als Sitze
+im jeweiligen Wahlkreis zu vergeben sind, so bleiben diese unberücksichtigt (§ 49 Abs. 4 Wahlgesetz). Zudem darf eine Kandidatin oder ein Kandidat auf einem Wahlzettel höchstens dreimal aufgeführt werden (§ 48 Abs. 1 lit. c Wahlgesetz). Wird eine kandidierende Person viermal oder mehr
+aufgeführt, so dürfen die überzähligen Stimmen für diese Person bei der Auszählung nicht berücksichtigt werden (§ 49 Abs. 4 Wahlgesetz).
+Bei der Ermittlung des Wahlergebnisses werden die überzähligen Stimmen auf den Wahlzetteln
+von Mitarbeitenden des Wahlbüros durchgestrichen, damit sie bei der Auszählung nicht berücksichtigt werden. Das Wahlgesetz regelt bisher allerdings nicht, wie bei dieser Streichung vorzugehen ist, d. h. in welcher Reihenfolge überzählige Stimmen zu streichen sind. In der Praxis werden
+hierbei heute die Streichungsregeln, die der Bund für die Ermittlung der Ergebnisse der Nationalratswahlen aufgestellt hat, analog angewandt. Aus Gründen der Rechtssicherheit sollen die Streichungsregeln neu auch im kantonalen Wahlrecht ausdrücklich genannt werden.
+Bei der Prüfung der Wahlzettel bei der Wahl des Grossen Rates ist demnach folgendermassen
+vorzugehen: Vor der Streichung allfälliger überzähliger Stimmen für Kandidierende oder von Stimmen für überzählige Kandidierende ist zu prüfen, ob der Wahlzettel ungültig ist (§ 18 Wahlgesetz)
+oder ob er ungültige Stimmen enthält (§ 19 Wahlgesetz). Diese Wahlzettel bzw. Stimmen fallen bei
+der Ergebnisermittlung ausser Betracht (§ 22 Abs. 1 Wahlgesetz). Zudem sind bei der Wahl des
+Grossen Rates nur gültig vorgeschlagene Kandidierende wählbar (§ 47 Abs. 1 Wahlgesetz). Die
+Namen von Personen, die auf keiner Liste zur Wahl vorgeschlagen wurden, sind daher zu streichen.
+Anschliessend an diese Prüfungsschritte sind die allfälligen überzähligen Stimmen für eine kandidierende Person vom Wahlzettel zu streichen. Findet sich beispielweise auf einem Wahlzettel der
+Name einer Kandidatin fünfmal, so müssen zwei Nennungen gestrichen werden, da höchstens drei
+Stimmen pro kandidierende Person erlaubt sind. Bei den Nationalratswahlen sind gemäss dem
+nicht veröffentlichen Merkblatt der Bundeskanzlei zu den Streichungsregeln bei überzähligen Stimmen für eine kandidierende Person «die letzte(n) aufgeführte(n) Wiederholung(en)» zu streichen.
+Dies bedeutet, dass auf dem listenartig aufgebauten Wahlzettel die überzähligen Nennungen von
+unten nach oben zu streichen sind. Im angeführten Beispiel wären also die beiden untersten der
+fünf Nennungen der Kandidatin zu streichen. Dieses Vorgehen hält neu § 49a Abs. 1 Wahlgesetz
+fest.
+Danach ist zu prüfen, ob der Wahlzettel höchstens so viele Namen enthält, wie Sitze im jeweiligen
+Wahlkreis zu besetzen sind. Wurden mehr Stimmen abgegeben, müssen nun die überzähligen
+Namen gestrichen werden. Finden sich beispielsweise auf einem Wahlzettel eines Wahlkreises mit
+zehn Sitzen 13 Namen, so sind drei Namen zu streichen. Dabei ist gemäss § 49a Abs. 2 Wahlgesetz folgendermassen vorzugehen: Zuerst sind die letzten vorgedruckten nicht handschriftlich kumulierten Namen zu streichen. Hintergrund dieser Regelung ist die Annahme, dass die stimmberechtigte Person Kandidierende, die sie handschriftlich auf den Wahlzettel setzt (indem sie einem
+vorgedruckten Namen kumuliert oder eine kandidierende Person einer anderen Liste panaschiert),
+besonders unterstützen möchte und daher diese Namen zum Schutz des Wählerwillens nach Möglichkeit nicht gestrichen werden sollen. Stehen anschliessend immer noch zu viele Namen auf dem
+Wahlzettel, sind die letzten handschriftlich auf den Wahlzettel gesetzten Namen zu streichen, bis
+die Zahl der Namen auf dem Wahlzettel der Zahl der Sitze im jeweiligen Wahlkreis entspricht.
+
+Seite 20/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+Die neue Regelung der Streichung überzähliger Kandidierender in § 49a Abs. 2 Wahlgesetz folgt
+der entsprechenden Bestimmung im Bundesgesetz über die politischen Rechte vom 17. Dezember 1976 (BPR; SR 161.1). Art. 38 Abs. 3 BPR, der dieselbe Vorgehensweise für die Streichung
+überzähliger Namen auf den Wahlzetteln bei den Nationalratswahlen vorsieht, hat sich in der Praxis
+bewährt. Für eine analoge Übernahme der Bundesregelung ins kantonale Recht spricht zudem die
+Erleichterung der anspruchsvollen Tätigkeit der Mitarbeitenden des Wahlbüros, die hierdurch bei
+eidgenössischen und kantonalen Proporzwahlen dieselben Regeln anwenden können. Gleichzeitig
+würde dies die Weiterführung der bisherigen Praxis bedeuten, die im kantonalen Recht bislang
+nicht ausdrücklich verankert ist.
+Die neue Regelung wurde in der Vernehmlassung einhellig begrüsst.
+
+3.8
+
+Ermittlung des Wahlergebnisses bei Proporzwahlen
+
+3.8.1
+
+§ 54 Wahlgesetz (geändert)
+
+Gesetz über Wahlen und Abstimmungen
+vom 21. April 1994
+§ 54 Gleichheit der Quotienten
+1
+Haben zwei oder mehrere Listen auf den letzten Sitz zufolge Gleichheit der Quotienten das
+gleiche Anrecht, so hat die Liste den Vorrang,
+die bei der Teilung nach § 53 Abs. 2 den
+grössten Rest aufwies.
+2
+Sind auch die Restzahlen gleich, so erhält die
+Liste den Vorrang, deren Kandidatin oder deren Kandidat die grössere Stimmenzahl aufweist.
+3
+Ist auch die Stimmenzahl gleich, so entscheidet das Los.
+
+neu
+§ 54 Gleichheit der Quotienten
+1
+Haben zwei oder mehrere Listen auf den letzten Sitz zufolge Gleichheit der Quotienten das
+gleiche Anrecht, so hat die Liste den Vorrang,
+die bei der Teilung nach § 53 Abs. 2
+§ 52 Abs. 2 den grössten Rest aufwies.
+2
+
+unverändert
+
+3
+
+unverändert
+
+Der Grosse Rat sowie – im Falle seiner Einsetzung – der Verfassungsrat werden nach dem Poporzwahlsystem gewählt (§ 30 Wahlgesetz). Die §§ 50 bis 57 Wahlgesetz beschreiben das Vorgehen bei der Ermittlung der Sitzzuteilung bei Proporzwahlen in Wahlkreisen mit mehreren Sitzen.
+§ 50 hält den Grundsatz des Proporzwahlrechts fest, wonach die Verteilung der Sitze in einem
+Wahlkreis auf die einzelnen Listen im Verhältnis der Stimmenzahlen, die jede Liste in diesem Wahlkreis erhalten hat, erfolgt.
+§§ 52 bis 54 Wahlgesetz stellen im Einzelnen das Vorgehen der Mandatszuteilung dar, welches
+sich am sog. Sainte-Laguë-Verfahren orientiert. In der in § 52 geregelten ersten Verteilung wird die
+Summe aller Listenstimmen durch die Zahl der zu vergebenden Mandate geteilt. Die auf den Quotienten folgende ganze Zahl gilt als Wahlzahl. Jeder Liste werden nun so viele Sitze zugeteilt, als
+die Wahlzahl in ihrer Gesamtstimmenzahl enthalten ist.
+§§ 53 und 54 beschreiben das Vorgehen, wenn bei der ersten Verteilung gemäss § 52 nicht alle
+Mandate vergeben werden konnten. Gemäss § 53 Abs. 1 ist in diesen Fällen die Gesamtstimmenzahl jeder Liste durch die um eins erhöhte verdoppelte Zahl der auf sie gemäss § 52 Abs. 2 entfallenen Sitze zu teilen. § 53 Abs. 2 bestimmt dann: «Der erste noch offene Sitz wird jener Liste
+zugeteilt, die den grössten Quotienten aufweist.» Dieses Verfahren wird gemäss § 53 Abs. 3 wiederholt, bis alle Mandate vergeben sind.
+§ 54 regelt das anwendbare Verfahren, wenn auch mit dem Vorgehen nach § 53 keine Verteilung
+aller Mandate erfolgen kann, weil die Quotienten der Teilung nach § 53 Abs. 1 bei zwei oder mehr
+Listen gleich sind. In dieser Bestimmung muss eine Anpassung redaktioneller Art vorgenommen
+
+Seite 21/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+werden, indem ein falscher Verweis korrigiert wird. § 54 Abs. 1 ordnet an, diejenige Liste habe in
+diesem Fall den Vorrang, die bei der Teilung nach § 53 Abs. 2 den grössten Rest aufgewiesen
+habe. § 53 Abs. 2 beschreibt aber gar keine Teilung, sondern die Rechtsfolge der Teilung nach
+§ 53 Abs. 1. Tatsächlich gemeint ist der Rest, der den fraglichen Listen nach der ersten Verteilung
+gemäss § 52 Abs. 2 Wahlgesetz verbleibt.
+Der nun korrigierte redaktionelle Fehler hatte keine Konsequenzen für die Ermittlung von Wahlergebnissen. Der Kanton arbeitet seit langem mit derselben Software zur Ermittlung der Ergebnisse
+der Grossratswahlen. Diese Software war stets korrekt, im Sinne des nun korrigierten Verweises
+programmiert.
+Auch zu dieser Änderung gingen in der Vernehmlassung ausschliesslich positive Rückmeldungen
+ein.
+
+3.9
+
+Anpassung der Voraussetzungen der Wählbarkeit als Gerichtspräsidentin
+oder Gerichtspräsident
+
+3.9.1
+
+§ 64 Wahlgesetz (geändert)
+
+Gesetz über Wahlen und Abstimmungen
+vom 21. April 1994
+§ 64 Wählbarkeit
+1
+Wählbar ist, wer die gesetzlichen Voraussetzungen für das betreffende Amt erfüllt, auch
+wenn kein Wahlvorschlag eingereicht worden
+ist.
+2
+
+Wählbar als Regierungspräsidentin oder Regierungspräsident ist eine Person, die von der
+bzw. dem jeweiligen Stimmberechtigten gleichzeitig als Mitglied des Regierungsrates gewählt
+wird oder als Mitglied des Regierungsrates bereits gewählt ist.
+
+neu
+§ 64 Wählbarkeit
+1
+Wählbar als Mitglied des Regierungsrates
+oder des Ständerates ist, wer die gesetzlichen
+Voraussetzungen für das betreffende Amt erfüllt, auch wenn kein Wahlvorschlag eingereicht
+worden ist.
+2
+unverändert
+
+3
+
+Wählbar als Gerichtspräsidentin oder Gerichtspräsident ist eine Person, welche die gesetzlichen Voraussetzungen für das Amt erfüllt
+und für die ein gültiger Wahlvorschlag eingereicht worden ist.
+3.9.2
+
+Kommentar
+
+Die Mitglieder des Regierungsrates, die Regierungspräsidentin oder der Regierungspräsident, das
+Mitglied des Ständerates sowie die in einer Volkswahl zu wählenden Präsidentinnen und Präsidenten der Gerichte werden im Mehrheitswahlverfahren gewählt (§ 31 Wahlgesetz). Vor der Wahl können Personen, die die gesetzlichen Voraussetzungen für das entsprechende Amt erfüllen, schriftlich zur Wahl vorgeschlagen werden. Die Wahlvorschlagsformulare müssen von mindestens 30, im
+Einerwahlkreis Bettingen von mindestens zehn Stimmberechtigten unterzeichnet und spätestens
+am achtletzten (neu: neuntletzten) Montag vor der Wahl beim zuständigen Departement eingereicht
+werden (§§ 35 f. Wahlgesetz). Dieses überprüft anschliessend unter anderem, ob die vorgeschlagenen Personen die gesetzlichen Wählbarkeitsvoraussetzungen erfüllen, und fordert die Vertreterinnen und Vertreter der Wahlvorschläge gegebenenfalls auf, Unklarheiten und Mängel zu beheben
+(§ 38 Wahlgesetz).
+
+Seite 22/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+Anders als bei den Wahlen im Proporzwahlverfahren ist es bei Majorzwahlen aber möglich, nicht
+nur zur Wahl vorgeschlagene Personen zu wählen, sondern jede Person, die die gesetzlichen Voraussetzungen für das jeweilige Amt erfüllt (§ 64 Abs. 1 Wahlgesetz). Die Wahl nicht zur Wahl vorgeschlagener wählbarer Personen erfolgt, indem die stimmberechtigte Person deren Namen auf
+die leeren Linien auf dem Wahlzettel schreibt (§ 66 lit. b; § 68 lit. b Wahlgesetz). Die Namen der
+zur Wahl vorgeschlagenen Personen werden auf den Wahlzetteln vorgedruckt und können durch
+die Stimmberechtigten angekreuzt werden (§ 66 lit. a und § 68 lit. a Wahlgesetz).
+Die Wählbarkeit der jeweiligen Person ist Voraussetzung für die Gültigkeit einer Stimme
+(§ 19 lit. b Wahlgesetz). Daher muss das Vorliegen der Wählbarkeitsvoraussetzungen bei jeder
+einzelnen Stimmabgabe überprüft werden. Bei zur Wahl vorgeschlagenen Personen erfolgt diese
+Prüfung im Rahmen der Überprüfung der Wahlvorschläge mehrere Wochen vor dem Wahltermin.
+Dagegen kann die Wählbarkeit von nicht zur Wahl vorgeschlagenen Personen nicht im Vorfeld der
+Wahl, sondern erst im Rahmen der Kontrolle der Gültigkeit der Stimmen am Wahlwochenende
+vorgenommen werden. Diese Prüfung verursacht einigen Aufwand und muss unter hohem Zeitdruck bewältigt werden, um das Abstimmungsergebnis fristgerecht feststellen zu können.
+Bei der Volkswahl der Gerichtspräsidien besteht neben der Stimm- und Wahlberechtigung in kantonalen Angelegenheiten eine weitere gesetzliche Anforderung an die Wählbarkeit: In ein Gerichtspräsidium ist nur wählbar, wer über einen den gesetzlichen Anforderungen entsprechenden juristischen Abschluss verfügt. Verlangt ist entweder ein Lizenziat der Rechte oder ein Master of Law
+einschliesslich eines Bachelor of Law einer schweizerischen Universität (§ 12 Abs. 1 GOG). Ebenfalls wählbar sind Personen, welche einen Master of Law an einer ausländischen Universität erworben haben und zudem über ein kantonales Anwaltspatent verfügen (§ 12 Abs. 3 GOG). Auch
+das Vorliegen dieser Wählbarkeitsvoraussetzungen ist bei allen Personen, für welche bei einer
+Wahl von Gerichtspräsidien Stimmen abgegeben werden, zu prüfen. Bei Vorliegen eines Wahlvorschlags erfolgt diese Prüfung wiederum im Vorfeld der Wahl. Kandidierende Personen haben mit
+dem Wahlvorschlagsformular die nötigen Dokumente vorzulegen. Gegebenenfalls können durch
+das Wahlbüro weitere Abklärungen getroffen werden. Bei nicht zur Wahl vorgeschlagenen Personen, für die Stimmen abgegeben werden, muss das Vorliegen eines den gesetzlichen Anforderungen genügenden juristischen Abschlusses in jedem Einzelfall am Wahlwochenende überprüft werden. Da aber kein Register der Abschlüsse an den juristischen Fakultäten der schweizerischen
+Universitäten oder von ausländischen Universitäten besteht, ist eine Überprüfung der Wählbarkeitsvoraussetzungen in vielen Fällen und folglich eine vollständig korrekte Erfassung des Wahlergebnisses nicht möglich. Diese Rechtslage ist unbefriedigend. Daher schlägt der Regierungsrat
+vor, dass neu gemäss § 64 Abs. 3 Wahlgesetz bei der Volkswahl der Präsidentinnen und Präsidenten der Gerichte nur noch stimmberechtigte Personen wählbar sind, für welche ein gültiger
+Wahlvorschlag eingereicht worden ist.
+Durch diese Massnahme wird ermöglicht, die Wählbarkeit jeder kandidierenden Person vor dem
+Wahltermin zweifelsfrei zu überprüfen und damit ein vollständig korrektes Wahlergebnis festzustellen. Dies dient allen Stimmberechtigten, da diesen ein verfassungsrechtlicher Anspruch auf die
+korrekte Ermittlung von Wahl- und Abstimmungsergebnissen zukommt (als Ausfluss von
+Art. 34 Abs. 2 der Bundesverfassung bzw. § 11 Abs. 1 lit. v der Verfassung des Kantons BaselStadt). Die vorgeschlagene Änderung bringt mit sich, dass es künftig bei der Volkswahl der Gerichtspräsidien nur noch möglich ist, zur Wahl vorgeschlagene Personen zu wählen bzw. dass es
+für eine Kandidatur vorausgesetzt ist, dass ein gültiger Wahlvorschlag eingereicht wurde. Der Aufwand, um einen Wahlvorschlag einzureichen, ist aber gering. Die Staatskanzlei stellt die auszufüllenden Formulare im Internet zur Verfügung und berät Interessierte im Vorfeld der Wahl. Weiter ist
+darauf hinzuweisen, dass Stimmabgaben für nicht zur Wahl vorgeschlagene Personen in den letzten 20 Jahren keinerlei Bedeutung für das Wahlresultat hatten.
+Die Staatskanzlei hat bei der Ausarbeitung des vorliegenden Ratschlags eine Umfrage bei den
+Kantonen durchgeführt, um zu ermitteln, wie verbreitet das gesetzliche Erfordernis eines Wahlvorschlags im kantonalen Wahlrecht ist. Die Untersuchung ergab, dass 19 Kantone das Instrument
+
+Seite 23/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+des Wahlvorschlags bei Majorzwahlen kennen. In elf dieser Kantone stellt das Vorliegen eines
+gültigen Wahlvorschlags eine gesetzliche Voraussetzung der Wählbarkeit dar, und zwar nicht nur
+bei Volkswahlen der Gerichte, sondern bei sämtlichen Wahlen im Majorzverfahren (Kantone BE,
+FR, JU, NE, NW, OW, SO, SZ, TI, VS, ZG). Zwei weitere Kantone verlangen Wahlvorschläge nur
+bei gewissen Wahlen (Kantone AG und ZH). Fünf Kantone kennen zwar Wahlvorschläge, wählbar
+sind aber wie im Kanton Basel-Stadt bei allen Majorzwahlen sämtliche Personen, die stimmberechtigt sind und allfällige weitere Wählbarkeitsvoraussetzungen erfüllen (Kantone BL, LU, SG, TG,
+VD). Sieben Kantone kennen schliesslich keine Wahlvorschläge bei Majorzwahlen (Kantone AI,
+AR, GE, GL, GR, SH, UR). Es zeigt sich, dass eine grosse Zahl von Kantonen weitergeht als die
+hier vorgeschlagene Lösung, indem nicht nur bei Wahlen mit qualifizierten Wählbarkeitsvoraussetzungen, sondern bei sämtlichen Majorzwahlen das Vorliegen eines Wahlvorschlages verlangt wird.
+Genau die Hälfte der Kantone kennt das Gültigkeitserfordernis des Vorliegens von Wahlvorschlägen bei Majorzwahlen. Damit erscheint der Vorschlag, (nur) bei den Wahlen der Gerichtspräsidien
+neu das Vorliegen eines Wahlvorschlags als Wählbarkeitsvoraussetzung zu verlangen, als moderate und ausgewogene Lösung, welche sowohl das Ziel einer möglichst korrekten Ergebniserfassung wie auch einer möglichst geringen Beschränkung des Wahlrechts berücksichtigt.
+Aufgrund der Änderung von § 64 Abs. 3 werden § 66 Abs. 2 und 3, § 68 Abs. 2 und 3 sowie
+§ 78 Abs. 4 und 5 eingefügt.
+Die Ergänzung von § 64 Wahlgesetz blieb in der Vernehmlassung im Grundsatz unbestritten.
+Basta, EVP, Grüne, LDP, SP sowie die Gemeinde Riehen äusserten sich zustimmend, die weiteren
+Teilnehmenden gaben keine Stellungnahme ab. Die LDP schlug eine Anpassung des Verfahrens
+für den Fall vor, dass weniger Wahlvorschläge eingehen als Sitze zu besetzen sind. Dieser Vorschlag wurde aufgenommen und in der Änderung von § 66 Abs. 2 und 3, § 68 Abs. 2 und 3 sowie
+§ 78 Abs. 4 und 5 umgesetzt. Aufgrund der Rückmeldung von Basta wurde die Formulierung der
+Bestimmungen angepasst, um sie leichter verständlich zu machen.
+3.9.3
+
+§ 66 Wahlgesetz (geändert)
+
+Gesetz über Wahlen und Abstimmungen
+vom 21. April 1994
+§ 66 Amtliche Wahlzettel
+1
+Der amtliche Wahlzettel enthält:
+a) die bereinigten Wahlvorschläge in der
+Reihenfolge der ihnen zugewiesenen
+Ordnungsnummern und mit ihren Bezeichnungen;
+b) leere Linien in der Zahl der zu wählenden Kandidatinnen und Kandidaten;
+c) neben jedem Namen und jeder leeren
+Linie ein Feld zum Ankreuzen.
+
+neu
+§ 66 Amtliche Wahlzettel
+1
+unverändert
+
+2
+
+Der amtliche Wahlzettel bei der Volkswahl der
+Präsidentinnen und Präsidenten der Gerichte
+enthält:
+a) die bereinigten Wahlvorschläge in der
+Reihenfolge der ihnen zugewiesenen
+Ordnungsnummern und mit ihren Bezeichnungen;
+b) neben jedem Namen ein Feld zum Ankreuzen.
+3
+Werden bei der Volkswahl der Präsidentinnen
+und Präsidenten der Gerichte auch nach Bekanntgabe eines neuen Wahltermins und Ab-
+
+Seite 24/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+lauf einer Nachfrist zur Einreichung von Wahlvorschlägen weniger Personen fristgerecht zur
+Wahl vorgeschlagen, als Sitze zu besetzen
+sind, so enthält der amtliche Wahlzettel leere
+Linien in der Zahl der zu wählenden Kandidierenden und neben jeder leeren Linie ein Feld
+zum Ankreuzen.
+3.9.4
+
+Kommentar
+
+Die neue Regelung von § 64 Abs. 3 bedingt eine Anpassung bei der Gestaltung der amtlichen
+Wahlzettel: Da bei der Wahl der Präsidentinnen und Präsidenten der Gerichte neu nur noch zur
+Wahl vorgeschlagene Personen wählbar sein sollen, sind auf den Wahlzetteln keine leeren Linien
+mehr anzubringen. Ausnahme bildet der neu in § 78 Abs. 5 geregelte Fall, dass auch nach Bekanntgabe eines neuen Wahltermins sowie Ablauf einer Nachfrist zur Einreichung von Wahlvorschlägen weniger Personen fristgerecht zur Wahl vorgeschlagen wurden, als Sitze zu besetzen
+sind. In dieser speziellen Situation wird der Wahlzettel künftig nur leere Linien enthalten, da in
+dieser Wahl nur Sitze zu besetzen sind, für die keine Wahlvorschläge eingegangen sind.
+3.9.5
+
+§ 68 Wahlgesetz (geändert)
+
+Gesetz über Wahlen und Abstimmungen
+neu
+vom 21. April 1994
+§ 68 Ausfüllen der Wahlzettel
+§ 68 Ausfüllen der Wahlzettel
+1
+Die Stimmberechtigten können auf dem Wahl- 1 unverändert
+zettel:
+a) vorgedruckte Namen von Kandidatinnen und Kandidaten ankreuzen;
+b) Namen von wählbaren Personen auf
+die leeren Linien schreiben;
+c) angekreuzte vorgedruckte Namen oder
+auf leere Linien geschriebene Namen
+wieder durchstreichen.
+2
+Auf dem Wahlzettel der Volkswahl der Präsidentinnen und Präsidenten der Gerichte können die Stimmberechtigten:
+a) vorgedruckte Namen von Kandidierenden ankreuzen;
+b) angekreuzte vorgedruckte Namen wieder durchstreichen.
+3
+Werden bei der Volkswahl der Präsidentinnen
+und Präsidenten der Gerichte auch nach Bekanntgabe eines neuen Wahltermins und Ablauf einer Nachfrist zur Einreichung von Wahlvorschlägen weniger Personen fristgerecht zur
+Wahl vorgeschlagen, als Sitze zu besetzen
+sind, so können die Stimmberechtigten Namen
+von wählbaren Personen auf die leeren Linien
+schreiben und auf leere Linien geschriebene
+Namen wieder durchstreichen.
+3.9.6
+
+Kommentar
+
+Auch diese Bestimmung muss aufgrund des neuen Wählbarkeitserfordernisses von § 64 Abs. 3
+angepasst werden: Bei der Wahl der Präsidentinnen und Präsidenten der Gerichte können die
+Stimmberechtigten neu nur noch die Namen zur Wahl vorgeschlagener Personen ankreuzen oder
+
+Seite 25/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+angekreuzte Namen wieder streichen. Es entfällt bei dieser Wahl die Möglichkeit, die Namen nicht
+zur Wahl vorgeschlagener Personen auf den Wahlzettel zu schreiben. Die einzige Ausnahme bildet
+die Situation, dass auch nach Bekanntgabe eines neuen Wahltermins und Ablauf einer Nachfrist
+zur Einreichung von Wahlvorschlägen weniger Personen fristgerecht zur Wahl vorgeschlagen wurden, als Sitze zu besetzen sind (neuer § 78 Abs. 5). In diesem wenig wahrscheinlichen Fall können
+die Stimmberechtigten Namen von wählbaren Personen, welche nicht zur Wahl vorgeschlagen
+sind, auf die leeren Linien (vgl. den neuen § 66 Abs. 3) schreiben und auf leere Linien geschriebene
+Namen wieder durchstreichen.
+
+3.10
+
+Regelung des Rücktritts des Mitglieds des Ständerates
+
+3.10.1
+
+§ 77b Wahlgesetz (neu)
+
+Gesetz über Wahlen und Abstimmungen
+vom 21. April 1994
+
+neu
+§ 77b Rücktritt
+1
+Das Mitglied des Ständerates kann unter Einhaltung einer Frist von sechs Monaten gegenüber dem Grossen Rat schriftlich seinen Rücktritt erklären.
+2
+Bei Vorliegen besonderer Umstände kann das
+Mitglied des Ständerates seinen Rücktritt innert
+einer kürzeren Frist oder per sofort erklären.
+
+3.10.2
+
+Kommentar
+
+Von einem Rücktritt ist die Rede, wenn eine Amtsträgerin oder ein Amtsträger vor Ablauf der Amtsdauer auf eigenes Begehren hin aus dem Amt ausscheidet. Der Rücktritt der von den Stimmberechtigen gewählten Amtsträgerinnen und -träger ist heute in mehreren Erlassen geregelt. Der älteste unter ihnen ist der Grossratsbeschluss betreffend Abbitte der von der Gesamtheit der
+Stimmberechtigten gewählten Behördenmitglieder von ihren Stellen vom 27. Februar 1896
+(SG 162.300). Dieser Erlass enthält Bestimmungen über den Rücktritt sämtlicher von den Stimmberechtigten gewählten Behördenmitglieder sowie der Mitglieder des ehemaligen Gewerblichen
+Schiedsgerichts (des heutigen Arbeitsgerichts), wobei aufgrund des Wortlauts unklar ist, ob der
+Beschluss auch auf den Rücktritt des Mitglieds des Ständerates anwendbar ist.
+In jüngerer Zeit wurden die Modalitäten des Rücktritts gewisser Amtsträgerinnen und -träger in
+zwei Erlassen neu geregelt. Diese Regelungen gehen den älteren Bestimmungen des Grossratsbeschlusses von 1896 vor: Der Rücktritt aus dem Grossen Rat wurde in § 12 des Gesetzes über
+die Geschäftsordnung des Grossen Rates vom 29. Juli 2006 (GO; SG 152.100) normiert.
+§ 64 Abs. 1 des Gesetzes betreffend die Organisation der Gerichte und der Staatsanwaltschaft
+(GOG; SG 154.100) normiert das vorzeitige Ausscheiden aus dem Amt von Gerichtspräsidentinnen
+und Gerichtspräsidenten. § 64 Abs. 3 GOG regelt den Rücktritt der vom Regierungsrat gewählten
+Richterinnen und Richter und damit unter anderem der Mitglieder des Arbeitsgerichts bzw. des
+ehemaligen Gewerblichen Schiedsgerichts. Der Grossratsbeschluss von 1896 ist daher heute nur
+noch auf den Rücktritt der Regierungspräsidentin oder des Regierungspräsidenten, der Mitglieder
+des Regierungsrates und unter Umständen des Mitglieds des Ständerates anwendbar. (Der Rücktritt aus dem Nationalrat ist durch das Bundesrecht geregelt; vgl. Art. 54 ff. des Bundesgesetzes
+über die politischen Rechte vom 17. Dezember 1976; SR 161.1).
+Um Unklarheiten zu vermeiden, die Rechtslage hinsichtlich des Rücktritts des Mitglieds des Ständerates zu klären und zur besseren Lesbarkeit und Übersichtlichkeit des kantonalen Rechts ist es
+angezeigt, den noch anwendbaren Gehalt des Grossratsbeschlusses von 1896 in das moderne
+Gesetzesrecht zu übertragen und den Grossratsbeschluss zugleich aufzuheben. Die Neuregelung
+des Rücktritts der Regierungspräsidentin oder des Regierungspräsidenten sowie der Mitglieder des
+
+Seite 26/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+Regierungsrates ist in das Gesetz betreffend die Organisation des Regierungsrates und der Verwaltung des Kantons Basel-Stadt (Organisationsgesetz, OG; SG 153.100) aufzunehmen (vgl. unten 4.2). Da kein kantonales Gesetz besteht, welches sich im Besonderen dem Mitglied des Ständerates widmet, ist dessen Rücktritt im Wahlgesetz zu regeln.
+In der vorgeschlagenen neuen Regelung des Rücktritts des Mitglieds des Ständerats wurde die
+Formulierung gegenüber dem Grossratsbeschluss von 1896 modernisiert. In materieller Hinsicht
+ist anders als noch im Grossratsbeschluss von 1896 keine «Abbitte» bzw. kein Antrag der von den
+Stimmberechtigten gewählten Person mehr vorgesehen, aus dem Amt entlassen zu werden: Das
+Mitglied des Ständerates kann gegenüber dem Grossen Rat unter Einhaltung einer Frist von sechs
+Monaten schriftlich seinen Rücktritt erklären. Diese Regelung spiegelt die langjährige Praxis des
+Grossen Rates beim Rücktritt von Amtsträgerinnen und Amtsträgern, die von den Stimmberechtigten gewählt wurden: Der Grosse Rat verzichtet regelmässig auf eine Genehmigung des Rücktritts
+und nimmt diesen bloss zur Kenntnis. Eine rechtliche Notwendigkeit einer «Genehmigungspflicht»
+beim Rücktritt des Mitglieds des Ständerates oder anderer vom Volk gewählter Behördenmitglieder
+besteht nicht. Die Neuregelung entspricht in diesem Punkt zudem dem Recht anderer Kantone, die
+zwar Bestimmungen zum vorzeitigen Amtsverzicht geschaffen haben, aber keine Regelung einer
+Genehmigung des Rücktritts der Mitglieder des Ständerates (z. B. Art. 58 Gesetz über die politischen Rechte, Kanton Bern; § 57 Personalgesetz, Kanton Basel-Landschaft; Art. 113 Gesetz über
+Wahlen und Abstimmungen, Kanton St. Gallen; Art. 42bis Gesetz über die politischen Rechte, Kanton Appenzell Ausserrhoden). Zahlreiche Kantone kennen notabene gar keine Regelungen des
+Rücktritts des Mitglieds des Ständerates oder anderer vom Volk gewählten Repräsentanten, sie
+haben nur Bestimmungen über die anschliessenden Ersatzwahlen erlassen (z. B. Art. 93 Gesetz
+über die Ausübung der politischen Rechte, Kanton Freiburg; Art. 100a Loi sur l'exercice des droits
+politiques, Kanton Genf; Art. 39 Gesetz über die politischen Rechte, Kanton Glarus; Art. 17 Gesetz
+über die politischen Rechte im Kanton Graubünden; § 18 Wahl und Abstimmungsgesetz, Kanton Schwyz; Art. 85 Loi sur l’exercice des droits politiques, Kanton Waadt; Art. 134 Gesetz über die
+politischen Rechte, Kanton Wallis; § 57 Gesetz über die Wahlen und Abstimmungen, Kanton Zug).
+Die Rücktrittsfrist bleibt mit sechs Monaten im Vergleich zum Grossratsbeschluss von 1896 unverändert. Sie stellt sicher, dass der Wahlbehörde, den politischen Parteien und den Wahlberechtigten
+genügend Zeit zur Vorbereitung einer Ersatzwahl bleibt. Bei Vorliegen besonderer Umstände muss
+aber wie gemäss bisherigem Recht ein Rücktritt innert kürzerer Frist oder per sofort möglich sein.
+Dies wird in Abs. 2 der Bestimmung festgehalten. Zu denken ist an Rücktritte aus gesundheitlichen
+Gründen oder aufgrund der Wahl in ein anderes öffentliches Amt, dessen Ausübung mit dem Amt
+als Ständerat unvereinbar ist.
+Die neue Regelung zum Rücktritt des Mitglieds des Ständerates stiess auf einhellige Zustimmung
+unter den Vernehmlassungsteilnehmenden, die sich zu dieser Bestimmung verlauten liessen.
+Aufgrund der Einfügung von § 77b wird die Überschrift vor § 77 ergänzt (Wahl in den Ständerat
+und Rücktritt).
+
+Seite 27/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+3.11
+
+Verfahren bei Gerichtspräsidiumswahlen bei geringer Anzahl von Wahlvorschlägen
+
+3.11.1
+
+§ 78 Wahlgesetz (geändert)
+
+Gesetz über Wahlen und Abstimmungen
+vom 21. April 1994
+4.C.II.III Wahlen in die Gerichte
+§ 78 Anwendbare Vorschriften
+1
+Auf die Wahlen nach § 31 lit. c finden neben
+den Vorschriften dieses Gesetzes die Bestimmungen des Gerichtsorganisationsgesetzes
+(GOG) 8) Anwendung.
+2
+Die Wahlen können mit anderen Urnengängen zusammengelegt werden.
+3
+Eine Ersatzwahl findet innert nützlicher Frist
+statt.
+
+neu
+4.C.II.III Wahlen in die Gerichte
+§ 78 Anwendbare Vorschriften
+1‒3
+unverändert
+
+4
+
+Werden weniger Personen fristgerecht zur
+Wahl vorgeschlagen, als Sitze zu besetzen
+sind, so widerruft der Regierungsrat den angesetzten Wahlgang und erklärt die Vorgeschlagenen als gewählt. Für die Wahl zur Besetzung
+der restlichen Sitze setzt der Regierungsrat
+eine Nachfrist zur Einreichung von Wahlvorschlägen und gibt einen neuen Wahltermin bekannt.
+5
+Gehen innerhalb der Nachfrist gemäss Abs. 4
+weniger Wahlvorschläge ein, als Sitze zu besetzen sind, so widerruft der Regierungsrat den
+angesetzten Wahlgang teilweise und erklärt die
+Vorgeschlagenen als gewählt. Bei der Wahl zur
+Besetzung der restlichen Sitze ist jede Person
+wählbar, welche die gesetzlichen Voraussetzungen für das Amt erfüllt.
+3.11.2
+
+Kommentar
+
+Aufgrund der Änderung von § 64 Abs. 3 sind nur noch Personen als Gerichtspräsidentin oder Gerichtspräsident wählbar, die zur Wahl vorgeschlagen worden sind (vgl. oben Ziffer 3.9). Daher ist
+es notwendig, eine Regelung zu schaffen, die bestimmt, wie die Wahl verläuft, wenn weniger Personen vorgeschlagen werden, als Sitze zu besetzen sind.
+Die Wahlen für die Gerichtspräsidien sind so konzipiert, dass die Kandidierenden jeweils für ein
+ausdrücklich bezeichnetes Präsidium vorgeschlagen werden. Entspricht die Zahl der Vorgeschlagenen der Zahl der zu Wählenden, so widerruft der Regierungsrat den angesetzten Wahlgang und
+erklärt die Vorgeschlagenen als gewählt (stille Wahl, § 32 Abs. 1 Wahlgesetz). Geht nur für einen
+Teil der zu besetzenden Präsidien jeweils ein Wahlvorschlag ein, so widerruft der Regierungsrat
+gemäss dem neuen § 78 Abs. 4 die Wahl und erklärt die Vorgeschlagenen als (in stiller Wahl)
+gewählt. Für die Besetzung der übrigen Sitze, für welche keine Personen vorgeschlagen wurden,
+setzt der Regierungsrat eine Nachfrist an zur Einreichung von weiteren Wahlvorschlägen. Zudem
+gibt er einen neuen Wahltermin bekannt, an welchem die noch nicht besetzten Sitze vergeben
+werden. Gehen auch innerhalb der Nachfrist weniger Wahlvorschläge ein, als Sitze zu besetzen
+sind, erklärt der Regierungsrat wiederum die nun vorgeschlagenen Personen als in stiller Wahl
+gewählt. Bei der anschliessenden Wahl zur Besetzung der übrigen Sitze sind alle Personen wähl-
+
+Seite 28/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+bar, die die Voraussetzungen der Wählbarkeit ausser dem Vorliegen eines Wahlvorschlages erfüllen. Mit dieser Regelung wird ausgeschlossen, dass in dieser Ausnahmesituation Gerichtspräsidien
+unbesetzt blieben.
+
+4.
+
+Änderung und Aufhebung weiterer Erlasse
+
+4.1
+
+Anpassung der Abstimmungsfristen bei Volksinitiativen
+
+4.1.1
+
+§ 24a des Gesetzes betreffend Initiative und Referendum (geändert)
+
+Gesetz betreffend Initiative und Referendum neu
+(IRG; SG 131.100)
+§ 24a Fristen
+§ 24a Fristen
+1
+Formulierte Initiativen sind den Stimmberech1
+Formulierte Initiativen sind den Stimmberechtigten innert 19 18 Monaten, vom Datum der
+tigten innert 18 Monaten, vom Datum der
+Rechtskraft der Verfügung über das ZustandeRechtskraft der Verfügung über das Zustandekommen der Initiative an gerechnet, zur Abkommen der Initiative an gerechnet, zur Abstimmung vorzulegen. Beschliesst der Grosse
+stimmung vorzulegen. Beschliesst der Grosse
+Rat, der Initiative einen Gegenvorschlag geRat, der Initiative einen Gegenvorschlag gegenüberzustellen, so verlängert sich diese Frist
+genüberzustellen, so verlängert sich diese Frist
+um sechs Monate.
+um sechs Monate.
+2
+Will der Grosse Rat eine unformulierte Initia- 2 Will der Grosse Rat eine unformulierte Initiative nicht ausformulieren, so ist sie den Stimm- tive nicht ausformulieren, so ist sie den Stimmberechtigten innert 18 Monaten, vom Datum
+berechtigten innert 19 18 Monaten, vom Datum
+der Rechtskraft der Verfügung über das Zuder Rechtskraft der Verfügung über das Zustandekommen der Initiative an gerechnet, zur standekommen der Initiative an gerechnet, zur
+Abstimmung vorzulegen. Haben die Stimmbe- Abstimmung vorzulegen. Haben die Stimmberechtigten die Initiative angenommen oder hat rechtigten die Initiative angenommen oder hat
+der Grosse Rat beschlossen, die Initiative aus- der Grosse Rat beschlossen, die Initiative auszuformulieren, so ist die vom Grossen Rat aus- zuformulieren, so ist die vom Grossen Rat auszuarbeitende Vorlage den Stimmberechtigten
+zuarbeitende Vorlage den Stimmberechtigten
+innert drei Jahren, vom Datum der Rechtskraft innert drei Jahren, vom Datum der Rechtskraft
+der Verfügung über das Zustandekommen der der Verfügung über das Zustandekommen der
+Initiative an gerechnet, zur Abstimmung vorzu- Initiative an gerechnet, zur Abstimmung vorzulegen.
+legen.
+3
+Während der Dauer eines gerichtlichen Ver- 3 unverändert
+fahrens über die rechtliche Zulässigkeit einer
+Initiative stehen die Fristen zur Durchführung
+der Volksabstimmung still.
+4
+Der Grosse Rat kann mit Zustimmung des Ini- 4 unverändert
+tiativkomitees eine Verlängerung oder Unterbrechung der Fristen zur Durchführung der
+Volksabstimmung anordnen. Der Beschluss
+des Grossen Rates ist endgültig.
+4.1.2
+
+Kommentar
+
+§ 24a regelt die Fristen, innert welcher nach dem Zustandekommen einer Volksinitiative die entsprechende Volksabstimmung durchzuführen ist. Die Bestimmung selbst wurde aufgrund einer erfolgreichen Volksinitiative, die die Beschleunigung der Verfahren bei Volksinitiativen zum Ziel hatte,
+im Jahr 2007 ins IRG aufgenommen. Die in § 24a Abs. 1 und 2 vorgesehenen Fristen sind äusserst
+knapp bemessen: Formulierte wie auch unformulierte Initiativen müssen grundsätzlich innert
+
+Seite 29/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+18 Monaten ab der Rechtskraft der mittels Publikation erfolgenden Verfügung des Zustandekommens der Initiative den Stimmberechtigten vorgelegt werden. Wird ein Gegenvorschlag erarbeitet,
+verlängert sich diese Frist um sechs Monate. Innerhalb dieser Rahmenfrist müssen folgende ebenfalls befristeten Verfahrensschritte erfolgen:
+-
+
+Innert drei Monaten muss der Regierungsrat dem Grossen Rat Antrag stellen betreffend
+rechtliche Zulässigkeit der Initiative und zum weiteren Verfahren (§ 13 Abs. 1 IRG);
+innerhalb von sechs Monaten müssen der Regierungsrat oder eine Grossratskommission
+dem Grossen Rat inhaltlich zu der Initiative berichten (§ 19 Abs. 1 IRG);
+zwei Monate (neu: drei Monate) vor dem Abstimmungstermin muss der Regierungsrat die
+Abstimmungsvorlagen bekannt geben (§ 16 Abs. 1 Wahlgesetz).
+
+Ebenfalls innerhalb der genannten Rahmenfrist muss der Grosse Rat zudem die beiden Berichte
+beraten und seine Beschlüsse betreffend die rechtliche Zulässigkeit und das weitere Verfahren
+beziehungsweise betreffend die Empfehlung an die Stimmberechtigten sowie über einen allfälligen
+Gegenvorschlag fällen. Dieses engmaschige Fristengefüge führt dazu, dass Initiativen regelmässig
+nur sehr knapp innerhalb der Rahmenfrist den Stimmberechtigten vorgelegt werden können. Oft
+kommt es vor, dass der Grosse Rat von der Möglichkeit der Anordnung einer Verlängerung der
+Rahmenfrist Gebrauch machen muss (§ 24a Abs. 4 IRG). Dies ist aber nur möglich, sofern das
+Initiativkomitee der Fristverlängerung zustimmt.
+Die Änderung des ersten und zweiten Absatzes von § 24a IRG drängt sich aufgrund der Verlängerung der Frist zur Bekanntgabe der Abstimmungsvorlagen gemäss § 16 Abs. 1 Wahlgesetz auf
+(vgl. oben 3.3). Neu wird die Rahmenfrist zur Durchführung der Volksabstimmung grundsätzlich
+19 anstatt 18 Monate dauern; falls ein Gegenvorschlag erarbeitet wird, dauert sie neu 25 anstatt
+24 Monate. Damit wird sichergestellt, dass die übrigen Verfahrensschritte bei der Behandlung zustande gekommener Volksinitiativen im gleichen zeitlichen Rahmen wie bisher durchgeführt werden können. Eine grössere Erstreckung der Frist zur Durchführung der Volksabstimmung drängt
+sich nicht auf, weil § 24a IRG der Beschleunigung der Verfahren dienen sollte und nach wie vor
+soll. Die Frist von drei Jahren zur Ausarbeitung einer formulierten Vorlage bei unformulierten Volksinitiativen erscheint als genügend grosszügig bemessen, dass sie nicht angepasst werden muss.
+
+4.2
+
+Regelung des Rücktritts der Regierungspräsidentin oder des Regierungspräsidenten und von Mitgliedern des Regierungsrates im Organisationsgesetz
+
+4.2.1
+
+§ 25a Organisationsgesetz (neu)
+
+Gesetz betreffend die Organisation des Re- Neuer § 25a
+gierungsrates und der Verwaltung des Kantons Basel-Stadt (Organisationsgesetz, OG;
+SG 153.100)
+§ 25a Rücktritt der Regierungspräsidentin oder
+des Regierungspräsidenten und von Mitgliedern des Regierungsrates
+1
+Die Regierungspräsidentin oder der Regierungspräsident und die Mitglieder des Regierungsrates können unter Einhaltung einer Frist
+von sechs Monaten gegenüber dem Grossen
+Rat schriftlich ihren Rücktritt erklären.
+2
+Bei Vorliegen besonderer Umstände können
+die Regierungspräsidentin oder der Regie-
+
+Seite 30/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+rungspräsident und die Mitglieder des Regierungsrates ihren Rücktritt innert einer kürzeren
+Frist oder per sofort erklären.
+4.2.2
+
+Kommentar
+
+Wie unter Ziffer 3.10 dargelegt, ist der mehr als 120 Jahre alte Grossratsbeschluss betreffend Abbitte der von der Gesamtheit der Stimmberechtigten gewählten Behördenmitglieder von ihren Stellen vom 27. Februar 1896 (SG 162.300) aufgrund mehrerer gesetzlicher Neuregelungen
+(§ 12 GO; § 64 Abs. 1 und 3 GOG) des Rücktritts von Behördenmitgliedern teilweise redundant
+geworden. Der verbleibende Gehalt des Grossratsbeschlusses soll daher in das Gesetzesrecht
+integriert und der Beschluss aufgehoben werden. Der Rücktritt des Mitglieds des Ständerats ist neu
+im Wahlgesetz zu regeln. Hinsichtlich einer Bestimmung über den Rücktritt der Regierungspräsidentin oder des Regierungspräsidenten und der Mitglieder des Regierungsrates stellt aber das
+Gesetz betreffend die Organisation des Regierungsrates und der Verwaltung des Kantons BaselStadt (Organisationsgesetz, OG; SG 153.100) den passenden Regelungsort dar.
+In der vorgeschlagenen neuen Bestimmung von § 25a OG wurde die Formulierung gegenüber dem
+Grossratsbeschluss von 1896 modernisiert. Inhaltlich ist, anders als noch im Grossratsbeschluss
+von 1896, keine «Abbitte» bzw. kein Antrag der von den Stimmberechtigten gewählten Person
+mehr vorgesehen, aus dem Amt entlassen zu werden: Wie das Mitglied des Ständerats können die
+Regierungspräsidentin oder der Regierungspräsident und die Mitglieder des Regierungsrates vor
+Ablauf der Amtsperiode unter Einhaltung einer Frist von sechs Monaten schriftlich gegenüber dem
+Grossen Rat den Rücktritt von ihrem Amt erklären. Diese Regelung spiegelt (wie auch die Neuregelung des Rücktritts des Mitglieds des Ständerates im Wahlgesetz) die langjährige Praxis des
+Grossen Rates beim Rücktritt von Amtsträgerinnen und Amtsträgern, die von den Stimmberechtigten gewählt wurden: Der Grosse Rat verzichtet regelmässig auf eine Genehmigung des Rücktritts
+und nimmt diesen bloss zur Kenntnis.
+Mit der Neuregelung nähert sich Basel-Stadt dem Recht des Bundes sowie vieler anderer Kantone
+an, die keine Genehmigung eines Rücktritts der Mitglieder des Bundesrates bzw. der Kantonsregierungen kennen (z. B. Art. 58 Gesetz über die politischen Rechte, Kanton Bern; § 36 Gesetz über
+die politischen Rechte, Kanton Aargau; Art. 113 Gesetz über Wahlen und Abstimmungen, Kanton St. Gallen; Art. 35a Gesetz über die Ausübung der politischen Rechte, Kanton Obwalden;
+Art. 42bis Gesetz über die politischen Rechte, Kanton Appenzell Ausserrhoden) oder gar keine entsprechenden Bestimmungen zum Rücktritt, sondern nur zur anschliessenden Ersatzwahl erlassen
+haben (z. B. Art. 133 Bundesgesetz über die Bundesversammlung; § 18 Wahl- und Abstimmungsgesetz; Kanton Schwyz).
+Die Rücktrittsfrist bleibt mit sechs Monaten unverändert. Sie stellt sicher, dass der Wahlbehörde,
+den politischen Parteien und den Wahlberechtigten genügend Zeit zur Vorbereitung einer Ersatzwahl bleibt. Bei Vorliegen besonderer Umstände muss aber wie schon bisher gemäss dem Grossratsbeschluss von 1896 ein Rücktritt innert kürzerer Frist oder per sofort möglich sein. Dies wird in
+Abs. 2 der Bestimmung festgehalten. Zu denken ist an Rücktritte aus gesundheitlichen Gründen
+oder aufgrund der Wahl in ein anderes öffentliches Amt, dessen Ausübung mit dem Regierungspräsidium oder dem Regierungsratsamt unvereinbar ist.
+Die neue Bestimmung zum Rücktritt der Regierungspräsidentin oder des Regierungspräsidenten
+und von Mitgliedern des Regierungsrates wurde im Rahmen der Vernehmlassung in sämtlichen
+Stellungnahmen, die sich dazu äusserten, begrüsst.
+
+Seite 31/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+4.3
+
+Aufhebung des Grossratsbeschlusses betreffend Abbitte der von der Gesamtheit der Stimmberechtigten gewählten Behördenmitgliedern von ihren
+Stellen (SG 162.300)
+
+Aufgrund der Neuregelung des Rücktritts des Mitglieds des Ständerates (vgl. oben Ziffer 3.10) sowie der Regierungspräsidentin oder des Regierungspräsidenten und der Mitglieder des Regierungsrates (vgl. oben Ziffer 4.2) wird der redundant gewordene Grossratsbeschluss (GRB) betreffend Abbitte der von der Gesamtheit der Stimmberechtigten gewählten Behördenmitgliedern von
+ihren Stellen vom 27. Februar 1896 aufgehoben.
+
+5.
+
+Finanzielle Auswirkungen
+
+Die vorgeschlagenen Änderungen haben keine unmittelbaren finanziellen Auswirkungen. Die
+neuen gesetzlichen Grundlagen für die Durchführung oder Förderung von Studien und Pilotprojekten zur Weiterentwicklung der politischen Rechte sowie für Befragungen nach Wahlen und Abstimmungen sind blosse Ermächtigungsgrundlagen für den Regierungsrat. Die mutmasslichen finanziellen Folgen für Befragungen nach Wahlen und Abstimmungen wurden oben (Ziffer 3.3) dargestellt.
+Die konkreten finanziellen Auswirkungen werden für die Umsetzungsprojekte, die sich auf die
+neuen gesetzlichen Grundlagen stützen, zu klären sein. Über die Umsetzung wird im Rahmen der
+finanzrechtlichen Vorgaben beschlossen.
+
+6.
+
+Formelle Prüfungen und Regulierungsfolgenabschätzung
+
+Das Finanzdepartement hat den vorliegenden Ratschlag gemäss § 8 des Gesetzes über den kantonalen Finanzhaushalt vom 14. März 2012 in finanzieller Hinsicht geprüft. Das Justiz- und Sicherheitsdepartement hat den Ratschlag nach § 4 des Publikationsgesetzes vom 19. Oktober 2016 in
+rechtlicher sowie in redaktioneller und gesetzestechnischer Hinsicht geprüft.
+Der Vortest zur Klärung der Betroffenheit von Unternehmen hat ergeben, dass kein Bedarf für eine
+Regulierungsfolgenabschätzung besteht.
+
+7.
+
+Antrag
+
+Gestützt auf unsere Ausführungen beantragen wir dem Grossen Rat, den nachstehenden Beschlussentwurf anzunehmen sowie den Anzug Conradin Cramer und Daniel Goepfert betreffend
+«Aufschlüsselung von Wahl- und Abstimmungsresultaten nach Quartieren» (14.5352), den Anzug
+Harald Friedl und Konsorten betreffend Verlängerung der Frist für die Festlegung von Abstimmungen (18.5190), den Anzug Esther Keller und Konsorten betreffend «Pilotprojekt ‹Smart Voting›:
+Demokratie 2.0» (19.5441) sowie den Anzug Luca Urgese und Konsorten betreffend «regelmässige Befragungen nach Wahlen und Abstimmungen» (21.5221) als erledigt abzuschreiben.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Dr. Conradin Cramer
+Regierungspräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Seite 32/33
+
+Regierungsrat des Kantons Basel-Stadt
+
+Beilagen
+1. Änderungen des Wahlgesetzes, des Gesetzes betreffend Initiative und Referendum, des Organisationsgesetzes sowie des Grossratsbeschlusses betreffend Abbitte der von der Gesamtheit
+der Stimmberechtigten gewählten Behördenmitgliedern von ihren Stellen mit Genehmigungsvermerk der Redaktion Gesetzessammlung
+2. Synopse zu den Gesetzesänderungen
+
+Seite 33/33
+
+FORMELL GEPRÜFT (5) | ID: 6033 | 04.06.2026
+
+Gesetz über Wahlen und Abstimmungen
+(Wahlgesetz)
+Änderung vom [Datum]
+Der Grosse Rat des Kantons Basel-Stadt,
+nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. [Ratschlag-Nr.] vom [Datum] sowie in
+den Bericht der [Kommission] Nr. [Kommissionsbericht-Nr.] vom [Datum],
+beschliesst:
+I.
+Gesetz über Wahlen und Abstimmungen 1) (Wahlgesetz) vom 21. April 1994 2) (Stand 1. August 2023)
+wird wie folgt geändert:
+§ 2 Abs. 1 (geändert), Abs. 2 (aufgehoben)
+1
+Die Stimmberechtigten üben das Stimmrecht an ihrem politischen Wohnsitz aus. Dieser richtet sich
+nach den Vorschriften des Bundesrechts.
+2
+Aufgehoben.
+Titel nach § 15 (neu)
+1.C. Weiterentwicklung der politischen Rechte
+§ 15a (neu)
+1
+Der Regierungsrat kann zur Weiterentwicklung der politischen Rechte Studien in Auftrag geben oder
+fördern. Er kann zudem Pilotprojekte durchführen oder bei diesen mitwirken.
+Titel nach § 15a (neu)
+1.D. Befragungen von Stimmberechtigten
+§ 15b (neu)
+1
+Der Regierungsrat kann nach Abstimmungen Befragungen von Stimmberechtigten in Auftrag geben,
+insbesondere wenn:
+a)
+es für die Umsetzung des Volksentscheids oder die Planung des weiteren Vorgehens von wesentlicher Bedeutung ist, die Beweggründe der Stimmberechtigten zu kennen;
+b)
+der Anteil der Ja-Stimmen zwischen 49 % und 51 % liegt;
+c)
+das Abstimmungsergebnis von der Abstimmungsempfehlung des Grossen Rates sowie den
+gleichlautenden Abstimmungsempfehlungen aller Parteien, die eine Fraktion im Grossen Rat
+bilden, abweicht.
+2
+Die Ergebnisse der Befragungen werden veröffentlicht.
+§ 16 Abs. 1 (geändert)
+1
+Der Regierungsrat setzt den Wahl- und Abstimmungstermin fest. Wahlen und Abstimmungen sind in
+der Regel drei Monate vorher bekanntzugeben.
+
+1)
+2)
+
+Von der Bundeskanzlei genehmigt am 2. 12. 1994.
+SG 132.100
+
+1
+
+§ 35 Abs. 1 (geändert)
+1
+Wahlvorschläge sind dem zuständigen Departement auf dem amtlichen Formular einzureichen. Sie
+müssen spätestens am neuntletzten Montag, 09.00 Uhr, vor dem Wahlsonntag im Besitz des Büros für
+Wahlen und Abstimmungen sein.
+§ 42 Abs. 3 (geändert)
+3
+Die Wahl erfolgt in den einzelnen Wahlkreisen nach dem Verhältnis deren Bevölkerung. Spätestens
+neun Monate vor der Wahl wird durch Grossratsbeschluss anhand der letzten veröffentlichten Daten der
+eidgenössischen Volkszählung die Zahl der den einzelnen Wahlkreisen zustehenden Sitze festgelegt.
+§ 49a (neu)
+Überzählige Stimmen
+1
+Enthält ein Wahlzettel den Namen einer kandidierenden Person mehr als dreimal, so bleiben die letzten
+Nennungen unberücksichtigt.
+2
+Enthält ein Wahlzettel mehr Namen, als Sitze zu vergeben sind, so bleiben die letzten vorgedruckten
+nicht handschriftlich kumulierten, danach die letzten handschriftlich ausgefüllten Namen unberücksichtigt.
+§ 54 Abs. 1 (geändert)
+1
+Haben zwei oder mehrere Listen auf den letzten Sitz zufolge Gleichheit der Quotienten das gleiche
+Anrecht, so hat die Liste den Vorrang, die bei der Teilung nach § 52 Abs. 2 den grössten Rest aufwies.
+§ 64 Abs. 1 (geändert), Abs. 3 (neu)
+1
+Wählbar als Mitglied des Regierungsrates oder des Ständerates ist, wer die gesetzlichen Voraussetzungen für das betreffende Amt erfüllt, auch wenn kein Wahlvorschlag eingereicht worden ist.
+3
+Wählbar als Gerichtspräsidentin oder Gerichtspräsident ist eine Person, welche die gesetzlichen Voraussetzungen für das Amt erfüllt und für die ein gültiger Wahlvorschlag eingereicht worden ist.
+§ 66 Abs. 2 (neu), Abs. 3 (neu)
+2
+Der amtliche Wahlzettel bei der Volkswahl der Präsidentinnen und Präsidenten der Gerichte enthält:
+a)
+die bereinigten Wahlvorschläge in der Reihenfolge der ihnen zugewiesenen Ordnungsnummern und mit ihren Bezeichnungen;
+b)
+neben jedem Namen ein Feld zum Ankreuzen.
+3
+Werden bei der Volkswahl der Präsidentinnen und Präsidenten der Gerichte auch nach Bekanntgabe
+eines neuen Wahltermins und Ablauf einer Nachfrist zur Einreichung von Wahlvorschlägen weniger
+Personen fristgerecht zur Wahl vorgeschlagen, als Sitze zu besetzen sind, so enthält der amtliche Wahlzettel leere Linien in der Zahl der zu wählenden Kandidierenden und neben jeder leeren Linie ein Feld
+zum Ankreuzen.
+§ 68 Abs. 2 (neu), Abs. 3 (neu)
+2
+Auf dem Wahlzettel der Volkswahl der Präsidentinnen und Präsidenten der Gerichte können die
+Stimmberechtigten:
+a)
+vorgedruckte Namen von Kandidierenden ankreuzen;
+b)
+angekreuzte vorgedruckte Namen wieder durchstreichen.
+3
+Werden bei der Volkswahl der Präsidentinnen und Präsidenten der Gerichte auch nach Bekanntgabe
+eines neuen Wahltermins und Ablauf einer Nachfrist zur Einreichung von Wahlvorschlägen weniger
+Personen fristgerecht zur Wahl vorgeschlagen, als Sitze zu besetzen sind, so können die Stimmberechtigten Namen von wählbaren Personen auf die leeren Linien schreiben und auf leere Linien geschriebene
+Namen wieder durchstreichen.
+Titel nach § 76c (geändert)
+4.C.II.II. Wahl in den Ständerat und Rücktritt
+2
+
+§ 77b (neu)
+Rücktritt
+1
+Das Mitglied des Ständerates kann unter Einhaltung einer Frist von sechs Monaten gegenüber dem
+Grossen Rat schriftlich seinen Rücktritt erklären.
+2
+Bei Vorliegen besonderer Umstände kann das Mitglied des Ständerates seinen Rücktritt innert einer
+kürzeren Frist oder per sofort erklären.
+§ 78 Abs. 4 (neu), Abs. 5 (neu)
+4
+Werden weniger Personen fristgerecht zur Wahl vorgeschlagen, als Sitze zu besetzen sind, so widerruft
+der Regierungsrat den angesetzten Wahlgang und erklärt die Vorgeschlagenen als gewählt. Für die Wahl
+zur Besetzung der restlichen Sitze setzt der Regierungsrat eine Nachfrist zur Einreichung von Wahlvorschlägen und gibt einen neuen Wahltermin bekannt.
+5
+Gehen innerhalb der Nachfrist gemäss Abs. 4 weniger Wahlvorschläge ein, als Sitze zu besetzen sind,
+so widerruft der Regierungsrat den angesetzten Wahlgang teilweise und erklärt die Vorgeschlagenen als
+gewählt. Bei der Wahl zur Besetzung der restlichen Sitze ist jede Person wählbar, welche die gesetzlichen Voraussetzungen für das Amt erfüllt.
+II. Änderung anderer Erlasse
+1.
+
+Gesetz betreffend Initiative und Referendum (IRG) vom 16. Januar 1991 3) (Stand 1. Januar 2021) wird
+wie folgt geändert:
+§ 24a Abs. 1 (geändert), Abs. 2 (geändert)
+1
+Formulierte Initiativen sind den Stimmberechtigten innert 19 Monaten, vom Datum der Rechtskraft
+der Verfügung über das Zustandekommen der Initiative an gerechnet, zur Abstimmung vorzulegen. Beschliesst der Grosse Rat, der Initiative einen Gegenvorschlag gegenüberzustellen, so verlängert sich
+diese Frist um sechs Monate.
+2
+Will der Grosse Rat eine unformulierte Initiative nicht ausformulieren, so ist sie den Stimmberechtigten innert 19 Monaten, vom Datum der Rechtskraft der Verfügung über das Zustandekommen der Initiative an gerechnet, zur Abstimmung vorzulegen. Haben die Stimmberechtigten die Initiative angenommen oder hat der Grosse Rat beschlossen, die Initiative auszuformulieren, so ist die vom Grossen Rat
+auszuarbeitende Vorlage den Stimmberechtigten innert drei Jahren, vom Datum der Rechtskraft der
+Verfügung über das Zustandekommen der Initiative an gerechnet, zur Abstimmung vorzulegen.
+2.
+
+Gesetz betreffend die Organisation des Regierungsrates und der Verwaltung des Kantons Basel-Stadt
+(Organisationsgesetz, OG) vom 22. April 1976 4) (Stand 1. Januar 2021) wird wie folgt geändert:
+§ 25a (neu)
+Rücktritt der Regierungspräsidentin oder des Regierungspräsidenten und von Mitgliedern des
+Regierungsrates
+1
+Die Regierungspräsidentin oder der Regierungspräsident und die Mitglieder des Regierungsrates können unter Einhaltung einer Frist von sechs Monaten gegenüber dem Grossen Rat schriftlich ihren Rücktritt erklären.
+2
+Bei Vorliegen besonderer Umstände können die Regierungspräsidentin oder der Regierungspräsident
+und die Mitglieder des Regierungsrates ihren Rücktritt innert einer kürzeren Frist oder per sofort erklären.
+
+3)
+4)
+
+SG 131.100
+SG 153.100
+
+3
+
+III. Aufhebung anderer Erlasse
+Grossratsbeschluss betreffend Abbitte der von der Gesamtheit der Stimmberechtigten gewählten Behördenmitglieder von ihren Stellen vom 27. Februar 1896 5) (Stand 13. Juli 2006) wird aufgehoben.
+IV. Schlussbestimmung
+Diese Änderung ist zu publizieren; sie unterliegt dem Referendum und der Regierungsrat bestimmt den
+Zeitpunkt des Inkrafttretens.
+
+[Behörde]
+[Funktion 1]
+[NAME 1]
+[Funktion 2]
+[NAME 2]
+
+ZRD
+04.06.2026
+
+RGS
+
+5)
+
+SG 162.300
+
+4
+
+Synopse
+Änderung Wahlgesetz und weiterer Erlasse
+Von diesem Geschäft tangierte Erlasse (SG Nummern)
+Neu:
+–
+Geändert:
+131.100 | 132.100 | 153.100
+Aufgehoben: 162.300
+
+Geltendes Recht
+
+Arbeitsversion (5. Stempel)
+Gesetz über Wahlen und Abstimmungen
+(Wahlgesetz)
+Der Grosse Rat des Kantons Basel-Stadt,
+nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. [Ratschlag-Nr.]
+vom [Datum] sowie in den Bericht der [Kommission] Nr. [Kommissionsbericht-Nr.]
+vom [Datum],
+beschliesst:
+
+I.
+Gesetz über Wahlen und Abstimmungen 1) (Wahlgesetz) vom 21. April 1994
+(Stand 1. August 2023) wird wie folgt geändert:
+§ 2
+Politischer Wohnsitz
+1 Die Stimmberechtigten üben das Stimmrecht in der Gemeinde aus, in welcher
+
+1 Die Stimmberechtigten üben das Stimmrecht in der Gemeinde an ihrem politi-
+
+sie wohnen und angemeldet sind.
+
+schen Wohnsitz aus, in welcher sie wohnen und angemeldet sind. Dieser richtet
+sich nach den Vorschriften des Bundesrechts.
+
+2 Wer statt des Heimatscheins einen anderen Ausweis (Heimatausweis, Interims-
+
+2 Aufgehoben.
+
+schein usw.) hinterlegt, begründet politischen Wohnsitz nur mit dem Nachweis,
+dass er am Ort, wo der Heimatschein liegt, nicht im Stimmregister eingetragen
+ist.
+
+1)
+
+Von der Bundeskanzlei genehmigt am 2. 12. 1994.
+
+-2-
+
+Geltendes Recht
+
+Arbeitsversion (5. Stempel)
+1.C. Weiterentwicklung der politischen Rechte
+§ 15a
+1 Der Regierungsrat kann zur Weiterentwicklung der politischen Rechte Studien
+
+in Auftrag geben oder fördern. Er kann zudem Pilotprojekte durchführen oder bei
+diesen mitwirken.
+
+1.D. Befragungen von Stimmberechtigten
+§ 15b
+1 Der Regierungsrat kann nach Abstimmungen Befragungen von Stimmberech-
+
+tigten in Auftrag geben, insbesondere wenn:
+a) es für die Umsetzung des Volksentscheids oder die Planung des weiteren Vorgehens von wesentlicher Bedeutung ist, die Beweggründe der Stimmberechtigten zu kennen;
+b) der Anteil der Ja-Stimmen zwischen 49 % und 51 % liegt;
+c) das Abstimmungsergebnis von der Abstimmungsempfehlung des Grossen Rates sowie den gleichlautenden Abstimmungsempfehlungen aller Parteien, die
+eine Fraktion im Grossen Rat bilden, abweicht.
+2 Die Ergebnisse der Befragungen werden veröffentlicht.
+
+§ 16
+Festlegung des Termins
+1 Der Regierungsrat setzt den Wahl- und Abstimmungstermin fest. Wahlen sind
+
+1 Der Regierungsrat setzt den Wahl- und Abstimmungstermin fest. Wahlen und
+
+in der Regel drei Monate, Abstimmungen zwei Monate vorher bekanntzugeben.
+
+Abstimmungen sind in der Regel drei Monate, Abstimmungen zwei Monate vorher bekanntzugeben.
+
+§ 35
+Einreichung
+
+-3-
+
+Geltendes Recht
+
+Arbeitsversion (5. Stempel)
+
+1 Wahlvorschläge sind dem zuständigen Departement auf dem amtlichen Formu-
+
+1 Wahlvorschläge sind dem zuständigen Departement auf dem amtlichen Formu-
+
+lar einzureichen. Sie müssen spätestens am achtletzten Montag, 09.00 Uhr, vor
+dem Wahlsonntag im Besitz des Büros für Wahlen und Abstimmungen sein.
+
+lar einzureichen. Sie müssen spätestens am achtletztenneuntletzten Montag,
+09.00 Uhr, vor dem Wahlsonntag im Besitz des Büros für Wahlen und Abstimmungen sein.
+
+2 …
+
+§ 42
+Einteilung
+1 Für die Wahl ist der Kanton in folgende Wahlkreise aufgeteilt: Grossbasel-Ost,
+
+Grossbasel-West, Kleinbasel, Riehen und Bettingen.
+2 Die Grenze zwischen Grossbasel-Ost und Grossbasel-West verläuft auf einer
+
+Linie, welche von der Kantonsgrenze bei Binningen dem Birsig bis zur Heuwaage
+folgt und von da durch den Steinengraben über den Holbeinplatz und durch den
+Leonhardsgraben, den Petersgraben und durch den obersten Teil des St. Johanns-Rheinwegs zum Rhein geht, wobei die Mitte der genannten Strassen und
+Plätze die Grenze bildet.
+3 Die Wahl erfolgt in den einzelnen Wahlkreisen nach dem Verhältnis deren Be-
+
+3 Die Wahl erfolgt in den einzelnen Wahlkreisen nach dem Verhältnis deren Be-
+
+völkerung. Nach jeder eidgenössischen Volkszählung wird durch Grossratsbeschluss die Zahl der den einzelnen Wahlkreisen zustehenden Sitze festgelegt.
+
+völkerung. Nach jeder eidgenössischen Volkszählung Spätestens neun Monate
+vor der Wahl wird durch Grossratsbeschluss anhand der letzten veröffentlichten
+Daten der eidgenössischen Volkszählung die Zahl der den einzelnen Wahlkreisen zustehenden Sitze festgelegt.
+
+4 Jeder Wahlkreis hat Anspruch auf mindestens einen Sitz.
+
+§ 49a
+Überzählige Stimmen
+1 Enthält ein Wahlzettel den Namen einer kandidierenden Person mehr als drei-
+
+mal, so bleiben die letzten Nennungen unberücksichtigt.
+2 Enthält ein Wahlzettel mehr Namen, als Sitze zu vergeben sind, so bleiben die
+
+letzten vorgedruckten nicht handschriftlich kumulierten, danach die letzten handschriftlich ausgefüllten Namen unberücksichtigt.
+
+-4-
+
+Geltendes Recht
+
+Arbeitsversion (5. Stempel)
+
+§ 54
+Gleichheit der Quotienten
+1 Haben zwei oder mehrere Listen auf den letzten Sitz zufolge Gleichheit der
+
+1 Haben zwei oder mehrere Listen auf den letzten Sitz zufolge Gleichheit der
+
+Quotienten das gleiche Anrecht, so hat die Liste den Vorrang, die bei der Teilung
+nach § 53 Abs. 2 den grössten Rest aufwies.
+
+Quotienten das gleiche Anrecht, so hat die Liste den Vorrang, die bei der Teilung
+nach § 5352 Abs. 2 den grössten Rest aufwies.
+
+2 Sind auch die Restzahlen gleich, so erhält die Liste den Vorrang, deren Kandi-
+
+datin oder deren Kandidat die grössere Stimmenzahl aufweist.
+3 Ist auch die Stimmenzahl gleich, so entscheidet das Los.
+
+§ 64
+Wählbarkeit
+1 Wählbar ist, wer die gesetzlichen Voraussetzungen für das betreffende Amt er-
+
+1 Wählbar als Mitglied des Regierungsrates oder des Ständerates ist, wer die ge-
+
+füllt, auch wenn kein Wahlvorschlag eingereicht worden ist.
+
+setzlichen Voraussetzungen für das betreffende Amt erfüllt, auch wenn kein
+Wahlvorschlag eingereicht worden ist.
+
+2 Wählbar als Regierungspräsidentin oder Regierungspräsident ist eine Person,
+
+die von der bzw. dem jeweiligen Stimmberechtigten gleichzeitig als Mitglied des
+Regierungsrates gewählt wird oder als Mitglied des Regierungsrates bereits gewählt ist.
+3 Wählbar als Gerichtspräsidentin oder Gerichtspräsident ist eine Person, welche
+
+die gesetzlichen Voraussetzungen für das Amt erfüllt und für die ein gültiger
+Wahlvorschlag eingereicht worden ist.
+§ 66
+Amtliche Wahlzettel
+1 Der amtliche Wahlzettel enthält:
+
+a) die bereinigten Wahlvorschläge in der Reihenfolge der ihnen zugewiesenen
+Ordnungsnummern und mit ihren Bezeichnungen;
+b) leere Linien in der Zahl der zu wählenden Kandidatinnen und Kandidaten;
+
+-5-
+
+Geltendes Recht
+
+Arbeitsversion (5. Stempel)
+
+c) neben jedem Namen und jeder leeren Linie ein Feld zum Ankreuzen.
+2 Der amtliche Wahlzettel bei der Volkswahl der Präsidentinnen und Präsidenten
+
+der Gerichte enthält:
+a) die bereinigten Wahlvorschläge in der Reihenfolge der ihnen zugewiesenen
+Ordnungsnummern und mit ihren Bezeichnungen;
+b) neben jedem Namen ein Feld zum Ankreuzen.
+3 Werden bei der Volkswahl der Präsidentinnen und Präsidenten der Gerichte
+
+auch nach Bekanntgabe eines neuen Wahltermins und Ablauf einer Nachfrist zur
+Einreichung von Wahlvorschlägen weniger Personen fristgerecht zur Wahl vorgeschlagen, als Sitze zu besetzen sind, so enthält der amtliche Wahlzettel leere Linien in der Zahl der zu wählenden Kandidierenden und neben jeder leeren Linie
+ein Feld zum Ankreuzen.
+§ 68
+Ausfüllen der Wahlzettel
+1 Die Stimmberechtigten können auf dem Wahlzettel:
+
+a) vorgedruckte Namen von Kandidatinnen und Kandidaten ankreuzen;
+b) Namen von wählbaren Personen auf die leeren Linien schreiben;
+c) angekreuzte vorgedruckte Namen oder auf leere Linien geschriebene Namen
+wieder durchstreichen.
+2 Auf dem Wahlzettel der Volkswahl der Präsidentinnen und Präsidenten der Ge-
+
+richte können die Stimmberechtigten:
+a) vorgedruckte Namen von Kandidierenden ankreuzen;
+b) angekreuzte vorgedruckte Namen wieder durchstreichen.
+
+-6-
+
+Geltendes Recht
+
+Arbeitsversion (5. Stempel)
+3 Werden bei der Volkswahl der Präsidentinnen und Präsidenten der Gerichte
+
+auch nach Bekanntgabe eines neuen Wahltermins und Ablauf einer Nachfrist zur
+Einreichung von Wahlvorschlägen weniger Personen fristgerecht zur Wahl vorgeschlagen, als Sitze zu besetzen sind, so können die Stimmberechtigten Namen
+von wählbaren Personen auf die leeren Linien schreiben und auf leere Linien geschriebene Namen wieder durchstreichen.
+
+4.C.II.II. Wahl in den Ständerat
+
+4.C.II.II. Wahl in den Ständerat und Rücktritt
+§ 77b
+Rücktritt
+1 Das Mitglied des Ständerates kann unter Einhaltung einer Frist von sechs Mo-
+
+naten gegenüber dem Grossen Rat schriftlich seinen Rücktritt erklären.
+2 Bei Vorliegen besonderer Umstände kann das Mitglied des Ständerates seinen
+
+Rücktritt innert einer kürzeren Frist oder per sofort erklären.
+§ 78
+Anwendbare Vorschriften
+1 Auf die Wahlen nach § 31 lit. c finden neben den Vorschriften dieses Gesetzes
+
+die Bestimmungen des Gerichtsorganisationsgesetzes (GOG) 2) Anwendung.
+2 Die Wahlen können mit anderen Urnengängen zusammengelegt werden.
+3 Eine Ersatzwahl findet innert nützlicher Frist statt.
+4 Werden weniger Personen fristgerecht zur Wahl vorgeschlagen, als Sitze zu
+
+besetzen sind, so widerruft der Regierungsrat den angesetzten Wahlgang und
+erklärt die Vorgeschlagenen als gewählt. Für die Wahl zur Besetzung der restlichen Sitze setzt der Regierungsrat eine Nachfrist zur Einreichung von Wahlvorschlägen und gibt einen neuen Wahltermin bekannt.
+
+2)
+
+SG 154.100.
+
+-7-
+
+Geltendes Recht
+
+Arbeitsversion (5. Stempel)
+5 Gehen innerhalb der Nachfrist gemäss Abs. 4 weniger Wahlvorschläge ein, als
+
+Sitze zu besetzen sind, so widerruft der Regierungsrat den angesetzten Wahlgang teilweise und erklärt die Vorgeschlagenen als gewählt. Bei der Wahl zur
+Besetzung der restlichen Sitze ist jede Person wählbar, welche die gesetzlichen
+Voraussetzungen für das Amt erfüllt.
+
+II.
+1.
+Gesetz betreffend Initiative und Referendum (IRG) vom 16. Januar 1991 (Stand
+1. Januar 2021) wird wie folgt geändert:
+§ 24a
+Fristen
+1 Formulierte Initiativen sind den Stimmberechtigten innert 18 Monaten, vom Da-
+
+1 Formulierte Initiativen sind den Stimmberechtigten innert 1819 Monaten, vom
+
+tum der Rechtskraft der Verfügung über das Zustandekommen der Initiative an
+gerechnet, zur Abstimmung vorzulegen. Beschliesst der Grosse Rat, der Initiative
+einen Gegenvorschlag gegenüberzustellen, so verlängert sich diese Frist um
+sechs Monate.
+
+Datum der Rechtskraft der Verfügung über das Zustandekommen der Initiative
+an gerechnet, zur Abstimmung vorzulegen. Beschliesst der Grosse Rat, der Initiative einen Gegenvorschlag gegenüberzustellen, so verlängert sich diese Frist
+um sechs Monate.
+
+2 Will der Grosse Rat eine unformulierte Initiative nicht ausformulieren, so ist sie
+
+2 Will der Grosse Rat eine unformulierte Initiative nicht ausformulieren, so ist sie
+
+den Stimmberechtigten innert 18 Monaten, vom Datum der Rechtskraft der Verfügung über das Zustandekommen der Initiative an gerechnet, zur Abstimmung
+vorzulegen. Haben die Stimmberechtigten die Initiative angenommen oder hat
+der Grosse Rat beschlossen, die Initiative auszuformulieren, so ist die vom Grossen Rat auszuarbeitende Vorlage den Stimmberechtigten innert drei Jahren, vom
+Datum der Rechtskraft der Verfügung über das Zustandekommen der Initiative
+an gerechnet, zur Abstimmung vorzulegen.
+
+den Stimmberechtigten innert 1819 Monaten, vom Datum der Rechtskraft der
+Verfügung über das Zustandekommen der Initiative an gerechnet, zur Abstimmung vorzulegen. Haben die Stimmberechtigten die Initiative angenommen oder
+hat der Grosse Rat beschlossen, die Initiative auszuformulieren, so ist die vom
+Grossen Rat auszuarbeitende Vorlage den Stimmberechtigten innert drei Jahren,
+vom Datum der Rechtskraft der Verfügung über das Zustandekommen der Initiative an gerechnet, zur Abstimmung vorzulegen.
+
+3 Während der Dauer eines gerichtlichen Verfahrens über die rechtliche Zulässig-
+
+keit einer Initiative stehen die Fristen zur Durchführung der Volksabstimmung
+still.
+4 Der Grosse Rat kann mit Zustimmung des Initiativkomitees eine Verlängerung
+
+oder Unterbrechung der Fristen zur Durchführung der Volksabstimmung anordnen. Der Beschluss des Grossen Rates ist endgültig.
+
+-8-
+
+Geltendes Recht
+
+Arbeitsversion (5. Stempel)
+2.
+Gesetz betreffend die Organisation des Regierungsrates und der Verwaltung des
+Kantons Basel-Stadt (Organisationsgesetz, OG) vom 22. April 1976 (Stand 1. Januar 2021) wird wie folgt geändert:
+§ 25a
+Rücktritt der Regierungspräsidentin oder des Regierungspräsidenten und von
+Mitgliedern des Regierungsrates
+1 Die Regierungspräsidentin oder der Regierungspräsident und die Mitglieder des
+
+Regierungsrates können unter Einhaltung einer Frist von sechs Monaten gegenüber dem Grossen Rat schriftlich ihren Rücktritt erklären.
+2 Bei Vorliegen besonderer Umstände können die Regierungspräsidentin oder
+
+der Regierungspräsident und die Mitglieder des Regierungsrates ihren Rücktritt
+innert einer kürzeren Frist oder per sofort erklären.
+
+III.
+Grossratsbeschluss betreffend Abbitte der von der Gesamtheit der Stimmberechtigten gewählten Behördenmitglieder von ihren Stellen vom 27. Februar 1896
+wird aufgehoben.
+
+IV.
+Diese Änderung ist zu publizieren; sie unterliegt dem Referendum und der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens.
+[Behörde]
+
+

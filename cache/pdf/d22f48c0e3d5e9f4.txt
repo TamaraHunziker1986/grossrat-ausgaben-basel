@@ -1,0 +1,88 @@
+Anzug betreffend Roadmap Lastoptimierung und Energiespeicherung
+
+23.5513.01
+
+Noch steht Basel-Stadt erst am Anfang beim Ausbau der Photovoltaik. Gemäss der Website
+www.pvpower.ch,welche vom Verband unabhängiger Energieerzeuger VESE betrieben wird
+und sich auf OpenData des Bundes abstützt, waren im April 2023 in Basel-Stadt PV-Anlagen
+mit einer Leistung von knapp 38 MWp am Netz, was erst 4.3% des gesamten Potentials auf
+Basels Dächern und Fassaden entspricht. Dies und der Umstand, dass Basel-Stadt eine für
+städtische Regionen typische Stromverbrauchskurve mit der Hauptlast während des Tages hat,
+führt dazu, dass es wohl noch mehrere Jahre dauert, bis durch den weiteren Ausbau der
+Photovoltaik ein unmittelbarer Bedarf an Lastmanagement und Energiespeicherung entsteht. Es
+ist jedoch denkbar, dass es für Basel-Stadt bereits früher opportun ist, Lastmanagement (z.B.
+«Load Shifting», also die gezielte Verschiebung von Stromverbrauch flexibler Verbraucher in
+Zeiten von hohem Stromangebot und guter Verfügbarkeit der Stromnetzkapazität) zu betreiben
+und zusätzlich Energie auf Kantonsgebiet zu speichern. Dies aus verschiedenen Gründen z.B.:
+-
+
+Um Netzausbau und Netzkosten zu vermeiden.
+
+-
+
+Um von günstigen Strom-Marktpreisen zu profitieren und so die Energiekosten im Kanton
+zu senken.
+
+-
+
+Um zu vermeiden, dass z.B. bei hohem PV-Ertrag in Zentral-Europa und entsprechend
+tiefen Börsenstrompreisen, Stromerträge aus IWB-Laufwasserkraftwerken - zu sehr tiefen
+Preisen am Markt verkauft werden müssen oder gar die Turbinierung reduziert oder
+eingestellt werden muss, was indirekt die mittleren Gestehungskosten der
+Grundversorgung der IWB erhöhen könnte.
+
+Ab wann Lastmanagement bzw. Energiespeicherung ökonomisch Sinn macht, hängt allerdings
+nicht nur vom Mehrwert der durch das Lastmanagement bzw. Speicherung geschaffen wird,
+oder den dadurch vermiedenen Kosten ab, sondern auch von den Investitions- und
+Betriebskosten für das dafür erforderliche System selbst. Je nach Technologie und Anwendung,
+sind diese Kosten sehr unterschiedlich und haben unterschiedliche weitere
+Kostensenkungspotentiale und Lernkurven.
+Sowohl die Entwicklung verschiedener Technologien, als auch deren zunehmende Anwendung
+entwickeln sich rasant, was für die rechtzeitige Bereitstellung guter Rahmenbedingungen eine
+Herausforderung sein kann. Im Sinne einer vorausschauenden Planung und um Entwicklungen
+möglichst früh zu antizipieren, bitten die Unterzeichnenden den Regierungsrat zu prüfen und zu
+berichten:
+1. Ob er die Ausarbeitung einer “Roadmap Lastoptimierung und Energiespeicherung” in Form
+eines Ratschlages angehen möchte. Ein solcher Ratschlag könnte Auskunft darüber geben:
+1.1. Mit welcher Entwicklung an Bedarf und Opportunitäten für Lastmanagement und
+Energiespeicherung im Kanton Basel-Stadt über einen geeigneten
+Betrachtungszeitraum zu rechnen ist. Falls nötig und zielführend sind dabei
+verschiedene Szenarien zu untersuchen.
+1.2. Welche Potentiale und Opportunitäten für den Kanton Basel-Stadt bei folgenden
+Technologien und Anwendungen bestehen:
+1.2.1. Lastmanagement von:
+1.2.1.1. Ladestationen batterieelektrischer Fahrzeuge aller Art
+1.2.1.2. Wärmepumpen-Anlagen aller Art
+1.2.1.3. Gewerbliche sowie industrielle Anlagen aller Art
+1.2.1.4. «Power-to-X»-Anlagen aller Art
+1.2.2. Energiespeicher wie:
+1.2.2.1. Stationäre Batteriespeicher aller Art
+1.2.2.2. Bidirektionale Nutzung von Traktionsbatterien von Elektrofahrzeugen aller
+Art («Vehicle-to-Grid»)
+
+1.2.2.3. Thermische Speicher aller Art (einschliesslich (aber nicht ausschliesslich)
+Wärmespeicher von Wärmepumpen-Anlagen, deren Kapazität grösser
+ausgelegt wird als für deren übliche Pufferfunktion nötig)
+1.2.2.4. Speicher aller Art aus gewerblichen sowie industriellen Anlagen aller Art,
+deren Kapazität grösser ausgelegt wird als für deren übliche Anwendung
+nötig (z.B. Prozess-Druckluftspeicher etc.)
+1.2.2.5. Speicher von «Power-to-X»-Speichermedien aller Art
+1.3. Welche weiteren konkreten Lastmanagement- und Energiespeicher-Technologien und
+-Anwendungen für den Kanton Basel-Stadt nützlich sein könnten.
+1.4. Welche regulatorischen Hürden für eine breite und rasche Anwendung der einzelnen
+Technologien bestehen und wie diese bestmöglich abgebaut werden können.
+1.5. Ob eine gezielte Förderung der einzelnen Technologien und Anwendungen sinnvoll
+sein könnte, und falls ja, zu welchen Zeitpunkten und/oder unter welchen Bedingungen
+und auf welche Weise diese eingeführt werden soll. Dies aus Sicht der
+Versorgungssicherheit, aber auch aus volkswirtschaftlicher Sicht.
+2. Sollte der Regierungsrat feststellen, dass ein unmittelbarer Bedarf oder Opportunitäten für
+Lastmanagement und/oder Energiespeicherung bestehen und eine gezielte Förderung oder
+andere Massnahmen angezeigt sein, ist er gebeten diese dem Grossen Rat jederzeit
+vorzulegen.
+Daniel Sägesser, David Wüest-Rudin, Jean-Luc Perret, René Brigger, Melanie
+Nussbaumer, Michela Seggiani, Salome Bessenich, Beda Baumgartner, Brigitte
+Kühne, Nicole Amacher, Oliver Thommen, Raffaela Hanauer, Christoph Hochuli,
+Mahir Kabakci, Leoni Bolz, Daniel Hettich, Beat Braun, Daniel Seiler, Luca Urgese,
+Pascal Pfister, Raphael Fuhrer, Lorenz Amiet
+
+

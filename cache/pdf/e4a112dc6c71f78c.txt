@@ -1,0 +1,175 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+23.5474.02
+
+PD/P235474
+Basel, 12. November 2025
+Regierungsratsbeschluss vom 11. November 2025
+
+Anzug der Justiz-, Sicherheits- und Sportkommission betreffend
+«Transparenz über den Einsatz von algorithmischen Systemen in
+der Verwaltung»
+Der Grosse Rat hat an seiner Sitzung vom 15. November 2023 den nachstehenden Anzug der
+Justiz-, Sicherheits- und Sportkommission dem Regierungsrat zum Bericht überwiesen:
+«Algorithmische Systeme, oft auch benannt als «Künstliche Intelligenz (KI)», werden immer häufiger
+eingesetzt. Aus technischer Perspektive handelt es sich bei «KI» um einen etablierten Sammelbegriff,
+der eine Reihe von Technologien umfasst, die automatisierte Entscheidungen fällen, Empfehlungen
+machen, Schlussfolgerungen ziehen oder Vorhersagen treffen. Dazu gehören wissensbasierte Systeme und statistische Methoden ebenso wie Ansätze des maschinellen Lernens (z.B. unter Einsatz
+neuronaler Netze). Die grosse Leistungsfähigkeit dieser Technologien basiert meist auf der Aneinanderreihung einer Vielzahl von mathematischen Optimierungen, die unter Nutzung grosser Rechnerkapazitäten Strukturen aus grossen Datenmengen extrahieren. In der öffentlichen Verwaltung können
+diese Systeme in unterschiedlichen Kontexten verwendet werden, zum Beispiel bei der Beantwortung
+von Anfragen mit Chatbots, der automatischen Verarbeitung von Steuererklärungen oder Sozialhilfeanträgen, in der vorhersagenden Polizeiarbeit, zur Bewertung des Rückfallrisikos von Straftäterinnen
+oder Straftätern oder zur Prognose der Arbeitsmarktintegration.
+Die öffentliche Verwaltung ist die einzige Anbieterin bestimmter Dienstleistungen oder Erfüllerin von
+Aufgaben, die Teil der Grundversorgung sind, und sie geniesst einen besonderen Zugang zu sensiblen
+Daten. Entsprechend unterliegt sie besonderen Verpflichtungen. Algorithmische Systeme, in diesem
+Fall algorithmische Entscheidungssysteme genannt, werden immer häufiger verwendet, um Entscheidungen über Personen zu treffen, zu empfehlen oder zu beeinflussen, und zwar in einer Weise, die
+Auswirkungen darauf hat, welche Entscheidung getroffen wird. Für die Akzeptanz und das Vertrauen
+der Bevölkerung in staatliche Entscheidungen ist besonders wichtig, dass die betroffenen Personen
+und die interessierte Öffentlichkeit wissen, worauf die von der Verwaltung getroffenen Entscheide beruhen, und dass sie diese nachvollziehen können. Dazu gehört, dass die Bevölkerung wissen kann, in
+welchen Bereichen die Verwaltung algorithmische Systeme, wie sie oben beschrieben sind, einsetzt
+oder experimentell daran arbeitet. Diese Transparenz kann mit einem einfach öffentlich zugänglichen
+Register sichergestellt werden. Der Kanton Zürich bereitet die Einführung eines solches Registers derzeit vor. Für die öffentliche Verwaltung ist diese Transparenz nicht nur ein Erfordernis, sondern auch
+eine Chance.
+Das Register sollte unter anderem Auskunft geben über die Art und Herkunft der bearbeiteten Daten,
+die Rechtsgrundlage, den Verwendungszweck, die verantwortliche Verwaltungseinheit, die Logik des
+algorithmischen Systems, die Akteure (z.B. kantonale Fachabteilungen oder beauftrage private Anbieter), die an der Entwicklung des Systems mitgewirkt haben oder an dessen Einsatz beteiligt sind, sowie
+(falls verfügbar) die Resultate einer Folgenabschätzung zum Einsatz des Systems. Diese Informationen sollen offen und leicht digital zugänglich sein und in einem standardisierten Format aufbereitet
+werden, so dass sie auch für die wissenschaftliche Forschung nutzbar sind. Dabei muss die Wahrung
+
+Publiziert am 14. November 2025 auf: grosserrat.bs.ch
+
+Seite 1/4
+
+Regierungsrat des Kantons Basel-Stadt
+
+von Datenschutzerfordernissen stets sichergestellt werden. Im Falle von legitimen Geheimhaltungsinteressen kann ausnahmsweise auf einen Teil der Angaben verzichtet werden. In letzterem Falle muss
+jedoch die zuständige Aufsichtsbehörde oder die Stelle, gegenüber der vollständige Transparenz geleistet wird, angegeben werden.
+Die JSSK bittet den Regierungsrat deshalb zu prüfen und darüber zu berichten, wie ein Register zur
+Erfassung aller von der kantonalen Verwaltung eingesetzten algorithmischen Entscheidungssysteme
+eingeführt werden kann.
+Für die Justiz-, Sicherheits- und Sportkommission: Barbara Heer, Präsidentin»
+
+Wir berichten zu diesem Anzug wie folgt:
+
+1.
+
+Ausgangslage
+
+Im Oktober 2021 reichten Thomas Gander und Konsorten die Motion «zur Schaffung von
+rechtlichen Grundlagen für die Anwendung von algorithmus-basierter Instrumente in der
+Polizeiarbeit» (21.5704) ein. Der Regierungsrat legte in seiner Stellungnahme vom
+23. Februar 2022 dar, dass die Möglichkeiten, welche die Fortschritte der KI eröffnen, zu Gunsten
+der Bevölkerung genutzt werden sollen. Die Digitalisierung wurde zu einem Schwerpunkt des
+Legislaturplans erklärt. Weiter war der Regierungsrat bereit, die Motion als Anzug
+entgegenzunehmen und über Entwicklungen im Rahmen des «Predictive Policing», auf das sich
+die Motion im Speziellen bezog, zu berichten. Der Grosse Rat hat an seiner Sitzung vom
+18. Mai 2022 die Motion in einen Anzug umgewandelt und auf Antrag der Justiz-, Sicherheits- und
+Sportkommission (JSSK) ebendieser zur Beratung überwiesen. Die JSSK empfahl im
+September 2022 den Anzug abzuschreiben, da die Fragen im Zusammenhang mit dem Einsatz
+algorithmenbasierter Instrumente weit über den Anzug, der sich «nur» auf den Bereich Polizeiarbeit
+beschränkte, hinausgehen. Die JSSK kündigte in ihrem Bericht zum Anzug Gander an, einen
+parlamentarischen Vorstoss mit einer weitergehenden Formulierung der Thematik einzureichen.
+Die Schriftliche Anfrage Danielle Kaufmann betreffend «KI-Systemen im Kanton Basel-Stadt»
+(22.5461) vom Januar 2023 bezog sich auf die laufenden Abklärungen der JSSK in diesem
+Zusammenhang. Der Regierungsrat verwies bezüglich der anstehenden KI-Entwicklungen im
+Kanton auf die laufenden Arbeiten zur Umsetzung der Digital- und Datenstrategie.
+Am 11. Dezember 2024 wurde zudem der Anzug Beat K. Schaller und Konsorten betreffend «Auswirkungen der künstlichen Intelligenz auf den Staat und sein Verhältnis zu den Bürgern» (24.5249)
+überwiesen. Darin werden dem Regierungsrat Fragen zu seiner Position zu KI und zu Nutzen und
+Risiken von KI für die kantonale Verwaltung gestellt.
+Der Bundesrat hat am 27. März 2025 die KI-Konvention des Europarats ratifiziert. Die Konvention
+des Europarats setzt verbindliche Standards für Transparenz und Nichtdiskriminierung im Bereich
+der Künstlichen Intelligenz. Als Resultat ergibt sich gemäss Braun Binder et al. (2025)1 die Pflicht
+für die Kantone, im Bereich «Schaffung eines öffentlichen Registers für KI-Systeme mit
+entsprechender Meldepflicht» gesetzgeberisch tätig zu werden.
+Der Regierungsrat befürwortet den Aufbau eines KI-Registers. Die folgenden Ausführungen geben
+einen kurzen Überblick über die Verwendung von KI in der Verwaltung und den Stand von KIRegistern beim Bund und anderen Kantonen und zeigen das geplante Vorgehen zum Aufbau eines
+entsprechenden Registers für die basel-städtische Verwaltung auf.
+
+2.
+
+KI in der öffentlichen Verwaltung
+
+Die Anwendungsmöglichkeiten von Sprachmodellen (z. B. ChatGPT) und anderen generativen KITechnologien haben sich in den vergangenen Jahren deutlich erhöht. Mit verbesserten Resultaten
+1
+
+Braun Binder, N., Laukenmann N. und A. Kuhn: Rechtliche Umsetzung der KI-Konvention in den Kantonen. Zeitschrift für Schweizerisches Recht
+ZSR/RDS Band 144 (2025) I Heft 4, S. 313.
+
+Seite 2/4
+
+Regierungsrat des Kantons Basel-Stadt
+
+zum Beispiel von Sprachmodellen und Transkriptionsdiensten («speech to text») ergeben sich
+grosse Potenziale für die kantonale Verwaltung, sowohl für interne Abläufe als auch für die
+Kommunikation mit und Dienstleistungen für Einwohnerinnen und Einwohner des Kantons. Seit
+August 2024 verwendet der Kanton Basel-Stadt auf seiner neuen Webseite einen KI-basierten
+Chatbot (Alva), der eine Auskunftsfunktion über die Verwaltung von Basel-Stadt innehat. Der Chatbot ermöglicht, dass Fragen der Userinnen und User auch ausserhalb der Büroöffnungszeiten beantwortet werden. Seit Mitte 2025 stehen drei Test-KI-Tools (transcribo, BS-Übersetzer, TextMate)
+für Verwaltungsmitarbeitende auf der kantonseigenen Test-KI-Infrastruktur zur Verfügung, Informationen zu den Tools sind hier öffentlich zugänglich:
+https://www.bs.ch/schwerpunkte/daten/databs/schwerpunkte/kuenstliche-intelligenz
+Bestrebungen zur Erstellung von KI-Registern bestehen in mehreren Kantonen und in der
+Bundesverwaltung. Der Regierungsrat des Kantons Zürich wurde im Januar 2022 im Rahmen eines
+Postulats angefragt, die Möglichkeit der Einführung eines KI-Registers zu prüfen. Der Aufbau des
+Verzeichnisses über «Automatische Entscheidsysteme» ist derzeit in Arbeit. Das
+Kompetenznetzwerk für künstliche Intelligenz des Bundes (CNAI) pflegt eine öffentlich zugängliche
+Projektdatenbank, in der KI-basierte Projekte aus der Bundesverwaltung aufgelistet sind. Der
+Kanton Appenzell Innerrhoden hat ein Verzeichnis mit vier algorithmischen Systemen publiziert. Es
+gibt noch keine einheitliche Praxis, welche Systeme in den Verzeichnissen erfasst werden müssen
+und welche nicht. Auch bezüglich der ausgewiesenen Merkmale unterscheiden sich die Register.
+Der Kanton Basel-Stadt engagiert sich in einem von der Digitalen Verwaltung Schweiz und dem
+Bundesamt für Statistik initiierten nationalen und interkantonalen Austauschgremium zu
+Datenwissenschaften und KI, worin eine entsprechende Koordination stattfinden kann.
+
+3.
+
+Vorgehen
+
+Die im April 2023 verabschiedete kantonale Datenstrategie gibt vor, dass sich die Datenbewirtschaftung im Kanton nach den Prinzipien der gemeinsamen Datennutzung, dem Datenschutz sowie der Transparenz und Offenheit richten soll und nennt den Aufbau eines KI-Registers als ein
+Ziel, um ebendiese Transparenz gegenüber der Öffentlichkeit sicherzustellen. In den Schwerpunkten der Legislatur 2025–2029 ist unter dem Punkt «Zukunftsfähige Verwaltung» das Ziel «Data
+Science und KI vorausschauend nutzen» formuliert. Darin wird die Entwicklung einer KI-Strategie
+angekündigt. In seinem Ratschlag und Nachtragskredit 2026 für die Umsetzung KI in der kantonalen Verwaltung vom 5. November 2025 erläutert der Regierungsrat die weiteren Schritte. Die Arbeiten an der KI-Strategie haben bereits gestartet, das KI-Register wird in die Strategieentwicklung
+miteinbezogen.
+Das KI-Register soll die Transparenz des Kantons bezüglich der Verwendung von algorithmischen
+Systemen erhöhen und so das Vertrauen in die kantonale Verwaltung stärken. Zudem kann ein
+öffentliches Register dazu beitragen, allfällige Diskriminierungen durch algorithmische Systeme zu
+erkennen. Der Regierungsrat ist sich bewusst, dass KI-Technologien neben ihrem grossen Potential auch Risiken beinhalten (z. B. Generieren von Fehlinformationen, diskriminierende
+Algorithmen).
+Es stellen sich zahlreiche inhaltliche und rechtliche Fragen, die für die praktische Umsetzung eines
+derartigen Registers geklärt werden müssen:
+-
+
+Definition beziehungsweise Eingrenzung der algorithmischen Systeme, die im Register aufgenommen werden sollen;
+Definition der zu erhebenden Informationen;
+Klärung des Erhebungsprozesses/Einbindung in bestehende verwaltungsinterne Prozesse und
+Werkzeuge (z. B. Datenkatalog);
+Festlegen der Publikationsform und Definition der Informationen aus dem Register, die publiziert werden;
+
+Seite 3/4
+
+Regierungsrat des Kantons Basel-Stadt
+
+-
+
+Prüfung der rechtlichen Grundlagen für die Erhebung und Publikation der Registerdaten (Zuständigkeit, Umfang, Pflicht zur Datenlieferung).
+
+Der Regierungsrat klärt die offenen Fragen und baut das Register innerhalb der nächsten
+zwei Jahre auf.
+
+4.
+
+Antrag
+
+Wir beantragen, den Anzug der Justiz-, Sicherheits- und Sportkommission betreffend «Transparenz über den Einsatz von algorithmischen Systemen in der Verwaltung» stehen zu lassen.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Dr. Conradin Cramer
+Regierungspräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Seite 4/4
+
+

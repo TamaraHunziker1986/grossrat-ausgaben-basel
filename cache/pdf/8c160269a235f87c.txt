@@ -1,0 +1,48 @@
+Anzug betreffend Gesichtserkennungs-Software für Kantonspolizei und
+Staatsanwaltschaft
+
+26.5405.01
+
+Der Regierungsrat schreibt auf die Schriftliche Anfrage Christoph Hochuli betreffend «der Kantonspolizei und der
+Staatsanwaltschaft die Bildfahndung mit KI-Tools ermöglichen» (26.5151.02), dass die Verwendung von
+öffentlichen KI-Tools im Internet für die Bildfahndung in den meisten Fällen eine Persönlichkeitsverletzung
+darstellen würde und als rechtlich unzulässig einzustufen sei. Auch bestehe derzeit keine hinreichende
+gesetzliche Grundlage für die Bildfahndung mit öffentlich zugänglichen KI-Tools durch die Kantonspolizei oder die
+Staatsanwaltschaft. Auf kantonaler Ebene könne eine solche Grundlage nicht geschaffen werden, nur der Bund
+dürfe in dieser Sache legiferieren. Das ist gut nachvollziehbar.
+Eine andere Möglichkeit sind Gesichtserkennungs-Softwares mit internen Fotobeständen. Der Regierungsrat
+schreibt dazu, dass der Bundesrat die Auffassung vertrete, dass auf Grundlage der bestehenden gesetzlichen
+Bestimmungen biometrische Gesichtsdaten zur Identifizierung von Personen im Rahmen von Ermittlungen und
+Strafverfahren verwendet werden dürfen. Gemäss Regierungsrat wären dennoch klare, detaillierte gesetzliche
+Regelungen notwendig. Die rechtlichen Abklärungen diesbezüglich würden eine vertiefte Recherche
+voraussetzen, die den Rahmen einer Schriftlichen Anfrage sprengen.
+Die Verwendung einer Gesichtserkennungs-Software mit internen Fotobeständen würde die
+Persönlichkeitsrechte weniger verletzen, als wenn die Bilder von mutmasslichen Tätern und Täterinnen für eine
+Öffentlichkeitsfahndung ins Internet gestellt werden. Auch deshalb wäre es sinnvoll, wenn auch die
+Kantonspolizei und die Staatsanwaltschaft Basel-Stadt eine Gesichtserkennungs-Software anschaffen, wie sie
+andere Polizeikorps verwenden. Die Kantonspolizei St. Gallen nutzt beispielsweise «Griffeye». Solche
+polizeiinternen Programme sind nicht mit dem Internet verbunden und greifen nur auf eigenes Bildmaterial der
+Kantonspolizei resp. Staatsanwaltschaft zurück. Bei welchen Delikten und unter welchen Voraussetzungen die
+Gesichtserkennungs-Software verwendet werden darf, müsste definiert werden. Die durch die Software
+zusammengeführten Personenbilder müssten jedenfalls zusätzlich durch Behördenmitarbeitende verifiziert
+werden.
+Die Unterzeichnenden bitten den Regierungsrat zu prüfen und zu berichten,
+ob der Kantonspolizei und der Staatsanwaltschaft eine Gesichtserkennungs-Software zur Verfügung
+gestellt werden kann, um mit internen Fotobeständen Bildfahndung zu betreiben,
+welche Anwendungsfälle – insbesondere bezogen auf Delikte – eines Gesichtsbildabgleichs mittels einer
+Gesichtserkennungs-Software mit internen Bildbeständen auf kantonaler Ebene geregelt werden könnten
+und welche Fälle auf nationaler Ebene geregelt werden müssten,
+unter welchen gesetzlichen Voraussetzungen ein solcher Bildabgleich im Kanton Basel-Stadt zugelassen
+werden könnte. (Insbesondere unter Berücksichtigung von Referenzbeständen und Suchbildern,
+Deliktskatalog, Subsidiarität, Anordnungs- und Genehmigungszuständigkeit, Protokollierung,
+Aufbewahrung und Löschung, Benachrichtigung der betroffenen Personen, Verwertbarkeit sowie Aufsicht
+und Evaluation.)
+ob auch interne Bilderdatenbanken der anderen kantonalen Polizeikorps für den Bildabgleich verwendet
+werden können, beziehungsweise unter welchen Voraussetzungen dies möglich wäre und ob die eigenen
+Bilder der Kantonspolizei Basel-Stadt auf Anfrage auch den anderen Polizeikorps zur Verfügung stellen
+dürfte.
+Christoph Hochuli, Michael Graber, Anina Ineichen, Bruno Lötscher-Steiger, Gabriel Nigon, David
+Jenny, Daniel Albietz, Felix Wehrli, Patrick Fischer, Oliver Thommen, Silvia Schweizer, Adrian
+Iselin, Niggi Daniel Rechsteiner
+
+

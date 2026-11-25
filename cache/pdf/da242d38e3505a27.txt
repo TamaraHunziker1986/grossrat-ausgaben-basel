@@ -1,0 +1,76 @@
+Anzug betreffend Wahltarife mit dynamischen Energie- und Netz23.5514.01
+nutzungspreisen für flexible elektrische Lasten
+Mit zunehmendem Anteil an erneuerbaren Energien wie Wind und Sonne, häufen sich die
+Zeiten, in denen das Angebot an elektrischer Energie die Nachfrage übersteigt. Aufgrund
+unflexibler Kraftwerke wie z.B. AKW, die aus technischen oder betriebsökonomischen Gründen
+ihre kurzfristige Erzeugungsleistung nicht der Nachfrage anpassen können, kann ein daraus
+resultierendes Überangebot zu negativen Strompreisen am Markt führen.
+Dieses Phänomen ist bereits seit einigen Jahren aus Ländern, welche bereits sehr weit sind
+beim Ausbau der neuen erneuerbaren Energien (z.B. Deutschland) bekannt. Aber auch in der
+Schweiz tritt dieses Phänomen zunehmend auf: z.B. lag am Sonntag, 02. Juli 2023 der
+Marktpreis für elektrische Energie in der Schweiz zeitweise bei -143 EUR/MWh. Wer in dieser
+Zeit Strom am Markt eingekauft und verbraucht hat, hat also Geld bekommen, statt dafür zu
+bezahlen. Aufgrund der Schweizer Teil-Liberalisierung (Zugang zum freien Markt, erst ab mind.
+100 MWh/Jahr) können durch gezielten Stromverbrauch zu diesen Zeiten nur Grossverbraucher
+mit entsprechendem Stromliefervertrag von solchen Negativ-Preisen profitieren.
+Kleinverbraucher in der Standard-Grundversorgung haben in der Schweiz jeweils im Voraus für
+das Frontjahr fixierte Tarife. Eine kurzfristige energiewirtschaftlich sinnvolle
+Verbrauchsanpassung (Verschiebung von flexiblem Verbrauch wie z.B. Wärmepumpen,
+Elektroauto, Batteriespeicher etc., in Zeiten von grossem Energieangebot), wird also nicht
+monetär belohnt. Abgesehen davon fehlt Nicht-Fachleuten die Information, zu welchem
+Zeitpunkt die Marktpreise günstig oder sogar negativ sind.
+In voll liberalisierten Strommärkten, wie z.B. Deutschland und Österreich werden vom Markt
+auch für Kleinverbraucher*innen bereits seit einigen Jahren Tarifmodelle mit dynamischen
+Preisen angeboten.
+Die Regulierung der Grundversorgung in der Schweiz, lässt es allerdings zu, dass auch in der
+Grundversorgung - neben einem streng regulierten Basis-Tarif - beliebig viele weitere
+sogenannte „Wahltarife“ angeboten werden dürfen. Mit der Abschaffung der
+Durchschnittspreismethode im Rahmen des Energie Mantelerlasses wird auf nationaler Ebene
+zudem eine weitere wichtige regulatorische Hürde abgebaut. Es wäre also aus regulatorischer
+Sicht möglich, auch in der Schweiz Tarifmodelle mit dynamischen Preisen für Kundinnen und
+Kunden der Grundversorgung anzubieten.
+In einem solchen neuen Wahltarif sollte jedoch nicht nur der Energiepreis dynamisch dem
+Marktpreis folgen, sondern auch das Netznutzungsentgelt sollte sich dynamisch an der
+verfügbaren Kapazität orientieren. So, dass die flexiblen Lasten nicht nur energiewirtschaftlich
+sinnvoll, sondern auch netzdienlich betrieben werden. Denn gerade in einem städtischen Raum
+wie dem Kanton Basel-Stadt sind günstige Markt-Energiepreise nicht immer zeitlich synchron
+mit genügend vorhandenen Netzkapazitäten.
+Ausserdem müssen die flexiblen Tarife in geeigneter Weise kommuniziert werden. Zum einen
+auf einem niederschwelligen Kanal für die analoge/manuelle Verbrauchssteuerung (z.B. per
+Website, App, Push-Nachricht etc.), andererseits aber auch digital (z.B. per API) für die
+automatische Auslesung zur Ansteuerung sogenannt „smarter“ Lasten und
+Energiemanagement-Systemen.
+Die Anzugsstellenden bitten den Regierungsrat zu prüfen und zu berichten,
+-
+
+-
+
+-
+
+ob die IWB bereit ist, innert nützlicher Frist dynamische Wahltarife für Kundinnen und
+Kunden in der Grundversorgung anzubieten, deren Energiepreis sich am kurzfristigen
+Spotpreis und deren Netznutzungsentgelt sich an der verfügbaren Stromnetz-Kapazität
+orientiert.
+Ob, im Falle von regulatorischen Hürden auf nationaler Ebene, solche Tarife als
+«innovative Massnahme» in Sinne der StromVV eingeführt werden könnten.
+Ob und falls ja, wie, der Regierungsrat sich auf nationaler Ebene für geeignete
+regulatorische Rahmenbedingungen die solche flexiblen Tarife ermöglichen und
+erleichtern einsetzen kann.
+auf welche Weise solche dynamischen Tarife zweckdienlich kommuniziert werden
+könnten.
+
+-
+
+-
+
+ob die (erneuerbare) elektrische Energie für Verbraucher mit dynamischem Wahltarif (in
+Abweichung vom sonstigen IWB-Grundsatz des möglichst hohen Eigenproduktionsanteils
+in der Grundversorgung) am Strommarkt beschafft werden soll.
+ob er bereit ist, nach einem geeigneten Auswertungszeitraum über die PraxisErfahrungen solcher dynamischen Wahltarife zu berichten.
+Daniel Sägesser, David Wüest-Rudin, Jean-Luc Perret, René Brigger, Leoni Bolz,
+Oliver Thommen, Michela Seggiani, Salome Bessenich, Melanie Nussbaumer, Beda
+Baumgartner, Brigitte Kühne, Christoph Hochuli, Raphael Fuhrer, Jérôme Thiriet,
+Mahir Kabakci, Nicole Amacher, Daniel Hettich, Beat Braun, Daniel Seiler, Luca
+Urgese, Pascal Pfister, Raffaela Hanauer, Lorenz Amiet
+
+

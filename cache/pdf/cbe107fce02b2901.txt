@@ -1,0 +1,372 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+26.0321.01
+26.0331.01
+24.5424.03
+
+FD/P260321, P260331, P245424
+Basel, 29. April 2026
+Regierungsratsbeschluss vom 28. April 2026
+
+Ratschlag zur Teilrevision des Gesetzes über die Wohnraumförderung vom 5. Juni 2013
+und
+
+Ratschlag betreffend Rahmenausgabenbewilligung für die Gewährung von Restfinanzierungsdarlehen zugunsten des gemeinnützigen Wohnraums
+sowie
+
+Bericht zur Motion Daniel Albietz und Konsorten betreffend Restfinanzierungsdarlehen für gemeinnützige Wohnbauträger; Stellungnahme
+
+Publiziert am 30. April 2026 auf: grosserrat.bs.ch
+
+Seite 1/8
+
+Regierungsrat des Kantons Basel-Stadt
+
+Inhalt
+1.
+
+Begehren .................................................................................................................... 3
+
+2.
+
+Inhalt der Motion ....................................................................................................... 3
+
+3.
+
+Ausgangslage ............................................................................................................ 4
+
+4.
+
+Anpassung des Wohnraumfördergesetzes............................................................. 4
+4.1
+
+Erläuterungen zu § 11a WRFG Restfinanzierungdarlehen .......................................................... 5
+
+5.
+
+Inkrafttreten ............................................................................................................... 6
+
+6.
+
+Finanzielle Auswirkungen ........................................................................................ 6
+
+7.
+
+Formelle Prüfungen und Regulierungsfolgensabschätzung................................. 6
+
+8.
+
+Antrag ......................................................................................................................... 6
+
+Seite 2/8
+
+Regierungsrat des Kantons Basel-Stadt
+
+1.
+
+Begehren
+
+Mit der Motion Daniel Albietz und Konsorten betreffend «Restfinanzierungsdarlehen für gemeinnützige Wohnbauträger» wurde der Regierungsrat damit beauftragt, binnen eines Jahres eine gesetzliche Grundlage auszuarbeiten, welche die Gewährung von Darlehen zur Restfinanzierung von Liegenschaftskäufen durch gemeinnützige Wohnbauträger ermöglicht.
+Mit diesem Ratschlag beantragen wir Ihnen, die Teilrevision des Wohnraumfördergesetzes vom
+5. Juni 2013 (WRFG; SR 861.500) betreffend Einführung eines neuen Finanzierungsinstruments
+in Form eines Restfinanzierungsdarlehens und die dazugehörige Rahmenausgabenbewilligung zu
+genehmigen sowie die Motion Daniel Albietz und Konsorten betreffend «Restfinanzierungsdarlehen für gemeinnützige Wohnbauträger» als erledigt abzuschreiben.
+
+2.
+
+Inhalt der Motion
+
+Der Grosse Rat hat an seiner Sitzung vom 26. März 2025 vom Schreiben 24.5424.02 Kenntnis
+genommen und – entgegen dem Antrag des Regierungsrates – die nachstehende Motion Daniel Albietz und Konsorten dem Regierungsrat zur Erfüllung innert einem Jahr überwiesen.
+«Der Boden im Kanton Basel-Stadt ist endlich. Die Bodenpreise haben sich seit der Finanzkrise vervielfacht. Seit der Zinswende (Ende 2022) stagnieren sie aber und beginnen sogar langsam zu sinken.
+Es ist ein guter Zeitpunkt für gemeinnützige Wohnbauträger, diese Gelegenheit zu nutzen und Liegenschaften zu kaufen. Aktuell beträgt der gesamtkantonale Anteil an preisgünstigem Wohnraum knapp
+14%. Dieser Anteil ist bis 2035 auf 17% und bis 2050 sogar auf 25% zu erhöhen. Dies hält der Regierungsrat in seinem eigenen Bericht zur Umsetzung des Verfassungsauftrags «Recht auf Wohnen»
+fest. Weiter wurde nun dieser Zielwert im unlängst verabschiedeten parlamentarischen Gegenvorschlag zur Initiative «Basel baut Zukunft» im Bau- und Planungsgesetz neu verankert. Das Hauptziel
+von gemeinnützigen Wohnbauorganisationen ist es, preisgünstige Wohnungen auf Basis der Kostenmiete dauerhaft zu vermieten. Der gemeinnützige Wohnungsbau ist aber mit den über 13'000 Wohnungen auch ein wirtschaftlicher Faktor im Baugewerbe: Neubauten und Sanierungen generieren eine
+ansehnliche Wertschöpfung und tragen zum Erhalt von Arbeitsplätzen bei.
+Möchten gemeinnützige Wohnbauträger Liegenschaften auf dem Immobilienmarkt erwerben, insbesondere wenn Liegenschaften an Meistbietende verkauft werden, sind die erzielten Kaufpreise oft zu
+hoch: Sie orientieren sich am zukünftigen Mietzinspotenzial und nicht an den effektiven Mietzinseinnahmen. Genau diese Herausforderung hindert gemeinnützige Wohnbauträger oft daran, eine Liegenschaft zu kaufen, weil sich eine klassische Finanzierung aufgrund der hohen Kaufpreise nicht realisieren lässt. Mit Restfinanzierungsdarlehen kann dieses Problem gelöst werden. Diese Darlehen werden
+verzinst und sind über 20 Jahre rückzahlbar. Die Restfinanzierungsdarlehen wären ein neues kantonales Finanzierungsinstrument und bräuchten deshalb eine Verankerung im Wohnraumförderungsgesetz (WRFG). Der Wirkungsmechanismus ist einfach und direkt. Die Restfinanzierungsdarlehen können pro Wohnung beantragt werden. Dies entspricht der gängigen eidgenössischen
+Wohnbauförderung. Die Darlehen werden nachrangig hinter den klassischen Finanzierungen und den
+bestehenden Bundesdarlehen (Fonds de Roulement) gewährt. Die Hebelwirkung dieses zusätzlichen
+Finanzierungsinstruments ist als hoch einzuschätzen, denn erst durch diese Restfinanzierung können
+die in Zentrumslagen üblichen höhen Kaufpreise durch gemeinnützige Wohnbauträger bezahlt werden.
+Deshalb fordern die Unterzeichneten die Regierung des Kantons Basel-Stadt dazu auf, eine gesetzliche Grundlage auszuarbeiten mit dem Zweck, Darlehen zur Restfinanzierung von Liegenschaftskäufen durch gemeinnützige Bauträger gemäss folgenden Grundsätzen zu gewähren.
+1. Gemeinnützigen Wohnbauträgern, die Wohnungen auf der Basis der Kostenmiete vermieten und
+erstellen, können Darlehen zur Restfinanzierung (max. 20'000 CHF pro Wohnung) gewährt werden.
+2. Dem Grossen Rat ist innerhalb eines Jahres eine entsprechende Rahmenausgabenbewilligung
+in der Höhe von mindestens 40 Millionen Franken vorzulegen. Die bereits bestehende Rahmenausgabenbewilligung von 20 Millionen Franken für den Erwerb von Arealen und Liegenschaften
+zugunsten des gemeinnützigen Wohnraumangebots ist zu integrieren. Diese durch den Grossen
+Rat bereits beschlossene Rahmenausgabenbewilligung finanziert dabei eine allfällige Differenz
+
+Seite 3/8
+
+Regierungsrat des Kantons Basel-Stadt
+
+zwischen Kaufpreis (oftmals Marktpreis für Stockwerkeigentum) und Wert des Baurechts für Boden und Gebäude (Marktpreis für preiswerte Mietwohnungen mit Auflage «im öffentlichen Interesse»).
+Daniel Albietz, Roger Stalder, Bruno Lötscher-Steiger, Franz-Xaver Leonhardt, Ivo Balmer, Christoph Hochuli, Bülent Pekerman, Lea Wirz, Thomas Widmer-Huber, René Brigger, Christine Keller,
+Tonja Zürcher, Pascal Pfister»
+
+3.
+
+Ausgangslage
+
+Gemäss § 9 Wohnraumfördergesetz (WRFG) fördert der Kanton die Tätigkeit von Organisationen
+des gemeinnützigen Wohnungsbaus. Zu diesem Zweck sind im WRFG verschiedene Fördermassnahmen und Instrumente verankert, welche die Deckung des Bedarfs an preisgünstigem Mietwohnraum sicherstellen sollen.
+Die bestehenden Instrumente – namentlich die Abgabe von Arealen im Baurecht, zinsgünstige
+Darlehen für Projektentwicklungen, Bürgschaften und Beratungen – bilden das Fundament der
+kantonalen Förderungsinstrumente. Mit der vorliegenden Ergänzung soll eine gezielte Erweiterung
+des bestehenden Förderkatalogs erfolgen: Die Möglichkeit der Vergabe von Restfinanzierungsdarlehen für den Erwerb von Liegenschaften durch gemeinnützige Wohnbauträger.
+Damit wird dem Umstand Rechnung getragen, dass der Zugang zu geeigneten Liegenschaften auf
+dem aktuellen Immobilienmarkt zunehmend erschwert ist und gemeinnützige Wohnbauträger trotz
+solider Finanzierungskonzepte die oftmals hohen Marktpreise gewinnorientierter Investoren nicht
+tragen können. Das Restfinanzierungsdarlehen ermöglicht eine Schliessung von allfälligen Finanzlücken und stellt die Wettbewerbsfähigkeit der gemeinnützigen Trägerschaften sicher.
+
+4.
+
+Anpassung des Wohnraumfördergesetzes
+
+In Erfüllung der Motion Daniel Albietz und Konsorten betreffend «Restfinanzierungsdarlehen für
+gemeinnützige Wohnbauträger» legt der Regierungsrat dem Grossen Rat die nachfolgende Teilrevision des Wohnraumfördergesetzes vor.
+Wohnraumfördergesetz vom 5. Juni 2013
+
+Neu
+§ 11a Restfinanzierungsdarlehen
+1
+Der Kanton kann Darlehen im Sinne einer
+Restfinanzierung für den Erwerb von Mietwohnraum für den gemeinnützigen Wohnungsbau
+vergeben.
+2
+Die Antragstellung erfolgt an das zuständige
+Departement. Der Regierungsrat kann eine geeignete Institution mit der Prüfung entsprechender Gesuche betrauen.
+3
+Das Darlehen wird ungesichert an die erwerbende Organisation des gemeinnützigen Wohnungsbaus vergeben.
+4
+Das Darlehen wird verzinst und ist innert
+20 Jahren zurückzuzahlen.
+5
+Die Höhe des Darlehens beträgt maximal
+Fr. 20'000 pro Wohnung der zu erwerbenden
+Liegenschaft.
+6
+Der Regierungsrat regelt die mit der Darlehensgewährung verbundenen Auflagen. Er legt
+insbesondere Auflagen zur Sicherstellung der
+
+Seite 4/8
+
+Regierungsrat des Kantons Basel-Stadt
+
+Nachhaltigkeit und Qualität der Bauvorhaben
+sowie wohnpolitische Auflagen fest.
+
+4.1
+
+Erläuterungen zu § 11a WRFG Restfinanzierungdarlehen
+
+Zu Absatz 1, neu:
+Diese Bestimmung schafft die gesetzliche Grundlage für die Vergabe von Restfinanzierungsdarlehen durch den Kanton. Der Kanton kann den Erwerb von Liegenschaften durch Organisationen
+des gemeinnützigen Wohnungsbaus finanziell unterstützen, sofern diese dem gemeinnützigen
+Wohnungsbau gewidmet und dauerhaft der Kostenmiete unterstellt sind. Die Vergabe von Restfinanzierungsdarlehen ist dabei nicht auf den Erwerb von Grundeigentum beschränkt, sondern kann
+auch erfolgen, wenn die Organisation eine Liegenschaft im Baurecht erwirbt. Das neue Finanzierungsinstrument fügt sich in den bestehenden Förderrahmen des WRFG ein.
+Der Begriff der Restfinanzierung kommt daher, dass das Darlehen nicht die Hauptfinanzierung des
+Erwerbs ersetzt, sondern ergänzend zu den bestehenden Finanzierungsquellen – namentlich zu
+Eigenmitteln und Hypothekarfinanzierungen – eingesetzt wird. Es kommt ausschliesslich zur Anwendung, soweit nach Ausschöpfung der bestehenden Finanzierungsmöglichkeiten eine Finanzierungslücke verbleibt.
+Zu Absatz 2, neu:
+Die Antragstellung erfolgt zentral an das Finanzdepartement. Die Gewährung eines Restfinanzierungsdarlehens setzt voraus, dass die Tragbarkeit des beantragten Restfinanzierungsdarlehens in
+Bezug auf die zu erwerbende Liegenschaft sowie die Einhaltung allfälliger Auflagen (vgl. Absatz 6)
+erfüllt sind. Die entsprechende Prüfung des Gesuchs kann an eine geeignete Institution delegiert
+werden. Dieses Vorgehen erlaubt es, die Prüfung an eine Stelle zu übertragen, die über die notwendigen technischen, wirtschaftlichen und wohnpolitischen Kompetenzen verfügt, während die
+Gesamtverantwortung weiterhin beim zuständigen Departement bleibt. Dieses Vorgehen hat sich
+bereits in Zusammenhang mit der Vergabe von Projektentwicklungsdarlehen und Bürgschaften bewährt, bei denen der regionale Dachverband der Wohnbaugenossenschaften die Vorprüfung übernimmt. Es erscheint zweckmässig, wenn auch bei der Vergabe von Restfinanzierungsdarlehen der
+Verband wohnbaugenossenschaften nordwestschweiz die Prüfung im Auftrag des Kantons übernimmt.
+Zu Absatz 3, neu:
+Die Gewährung der Restfinanzierungsdarlehen erfolgt durch den Regierungsrat direkt an die Organisation des gemeinnützigen Wohnungsbaus. Das Restfinanzierungsdarlehen wird grundpfandrechtlich nicht gesichert.
+Zu Absatz 4, neu:
+Das Restfinanzierungsdarlehen ist innert 20 Jahren zurückzuzahlen und wird verzinst. Es ist eine
+regelmässige Amortisation des Restfinanzierungsdarlehens vorzusehen. Die Festlegung des Zinssatzes erfolgt durch das Finanzdepartement. Die für die Restfinanzierungsdarlehen zur Verfügung
+stehenden Mittel werden einmalig ausgegeben und können nach Rückzahlung nicht für weitere
+Darlehen verwendet werden.
+Zu Absatz 5, neu:
+Die Höhe des Restfinanzierungsdarlehens ist auf maximal 20'000 Franken pro Wohnung der zu
+erwerbenden Liegenschaft begrenzt. Die Bemessung pro Wohnung schafft Transparenz und ermöglicht eine einheitliche Anwendung unabhängig von Grösse und Struktur der Liegenschaft.
+Zu Absatz 6, neu:
+Diese Bestimmung ermächtigt den Regierungsrat, die für die Gewährung des Restfinanzierungsdarlehens notwenigen Auflagen festzulegen. Der Regierungsrat hat in § 10 der Verordnung über
+
+Seite 5/8
+
+Regierungsrat des Kantons Basel-Stadt
+
+die Wohnraumförderung (WRFV; SG 861.520) in Zusammenhang mit den Förderinstrumenten für
+gemeinnützige Wohnbauträger bereits Auflagen festgelegt. Diese sollen auch für den neuen
+§ 11a WRFG gelten.
+
+5.
+
+Inkrafttreten
+
+Das Inkrafttreten der neuen Bestimmungen wird durch den Regierungsrat festgelegt. Der Erlass
+der notwendigen Verordnungsbestimmungen zum neuen § 11a erfolgt nach dem Beschluss über
+die Teilrevision des Wohnraumfördergesetzes durch den Grossen Rat und wird durch das Finanzdepartement ausgearbeitet.
+
+6.
+
+Finanzielle Auswirkungen
+
+Für die Gewährung von Restfinanzierungsdarlehen sollen insgesamt 40 Mio. Franken zur Verfügung stehen. Dem Grossen Rat wird mit vorliegendem Bericht eine Rahmenausgabebewilligung in
+der Höhe von 40 Mio. Franken beantragt. Die bereits beschlossene Rahmenausgabenbewilligung
+in der Höhe von 20 Mio. Franken für Investitionsbeiträge für den Erwerb von Grundstücken zugunsten von preisgünstigem Wohnraum nach dem Prinzip der dauerhaften Kostenmiete oder für den
+Erwerb von Grundstücken im Verwaltungsvermögen des Kantons für die Erstellung von preisgünstigem Wohnraum (Beschluss Nr. 21/2/11G vom 13. Januar 2021) wird gemäss Motionsanliegen
+integriert. Die Restfinanzierungsdarlehen werden einmalig ausgerichtet, verzinst und sind innert
+20 Jahren zurückzuzahlen. Die eingesetzten Mittel sowie die Zinserträge fliessen demnach wieder
+an den Kanton zurück.
+
+7.
+
+Formelle Prüfungen und Regulierungsfolgensabschätzung
+
+Das Finanzdepartement hat den vorliegenden Ratschlag gemäss § 8 des Gesetzes über den kantonalen Finanzhaushalt (Finanzhaushaltgesetz) vom 14. März 2012 überprüft.
+Das Justiz- und Sicherheitsdepartement hat den Erlass gemäss § 4 Abs. 1 des Gesetzes über Publikationen im Kantonsblatt und über die Gesetzessammlung des Kantons Basel-Stadt vom
+19. Oktober 2016 (Publikationsgesetz; SG 151.200) in redaktioneller und gesetzestechnischer Hinsicht geprüft.
+Der Vortest zur Regulierungsfolgenabschätzung hat ergeben, dass Unternehmen von der Revision
+des Wohnraumfördergesetzes nicht negativ betroffen sind. Eine Regulierungsfolgenabschätzung
+ist folglich nicht durchzuführen.
+
+8.
+
+Antrag
+
+Gestützt auf unsere Ausführungen beantragen wir dem Grossen Rat den nachstehenden Beschlussentwurf für eine Rahmenausgabenbewilligung für die Gewährung von Restfinanzierungsdarlehen zugunsten des gemeinnützigen Wohnungsbaus und den Erwerb von Grundstücken (Beilage 1) anzunehmen, die beiliegende Änderung des Wohnraumfördergesetzes (Beilage 2) zu
+
+Seite 6/8
+
+Regierungsrat des Kantons Basel-Stadt
+
+beschliessen sowie die Motion Daniel Albietz und Konsorten betreffend «Restfinanzierungsdarlehen für gemeinnützige Wohnbauträger» als erledigt abzuschreiben.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Dr. Conradin Cramer
+Regierungspräsident
+
+Marco Greiner
+Vizestaatsschreiber
+
+Beilagen
+- Entwurf Grossratsbeschluss
+- Änderung des Wohnraumfördergesetzes
+- Vortest Regulierungsfolgenabschätzung (RFA)
+
+Seite 7/8
+
+Regierungsrat des Kantons Basel-Stadt
+
+Grossratsbeschluss
+Rahmenausgabenbewilligung für die Gewährung von Restfinanzierungsdarlehen zugunsten des gemeinnützigen Wohnraums
+(vom [Datum eingeben])
+Der Grosse Rat des Kantons Basel-Stadt, nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. [Nummer eingeben] vom [Datum eingeben] und nach dem mündlichen Antrag der
+[Kommission eingeben] vom [Datum eingeben], beschliesst:
+1.
+
+Für die Gewährung von Restfinanzierungsdarlehen zugunsten des gemeinnützigen Wohnraumangebots gemäss § 11a WRFG wird eine Rahmenausgabenbewilligung von insgesamt Fr. 40'000’000 zulasten des Investitionsbeitragsbereichs Darlehen und Beteiligungen
+bewilligt. Die Rahmenausgabenbewilligung unterliegt keiner zeitlichen Beschränkung.
+
+2.
+
+Der Beschluss des Grossen Rates Nr. 21/2/11G vom 13. Januar 2021 betreffend die Rahmenausgabenbewilligung für den Erwerb von Grundstücken wird aufgehoben.
+
+Dieser Beschluss ist zu publizieren. Er untersteht dem Referendum.
+
+Seite 8/8
+
+FORMELL GEPRÜFT | ID: 6836 | 05.02.2026
+
+Gesetz über die Wohnraumförderung
+(Wohnraumfördergesetz, WRFG)
+
+Ändemng vom [Datum]
+Der Grosse Rat des Kantons Basel-Stadt,
+
+nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. [Ratschlag-Nr.] vom [Datum] sowie in
+den Bericht der [Kommission] Nr. [Kommissionsbericht-Nr.] vom [Datum],
+beschliesst:
+
+I.
+Gesetz über die Wohnraumförderung (Wohnraumfördergesetz, WRFG) vom 5. Juni 2013 1) (Stand
+17. Februar 2025) wird wie folgt geändert:
+§ lla(neu)
+Restßnanzierungsdarlehen
+
+' Der Kanton kann Darlehen im Sinne einer Restfinanzierung zum Erwerb von Mietwohnraum für den
+gemeinnützigen Wohnungsbau vergeben.
+2 Die Antragstellung erfolgt an das zuständige Departement. Der Regierungsrat kann eine geeignete Institution mit der Prüfung entsprechender Gesuche betrauen.
+3 Das Darlehen wird ungesichert an die erwerbende Organisation des gemeinnützigen Wohnungsbaus
+vergeben.
+4 Das Darlehen wird verzinst und ist innert 20 Jahren zurückzuzahlen.
+
+5 Die Höhe des Darlehens beträgt maximal Fr. 20'000 pro Wohnung der zu erwerbenden Liegenschaft.
+6 Der Regierungsrat regelt die mit der Darlehensgewährung verbundenen Auflagen. Er legt insbesondere
+Auflagen zur Sicherstellung der Nachhaltigkeit und Qualität der Bauvorhaben sowie wohnpolitische
+Auflagen fest.
+
+II. Änderung anderer Erlasse
+Keine Änderung anderer Erlasse.
+III. Aufhebung anderer Erlasse
+Keine Aufhebung anderer Erlasse.
+
+IV. Schlussbestimmung
+
+Diese Änderung ist zu publizieren; sie unterliegt dem Referendum und der Regierungsrat bestimmt den
+Zeitpunkt des Inkrafttretens.
+
+" SO 861.500
+
+l
+
+[Behörde]
+[Funktion l]
+[NAME 1]
+[Funktion 2]
+[NAME 2]
+
+ZRD
+05.02.2026
+
+RGS
+
+2
+
+A
+Finanzdepartement des Kantons Basel-Stadt
+
+Regulierungsfolgenabschätzung (RFA)
+
+Teil A:
+Klärung der Betroffenheit („Vorlest")
+
+Titel des Geschäfts: Motion Daniel Albietz und Konsorten betreffend Restfinanzierungsdarlehen fürgemeinnützige Wohnbauträger
+
+P-Nr.: P245424
+Erlassform: ^ Gesetz |_| Verordnung
+
+Federführendes Departement: D PD D BVD D ED |SI FD D GD D JSD D WSU
+Ist folgende Frage mit „Ja" zu beantworten, liegt eine Betroffenheit der Wirtschaft vor, d.h. die Regulierungsfolgenabschätzung (Teil B) ist durchzuführen.
+
+1. Können Unternehmen vom Vorhaben direkt oder indirekt negativ betroffen sein? (direkt: Z.B. in Form
+von Kosten, Berichtspflichten, Auflagen; indirekt: Z.B. Verschlechterung der Standortattraktivität)
+
+Ja D
+
+Nein
+
+Der Vortest zur Betroffenheit ist obligatorischer Bestandteil des Berichtes an den Regierungsrat bzw.
+des Ratschlags an den Grossen Rat. Liegt keine Betroffenheit der Wirtschaft vor, ist dies in einem
+
+separaten Abschnitt („Regulierungsfolgenabschätzung") im Bericht bzw. Ratschlag kurz zu begründen. Ist eine Betroffenheit festgestellt worden, ist Teil B des Fragenkatalogs auszufüllen.
+
+Empfehlung:
+Der Regierungsrat empfiehlt, den Fragebogen bereits bei der Ausarbeitung des Erlasses
+bzw. dessen Revision zu berücksichtigen und nach dessen Finalisierung auszufüllen.
+
+

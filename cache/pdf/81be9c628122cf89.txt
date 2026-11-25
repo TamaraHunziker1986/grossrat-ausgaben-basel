@@ -1,0 +1,157 @@
+Regierungsrat des Kantons Basel-Stadt
+
+cece
+
+An den Grossen Rat
+
+22.5330.02
+
+FD/P225330
+
+Basel, 18. September 2024
+Regierungsratsbeschluss vom 17. September 2024
+
+Anzug Luca Urgese und Konsorten betreffend digitale Steuererklärung für juristische Personen
+Das Büro des Grossen Rates hat den nachstehenden Anzug Luca Urgese dem Regierungsrat zur
+Beantwortung überwiesen:
+«Per 1. Februar 2021 wurde mit dem Projekt eSteuern.BS die komplett digitale Steuererklärung für
+natürliche Personen eingeführt. Diese Lösung hat sich aus Sicht der Anzugstellenden sehr bewährt.
+Für juristische Personen steht eine solche Lösung hingegen noch nicht zur Verfügung.
+Der Regierungsrat hat in seinen Antworten zum Anzug 19.5139 und zur Schriftlichen Anfrage 20.5412
+ausgeführt, dass er eine Steuerdeklarationslösung für juristische Personen allenfalls zu einem späteren Zeitpunkt integrieren und eine Erweiterung der digitalen Möglichkeiten für juristische Personen in
+der Ausbauphase des Projekts e-Steuern.BS prüfen will. Die Planung für den ersten Ausbauschritt
+wurde für 2021 in Aussicht gestellt. Im Projektportfolio des Kantons ist allerdings noch kein entsprechendes Projekt enthalten.
+Der Regierungsrat wird deshalb gebeten zu prüfen und zu berichten:
+1.
+
+Bis wann konkret eSteuern.BS um eine Steuerdeklarationslösung für juristische Personen erweitert wird,
+
+2.
+
+Wie die Steuerpflichtigen mittels geeigneter Schnittstellen zu den Steuerdeklarationslösungen die
+Werte aus dem Geschäftsabschluss direkt in die Steuererklärung importieren können,
+Wie zusätzliche Dienstleistungen wie Fristenverwaltung, elektronisches Steuerkonto und Ansässigkeitsbescheinigungen zur Verfügung gestellt werden können,
+
+3.
+4.
+
+Ob und wie dabei mit anderen Kantonen, die bereits über eine entsprechende Lösung verfügen
+(z.B. TaxMe des Kantons Bern), zusammengearbeitet werden kann, damit keine eigene Lösung
+entwickelt werden muss.
+Luca Urgese, Joël Thüring, Niggi Daniel Rechsteiner, Jérôme Thiriet, Thomas Gander, Balz Herter, Annina von Falkenstein»
+
+Den Mitgliedern des Grossen Rates des Kantons Basel-Stadt zugestellt am 20. September 2024.
+
+Seite 1/4
+
+Regierungsrat des Kantons Basel-Stadt
+
+Wir beantworten den Anzug wie folgt:
+
+1.
+
+Zusammenfassung des aktuellen Standes
+
+Im Rahmen der Ausarbeitung eines digitalen Deklarationsprozesses für juristische Personen arbeitet die Steuerverwaltung des Kantons Basel-Stadt eng mit der Schweizerischen Steuerkonferenz
+(SSK) zusammen. Nachdem sich eine grosse Mehrheit der Kantone (darunter auch der Kanton Basel-Stadt) für eine gemeinsam zu beschaffende Steuerdeklarationslösung interessiert, ist die SSK
+derzeit daran, die Grundlagen für eine digitale Deklarationslösung für juristische Personen zu erarbeiten.
+Für die Steuerpflichtigen und deren Vertreter soll eine einfache Deklarationslösung bereitgestellt
+werden. Mittels dieser sollen künftig elektronische Bilanzen (E-Bilanzen) importiert werden können
+und ein Datenaustausch mit im Markt bestehenden Deklarationsanbietern ermöglicht werden. Bis
+zur Erreichung dieses Ziels sind verschiedene Zwischenschritte in den Bereichen E-Bilanz, Einführung der Datenaustauschformate und -plattformen sowie eine Vereinheitlichung von Ziffern (Taxonomie) unter Berücksichtigung von kantonalen Besonderheiten notwendig.
+Die Koordination und Zusammenarbeit mit der SSK hat für die Steuerpflichtigen und deren Vertreter
+verschiedene Vorteile. Indem in einer vereinheitlichen Deklarationslösung dieselben Informationen
+und vereinheitlichte Beilagen einverlangt werden, sollten die Steuerverwaltungen künftig weniger
+Rückfragen zur Deklaration stellen müssen. Zudem soll ein steuerpflichtiges Unternehmen Informationen nur einmal eingeben müssen, auch wenn dieses in anderen Kantonen über Betriebstätten
+verfügt. Für den Kanton hat die Zusammenarbeit mit der SSK den Vorteil, dass sowohl die hohen
+Initialkosten als auch die laufenden Infrastrukturkosten für die Deklarationslösung mit anderen Kantonen geteilt werden können.
+
+2.
+1.
+
+Beantwortung der Fragen
+Bis wann konkret wird eSteuern.BS um eine Steuerdeklarationslösung für juristische Personen erweitert?
+
+Die Steuerverwaltung Basel-Stadt arbeitet in der Frage der Einführung eines digitalen Deklarationsprozesses für juristische Personen eng mit der SSK zusammen. Anstelle einer Basler Einzellösung ist eine schweizweite digitale Steuerdeklarationslösung für Kapitalgesellschaften beabsichtigt. Die Vorstehenden der Finanzdepartemente der Kantone haben der SSK Anfang 2024 dazu
+einen entsprechenden Projekt-Auftrag erteilt. Ein Entscheid zu einer Steuerdeklarationslösung für
+Vereine und Stiftungen sowie steuerbefreite juristische Personen wurde auf Ebene der SSK noch
+nicht gefällt.
+Das Angebot eines zusätzlichen rein digitalen Deklarationsprozesses für juristische Personen bedarf vorgängiger Investitionen in die heutige Archivierungssoftware. Dies ist notwendig um eine
+medienbruchfreie digitale Bearbeitung und Archivierung sicherzustellen, d.h. eine solche, die ohne
+Wechsel des Mediums (bspw. Ausdruck eines Dokuments) während einer Übertragung von Daten
+bzw. Informationen in einer Übertragungskette stattfinden kann.
+Ein abschliessender Zeitplan liegt noch nicht vor, da noch einige Zwischenschritte in Zusammenarbeit mit der SSK zu lösen sind. Der Regierungsrat geht davon aus, dass eine digitale Steuererklärung für Kapitalgesellschaften allerfrühestens für die Steuererklärung 2026 zur Verfügung stehen wird.
+
+Seite 2/4
+
+Regierungsrat des Kantons Basel-Stadt
+
+2.
+
+Wie können die Steuerpflichtigen mittels geeigneter Schnittstellen zu den Steuerdeklarationslösungen die Werte aus dem Geschäftsabschluss direkt in die Steuererklärung importieren?
+
+Beabsichtigt ist der Import von Geschäftsabschlüssen basierend auf einheitlichen Steuerdeklarationsdaten. Mit diesem neuen Standard findet eine Harmonisierung der Datenerhebung für alle Kantone statt. Die technische Umsetzung des neuen Standards wird von der SSK voraussichtlich im
+Herbst 2024 veröffentlicht.
+Die Übermittlung der Daten via Schnittstellen ist ein wichtiges Teilprojekt für eine einheitliche digitale Steuererklärung für Kapitalgesellschaften. Die SSK hat hier in Zusammenarbeit mit dem Verein
+Swissdec sowie dem Softwarehersteller der Steuerdeklarationslösung des Kantons Basel-Stadt
+bereits in einem Proof-of-Concept nachgewiesen, dass eine Übermittlung der Daten der E-Bilanz
+und derjenigen des massgebenden Standards über einen Distributor technisch möglich ist.
+Zudem soll das Once-Only-Prinzip etabliert werden. Unternehmen sollen einerseits Behörden ihre
+Daten nur noch einmal melden, was den Aufwand auf beiden Seiten verringert. Andererseits sollen
+diese Daten durch neue interoperable Informatiklösungen so aufbereitet sein, dass sie mehrfach
+genutzt werden können. Dies ermöglicht es den Steuerpflichtigen, Steuererklärungen für verschiedene Steuerdomizile zu erstellen und Steuerbelege zu teilen. Im Zentrum steht dabei eine Distributor-Lösung als zentrale Datenplattform, welche die relevanten elektronischen Daten von den
+Unternehmen entgegennimmt und den Behörden anschliessend zur Verfügung stellt.
+Dabei wird sichergestellt, dass die Durchgängigkeit der E-Bilanz- und Steuerdaten gewahrt ist,
+d.h. dass digitale Behördenprozesse von den Steuerpflichtigen und deren Deklarationslösung vollständig und medienbruchfrei über verschiedene Systeme hinweg die Verwaltung durchlaufen können.
+3.
+
+Wie können zusätzliche Dienstleistungen wie Fristenverwaltung, elektronisches Steuerkonto
+und Ansässigkeitsbescheinigungen zur Verfügung gestellt werden?
+
+Seit dem 1. März 2022 können juristische Personen die Fristerstreckung für die Abgabe der Steuererklärung über das Steuerportal eSteuern.BS beantragen. Auch Gesuche um Fristverlängerung
+für mehrere Steuererklärungen lassen sich erfassen. Ausserdem können Unternehmen auf ihr
+elektronisches Steuerkonto zugreifen. Dafür ist das eKonto für Unternehmen erweitert worden. Die
+Funktion der Fristerstreckung und das elektronische Steuerkonto sind zudem mandantenfähig,
+d.h. die vertretende Person (z.B. eine Treuhänderin oder ein Treuhänder) kann für mehrere Kunden
+handeln.
+Ein Ausbau im Bereich Ansässigkeitsbescheinigungen juristischer Personen ist derzeit nicht geplant. Die Anfragen erfolgen bereits heute per E-Mail.
+4.
+
+Ob und wie kann mit anderen Kantonen, die bereits über eine entsprechende Lösung verfügen (z.B. TaxMe des Kantons Bern), zusammengearbeitet werden, damit keine eigene Lösung entwickelt werden muss?
+
+Da eine eigene Lösung nur für den Kanton Basel-Stadt weder aus der Optik der Steuerpflichtigen
+noch aus einer Kostenoptik Sinn macht, hat sich der Kanton Basel-Stadt für die Stossrichtung der
+SSK ausgesprochen. Angestrebt wird eine medienbruchfreie Lösung. In diesem Rahmen wird auch
+mit den Kantonen Bern und Waadt zusammengearbeitet, die bisher als einzige Kantone über eine
+Weblösung im Bereich Deklaration juristische Personen verfügen, die allerdings noch nicht vollständig medienbruchfrei ist.
+
+Seite 3/4
+
+Regierungsrat des Kantons Basel-Stadt
+
+3.
+
+Weiteres Vorgehen
+
+Der Regierungsrat ist bestrebt, die digitale Steuererklärung für juristische Personen einzuführen.
+Bei der Umsetzung ist der erhöhten Komplexität, welche ein weiterer Deklarationsprozess mit sich
+bringt, Rechnung zu tragen. Wie dargelegt, hat der Kanton Basel-Stadt aufgrund der Zusammenarbeit der Kantone, der SSK, dem Verein Swissdec sowie dem Softwarehersteller nur einen beschränkten Einfluss auf die Entwicklungs- und Implementierungszeit der neuen Steuerdeklarationslösung. Er wird daher in zwei Jahren nochmals über den Fortschritt in dieser Angelegenheit
+berichten.
+
+4.
+
+Antrag
+
+Aufgrund dieses Berichts beantragen wir, den Anzug Luca Urgese und Konsorten betreffend digitale Steuererklärung für juristische Personen stehen zu lassen.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Dr. Conradin Cramer
+Regierungspräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Seite 4/4
+
+

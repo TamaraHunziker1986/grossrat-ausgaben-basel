@@ -1,0 +1,366 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+23.5478.02
+
+PD/P235478
+Basel, 20. März 2024
+Regierungsratsbeschluss vom 19. März 2024
+
+Motion Lorenz Amiet betreffend «Wider die Auswüchse bei Lohngleichheitsanalysen»; Stellungnahme
+Der Grosse Rat hat an seiner Sitzung vom 8. November 2023 die nachstehende Motion Lorenz Amiet dem Regierungsrat zur Stellungnahme überwiesen:
+«Systematische Lohnunterschiede zwischen den Geschlechtern sind in keinem Fall akzeptabel. Der
+
+Kanton Basel-Stadt als Besteller von Leistungen und Produkten soll und darf geschlechterspezifische
+Lohnunterschiede schon aufgrund der bundesverfassungsrechtlich geschützten Lohngleichheit nicht
+dulden.
+Das Gewerbe mit untauglichen, unverhältnismässigen und statistisch irrelevanten Methoden piesacken darf er jedoch auch nicht. Denn gleich mehrere in jüngerer Zeit eingeführte methodische Unzulänglichkeiten im Zusammenhang mit der Überprüfung der Lohngleichheit ärgern das Basler Gewerbe
+und gehören korrigiert:
+Erstens leben statistische Methoden immer von der Grösse einer Probe. Eine Lohngleichheitsanalyse
+auf Basis von 10 bis 49 Datensätzen ist nach wissenschaftlichen Grundsätzen der Statistik schlicht
+nicht aussagekräftig. Diese Aussage gilt auch für das Logib Modul 2.
+Zweitens wurde der Kanton Basel-Stadt vom Sekretariat der Wettbewerbskommission dafür gerügt,
+dass er im Beschaffungswesen ausschliesslich das Instrument Logib anerkennt. Logib wurde ursprünglich für Proben ab 100 Datensätzen entwickelt und taugt selbst bei solchen zwischen 50 und
+100 nur beschränkt. Zudem sind gleichwertige, auch vom Bund anerkannte Konkurrenzprodukte verfügbar, welche hinsichtlich Wissenschaftlichkeit und Rechtskonformität Logib zumindest ebenbürtig
+sind.
+Drittens ist unverständlich, warum in Basel-Stadt im Gegensatz zu anderen kantonalen oder städtischen Beschaffungsprozessen eine Lohngleichheitsanalyse bereits in der Angebotsphase eingereicht
+werden muss. Anderswo kann der erfolgreiche Anbieter seine Analyse innerhalb einer nützlichen Frist
+nachreichen.
+Deshalb ersuchen die Unterzeichneten den Regierungsrat, das kantonale Beschaffungsrecht wie folgt
+anzupassen:
+- Für Anbieter mit weniger als 50 Mitarbeiterinnen und Mitarbeitern wird die Lohngleichheit mittels
+Selbstdeklaration und Fragebogen überprüft. Eine Nachweispflicht entfällt.
+- Nur für erfolgreiche Anbieter mit 50 oder mehr Mitarbeiterinnen und Mitarbeitern gilt eine Nachweispflicht. Dieser kann mittels Logib oder einem vergleichbaren Konkurrenzprodukt nachgekommen werden. Den Lohngleichheitsnachweis haben diese Anbieter innerhalb von 60 Tagen nach
+Erteilung des Zuschlags zu erbringen.
+- Der Kanton kann die Lohngleichheit bei allen erfolgreichen Anbietern weiterhin stichprobenweise
+oder risikobasiert mittels eigener Prozesse kontrollieren.
+
+Den Mitgliedern des Grossen Rates des Kantons Basel-Stadt zugestellt am 22. März 2024.
+
+Seite 1/8
+
+Regierungsrat des Kantons Basel-Stadt
+
+Lorenz Amiet, Raoul I. Furlano, Niggi Daniel Rechsteiner, Daniel Albietz, Luca Urgese, Alex Ebi, Stefan Suter,
+Brigitte Gysin, Beat Braun, Daniel Seiler, Andrea Strahm, Andrea Elisabeth Knellwolf, Joël Thüring, Daniela
+Stumpf, Andreas Zappalà, Roger Stalder, Beat K. Schaller, Lukas Faesch, Philip Karger, Gabriel Nigon, Nicole
+Kuster, Felix Wehrli, Jenny Schweizer, Daniel Hettich, Nicole Strahm-Lavanchy, Adrian Iselin, Olivier Battaglia,
+Christoph Hochuli, Gianna Hablützel-Bürki, Pascal Messerli, Patrick Fischer, Erich Bucher, Jérôme Thiriet, Sandra
+Bothe-Wenk, Pasqualine Gallacchi»
+
+Wir nehmen zu dieser Motion wie folgt Stellung:
+
+1.
+
+Zur rechtlichen Zulässigkeit der Motion
+
+1.1
+
+Grundlagen des Motionsrechts
+
+Mit einer Motion kann der Grosse Rat den Regierungsrat verpflichten, eine Verfassungs- oder Gesetzesvorlage oder eine Vorlage für einen Grossratsbeschluss vorzulegen (§ 42 Abs. 1 GO) oder
+eine Massnahme zu ergreifen (§ 42 Abs. 1bis GO). Der Grosse Rat kann dem Regierungsrat also
+sowohl in seinem eigenen Zuständigkeitsbereich als auch im Zuständigkeitsbereich des Regierungsrats Aufträge erteilen.
+Das Recht setzt dem Grossen Rat bezüglich Motionsbegehren allerdings auch Schranken, die in
+der Gewaltenteilung, im Gesetzmässigkeits-, im Föderalismus- und im Demokratieprinzip gründen.
+So darf eine Motion nicht gegen höherrangiges Recht verstossen (wie Bundesrecht, interkantonales Recht oder kantonales Verfassungsrecht). Zudem ist gemäss § 42 Abs. 2 GO eine Motion unzulässig, die einwirken will auf
+ den verfassungsrechtlichen Zuständigkeitsbereich des Regierungsrats,
+ einen Einzelfallentscheid,
+ einen in gesetzlich geordnetem Verfahren zu treffenden Entscheid oder
+ einen Beschwerdeentscheid.
+
+1.2
+
+Motionsforderung
+
+Mit der vorliegenden Motion wird der Regierungsrat beauftragt, «das kantonale Beschaffungsrecht
+wie folgt anzupassen:
+ Für Anbieter mit weniger als 50 Mitarbeiterinnen und Mitarbeitern wird die Lohngleichheit mittels Selbstdeklaration und Fragebogen überprüft. Eine Nachweispflicht entfällt.
+ Nur für erfolgreiche Anbieter mit 50 oder mehr Mitarbeiterinnen und Mitarbeitern gilt eine Nachweispflicht. Dieser kann mittels Logib oder einem vergleichbaren Konkurrenzprodukt nachgekommen werden. Den Lohngleichheitsnachweis haben diese Anbieter innerhalb von 60 Tagen
+nach Erteilung des Zuschlags zu erbringen.
+ Der Kanton kann die Lohngleichheit bei allen erfolgreichen Anbietern weiterhin stichprobenweise oder risikobasiert mittels eigener Prozesse kontrollieren.»
+
+1.3
+
+Rechtliche Prüfung
+
+1.3.1
+
+Allgemeines
+
+Die Motion verlangt nichts, was sich auf den verfassungsrechtlichen Zuständigkeitsbereich des
+Regierungsrates, auf einen Einzelfallentscheid, auf einen in gesetzlich geordnetem Verfahren zu
+treffenden Entscheid oder einen Beschwerdeentscheid bezieht. Zu prüfen bleibt, ob die Motionsforderungen mit höherrangigem Recht vereinbar sind.
+Per 1. Februar 2024 trat der Kanton Basel-Stadt der Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen vom 15. November 2019 (IVöB) bei (Regierungsratsbeschluss vom
+
+Seite 2/8
+
+Regierungsrat des Kantons Basel-Stadt
+
+12. Dezember 2023 Nr. 23/38/69). Bei dieser Vereinbarung handelt es sich um interkantonales
+Recht. Dieses ist von den Kantonen zu beachten (Art. 48 Abs. 5 Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999, BV; SR 101). Entsprechend sind die Forderungen
+dieser Motion besonders auf ihre Vereinbarkeit mit der IVöB hin zu prüfen. Da die Motion die Nachweise für das Einhalten der Lohngleichheit beschlägt, stehen Art. 12 und 26 IVöB im Vordergrund.
+Unternehmen, die an einer öffentlichen Ausschreibung teilnehmen, müssen die Bestimmungen
+über die Gleichbehandlung von Frau und Mann in Bezug auf die Lohngleichheit einhalten
+(Art. 12 Abs. 1 IVöB). Einzuhalten ist – neben Art. 8 Abs. 3 Satz 3 BV – das Gleichstellungsgesetz
+vom 24. März 1995 (GlG, SR 151.1; IVöB-Musterbotschaft, Erläuterungen zu Art. 12 IVöB, S. 43).
+Die Lohngleichheit ist eine sogenannte Teilnahmebedingung (Art. 26 Abs. 1 IVöB). Teilnahmebedingungen sind eine Grundvoraussetzung für die Teilnahme an Vergabeverfahren und bei jeder
+Ausschreibung von allen anbietenden Unternehmen und Subunternehmen einzuhalten – unabhängig von Art, Gegenstand und Ausgestaltung des konkreten öffentlichen Auftrags (Ramona Wyss,
+in: Hans Rudolf Trüeb [Hrsg.], Handkommentar zum Schweizerischen Beschaffungsrecht, Zürich 2020, Art. 26 BöB N 3). Es handelt sich um minimale Sozialstandards, deren Einhaltung zu
+einem funktionierenden Wettbewerb zwischen den anbietenden Unternehmen beitragen soll
+(IVöB, Musterbotschaft, Erläuterung zu Art. 12 IVöB, S. 43 f.; Wyss, a.a.O., Art. 26 N 3). Anbietenden, welche die Teilnahmebedingungen nicht einhalten, sollen keine Wettbewerbsvorteile entstehen (Hans Rudolf Trüeb/Nathalie Clausen, in: Oesch/Weber/Zäch [Hrsg.], Wettbewerbsrecht II Kommentar, 2. Aufl., Zürich 2021, Art. 12 BöB N 8). Teilnahmebedingungen können nur
+entweder erfüllt oder nicht erfüllt sein; sie können nicht mehr oder weniger erfüllt sein (Pandora
+Kunz-Notter, in: Trüb [Hrsg.], Handkommentar zum Schweizerischen Beschaffungsrecht, Zürich 2020, Art. 12 BöB N 2).
+Der Auftraggeber stellt gemäss Art. 26 Abs. 1 IVöB sicher, dass die Teilnahmebedingungen sowohl
+während des Vergabeverfahrens als auch bei der Leistungserbringung erfüllt sind. Er kann vom
+anbietenden Unternehmen verlangen, dass es die Einhaltung der Lohngleichheit insbesondere mit
+einer Selbstdeklaration oder der Aufnahme in ein Verzeichnis nachweist (Art. 26 Abs. 2 IVöB).
+1.3.2
+
+Unternehmen mit weniger als 50 Mitarbeitenden: Selbstdeklaration und Fragebogen statt Nachweispflicht
+
+Mit der Motion wird gefordert, dass die Lohngleichheit bei Anbietern mit weniger als 50 Mitarbeitenden mittels Selbstdeklaration und Fragebogen überprüft wird. Eine Nachweispflicht soll bei diesen Unternehmen entfallen.
+Art. 26 Abs. 2 IVöB nennt als mögliche Form des Lohngleichheitsnachweises explizit die Selbstdeklaration. In der Praxis ist sie die häufigste Nachweisform (Wyss, a.a.O., Art. 26 BöB N 11). Die
+Erbringung des Lohngleichheitsnachweises mittels Selbstdeklaration und Fragebogen ist deshalb
+vereinbar mit der IVöB. Nicht eindeutig ist die Forderung, dass für Unternehmen mit weniger als
+50 Mitarbeitenden die Nachweispflicht entfallen soll. Soweit damit gemeint ist, dass kleinere Unternehmen nur in der Angebotsphase generell von einem Logib- oder vergleichbaren Nachweis zu
+befreien sind, ist die Forderung aber mit der IVöB vereinbar.
+1.3.3
+
+Unternehmen mit 50 und mehr Mitarbeitenden: Pflicht zum Nachweis mit Logib
+oder vergleichbarem Instrument
+
+Die Motion enthält zudem die Forderung, dass eine Nachweispflicht nur anbietenden Unternehmen
+mit 50 und mehr Mitarbeitenden auferlegt wird und der Nachweis mit Logib oder einem vergleichbaren Konkurrenzprodukt erbracht werden kann.
+Die IVöB selbst macht keine Vorgaben zur Art des Nachweises der Lohngleichheit, sie schreibt
+insbesondere keinen spezifischen Nachweis vor, auch keine Methode der Lohngleichheitsanalyse.
+In Art. 12 Abs. 1 verweist sie auf die Bestimmungen über die Gleichbehandlung von Frau und Mann
+in Bezug auf die Lohngleichheit, die von den anbietenden Unternehmen einzuhalten sind. Wie die
+
+Seite 3/8
+
+Regierungsrat des Kantons Basel-Stadt
+
+IVöB schreibt auch das Gleichstellungsgesetz weder ein konkretes Analyseinstrument noch eine
+konkrete Methode vor, sondern verpflichtet die nach Art. 13a GlG analysepflichtigen Unternehmen
+lediglich, die Lohngleichheitsanalyse nach einer wissenschaftlichen und rechtskonformen Methode
+durchzuführen (Art. 13c Abs. 1 GlG). Das GlG legt also nur Anforderungen an die Analysemethode
+fest, nicht aber die Methode selbst. Damit erweist sich die Forderung, dass die Einhaltung der
+Lohngleichheit sowohl mit Logib als auch mit einem vergleichbaren Analyseinstrument erbracht
+werden kann, als mit höherrangigem Recht vereinbar.
+1.3.4
+
+Nachweispflicht bis 60 Tage nach Erteilung des Zuschlags
+
+Die Motion fordert weiter, dass nur «erfolgreiche» Anbieter einen Lohngleichheitsnachweis (mit
+Logib oder mit einem vergleichbaren Instrument) erbringen müssen, und zwar «innerhalb von
+60 Tagen nach der Erteilung des Zuschlags».
+Gemäss Art. 26 Abs. 3 IVöB gibt der Auftraggeber in der Ausschreibung oder in den Ausschreibungsunterlagen bekannt, zu welchem Zeitpunkt welche Nachweise einzureichen sind
+(Art. 26 Abs. 3 IVöB). Die IVöB belässt dem Auftraggeber damit in zeitlicher Hinsicht einen gewissen Spielraum. Dieser Spielraum wird in der Musterbotschaft zum IVöB folgendermassen präzisiert
+(IVöB-Musterbotschaft, Erläuterung zu Art. 26 Abs. 3 IVöB, S. 66): «Zum Abbau bürokratischer
+Leerläufe kann beitragen, wenn gewisse Nachweise erst zu einem späteren Verfahrensstand (aber
+auf jeden Fall vor dem Zuschlag) und nur vom erstplatzierten Anbieter einzureichen sind. Auf diese
+Weise kann vermieden werden, dass chancenlose Anbieter unnötigen Aufwand tätigen.» Damit,
+und besonders mit der Klammerbemerkung, kommt klar zum Ausdruck, dass nach dem Willen der
+Vertragsparteien der interkantonalen Vereinbarung Nachweise betreffend die Erfüllung von Teilnahmebedingungen vor dem Zuschlag einzureichen sind. Dies ergibt sich auch aus dem Zweck
+des Ausschlusses und des Widerrufs gemäss Art. 44 IVöB: Erfüllt ein anbietendes Unternehmen
+die Lohngleichheit schon in der Angebotsphase nicht, wird es vom Verfahren ausgeschlossen; erfüllt es die Lohngleichheit später während der Leistungserbringung nicht mehr, ist der Zuschlag zu
+widerrufen. Entsprechend heisst es im Leitfaden für öffentliche Beschaffungen der Schweizerischen Bau-, Planungs- und Umweltdirektoren-Konferenz (BPUK): «Die in Art. 44 Abs. 1 und
+2 BöB/IVöB geregelten Ausschlussgründe sind gleichzeitig Widerrufsgründe für den Fall, dass die
+Auftraggeberin erst nach rechtskräftiger Erteilung des Zuschlags auf ein Fehlverhalten der Anbieterin bzw. Zuschlagsempfängerin aufmerksam wird.» (https://www.trias.swiss/pruefung-und-bewertung-der-angebote-zuschlag-und-abschluss-des-verfahrens#c2577 [22. Dezember 2023]).
+Diese Motionsforderung ist folglich nicht mit höherrangigem Recht vereinbar.
+1.3.5
+
+Unterschiedliche Behandlung je nach Unternehmensgrösse
+
+Zu prüfen ist, ob Unternehmen mit weniger als 50 Mitarbeitenden bezüglich der Lohngleichheitsnachweise anders behandelt werden dürfen als Unternehmen mit 50 und mehr Mitarbeitenden.
+Auftraggeber müssen Anbieter als direkte Konkurrenten gleichbehandeln. Dieser Grundsatz ergibt
+sich aus dem Grundrecht der Wirtschaftsfreiheit (Art. 27 BV) sowie dem Grundsatz der Wirtschaftsfreiheit (Art. 94 BV) und findet sich in der IVöB sowohl in der Zweckbestimmung (Art. 2 lit. c IVöB)
+als auch als Verfahrensgrundsatz (Art. 11 lit. c IVöB). Nach diesem Gleichbehandlungsgrundsatz
+sind staatliche Massnahmen verboten, die den Wettbewerb unter direkten Konkurrenten verzerren
+und dadurch nicht wettbewerbsneutral sind. Der Grundsatz gilt aber nicht absolut. Differenzierungen sind zulässig, solange sie nicht zu spürbaren Wettbewerbsverzerrungen führen, einem öffentlichen Interesse dienen und verhältnismässig sind (BGE 147 V 423 E. 5.1; Felix Uhlmann, in: Waldmann et al. [Hrsg.], Basler Kommentar zur Bundesverfassung, Basel 2015, Art. 27 BV N 63).
+Der Unterscheidung zwischen Selbstdeklaration bei Unternehmen mit weniger als 50 Mitarbeitenden und Logib- bzw. vergleichbarem Nachweis für grössere Unternehmen liegt das öffentliche Interesse der Entlastung kleiner Unternehmen von unverhältnismässigem administrativem Aufwand
+zugrunde. Tatsächlich ist der Nachweis von Teilnahmebedingungen, also auch der Lohngleichheit,
+mit administrativem Aufwand verbunden. Dieser Aufwand trifft kleinere Unternehmen im Verhältnis
+
+Seite 4/8
+
+Regierungsrat des Kantons Basel-Stadt
+
+stärker als grosse. Gleichzeitig lässt sich sagen, dass Lohngleichheitsanalysen mit zunehmender
+Mitarbeitendenzahl aussagekräftiger werden. Aus statistischen Gründen existiert denn auch Logib,
+das kostenlose Lohngleichheitsanalyseinstrument des Bundes, in zwei Ausführungen mit je unterschiedlicher Methode: Während Modul 1 für Unternehmen mit 50 und mehr Mitarbeitenden anwendbar ist und mit der Methode der multiplen Regressionsanalyse arbeitet, liegt dem Modul 2 für
+Unternehmen mit weniger als 50 Mitarbeitenden die Methode der arbeitswissenschaftlichen Arbeitsbewertung zugrunde (Eidgenössisches Büro für die Gleichstellung von Frau und Mann EBG,
+Standard-Analyse-Tool Logib Modul 1, «Quick Guide» zur Bereitstellung der Daten im Excel-Datenblatt, Version 2023.1, Februar 2023; Eidgenössisches Büro für die Gleichstellung von Frau und
+Mann EBG, Standard-Analyse-Tool Logib Modul 2, «Quick Guide» zur Bereitstellung der Daten im
+Excel-Datenblatt, Version 2023.1, Februar 2023). Die Grenze von 50 Mitarbeitenden erscheint deshalb sachlich begründet. Zudem ist die Benachteiligung, die grösseren Unternehmen durch die
+Vorschrift eines strengeren Lohngleichheitsnachweises mittels Logib oder Logib-Konkurrenzprodukt entsteht, so moderat, dass sie nicht zu einer Wettbewerbsverzerrung führt. Insgesamt ist die
+mit der Motion verlangte unterschiedliche Behandlung mit Bezug auf den Lohngleichheitsnachweis
+mit übergeordnetem Recht vereinbar.
+1.3.6
+
+Kontrolle
+
+Die Motion fordert zuletzt, dass der Kanton die Lohngleichheit bei allen erfolgreichen Anbietern
+weiterhin stichprobenweise oder risikobasiert mittels eigener Prozesse kontrollieren kann. Diese
+Forderung steht im Einklang mit der IVöB (vgl. Art. 12 Abs. 3 IVöB).
+
+1.4
+
+Schlussfolgerung
+
+Diese Motion verstösst in Teilen gegen höherrangiges Recht und ist deshalb als rechtlich teilweise
+zulässig anzusehen.
+
+2.
+
+Zum Inhalt der Motion
+
+2.1
+
+Aktuelle Praxis der Lohngleichheitsanalysen im öffentlichen Beschaffungswesen des Kantons Basel-Stadt
+
+Die Bundesverfassung verlangt in Art. 8 Abs. 3 von allen Arbeitgebenden, dass sie Frauen und
+Männern für gleichwertige Arbeit den gleichen Lohn bezahlen. Die Verfassung des Kantons Basel-Stadt hält die Lohngleichheit in § 9 Abs. 2 fest. Dieser Verfassungsauftrag gilt auch im öffentlichen Beschaffungswesen und ist in Art. 12 IVöB festgehalten. Der Kanton Basel-Stadt kann die
+Einhaltung dieser Anforderungen kontrollieren oder die Kontrolle Dritten übertragen. Anbietende
+haben auf Verlangen die erforderlichen Nachweise zu erbringen (Art. 12 Abs. 5 IVöB).
+Der Kanton Basel-Stadt verlangt von Anbietenden in Beschaffungsverfahren zwecks Prüfung der
+Lohngleichheit seit 2021 Selbstdeklarationen und führt zudem Lohngleichheitskontrollen durch.
+Alle Anbietenden, die sich auf einen öffentlichen Auftrag des Kantons bewerben, reichen mit der
+Offerteingabe eine Selbstdeklaration mit einem Nachweis über die Einhaltung der Lohngleichheit
+ein. Dieser muss grundsätzlich mit Logib, dem Standard-Analyse-Tool des Bundes, erstellt worden
+sein. Logib ist das wissenschaftliche und rechtskonforme Analyse-Tool, das durch den Bund kostenlos zur Verfügung gestellt wird. Es überprüft alle relevanten Faktoren und besteht wie unter
+Kapitel 1.3.5 ausgeführt aus zwei, auf unterschiedliche Unternehmensgrössen abgestimmten Modulen, die miteinander kalibriert sind. Für kleinere Unternehmen mit weniger als 50 Mitarbeitenden
+galt zunächst eine zweieinhalbjährige Einführungsphase, in der sie von der Nachweispflicht ausgenommen waren und sich mit dem Analyse-Tool vertraut machen konnten. Seit November 2023
+gilt die Nachweispflicht auch für kleinere Anbietende mit weniger als 50 Mitarbeitenden. Dies war
+
+Seite 5/8
+
+Regierungsrat des Kantons Basel-Stadt
+
+bereits im vom Regierungsrat 2020 genehmigten Umsetzungskonzept so vorgesehen. Aus Gründen der Verhältnismässigkeit wird bei kleinen Unternehmen unter 10 Mitarbeitenden weiterhin auf
+einen Nachweis mittels Logib verzichtet und ein Nachweis mittels ausgefülltem Fragebogen akzeptiert.
+Der Kanton führt ebenfalls seit 2021 in Zusammenarbeit mit externen Fachpersonen risikobasierte
+Stichkontrollen unter denjenigen Anbietenden durch, die einen Zuschlag erhalten haben.
+Der Kanton Basel-Stadt hat im Oktober 2022 ein informelles Schreiben vom Sekretariat der Wettbewerbskommission (WEKO) erhalten (das Sekretariat ist von der WEKO selbst zu unterscheiden).
+Dabei handelt es sich jedoch nicht um eine formelle Empfehlung oder Rüge der WEKO an den
+Kanton. Das Sekretariat der WEKO hat darauf verzichtet, die Thematik weiter zu verfolgen und
+eine Empfehlung an den Kanton Basel-Stadt zu formulieren.
+Das aktuelle System gewährleistet die Rechtsgleichheit aller Anbietenden, in dem im Vergabeverfahren für alle die gleichen Voraussetzungen gelten. Die reguläre Umsetzung läuft erst seit kurzer
+Zeit und ist deshalb noch nicht im Detail evaluiert worden.
+
+2.2
+
+Stellungnahme zu den einzelnen Begehren
+
+2.2.1
+
+Nachweispflicht bis 60 Tage nach Erteilung des Zuschlags
+
+Die aktuell geltende Praxis, die den Nachweis bei Einreichung der Offerte verlangt, stellt sicher,
+dass anbietende Unternehmen bereits in der Angebotsphase die gesetzlichen Anforderungen erfüllen bzw. vom Verfahren ausgeschlossen werden können, wenn dies nicht der Fall ist. Die Forderung der Motion, wonach Unternehmen erst nach dem Zuschlag einen Nachweis einreichen können, ist rechtlich nicht zulässig (Kapitel 1.3.4). Es wird daher darauf verzichtet, auf diese Forderung
+inhaltlich einzugehen.
+2.2.2
+
+Selbstdeklaration und Fragebogen für Unternehmen mit bis zu 50 Mitarbeitenden
+statt Nachweispflicht und unterschiedliche Behandlung je nach Unternehmensgrösse
+
+Der Regierungsrat hat sich im Umsetzungskonzept zur Einführung von Lohngleichheitskontrollen
+dafür entschieden, von allen Anbietenden, unabhängig von Grösse und Branche, bei der Offerteingabe den gleichen Nachweis zu verlangen. Den Anliegen von sehr kleinen Unternehmen wird dabei
+bereits heute Rechnung getragen. So müssen bereits heute Unternehmen mit weniger als
+zehn Mitarbeitenden lediglich die Selbstdeklaration und den Fragebogen als Nachweis einreichen.
+Ausserdem wurde bei der Ausgestaltung des Verfahrens darauf geachtet, den Aufwand für die
+Unternehmen möglichst gering zu halten. So kann ein Nachweis während maximal 48 Monaten
+verschiedenen Offerten beigelegt werden. Die Praxis zeigt auch, dass sich der Aufwand von
+0.25 bis max. 1 Tag, die eine Logib-Analyse für Unternehmen mit bis zu 50 Mitarbeitenden verursacht, bei der Wiederholung der Analyse um bis zur Hälfte reduziert. Der Regierungsrat erachtet
+diesen Aufwand als verhältnismässig, um die gesetzlichen Vorgaben zur Lohngleichheit umzusetzen.
+Die aktuelle Praxis wurde erst im November 2023 eingeführt und soll 2026 evaluiert werden. Die
+Erkenntnisse aus dieser Evaluation sind aus Sicht des Regierungsrates vor einer Änderung der
+aktuellen Praxis abzuwarten. Dies ermöglicht auch zu prüfen, ob allenfalls der Kritik zur praktischen
+Anwendung des Analyse-Tools mit verbessertem Informations- und Schulungsmaterial nachgekommen werden kann. Zudem möchte der Regierungsrat abklären, ob es bei einem allfälligen Verzicht auf einen Nachweis andere Begleitmassnahmen für kleine Unternehmen braucht, um den
+verfassungsrechtlichen Auftrag für Lohngleichheit bei der Vergabe öffentlicher Gelder zu erfüllen.
+
+Seite 6/8
+
+Regierungsrat des Kantons Basel-Stadt
+
+2.2.3
+
+Unternehmen mit 50 und mehr Mitarbeitenden: Pflicht zum Nachweis mit Logib
+oder vergleichbarem Instrument
+
+Die Gleichbehandlung der Anbietenden ist ein zentraler Grundsatz des Beschaffungsrechts, mit
+Grundlagen sowohl im internationalen als auch im (inter-)kantonalen Recht. Dieser Grundsatz gilt
+auch bei der Überprüfung der Lohngleichheit im Vergabeverfahren. Entsprechend hat sich der Regierungsrat dafür entschieden, beim von den Anbietenden zu erbringenden Nachweis bezüglich
+Lohngleichheit einheitlich das Standard-Analyse-Tool des Bundes vorzuschreiben. Dies ist so auch
+in § 10 der Einführungsverordnung zur IVöB festgeschrieben. Die Lohngleichheitsanalyse mit Logib
+gewährleistet, dass die von den Anbietenden beizubringenden Nachweise zur Einhaltung der Lohngleichheit wissenschaftlich, rechtskonform und insbesondere miteinander vergleichbar sind. Der
+Aufwand von ca. 1 Tag alle 48 Monate (variiert nach Grösse des Unternehmens), erachtet der
+Regierungsrat für die Umsetzung des Verfassungsauftrags zur Lohngleichheit als verhältnismässig. Logib wird überdies vom Bund kostenlos angeboten und kann von Unternehmen selbständig
+verwendet werden.
+Die Nachweispflicht mit Logib im Kanton Basel-Stadt wurde von einer interdepartementalen Arbeitsgruppe mit Fachpersonen aus dem Beschaffungswesen und der Gleichstellung eingehend geprüft. Die aktuelle Praxis ermöglicht es, die gesetzlichen Voraussetzungen zur Lohngleichheit zu
+überprüfen und den gesetzlichen Grundsatz der Gleichbehandlung von Anbietenden einzuhalten.
+Eine Änderung der Praxis würde zahlreiche Fragen aufwerfen, sowohl juristischer Art als auch betreffend die praktische Umsetzung durch die kantonalen Beschaffungsstellen. Ausserdem gibt es
+aktuell verschiedene Entwicklungen auf Bundesebene, die für die Praxis in Basel-Stadt relevant
+sind. Auf Ende Januar 2024 hat der Bund eine Anpassung bei Logib Modul 1 vorgenommen und
+verzichtet neu auf einen zweiten Signifikanztest. Damit will der Bund die Aussagekraft von Logib
+erhöhen, um den Verfassungsauftrag «gleicher Lohn für gleichwertige Arbeit» tatsächlich umzusetzen. Gemäss der Stellungnahme des Bundesrates zeigte die bisher geltende Kombination von
+Toleranzschwelle von 5 % mit zweifachen Signifikanztest, dass Logib auch erhebliche Lohndifferenzen von 10 % oder mehr nicht identifizierte (Stellungnahme des Bundesrates vom 21. Februar 2024 zu 23.4434 Motion Schneider-Schneiter, 21. Dezember 2023).
+Für Vergabeverfahren im Kanton Basel-Stadt sind aktuell sowohl Nachweise mit der alten LogibMethode als auch mit der neuen Methode zugelassen. Um die Gleichbehandlung der Anbietenden
+im Vergabeverfahren weiterhin zu gewährleisten, werden ab dem 1. Juli 2024 nur noch Nachweise,
+die mit der neuen Methode nach dem 24. Januar 2024 erstellt wurden, zugelassen.1 Der Regierungsrat wird aufmerksam beobachten, welche Auswirkungen diese Anpassung auf den Aufwand
+für Unternehmen und die Beschaffungsstellen hat.
+Schliesslich wird 2025 vom Bund die Zwischenevaluation zur Revision des GlG (zeitlich befristete
+Pflicht für Unternehmen mit 100 oder mehr Arbeitnehmenden, eine Lohngleichheitsanalyse
+durchzuführen) publiziert. Die Kommission für Wissenschaft, Bildung und Kultur des Ständerats (WBK-S) verweist aktuell bei sämtlichen Vorstössen zur Lohngleichheit darauf und wartet deren Ergebnisse ab. Die Erkenntnisse dieser Zwischenbilanz können, beispielsweise in Bezug auf
+die verwendeten Analyse-Tools, auch für den Kanton Basel-Stadt aufschlussreich sein.
+Der Regierungsrat möchte neben der Erfahrung mit der regulären Umsetzung im Kanton Basel-Stadt und der geplanten Evaluation von 2026 auch die neusten Entwicklungen beim Bund berücksichtigen. Dabei sollten auch die Erfahrungen von anderen Kantonen und Städten mitberücksichtigt werden, die eine Methodenvielfalt im Vergabeverfahren vorsehen.
+
+1 Während der Übergangsfrist bis zum 1. Juli 2024 wird bei Bedarf sichergestellt, dass bei Prüfung der Teilnahmebedingung zur Lohngleichheit keine
+
+unterschiedlichen Anforderungen zur Anwendung kommen und der gesetzliche Grundsatz der Gleichbehandlung auch während der Übergangsfrist umgesetzt wird.
+
+Seite 7/8
+
+Regierungsrat des Kantons Basel-Stadt
+
+2.2.4
+
+Kontrolle
+
+Der Kanton führt seit 2021 risikobasierte Stichkontrollen unter denjenigen Anbietenden durch, die
+einen Zuschlag erhalten haben. Der Regierungsrat nimmt zu Kenntnis, dass dieses Vorgehen von
+den Motionärinnen und Motionären befürwortet wird und so weitergeführt werden soll.
+2.2.5
+
+Fazit
+
+Der Regierungsrat ist verpflichtet, die Einhaltung der Lohngleichheit zwischen Frauen und Männern
+gemäss dem gesetzlichen Grundsatz «gleicher Lohn für gleichwertige Arbeit» umzusetzen. Dies
+anerkennt auch die Motion. Die aktuelle Praxis wird erst seit November 2023 so umgesetzt. Eine
+Änderung der Anforderungen und Prozesse wirft komplexe juristische und praktische Fragen auf.
+Deshalb erachtet es der Regierungsrat als sinnvoll, diese vor einer erneuten Anpassung des Systems zu prüfen. Die Praxis-Entwicklungen in Bezug auf Logib und die Zwischenbilanz zum revidierten GlG wird der Regierungsrat aufmerksam verfolgen und die geplante Evaluation vornehmen.
+Dabei wären auch die bis dahin gemachten Erfahrungen aus anderen Städten und Kantonen sowie
+aktuelle bundespolitische Entwicklungen in Bezug auf Logib zu berücksichtigen.
+Eine Überweisung der Motion als Anzug würde es dem Regierungsrat ermöglichen, die Forderungen unter Berücksichtigung der neusten Entwicklungen sorgfältig zu prüfen und dem Grossen Rat
+erneut zu berichten.
+
+3.
+
+Antrag
+
+Auf Grund dieser Stellungnahme beantragen wir, die Motion Lorenz Amiet betreffend „Wider die
+Auswüchse bei Lohngleichheitsanalysen im kantonalen Beschaffungswesen“ als Anzug zu überweisen.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Lukas Engelberger
+Vizepräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Seite 8/8
+
+

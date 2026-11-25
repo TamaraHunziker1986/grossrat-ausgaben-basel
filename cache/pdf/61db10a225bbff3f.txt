@@ -1,0 +1,304 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+22.5571.02
+
+PD/P225571
+Basel, 5. Februar 2025
+Regierungsratsbeschluss vom 4. Februar 2025
+
+Anzug Franz-Xaver Leonhardt und Konsorten betreffend
+«CO2-Emissionen Zertifikate zur Kompensation von Treibhausgasen»
+Der Grosse Rat hat an seiner Sitzung vom 15. Februar 2023 den nachstehenden Anzug FranzXaver Leonhardt und Konsorten dem Regierungsrat zum Bericht überwiesen:
+«Der Kanton Basel-Stadt hat den Gegenvorschlag zur Klimagerechtigkeitsinitiative des Grossen Rates
+am 27. November 2022 mit 64,1% angenommen. Der Ausstoss von Treibhausgasen muss somit bis
+2037 auf Netto-Null gesenkt werden.
+Damit der Kanton dieses Ziel erreichen kann, werden künftig CO2-Abscheidung und Speicherung
+(CCS) und Negativemissionstechnologien (NET) nötig sein bzw. in einer Übergangsfrist können auch
+kompensatorische CO2-Emissionsreduktionen im Ausland die Einhaltung des Absenkpfades sicherstellen. Der heutige Wissensstand zu CCS und NET ist jedoch noch sehr unsicher, da diese Technologien noch in den Kinderschuhen stecken und sich erst noch entwickeln müssen. Es gibt jedoch schon
+Pionierunternehmen, wie etwa das ETH-Spin-off Climeworks oder das Start-up neustark, welche in
+den Startlöchern stehen. Diese Firmen dürften in absehbarer Zeit auch starke internationale Konkurrenz erhalten.
+Die Unterzeichneten sind der Meinung, dass der Kanton nach der Abstimmung zur Klimagerechtigkeitsinitiative hinsichtlich negativer CO2-Emissionen schnell handeln muss und bitten den Regierungsrat zu prüfen und zu berichten:
+Wie der Kanton die Entwicklung und den Einsatz von CSS und NET fördern kann und inwieweit
+dazu Public-Private-Partnerships helfen können, um einheimische Pionierunternehmen aus diesem Bereich zu unterstützen.
+Wie der Kanton die Universitäten und Hochschulen bei der Forschung nach CSS und NET unterstützen kann.
+Wie der Standort Basel attraktiver für die Ansiedlung von Pionierunternehmen aus dem Bereich
+CSS und NET werden kann.
+Welche Projekte des Bundes in diesem Bereich bereits bestehen und wie der Kanton enger mit
+dem Bund zusammenarbeiten kann um solche Projekte voranzutreiben.
+Wie der Kanton auf die Planung und Realisierung von Projekten zur Kompensation von unvermeidbaren CO2-Emissionen aus (vorerst) nicht ersetzbaren Prozessen (z.B. Kehrichtverbrennung und Fernwärme) hinwirken kann und will, bzw. diese zu fördern gedenkt.
+Franz-Xaver Leonhardt, Balz Herter, Bruno Lötscher, Andrea Strahm, Pasqualine Gallacchi, Daniel
+Albietz, Andrea Elisabeth Knellwolf»
+
+Den Mitgliedern des Grossen Rates des Kantons Basel-Stadt zugestellt am 7. Februar 2025.
+
+Seite 1/8
+
+Regierungsrat des Kantons Basel-Stadt
+
+Wir berichten zu diesem Anzug wie folgt:
+
+1.
+
+Ausgangslage
+
+1.1
+
+Netto-Null bis 2037 und Vorbildrolle der Verwaltung
+
+Ende September 2023 hat der Regierungsrat die Klimaschutzstrategie Teil 1 «Netto-Null 2037»
+verabschiedet. Diese zeigt auf, wie die Emissionen im Kantonsgebiet reduziert werden sollen. Die
+verbleibenden, nicht vermeidbaren Emissionen müssen ab 2037 mit Negativemissionen (NET)
+kompensiert werden. Die Klimaschutzstrategie hält in ihren Leitsätzen fest, dass der Kanton dafür
+primär seine Möglichkeiten für Negativemissionstechnologien im Kantonsgebiet ausschöpft. Erst
+wenn diese nicht ausreichen, technisch nicht möglich oder wirtschaftlich nicht tragbar sind, greift
+der Kanton für die Kompensation der Restemissionen auf Negativemissionszertifikate mit hohen
+Qualitätsstandards zurück.
+Mitte Oktober 2024 hat der Regierungsrat den Aktionsplan zur Klimaschutzstrategie Teil 1 «NettoNull 2037» vorgestellt. Dieser umfasst die Massnahmen, die erforderlich sind, um die Ziele der
+Strategie und damit das verfassungsgemässe Ziel Netto-Null-Treibhausgasemissionen im
+Jahr 2037 zu erreichen.
+Der Regierungsrat nimmt im Klimaschutz eine Vorreiterrolle ein und strebt an, dass die Verwaltung
+des Kantons Basel-Stadt bereits 2030, also sieben Jahre vor dem Gesamtkanton, Netto-Null erreicht. Die vom Regierungsrat gemeinsam mit dem Aktionsplan zur Klimaschutzstrategie vorgestellte Strategie «Klimaneutrale Verwaltung» beinhaltet die Ziele und Massnahmen der Verwaltung,
+um bis 2030 bei den direkten Emissionen (Scope 1) netto-null zu erreichen und die vor- und nachgelagerten Treibhausgasemissionen der Verwaltung aus Scope 3 grösstmöglich zu reduzieren.
+Da auch zukünftig ein Teil der Treibhausgasemissionen aus technischen und wirtschaftlichen Gründen nicht vermieden werden kann, braucht es für die Netto-Null-Ziele des Kantons Basel-Stadt wie
+auch der baselstädtischen Verwaltung zwingend Negativemissionen zum Ausgleich. Um seine Klimaziele zu erreichen, setzt sich der Kanton Basel-Stadt deswegen für den Auf- und Ausbau von
+Carbon Capture and Storage (CCS) und NET ein.
+Auch der Bund steht in der Verantwortung, die unvermeidbaren CO2-Emissionen in der Schweiz
+ab 2050 mit Negativemissionen auszugleichen, als direkte Folge der Pflichten im Rahmen des
+Übereinkommens von Paris.
+
+1.2
+
+Carbon Capture and Storage und Negativemissionstechnologien
+
+Als Carbon Capture and Storage (CCS) werden Prozesse bezeichnet, in denen fossiles CO2 an
+der Quelle abgeschieden, abtransportiert und an einem sicheren Ort dauerhaft eingelagert wird.
+Mit CCS wird vermieden, dass die Treibhausgasemissionen in die Atmosphäre gelangen und zur
+Erwärmung des Klimas beitragen. CCS steht damit für die Reduktion von fossilen Emissionen aus
+Punktquellen wie beispielsweise Kehrichtverwertungsanlagen oder Zementwerken.
+Als Negativemissionstechnologien (NET) werden technische und biologische Verfahren bezeichnet, die der Atmosphäre CO2 oder biogenes CO2 an Punktquellen entziehen und dauerhaft speichern können.
+Sowohl bei CCS als auch bei NET wird das abgeschiedene CO 2 entweder in Materialien (z. B.
+Karbonatisierung/Mineralisierung von Baustoffen wie Beton) gespeichert oder in geologischen
+Speicherstätten abgelagert. Bei Negativemissionstechnologien kann die CO2-Fixierung auch durch
+Holznutzung, Einbringung von Pflanzenkohle in Böden, Asphalt oder Gebäuden oder durch die
+beschleunigte Verwitterung von vermahlenen Mineralien erfolgen.
+
+Seite 2/8
+
+Regierungsrat des Kantons Basel-Stadt
+
+1.3
+
+Stand der Technik
+
+Der Bund sieht für CCS und NET eine «Pionierphase» bis 2030 und eine Phase der «gezielten
+Skalierung» bis 2050 vor. Die technologischen Ansätze sind grundsätzlich so weit ausgereift, dass
+sie heute in Pilot- oder Demonstrationsprojekten getestet werden können oder gar in Nischenmärkten funktionieren. Es besteht jedoch immer noch Forschungs- und Innovationsbedarf: So gibt es
+noch offene Fragen zur Messbarkeit der CO2-Speicherung, der Energie- und Umweltbilanzierung,
+Sicherheitsaspekten, der Optimierung von Prozessen insbesondere hinsichtlich Kosten, der Energie- und Ressourceneffizienz sowie zur Transportinfrastruktur und möglichen Geschäftsmodellen.
+Da die Speichermöglichkeiten im Inland begrenzt sind, wird davon ausgegangen, dass eine bedeutende Menge an CO2 ins Ausland exportiert werden muss. Die Rollen von Bund, Kantonen und der
+Wirtschaft beim Aufbau einer umfassenden CO 2-Transport- und -Speicherinfrastruktur und die
+möglichst verursachergerechte Finanzierung sowie der Rechtsrahmen müssen noch geklärt werden. Konkrete Vorschläge werden derzeit vom Bund geprüft. Für die Speicherung im Ausland ist
+neben der vertraglichen Vereinbarung zwischen Emittenten in der Schweiz und den ausländischen
+Anbietern von Transport- und Speicherleistungen auch ein Staatsvertrag nötig, um die Einhaltung
+internationaler Bestimmungen wie des Übereinkommens von Paris und des London Protokolls sicherzustellen (analog den Vereinbarungen zu CO 2-Emissionsreduktionen im Ausland).
+Das alles bedeutet, dass sowohl CCS wie auch NET heute erst teilweise verfügbar und mit grösseren Unsicherheiten behaftet sind. So ist die zukünftige CO2-Logistik zwar mit Verkehrsmitteln wie
+Lastwagen, Schiffen oder der Bahn denkbar; fallen aber dereinst grössere CO 2-Mengen an, wenn
+Städte und Industriebereiche zunehmend Carbon Capture-Anlagen in Betrieb nehmen, bedarf es
+nach heutiger Einschätzung einer schweizweiten CO2-Pipeline-Infrastruktur. Deren Aufbau muss
+grenzüberschreitend abgestimmt erfolgen. Noch fehlt es an den erforderlichen regulatorischen
+Grundlagen für die Umsetzung einer CO2-Pipeline-Infrastruktur in der Schweiz. Grundsätzlich befindet sich die Region Basel aufgrund ihrer geographischen Lage und Nähe zu Deutschland und
+Frankreich sowie aufgrund der bestehenden und künftigen Infrastrukturen (Schweizerische Rheinhäfen sowie trimodaler Containerterminal) in einer Schlüsselposition für den mittelfristigen CO2Transport aus der Schweiz per Bahn und/oder Schiff.
+Ganz generell ist zu bedenken, dass die Anwendung von NET-Technologien auch an Standorten
+erfolgen könnte, wo die Speicherung des CO2 direkt erfolgen kann und damit der energieintensive
+Transport entfällt. Auch dieser Aspekt muss bei der künftigen Entwicklung und Skalierung der Technologie berücksichtigt werden. D. h. es ist für jede Anlage eine Gesamtbilanzierung notwendig,
+welche die fixierte CO2-Menge jeweils den Treibhausgasemissionen gegenüberstellt, welche durch
+die Energieaufwendung für den Prozess und ggf. für den Transport aufgewendet werden.
+
+Seite 3/8
+
+Regierungsrat des Kantons Basel-Stadt
+
+2.
+1.
+
+Beantwortung der einzelnen Fragen
+Wie kann der Kanton die Entwicklung und den Einsatz von CCS und NET fördern und inwieweit können dazu Public-Private-Partnerships helfen, um einheimische Pionierunternehmen
+aus diesem Bereich zu unterstützen.
+
+In der Schweiz besteht bereits eine Vielzahl verschiedener Förderinstrumente für CCS- bzw. NETPilotprojekte. Dazu gehören u. a. das Bottom-Up-Instrument des SNF, die EU Clean Energy Transition Partnership (CETP) mit Beteiligung des BFE, Innosuisse-Programme, das SWEET-Förderprogramm1, das Förderprogramm Klik (Stiftung Klimaschutz und CO2-Kompensation) sowie das
+Förderprogramm gemäss Art. 6 des Bundesgesetzes über die Ziele im Klimaschutz, die Innovation
+und die Stärkung der Energiesicherheit (KlG2).
+Das Förderprogramm im Rahmen von Art. 6 KlG stellt für die Jahre 2025–2037 voraussichtlich rund
+200 Millionen Franken pro Jahr für CCS- und NET-Programme als Finanzhilfen zur Verfügung.
+Förderwürdig sind Massnahmen, bei denen die Gesuchstellenden nachweisen können, dass Doppelförderungen und Mitnahmeeffekte ausgeschlossen sind. Die Finanzhilfe beträgt maximal
+50% für Investitions- und Betriebsbeiträge.3 Der Bundesrat hat am 27. November 2024 beschlossen, das KlG und die dazugehörige Klimaschutz-Verordnung per 1. Januar 2025 in Kraft zu setzen.
+Die grössten CCS- bzw. NET-Potenziale bestehen an der städtischen Kehrichtverwertungsanlage (KVA; biogenes und fossiles CO2 zu je 50%) sowie an den Holzheizkraftwerken: In der baselstädtischen Klimaschutzstrategie Teil 1 «Netto-Null 2037» wird das Potenzial für Negativemissionen bei der KVA je nach Abscheiderate im Jahr 2037 auf rund 80'000–103’000 Tonnen CO2
+geschätzt. Bei den HKW wird das NET-Potenzial je nach Abscheiderate auf rund 121'000 Tonnen CO2 geschätzt.
+Der Klimaschutzaktionsplan des Kantons Basel-Stadt sieht mit der Massnahme en-1 «Machbarkeitsprüfung für Carbon Capture and Storage (CCS)» vor, dass bis Ende 2027 geprüft wird, ob und
+in welchem Ausmass CCS im Kanton umgesetzt werden kann, um damit die nötigen Emissionsreduktionen und Negativemissionen ab 2037 zu realisieren. Die heutige KVA muss im Zeitraum 2037
+bis 2050 erneuert oder ersetzt werden. Eine mögliche CCS-Anlage ist deshalb abhängig von der
+Planung für diese neue Anlage.
+Eine im Herbst 2024 abgeschlossene Studie von Cargo Sous Terrain zum CO2-Abscheidepotenzial
+an den Holzheizkraftwerken I und II (HKW) im Auftrag des Kantons Basel-Stadt und weiterer Projektträger4 untersuchte die technischen, wirtschaftlichen und rechtlichen Rahmenbedingungen für
+den Aufbau einer Prozesskette für die Abscheidung des biogenen CO2 an der Punktquelle der
+HKW I und II unter Berücksichtigung verschiedener Szenarien und Varianten. Grundsätzlich wird
+eine NET-Anlage am gewählten Standort Hagenau als technisch machbar erachtet und es wurde
+dafür ein Konzept entwickelt. Allerdings muss berücksichtigt werden, dass die beiden Holzheizkraftwerke nur während den Wintermonaten in Betrieb sind und somit die NET-Anlage nicht ganzjährig betrieben werden könnte, womit die Wirtschaftlichkeit sinkt. Die Studie von Cargo Sous Terrain dient als Basis für nachfolgende weiterführende Machbarkeitsstudien, insbesondere auch zur
+Trägerschaft und zu möglichen Betreibermodellen von NET-Anlagen an den HKW I und II und bei
+der CCS/NET-Anlage der KVA. Die Studie von Cargo Sous Terrain wies daneben auch auf die
+Schaffung eines grenzüberschreitenden Clusters hin, um gemeinsam mit EU-Gebietskörperschaften europäische Fördermittel zu mobilisieren (bspw. Contracts for Difference-Instrumente oder EUInnovationsfonds).
+1 SWiss Energy research for the Energy Transition.
+2 BBl 2022 2403.
+3 Die Beiträge können ausnahmsweise um 20% erhöht werden, bspw. für Massnahmen, an deren Umsetzung der Bund aufgrund ihrer strategischen
+
+Bedeutung für die Erreichung des Netto-Null-Ziels ein grosses Interesse hat.
+4 Industrielle Werke Basel (IWB), Bundesamt für Umwelt (BAFU), Jura-Cement-Fabriken, Rhenus, Schweizerische Rheinhäfen, Verband der Betreiber
+Schweizerischer Abfallverwertungsanlagen (VBSA) und Verband der Schweizerischen Gasindustrie (VSG)
+
+Seite 4/8
+
+Regierungsrat des Kantons Basel-Stadt
+
+Nebst diesen Punktquellen-Emissionen bestehen im Kanton weitere CCS- und NET-Potenziale,
+die aber angesichts der Grössenordnung der kantonalen Emissionen alle von untergeordneter Bedeutung sind. Zu erwähnen ist hier insbesondere die Pflanzenkohleanlage, welche die IWB seit
+2020 in Kleinhüningen betreibt und jährlich rund 1'600 Tonnen CO 2 in Pflanzenkohle bindet. Die
+Pflanzenkohle wird anschliessend dem Asphalt beigemischt und so dauerhaft fixiert5 oder als Pflanzenkohlekompost zum privaten Gebrauch verkauft. Die Produktion von Pflanzenkohle als NETMassnahme ist ein bereits funktionierender und erprobter Prozess. Er hat den Vorteil, dass das
+CO2 (gebunden in der Biomasse) nicht weit transportiert werden muss und das Endprodukt (die
+Pflanzenkohle) mit Mehrwert verwendet werden kann. Das Potenzial für Negativemissionen ist aufgrund der Anlagegrösse jedoch begrenzt.
+An weiteren NET-Möglichkeiten wie bspw. Direct Air Carbon Capture and Storage, bei dem der
+Atmosphäre über Luftfilterung direkt CO 2 entzogen wird, wird weiterhin geforscht. Einzelne Pilotversuche stehen nun in der Scale-Up-Phase wie beispielweise das Projekt «Mammoth» des Startup Unternehmens Climeworks mit einer neuen CO2-Filteranlage auf Island.6 Eine weitere Pilotanlage von Climeworks steht zu Forschungswecken auf dem Gelände der Schweizerhalle in Pratteln.
+Zu erwähnen ist hier weiter das Projekt DemoUpCARMA7, das die Nutzung und permanente Speicherung von CO2 in neuem und rezykliertem Beton in der Schweiz mittels eines neuen Verfahrens
+untersucht. Weiter analysiert DemoUpCARMA den Transport und die permanente Speicherung von
+CO2 in einem geologischen Reservoir im Ausland.
+2.
+
+Wie kann der Kanton die Universitäten und Hochschulen bei der Forschung nach CCS und
+NET unterstützen.
+
+Die politische Steuerung der Hochschulen, an denen der Kanton Basel-Stadt als Träger direkt mitbeteiligt ist (Universität Basel und Fachhochschule Nordwestschweiz), ist vom übergeordneten
+Grundsatz der Freiheit der wissenschaftlichen Lehre und Forschung geprägt (s. § 3 des Vertrags
+zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Trägerschaft der
+Universität Basel vom 27. Juni 20068 und § 5 des Vertrags zwischen den Kantonen Aargau, BaselLandschaft, Basel-Stadt und Solothurn über die Fachhochschule Nordwestschweiz (FHNW) vom
+9. November 20049). Die Trägerbeiträge sind als Globalbeiträge ausgestaltet und die interne Mittelallokation obliegt den obersten Entscheidungsorganen innerhalb der Hochschulinstitutionen
+(§ 34 Universitätsvertrag, § 27 FHNW Vertrag). Es ist vor diesem Hintergrund aus Trägersicht nicht
+angezeigt, spezifische Forschung zu bestellen und gesondert zu alimentieren.
+Die beiden Hochschulinstitutionen in kantonaler Trägerschaft sowie die weiteren, in Basel ansässigen Hochschulen haben von sich aus ausgewiesene Forschungsschwerpunkte im Bereich Klima
+gebildet, wie der Regierungsrat zuletzt anlässlich der Berichterstattung zum Anzug der Spezialkommission Klima betreffend Stärkung des Forschungsstandorts im Bereich Klima vom 8. November 2023 dargestellt hat10. Hervorzuheben sind im Zusammenhang mit CCS und NET etwa die
+Erweiterung der Hochschule für Technik FHNW um den Bereich Umwelt ab 2025: Mit den bereits
+vorhandenen Anknüpfungspunkten zu bestehenden Angeboten der FHNW im Bereich Umwelt und
+Klima und der etablierten Zusammenarbeit mit dem Paul Scherrer Institut PSI bestehen beste Voraussetzungen, die drängenden Fragestellungen der anwendungsorientierten Forschung interdisziplinär aufzugreifen. Beide Hochschulen pflegen zudem einen strukturierten Wissenstransfer in
+die Kantonsverwaltung und die interessierte Öffentlichkeit. An beiden Hochschulen bestehen auch
+bereits Gefässe zur Förderung von Innovationen und des Technologietransfers.
+
+5 CO -negativer Asphalt
+2
+6 Vgl. https://climeworks.com/plant-mammoth
+7 Vgl. http://www.demoupcarma.ethz.ch/de/home/
+8 Universitätsvertrag, SG 442.400.
+9 FHNW-Vertrag, SG 428.100.
+10 Vgl. Schreiben des Regierungsrates 21.5753.02.
+
+Seite 5/8
+
+Regierungsrat des Kantons Basel-Stadt
+
+Der Kanton steht den Hochschulen bei geeigneten Pilotprojekten gerne als Praxispartner zur Verfügung.
+3.
+
+Wie kann der Standort Basel attraktiver für die Ansiedlung von Pionierunternehmen aus dem
+Bereich CCS und NET werden.
+
+Mit dem Standortförderungsfonds verfügt der Kanton Basel-Stadt seit 2006 über ein Instrument,
+mit dem Programme zur Stärkung des Wirtschaftsstandorts Basel-Stadt gefördert werden können.
+Der Grosse Rat hat am 17. Januar 2024 dem Ratschlag «Stärkung der Innovationsförderung BaselStadt 2023/24 bis 2030» (23.0719.01) zugestimmt und zusätzliche Mittel für den Standortförderungsfonds bewilligt. Um dem Standort neue Impulse zu verleihen, soll die Innovationsförderung
+unter dem Stichwort «smarte Diversifikation» ausgebaut werden. Diese wird sich in den kommenden Jahren auf drei strategische Innovationsfelder konzentrieren: «Innovation in Life Sciences»,
+«Digitale Innovation» und «Nachhaltige Wirtschaft». Im neuen Innovationsfeld «Nachhaltige Wirtschaft» wurden unter den Namen «Basel2037» und «BaselCircular» zwei Programme definiert, die
+Basler Unternehmen bei Innovationsprojekten unterstützen sollen. Die inhaltliche Ausrichtung dieser Programme liegt bei BaselCircular auf dem Thema Kreislaufwirtschaft und bei Basel2037 auf
+der Dekarbonisierung von Gewerbe und Industrie. Die Strategie zur Innovationsförderung legt somit keinen speziellen Fokus auf CCS oder NET.
+Angesichts des Netto-Null-Ziels des Kantons Basel-Stadt und in Anbetracht der bereits existierenden Fördergefässe für CCS- und NET-Projekte in der Schweiz (s. o. Frage 1) möchte der Regierungsrat CCS-/NET-Anlagen im Kanton vorantreiben. Auf Grund der guten Lage von Basel im Dreiland am Oberrhein möchte sich der Kanton auch proaktiv beim Aufbau der nationalen CO 2-Logistik
+sowie der weiteren Aktivitäten im Rahmen der nationalen Arbeitsgruppe zu CO2-Entnahme und
+-Speicherung des Bundes (s. u. Frage 4) einbringen. So könnte der Kanton seine Standortattraktivität für Unternehmen in diesem Bereich stärken.
+4.
+
+Welche Projekte des Bundes bestehen in diesem Bereich bereits und wie kann der Kanton
+enger mit dem Bund zusammenarbeiten, um solche Projekte voranzutreiben.
+
+Wie der Kanton Basel-Stadt setzt sich auch der Bund für die Skalierung von CCS und NET und die
+Schaffung der dafür notwendigen Rahmenbedingungen ein. Um das Netto-Null-Ziel der Schweiz
+2050 zu erreichen, müssen ab 2050 die schwer vermeidbaren Emissionen in der Höhe von schätzungsweise rund 12 Millionen Tonnen CO 2 pro Jahr aus der Industrie, der Landwirtschaft sowie der
+Abfallverwertung mit CCS und NET vermieden werden. Um diese im erforderlichen Umfang bereitzustellen, sieht der Bundesrat in seinem Bericht aus dem Jahr 2022 11 ein zweistufiges Vorgehen
+vor: Eine Pionierphase bis 2030 und eine Skalierungsphase bis 2050.
+In der Pionierphase bis 2030 sollen die Anwendung und der Ausbau von CCS und NET pilotiert
+werden. Vorgesehen sind dafür der Bau von Pilot-Abscheideanlagen an Punktquellen sowie der
+Transport des abgefangenen CO 2 in Speicherstätten in Nordeuropa. Analysiert wird ebenfalls das
+CO2-Senkenpotenzial im Inland. Die Pionierphase umfasst ebenfalls die Erweiterung der vertraglichen Vereinbarungen zwischen Schweizer Emittenten und ausländischen Anbietenden von Transport- und Speicherleistungen sowie die Förderung von Forschungs- und Innovationsprojekten und
+die Beteiligung an Forschungsinfrastrukturen. Damit sollen im Jahr 2030 als Richtwert rund
+500'000 Tonnen CO2 im In- und Ausland dauerhaft gespeichert werden können.12
+
+11 Der Bundesrat (Hrsg.) (2022). CO -Abscheidung und Speicherung (CCS) und Negativemissionstechnologien (NET). Wie sie schrittweise zum langfristi2
+
+gen Klimaziel beitragen können.
+12 Der Verband der Betreiber Schweizerischer Abfallverwertungsanlagen (VBSA) hat mit dem Eidgenössischen Departement für Umwelt, Verkehr, Energie
+und Kommunikation (UVEK) eine Vereinbarung getroffen, bis 2030 mindestens eine CO2-Abscheidungsanlage mit einer jährlichen Kapazität von mindestens 100'000 Tonnen CO2 in Betrieb zu nehmen.
+
+Seite 6/8
+
+Regierungsrat des Kantons Basel-Stadt
+
+In der Phase der gezielten Skalierung von 2031 bis 2050 soll diese Menge auf rund 7 Millionen Tonnen CO2 gesteigert werden, das in der Schweiz abgeschieden wird (davon 5 Millionen Tonnen aus
+CCS und 2 Millionen Tonnen aus NET). Da die NET-Kapazitäten im Inland begrenzt sind, geht der
+Bundesrat davon aus, dass die verbleibenden 5 Millionen Tonnen CO2 mit NET im Ausland umgesetzt werden müssen. Die Phase der gezielten Skalierung umfasst weiter den Aufbau einer
+CO2-Pipeline-Infrastruktur sowie die Sicherstellung der inländischen und ausländischen CO 2-Speicherung.
+Zur Umsetzung der beiden Phasen hat der Bundesrat einen umfassenden Massnahmenplan vorgestellt, der die Verbesserung der rechtlichen, strategischen und vollzugstechnischen Grundlagen
+auf nationaler Ebene, die Förderung der nationalen und internationalen Kooperation, Forschungsund Innovationsförderung und die Vorbildfunktion des Bundes umfasst. 13
+Im Bereich der nationalen Koordination setzte das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) im Sommer 2022 eine nationale Arbeitsgruppe zu
+CO2-Entnahme und -Speicherung unter Leitung des Bundesamts für Umwelt (BAFU) ein, in der die
+relevanten Bundesämter, die Kantone sowie betroffene Organisationen und Industrie vertreten
+sind.14 In dieser Arbeitsgruppe nimmt auch der Kanton Basel-Stadt Einsitz. In der Arbeitsgruppe
+werden gemeinsam mit der Wirtschaft übergeordnete Fragen rund um Zuständigkeiten, eine möglichst verursachergerechte Finanzierung und rechtliche Rahmenbedingungen unter Berücksichtigung laufender konkreter Projekte diskutiert.
+Über die verschiedenen bereits etablierten Gefässe und über die Arbeitsgruppe ist die Zusammenarbeit des Kantons Basel-Stadt mit dem Bund, anderen Kantonen sowie der Wirtschaft und Forschung in allen Fragen rund um CCS und NET sichergestellt.
+5.
+
+Wie kann und will der Kanton auf die Planung und Realisierung von Projekten zur Kompensation von unvermeidbaren CO2-Emissionen aus (vorerst) nicht ersetzbaren Prozessen (z.B.
+Kehrichtverbrennung und Fernwärme) hinwirken, bzw. wie gedenkt er, diese zu fördern.
+
+Wie unter Frage 1 erläutert, wurden erste Abklärungen für die Potenziale von CCS und NET im
+Kanton Basel-Stadt vorgenommen und eine Machbarkeitsstudie für die KVA steht bevor. Generell
+muss allerdings berücksichtigt werden, dass viele Unklarheiten weiterhin bestehen. Es ist noch
+nicht restlos geklärt, welche Abscheideverfahren sich wirklich bewähren werden und viele Fragen
+zum Transport und zur Speicherung bleiben offen. Deswegen sind weiterführende Abklärungen
+notwendig. Entsprechend setzt sich der Kanton Basel-Stadt auch in verschiedenen Gremien auf
+verschiedenen Ebenen ein, nicht nur in der Schweiz, sondern auch international, z. B. als Partner
+des Projekts «CO2-Potenzialanalyse und Runder Tisch CCS/NET am Oberrhein» der Klima- und
+Energiestrategie für die Trinationale Metropolitanregion Oberrhein TMO. Dieses Projekt betrachtet
+grenzüberschreitend die zukünftig anfallenden CO2-Mengen am Oberrhein und deren Transportmöglichkeiten und trägt zur Information und Vernetzung der betroffenen Stakeholder aus Wirtschaft, Wissenschaft, Verwaltung und der Zivilbevölkerung bei.
+
+13 Die einzelnen Massnahmen sind dem Bericht des Bundesrats zu entnehmen, vgl. Der Bundesrat (Hrsg.) (2022). CO -Abscheidung und Speicherung
+2
+
+(CCS) und Negativemissionstechnologien (NET). Wie sie schrittweise zum langfristigen Klimaziel beitragen können.
+14 Das Mandat der Arbeitsgruppe ist online verfügbar unter https://www.bafu.admin.ch/bafu/de/home/themen/klima/fachinformationen/co2-entnahme-undspeicherung.html.
+
+Seite 7/8
+
+Regierungsrat des Kantons Basel-Stadt
+
+3.
+
+Antrag
+
+Aufgrund dieses Berichts beantragen wir, den Anzug Franz-Xaver Leonhardt und Konsorten betreffend «CO2-Emissionen Zertifikate zur Kompensation von Treibhausgasen» abzuschreiben.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Dr. Conradin Cramer
+Regierungspräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Seite 8/8
+
+

@@ -1,0 +1,513 @@
+Grosser Rat des Kantons Basel-Stadt
+
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+An den Grossen Rat
+
+23.0896.02
+21.5234.04
+
+Umwelt-, Verkehrs- und Energiekommission
+Basel, 28. November 2023
+Kommissionsbeschluss vom 22. November 2023
+
+Bericht der Umwelt-, Verkehrs- und Energiekommission
+zum Ratschlag zur Förderung der Ladeinfrastruktur in Parkhäusern und Parkierungsanlagen
+sowie
+
+zum Bericht zur Motion der Umwelt, Verkehrs- und Energiekommission betreffend «einem raschen Ausbau der Ladeinfrastruktur
+für E-Autos in Basel-Stadt»
+
+Den Mitgliedern des Grossen Rates des Kantons Basel-Stadt zugestellt am 1. Dezember 2023
+
+Seite 1/12
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+1.
+
+Ausgangslage
+
+Die Dekarbonisierung bzw. Elektrifizierung des motorisierten Verkehrs ist ein zentraler Bestandteil
+der Klimapolitik des Kantons Basel-Stadt. Etwa ein Viertel der im Kanton anfallenden CO2Emissionen geht auf den Verkehr zurück. Im Ratschlag Gesamtkonzept Elektromobilität vom 3. Juli
+2019 hat der Regierungsrat deshalb eine Auslegeordnung zur Förderung der Elektromobilität gemacht. Entscheidend für den Umstieg auf Elektroautos ist ein ausreichendes Angebot an Ladestationen. Zur Finanzierung von 200 öffentlich zugänglichen Ladestationen auf Allmend bewilligte der
+Grosse Rat deshalb am 14. April 2021 ein bedingt rückzahlbares, zinsloses Darlehen an die IWB
+in der Höhe von 11.4 Mio. Franken. Ein Teil dieser 200 Ladestationen ist inzwischen in Betrieb,
+weitere folgen in den nächsten Jahren.
+Gleichzeitig mit ihrem Bericht zum Ratschlag Gesamtkonzept Elektromobilität hat die Umwelt-, Verkehrs- und Energiekommission (UVEK) am 18. März 2021 eine Motion für einen raschen Ausbau
+der Ladeinfrastruktur für Elektroautos eingereicht. Der Grosse Rat hat diese dem Regierungsrat
+am 17. November 2021 zur Ausarbeitung einer Vorlage innert zwei Jahren überwiesen. Die Motion
+fordert die Erstellung von rund 1'000 Ladestationen in staatlichen, öffentlich Parkhäusern und ein
+Paket zur Förderung von rund 1'000 Ladestationen in privaten, öffentlich zugänglichen Parkhäusern und von rund 2'000 Ladestationen auf privaten, nicht öffentlich zugänglichen Abstellplätzen.
+Die damit und auch die mit dem Rollout der beschlossenen 200 Ladesäulen auf Allmend verbundenen Kosten sollen verursachendengerecht finanziert werden. Wer kein Auto besitzt, soll die Infrastruktur nicht (z.B. als Steuerzahlerin) mitfinanzieren müssen. Konkret hat die UVEK vorgeschlagen, für den beim Laden von Elektrofahrzeugen bezogenen Strom einen «Zuschlag für die Elektrifizierung der motorisierten Mobilität» (ZEM) zu erheben – und, damit der Tarif attraktiv bleibt, gleichzeitig teilweise oder vollständig auf die Erhebung der Lenkungsabgabe zu verzichten.
+Mit dem Ratschlag zur Förderung der Ladeinfrastruktur in Parkhäusern und Parkierungsanlagen
+beantragt der Regierungsrat, die Grundinstallation für das Laden von Elektrofahrzeugen in öffentlich zugänglichen Parkhäusern und in privaten Parkierungsanlagen finanziell zu unterstützen. Zur
+Finanzierung des Förderprogramms soll auf den an geförderten Ladesäulen bezogenen Strom wie
+vorgeschlagen ein ZEM erhoben und auf die Lenkungsabgabe verzichtet werden. Die Förderung
+soll nicht aus Steuergeldern, sondern aus den Einnahmen des ZEM finanziert werden. Für die Umsetzung des Programms müssen das Umweltschutzgesetz und das Energiegesetz angepasst werden.
+
+2.
+
+Kommissionsberatung
+
+Der Grosse Rat hat den Ratschlag zur Förderung der Ladeinfrastruktur in Parkhäusern und Parkierungsanlagen der Umwelt-, Verkehrs- und Energiekommission (UVEK) am 13. September 2023
+zur Vorberatung überwiesen. Die UVEK setzte sich an ihren Sitzungen vom 27. September und 25.
+Oktober 2023 mit dem Geschäft auseinander. Den vorliegenden Bericht verabschiedete sie am 22.
+November 2023.
+Eintreten auf das Geschäft war in der UVEK nicht bestritten. Die Kommission diskutierte insbesondere über die Fördergrundsätze, den Förderprozess und die Finanzierung. Sie beantragt dem
+Grossen Rat, der Teilrevision von Umweltschutz- und Energiegesetz mit zwei Anpassungen zuzustimmen.
+
+2.1
+
+Generelle Feststellungen
+
+Die Mobilitätsstrategie des Regierungsrats basiert auf dem Ansatz «Vermeiden - Verlagern - Verbessern». Bei der Förderung der Ladeinfrastruktur geht es um jenen Teil des motorisierten Individualverkehrs (MIV), der sich in absehbarer Zeit weder vermeiden noch auf flächen- und ressourceneffiziente Verkehrsmittel verlagern lässt. Es geht also um eine Verbesserung im Sinne, dass
+möglichst bald ein möglichst grosser Anteil des verbleibenden MIV mit elektrisch angetriebenen
+
+Seite 2/12
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+Fahrzeugen abgewickelt wird. Im Jahr 2022 hatten nur 18% der im Kanton neu zugelassenen Fahrzeuge und knapp 2.5% des gesamten Personenwagenbestands keinen Verbrennungsmotor. Vor
+dem Hintergrund des Netto-null-Zieljahrs 2037 ist es vordringlich, den Anteil der rein elektrisch
+betriebenen Fahrzeuge umgehend deutlich zu erhöhen. Je mehr Fahrzeuge mit Verbrennungsmotor 2037 noch im Einsatz stehen, desto schwieriger wird es, das Netto-null-Ziel zu erreichen.
+Da rund 85% der Kantonsbevölkerung in einem Mietverhältnis wohnt, sind die meisten Besitzerinnen und Besitzer eines Autos mit eigenem (gemietetem) Abstellplatz darauf angewiesen, dass die
+Hauseigentümerschaft diesen mit Ladeinfrastruktur ausstattet. Wer keine garantierte Lademöglichkeit entweder am oder in unmittelbarer Nähe zum Wohnort hat, kauft tendenziell ein Auto mit Verbrennungsmotor. Die Grundinstallation ist für die Hauseigentümerschaft aber so teuer, dass sich
+diese erst ab einer gewissen Anzahl an Elektrofahrzeugen rechnet. Um diesen Teufelskreis zu
+durchbrechen, soll der Aufbau der Ladeinfrastruktur (Grundinstallation) gefördert werden.
+Die UVEK stellt fest, dass der Ratschlag den Fokus im Vergleich zur Motion stärker auf private
+Abstellplätze legt. Der Regierungsrat möchte aufgrund inzwischen vorliegender Analysen zum
+künftigen Ladebedarf in den öffentlich zugänglichen Parkhäusern vorerst weniger Ladesäulen installieren, als die in der Motion geforderten etwa 1'000. Die Kommission kann nachvollziehen, dass
+ihre Schätzung über den Bedarf vermutlich zu hoch war, und stuft es als richtig ein, nicht in eine
+Infrastruktur zu investieren, die es nicht braucht. Sie begrüsst den Ansatz des Regierungsrats, dass
+künftig in den Parkhäusern immer etwas mehr Ladesäulen zur Verfügung stehen sollen, als gemäss
+Nachfrage benötigt werden. Wichtig ist, dass auch nicht im Kanton wohnhafte Autofahrende in den
+öffentlichen Parkhäusern stets eine freie Ladesäule finden. Fahrzeuge von Pendelnden können
+auch auf Abstellplätzen von Arbeitgebenden geladen werden. Auch die dortige Ladeinfrastruktur
+ist förderberechtigt.
+
+2.2
+
+Fördergrundsätze
+
+Finanziell gefördert werden soll gemäss Antrag des Regierungsrats die Grundinstallation (ohne
+Ladestationen) auf privatem Grund, in staatlichen und privaten öffentlich zugänglichen Parkhäusern, sowie von Carsharing-Unternehmen auf Allmend. Die Höhe des Förderbeitrags liegt bei 60%
+der Kosten der Grundinstallation; der Betrag ist allerdings nach oben begrenzt – auf privatem Grund
+auf 1’300 Franken pro Ladepunkt, in staatlichen und privaten öffentlich zugänglichen Parkhäusern
+auf maximal 3’500 Franken pro Ladepunkt und bei Carsharing-Parkplätzen auf Allmend auf maximal 7'500 Franken pro Ladepunkt.
+Um einen Anreiz zu schaffen, die Installation möglichst bald vorzunehmen, wird die Förderung bis
+ins Jahr 2030 befristet. Den meisten Hauseigentümerinnen und Hauseigentümern dürfte bewusst
+sein, dass sie die vermieteten Parkplätze früher oder später mit Ladesäulen ausrüsten müssen.
+Warten sie damit über das Jahr 2030 hinaus zu, müssen sie die vollen Kosten tragen, fällen sie
+den Entscheid und melden es bis 2030 an, erhalten sie den Förderbeitrag.
+Die UVEK hat sich erkundigt, ob der Maximalbetrag von 1'300 Franken pro Ladepunkt in einem
+Einfamilienhaus nicht deutlich unter 60% der Gesamtkosten liegt. Je geringer der geförderte Anteil,
+desto kleiner der Anreiz, die Installation bis 2030 vorzunehmen. Gemäss Auskunft aus dem Departement für Wirtschaft, Soziales und Umwelt basieren die gesetzlich verankerten Maximalbeträge
+auf einer Analyse der Kosten der Grundinstallation. Bei einem Einfamilienhaus ist der bauliche
+Aufwand nicht gross, muss doch in aller Regel nur ein Kabel gezogen werden. Grösser ist der
+Aufwand, wenn aufgrund einer grösseren Zahl an Ladepunkten auf eine höhere Netzebene gewechselt und eine stärkere Leitung installiert werden muss. Während bei einem Einfamilienhaus
+der grössere Teil der Gesamtkosten für die Wall Box anfällt, fallen in einer Tiefgarage mit vielen
+Abstellplätzen die baulichen Massnahmen und der Aufwand für die elektrische Erschliessung und
+Verteilung (pro Ladepunkt) stärker ins Gewicht.
+
+Seite 3/12
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+2.3
+
+Finanzierung
+
+Die vom Regierungsrat vorgeschlagene Finanzierung der Förderung folgt im Grundsatz dem von
+der UVEK gemachten Vorschlag. Der Aufbau der Ladeinfrastruktur soll nicht aus der Staatskasse
+finanziert werden, sondern über einen «Zuschlag für die Elektrifizierung des motorisierten Verkehrs» (ZEM) von 2.5 Rappen pro kWh auf dem Strombezug an den geförderten Ladesäulen. Die
+Einnahmen aus dem ZEM fliessen in einen Fonds, aus dem die Förderbeiträge ausbezahlt werden.
+Da die Auszahlungen bis ins Jahr 2030 höher sein werden als die Einnahmen, wird der Fonds eine
+Unterdeckung aufweisen. Ab dem Jahr 2031 – wenn keine Fördergelder mehr ausbezahlt werden
+– wird er nur noch Einnahmen verzeichnen. Diese werden aufgrund des steigenden Bestands an
+Elektroautos und dem entsprechend höheren Strombezug zudem von Jahr zu Jahr höher ausfallen.
+Sobald die kumulierten Ausgaben den kumulierten Einnahmen entsprechen, wird der Fonds liquidiert und der ZEM nicht mehr erhoben. Die geförderte Infrastruktur ist dann vollständig finanziert.
+Dies dürfte bei einem ZEM von 2.5 Rappen pro kWh etwa im Jahr 2034 der Fall sein. Ein möglicher
+positiver Fonds-Saldo würde in den Stromsparfonds überführt.
+Die mit der Förderung verbundenen Ausgaben schätzt der Regierungsrat auf 10.8 Mio. Franken.
+Würde weniger Ladeinfrastruktur erstellt, weil weniger Leute (Elektro-) Auto fahren, wäre der Betrag
+tiefer (und umgekehrt). Da ein gesetzlicher Anspruch auf die Förderung besteht, handelt es sich
+um finanzrechtlich gebundene Ausgaben.
+Beim ZEM handelt es sich um eine neue Abgabe, die nur auf dem Strombezug an geförderten
+Ladepunkten erhoben wird. Da im Kanton Basel-Stadt im Gegensatz zu den benachbarten Kantonen eine Lenkungsabgabe von 5 Rappen pro kWh bezogenen Strom erhoben wird, besteht die
+Gefahr, dass an den geförderten Ladepunkten aufgrund des höheren Preises (zu) wenig Strom
+geladen wird. Im Gegensatz zu anderen Anwendungen ist das Laden von Elektrofahrzeugen nicht
+standortgebunden. Deshalb schlägt der Regierungsrat – im Einklang mit der Motion – vor, überall
+dort, wo, und so lange, wie der ZEM erhoben wird, auf die Erhebung der Lenkungsabgabe zu verzichten. Bei einem ZEM von 2.5 Rappen und einer Lenkungsabgabe von 5 Rappen pro kWh wäre
+das Laden eines Autos gegenüber heute und gegenüber anderen Anwendungen mit Strombedarf
+um 2.5 Rappen pro kWh günstiger.
+Von der Erhebung des ZEM ausgeschlossen bleiben bei Inkrafttreten der neuen Bestimmung bereits bestehende Ladeinfrastrukturen und solche, für deren Erstellung oder Erweiterung keine Förderbeiträge beantragt oder gewährt werden. Die UVEK hat sich erkundigt, ob Leute, die zum Zeitpunkt des Inkrafttretens der neuen Bestimmung bereits über eine (vollständig aus eigenen Mitteln
+finanzierte) Ladeinfrastruktur verfügen, in den günstigeren Tarif (ZEM statt Lenkungsabgabe)
+wechseln können. Dies würde zwar zu Mitnahmeeffekten führen, wäre aus Gerechtigkeitsüberlegungen aber dennoch nicht falsch. Gemäss Auskunft aus dem Departement für Wirtschaft, Soziales und Umwelt wird ein solcher Wechsel möglich sein. Er bedingt die Installation eines Zählers,
+der den über die Ladesäule bezogenen Strom misst.
+Die Vergünstigung des Stroms für Elektroautos lässt sich gemäss Regierungsrat mit dem Fördergedanken rechtfertigen. Sie wäre zeitlich bis zur Aufhebung des ZEM befristet; danach würde die
+Lenkungsabgabe wieder erhoben. Mit der gleichen Begründung ist – notabene ohne zeitliche Befristung – auch der für den Betrieb von Wärmepumpen benötigte Strom von der Lenkungsabgabe
+befreit.
+Die UVEK hat sich nach dem Risiko erkundigt, dass sich die vom Kanton ausbezahlten Fördergelder nicht über die Einnahmen aus dem ZEM refinanzieren lassen. Ein solches besteht aus Sicht
+des Departements für Wirtschaft, Soziales und Umwelt kaum. Es geht nicht davon aus, dass Leute
+eine Ladeinfrastruktur erstellen, ohne sie zu nutzen, gehen doch mindestens 40% der Kosten zu
+ihren Lasten. Wären die Einnahmen aus dem ZEM geringer als kalkuliert, weil weniger als erwartet
+geladen wird, dauerte es einfach länger bis zum Ausgleich und zur Auflösung des Fonds.
+Intensiv diskutiert hat die UVEK den Mechanismus «Befreiung von der Lenkungsabgabe und Erhebung des ZEM». Mit dem ZEM wird zwar sichergestellt, dass die Ladeinfrastruktur von den Nutzenden und nicht von der Allgemeinheit bezahlt wird, mit dem Verzicht auf die Lenkungsabgabe
+
+Seite 4/12
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+gehen der gesamten Kantonsbevölkerung aber theoretisch Einnahmen «verloren». Theoretisch ist
+diese Überlegung insofern, als viele der Autos, für die in der Übergangsphase beim Laden ein ZEM
+erhoben wird, heute noch gar nicht immatrikuliert sind. Führt die Förderung des Ausbaus der Ladeinfrastruktur dazu, dass in etwa zehn Jahren deutlich mehr Elektroautos unterwegs sind als es
+ohne Förderung wären, sind die Einnahmen aus der Lenkungsabgabe und damit die Rückerstattung an die Bevölkerung ab dem Zeitpunkt der Auflösung des Fonds höher als andernfalls. Netto
+am meisten davon profitieren werden Leute ohne eigenes Auto.
+Ob der vom Regierungsrat (und der UVEK in ihrer Motion) vorgeschlagene Finanzierungsmechanismus zielführend ist, ist letztlich eine politische Frage. Leute, die ein Elektroauto besitzen, werden
+in einer Übergangsphase finanziell entlastet. Wie viele aufgrund der Förderung ein Elektroauto
+(statt eines mit Verbrennungsmotor) kaufen, ist nicht vorhersehbar. Es kann aber davon ausgegangen werden, dass die Förderung den Anteil der Elektrofahrzeuge an der gesamten Fahrzeugflotte
+schneller ansteigen lässt und ab dem Zeitpunkt der Liquidation des Fonds die Einnahmen aus der
+Lenkungsabgabe höher ausfallen werden, als wenn die Entwicklung dem Markt überlassen worden
+wäre. Dass der Strom für das Laden von Elektrofahrzeugen vorübergehend günstiger ist, kann die
+Kommission grossmehrheitlich im Interesse des Umstiegs akzeptieren. Mit dem Verzicht auf die
+Lenkungsabgabe während etwa zehn Jahren ist eine politisch gewollte Anschubförderung der
+Elektromobilität verbunden. Es sollen möglichst keine mit Benzin oder Diesel angetriebenen Fahrzeuge mehr gekauft werden. Es geht bei diesem Geschäft um das dritte V in der Kaskade «Vermeiden - Verlagern - Verbessern», also nicht um die Frage «Auto oder kein Auto», sondern um die
+Frage «Elektro- oder Verbrenner-Auto». Einzelne Mitglieder der UVEK stufen die finanzielle Entlastung der Lenkenden von Elektroautos allerdings als Verletzung des Verursachendenprinzip ein.
+Die damit einhergehenden Kosten werden während dieser Zeit an den Nutzenden vorbei via nicht
+entsprechend wachsender Ausschüttung der Lenkungsabgabe an die Gesamtbevölkerung weitergereicht. Haushalte mit (neu gekauften) fossilen Autos werden nicht gesondert finanziell mehrbelastet.
+Vorstellbar wäre statt eines gänzlichen auch ein teilweiser Verzicht auf die Lenkungsabgabe. Die
+UVEK ist sich aber grossmehrheitlich einig, dass aus Praktikabilitätsgründen nicht sowohl ein ZEM
+als auch eine reduzierte Lenkungsabgabe erhoben werden sollte. Um einen Anreiz zu schaffen, in
+den neuen Tarif zu wechseln, muss zudem zwischen Lenkungsabgabe und ZEM eine gewisse
+Differenz bestehen. Die vom Regierungsrat vorgeschlagene maximale Höhe des ZEM von 2.5 Rappen pro kWh entspricht der Hälfte der Lenkungsabgabe.
+Auch der ZEM alleine kommt gegenüber dem Laden ausserhalb des Kantons einem Zuschlag
+gleich. Die UVEK hat dennoch über eine Erhöhung des ZEM diskutiert. Je höher dieser angesetzt
+wird, desto früher sind unter sonst gleichbleibenden Voraussetzung die Ausgaben aus dem Fonds
+gedeckt – und desto früher wird statt dem ZEM wieder die Lenkungsabgabe erhoben. Dieser Zustand ist sowohl aus Sicht der UVEK als auch des Departements für Wirtschaft, Soziales und Umwelt korrekt, belohnt er doch auch den sparsamen Umgang mit für die Elektromobilität bezogenen
+Strom. Gemäss einer Überschlagsrechnung des Departements für Wirtschaft, Soziales und Umwelt
+wäre dies bei einem ZEM von 3 Rappen etwa ein Jahr, bei einem ZEM von 3.5 Rappen etwa zwei
+Jahre früher der Fall als bei einem ZEM von 2.5 Rappen. Dies in der Annahme, dass sich eine
+Erhöhung des ZEM nicht auf das Verhalten der Autofahrenden auswirkt. Je nach Preiselastizität
+der Nachfrage führt ein höherer ZEM dazu, dass weniger an den geförderten Ladesäulen und mehr
+an solchen ausserhalb des Kantons geladen wird.
+Da die Lenkungsabgabe bei Grossbezügern – u.a. Parkhäusern ab einer gewissen Grösse – lediglich 3.1 Rappen beträgt, würde ein ZEM von 3.5 Rappen das Laden an diesen verteuern. Betreibende einer solchen Anlage würden deshalb kaum in den neuen Tarif wechseln, weshalb es bis
+zum Ausgleich des Fonds länger dauerte. Die UVEK ist sich deshalb grossmehrheitlich einig, dass
+kein Signal ausgesendet werden sollte, einzelne Bezügergruppen müssten mit ZEM und ohne Lenkungsabgabe mehr Abgaben entrichten als zuvor.
+
+Seite 5/12
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+Unter Abwägung aller Argumente beantragt die UVEK dem Grossen Rat mit 7:5 Stimmen, das
+Maximum des ZEM von 2.5 auf 3 Rappen zu erhöhen und § 16c Abs. 2 des Umweltschutzgesetzes
+wie folgt anzupassen:
+
+Vorschlag Regierungsrat
+
+Antrag UVEK
+
+Der Regierungsrat legt die Höhe des ZEM fest. Der Regierungsrat legt die Höhe des ZEM fest.
+Dieser beträgt höchstens 2.5 Rp./kWh.
+Dieser beträgt höchstens 3.0 Rp./kWh.
+
+2.4
+
+Förderprozess
+
+Der vom RR vorgesehene Förderprozess ist zweistufig. Um einen Förderbetrag zu erhalten,
+müsste man beim Amt für Umwelt und Energie (AUE) vor Vornahme der Grundinstallation Unterlagen einreichen. Das AUE erteilte dann eine Förderzusicherung. Den Förderbeitrag müsste man
+mit Nachweis der abgeschlossenen Arbeiten in einem zweiten Schritt einfordern.
+Die UVEK hat zum einen die Frage gestellt, ob es insbesondere bei Anlagen mit einem maximalen
+Förderbetrag von 1'300 Franken nicht weniger aufwendiger wäre, ein Pauschale auszuzahlen, zum
+anderen, ob das Verfahren verkürzt werden könnte, indem auf die erste Stufe verzichtet wird.
+Die Auszahlung von Pauschalen (in der Höhe des Maximalbetrags) lehnt das Departement für Wirtschaft, Soziales und Umwelt ab. Es geht davon aus, dass der Maximalbetrag nicht selten über 60%
+der anrechenbaren Kosten liegt. Eine insgesamt höhere Fördersumme hätte zur Folge, dass der
+ZEM länger erhoben werden müsste und der Fonds länger bestehen bleiben würde. Den administrativen Aufwand eines zweistufigen Verfahrens stuft das Departement als nicht wesentlich grösser
+ein als jenen eines einstufigen. Es geht zudem davon aus, dass sich viele Antragstellende vor der
+Installation absichern wollen, ob sie eine finanzielle Unterstützung bekommen. Gänzlich sollte deshalb nicht auf den zweistufigen Prozess verzichtet werden. Rechtlich wäre der einstufige (lediglich
+Einreichung der Abschlussdokumente) aber ebenfalls möglich. Für die Antragstellenden wäre dieser mit dem Risiko verbunden, aufgrund nicht eingehaltener Förderkriterien keinen Förderbeitrag
+zu erhalten.
+Die UVEK wünscht sich, dass sowohl das ein- als auch das zweistufige Verfahren ermöglicht wird
+– und bittet den Regierungsrat, dies in der Verordnung entsprechend zu regeln. Zu prüfen wäre,
+ob das ein- oder das zweistufige Verfahren zum Standard erklärt wird. Sinnvoll sein könnte allenfalls auch ein Online-Tool, über das die Höhe der Förderung abgeschätzt werden kann.
+
+2.5
+
+Nutzung von Strom aus eigener Quelle
+
+Die UVEK hat sich nach der Förderberechtigung und der Fälligkeit des ZEM erkundigt, wenn jemand von der eigenen Photovoltaik-Anlage produzierten Strom zum Laden seines Autos nutzt. Die
+Förderberechtigung ist gemäss Departement für Wirtschaft, Soziales und Umwelt nicht von der
+Quelle des Stroms abhängig. Technisch unproblematisch ist auch die Ermittlung, wie viel Strom für
+das Laden des Autos von der eigenen Photovoltaik-Anlage und wie viel aus dem öffentlichen Netz
+bezogen wird. Da die Nutzung von selbst produziertem Strom grundsätzlich von allen Abgaben
+befreit ist, ist keine Befreiung von der Lenkungsabgabe möglich, wenn das Auto mit selbst produziertem Strom geladen wird. Die Erhebung des ZEM bedeutete in diesem Fall, auf den selbst produzierten Strom eine Abgabe bezahlen zu müssen. Dies ist aber nicht vorgesehen. Der Mechanismus «Befreiung von der Lenkungsabgabe und Erhebung des ZEM» spielt also nur bei aus dem
+öffentlichen Netz bezogenem Strom eine Rolle. Dies entspricht auch der Bestimmung im neuen §
+16c des Umweltschutzgesetzes, gemäss dem der Fonds durch einen auf dem Strombezug aus
+dem öffentlichen Stromnetz bei Ladevorgängen erhobenen Zuschlag gespeist wird.
+
+Seite 6/12
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+2.6
+
+Ladesäulen auf Allmend
+
+Gemäss dem neuen § 16a Abs. 2 des Umweltschutzgesetzes (USG) fördert der Kanton die Bereitstellung von Lademöglichkeiten für Elektroautos auf privatem und öffentlichem Grund. Vor dem
+Hintergrund des politischen und in §16 Abs. 2bis USG auch gesetzlich festgehaltenen Ziels, das
+Parkieren von der Allmend auf private Areale zu verlagern, wurde von einzelnen Mitgliedern der
+UVEK ein Fragezeichen hinter die Installation weiterer Ladesäulen (neben den bereits beschlossenen 200) auf Allmend gesetzt. Gemäss § 16a Abs. 1 Umweltschutzgesetz sorgt der Kanton dafür,
+dass eine genügende Anzahl öffentlich zugänglicher Parkplätze mit Lademöglichkeiten für Elektroautos ausgerüstet ist. Einen Antrag, vom Departement für Wirtschaft, Soziales und Umwelt für den
+neuen §16a Abs. 2 eine zum bestehenden § 16a besser passende Formulierung («öffentlich zugänglich und privatem Grund» oder «privatem sowie subsidiär öffentlichem Grund») prüfen zu lassen, hat die Kommission aber mit 9:3 Stimmen abgelehnt.
+Die UVEK steht trotzdem nach wie vor hinter dem Ziel, die Parkierung von der Allmend auf private
+Areale zu verlagern. Sie geht allerdings davon aus, dass auch in den nächsten Jahren bis Jahrzehnten noch zahlreiche Bewohnerinnen und Bewohner der Stadt ihr Fahrzeug auf Allmend abstellen werden. Diesen das Laden ihres Fahrzeugs zu erschweren oder zu verunmöglichen wäre
+nicht im Sinne der Klimaziele des Kantons. Dass eine Rechtsgrundlage für weitere (neben den 200
+bereits beschlossenen) Ladesäulen auf Allmend geschaffen wird, ist deshalb richtig. Der Fokus
+beim Ausbau muss aber auf privaten Anlagen liegen, wie es der Ratschlag des Regierungsrats
+auch vorsieht.
+
+2.7
+
+Detailabklärungen zu neuen Gesetzesbestimmungen
+
+Die UVEK hat zu zwei der neuen Bestimmungen im Umweltschutzgesetz Abklärungen gemacht.
+Gemäss dem neuen § 16c Abs. 4 kann der Regierungsrat Mittel aus dem Fonds Energieförderabgabe in den neuen Fonds übertragen. Diese Mittel sind zu einem späteren Zeitpunkt soweit möglich
+wieder in den Fonds Energieförderabgabe zurück zu überweisen.
+Die UVEK hat sich erkundigt, warum die Mittel lediglich «soweit möglich» in den Fonds Energieförderabgabe zurück überwiesen werden sollen. Sie erwartet, dass sämtliche über den neuen Förderfonds getätigten Ausgaben durch die Einnahmen aus dem ZEM refinanziert werden. Gemäss Departement für Wirtschaft, Soziales und Umwelt hat Formulierung finanzrechtliche Gründe und stellt
+den Grundsatz der vollständigen Refinanzierung nicht in Frage. Der Fonds werde so lange betrieben, bis sämtliche aus diesem getätigten Ausgaben gedeckt sind.
+In § 17 Abs. 2 sieht der Regierungsrat eine dritte Ausnahme vom Verbot der finanziellen Unterstützung von Parkierungsanlagen vor, nämlich bei Ladeinfrastrukturen für Elektroautos.
+Die UVEK erkennt darin einen Widerspruch zur Art und Weise der Förderung. Mit dem neuen §
+16b Abs. 1 wird ein Anreiz geschaffen, zeitnah (bis 2030) Ladeinfrastrukturen zu erstellen. Diese
+Befristung sollte konsequenterweise auch für § 17 Abs. 2 gelten. Deshalb beantragt die UVEK die
+folgende Anpassung der Ausnahmebestimmung in § 17 Abs. 2.
+
+Vorschlag Regierungsrat
+
+Antrag UVEK
+
+Dieses Verbot gilt nicht für:
+c) (neu) Ladeinfrastrukturen für Elektroautos
+
+Dieses Verbot gilt nicht für:
+c) (neu) Ladeinfrastrukturen für Elektroautos
+nach § 16b
+
+2.8
+
+Fazit
+
+Die UVEK stuft den vorgeschlagenen Fördermechanismus als überzeugend ein. Die Finanzierung
+der Förderbeiträge erfolgt zeitlich verzögert durch jene, welche die Ladeinfrastruktur nutzen. Der
+Ratschlag des Regierungsrats orientiert sich an der von der UVEK ausgearbeiteten Motion. Die
+
+Seite 7/12
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+Abweichungen sind gut begründet und nachvollziehbar. Von der UVEK nicht in Betracht gezogen,
+aber ohne Zweifel richtig ist die zeitliche Befristung der Förderung bis ins Jahr 2030. Auch die
+Schaffung eines eigenen Fonds stuft die UVEK aus Transparenzgründen als sinnvoll ein.
+Vorbehalte geäussert worden sind von einzelnen Kommissionsmitgliedern wegen der fehlenden
+Verknüpfung zwischen der Förderung der Ladeinfrastruktur und dem Sharing von Fahrzeugen. Es
+wäre z.B. vorstellbar, die Förderung bei Einstellhallen einer gewissen Grösse an eine Reservation
+von Abstellplätzen für Sharing-Fahrzeuge zu koppeln. Eine deutliche Mehrheit der Kommission
+möchte die Vorlage nicht mit solchen Elementen verkomplizieren. Gegenstand des Geschäfts ist
+der Umstieg von Verbrenner- auf Elektrofahrzeuge. Der Umstieg von privaten auf geteilte Fahrzeuge kann und muss anderweitig angegangen werden.
+
+3.
+
+Motion der Umwelt, Verkehrs- und Energiekommission betreffend «einem raschen Ausbau der Ladeinfrastruktur für E-Autos
+in Basel-Stadt»
+
+Mit Überweisung der Motion der UVEK zum Ausbau der Ladeinfrastruktur hat der Grosse Rat den
+Regierungsrat am 17. November 2021 beauftragt, ihm einen Ratschlag zur Erstellung von etwa
+1'000 Ladestationen in öffentlichen Parkhäusern und zur finanziellen Förderung von etwa 1'000
+Ladestationen in privaten öffentlichen Parkhäusern und von etwa 2'000 Ladestationen auf privaten
+Abstellplätzen vorzulegen. Für das Laden von Elektrofahrzeugen forderte die Motion einen «Zuschlag für die Elektrifizierung der motorisierten Mobilität», dafür sollte ganz oder teilweise auf die
+Lenkungsabgabe verzichtet werden.
+Der Regierungsrat bezeichnet in seinem Bericht eine ausreichende Ladeinfrastruktur als entscheidend für den Umstieg auf die Elektromobilität. Er unterstützt deshalb die in der Motion formulierten
+Anliegen. Um die Klimaziele des Kantons zu erreichen, müsse der Umstieg auf die Elektromobilität
+so rasch wie möglich erfolgen. Und um diesen zu beschleunigen, soll die Grundinstallation für den
+Rollout von Ladestationen in Parkhäusern und Parkierungsanlagen finanziell gefördert werden. Die
+Voraussetzungen dafür werden mit den beantragten Gesetzesänderungen geschaffen. Damit die
+Planung und Realisierung der Grundinstallation rasch an die Hand genommen wird, sollen lediglich
+bis Ende 2030 Förderbeiträge ausgerichtet werden.
+Gemäss einer durchgeführten Studie liegt der längerfristige Bedarf an Ladepunkten in den staatlichen öffentlichen Parkhäusern unter der in der Motion genannten Zahl von 1'000. Der weitere Ausbau soll bedarfsgerecht erfolgen. Hingegen dürfte der Bedarf in privaten Parkierungsanlegen deutlich höher sein als die in der Motion genannten 2'000 Ladestationen (bis zu 15'000 Ladepunkte bis
+2030).
+Für die Finanzierung und Refinanzierung der Förderbeiträge für die Ladeinfrastruktur in Parkhäusern und in privaten Parkierungsanlagen soll ein Fonds gebildet werden. Wie von der UVEK beantragt soll für den Bezug von Strom an Ladesäulen ein ZEM, vorübergehend aber keine Lenkungsabgabe erhoben werden.
+Der Regierungsrat erachtet die in der Motion formulierten Anliegen als mit dem vorgelegten Ratschlag erfüllt. Die UVEK teilt diese Meinung und beantragt, die Motion abzuschreiben.
+
+4.
+
+Antrag
+
+Gestützt auf ihre Ausführungen in Kapitel 2 dieses Berichts beantragt die UVEK dem Grossen Rat
+mit 10:0 Stimmen bei 2 Enthaltungen die Annahme des nachstehenden Beschlussentwurfs.
+Gestützt auf ihre Ausführungen in Kapitel 3 dieses Berichts beantragt die UVEK dem Grossen Rat
+mit 12:0 Stimmen, die Motion der Umwelt, Verkehrs- und Energiekommission betreffend «einem
+raschen Ausbau der Ladeinfrastruktur für E-Autos in Basel-Stadt» abzuschreiben.
+
+Seite 8/12
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+Den vorliegenden Bericht hat die UVEK an ihrer Sitzung vom 22. November 2023 mit 12:0 Stimmen
+verabschiedet und ihre Vizepräsidentin Nicole Strahm-Lavanchy zur Sprecherin bestimmt.
+
+Im Namen der Umwelt-, Verkehrs- und Energiekommission
+Raphael Fuhrer
+Präsident
+
+Beilage
+Entwurf Grossratsbeschluss
+
+Seite 9/12
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+Umweltschutzgesetz Basel-Stadt
+(USG BS)
+Änderung vom [Datum]
+Der Grosse Rat des Kantons Basel-Stadt,
+nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 23.0896.01 vom 28. Juni 2023 sowie in den
+Bericht der Umwelt-, Verkehrs- und Energiekommission Nr. 23.0896.02 vom 28. November 2023,
+beschliesst:
+I.
+Umweltschutzgesetz Basel-Stadt (USG BS) vom 13. März 1991 1) (Stand 1. August 2022) wird wie folgt geändert:
+§ 16a Abs. 2 (neu)
+2
+Der Kanton fördert die Bereitstellung von Lademöglichkeiten für Elektroautos auf privatem und öffentlichem Grund.
+§ 16b (neu)
+Finanzielle Förderung der Ladeinfrastruktur für Elektroautos
+1
+Die Bereitstellung von Ladeinfrastruktur für Elektroautos in öffentlich zugänglichen Parkhäusern und auf
+privatem Grund wird bis einschliesslich zum Jahr 2030 finanziell gefördert.
+2
+Für die Ausrichtung von Förderbeiträgen und die Finanzierung der damit verbundenen Vollzugskosten
+wird ein Fonds gebildet.
+3
+Die Mittel des Fonds dürfen auch für die Deckung eines allfälligen Fehlbetrags aus dem mit Grossratsbeschluss vom 14. April 2021 bewilligten Darlehen an die Industriellen Werke Basel für die Finanzierung von
+200 öffentlich zugänglichen Ladestationen auf Allmend verwendet werden.
+4
+Der Fonds besteht bis zur vollständigen Deckung der in Abs. 2 und 3 genannten Kosten. Ein bei seiner
+Auflösung bestehender Überschuss wird dem Stromsparfonds zugewiesen.
+§ 16c (neu)
+Finanzierung des Fonds
+1
+Der Fonds wird durch einen auf dem Strombezug aus dem öffentlichen Stromnetz bei Ladevorgängen erhobenen Zuschlag zur Elektrifizierung der motorisierten Mobilität (ZEM) und durch allfällige Förderbeiträge des Bundes gespeist.
+2
+Der Regierungsrat legt die Höhe des ZEM fest. Dieser beträgt höchstens 3.0 Rp./kWh.
+3
+Ausgenommen von der Erhebung des ZEM sind unter Vorbehalt der Installation eines separaten, für die
+Erhebung des ZEM vorgesehenen Zählers:
+a)
+bei Inkrafttreten der §§ 16b ff. bereits bestehende Ladeinfrastrukturen;
+b)
+Ladeinfrastrukturen, für deren Erstellung und Erweiterung keine Förderbeiträge gewährt werden.
+4
+Der Regierungsrat kann Mittel aus dem Fonds Energieförderabgabe in den neuen Fonds übertragen. Diese
+Mittel sind zu einem späteren Zeitpunkt soweit möglich wieder in den Fonds Energieförderabgabe zurück
+zu überweisen.
+§ 16d (neu)
+Befristung des ZEM
+
+1)
+
+SG 780.100
+
+Seite 10/12
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+1
+
+Der ZEM wird längstens bis zur Deckung der Förderbeiträge für die Ladeinfrastruktur für Elektroautos
+sowie eines Fehlbetrags gemäss § 16b Abs. 3 erhoben.
+2
+Der Regierungsrat wird ermächtigt, die Erhebung des ZEM einzustellen, wenn dessen Zweck gemäss Abs.
+1 erreicht ist.
+§ 16e (neu)
+Fördergegenstand
+1
+Förderbeitragsberechtigt sind die Neuerstellung und die Erweiterung von:
+a)
+Ladeinfrastrukturen in staatlichen und privaten öffentlich zugänglichen Parkhäusern;
+b)
+Ladeinfrastrukturen auf privatem Grund;
+c)
+Ladeinfrastrukturen von Carsharing-Anbieterinnen und -Anbietern auf Allmend.
+§ 16f (neu)
+Förderkriterien
+1
+Förderbeitragsberechtigt sind Ladeinfrastrukturen auf dem Gebiet des Kantons Basel-Stadt.
+2
+Die Ladeinfrastruktur umfasst die Grundinstallation unter Ausschluss der Ladestationen.
+3
+Förderbeiträge werden nur ausgerichtet, wenn die Ladeinfrastruktur mit einem separaten Stromzähler für
+die Erhebung des ZEM ausgerüstet wird.
+§ 16g (neu)
+Förderumfang
+1
+Die Höhe der Förderbeiträge hängt vom Fördergegenstand ab und beträgt:
+a)
+bei Ladeinfrastrukturen in staatlichen und privaten öffentlich zugänglichen Parkhäusern 60 % der
+Kosten der Grundinstallation, maximal aber Fr. 3'500 pro Ladepunkt;
+b)
+bei Ladeinfrastrukturen auf privatem Grund 60 % der Kosten der Grundinstallation, maximal aber
+Fr. 1'300 pro Ladepunkt;
+c)
+bei Ladeinfrastrukturen von Carsharing-Anbieterinnen und -Anbietern auf Allmend. 60 % der Kosten der Grundinstallation, maximal aber Fr. 7'500 pro Ladepunkt.
+§ 16h (neu)
+Rückforderung
+1
+Unrechtmässig ausbezahlte Förderbeiträge können von der zuständigen Behörde zurückgefordert werden.
+2
+Der Rückforderungsanspruch verjährt, wenn er nicht innert einem Jahr ab dem Zeitpunkt geltend gemacht
+wird, in dem die zuständige Behörde vom Eintritt des Umstandes Kenntnis erhalten hat, welcher die Rückerstattungspflicht begründet, jedoch spätestens zehn Jahre nach der unrechtmässigen Auszahlung.
+§ 16i (neu)
+Vollzug
+1
+Der Regierungsrat regelt die Einzelheiten betreffend die Errichtung und Verwaltung des Fonds und die
+Gewährung von Förderbeiträgen in einer Verordnung.
+§ 17 Abs. 2
+2
+Dieses Verbot gilt nicht für:
+b)
+(geändert) Anwohnendenparkplätze in Quartierparkings nach § 19bis;
+c)
+(neu) Ladeinfrastrukturen für Elektroautos nach § 16b.
+II. Änderung anderer Erlasse
+Energiegesetz 2) (EnG) vom 16. November 2016 3) (Stand 13. Dezember 2021) wird wie folgt geändert:
+2)
+3)
+
+Titel redaktionell beigefügt.
+SG 772.100
+
+Seite 11/12
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+§ 28 Abs. 4 (neu)
+4
+Strombezüge für das Laden von Elektroautos sind von der Lenkungsabgabe befreit, soweit ein Zuschlag
+für die Elektrifizierung der motorisierten Mobilität erhoben wird.
+III. Aufhebung anderer Erlasse
+Keine Aufhebung anderer Erlasse.
+IV. Schlussbestimmung
+Diese Änderung ist zu publizieren; sie unterliegt dem Referendum und der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens.
+
+Seite 12/12
+
+

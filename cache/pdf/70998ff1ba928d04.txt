@@ -1,0 +1,228 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+24.5261.02
+
+FD/P245261
+Basel, 18. Dezember 2024
+Regierungsratsbeschluss vom 17. Dezember 2024
+
+Motion betreffend «zentrale Verantwortlichkeit in der kantonalen Informatik»; Stellungnahme
+Der Grosse Rat hat an seiner Sitzung vom 18. September 2024 die nachstehende Motion der Geschäftsprüfungskommission dem Regierungsrat zur Stellungnahme überwiesen:
+«Aufgrund der Erkenntnisse aus den Jahresberichten der GPK erscheint den Unterzeichnenden eine
+zentrale und departementsübergreifende Organisation im Bereich der Informatik zwingend erforderlich. Sicherheit und Kompatibilität der Systeme, aber auch Synergien im Einkauf und bei der Implementierung müssen nicht nur bezüglich der Verantwortung geklärt sein, sie müssen auch kantonsweit
+gelenkt, geleitet, geplant und durchgesetzt werden. Nur so kann die Sicherheit gewährleistet werden.
+Angesichts der vielen in den Berichten der Finanzkontrolle festgestellten Mängel der IT BS und aufgrund des Cybersicherheitsvorfalls beim ED fordern die Motionäre deshalb eine zentrale Zuständigkeit
+bei einer einzigen kantonalen Stelle für alle Belange der IT.
+IT BS muss mehr Kompetenzen erhalten hin bis zu einem direkten departementsübergreifenden Weisungsrecht. Die gesetzlichen und allenfalls verfassungsrechtlichen Grundlagen sind dementsprechend
+anzupassen. Zudem sind zentrale IT-Aufgabengebiete zu definieren, für welche ausschliesslich IT BS
+zuständig ist. Einzig für spezifische Fachanwendungen sollen die Departemente zuständig bleiben,
+jedoch die technischen Vorgaben wie Schnittstellen, Sicherheit etc. vorab mit der IT BS klären. IT BS
+ist in diese Entscheide einzubeziehen und muss auch da, wenn eine sachliche Begründung vorliegt,
+ein Vetorecht haben. Innerhalb von IT BS muss klar sein, wer wofür verantwortlich ist und wer die
+Entscheide gegenüber der Regierung vertritt.
+Aus diesem Grund fordern die Motionäre den Regierungsrat auf, dem Grossen Rat innert eines Jahres
+die gesetzlichen und allenfalls verfassungsrechtlichen Grundlagen für eine Zentralisierung der IT bei
+einer einzigen, den anderen Departementen gegenüber weisungsbefugten Instanz, vorzulegen.
+Für die Geschäftsprüfungskommission: Tim Cuénod, Präsident»
+
+Wir nehmen zu dieser Motion wie folgt Stellung:
+
+1.
+
+Zur rechtlichen Zulässigkeit der Motion
+
+1.1
+
+Grundlagen des Motionsrechts
+
+Mit einer Motion kann der Grosse Rat den Regierungsrat verpflichten, eine Verfassungs- oder Gesetzesvorlage oder eine Vorlage für einen Grossratsbeschluss vorzulegen (§ 42 Abs. 1 des Gesetzes über die Geschäftsordnung des Grossen Rates vom 29. Juni 2006 [GO; SG 152.100]) oder
+eine Massnahme zu ergreifen (§ 42 Abs. 1bis GO). Der Grosse Rat kann dem Regierungsrat also
+
+Den Mitgliedern des Grossen Rates des Kantons Basel-Stadt zugestellt am 20. Dezember 2024.
+
+Seite 1/5
+
+Regierungsrat des Kantons Basel-Stadt
+
+sowohl in seinem eigenen Zuständigkeitsbereich als auch im Zuständigkeitsbereich des Regierungsrats Aufträge erteilen.
+Das Recht setzt dem Grossen Rat bezüglich Motionsbegehren allerdings auch Schranken, die in
+der Gewaltenteilung, im Gesetzmässigkeits-, im Föderalismus- und im Demokratieprinzip gründen.
+So darf eine Motion nicht gegen höherrangiges Recht verstossen (wie Bundesrecht, interkantonales Recht oder kantonales Verfassungsrecht). Zudem ist gemäss § 42Abs. 2 GO eine Motion unzulässig, die einwirken will auf
+ den verfassungsrechtlichen Zuständigkeitsbereich des Regierungsrats,
+ einen Einzelfallentscheid,
+ einen in gesetzlich geordnetem Verfahren zu treffenden Entscheid oder
+ einen Beschwerdeentscheid.
+
+1.2
+
+Motionsforderung
+
+Mit der vorliegenden Motion wird der Regierungsrat beauftragt, dem «Grossen Rat innert eines Jahres die gesetzlichen und allenfalls verfassungsrechtlichen Grundlagen für eine Zentralisierung der IT bei einer einzigen, den anderen Departementen gegenüber weisungsbefugten Instanz,
+vorzulegen».
+
+1.3
+
+Rechtliche Prüfung
+
+Nach § 69 Verfassung des Kantons Basel-Stadt vom 23. März 2005 (KV; SG 111.100) richtet sich
+die Organisation der Behörden nach dem Grundsatz der Gewaltenteilung und keine Behörde übt
+staatliche Macht unkontrolliert und unbegrenzt aus. Ausserdem darf keine Behörde ohne verfassungsrechtliche Kompetenz in den durch Verfassung oder Gesetz festgelegten Zuständigkeitsbereich einer anderen Behörde einwirken. Nach Lehre und Rechtsprechung hat jede der drei Staatsgewalten Legislative, Exekutive und Judikative ihre sogenannten Kernbereiche, die grundsätzlich
+nicht angetastet werden dürfen, ansonsten das Prinzip der Gewaltenteilung nicht mehr funktionsfähig ist. Für die Exekutive gehört unbestrittenermassen die Verwaltungstätigkeit und damit die
+Leitung der Verwaltung zu den Kern- oder Stammfunktionen (vgl. statt vieler: ULRICH HÄFELIN/WALTER HALLER/HELEN KELLER/DANIELA THURNHERR, Schweizerisches Bundesstaatsrecht, 10. Aufl., Zürich 2020, Rz. 1656; DENISE BUSER, Kantonales Staatsrecht, Basel 2004, S.145; BGE 133 II 209 E. 3.1). Demgemäss ist nach § 101 Abs. 1 KV der Regierungsrat
+die leitende und oberste vollziehende Behörde des Kantons. Er steht gemäss § 108 Abs. 1 KV der
+kantonalen Verwaltung vor. Entsprechend Abs. 2 sorgt er für eine rechtmässige, wirksame und
+bürgernahe Verwaltungstätigkeit und bestimmt im Rahmen von Verfassung und Gesetz die zweckmässige Organisation und sorgt gemäss Abs. 3 für einfache und rasche Verwaltungsabläufe.
+§ 111 Abs. 1 KV sieht vor, dass es das Präsidialdepartement und sechs weitere Departemente gibt.
+Die Grundzüge der Organisation sind damit bereits in der Verfassung angelegt. Konkretisiert werden die Bestimmungen der Kantonsverfassung im Gesetz betreffend die Organisation des Regierungsrates und der Verwaltung des Kantons Basel-Stadt vom 22. April 1976 (Organisationsgesetz,
+OG; SG 153.100). §§ 2 und 4 OG sehen vor, dass der Regierungsrat die kantonalen öffentlichen
+Dienste leitet und für deren rechtmässige, leistungsmässige und rationelle Tätigkeit sowie zweckmässige Organisation sorgt. § 29 Abs. 1 OG sieht weiter vor, dass die Gliederung der einzelnen
+Departemente vom Regierungsrat bestimmt wird. Gemäss Abs. 2 bringt der Regierungsrat dem
+Grossen Rat Beschlüsse diesbezüglich zur Kenntnis. Es ist demnach nicht vorgesehen, dass der
+Grosse Rat in diesem Bereich eigene Funktionen wahrnimmt, oder ihm diesbezüglich eine Mitwirkungskompetenz zukommt.
+Die Motion will eine einzige, für die IT zuständige Instanz und diese soll den Departementen gegenüber weisungsbefugt sein. Mit dieser Formulierung wird in die verfassungsrechtliche Kompetenzordnung eingegriffen, da für die geforderte Instanz die Organisation vorgeschrieben (einzig)
+und die Kompetenz (weisungsbefugt) bestimmt wird. Nach dem bestehenden Organisationsrecht
+
+Seite 2/5
+
+Regierungsrat des Kantons Basel-Stadt
+
+ist es Sache des Regierungsrates die IT in der Verwaltung zu organisieren und sie mit Kompetenzen auszustatten. Die Forderung zur Schaffung einer IT-lnstanz mit weisungsbefugter Stellung
+greift in die dem Regierungsrat verfassungsrechtlich alleine vorbehaltenen Zuständigkeitsbereich
+der Organisationskompetenz und zudem in die in der Verfassung angelegte Gliederung der Verwaltung in das Präsidialdepartement und sechs weitere Departemente ein. Zur Umsetzung der
+Forderung ist unter dem Aspekt der Gewaltenteilung eine Anpassung der Verfassung erforderlich.
+Die Motion verlangt auch allfällig notwendige verfassungsrechtliche Grundlagen vorzulegen, weshalb die Motion nach dem Ausgeführten rechtlich zulässig ist.
+Zudem verlangt die Motion nicht etwas, was sich auf einen Einzelfaltentscheid, auf einen in gesetzlich geordnetem Verfahren zu treffenden Entscheid oder einen Beschwerdeentscheid bezieht. Es
+spricht auch kein höherrangiges Recht wie Bundesrecht oder kantonales Verfassungsrecht gegen
+den Motionsinhalt.
+Der Grosse Rat kann gemäss § 43 GO eine Frist zur Motionserfüllung festlegen. Die vorliegende
+Motion enthält eine solche Frist.
+
+1.4
+
+Schlussfolgerung
+
+Die Motion ist als rechtlich zulässig anzusehen.
+
+2.
+
+Anliegen der Motion
+
+Im Zentrum der Motionsforderung steht die Organisation einer gesamtkantonalen Informatik bei
+einer einzigen Instanz. Dieser Instanz sei eine weisungsbefugte Stellung einzuräumen. Die entsprechenden gesetzlichen oder verfassungsrechtlichen Grundlagen dafür seien dem Grossen Rat
+innerhalb eines Jahres vorzulegen.
+
+3.
+
+Stabile, zeitgemässe und sichere Informatikorganisation ist unabdingbar
+
+Die Informatik ist ein unverzichtbares Hilfsmittel der kantonalen Verwaltung. Ihre Bedeutung nimmt
+insbesondere aufgrund der fortschreitenden Digitalisierung und dem Ausbau von E-Government
+kontinuierlich zu. Der Kanton Basel-Stadt hat in den letzten Jahren u.a. mit der Digitalstrategie die
+Grundlage für eine Digitale Transformation gelegt und neue Online-Dienstleistungen für die Bevölkerung angeboten. Grundlage und Basis dafür bilden stabile, zeitgemässe und sichere InformatikDienste.
+
+4.
+
+Regierungsrat hat Massnahmen bereits ergriffen
+
+Der Regierungsrat weiss um die Bedeutung von «guten» Informatik-Diensten. Ebenso weiss er,
+dass die aktuellen IT-Strukturen im Kanton diesen Ansprüchen nicht vollständig gerecht werden.
+Es konnten zwar Fortschritte erzielt werden. Wie die Motionärin jedoch zu Recht feststellt, ist die
+aktuell sehr fragmentierte IT-Organisationsstruktur im Kanton problematisch. Mit verschiedenen
+Massnahmen wurde bislang versucht, dieser Herausforderung zu begegnen. Dabei musste der
+Regierungsrat feststellen, dass er dieses systemische Problem nicht lösen konnte. Die fortschreitende Digitalisierung und die zunehmenden Cyberrisiken belasten das System zusätzlich und stellen die IT vor immer wieder neue Herausforderungen.
+
+5.
+
+Projekt Pharos
+
+Zur nachhaltigen Behebung hat der Regierungsrat deshalb im Jahr 2022 ein gesamtkantonales IT
+Assessment initiiert, im 2023 das Projekt Pharos gestartet und im 2024 dieses um den Bereich
+
+Seite 3/5
+
+Regierungsrat des Kantons Basel-Stadt
+
+Informationssicherheit erweitert. Das Projekt verfolgt mehrere aufeinander abgestimmte Stossrichtungen. Diese umfassen
+ die Stärkung und Klärung der gesamtkantonalen IT-Governance;
+ die Entflechtung und integrale Steuerung der Aufgaben der Informatik;
+ eine organisatorische Neuausrichtung.
+
+6.
+
+Regierungsrat hat Weichen für eine zuverlässige IT im Kanton
+gestellt
+
+Die Zwischenergebnisse aus dem Projekt Pharos liegen zwischenzeitlich vor. Die adressierten
+Handlungsfelder schliessen die Anliegen der Motionärin ein (klar definierte IT-Governance, gesamtkantonales IT-Portfolio, Zentralisierung von IT-Diensten, Informationssicherheit etc.).
+Der Regierungsrat ist überzeugt, dass für eine nachhaltige Lösung eine strukturelle Anpassung und
+Weiterentwicklung der IT-Organisation im Kanton Basel-Stadt notwendig ist und er hat die Weichen
+für eine stabile, moderne und sichere IT-Struktur im Kanton Basel-Stadt bereits gestellt (siehe dazu
+auch die Medienmitteilung des Regierungsrates vom 12. Dezember 2024). Dabei gilt es zu beachten, dass gesamtstrukturelle Veränderungen – wie die vorliegend Geplanten - mit einem Kulturwandel einhergehen. Das braucht Zeit und erfordert eine sorgfältige Planung und Begleitung. Auch
+Mitarbeitende sind von diesen Veränderungen betroffen. Der Regierungsrat geht aktuell von einem
+Zeitfenster von drei Jahren aus, die Umsetzung beginnt am 1. Januar 2025. Sie umfasst im Wesentlichen
+
+
+
+
+
+7.
+
+klare IT-Governance Strukturen und Stärkung der verantwortlichen Gremien durch klare Aufgabenzuordnung;
+die Entflechtung von Aufgaben (gesamtkantonales IT-Portfolio);
+die Zentralisierung von IT-Basisdiensten bei IT BS;
+die Neuausrichtung der IT BS.
+
+Umsetzung gehört zu den Kernaufgaben der Exekutive
+
+Die Motion fordert u.a. die Schaffung einer IT-lnstanz mit weisungsbefugter Stellung und greift damit in die dem Regierungsrat verfassungsrechtlich alleine vorbehaltenen Zuständigkeitsbereich der
+Organisationskompetenz und zudem in die in der Verfassung angelegte Gliederung der Verwaltung
+in das Präsidialdepartement und sechs weitere Departemente ein (vgl. zur organisatorischen Gewaltenteilung ULRICH HÄFELIN/WALTER HALLER/HELEN KELLER/DANIELA THURNHERR,
+Schweizerisches Bundesstaatsrecht, 10. Aufl., Zürich 2020, Rz. 1406).
+Deren Umsetzung erfordert unter dem Aspekt der Gewaltenteilung eine Verfassungsänderung.
+Dazu gilt es festzuhalten, dass die Leitung der Verwaltung – wozu auch die Organisation der IT
+gehört – eine unbestrittene Kernfunktion der Exekutive ist Die geltende Organisationsstruktur hat
+sich bewährt. Sie – für die Umsetzung der Anliegen der Motionärin – zu durchbrechen, erachtet der
+Regierungsrat weder für sinnvoll noch mit Hinweis auf die vorgenannten Erwägungen für notwendig.
+
+8.
+
+Fazit
+
+Der Regierungsrat weiss um die Bedeutung einer zuverlässigen, zeitgemässen und sicheren Informatik. Er ist sich bewusst, dass die aktuelle IT Organisation im Kanton diesen Ansprüchen nicht
+vollständig gerecht wird. Er ist überzeugt, dass nachhaltige Veränderungen notwendig sind und hat
+die Weichen für eine starke IT Zukunft im Kanton Basel-Stadt bereits gestellt. Das bedingt gesamtstrukturelle Anpassungen und einen Kulturwandel, den es sorgfältig zu planen und zu begleiten
+gilt. Die Umsetzung gemäss Motionsforderung und mit Fristsetzung von einem Jahr erachtet der
+
+Seite 4/5
+
+Regierungsrat des Kantons Basel-Stadt
+
+Regierungsrat weder für sinnvoll noch für notwendig. Sie könnten – unabhängig davon, dass deren
+Umsetzung innerhalb eines Jahres nicht möglich ist – den bereits eingeleiteten Prozess behindern
+und ohne Notwendigkeit die geltende und bewährte Organisationsstruktur im Kanton in Frage stellen.
+Der Regierungsrat wird dem Grossen Rat und/oder dessen vorberatenden Kommissionen gerne
+regelmässig über die Massnahmen, Weiterentwicklungen und Fortschritte im Rahmen des Projekts
+Pharos berichten. Entsprechend beantragt der Regierungsrat dem Grossen Rat, die vorliegende
+Motion in einen Anzug umzuwandeln.
+
+9.
+
+Antrag
+
+Auf Grund dieser Stellungnahme beantragen wir, die Motion der Geschäftsprüfungskommission
+betreffend „zentrale Verantwortlichkeit in der kantonalen Informatik“ dem Regierungsrat als Anzug
+zu überweisen.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Dr. Conradin Cramer
+Regierungspräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Seite 5/5
+
+

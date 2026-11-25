@@ -1,0 +1,740 @@
+Regierungsrat des Kantons Basel-Stadt
+
+Sst aats-
+
+An den Grossen Rat
+
+20.5175.04
+
+GD/P205175
+Basel, 2. September 2026
+Regierungsratsbeschluss vom 1. September 2026
+
+Motion Patricia von Falkenstein und Konsorten betreffend «Erkenntnisse aus der Corona-Krise und ihrer Bewältigung»; Stellungnahme
+
+Publiziert am 4. September 2026 auf: grosserrat.bs.ch
+
+Seit 1/14
+
+Regierungsrat des Kantons Basel-Stadt
+
+Inhalt
+1.
+
+Ausgangslage ............................................................................................................ 3
+
+2.
+
+Inhalt des vorliegenden Schlussberichts ................................................................ 3
+
+3.
+
+Revision des kantonalen Pandemieplans (Pandemieplan 2.0).............................. 4
+3.1
+3.2
+3.3
+3.4
+
+3.5
+
+4.
+
+Nationale Rahmenbedingungen ................................................................................................... 4
+Ziele und Inhalte der Neukonzeption: Pandemieplan 2.0 ............................................................. 4
+Projektkonzeption .......................................................................................................................... 5
+Aktueller Projektfortschritt ............................................................................................................. 6
+3.4.1 Einbezug der Stakeholder ..................................................................................................6
+3.4.2 Schutzmateriallager ...........................................................................................................6
+3.4.3 Austausch und Vernetzung ................................................................................................7
+Schnittstellen / Synergien.............................................................................................................. 7
+
+Resilienzkonzept ....................................................................................................... 7
+4.1
+4.2
+4.3
+
+Resilienz als Leitbegriff ................................................................................................................. 7
+Handlungsbedarf und Rahmenbedingungen ................................................................................ 8
+Massnahmen zur Steigerung der Resilienz .................................................................................. 8
+4.3.1 Weiterentwicklung Kantonale Krisenorganisation Basel-Stadt ..........................................8
+4.3.2 Stärkung der Geschäftsstelle KKO ................................................................................. 10
+4.3.3 Einführung Business Continuity Management (BCM) in der Kantonsverwaltung ........... 10
+4.3.4 Verstetigung des Schutzes kritischer Infrastrukturen...................................................... 10
+4.3.5 Schaffung eines Lagezentrums Bevölkerungsschutz ..................................................... 11
+4.3.6 Etablierung einer kantonalen Stelle für wirtschaftliche Landesversorgung .................... 11
+4.3.7 Stärkung der gesellschaftlichen Resilienz ...................................................................... 12
+4.3.8 Kantonales Bevölkerungsschutzgesetz .......................................................................... 12
+
+5.
+
+Kommunikation Mitarbeitende in Krisen ............................................................... 13
+
+6.
+
+Finanzielle Auswirkungen ...................................................................................... 13
+
+7.
+
+Fazit .......................................................................................................................... 13
+
+8.
+
+Antrag ....................................................................................................................... 14
+
+Seite 2/14
+
+Regierungsrat des Kantons Basel-Stadt
+
+1.
+
+Ausgangslage
+
+Mit Beschluss vom 10. Februar 2021 überwies der Grosse Rat die Motion Patricia von Falkenstein
+und Konsorten betreffend «Erkenntnisse aus der Corona-Krise und ihrer Bewältigung» dem
+Regierungsrat zur Erfüllung. Die Motion beauftragt den Regierungsrat, die Erfahrungen aus der
+Bewältigung der COVID-19-Pandemie aufzuarbeiten.
+Für die Aufarbeitung der Erfahrungen aus der Bewältigung der COVID-19-Pandemie setzte das
+Gesundheitsdepartement (GD) im Frühjahr 2021 eine Projektgruppe bestehend aus Mitgliedern
+des GD und des Justiz- und Sicherheitsdepartements (JSD) ein. Da eine interne Evaluation nicht
+zielführend schien, wurde nach Abklingen der Pandemie und der Rückkehr in die normale Lage am
+1. April 2022 das Unternehmen «Interface Politikstudien, Forschung und Beratung AG» (Interface)
+mit der Durchführung der entsprechenden Evaluation mandatiert.
+Im Februar 2024 lagen die Evaluationsergebnisse vor. Diese kam zum Schluss, dass der
+Kanton Basel-Stadt die Pandemie insgesamt gut bewältigt hat. Gleichzeitig wurden jedoch
+Optimierungs-potenziale sowohl in der Krisenvorbereitung als auch in der Organisation des
+Krisenmanagements identifiziert. Daraus resultierten zehn Empfehlungen zur Stärkung der
+Fähigkeiten der kantonalen Verwaltung in der Krisenbewältigung und Risikominderung.
+Nr.
+
+An
+
+Empfehlung
+
+1
+
+RR
+
+Business Continuity Management (BCM) in der Kantonsverwaltung einführen
+
+2
+
+RR
+
+Starke Vertretung von Basel in interkantonalen Gremien beibehalten
+
+3
+
+RR
+
+Informationsmanagement in der Krise verbessern
+
+4
+
+GD
+
+Grundlagen für eine bessere Umsetzung der Pandemieplanung schaffen
+
+5
+
+GD
+
+Stärkere Einbindung von Stakeholdern in die Pandemieplanung
+
+6
+
+JSD
+
+Abklärung zu den Grundlagen für den Bevölkerungsschutz
+
+7
+
+JSD
+
+Dienstleistungen der KKO bei der Verwaltung bekannter machen
+
+8
+
+JSD
+
+Departemente in KKO einbinden und Funktion Strategiestab klären
+
+9
+
+FD
+
+Konzept zur Mitarbeiterkommunikation in Krisen erarbeiten
+
+10
+
+STK
+
+Rolle der Generalsekretärenkonferenz in Krisen prüfen
+
+Tabelle 1: Empfehlungen aus dem Evaluationsbericht über die Erkenntnisse aus der COVID-19-Pandemie
+
+Mit Schreiben Nr. 20.5175.03 vom 20. März 2024 unterbreitete der Regierungsrat dem Grossen Rat einen Zwischenbericht, in dem er die wesentlichen Ergebnisse der Evaluation darlegte und
+zu den zehn Empfehlungen ausführlich Stellung nahm. Der Grosse Rat nahm an seiner Sitzung
+vom 12. Juni 2024 vom Zwischenbericht Kenntnis, liess die Motion dem Antrag des Regierungsrates folgend sowie in Aussicht auf die Schlussberichterstattung stehen und überwies sie dem Regierungsrat zur erneuten Berichterstattung.
+
+2.
+
+Inhalt des vorliegenden Schlussberichts
+
+Der vorliegende Schlussbericht knüpft an die Ergebnisse der genannten Evaluation sowie an die
+zehn formulierten Empfehlungen an. Neben Massnahmen zur Verbesserung der Pandemieplanung
+sowie der Mitarbeiterkommunikation in Krisen, legt der Regierungsrat ein Konzept zur Weiterentwicklung der Regierungs- und Verwaltungstätigkeit in Krisen, Notlagen und Katastrophen vor und
+weist die hierfür erforderlichen Investitionen aus. Über eine allfällige Anpassung der Vorgaben wird
+im Rahmen des Budgetprozesses 2028 entschieden.
+
+Seite 3/14
+
+Regierungsrat des Kantons Basel-Stadt
+
+Ziel ist es, die gewonnenen Erkenntnisse und Empfehlungen nicht nur auf gesundheitliche Notlagen zu beschränken, sondern für die Bewältigung unterschiedlicher Krisenszenarien nutzbar zu
+machen und damit das kantonale Krisenmanagement insgesamt zu stärken.
+
+3.
+
+Revision des kantonalen Pandemieplans (Pandemieplan 2.0)
+
+3.1
+
+Nationale Rahmenbedingungen
+
+Der aktuelle Pandemieplan des Kantons Basel-Stadt wurde im Januar 2017 publiziert und beschreibt Massnahmen zur Vorsorge und zur Bewältigung am Beispiel der Influenza-Pandemie. Das
+nationale Epidemiengesetz befindet sich aktuell in Teilrevision. Das Vernehmlassungsverfahren
+startete am 29. November 2023 und dauerte bis am 22. März 2024. Die Vorlage des Epidemiengesetzes, welche den Kantonen zur Stellungnahme gereicht wurde, beinhaltete zahlreiche Anpassungen in Bezug auf die Pandemievorbereitung, welche Auswirkung auf die kantonale Pandemieplanung haben und im kantonalen Plan berücksichtigt werden müssen. Es wurde am
+20. August 2025 als Gesetzesentwurf und Botschaft an das Parlament überwiesen und wird aktuell
+in der Kommission für Soziale Sicherheit und Gesundheit des Ständerats diskutiert. Die Inkraftsetzung des revidierten Epidemiengesetzes und der Verordnung wird für das Jahr 2028 angestrebt.
+Des Weiteren wurde der nationale Pandemieplan umfassend revidiert und neu seit Juli 2025 digital
+auf einer Website (Pandemieplan) publiziert. Im November 2025 war das GD Gastgeberin für die
+Ausrichtung des Kantonalen Workshops zum Pandemieplan durch das Bundesamt für Gesundheit (BAG) in der Deutschschweiz. Dieser Workshop sollte dazu dienen, die Kantone bei der Umsetzung der kantonalen Pläne zu unterstützen, den Erfahrungsaustausch zwischen den Kantonen
+zu fördern und offene Fragen im Zusammenhang mit dem Nationalen Pandemieplan zu klären.
+Das GD konnte im Workshop die eigenen Konzepte für die Überarbeitung des kantonalen Pandemieplans im Plenum vorstellen und diskutieren.
+
+3.2
+
+Ziele und Inhalte der Neukonzeption: Pandemieplan 2.0
+
+Bei der Revision des kantonalen Pandemieplans für den Kanton Basel-Stadt sollen Format und
+Inhalte auf den nationalen Pandemieplan abgestimmt werden. Etwaige Anpassungen in der Epidemiengesetzgebung müssen berücksichtigt und eingepflegt werden.
+Zentrales Ziel bei der Neukonzeption des kantonalen Pandemieplans (in Folge genannt «Pandemieplan 2.0») ist es, die verschiedenen Stellen der kantonalen Verwaltung und die externen Stakeholder adäquat zu erreichen und einzubinden. Der Pandemieplan 2.0 soll möglichst praxisnahe,
+relevante und einfach zugängliche Informationen zur Verfügung stellen.
+Idealerweise bietet die Nutzung des Pandemieplans 2.0 den verschiedenen Stellen im Kanton –
+einschliesslich der Stakeholder – bereits vor einer weiteren Pandemie einen Mehrwert, so dass
+dieser auch im Alltag genutzt wird. Dadurch kann sichergestellt werden, dass der Plan im Falle
+einer Gesundheitskrise oder Pandemie bereits bekannt ist, und die verschiedenen Personen vertraut mit der Nutzung sind. Der Pandemieplan 2.0 soll durch drei Schwerpunkte gekennzeichnet
+sein:
+
+
+
+
+Informationskonzept: Wissen zugänglich machen und bündeln;
+Kommunikationskonzept: Austausch und Netzwerke fördern auch über die Kantonsgrenze hinaus;
+Koordinationskonzept: Absprachen, Ressourcenmanagement, Praxisübungen.
+
+Seite 4/14
+
+Regierungsrat des Kantons Basel-Stadt
+
+Abbildung 1: Vision Pandemieplan 2.0
+
+3.3
+
+Projektkonzeption
+
+Die Konzeption und die inhaltliche Erarbeitung des Pandemieplans 2.0 erfolgt federführend durch
+die Abteilung Epidemiologie und Infektionsschutz der Medizinischen Dienste des GD unter Einbezug von Experten aus anderen Dienststellen im GD und eng abgestimmt mit der Geschäftsstelle
+der Kantonalen Krisenorganisation (KKO) des Kantons Basel-Stadt, welche beim JSD angegliedert
+ist. Mitarbeitende der kantonalen Verwaltung anderer Departemente und externe Stakeholder (Gesundheitssektor, Wirtschaft, Bildung, Kultur) werden je nach Bedarf über Workshops und Befragungen in die inhaltliche und strukturelle Neukonzeption eingebunden.
+Die Klärung der IT-Anforderungen und der technischen Umsetzung der Pandemieplattform wird in
+Zusammenarbeit mit IT-Fachpersonen des GD sowie Experten von wichtigen weiteren Stellen zur
+Datenverarbeitung, z.B. dem Statistischen Amt und der kantonalen Datenschutzbeauftragten erfolgen.
+Das Konzept zum Pandemieplan 2.0 wird von einer Steuergruppe mit Mitarbeitern des GD, des
+JSD (KKO) und des Finanzdepartements (FD) begleitet werden, um den Pandemieplan 2.0 auf die
+parallellaufenden Projekte, nämlich die Erarbeitung des Bevölkerungsschutzgesetzes und die Erstellung eines kantonalen Konzepts zur Steigerung der Resilienz, abzustimmen.
+Aufgrund der umfassenden Abklärungen und dem Wechsel von einem Papierformat auf eine digitale Informationsplattform wird die Veröffentlichung des Pandemieplans 2.0 für das Jahr 2028 angestrebt. Der längere Zeithorizont ist insofern unkritisch, als dass der Kanton bereits über einen
+Pandemieplan verfügt. Die aktuelle intensive Arbeit an der Revision des Pandemieplans unter Einbezug der verschiedenen Stakeholder trägt dazu bei, die Grundlagen für eine bessere Umsetzung
+der Pandemieplanung zu schaffen, wodurch die Empfehlungen 4 und 5 des Evaluationsberichts
+zur Bewältigung der Covid-19 Pandemie bereits aktiv umsetzt werden.
+
+Seite 5/14
+
+Regierungsrat des Kantons Basel-Stadt
+
+3.4
+
+Aktueller Projektfortschritt
+
+3.4.1
+Einbezug der Stakeholder
+Im Mai 2024 wurde eine Umfrage an die Stakeholder aus den Bereichen Gesundheit, Bildung,
+Kultur und Wirtschaft, an die Generalsekretariate aller Departemente der Verwaltung des Kantons
+Basel-Stadt sowie an die Abteilungen und Dienststellen des GD lanciert. Insgesamt wurden
+44 Fragebögen ausgefüllt. Die Ergebnisse dieser Befragung wurden – wie in Abschnitt 3.2 geschildert – bei der Konzepterstellung, berücksichtigt.
+Im Sommer 2025 wurden Umfragen bei zentralen Stakeholdern des Gesundheitswesens durchgeführt. An die gesamte Ärzteschaft des Kantons Basel-Stadt wurden zwei kompakte Online-Umfragen zu den Themengebieten «Informationsvermittlung und Meldewesen von übertragbaren Krankheiten» sowie «Pandemievorbereitung» verschickt. Von ca. 1’500 Empfängern gingen
+214 Antworten zum Fragebogen betreffend «Informationsvermittlung und Meldewesen von übertragbaren Krankheiten» und 163 Fragebogen zur «Pandemievorbereitung» ein. Durch die Umfragen konnten u.a. der aktuelle Vorbereitungsstand und die Bedürfnisse der Ärzteschaft bezüglich
+den (Hygiene-) Konzepten zum Umgang mit hochansteckenden Erregern, Pandemiekonzepten,
+Konzepten zum Umgang mit Personalausfall und zur Schutzmateriallagerung abgeholt werden.
+Das Thema Wissensvermittlung und Informationsfluss wurde als zentrales Anliegen identifiziert:
+Wenn dies in der normalen Lage gut aufgegleist ist, ist dies eine wichtige Ressource für den Fall
+einer Pandemie.
+Des Weiteren erfolgte eine Umfrage an die baselstädtischen Apotheken, lanciert via Apothekerverband. Von ca. 45 Apotheken nahmen 28 an der Umfrage teil. Die Ergebnisse zeigen, dass Apotheken im Pandemiefall eine zentrale Rolle im Gesundheitswesen innehaben, da sie eine grosse Palette von Aufgaben übernehmen können (z.B. Impfen, Testangebot, Beratung, Schutzmaterial,
+Herstellung von Desinfektionsmittel, Lieferdienst von Medikamenten). Daher werden die Apotheken aktiv in die Erstellung des kantonalen Pandemieplans miteinbezogen. Das Thema Wissensvermittlung und Kommunikation war den Apotheken – ähnlich wie der Ärzteschaft – ein grosses
+Anliegen und wird im Rahmen der Erstellung des Pandemieplans besonders berücksichtigt werden.
+Ebenso wird die Idee einer gemeinsamen Schutzmateriallagerung weiterverfolgt.
+3.4.2
+Schutzmateriallager
+Das kantonale Schutzmateriallager dient dazu, die Verwaltungsstrukturen im Falle einer Pandemie
+oder Gesundheitskrise so weit wie möglich zu unterstützen, so dass der Betrieb weitergeführt werden kann und die Mitarbeitenden geschützt werden können. Für Gesundheitsversorger und die
+Bevölkerung hat das kantonale Schutzmateriallager grundsätzlich einen subsidiären Charakter, da
+diese entsprechend den Empfehlungen des nationalen Pandemieplans angehalten sind, Schutzmaterial für die eigene Institution bzw. den Eigenbedarf vorzuhalten.
+Das GD hat nach der Covid-19-Pandemie das Konzept des kantonalen Schutzmateriallagers überarbeitet und in weiten Teilen bereits umgesetzt. Das Schutzmateriallager umfasst aktuell Hygienemasken, FFP2-Masken, Handschuhe, Schutzanzüge, Schutzkittel und Desinfektionsmittel. Für gewisse Artikel wird eine Lagerung des Wochenverbrauchs von vier Wochen, für andere eine Dauer
+von 16 Wochen angestrebt.
+Um die Problematik der begrenzten Haltbarkeitsdauer von Schutzmaterial (in der Regel drei bis
+fünf Jahre) zu lösen, die dazu führt, dass nicht verwendetes Material periodisch kostenpflichtig
+entsorgt und ersetzt werden muss, hat sich das GD für die Umstellung auf eine rollende Schutzmateriallagerung entschieden. Diese konnte für gewisse Artikel in Zusammenarbeit mit dem Universitätsspital Basel (USB) realisiert werden: Das USB hat die eigenen Lager vergrössert und lagert
+bestimmte Artikel des kantonalen Schutzmateriallagers für den Kanton Basel-Stadt, verbraucht und
+ersetzt die gelagerten Artikel aber im Alltag fortwährend, so dass kein Material abläuft und ungebraucht vernichtet werden muss. Da das USB gewisse Artikel, welche für das kantonale Schutzmateriallager vorgesehen sind, nicht selbst lagert, konnte nicht für alle Artikel eine Vereinbarung
+Seite 6/14
+
+Regierungsrat des Kantons Basel-Stadt
+
+mit dem USB getroffen werden. Ein Teil dieser Artikel wird weiterhin physisch gelagert und für einen
+Teil hat das GD einen Vertrag über Vorhalteleistungen durch einen externen Dienstleister geschlossen.
+3.4.3
+Austausch und Vernetzung
+Zur Förderung des Austausches und der Vernetzung wurde von den Medizinischen Diensten unter
+der Leitung der Abteilung Epidemiologie und Infektionsschutz ein mindestens jährlich stattfindender
+Austausch «Netzwerktreffen Übertragbare Krankheiten» initialisiert. Hierzu werden Vertreter aller
+basel-städtischen Spitäler, Vertreter der Verbände der Ärztinnen und Ärzte sowie der Apothekerinnen und Apotheker, Vertreter der Rettung Basel-Stadt und Vertreter verschiedener Dienststellen
+des GD eingeladen. Dieses Netzwerktreffen kann als Beispiel genannt werden für die zukünftig
+geplanten und verstärkten Bemühungen zur Vernetzung und Koordination.
+
+3.5
+
+Schnittstellen / Synergien
+
+Bei vollständiger Umsetzung der Konzepte des Pandemieplans 2.0 werden inhaltlich insbesondere
+die Empfehlungen 4 (Grundlagen für eine bessere Umsetzung der Pandemieplanung schaffen) und
+5 (Stärkere Einbindung von Stakeholdern in die Pandemieplanung) von Interface umgesetzt. Die
+Realisierung der drei Teilkonzepte Information, Kommunikation und Koordination tangiert jedoch
+auch die Empfehlungen 3 (Informationsmanagement in der Krise verbessern), 7 (Dienstleistungen
+der KKO bei der Verwaltung bekannter machen) und 9 (Konzept zur Mitarbeiterkommunikation in
+Krisen erarbeiten). Dies, da mit der geplanten Konzeption des revidierten Pandemieplans 2.0 neue
+strukturelle Voraussetzungen geschaffen werden sollen, die auch für andere Inhalte, Krisen und
+Ausnahmesituationen genutzt werden können. Insofern sind die Erarbeitung und intensive Möglichkeitsabklärung ein wichtiger erster Schritt bei der Schaffung der strukturellen Voraussetzungen
+für einen kantonalen Umgang mit Krisen und Notlagen allgemein. Bestimmte Aspekte der Empfehlungen 4 (Grundlagen für eine bessere Umsetzung der Pandemieplanung schaffen) und 5 (Stärkere
+Einbindung von Stakeholdern in die Pandemieplanung) von Interface werden nicht primär mit dem
+Pandemieplan 2.0 realisiert, sondern werden im Rahmen der Aufträge an das JSD (Resilienzkonzept, Gesetzesgrundlage Bevölkerungsschutz) umgesetzt werden. Dies betrifft z.B. die Empfehlungen zum Business Continuity Management (BCM) für die kantonale Verwaltung.
+
+4.
+
+Resilienzkonzept
+
+4.1
+
+Resilienz als Leitbegriff
+
+Der Begriff Resilienz bezeichnet die Eigenschaft eines Gegenstandes, Organismus oder eines
+Systems, auf Probleme und Störungen zu reagieren, um potenzielle Schäden zu mindern oder gar
+zu verhindern. In Bezug auf die Resilienz einer Bevölkerung oder eines Staatsgebietes umfasst der
+Begriff alle Prozesse und Systeme, die für das Wohlergehen der Menschen und für die
+Aufrechterhaltung ihrer Lebensgrundlagen und Umwelt wichtig sind. Ziel des Ansatzes zur
+Steigerung der Resilienz ist es, dass die Systeme und Prozesse weniger anfällig gegenüber
+Störungen und Ausfällen sind.
+Im Rahmen eines kantonalen Krisenmanagements zielt Resilienz auf die Förderung von
+Fähigkeiten von Bevölkerung, Regierung und Verwaltung ab, damit diese sich rechtzeitig und
+effizient auf mögliche negative Auswirkungen von Krisen oder Katastrophen vorbereiten, diesen
+widerstehen, sich an sie anpassen und sich von ihnen erholen können. Die Voraussetzung für eine
+resiliente Gesellschaft ist somit ein systematischer Umgang mit Risiken und deren kontinuierliche
+Analyse und Bewertung für die Planung sowie Umsetzung von Massnahmen zur Steigerung der
+Resilienz.1
+
+1
+
+Beispielhaft für die zentrale Bedeutung von Resilienz im Bevölkerungsschutz: Deutsche Strategie zur Stärkung der Resilienz gegenüber Katastrophen.
+Umsetzung des Sendai Rahmenwerks für Katastrophenvorsorge (2015-2030). Der Beitrag Deutschlands 2020-2030. Berlin, Juli 2022.
+
+Seite 7/14
+
+Regierungsrat des Kantons Basel-Stadt
+
+4.2
+
+Handlungsbedarf und Rahmenbedingungen
+
+Für den Kanton Basel-Stadt als urbanes Zentrum einer trinationalen Metropolregion ist Resilienz in
+mehrfacher Hinsicht von zentraler Bedeutung. Regierungs- und Verwaltungsabläufe müssen auch
+in Krisenzeiten möglichst uneingeschränkt funktionieren. Gleichzeitig ist sicherzustellen, dass
+essenzielle Güter und Dienstleistungen für Bevölkerung und Wirtschaft verfügbar bleiben. Nicht
+zuletzt führen wichtige Verkehrs- und Transportachsen durch den Kanton Basel-Stadt, welche für
+die Versorgung der Schweiz wesentlich sind. Um Schäden im Falle von Störungen oder Ausfällen
+aufgrund von Ereignissen zu verhindern oder zu mindern, bedarf es sowohl resilienter
+Organisationen, Infrastrukturen und Prozesse zur Gewährleistung der Versorgungssicherheit, als
+auch einer resilienten Bevölkerung und Umwelt. Resilienz ist somit ein Querschnittsthema, das den
+Einbezug aller Gesellschaftsbereiche über die Kantonsgrenzen hinaus erforderlich macht.
+Der Kanton Basel-Stadt setzt sich bereits heute in vielen Bereichen stark für den Schutz der
+Bevölkerung, ihrer Lebensgrundlagen und eine nachhaltige Entwicklung ein. Er fördert damit
+Resilienz auf verschiedenen Ebenen. Gleichzeitig besteht aber auch Handlungsbedarf für die
+Weiterentwicklung des kantonalen Krisenmanagements und des Verbundsystems Bevölkerungsschutz.
+Zur Entlastung der kantonalen Verwaltung in Prävention und Vorbereitung sowie zur Stärkung des
+Verbundsystems Bevölkerungsschutz erachtet es der Regierungsrat als zweckmässig, eine
+langfristige, strategische Planung von Optimierungen und Investitionen zur Resilienzsteigerung zu
+verfolgen. Voraussetzung dafür ist ein klares Verständnis der kritischen Prozesse und Ressourcen
+für das Funktionieren von Verwaltung und Versorgung, sowie der relevanten Abhängigkeiten.
+Ebenso bedarf es eines aktuellen Lagebilds, um Risiken frühzeitig zu erkennen und angemessen
+reagieren zu können. Zentral ist zudem, dass die Wirkung von Massnahmen überprüft werden.
+Investitionen in die Resilienz sollen nicht nur zu einer erhöhten Lebensqualität beitragen, sie
+müssen auch ökonomisch sinnvoll sein. Gemäss einer von der Europäischen Union bei der
+Weltbank in Auftrag gegebenen Studie aus dem Jahr 2021 zahlen sich Investitionen in die Resilienz
+von Infrastruktur oder Bevölkerung langfristig aus, da die Kosten für die Ereignisbewältigung und
+Wiederherstellung erheblich reduziert werden.2
+Unter dieser Prämisse werden nachfolgend die Massnahmen zur Stärkung der Resilienz des
+Kantons Basel-Stadt gegenüber Krisen, Katastrophen sowie Not- und Mangellagen dargelegt.
+
+4.3
+
+Massnahmen zur Steigerung der Resilienz
+
+4.3.1
+Weiterentwicklung Kantonale Krisenorganisation Basel-Stadt
+Ziel des kantonalen Krisenmanagements ist es, die Funktionsfähigkeit von Regierung, Verwaltung
+und zentralen Leistungen für die Bevölkerung möglichst jederzeit aufrechtzuerhalten. In
+besonderen oder ausserordentlichen Lagen – wenn die vorhandenen Mittel nicht mehr ausreichen – sind eine Bündelung von Kompetenzen, beschleunigte Prozesse und eine klare
+Prioritätensetzung erforderlich. Zu diesem Zweck kann der Regierungsrat die Kantonale Krisenorganisation (KKO) als Stabs- und Führungsorgan einsetzen.
+Die KKO umfasst den Kantonalen Krisenstab (KKS), die Schadenplatz- sowie die Sammelplatzorganisation und untersteht dem Regierungsrat. Sie ist als Milizorganisation mit rund 250 nebenamtlichen Mitgliedern ausgestaltet; alle Departemente sind eingebunden, zunehmend auch externe
+Partner.
+
+2
+
+Investment in Disaster Risk Management in Europe Makes Economic Sense (Summary Report). The World Bank Group, 2021.
+
+Seite 8/14
+
+Regierungsrat des Kantons Basel-Stadt
+
+Regierungsrat
+
+RR
+
+Gesamtverantwortlicher/e KKO
+
+GV
+
+Gemeindeführungsstäbe
+
+GFS
+
+GFS
+
+BETTINGEN
+
+RIEHEN
+
+KANTONALE KRISENORGANISATION
+Sch Pl Kdo
+SCHADENPLATZ
+KOMMANDO/S
+
+Sapl Kdo
+SAMMELPLATZKOMMANDO
+
+KKS
+KANTONALER
+KRISENSTAB
+
+10 Fachbereiche
+38 Dienste
+
+Abbildung 2: Struktur der Kantonalen Krisenorganisation Basel-Stadt
+
+Die KKO hat vordringlich die Aufgabe, zur Abwehr von Schäden infolge von Krisen, Notlagen und
+Katastrophen beizutragen. Dabei liegt der Fokus stets auf der Bewältigung des Ereignisses, der
+Gewährleistung grösstmöglicher Handlungsfreiheit für die politischen Behörden sowie der
+möglichst raschen Wiederherstellung geordneter Verhältnisse. Ebenfalls zu ihren Aufgaben gehört
+die Beratung des Regierungsrates in der Vorsorge und Bewältigung sowie die Vorbereitung von
+lage- und zeitgerechten Beschlussentwürfen zur Umsetzung von dringlich notwendigen
+Anpassungen zur Erfüllung der gesetzlichen Aufgaben des Kantons. Für Personal, Ausbildung und
+Einsatzbereitschaft ist die Geschäftsstelle der KKO zuständig.
+Im Rahmen der Bewältigung der COVID-19-Pandemie sowie bei den Vorbereitungen auf eine
+mögliche Energiemangellage haben sich die Grenzen dieser auf die Ereignisbewältigung
+ausgelegten Organisation gezeigt. Insbesondere für die Antizipation und Bewältigung
+langandauernder Krisen besteht Anpassungsbedarf.
+In den von mehreren Krisen betroffenen Jahren 2020 bis 2023 hat der Regierungsrat ein neues,
+beratendes Gremium in Form eines dem KKS übergeordneten Strategiestabs eingesetzt. Diese
+Massnahme erwies sich als notwendig, da die bestehenden Stabsstrukturen nicht ausreichend auf
+eine andauernde Krise ausgelegt waren. Nun wird dieses bewährte Element, das auch
+Regierungsvertreter der betroffenen Departemente direkt in die Stabsarbeit einbindet, verstetigt.
+Gleichzeitig wird die Organisationsstruktur der KKO überprüft und bei Bedarf angepasst,
+insbesondere im Hinblick auf eine verstärkte Einbindung der gesamten Verwaltung sowie
+bestehender Gremien. Ziel ist es, Ereignisse möglichst lange innerhalb der ordentlichen Strukturen
+zu bewältigen. Zu diesem Zweck werden die Krisenmanagementstrukturen und -prozesse in allen
+Departementen sowie den betroffenen Dienststellen und Betrieben stärker verankert und innerhalb
+der einzelnen Organisationseinheiten aufgebaut. Unter anderem ist die Bildung departementaler
+Krisenstäbe vorgesehen. Die Geschäftsstelle KKO übernimmt dabei eine koordinierende und
+unterstützende Rolle und fungiert als zentrale Basisorganisation für das Krisenmanagement sowie
+als zentrale Koordinationsstelle im Verbundsystem Bevölkerungsschutz.
+Mit dieser Weiterentwicklung schafft der Kanton die Voraussetzungen für professionalisierte
+Strukturen im Krisen- und Katastrophenmanagement. Die erforderlichen Vorgaben und
+Rahmenbedingungen werden im Rahmen der Revision der kantonalen Rechtsgrundlagen des
+Bevölkerungsschutzes geprüft und umgesetzt.
+
+Seite 9/14
+
+Regierungsrat des Kantons Basel-Stadt
+
+4.3.2
+
+Stärkung der Geschäftsstelle KKO
+
+Die Geschäftsstelle KKO ist derzeit die einzige kantonale Stelle, die sich vollamtlich mit übergeordneten Fragen des Bevölkerungsschutzes befasst. Sie erfüllt die dem Kanton gemäss Bundesgesetz
+über den Bevölkerungsschutz und den Zivilschutz (BZG, SR 520.1) zugewiesenen Aufgaben, insbesondere die Sicherstellung der Einsatzfähigkeit der Führungsorgane, die Ausbildung und Betreuung der KKO-Mitglieder und Gemeindeführungsstäbe sowie die Alarmierung im Ereignisfall. Hinzu
+kommen die Gefährdungsbeurteilung, die Beobachtung sicherheitspolitischer Entwicklungen und
+die Koordination der Katastrophenvorsorgeplanung. Über diesen gesetzlichen Auftrag hinaus umfasst ihr Aufgabenbereich u. a. die Erarbeitung von Einsatzgrundlagen, Notfallplanungen und Risikobeurteilungen sowie – im Ereignisfall – zusätzliche operative Tätigkeiten.
+Die bestehenden personellen Ressourcen (420 Stellenprozente) reichen jedoch nicht aus, die ihr
+zugewiesenen Kernaufgaben abzudecken. Gleichzeitig ist angesichts der auf Bundesebene und in
+der Fachwelt erwarteten Zunahme der Anforderungen im Bevölkerungsschutz von einer weiteren
+Belastungssteigerung auszugehen.
+4.3.3
+Einführung Business Continuity Management (BCM) in der Kantonsverwaltung
+Die unterschiedlichen Zuständigkeiten der Departemente, der KKO und der Betreiberinnen und
+Betreiber kritischer Infrastrukturen erschweren die Vorbereitung und Bewältigung einer Krisensituation signifikant. Die Herausforderungen für die KKO variieren dabei je nach Grad der
+Vorbereitung der beteiligten Organisationen (Behörden, Departemente, Dienststellen, Betriebe)
+sowie danach, ob und in welchem Umfang Massnahmen für die Aufrechterhaltung des Betriebs
+umgesetzt wurden. Für solche – teilweise aufwändigen – Massnahmen fehlen derzeit jedoch die
+erforderlichen Aufträge und Ressourcen. Zudem ist nicht klar geregelt, wer in einer spezifischen
+Organisation welche Massnahmen zur Sicherstellung oder Steigerung der Resilienz zu ergreifen
+hat und in welchem Umfang die KKO unterstützend tätig werden kann.
+Seit Einführung des kantonalen Risikomanagements durch das FD im Jahr 2021 hält der
+regierungsrätliche Risikobericht jene Risiken fest, die einen wesentlichen Einfluss auf die finanzielle
+Situation des Kantons haben könnten (vgl. § 22 des Gesetzes über den kantonalen
+Finanzhaushalt; Finanzhaushaltsgesetz [FHG], SG 610.100). Der Risikobericht definiert jedoch
+nicht, welche Prozesse in der Regierungs- und Verwaltungstätigkeit als kritisch gelten und in allen
+Lagen ohne Unterbrüche oder Einschränkungen funktionsfähig bleiben müssen.
+Vor diesem Hintergrund wurde in Ergänzung des bestehenden Risikomanagements ein Konzept
+zur Einführung eines BCM in der kantonalen Verwaltung erarbeitet. Während das
+Risikomanagement Risiken identifiziert und bewertet, fokussiert das BCM auf die Sicherstellung
+der kritischen Geschäftsprozesse. Ziel ist es, die definierten Leistungen einer Organisation
+jederzeit – insbesondere im Ereignisfall – aufrechterhalten oder rasch wiederherstellen zu können.
+4.3.4
+Verstetigung des Schutzes kritischer Infrastrukturen
+Als einer der wenigen Kantone der Schweiz verfügt der Kanton Basel-Stadt bereits seit dem
+Jahr 2020 über eine eigene kantonale Strategie zum Schutz kritischer Infrastrukturen (SKIStrategie). Angesichts der hohen Dichte an relevanten Betrieben, Verkehrsknoten und
+Versorgungssystemen ist der Schutz kritischer Infrastrukturen von besonderer Bedeutung, da
+Ausfälle weit über die Kantons- und Landesgrenzen hinauswirken können. Entsprechend zentral
+sind die systematische Erfassung, die Beurteilung und die laufende Aktualisierung der kritischen
+Objekte unter Wahrung der Informationssicherheit. Neben der Führung des Verzeichnisses der
+kritischen Infrastrukturen sind klare Zuständigkeiten, Prozesse zur Risikoanalyse sowie
+vorsorgliche Planungen erforderlich. Aufgrund vielfältiger Abhängigkeiten ist zudem eine enge
+Zusammenarbeit mit Betreiberinnen und Betreibern, Nachbarkantonen und internationalen
+Partnern notwendig.
+
+Seite 10/14
+
+Regierungsrat des Kantons Basel-Stadt
+
+Für die Umsetzung der Strategie wurde im Jahr 2022 eine bis Ende 2026 befristete Stelle im
+Umfang von 0.8 FTE bei der Geschäftsstelle KKO geschaffen, mit der die Grundlagen erarbeitet
+werden konnten. Die damit verbundenen Aufgaben sind jedoch dauerhaft angelegt und nehmen
+angesichts zunehmender Abhängigkeiten und Risiken weiter zu.
+4.3.5
+
+Schaffung eines Lagezentrums Bevölkerungsschutz
+
+Ein integrales Lagebild ist ein zentrales Instrument der Krisenantizipation und -vorsorge. Die
+frühzeitige Erkennung von Gefährdungen und sich abzeichnenden Entwicklungen ermöglicht es
+den zuständigen Stellen, rechtzeitig vorbereitende Massnahmen einzuleiten. Gleichzeitig schafft
+eine konsolidierte Lagedarstellung Transparenz über komplexe Abhängigkeiten zwischen
+essenziellen Dienstleistungen, Ressourcen und Infrastrukturen und unterstützt damit die
+Entscheidfindung von Politik und Verwaltung sowohl im kantonalen als auch im übergeordneten
+sicherheitspolitischen Kontext.
+Im Kanton Basel-Stadt bestehen derzeit keine dauerhaft betriebenen Strukturen oder Prozesse zur
+kontinuierlichen Erfassung, Analyse und Auswertung von bevölkerungsschutzrelevanten Daten
+und Informationen in einem integralen Lagebild. Zwar verfügen einzelne Akteure bereits über
+spezialisierte Lagebilder und entsprechende fachliche Kompetenzen. Ein konsolidiertes,
+departementsübergreifendes Lagebild Bevölkerungsschutz, das diese Informationen laufend
+zusammenführt und einheitlich darstellt, besteht jedoch nicht.
+Entsprechend wird bei der Geschäftsstelle KKO ein permanentes Lagezentrum
+Bevölkerungsschutz geschaffen werden, von dem sowohl die Departemente als auch der
+Regierungsrat direkt profitieren und das wesentlich zur Stärkung der kantonalen Resilienz beiträgt.
+Im Zentrum stehen dabei die systematische Zusammenführung und Aufbereitung der im Kanton
+bereits vorhandenen Daten und Informationen zu einem integralen Lagebild.
+4.3.6
+Etablierung einer kantonalen Stelle für wirtschaftliche Landesversorgung
+Die wirtschaftliche Landesversorgung (WL) stellt sicher, dass jene Güter und Dienstleistungen
+jederzeit verfügbar sind, die für das Funktionieren einer modernen Wirtschaft und Gesellschaft
+unerlässlich sind. Grundsätzlich liegt die Verantwortung für die Versorgung mit lebenswichtigen
+Gütern und Dienstleistungen bei der Wirtschaft. In Mangellagen kann der Bund jedoch regulierend
+eingreifen und Einfluss auf die Verfügbarkeit oder Nutzung betroffener Güter und Dienstleistungen
+nehmen. Zu den zentralen Instrumenten der wirtschaftlichen Landesversorgung zählen dabei die
+Bewirtschaftung von Pflichtlagern sowie von Vorhalteleistungen.
+Die Umsetzung entsprechender Massnahmen zur Verhinderung oder Bewältigung von
+Mangellagen erfordert ein aktives Mitwirken der Kantone. Im Kanton Basel-Stadt war die
+Zuständigkeit für die wirtschaftliche Landesversorgung bis 2024 beim Departement für Wirtschaft,
+Soziales und Umwelt angesiedelt. Per 1. Januar 2025 ging diese Zuständigkeit samt 0.5 FTE zum
+JSD – namentlich zur Geschäftsstelle der KKO – über. Dieser Transfer ermöglicht eine engere
+Verzahnung der Aufgaben im Bereich der Versorgungssicherheit mit kantonalem
+Krisenmanagement und Bevölkerungsschutz.
+Derzeit wird ein Einführungskonzept für die wirtschaftliche Landesversorgung erarbeitet, das die
+künftige Wirkungsentfaltung mit klaren Prioritäten und Massnahmen definiert Dieses bildet die
+zentrale konzeptionelle Grundlage für die Umsetzung der kantonalen Aufgaben im Vollzug der
+wirtschaftlichen Landesversorgung. Dazu gehören insbesondere die Vorbereitung und
+Koordination von Massnahmen zur Versorgungssicherung, die Pflege relevanter Netzwerke sowie
+die frühzeitige Einbindung betroffener Akteure in die Umsetzungsplanung.
+
+Seite 11/14
+
+Regierungsrat des Kantons Basel-Stadt
+
+4.3.7
+
+Stärkung der gesellschaftlichen Resilienz
+
+Eine resiliente Gesellschaft ist eine zentrale Voraussetzung für die erfolgreiche Bewältigung von
+Krisen. Dafür erforderlich sind ein ausgeprägtes Risikobewusstsein, eine zielgruppengerechte
+Krisenkommunikation sowie klare Verhaltensanweisungen an die Bevölkerung.
+Erfahrungen aus Pandemien, Energie- und Versorgungsengpässen sowie Naturereignissen
+zeigen, dass klassische Top-Down-Ansätze im Krisenmanagement an ihre Grenzen stossen. Für
+eine wirksame Krisen- und Zukunftsfähigkeit braucht es daher umfassende Resilienzstrategien, die
+auf Kooperation zwischen Staat, Wissenschaft, Wirtschaft und Zivilgesellschaft basieren.
+Entscheidend ist insbesondere die Stärkung der Bevölkerung selbst hinsichtlich Information,
+Vorbereitung, Eigeninitiative und gegenseitiger Unterstützung im Alltag.
+Vor diesem Hintergrund verfolgt die Geschäftsstelle KKO das Ziel, den Bevölkerungsschutz stärker
+gesellschaftlich zu verankern. Ende des Jahres 2025 beauftragte sie die Stiftung Risiko-Dialog mit
+der Unterstützung bei der strategischen Vorbereitung und Konzeption im Rahmen einer Vorstudie.
+Ziel der Vorstudie war es, ein gemeinsames Verständnis von gesellschaftlicher Resilienz zu
+entwickeln und mögliche Handlungsfelder zu skizzieren – ohne bereits eine systematische Analyse
+oder konkrete Massnahmen auszuarbeiten.
+Identifiziert wurden insbesondere folgende Handlungsfelder:
+1.
+
+Krisenkommunikation stärken
+
+2.
+
+Nachbarschaften und Netzwerke fördern
+
+3.
+
+Kompetenzaufbau vorantreiben
+
+4.
+
+(Aus-)Bildung als Hebel nutzen
+
+5.
+
+Jugendliche als Multiplikator/-innen einbinden
+
+6.
+
+Kooperationen und Vernetzung ausbauen
+
+7.
+
+Stakeholder in der Verwaltung einbeziehen
+
+8.
+
+Vulnerable Gruppen gezielt unterstützen
+
+Basierend auf den Ergebnissen der Vorstudie prüft die Geschäftsstelle KKO in einem nächsten
+Schritt die Möglichkeit einer Umsetzungsstudie zur vertieften Bedarfserhebung, die systematische
+Ausarbeitung von Massnahmen sowie eine detaillierte Umsetzungsplanung.
+4.3.8
+Kantonales Bevölkerungsschutzgesetz
+Der Kanton Basel-Stadt verfügt als einziger Kanton bislang über kein eigenständiges Bevölkerungsschutzgesetz. Die rechtlichen Grundlagen für das Krisenmanagement und den Schutz der
+Bevölkerung sind derzeit fragmentarisch und entsprechen weder den Anforderungen moderner
+Risiko- und Resilienzsteuerung noch den Vorgaben des Bundesgesetzes vom 20. Dezember 2019
+über den Bevölkerungsschutz und den Zivilschutz (Bevölkerungs- und Zivilschutzgesetz [BZG],
+SG 520.1). Eine Überprüfung der Rolle der Generalsekretariate bei Krisensituationen erfolgt bei
+der Erarbeitung der Rechtsgrundlagen über den Bevölkerungsschutz.
+Vor diesem Hintergrund wurde das JSD mit der Ausarbeitung eines Projektplans für die
+gesetzlichen Grundlagen für den Bevölkerungsschutz im Kanton Basel-Stadt beauftragt. Mit der
+Erarbeitung eines neuen Bevölkerungsschutzgesetzes soll der Kanton Basel-Stadt ein
+zeitgemässes, kohärentes Regelwerk erhalten, das die Zuständigkeiten und Aufgaben im Krisen-,
+Katastrophen- und Notlagenmanagement klar regelt und die Handlungs- und Führungsfähigkeit
+des Kantons in allen Lagen nachhaltig sicherstellt.
+
+Seite 12/14
+
+Regierungsrat des Kantons Basel-Stadt
+
+5.
+
+Kommunikation Mitarbeitende in Krisen
+
+Die interne Kommunikation zu den Mitarbeitenden stellt in Krisensituationen eine besondere
+Herausforderung dar. Dies betrifft sowohl technische als auch administrative Strukturen und
+Prozesse.
+Grundsätzlich sind die Departemente und deren Dienststellen selbst für die Kommunikation mit den
+Mitarbeitenden zuständig. Bei Ereignissen, welche mehrere Departemente oder die ganze
+Verwaltung betreffen, sind übergeordnete Konzepte notwendig. Bei grösseren Krisenfällen, welche
+mehrere Departemente, die gesamte Verwaltung oder die Bevölkerung betreffen, sind auf
+fachlicher Ebene die Notfallmassnahmen und die Krisenorganisation geregelt und festgehalten.
+Allgemein stehen bei der internen Kommunikation im Krisenfall die bewährten Kanäle zu
+Verfügung, die auch ausserhalb der Krisen für die Information zur Verfügung stehen. Die
+Besonderheiten einer eintretenden Krise sind aber schwer voraussehbar, weshalb eine Schärfung
+des allgemeinen Konzepts notwendigerweise in der Krise erfolgen muss. Vorfälle in der jüngeren
+Vergangenheit zeigten zum Beispiel, dass das kommunikative Vorgehen bei grösseren
+Cybersicherheitsvorfällen nicht klar genug geregelt war.
+Deshalb hat der Regierungsrat die Staatskanzlei zusammen mit dem FD beauftragt, ein internes
+Konzept für die Kommunikation im Falle von grösseren IT-Störfällen wie Cyberangriffe zu
+erarbeiten. Dieses Konzept wurde vom Regierungsrat am 18. Februar 2025 genehmigt. Das
+Kommunikationskonzept beschreibt unter anderem die internen Prozesse und Zuständigkeiten bei
+kantonalen Cybersicherheitsvorfällen. Das Konzept gewährleistet, dass von einem Vorfall
+betroffene Personen (intern oder extern) wissen, dass ein Vorfall vorliegt, wie sie betroffen sind,
+dass an einer Lösung gearbeitet wird und was sie für Handlungsmöglichkeiten haben. Bei
+grösseren Vorfällen ist die Kommunikation zentral organisiert, sodass intern alle Mitarbeitenden
+dieselben Informationen erhalten und externe Personen eine einheitliche, korrekte und
+abgestimmte Antwort erhalten.
+
+6.
+
+Finanzielle Auswirkungen
+
+Für die Einführung eines BCM, die Stärkung der Geschäftsstelle KKO, die Verstetigung des
+Schutzes kritischer Infrastrukturen sowie die Einführung eines permanenten Lagebilds im
+Bevölkerungsschutz sind zusätzliche personelle Ressourcen im Umfang von insgesamt
+vier Vollzeitstellen erforderlich. Über eine allfällige Anpassung der Vorgaben wird im Rahmen des
+Budgetprozesses 2028 entschieden. Die übrigen Vorhaben werden mit den bestehenden
+Ressourcen umgesetzt.
+
+7.
+
+Fazit
+
+Mit der Umsetzung der oben aufgeführten Massnahmen werden sämtliche Empfehlungen aus dem
+COVID-19-Evaluationsbericht adressiert. Dies umfasst insbesondere die Einführung eines BCM in
+der kantonalen Verwaltung (Empfehlungen 1), die Sicherstellung der Vertretungsfähigkeit des
+Kantons durch entsprechende personelle Verstärkung (Empfehlung 2), die Bereitstellung einer
+verbesserten Entscheidungsgrundlage für Entscheidungsträgerinnen und Entscheidungsträger
+durch eine systematische Informationsaufbereitung (Empfehlung 3), die Umsetzung der
+pandemiespezifischen Empfehlungen (4 und 5), die Schaffung eines zeitgemässen kantonalen
+Bevölkerungsschutzgesetzes (Empfehlung 6), die Erarbeitung eines Konzepts zur
+Mitarbeiterkommunikation in Krisen (Empfehlung 9) sowie die weitere Professionalisierung der
+organisatorischen Strukturen der Krisenorganisation (Empfehlungen 7, 8, 10).
+Damit werden die Voraussetzungen geschaffen, die Widerstandsfähigkeit des Kantons Basel-Stadt
+gegenüber Krisen, Katastrophen und Notlagen substanziell zu stärken und die gesetzliche
+Handlungsfähigkeit auch unter anspruchsvollen Bedingungen dauerhaft sicherzustellen.
+Seite 13/14
+
+Regierungsrat des Kantons Basel-Stadt
+
+8.
+
+Antrag
+
+Gestützt auf unsere Ausführungen beantragen wir dem Grossen Rat die Motion Patricia von Falkenstein und Konsorten als erfüllt abzuschreiben.
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Dr. Conradin Cramer
+Regierungspräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Seite 14/14
+
+

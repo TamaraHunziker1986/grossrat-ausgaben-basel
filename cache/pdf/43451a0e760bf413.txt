@@ -1,0 +1,196 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+23.5514.02
+
+WSU/P235514
+Basel, 3. Dezember 2025
+Regierungsratsbeschluss vom 2. Dezember 2025
+
+Anzug Daniel Sägesser und Konsorten betreffend Wahltarife mit dynamischen Energie- und Netznutzungspreisen für flexible elektrische Lasten
+Der Grosse Rat hat an seiner Sitzung vom 15. November 2023 den nachstehenden Anzug Daniel Sägesser und Konsorten dem Regierungsrat zur Stellungnahme überwiesen:
+«Mit zunehmendem Anteil an erneuerbaren Energien wie Wind und Sonne, häufen sich die Zeiten, in
+denen das Angebot an elektrischer Energie die Nachfrage übersteigt. Aufgrund unflexibler Kraftwerke
+wie z.B. AKW, die aus technischen oder betriebsökonomischen Gründen ihre kurzfristige
+Erzeugungsleistung nicht der Nachfrage anpassen können, kann ein daraus resultierendes
+Überangebot zu negativen Strompreisenam Markt führen.
+Dieses Phänomen ist bereits seit einigen Jahren aus Ländern, welche bereits sehr weit sind beim
+Ausbau der neuen erneuerbaren Energien (z.B. Deutschland) bekannt. Aber auch in der Schweiz tritt
+dieses Phänomen zunehmend auf: z.B. lag am Sonntag, 02. Juli 2023 der Marktpreis für elektrische
+Energie in der Schweiz zeitweise bei 143 EUR/MWh. Wer in dieser Zeit Strom am Markt eingekauft
+und verbraucht hat, hat also Geld bekommen, statt dafür zu bezahlen. Aufgrund der Schweizer TeilLiberalisierung (Zugang zum freien Markt, erst ab mind. 100 MWh/Jahr) können durch gezielten
+Stromverbrauch zu diesen Zeiten .nur Grossverbraucher mit entsprechendem Stromliefervertrag von
+solchen Negativ-Preisen profitieren. Kleinverbraucher in der Standard-Grundversorgung haben in der
+Schweiz jeweils im Voraus für das Frontjahr fixierte Tarife. Eine kurzfristige energiewirtschaftlich
+sinnvolle Verbrauchsanpassung (Verschiebung von flexiblem Verbrauch wie z.B. Wärmepumpen,
+Elektroauto, Batteriespeicher etc., in Zeiten von grossem Energieangebot), wird also nicht monetär
+belohnt. Abgesehen davon fehlt Nicht-Fachleuten die Information, zu welchem Zeitpunkt die
+Marktpreise günstig oder sogar negativ sind.
+In voll liberalisierten Strommärkten, wie z.B. Deutschland und Österreich werden vom Markt auch für
+Kleinverbraucherinnen bereits seit einigen Jahren Tarifmodelle mit dynamischen Preisen angeboten.
+Die Regulierung der Grundversorgung in der Schweiz, lässt es allerdings zu, dass auch in der
+Grundversorgung - neben einem streng regulierten Basis-Tarif – beliebig viele weitere sogenannte
+„Wahltarife“ angeboten werden dürfen. Mit der Abschaffung der Durchschnittspreismethode im
+Rahmen des Energie Mantelerlasses wird auf nationaler Ebene zudem eine weitere wichtige
+regulatorische Hürde abgebaut. Es wäre also aus regulatorischer Sicht möglich, auch in der Schweiz
+Tarifmodelle mit dynamischen Preisen für Kundinnen und Kunden der Grundversorgung anzubieten.
+In einem solchen neuen Wahltarif sollte jedoch nicht nur der Energiepreis dynamisch dem Marktpreis
+folgen, sondern auch das Netznutzungsentgelt sollte sich dynamisch an der verfügbaren Kapazität
+
+Publiziert am 5. Dezember 2025 auf: grosserrat.bs.ch
+
+Seite 1/4
+
+Regierungsrat des Kantons Basel-Stadt
+
+orientieren. So, dass die flexiblen Lasten nicht nur energiewirtschaftlich sinnvoll, sondern auch
+netzdienlich betrieben werden. Denn gerade in einem städtischen Raum wie dem Kanton Basel-Stadt
+sind günstige Markt-Energiepreise nicht immer zeitlich synchron mit genügend vorhandenen
+Netzkapazitäten. Ausserdem müssen die flexiblen Tarife in geeigneter Weise kommuniziert werden.
+Zum einen auf einem niederschwelligen Kanal für die analoge/manuelle Verbrauchssteuerung (z.B.
+per Website, App, Push-Nachricht etc.), andererseits aber auch digital (z.B. per API) für die
+automatische Auslesung zur Ansteuerung sogenannt „smarter“ Lasten und EnergiemanagementSystemen.
+Die Anzugsstellenden bitten den Regierungsrat zu prüfen und zu berichten,
+-
+
+-
+
+ob die IWB bereit ist, innert nützlicher Frist dynamische Wahltarife für Kundinnen und Kunden in
+der Grundversorgung anzubieten, deren Energiepreis sich am kurzfristigen Spotpreis und deren
+Netznutzungsentgelt sich an der verfügbaren Stromnetz-Kapazität orientiert.
+ob, im Falle von regulatorischen Hürden auf nationaler Ebene, solche Tarife als «innovative
+Massnahme» in Sinne der StromW eingeführt werden könnten.
+ob und falls ja, wie, der Regierungsrat sich auf nationaler Ebene für geeignete regulatorische
+Rahmenbedingungen die solche flexiblen Tarife ermöglichen und erleichtern einsetzen kann.
+auf welche Weise solche dynamischen Tarife zweckdienlich kommuniziert werden könnten.
+ob die (erneuerbare) elektrische Energie für Verbraucher mit dynamischem Wahltarif (in
+Abweichung vom sonstigen IWB-Grundsatz des möglichst hohen Eigenproduktionsanteils in der
+Grundversorgung) am Strommarkt beschafft werden soll.
+ob er bereit ist, nach einem geeigneten Auswertungszeitraum über die Praxis-Erfahrungen
+solcher dynamischen Wahltarife zu berichten.
+Daniel Sägesser, David Wüest-Rudin, Jean-Luc Perret, Rene Brigger, Leoni Bolz,
+Oliver Thommen,
+Michela
+Seggiani,
+Salome
+Bessenich,
+Melanie
+Nussbaumer,
+Beda Baumgartner, Brigitte Kühne, Christoph Hochuli, Raphael Führer, Jerome Thiriet,
+Mahir Kabakci, Nicole Amacher, Daniel Hettich, Beat Braun, Daniel Seiler, Luca Urgese,
+Pascal Pfister, Raffaela Hanauer, Lorenz Amiet»
+
+Wir unterbreiten zu diesem Anzug den folgenden Zwischenbericht.
+
+1.
+
+Anliegen des Vorstosses
+
+Der vorliegende Anzug nimmt zentrale Themen der künftigen Gestaltung des Strommarkts auf. Zum
+einen geht es darum, wie – im Versorgungsgebiet der IWB – bereits heute auch Stromkundinnen und
+-kunden in der Grundversorgung die Möglichkeit von marktmässigen, unter Wettbewerbsbedingungen gebildeten Strompreisen zugänglich gemacht werden kann. Zum anderen wird die Frage gestellt
+nach einer Ausgestaltung der Netznutzungsentgelte so, dass sie dem Ausgleich zwischen der Beanspruchung des Stromverteilnetzes und der verfügbaren Netzkapazität dienen. Anliegen ist, für die
+Kundinnen und Kunden Preisvorteile zu ermöglichen und gleichzeitig Anreize zu schaffen für Verbrauchsanpassungen durch Verschiebung von flexiblem Verbrauch wie z.B. Wärmepumpen, Elektroauto, Batteriespeicher etc., in Zeiten von grossem Energieangebot und damit eine Synchronisation
+von Stromverbrauch und Stromtransportmöglichkeiten zu erreichen.
+
+2.
+
+Bewertung
+
+Der Regierungsrat kann die Anliegen des Anzugs gut nachvollziehen. Er geht mit den Anzugstellern
+einig, dass flexible Strompreise und dynamische, an der Netzkapazität orientierten Netznutzungsentgelte eine bedeutende Rolle für ein künftiges Design der Stromversorgung spielen.
+
+2.1
+
+Aktuelle Regulierung
+
+Mit dem Bundesgesetz über eine sichere Stromversorgung mit erneuerbaren Energien (Mantelerlass) und den damit vorgenommenen Anpassungen am Stromversorgungsgesetz (StromVG) besteht
+
+Seite 2/4
+
+Regierungsrat des Kantons Basel-Stadt
+
+heute ein bundesrechtlicher Rahmen, der eine erste Umsetzung der Anliegen des Anzugs im Bereich
+der Netzentgelte ermöglicht.
+Das angepasste Strom VG gibt erstmalig die Möglichkeiten im Netz Wahltarife anzubieten, dies beschränkt auf gewisse Gebiete und unter gewissen Prämissen. Die Versorger können in diesem Rahmen Wahl-Tarife schaffen, welche nur in Teilen des Stromnetzes, bspw. solchen mit Netzengpässen,
+zur Anwendung kommt. Theoretisch könnte für jedes (Teil-)Netzgebiet oder gar für jeden Netzanschlusspunkt (somit jedes Gebäude) ein spezifischer Tarif definiert werden. Es bleibt allerdings die
+Pflicht für die Versorger, einen Standard-Tarif für die jeweilige Netzebene und Kundenstruktur vorzusehen und für Kunden mit einem Verbrauch kleiner als 50'000 kWh pro Jahr im Netz einen einheitlichen Basistarif anzubieten. Die regulatorischen Hürden für dynamische Netz-Tarife sind durch die
+bundesgesetzlichen Anpassungen zum 1. Januar 2026 entfallen. Eine hilfsweise Abstützung auf die
+Möglichkeit sog. «innovativer Massnahmen» in Sinne der Stromversorgungsverordnung (StromVV),
+wie von den Anzugstellern angeregt, ist somit nicht erforderlich. Nach Bundesrecht ebenfalls zulässig
+sind durchgängige Leistungstarife für alle Kunden (auch Bezüger von geringen Strommengen).
+Im Bereich des Energiebezugs (Medium) bestehen derzeit noch verschiedene regulatorische Unsicherheiten. Die Anforderungen an dynamische Modelle – etwa in Bezug auf erneuerbare Energien,
+Fördermechanismen und marktpreisbasierte Anreize in der Grundversorgung – sind bislang in der
+Gesetzgebung nicht abschliessend definiert. Eine Veränderung würde sich bei einer vollen Marktöffnung im Rahmen des mit der Europäischen Union vereinbarten Stromabkommens ergeben. Wird
+dieses in der Volksabstimmung bestätigt und in nationales Recht umgesetzt, können die Versorger
+für alle Stromkonsumentinnen und -Konsumenten für den Energiebezug (Medium) beliebige Tarife –
+ausserhalb einer möglicherweise weiterbestehenden Grundversorgung – anbieten. Damit würden im
+Medium dynamische Wahltarife ohne regulatorische Einschränkungen möglich.
+Zu klären bleibt die gesetzliche Regulierung auf kantonaler Stufe. So sind gemäss § 25 IWB-Gesetz
+heute durchgehende Leistungstarife für alle Kundengruppen (inkl. private Haushalte) nicht möglich.
+Zulässig wären lediglich dynamische Arbeitstarife, die sich abhängig vom Lastverhalten eines Verbrauchers anpassen. Fraglich ist, ob die Bestimmung des IWB-Gesetzes vor dem angepassten Bundesrecht Bestand hat.
+
+2.2
+
+Tarifentwicklung IWB
+
+Die IWB beschäftigt sich bereits seit längerem mit der künftigen Ausgestaltung der Stromenergieund Stromnetztarife.
+Auch aus Sicht der IWB sind dynamische Energietarife durchgängig für alle Kundengruppen ein Zukunftsthema und wichtige Wegbereiter für die Integration dezentraler Energielösungen. Sie sind Elemente beispielsweise auch für die Realisierung von «Lokalen Energiegemeinschaften» (LEG) oder
+«Zusammenschlüssen zum Eigenverbrauch» (ZEV), wo dynamische Preise zur intelligenten Steuerung und gemeinsamen Optimierung genutzt werden können. Der wirtschaftliche Nutzen hängt jeweils von der individuellen Flexibilität und dem Grad der Verbrauchsoptimierung der zusammengeschlossenen Verbraucher und Verbraucherinnen ab. Die IWB verfolgt die regulatorische Entwicklung
+eng. Heute bestehen noch diverse Unsicherheiten, wie dynamische Modelle im Bereich Medium –
+etwa in Bezug auf erneuerbare Energien, Fördermechanismen und marktpreis-basierte Anreize in
+der Grundversorgung – rechtskonform ausgestaltet werden können.
+In Bezug auf die Netznutzung engagiert sich die IWB zusammen mit anderen Versorgern an einer
+Studie des BFE zur Wirkung von dynamischen, lastbezogenen Netznutzungstarifen. Es sollen die
+generelle Bereitschaft und das mögliche Verbrauchsänderungsverhalten analysiert werden, wenn
+Tarifanreize gesetzt werden, mit denen die Kundinnen und Kunden zu (zeitlichen) Verbrauchverschiebungen bewegt werden sollen. Erste Resultate zeigen, dass eine vollständige Automatisierung
+der Hausstromtechnik eine Veränderung bei den Kundinnen und Kunden hervorruft. Die Studie betrifft Kundinnen und Kunden, die PV-Anlagen, Batterien, Wärmepumpen oder sonstige automatisch
+
+Seite 3/4
+
+Regierungsrat des Kantons Basel-Stadt
+
+steuerbaren Verbraucher haben. Dies ist bislang nur ein sehr kleiner Anteil der Netzanschlussnehmer.
+Ebenfalls untersucht die IWB, welches Optimierungspotential sich im Sinne von geringeren Infrastrukturaufwänden bietet, wenn der Strombezug aus dem übergeordneten Swissgrid-Netz (Höchstspannungsnetz) lastbezogen, unter Vermeidung von Leistungsspitzen gesteuert wird. Bereits heute
+bestehen für leistungsgemessene (grosse) Kundinnen und Kunden tarifarische Anreize Leistungsspitzen zu vermeiden. Um ähnliches in der Breite aller Kundinnen und Kunden zu erreichen, müsste
+ein Leistungstarif als Basistarif geschaffen werden. Voraussetzung wäre, dass diese alle Kundinnen
+und Kunden auf Basis einer Leistungsmessung entsprechend abgerechnet werden können. Momentan bietet die IWB Kunden ohne Leistungsmessung einen Wahltarif (IWB Switch) an, bei dem der
+Strombezug in den Stunden mit Netz-Höchstlast (11.30 Uhr bis 13.30 Uhr und 17.00 Uhr bis
+19.00 Uhr) teuer ist. Nach dem gegenwärtigen Stand der Arbeiten sind entsprechende Tarifanpassungen im Horizont der kommenden zwei Jahre möglich.
+Denkbar ist auch, für Endkundinnen und -kunden mit geringem Bezug einen Arbeitstarif mit mehreren
+Stufen zu schaffen, etwa mit einer dritten Tarifstufe zu den Höchstlastzeiten sein (Mittagszeit, frühe
+Abendstunden; heute nur Hochtarif und Nebentarif). Je differenzierter die Lastverteilung berücksichtigt wird, desto komplexer wird allerdings das Tarifmodell und umso grösser der Umsetzungsaufwand. Für eine breite Einführung erscheint daher ein einfaches Modell als zielführend.
+Insgesamt sieht die IWB den Fokus auf der Dynamisierung der Netztarife. Sie sieht vor, entsprechende last- resp. leistungsbezogene Tarifelemente einzuführen, so dass der Netzbezug aus dem
+Swissgrid-Netz optimiert wird.
+
+3.
+
+Fazit
+
+Die Entwicklungen der Rahmenbedingungen im Bereich der Stromversorgung decken sich mit der
+Stossrichtung des vorliegenden Anzugs. Die IWB ist bereits daran, Modelle für eine Dynamisierung
+der Netznutzungsentgelte im kantonalen Strom-Verteilnetz zu entwickeln. Geprüft werden muss, wie
+weit dafür die rechtlichen Grundlagen im IWB-Gesetz anzupassen sind. Was die Flexibilisierung und
+die Frage von Wahltarifen im Bereich Medium angeht, bleibt abzuwarten, wie die bei einer Bestätigung des Stromabkommens mit der EU anstehende volle Strommarktöffnung umgesetzt wird. Ein
+isoliertes Vorgehen in diesem Bereich bereits jetzt nur für den Bereich des Kantons Basel-Stadt ist
+nicht zielführend.
+Vor diesem Hintergrund sind derzeit noch keine abschliessenden Aussagen zu den Fragen des Anzugs möglich. Der Regierungsrat sieht daher vor, erneut zum vorliegenden Anzug zu berichten.
+
+4.
+
+Antrag
+
+Auf Grund der vorstehenden Ausführungen beantragen wir, den Anzug Daniel Sägesser und Konsorten betreffend Wahltarife mit dynamischen Energie- und Netznutzungspreisen für flexible elektrische Lasten stehen zu lassen.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Dr. Conradin Cramer
+Regierungspräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Seite 4/4
+
+

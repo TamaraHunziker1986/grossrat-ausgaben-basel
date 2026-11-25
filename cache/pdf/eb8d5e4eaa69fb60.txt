@@ -1,0 +1,138 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+22.5038.02
+
+FD/P225038
+Basel, 13. März 2024
+Regierungsratsbeschluss vom 12. März 2024
+
+Anzug Heidi Mück und Konsorten betreffend Besteuerung der Einnahmen aus Einspeisevergütungen von Photovoltaik-Kleinanlagen
+und Netzentgelt
+Der Grosse Rat hat an seiner Sitzung vom 23. März 2022 den nachstehenden Anzug Heidi Mück
+und Konsorten dem Regierungsrat zum Bericht überwiesen:
+"Der Kanton Basel-Stadt hat sich zum Ziel gesetzt, das Klima zu schützen. Dieses Ziel soll unter anderen erreicht werden, indem die Energieeffizienz gesteigert und von fossilen Energieträgern wie Öl
+und Gas auf erneuerbare Energien umgestiegen wird. Die IWB ermuntern Hausbesitzer*innen, Solaranlagen zu installieren und sichern auf ihrer Webseite umfassende Unterstützung zu.
+Von Hausbesitzer*innen, die auf ihrem Hausdach schon eine Solaranlage montiert haben, war jedoch
+zu erfahren, dass die Steuerverwaltung Basel-Stadt per Steuererklärung für das Jahr 2020 die Besteuerungspraxis bezüglich der Einnahmen aus Einspeisevergütungen aus Photovoltaikanlagen geändert hat. Neu müssen die Einnahmen aus Einspeisevergütungen für Photovoltaikanlagen unter „übrige Einkünfte“ aufgeführt und versteuert werden.
+Die Steuerbehörde begründet die Änderung der Besteuerungspraxis mit einem Bundesgerichtsurteil
+vom 16. September 2019 (2C_510/2017 bzw. 2C_511/2017) und nennt als gesetzliche Grundlage für
+diese Besteuerung die sog. Einkommensgeneralklausel, die sich für das kantonale Recht in § 17 des
+Gesetzes über die direkten Steuern (StG) vom 12. April 2000 und für das Bundesrecht in Art. 16 des
+Bundesgesetzes über die direkte Bundessteuer (DBG) vom 14. Dezember 1990 findet.
+Diese Änderung der Besteuerung von Solaranlagen hat verschiedene negative Auswirkungen: Die
+Besitzer*innen von Solaranlagen müssen höhere Steuern zahlen, was die Amortisationszeit ihrer Photovoltaikanlagen verlängert.
+Zudem erheben die IWB offenbar auf die Nutzung der Photovoltaikanlage ein Entgelt für die Netznutzung in nicht unerheblicher Höhe.
+Aufgrund der Besteuerung und der Netznutzungsentgelte büsst die Erstellung von Solaranlagen somit
+für Privatpersonen an Attraktivität ein, denn Steuer und Entgelt reduzieren die Rentabilität der Anlage
+merklich. Diese Tatsache widerspricht nicht nur den Zusicherungen in Bezug auf die Rentabilität, sondern auch dem Klimaschutz, einem von der Regierung selbst formulierten Schwerpunkt im Legislaturplan 2021-2025.
+Die Unterzeichnenden bitten deshalb den Regierungsrat zu prüfen und zu berichten
+- wie viele Personen von dieser Änderung der Besteuerungspraxis betroffen sind
+- wie hoch die zusätzlichen Einnahmen aufgrund der Änderung der Besteuerungspraxis für den Kanton Basel-Stadt sind
+- welche Möglichkeiten es gibt, die Einspeisevergütung weiterhin steuerfrei zu belassen, allenfalls
+beschränkt für Kleinanlagen (bis 10 KW Peak)
+
+Den Mitgliedern des Grossen Rates des Kantons Basel-Stadt zugestellt am 15. März 2024.
+
+Seite 1/4
+
+Regierungsrat des Kantons Basel-Stadt
+
+- wie hoch die Entgelte für die Netznutzung, die auf Photovoltaikanlagen erhoben werden, im
+Einzelnen und gesamthaft sind
+- ob die generierten Mehreinnahmen auf anderem Wege den Steuer- und Entgeltpflichtigen wieder rückvergütet werden können
+Heidi Mück, Andreas Zappalà, Jeremy Stephenson, Luca Urgese, Karin Sartorius, Beatrice Messerli, Beatrice Isler, Oliver Thommen, Brigitte Gysin, Lorenz Amiet, Erich Bucher, Michael Hug,
+Beat K. Schaller, Joël Thüring, David Wüest-Rudin, Jérôme Thiriet, Edibe Gölgeli, Johannes Sieber, Harald Friedl, Daniel Hettich, Christoph Hochuli, Franziska Roth, Catherine Alioth"
+
+Wir berichten zu diesem Anzug wie folgt:
+
+1.
+
+Praxisänderung der Steuerverwaltung
+
+Nach der ursprünglichen Praxis der Steuerverwaltung wurden Entschädigungen aus kostendeckender Einspeisevergütung (KEV) resp. Direktvermarktung des Stroms oder durch Überlassung
+von Liegenschaftsteilen für den Betrieb einer Solaranlage in der Regel als steuerbares Einkommen
+aus unbeweglichem Vermögen qualifiziert.
+Gemäss dem im Anzug zitierten Bundesgerichtsentscheid stellen KEV steuerrechtlich nicht Ertrag
+aus unbeweglichem Vermögen, sondern steuerbares Einkommen nach der Einkommensgeneralklausel dar. Deshalb werden Einspeisevergütungen im nicht kommerziellen Bereich nach der
+neuen Praxis der Steuerverwaltung als übriges Einkommen am Ort der gelegenen Sache besteuert. An der grundsätzlichen Steuerbarkeit entsprechender Einkünfte hat sich nichts geändert.
+Diese Praxis entspricht der Analyse der Schweizerischen Steuerkonferenz (SSK) zur steuerrechtlichen Qualifikation von Investitionen in umweltschonende Technologien wie Photovoltaikanlagen
+vom 27. August 2020, wonach Einkünfte bei nicht kommerzieller Stromerzeugung, wie etwa Entschädigungen aus Einspeisevergütung, Einmalvergütungen oder Direktvermarktung, steuerbares
+Einkommen darstellten. In jedem Fall steuerbar sei der tatsächlich ins Netz eingespeiste Strom,
+der vom Netzbetreiber im Rahmen der KEV vergütet werde.
+
+2.
+
+Position des Regierungsrates
+
+1.
+
+Wie viele Personen [sind] von dieser Änderung der Besteuerungspraxis betroffen?
+
+Betroffen sind diejenigen natürlichen Personen, die aus einer im Privatvermögen gehaltenen Photovoltaikanlage mehr Strom erzeugen, als sie für ihren Eigenverbrauch benötigen und diesen Überschuss ins Netz einspeisen. Nur wer mehr Strom erzeugt, als er für den Eigenbedarf selber verbraucht oder diesen in einem Batteriespeicher speichern kann, erhält eine Entschädigung, die er
+einspeisen kann und zu versteuern hat. Soweit die Photovoltaikanlage vollständig der Eigenbedarfsdeckung dient, fallen keine steuerbaren Erträge an.
+Im Kanton Basel-Stadt gibt es laut Auskunft der Industriellen Werke Basel (IWB) rund 1870 Photovoltaikanlagen, die Strom einspeisen, die juristischen oder natürlichen Personen gehören (Stand
+Juni 2023). Nicht alle dieser 1870 Photovoltaikanlagen werden im Privatvermögen gehalten. Nicht
+erhoben werden können diejenigen Photovoltaikanlagen, die keinen Strom ins Netz einspeisen und
+nur für den Eigenbedarf Strom produzieren.
+
+Seite 2/4
+
+Regierungsrat des Kantons Basel-Stadt
+
+2.
+
+Wie hoch [sind] die zusätzlichen Einnahmen aufgrund der Änderung der Besteuerungspraxis
+für den Kanton Basel-Stadt?
+
+Die Steuerverwaltung besteuerte den überschüssigen eingespeisten Solarstrom bereits vor dem
+im Anzug zitierten Bundesgerichtsentscheid (vgl. dazu Ziffer 1, 2. Abschnitt). An den Steuereinnahmen hat sich damit grundsätzlich nichts geändert.
+3.
+
+Welche Möglichkeiten gibt [es], die Einspeisevergütung weiterhin steuerfrei zu belassen,
+allenfalls beschränkt für Kleinanlagen (bis 10 KW Peak)?
+
+Einspeisevergütungen wurden im Kanton Basel-Stadt bereits bisher besteuert.
+Das Steuerharmonisierungsgesetz bestimmt die von den Kantonen zu erhebenden direkten Steuern und legt die steuerbaren Einkünfte zwingend fest. Aufgrund der sog. Einkommensgeneralklausel sind sämtliche Einkünfte steuerbar, mit Ausnahme derjenigen, welche explizit von der Einkommenssteuer befreit sind. Erträge aus Photovoltaikanlagen zählen nicht zu den steuerbefreiten
+Ausnahmen und sind damit als Einkommen zu versteuern. Weder das Steuerharmonisierungsgesetz noch das Bundesgesetz über die direkte Bundessteuer kennen für Entschädigungen aus Solarstromerzeugung Steuerfreigrenzen oder Steuerfreibeträge. Diese Einschätzung wird durch den
+im Anzug zitierten Bundesgerichtsentscheid und die Analyse der SSK bestätigt.
+Damit besteht für den Kanton von Bundesrechts wegen kein Spielraum dafür, Einkünfte aus Photovoltaikanlagen bzw. Teile davon unbesteuert zu lassen. Basel-Stadt kennt deshalb keine Bagatellfreigrenze. Für eine solche bräuchte es eine bundesrechtliche Grundlage im Steuerharmonisierungsgesetz und im Bundesgesetz über die direkte Bundessteuer.
+4.
+
+Wie hoch [sind] die Entgelte für die Netznutzung, die auf Photovoltaikanlagen erhoben werden, im Einzelnen und gesamthaft?
+
+Die IWB verrechnen keine Netznutzung auf Einspeisungen von Photovoltaikanlagen. Speist jemand Solarstrom ein, zahlt er nichts für die Netznutzung. In Basel-Stadt wird das Netz zu 100 Prozent von den IWB verwaltet. Wer dagegen Strom bezieht, bezahlt für die Netznutzung.
+5.
+
+[Können] die generierten Mehreinnahmen auf anderem Wege den Steuer- und Entgeltpflichtigen wieder rückvergütet werden?
+
+Da durch die Änderung der Besteuerungspraxis keine Steuermehreinnahmen anfallen, besteht
+diesbezüglich kein Substrat für eine Rückvergütung. Eine generelle Rückvergütung der Steuereinnahmen aus der Einspeisevergütung hält der Regierungsrat nicht für zielführend. Bereits heute
+unterstützt der Bund den Bau von Photovoltaik-Anlagen. Im Kanton Basel-Stadt erhalten Liegenschaftseigentümerinnen und -eigentümer im Rahmen der Aktion «Solarkraftwerk Basel» ausserdem zusätzliche Förderbeiträge, wenn sie eine energetische Dach- oder Fassadensanierung mit
+der Installation einer Photovoltaikanlage kombinieren. Umfassendere Fördermassnahmen sind im
+Rahmen der «Solaroffensive» geplant. Schliesslich können die Investitionen in Photovoltaikanlagen bei bestehenden Gebäuden in der Regel zu 100 Prozent als Liegenschaftsunterhaltskosten
+vom steuerbaren Einkommen in Abzug gebracht werden.
+
+Seite 3/4
+
+Regierungsrat des Kantons Basel-Stadt
+
+3.
+
+Antrag
+
+Aufgrund dieses Berichts beantragen wir, den Anzug Heidi Mück und Konsorten betreffend Besteuerung der Einnahmen aus Einspeisevergütungen von Photovoltaik-Kleinanlagen und Netzentgelt
+abzuschreiben.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Lukas Engelberger
+Vizepräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Seite 4/4
+
+

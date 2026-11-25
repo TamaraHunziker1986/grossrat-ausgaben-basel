@@ -1,0 +1,183 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+23.5513.02
+
+WSU/P235513
+Basel, 3. Dezember 2025
+Regierungsratsbeschluss vom 2. Dezember 2025
+
+Anzug Daniel Sägesser und Konsorten betreffend Roadmap
+Lastoptimierung und Energiespeicherung
+Der Grosse Rat hat an seiner Sitzung vom 15. November 2023 den nachstehenden Anzug Daniel Sägesser dem Regierungsrat zur Stellungnahme überwiesen:
+«Noch steht Basel-Stadt erst am Anfang beim Ausbau der Photovoltaik. Gemäss der Website
+www.pvpower.ch.welche vom Verband unabhängiger Energieerzeuger VESE betrieben wird und sich
+auf OpenData des Bundes abstützt, waren im April 2023 in Basel-Stadt PV-Anlagen mit einer Leistung
+von knapp 38 MWp am Netz, was erst 4.3% des gesamten Potentials auf Basels Dächern und
+Fassaden entspricht. Dies und der Umstand, dass Basel-Stadt eine für städtische Regionen typische
+Stromverbrauchskurve mit der Hauptlast während des Tages hat, führt dazu, dass es wohl noch
+mehrere Jahre dauert, bis durch den weiteren Ausbau der Photovoltaik ein unmittelbarer Bedarf an
+Lastmanagement und Energiespeicherung entsteht. Es ist jedoch denkbar, dass es für Basel-Stadt
+bereits früher opportun ist, Lastmanagement (z.B. «Load Shifting», also die gezielte Verschiebung von
+Stromverbrauch flexibler Verbraucher in Zeiten von hohem Stromangebot und guter Verfügbarkeit der
+Stromnetzkapazität) zu betreiben und zusätzlich Energie auf Kantonsgebiet zu speichern. Dies aus
+verschiedenen Gründen z.B.:
+-
+
+Um Netzausbau und Netzkosten zu vermeiden.
+Um von günstigen Strom-Marktpreisen zu profitieren und so die Energiekosten im Kanton zu
+senken.
+Um zu vermeiden, dass z.B. bei hohem PV-Ertrag in Zentral-Europa und entsprechend tiefen
+Börsenstrompreisen, Stromerträge aus IWB-Laufwasserkraftwerken zu sehr tiefen Preisen am
+Markt verkauft werden müssen oder gar die Turbinierung reduziert oder eingestellt werden muss,
+was indirekt die mittleren Gestehungskosten der Grundversorgung der IWB erhöhen könnte.
+
+Ab wann Lastmanagement bzw. Energiespeicherung ökonomisch Sinn macht, hängt allerdings nicht
+nur vom Mehrwert der durch das Lastmanagement bzw. Speicherung geschaffen wird, oder den
+dadurch vermiedenen Kosten ab, sondern auch von den Investitions- und Betriebskosten für das dafür
+erforderliche System selbst. Je nach Technologie und Anwendung, sind diese Kosten sehr
+unterschiedlich und haben unterschiedliche weitere Kostensenkungspotentiale und Lernkurven.
+Sowohl die Entwicklung verschiedener Technologien, als auch deren zunehmende Anwendung
+entwickeln sich rasant, was für die rechtzeitige Bereitstellung guter Rahmenbedingungen eine
+Herausforderung sein kann. Im Sinne einer vorausschauenden Planung und um Entwicklungen
+möglichst früh zu antizipieren, bitten die Unterzeichnenden den Regierungsrat zu prüfen und zu
+berichten:
+
+Publiziert am 5. Dezember 2025 auf: grosserrat.bs.ch
+
+Seite 1/4
+
+Regierungsrat des Kantons Basel-Stadt
+
+1.
+
+Ob er die Ausarbeitung einer "Roadmap Lastoptimierung und Energiespeicherung" in Form
+eines Ratschlages angehen möchte. Ein solcher Ratschlag könnte Auskunft darüber geben:
+1.1.
+
+1.2.
+
+1.3.
+1.4.
+1.5.
+
+2.
+
+Mit welcher Entwicklung an Bedarf und Opportunitäten für Lastmanagement und
+Energiespeicherung im Kanton Basel-Stadt über einen geeigneten Betrachtungszeitraum zu rechnen ist. Falls nötig und zielführend sind dabei verschiedene Szenarien
+zu untersuchen.
+Welche Potentiale und Opportunitäten für den Kanton Basel-Stadt bei folgenden
+Technologien und Anwendungen bestehen:
+1.2.1. Lastmanagement von:
+1.2.1.1. Ladestationen batterieelektrischer Fahrzeuge aller Art
+1.2.1.2. Wärmepumpen-Anlagen aller Art
+1.2.1.3. Gewerbliche sowie industrielle Anlagen aller Art
+1.2.1.4. «Power-to-X»-Anlagen aller Art
+1.2.2. Energiespeicher wie:
+1.2.2.1. Stationäre Batteriespeicher aller Art
+1.2.2.2. Bidirektionale Nutzung von Traktionsbatterien von Elektrofahrzeugen
+aller Art («Vehicle-to-Grid»)
+1.2.2.3. Thermische Speicher aller Art (einschliesslich (aber nicht
+ausschliesslich) Wärmespeicher von Wärmepumpen-Anlagen, deren
+Kapazität grösser ausgelegt wird als für deren übliche Pufferfunktion
+nötig)
+1.2.2.4. Speicher aller Art aus gewerblichen sowie industriellen Anlagen aller
+Art, deren Kapazität grösser ausgelegt wird als für deren übliche
+Anwendung nötig (z.B. Prozess-Druckluftspeicher etc.)
+1.2.2.5. Speicher von «Power-to-X»-Speichermedien aller Art
+Welche weiteren konkreten Lastmanagement- und Energiespeicher-Technologien
+und -Anwendungen für den Kanton Basel-Stadt nützlich sein könnten.
+Welche regulatorischen Hürden für eine breite und rasche Anwendung der einzelnen
+Technologien bestehen und wie diese bestmöglich abgebaut werden können.
+Ob eine gezielte Förderung der einzelnen Technologien und Anwendungen sinnvoll
+sein könnte, und falls ja, zu welchen Zeitpunkten und/oder unter welchen Bedingungen
+und auf welche Weise diese eingeführt werden soll. Dies aus Sicht der
+Versorgungssicherheit, aber auch aus volkswirtschaftlicher Sicht.
+
+Sollte der Regierungsrat feststellen, dass ein unmittelbarer Bedarf oder Opportunitäten für
+Lastmanagement und/oder Energiespeicherung bestehen und eine gezielte Förderung oder
+andere Massnahmen angezeigt sein, ist er gebeten diese dem Grossen Rat jederzeit
+vorzulegen.
+
+Daniel Sägesser David Wüest-Rudin, Jean-Luc Perret, Rene Brigger, Melanie Nussbaumer,
+Michela Seggiani, Salome Bessenich, Beda Baumgartner, Brigitte Kühne, Nicole Amacher,
+Oliver Thommen, Raffaela Hanauer, Christoph Hochuli, Mahir Kabakci, Leoni Bolz, Daniel Hettich,
+Beat Braun, Daniel Seiler, Luca Urgese, Pascal Pfister, Raphael Fuhrer, Lorenz Amiet»
+
+Wir unterbreiten zu diesem Anzug den folgenden Zwischenbericht.
+
+1.
+
+Anliegen des Vorstosses
+
+Der vorliegende Anzug thematisiert die künftige Gestaltung und Steuerung des Stromverteilnetzes
+im Kanton Basel-Stadt, für das die IWB die zuständige Netzbetreiberin ist. Hintergrund ist die zunehmende Dekarbonisierung und Dezentralisierung in der Stromversorgung, v.a. auch durch den
+beschleunigten Ausbau privater Photovoltaik-Anlagen – in Basel-Stadt im Rahmen der Solarinitiative –, das Anwachsen des Bedarfs an Ladestationen für Elektrofahrzeuge oder die Umstellungen
+im Bereich der Wärmeversorgung auf strombetriebene Wärmepumpen. Diese Entwicklung führt zu
+Veränderungen in der Belastung des Stromnetzes während eines Tages und auch im jahreszeitlichen Verlauf, anderen Verteilungen in den Lastspitzen oder zu anderen räumlichen Verteilungen
+
+Seite 2/4
+
+Regierungsrat des Kantons Basel-Stadt
+
+der Netzlast. Frage ist, wie das Stromverteilnetz unter diesen Bedingungen weiterhin stabil gehalten und entsprechend den geänderten Belastungsmustern gesteuert werden kann. Zum einen geht
+es hierbei darum, welche Veränderungen in der Infrastruktur (Steuerungs-, Energiespeichertechnologien) möglich und notwendig sind, zum anderen aber auch darum, wie das Verhalten der Anschlussnehmenden in Bezug auf Strombezug und Stromeinspeisung beeinflusst werden kann.
+
+2.
+
+Stand
+
+Die im Anzug angesprochenen Themen beschäftigen die IWB intensiv. Die IWB befasst sich fortlaufend mit der Optimierung ihres Stromnetzes. Hierzu gehört auch die Berücksichtigung zukünftiger Last-Anforderungen. Um die Kosten für Betrieb und Unterhalt des Netzes zu optimieren wird
+mittels eines Netz-Modells erarbeitet, an welchen Stellen zu welchem Zeitpunkt Kapazitäts-Engpässe entstehen könnten. Um diese Engpässe zu beseitigen, bezieht die IWB bereits heute Lastmanagement-Steuerungsmöglichkeiten mit ein. Zum einen sind dies Limitierungen bei der Einspeiseleistung und Limitierung des maximalen Bezuges von steuerbaren Lasten, wie bspw. das Laden
+von Fahrzeugbatterien und der Strombezug von Wärmepumpen. Die IWB prüft und entwickelt zudem im gegebenen regulatorischen Rahmen Zulässigkeit Anreizsysteme wie dynamische Tarife,
+um die Netzauslastung und den Einsatz von vorhandenen (Fahrzeug-)Batterien zur Netzoptimierung zu fördern (hierzu siehe auch die Antwort des Regierungsrats zum Anzug Daniel Sägesser
+und Konsorten betreffend Wahltarife mit dynamischen Energie- und Netznutzungspreisen für flexible elektrische Lasten; Nr. 23.5514.02). Generelles Ziel der IWB ist, die Netz(-ausbau)kosten zu
+reduzieren. Die IWB nutzt dabei die Möglichkeiten durch den Einsatz von Speicherungen oder
+durch zusätzliches Schaffen von Speichern, entweder über Tarifgestaltung die Anreize für private
+Lösungen schafft oder wo sinnvoll auch mit eigenen Baumassnahmen.
+So werden bspw. Batteriespeicher heute mit lokalen Schnittstellen ausgestattet, die ein gezieltes
+Laden oder Entladen der Batterie ermöglichen. Teilweise kommen lokale Energiemanagementsysteme zum Einsatz, die eine Optimierung mehrerer Verbraucher und Speicher im übergeordneten
+Sinn ermöglichen. Dies umfasst in der Regel auch eine Vorausberechnung für die nächsten 24h- 48 h. So kann gerade in Engpasssituationen im Netz durch die lokale Steuerung ein Ausgleich über einen längeren Zeitraum bewerkstelligt werden.
+Aktuell existieren noch wenig Anreize für Endkunden ein lokales Energiemanagementsystem zu
+installieren. Vor dem Hintergrund der Basler Solaroffensive wird geprüft, wie Anreize für solche
+lokale Energiemanagementsysteme geschaffen werden können, damit ein effektiver, netzdienlicher Einsatz möglich ist. Für die Umsetzung entwickelt die IWB ein Netzlast-Berechnungstool, mit
+dem gebietsscharfe Prognosen zu den zu erwartenden Lastentwicklung ermöglicht werden sollen.
+
+3.
+
+Fazit
+
+Die laufende Transformation in der Energiewirtschaft wird auch in den kommenden Jahren noch
+diverse Veränderungen in der Art und Weise des Stromverbrauchs bewirken. Die IWB beobachtet
+die Entwicklungen sehr intensiv und bereitet sich aktiv auf die anstehenden Änderungen vor, um
+die Auswirkungen auf das Stromverteilnetz und die jeweiligen Lastsituation in verschiedenen Netzteilen zu verstehen. Zum aktuellen Zeitpunkt ist noch nicht vollumfänglich klar, welche Optimierungsmassnahmen abzuleiten sind und es ist offen, welcher Bedarf an technologischen und regulatorischen / tarifarischen Lösung tatsächlich besteht.
+Im Zusammenhang mit der Solarinitiative hat der Regierungsrat angekündigt, dass er dem Grossen
+Rat nach Vorliegen der geplanten Machbarkeitsstudie der IWB dem Grossen Rat eine Folgevorlage
+unterbreiten wird. Darin werden auch die Fragestellungen und Anliegen des vorliegenden Anzugs
+aufgenommen werden.
+
+Seite 3/4
+
+Regierungsrat des Kantons Basel-Stadt
+
+Vor diesem Hintergrund ist es für den Regierungsrat noch nicht möglich, abschliessend zu beurteilen, ob ein Ratschlag im Sinne des Anzugs erforderlich ist. Die Analysen der IWB werden zeigen,
+inwieweit die Entwicklung von einzelnen Energiemanagementsystemen hin zu einem übergeordneten systemischen und netzdienlichen Ansatz durch kantonale Massnahmen unterstützt oder gefördert werden müssen.
+
+4.
+
+Antrag
+
+Auf Grund der vorstehenden Ausführungen beantragen wir, den Anzug Daniel Sägesser und Konsorten betreffend Roadmap Lastoptimierung und Energiespeicherung stehen zu lassen.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Dr. Conradin Cramer
+Regierungspräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Seite 4/4
+
+

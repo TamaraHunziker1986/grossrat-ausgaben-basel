@@ -1,0 +1,1643 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+25.0711.01
+23.5233.02
+
+JSD/P250711, P235233
+Basel, 28. Mai 2025
+Regierungsratsbeschluss vom 27. Mai 2025
+
+Ratschlag
+betreffend
+
+Realisierung eines Erdbebensimulators im neuen Naturhistorischen Museum Basel
+sowie
+
+Bericht zum Anzug Jo Vergeat und Konsorten betreffend «Erdbebenübungen Basel-Stadt»
+
+Den Mitgliedern des Grossen Rates des Kantons Basel-Stadt zugestellt am 13. Juni 2025.
+
+Seite 1/16
+
+Regierungsrat des Kantons Basel-Stadt
+
+Inhalt
+1.
+
+Begehren .................................................................................................................... 3
+
+2.
+
+Hintergrund ................................................................................................................ 3
+2.1
+2.2
+
+2.3
+
+2.4
+2.5
+
+3.
+
+Ausgangslage .......................................................................................................................... 3
+Sensibilisierung für Katastrophenvorsorge – eine Herausforderung .......................................... 4
+2.2.1 Stellenwert und Ziel der Sensibilisierung ....................................................................... 4
+2.2.2 Herausforderungen in der Sensibilisierung .................................................................... 4
+2.2.3 Empfehlungen für eine wirksame Sensibilisierung ......................................................... 5
+Vergleich von verschiedenen Sensibilisierungsmassnahmen .................................................... 5
+2.3.1 ShakeOut-Day .............................................................................................................. 5
+2.3.2 Das Projekt seismo@school ......................................................................................... 6
+2.3.3 Informationskampagnen und traditionelle Bildungsmassnahmen ................................... 6
+2.3.4 Erdbebensimulator........................................................................................................ 6
+Schlussfolgerung ..................................................................................................................... 7
+Bestehende ähnliche Projekte .................................................................................................. 8
+2.5.1 Museum focusTerra an der ETH Zürich......................................................................... 8
+2.5.2 Pädagogisches Zentrum für Erdbebenprävention in Sion .............................................. 8
+
+Projektbeschreibung ................................................................................................. 9
+3.1
+3.2
+3.3
+3.4
+3.5
+
+Projektidee ............................................................................................................................... 9
+Ziele und Zielgruppen............................................................................................................... 9
+Machbarkeit und Umsetzung .................................................................................................... 9
+Betrieb ....................................................................................................................................10
+Integration in Dauerausstellungsformat ...................................................................................10
+
+4.
+
+Projektorganisation für den Bau ............................................................................ 11
+
+5.
+
+Finanzielle Auswirkungen ...................................................................................... 12
+
+6.
+
+Anzug Jo Vergeat und Konsorten betreffend Erdbebenübungen Basel-Stadt .. 13
+
+7.
+
+Prüfungen ................................................................................................................ 15
+
+8.
+
+Antrag ....................................................................................................................... 15
+
+Seite 2/16
+
+Regierungsrat des Kantons Basel-Stadt
+
+1.
+
+Begehren
+
+Mit diesem Ratschlag werden einmalige neue Ausgaben zulasten der Investitionsrechnung in Höhe
+von 5'571'000 Franken im Jahr 2025 für die Realisierung eines Erdbebensimulators sowie jährlich
+wiederkehrende neue Ausgaben zulasten der Erfolgsrechnung in Höhe von 240'000 Franken für
+den Unterhalt und Betrieb ab dem Jahr 2029 beantragt.
+
+2.
+
+Hintergrund
+
+2.1
+
+Ausgangslage
+
+Der Kanton Basel-Stadt gehört zu den Gebieten der Schweiz mit erhöhter Erdbebengefährdung
+und verzeichnet aufgrund der hohen Bevölkerungs- und Wertedichte schweizweit das höchste Erdbebenrisiko. Ohne eine geeignete Erdbebenprävention und -vorsorge würde ein Ereignis wie das
+Basler Erdbeben im Jahr 1356 verheerende Folgen haben. Neuste Zahlen aus dem kantonalen
+Erdbebenrisikomodell zeigen, dass bei einer Wiederholung besagten Erdbebens mit einer Magnitude von 6.6 allein im Kanton Basel-Stadt mit 1'700 Todesopfern, 13'000 Verletzten und
+90'000 Schutzsuchenden zu rechnen wäre. Mehr als 70% der Gebäude würden voraussichtlich
+mittlere bis schwere Schäden erleiden, mit einer geschätzten Gesamtschadenssumme von 17 Milliarden Franken. Auch bei einem weniger starken Erdbeben der Magnitude 5.8 wären die Folgen
+mit 240 Toten, 2'100 Verletzten und über 30'000 Schutzsuchenden immer noch verheerend. Diese
+Zahlen bestätigen die Schätzungen aus dem nationalen Erdbebenrisikomodell (siehe Beilage 2).
+Da sich die Eintrittswahrscheinlichkeit und die Intensität eines Erdbebens weder vorhersagen noch
+beeinflussen lassen, müssen vorsorgliche Massnahmen darauf abzielen, die Verletzbarkeit der Gebäude und Infrastrukturen zu verringern, das Risikobewusstsein und die Widerstands- und Anpassungsfähigkeit der Bevölkerung und der Wirtschaft zu erhöhen, sowie eine schnelle und effektive
+Ereignisbewältigung zu gewährleisten. Bereits im Jahr 1996 nach den Erdbebenkatastrophen von
+Northridge/Kalifornien (1994) und Kobe/Japan (1995) hat der Regierungsrat verschiedene Departemente damit beauftragt, die Erdbebensicherheit zu überprüfen und Vorsorgemassnahmen zu definieren. Seither wurden viele organisatorische oder bauliche Massnahmen eingeleitet und umgesetzt. Mit der Fachstelle Gefahrenprävention im Kantonalen Laboratorium hat der Kanton zudem
+eine eigens für die Koordination der Erdbebenprävention und -vorsorge zuständige Stelle bezeichnet.
+Das kantonale Bau- und Planungsgesetz (BPG; SG 730.100) vom 17. November 1999 verlangt
+das Einhalten der Baunormen zum erdbebengerechten Bauen. Mit der Erdbebenmikrozonierung
+bietet der Kanton Basel-Stadt flächendeckend eine standortspezifische Bemessungsgrundlage an,
+die für die Erdbebeneinwirkung bei Neu- und Umbauten zu verwenden ist. Mit dem sich im Abschluss befindenden Projekt Erdbebenrisikomodell Basel-Stadt werden quantifizierbare Gefahrenund Risikoabschätzungen erstellt, welche die Basis für Katastrophenvorsorge- und Ressourcenplanungen bilden. Zudem kann der Regierungsrat Bauten und Anlagen bezeichnen, die in Notstandsfällen funktionsfähig bleiben müssen und somit erhöhte Anforderungen an die Erdbebensicherheit zu erfüllen haben. Die bezeichneten Bauten und Anlagen werden seit 2004 in periodisch
+revidierten Inventaren erfasst. Der Kanton finanziert weiter den Betrieb von Messstationen durch
+den Schweizerischen Erdbebendienst (SED) und unterstützt damit die Gewährleistung der dichten
+seismischen Überwachung der Region.
+Im Rahmen der Tätigkeiten zur Revision der kantonalen Gefährdungsanalyse sind unter der Leitung der Kantonalen Krisenorganisation Basel-Stadt zudem verschiedene Massnahmen in Erarbeitung, die das Ziel haben, eine wirksame Ereignisbewältigung sicherzustellen. Dazu zählt insbesondere die Koordination und Kooperation im überregionalen und internationalen Netzwerken zur
+Katastrophenhilfe; nicht zuletzt, weil das Erdbebenrisiko die gesamte Region am Oberrhein betrifft
+und ein schweres Erdbebens internationalen Hilfeleistungen erforderlich machen würde.
+
+Seite 3/16
+
+Regierungsrat des Kantons Basel-Stadt
+
+Mit seinen vielfältigen Massnahmen übernimmt der Kanton Basel-Stadt betreffend Erdbebenvorsorge in der Schweiz bereits heute eine Vorreiterrolle. Jedoch besteht Bedarf nach einer Steigerung
+des Risikobewusstseins, der Verfügbarkeit von Informationen über Auswirkungen eines Erdbebens
+sowie lebensrettenden Verhaltensanweisungen an die Bevölkerung.
+Die Massnahmen zur Sensibilisierung der Bevölkerung auf Erdbebenrisiken beschränken sich derzeit auf die punktuelle Verbreitung von Informationen via Notfallflyer und Internet. Entsprechend
+besteht für eine koordinierte und aktive Sensibilisierung der Bevölkerung Nachholbedarf, respektive
+ein nicht ausgeschöpftes Potenzial. Eine stärkere Vermittlung des Erdbebenrisikos und präventiver
+Massnahmen – wie die persönliche Vorsorge – entspricht letztlich auch dem Anliegen des Anzugs
+Jo Vergeat und Konsorten betreffend «Erdbebenübungen Basel-Stadt».
+Mit dem Neubau für das Staatsarchiv und das Naturhistorische Museum Basel bietet sich die einmalige Gelegenheit, einen Erdbebensimulator als Teil einer neukonzipierten Dauerausstellung zu
+realisieren. Ein Erdbebensimulator ist ein geeignetes Instrument, um die Bevölkerung des Kantons
+Basel-Stadt und insbesondere Schulkinder auf attraktive Weise für das Erdbebenrisiko zu sensibilisieren, das Risikobewusstsein zu stärken sowie elementares Wissen zum richtigen Verhalten
+nachhaltig zu vermitteln.
+
+2.2
+
+Sensibilisierung für Katastrophenvorsorge – eine Herausforderung
+
+2.2.1
+
+Stellenwert und Ziel der Sensibilisierung
+
+Erdbeben stellen in bebauten Gebieten durch einstürzende Gebäude, herabfallende Dachziegel
+und umstürzendes Mobiliar eine grosse Gefahr dar. Durch korrektes Verhalten während und nach
+einem Erdbeben können persönliche Risiken minimiert und lebensrettende Massnahmen unterstützt werden. Sensibilisierte Personen reagieren im Katastrophenfall überlegter und sind besser
+in der Lage, sich selbst und anderen zu helfen. Dadurch sinkt wiederum die Belastung für Einsatzkräfte, was besonders in den ersten Stunden nach einem Erdbeben entscheidend ist. Zudem ist
+eine sensibilisierte Bevölkerung eher bereit, präventive Schutzmassnahmen zu unterstützen oder
+selbst umzusetzen. Dazu gehören unter anderem das Anlegen eines persönlichen Notfallplans, der
+Abschluss eines ausreichenden Versicherungsschutzes oder die sichere Gestaltung der eigenen
+Wohnumgebung.
+Ein besonderes Augenmerk liegt auf dem erdbebengerechten Bauen, da dies die wichtigste präventive Schutzmassnahme darstellt. Je besser die Bevölkerung über potentielle Auswirkungen eines Erdbebens informiert ist und aus eigener Initiative in Schutzmassnahmen investiert, desto besser ist der Kanton auf unvorhersehbare Ereignisse vorbereitet. Daher hat der Kanton ein starkes
+Interesse daran, die Bürgerinnen und Bürger auf das Erdbebenrisiko aufmerksam zu machen und
+ihre Selbstschutzkompetenzen zu stärken.
+2.2.2
+
+Herausforderungen in der Sensibilisierung
+
+Gemäss wissenschaftlichen Studien1 liegen die Herausforderungen für eine wirksame Sensibilisierung in mehreren Bereichen. So haben viele Menschen Schwierigkeiten, aus komplexen Informationen über Erdbebenrisiken konkrete Handlungen abzuleiten. Traditionelle Ein-Weg-Kommunikation und die alleinige Zurverfügungstellung von Information reichen selten aus, um Verhaltensänderungen zu bewirken. Oft neigen Menschen dazu, das Risiko zu unterschätzen, sich auf falsche
+Sicherheitsannahmen zu verlassen oder Informationen, die nicht mit ihren bestehenden Überzeugungen übereinstimmen, zu ignorieren oder falsch zu interpretieren. Selbst wenn das Erdbebenrisiko allgemein bewusst ist, führt dies nicht zwangsläufig zu einer besseren Vorbereitung. Mangelt
+es an persönlicher Betroffenheit, besteht die Tendenz, Vorsorgemassnahmen an staatliche Organisationen zu delegieren.
+1 Marti, M. (2020): Understanding earthquake communication to improve preparedness and resilience. PhD Thesis, ETH Zürich, Zürich, doi: 10.3929/ethz-
+
+b-000417933 – und darin zitierte Quellen.
+
+Seite 4/16
+
+Regierungsrat des Kantons Basel-Stadt
+
+Die Region Basel hat zwar geschichtsträchtige Schadenbeben erlebt, in jüngerer Vergangenheit
+aber keine grösseren Erdbeben verzeichnet. Es existiert in der Region deshalb zwar ein historisches Gedächtnis für Erdbebenereignisse, aber es fehlt die Erfahrung eines kollektiv erlebten Ereignisses. Dieser Umstand erfordert intensive Bemühungen, um das Bewusstsein für die Risiken
+zu schärfen.
+2.2.3
+
+Empfehlungen für eine wirksame Sensibilisierung
+
+Auf Basis der identifizierten Herausforderungen können folgende Empfehlungen abgeleitet werden,
+die bei der Wahl und bei der Ausgestaltung einer Sensibilisierungsmassnahme berücksichtigt werden sollten:
+– Kommunikation in beide Richtungen: Interaktive, explorative und inklusive Formate und Dialoge sind gegenüber rein passiver, unidirektionaler Informationsvermittlung zu bevorzugen.
+– Personalisierte Botschaften: Informationen sind an die spezifischen Bedürfnisse, die individuellen Erfahrungen und an den sozialen Kontext der Zielgruppen anzupassen.
+– Erlebnisbasierte Vermittlung: Die relevanten Inhalte sind erlebbar zu machen, sodass Informationen auf Basis emotionaler Eindrücke und der persönlichen Betroffenheit vermittelt werden
+können.
+– Verständliche und relevante Inhalte: Inhalte sind in verständlicher und anschaulicher Form zu
+präsentieren. Komplexe Vermittlungsinhalte sind durch die Nutzung von Vergleichen und Visualisierungen zu vereinfachen.
+– Dialog und Austausch: Inhalte sind im Kontext eines sozialen Umfelds zu behandeln, um Reflexion und Resonanz zu ermöglichen. Der Dialog und der Austausch von Erfahrungen mit Peers
+sind zu fördern.
+– Vertrauenswürdige Quellen und Kanäle: Zur Verbreitung von Informationen und Inhalten sind
+seriöse Quellen von angesehenen Institutionen und vertrauenswürdige Kanäle zu nutzen.
+– Langfristiges Angebot und regelmässige Wiederholung: Um das Bewusstsein aufrechtzuerhalten, sind Inhalte und Informationen langfristig und kontinuierlich anzubieten sowie Botschaften regelmässig zu wiederholen.
+– Ressourcen: Um die Langfristigkeit der Massnahmen und damit deren Effektivität zu gewährleisten, ist die Verfügbarkeit von qualifiziertem Personal und ausreichend finanzieller Mittel sicherzustellen.
+
+2.3
+
+Vergleich von verschiedenen Sensibilisierungsmassnahmen
+
+2.3.1
+
+ShakeOut-Day
+
+In stark gefährdeten Regionen wie Kalifornien, Japan oder Neuseeland werden im Rahmen des
+jährlich stattfindenden ShakeOut-Day grossangelegte Erdbebenübungen in Schulen, Unternehmen
+und Behörden durchgeführt. Weltweit beteiligen sich dabei über 50 Millionen Menschen an den
+Übungen.
+Der Hauptvorteil solcher Notfallübungen besteht darin, dass sie praktische Anleitungen zur Selbsthilfe in der alltäglichen Umgebung vermitteln. So bieten sie die Möglichkeit, Abläufe wie Evakuierungen oder die Sicherung von Gebäuden zu üben. Wird die Übung jährlich und grossflächig durchgeführt, werden Verhaltensanweisungen längerfristig gefestigt und das Vertrauen der Bevölkerung
+in ihre eigene Fähigkeit erhöht, im Falle eines Erdbebens angemessen zu reagieren.
+Ein Nachteil solcher Übungen ist jedoch, dass sie durch die teilnehmenden Institutionen selbst
+durchzuführen sind, was ein hohes Mass an Engagement und organisatorischem Aufwand erfordern. Entsprechend stark variiert die Teilnahmebereitschaft. Aufgrund der Seltenheit von schweren
+Erdbeben ist zudem davon auszugehen, dass eine solche Massnahme als nicht verhältnismässig
+empfunden wird und wenig Unterstützung erfährt. Zudem besteht die Gefahr, dass die Teilnehmenden die Übungen nicht ernst genug nehmen oder die Übungen die Komplexität eines realen Erdbebens nicht vollständig abbilden können.
+
+Seite 5/16
+
+Regierungsrat des Kantons Basel-Stadt
+
+2.3.2
+
+Das Projekt seismo@school
+
+Im Rahmen des Projekts seismo@school haben Schulen (Zielgruppe: Gymnasialstufe) die Möglichkeit, einfache und kostengünstige Seismometer zu installieren und an ein gemeinsames Überwachungsnetz anzuschliessen. Die aufgezeichneten Daten können in leicht verständlicher Form
+abgerufen und von den Jugendlichen in Echtzeit verfolgt und ausgewertet werden. So erhalten die
+Schülerinnen und Schülern praxisnahe Einblicke in die Grundlagen der Seismologie.
+Entwickelt wurde das Projekt seismo@school von der Universität Lausanne und der Hochschule
+für angewandte Wissenschaften und Kunst (HES-SO) in Sion. Im Rahmen eines durch den Schweizerischen Nationalfonds finanzierten Projekts zur «Förderung des Erdbebenbewusstseins in der
+Schweiz» wird das Programm nun durch den SED weiterentwickelt. Ziel ist es, seismo@school als
+Schulprogramm auf die ganze Schweiz auszuweiten und so das Wissen über Erdbeben und dessen Vorsorge bei Jugendlichen zu fördern. Im Rahmen des Projekts werden derzeit Schulunterlagen entwickelt, die anschliessend frei zur Verfügung gestellt werden. Zusätzlich zu diesen Unterlagen soll es ab Frühjahrssemester 2025 für Lehrpersonen im Fachbereich Geografie jährlich einen
+Weiterbildungstag geben. Lehrpersonen können sich bei Interesse direkt an das Projektteam der
+ETH Zürich (seismo_at_school@sed.ethz.ch) wenden.
+Mit dem Projekt seismo@school können Wissen zur Seismologie und Inhalte zur Erdbebenprävention und -vorsorge praxisnah, vertieft und nachhaltig vermittelt werden. Das Programm bedingt jedoch eine aktive Integration in den bestehenden Unterricht und die wiederholende Thematisierung
+der Inhalte über einen längeren Zeitraum. Entsprechend erfordert es ein erhöhtes und langfristiges
+Engagement durch die Lehrpersonen.
+2.3.3
+
+Informationskampagnen und traditionelle Bildungsmassnahmen
+
+Informationskampagnen haben eine grosse Reichweite und können mit relativ geringen Kosten
+eine grosse Anzahl von Menschen erreichen und informieren. Entsprechende Flyer, Poster sowie
+Informationen werden der Bevölkerung auf den kantonalen Internetseiten oder den Portalen des
+Bundes (Schweizerischer Erdbebendienst, Bundesamt für Umwelt, Naturgefahrenportal CH) zur
+Verfügung gestellt.
+Darüber hinaus hat der Kanton Basel-Stadt 2016 in Zusammenarbeit mit dem SED im Rahmen
+eines Projekts für Schulen Informationen zum richtigen Verhalten bei Erdbeben erstellt und diese
+als Poster und Wegleitungen an die Volksschulen verteilt. Dabei wurden die Lehrkräfte auf entsprechende weiterführende Lehrmaterialien und die Integration der Vermittlungsinhalte in den Lehrplan 21 aufmerksam gemacht. Die Informationen stehen weiterhin zur Verfügung und sind auf der
+Webseite des Kantonalen Laboratoriums (Fachstelle Gefahrenprävention) abrufbar.
+Der unidirektionale Ansatz, Informationen zur Verfügung zu stellen, ist jedoch mit wenig nachhaltiger Wirkung verbunden. Informationen werden nur passiv aufgenommen und ohne interaktive Elemente bleibt die Sensibilisierung oberflächlich und kurzfristig. Insbesondere im Zusammenhang mit
+seltenen, aber schweren Katastrophenereignissen wie Erdbeben, ist diese Art von Aufklärung alleine wenig effektiv.
+2.3.4
+
+Erdbebensimulator
+
+Ein Erdbebensimulator dient als effektives Sensibilisierungsinstrument, in dem er eine unmittelbare
+und realistische Erfahrung eines Erdbebens ermöglicht. Als einzigartiges Vermittlungsformat können unterschiedliche Erdbeben, deren Hintergründe und Zusammenhänge dargestellt und hautnah
+erlebt werden. Durch die erlebnisbasierte, interaktive und gemeinschaftliche Auseinandersetzung
+mit dem Thema bleibt die Erfahrung in Erinnerung und entfaltet dadurch eine nachhaltige Wirkung.
+
+Seite 6/16
+
+Regierungsrat des Kantons Basel-Stadt
+
+Insgesamt kann ein Erdbebensimulator den Dialog und Austausch über Gefahren und Risiken unter
+Schülerinnen und Schüler sowie in der Bevölkerung fördern. Das Format erlaubt zudem zielgruppenspezifische Angebote für Einsatzorganisationen, Fachpersonen aus Städtebau und Architektur
+oder wirtschaftlichen Unternehmen.
+Das Naturhistorische Museum Basel bietet mit seiner wissenschaftlichen Kompetenz, der Infrastruktur des Neubaus und nicht zuletzt als öffentlicher Bildungsraum den idealen Raum für die
+Realisierung eines Erdbebensimulators. Zwar ist ein Erdbebensimulator im Vergleich mit anderen
+Massnahmen mit höheren Investitionskosten verbunden und benötigt während seiner Laufzeit personelle und finanzielle Ressourcen für den Betrieb und den Unterhalt. In Kombination mit einer
+Dauerausstellung besteht indes ein langfristiges Angebot, in dessen Rahmen weitere Themen der
+Katastrophenprävention und -vorsorge anschaulich beleuchtet und die wichtigsten Inhalte auf spielerische Weise vermittelt werden können.
+
+2.4
+
+Schlussfolgerung
+
+Sowohl ShakeOut-Days als auch das Programm seismo@school sind aufgrund der praxisnahen
+Auseinandersetzung mit dem Thema Erdbeben als wirkvolle Sensibilisierungsinstrumente zu beurteilen. Die Durchführung der entsprechenden Massnahmen erfordert jedoch ein hohes Mass an
+Engagement. Dies kann sich nachteilig auf die Teilnahmebereitschaft resp. die Regelmässigkeit
+der Übungen auswirken. Auch Informationskampagnen sind aufgrund des unidirektionale Ansatzes
+und der vermeintlich als nicht unmittelbar empfundenen Erdbebengefahr mit nur wenig nachhaltiger
+Wirkung verbunden.
+Ein Erdbebensimulator in Kombination mit einer Dauerausstellung kann durch realistische Erfahrungen, interaktive Beteiligung und gezielte Kommunikation hingegen eine tiefere und langfristigere
+Wirkung entfalten. So lassen sich mit dem Erdbebensimulator die in Kapitel 2.2.3 formulierten Empfehlungen folgendermassen umsetzen:
+– Interaktive Inhalte sowie die direkte und moderierte Auseinandersetzung mit dem Thema ermöglichen eine Kommunikation in beide Richtungen.
+– Im Rahmen von zielgruppenspezifischen Führungen werden Informationen und Inhalte bedarfsgerecht angepasst und die Botschaften personalisiert.
+– Durch die realistische und immersive Erfahrung eines Erdbebens können Inhalte erlebnisbasiert vermittelt werden.
+– In Verbindung mit der begleiteten Dauerausstellung können relevante Inhalte verständlich und
+stufengerecht präsentiert werden.
+– Dank moderierter Gruppenbesuchen werden Dialog und Austausch gefördert.
+– Durch die Zusammenarbeit mit dem Naturhistorischen Museum Basel werden die benötigte
+fachliche und didaktische Expertise sichergestellt und vertrauenswürdige Quellen und Kanäle
+genutzt.
+– Durch den Betrieb des Erdbebensimulators im Rahmen einer Dauerausstellung können das Angebot langfristig sichergestellt und die Inhalte breit und kontinuierlich angeboten werden.
+– Der Betrieb durch das Naturhistorische Museum Basel stellt die langfristige Verfügbarkeit von
+qualifiziertem Personal sicher.
+Insgesamt leistet ein in eine Dauerausstellung integrierter Erdbebensimulator einen wichtigen Beitrag zur wirksamen und nachhaltigen Sensibilisierung der Bevölkerung des Kantons Basel-Stadt
+resp. der gesamten Region. Ergänzend dazu bieten Erdbebenübungen an Schulen die thematische
+Auseinandersetzung im Unterricht und traditionelle Informationskampagnen wertvolle Möglichkeiten, das Bewusstsein weiter zu schärfen und die Bevölkerung gezielt zu informieren.
+
+Seite 7/16
+
+Regierungsrat des Kantons Basel-Stadt
+
+2.5
+
+Bestehende ähnliche Projekte
+
+2.5.1
+
+Museum focusTerra an der ETH Zürich
+
+Die ETH Zürich betreibt im Rahmen ihrer erdwissenschaftlichen Ausstellung focusTerra einen Erdbebensimulator. Dieser wurde im Jahr 2006 im Auftrag des Bundesamts für Umwelt und mit der
+Unterstützung der kantonalen Gebäudeversicherung Freiburg sowie der Stiftung für Baudynamik
+und Erdbebeningenieurwesen gebaut. Der Simulator war zuerst Teil einer Wanderausstellung, bevor er 2009 fest in den Räumlichkeiten von focusTerra verbaut wurde. Es handelt sich dabei um
+einen Containerraum, der auf einer beweglichen Plattform, die entlang einer Achse hin und her
+schwingen kann, installiert ist. Der Erdbebensimulator bietet Platz für zehn Personen und ist mit
+beweglichem Mobiliar ausgestattet. Der Besuch ist nur im Rahmen von Führungen, per Vereinbarung oder am Sonntag möglich. Es können verschiedene vorprogrammierte Erdbebenszenarien
+abgespielt werden, wobei Kennzahlen zu den simulierten Erdbeben als auch Informationen zum
+richtigen Verhalten durch die anwesende Fachperson und unterstützt durch eine einfache Frontalprojektion vermittelt werden. Im Vorraum zum Erdbebensimulator werden weitere Präventionsinhalte mittels Poster vermittelt.
+Die langjährige Erfahrung bei focusTerra zeigt, dass der Erdbebensimulator sehr beliebt ist und ein
+wirksames Mittel darstellt, um auf Erdbeben und ihre Folgen aufmerksam zu machen. Um die
+6'000 Personen besuchen den Simulator jährlich, wobei Schulklassen rund die Hälfte davon ausmachen. Die Betreiberin streicht die Vielfalt an Besuchergruppen von Schulklassen bis zu Verantwortlichen für die Krisenbewältigung heraus.
+2.5.2
+
+Pädagogisches Zentrum für Erdbebenprävention in Sion
+
+Der Kanton Wallis weist zusammen mit dem Kanton Basel-Stadt die höchste Erdbebengefährdung
+in der Schweiz auf. Das letzte grosse Erdbeben ereignete sich im Januar 1946 in Sion, forderte
+vier Todesopfer und verursachte Schäden in Millionenhöhe. Entsprechend ergreift der Kanton verschiedene Massnahmen, um das Erdbebenrisiko zu senken und die Folgen für die Bevölkerung
+möglichst klein zu halten.
+Um die Bevölkerung mit der Thematik vertraut zu machen, hat das Departement für Bildung und
+Sicherheit des Kantons Wallis zusammen mit der HES-SO und sowie ETH Zürich 2016 ein Präventionskonzept Erdbeben erarbeitet. In diesem Zusammenhang wurde das Pädagogische Zentrum für Erdbebenprävention (CPPS) ins Leben gerufen. Das Kernstück des Zentrums bildet ein
+5x6 m grosser Erdbebensimulator, der Platz für 16 Personen bietet und Erdbeben bis Magnitude 7
+auf der Richterskala simulieren kann. Damit konnten innerhalb der ersten drei Jahre bereits
+65'000 Besuchende sensibilisiert und zum richtigen Verhalten geschult werden. Gemäss einer uns
+vorliegenden Kostenschätzung entstanden für die Erstanschaffung des Erdbebensimulator Kosten
+in der Grössenordnung von ca. 1,27 Mio. Franken. 2023 wurden der Erdbebensimulator und die
+begleitenden Aktivitäten für 2,6 Mio. Franken modernisiert und das CPPS zügelte an seinen neuen
+Standort auf dem Campus Energypolis der HES-SO in Sion.
+Der Besuch im CPPS gliedert sich in drei Teile. Der erste Bereich umfasst eine interaktive Ausstellung zum Verständnis von Erdbeben und der Plattentektonik. Mittels Experimenten kann das Phänomen Erdbeben auf spielerische Weise entdeckt werden, wobei auch Präventionsinhalte zum erdbebengerechten Bauen oder zur persönlichen Vorsorge vermittelt werden. Der zweite Teil des
+Besuchs findet im Erdbebensimulator statt. Nach einer allgemeinen Einführung, folgt das Simulationserlebnis, wobei echte Erdbeben wie das von L’Aquila im Jahr 2009 erlebbar gemacht werden.
+Die Schulklassen lernen im Rahmen einer realen Erfahrung, wie sie sich im Ernstfall verhalten und
+schützen können und wie man ein Überlebens- und Notfallset zusammenstellt. In einem dritten Teil
+bietet das CPPS ein Erste-Hilfe-Training an.
+
+Seite 8/16
+
+Regierungsrat des Kantons Basel-Stadt
+
+Das CPPS steht in erster Linie den Schulklassen des Kantons Wallis zur Verfügung und soll pro
+Jahr rund 3'000 Schülerinnen und Schüler ein Bewusstsein für das Thema vermitteln. Gemäss der
+Auskunft des CPPS ist der Simulator ausserhalb der Schulferien beinahe vollständig durch Schulklassen ausgelastet. Ein geführter Besuch ist sehr umfassend und dauert ca. 3 Stunden. Das Zentrum steht auf Voranmeldung auch Schulen aus anderen Kantonen sowie privaten Gruppen offen.
+
+3.
+
+Projektbeschreibung
+
+3.1
+
+Projektidee
+
+Der Erdbebensimulator soll im neuen Naturhistorischen Museum Basel realisiert und räumlich in
+eine thematisch begleitende Dauerausstellung integriert werden (siehe Beilage 3). Der Erdbebensimulator simuliert Erschütterungen von bekannten Erdbeben. Ergänzt mit Projektionen und Hintergrundgeräuschen macht er die Beben für die Besuchenden immersiv erlebbar und erzählt die Geschichte des Geschehens vor, während und nach einem Beben. Die Besuchenden spüren die
+Heftigkeit der Erdstösse und erfahren, wie sie sich verhalten sollten. Als einzigartiges Vermittlungsformat können damit unterschiedliche Erdbeben, deren Hintergründe und Zusammenhänge dargestellt und hautnah erlebt werden. Neben dem geführten Simulationsmodus für Gruppen dient der
+Erdbebensimulator auch als frei zugänglicher Multimediaraum ohne Simulation. Dieser kann im
+Rahmen des individuellen Ausstellungsrundganges besucht und für die Präsentation entsprechender Ausstellungs- und Präventionsthemen eingesetzt werden.
+
+3.2
+
+Ziele und Zielgruppen
+
+Die Sensibilisierung per Erdbebensimulator hat zum Ziel, dass die Bevölkerung und insbesondere
+Schulkinder das Szenario «Erdbeben» als relevantes gesellschaftliches Risiko im Kanton BaselStadt verstehen und wissen, wie sie sich vor, während und nach einem Erdbeben richtig verhalten.
+Sie kennen die wichtigsten Instrumente der persönlichen Vorsorge und sind im Falle eines Erdbebens zur Selbsthilfe und zum Selbstschutz befähigt.
+Das Staatsarchiv und das Naturhistorisches Museum bieten dabei als öffentliche Bildungseinrichtungen und Gedächtnisinstitutionen den idealen Rahmen. Im Jahr 2023 haben über 1'763 Schulklassen und insgesamt 167'248 Personen allein das Naturhistorische Museum besucht. Ein Erdbebensimulator in Basel wäre zudem der einzige seiner Art des gesamten Erdbebengebiets am
+Oberrhein mit einer Gesamtbevölkerung von über 6 Millionen. Damit wird ein wichtiger Beitrag zur
+Erhöhung der Resilienz der gesamten Region gegenüber Erdbeben geleistet, sodass Schäden an
+Personen und Sachwerten gemindert werden.
+Für den Betrieb des Erdbebensimulators im Simulationsmodus wurden drei Hauptzielgruppen identifiziert: (i) Schülerinnen und Schüler ab der Sekundarstufe I, (ii) planende Fachpersonen wie Architektinnen und Architekten oder Ingenieurinnen und Ingenieure, sowie (iii) Mitglieder von Einsatzund Blaulichtorganisationen oder Katastrophenschutzbehörden im In- und Ausland. Für die Hauptzielgruppen soll es entsprechend ihrer Lern- und Vermittlungsziele ein spezifisches Simulationsszenario geben, das vom Betriebspersonal einfach abgerufen werden kann. Darüber hinaus sollen
+weitere Simulationsszenarien ein- und abgespielt werden können, um flexibel in Bezug auf weitere
+Zielgruppen zu sein.
+
+3.3
+
+Machbarkeit und Umsetzung
+
+Im Jahr 2016 kam es zwischen der Kantonalen Krisenorganisation Basel-Stadt (JSD), der Fachstelle Gefahrenprävention im Kantonalen Laboratorium (GD) und dem Naturhistorischen Museum
+Basel (PD) zu ersten Gesprächen, in denen es um die mögliche Installation eines Erdbebensimulators im neuen geplanten Museum ging. Eine erste Machbarkeitsprüfung kam zum Schluss, dass
+der Betrieb eines Erdbebensimulators den Neubau des Naturhistorischen Museums statisch nicht
+
+Seite 9/16
+
+Regierungsrat des Kantons Basel-Stadt
+
+gefährdet und diesbezüglich keine baulichen Massnahmen erforderlich sind. Die durch den Erdbebensimulator induzierten Schwingungen stellen weder für den Museumsbetrieb noch die Sammlung eine erhöhte Beanspruchung dar. Aufgrund dieser Erkenntnisse wurde bereits ein potentieller
+Standort im Neubau definiert und die baulichen Rahmenbedingungen und Voraussetzungen entsprechend eingeplant.
+Die technischen, betrieblichen, räumlichen, funktionalen und inhaltlichen Anforderungen an den
+Erdbebensimulator wurden 2023 im Rahmen einer durch die Kantonale Krisenorganisation BaselStadt in Auftrag gegebenen technischen Machbarkeitsstudie definiert und geprüft. Dabei wurde die
+technische Machbarkeit mit Varianten validiert und ein empfohlener Lösungsansatz erarbeitet und
+funktional beschrieben. Auf dieser Basis wurde eine Kostenschätzung (± 25%) und ein genereller
+Zeitplan für die Ausführung erstellt.
+
+3.4
+
+Betrieb
+
+Der Erdbebensimulator ist ein raumprägendes Element. Er bietet im aktiven Simulationsmodus
+Platz für zwölf Personen, was der Hälfte einer durchschnittlichen Schulklasse entspricht. Aus Gründen der betrieblichen Sicherheit werden Simulationen nur unter Aufsicht durchgeführt. Wenn keine
+Erdbeben simuliert werden, wird der Erdbebensimulator als Raum-in-Raum-Installation zur Ausstellungsfläche. Es sind drei verschiedene Modi für den Betrieb vorgesehen:
+(i)
+
+Simulationsmodus für geführte Gruppen (insbesondere Schulklassen): Der Erdbebentisch
+ist eingeschaltet und simuliert verschiedene Erdbeben und Szenarien. Die Gruppen werden
+durch eine Vermittlungsperson des Naturhistorischen Museums angeleitet. Diese empfängt die
+Gruppe, bedient den Simulator und leitet die Aufklärung und Diskussion.
+
+(ii) Simulationsmodus für Individualbesuchende: Der Erdbebentisch ist eingeschaltet und simuliert verschiedene Erdbeben und Szenarien. Besucherinnen und Besucher können Tickets
+für eine Vorführung in vordefinierten Zeitfenstern kaufen. Zur gegebenen Zeit werden die Besucher vom Aufsichtspersonal empfangen, das die entsprechenden Tickets überprüft und das
+Programm startet. Das Programm inkl. der Sensibilisierungsinhalte läuft selbsterklärend ab.
+Das Aufsichtspersonal gewährleistet die Sicherheit während des Betriebs und lässt die Besuchenden am Schluss wieder aus dem Simulator.
+(iii) Ausstellungsmodus für Individualbesuchende: Der Erdbebentisch ist ausgeschaltet, die
+audiovisuellen Elemente bleiben eingeschaltet. Der Erdbebensimulator wird zum immersiven
+Ausstellungsraum. Die Besuchenden können den Simulator ohne Betreuung betreten. Die audiovisuellen Inhalte laufen in einer Endlosschleife ab.
+Um eine maximale Reichweite bei Gruppen und Schulklassen zu erzielen, ist der Erdbebensimulator an den Vormittagen unter der Woche ausschliesslich diesen vorbehalten und wird im Simulationsmodus (i) betrieben. Für Schulklassen aus dem Kanton Basel-Stadt wird dieses Angebot kostenlos sein. An den Nachmittagen und Wochenenden steht der Erdbebensimulator allen
+Besuchenden des Museums gegen eine zusätzliche Gebühr in Höhe von 5 Franken zur Verfügung
+und wird – abhängig von der Nachfrage – im Simulationsmodus (ii) bzw. Ausstellungsmodus (iii)
+betrieben. Bei einer Auslastung von 60% (Simulationsmodi) wird der Erdbebensimulator somit jährlich von rund 280 Schulklassen und etwa 28'000 individuellen Besucherinnen und Besuchern genutzt.
+
+3.5
+
+Integration in Dauerausstellungsformat
+
+Der Erdbebensimulator ist Hauptbestandteil einer Dauerausstellung zum Thema Erdbeben mit Bezug zur Erdbebenregion Basel. Die Dauerausstellung hat eine Laufzeit von mindestens 15 Jahren
+und beleuchtet die verschiedenen Themenbereiche betreffend Erdbeben. Es werden die physikalischen Grundlagen erklärt und die geologischen und seismologischen Gegebenheiten der Region
+Basel beleuchtet. Als dramaturgisches Narrativ der Ausstellung dient das Erdbeben im Jahr 1356.
+
+Seite 10/16
+
+Regierungsrat des Kantons Basel-Stadt
+
+Es werden historische, gesellschaftliche und bautechnische Aspekte ausgestellt. Die Dauerausstellung integriert den Simulator nicht nur gestalterisch, sondern nimmt auch die Themen der Prävention und der Vorsorge auf und erweitert den Themenbereich mit ergänzenden Ausstellungselementen.
+
+4.
+
+Projektorganisation für den Bau
+
+Der «Erdbebensimulator Basel» ist ein departementsübergreifendes Projekt, das von der Kantonalen Krisenorganisation (JSD), der Fachstelle für Gefahrenprävention (GD) und dem Naturhistorischen Museum Basel (PD) angestossen wurde und verantwortet wird. Das Projektteam für die
+bevorstehenden Projektphasen setzt sich aus Vertretungen und Mitarbeitenden der oben genannten Organisationen und Dienststellen zusammen. Das Projekt wird auf operationeller Ebene durch
+eine Projektsteuerungskommission und auf strategischer Ebene durch einen Lenkungsausschuss
+mit Vertreter/-innen aus den drei genannten Departementen begleitet. Die Planung und der Bau
+soll durch ein Generalunternehmen ausgeführt werden, das den Erdbebensimulator schlüsselfertig
+übergibt. Die externe Ausführung durch ein Generalunternehmen wird wiederum durch die Projektleitung begleitet.
+Lenkungsausschuss
+Kommandant Kapo (JSD)
+Co-Direktor NMB (PD)
+Co-Direktor NMB (PD)
+Leiter Kantonales Laboratorium (GD)
+
+Co- Projektleitung
+Fachstelle Gefahrenprävention (GD)
+PL Ausstellungen Neubau (NMB)
+Justiz- und Sicherheitsdepartement
+Geschäftsstelle Kantonale
+Krisenorganisation
+Leiter Gst. KKO
+Prävention und Vorsorge Gst. KKO
+
+Präsidialdepartement
+Naturhistorisches Museum Basel
+Projektleitung Ausstellungen
+Neubau
+Szenografie
+Dauerausstellung
+Fa.Stauffengger & Partner
+Medienplanung
+Dauerausstellung
+Fa.Tweaklab AG
+
+Gesundheitsdepartement
+Fachstelle Gefahrenprävention
+Leitung Fachstelle
+Gefahrenprävention
+
+Inhalt & Vermittlung
+Dauerausstellung
+Ausstellungen (NMB)
+Geowissenschaften (NMB)
+Bildung und Vermittlung (NMB)
+
+Generalunternehmer
+Erdbebensimulator
+
+Inhalt & Vermittlung
+Erdbebenprävention und
+-vorsorge
+Fachstelle
+Gefahrenprävention (GD)
+Prävention und Vorsorge Gst.
+KKO (JSD)
+
+Lichtplanung
+Dauerausstellung
+FA. Mati AG
+
+5.
+
+Termine
+
+Die Ausschreibung für die Beschaffung des Erdbebensimulators erfolgt – unter Vorbehalt der Ausgabenbewilligung durch den Grossen Rat – im Frühling 2025, damit die Planungs- und Bauarbeiten
+unmittelbar in deren Anschluss starten können. Damit der Erdbebensimulator zusammen mit der
+Dauerausstellung des Neubaus eröffnet werden kann, ist – vorbehältlich der vorangehenden politischen Entscheide – von folgenden Umsetzungsterminen auszugehen:
+Phasen
+
+von
+
+bis
+
+Auftragsvergabe und Projektvorbereitung
+
+Oktober 2025
+
+Dezember 2025
+
+Entwurfsplanung
+
+Januar 2026
+
+Mai 2026
+
+Ausführungsplanung
+
+Juni 2026
+
+September 2027
+
+Ausführung
+
+Oktober 2027
+
+September 2029
+
+Betrieb Simulator
+
+Oktober 2029
+
+Seite 11/16
+
+Regierungsrat des Kantons Basel-Stadt
+
+6.
+
+Finanzielle Auswirkungen
+
+Die Gesamtprojektkosten liegen bei 5,811 Mio. Franken inkl. MWST, wobei die Investitionskosten
+5,571 Mio. Franken ausmachen. Letztere beinhalten 10% Reserven und berücksichtigen eine Kostenungenauigkeit von 25% sowie Kosten für bauseitige Anpassungen.
+Die jährlichen Betriebskosten betragen insgesamt 240'000 Franken und setzen sich aus
+90'000 Franken für Unterhaltskosten sowie Personalkosten von 150'000 Franken zusammen. Das
+Arbeitsvolumen für den Betrieb des Erdbebensimulators entspricht 1.5 Vollzeitstellen und umfasst
+operative, administrative und technische Tätigkeiten für den Betrieb. Diese sind über verschiedene
+Arbeitsbereiche des Museums verteilt. Einnahmen aus dem Ticketverkauf an Individualbesuchende können bei einem Eintrittspreis von 5 Franken pro Person ab 2030 rund 150'000 Franken
+der Kosten decken. Die verbleibenden 90'000 Franken entstehen durch den kostenlosen Eintritt für
+Schulklassen aus dem Kanton Basel-Stadt und müssen als Deckungsbeitrag jährlich in der Erfolgsrechnung des Museums berücksichtigt werden.
+Investitionskosten Erdbebensimulator
+Übergeordnete Leistungen
+Medienproduktionen
+Systementwicklung
+Softwareentwicklung
+Installationsarbeiten
+Hardware
+Hardware Ersatz
+Nebenkosten (Baureinigung, Transport, Versicherungen)
+Zwischentotal I
+Reserven (10%)
+Kostenungenauigkeit (+25%)
+Zwischentotal II
+Bauseitige Anpassungen
+
+In Franken (gerundet)
+302’000
+1’087’000
+113’000
+154’000
+279’000
+1’533’000
+220’000
+56’000
+3’743’000
+374’000
+936’000
+5’053’000
+100’000
+
+Zwischentotal III
+MWST 8.1%
+Total Investitionskosten
+
+5’153’000
+417’000
+5’571’000
+
+Wiederkehrende Betriebs- und Unterhaltskosten ab 2029
+Personal für Betrieb und Administration (LK 7, St. 14, 30% Nebenleistungen)
+Jährlicher Unterhalt (Service, Wartung, Reinigung)
+Total Wiederkehrende Kosten
+Ausgaben gesamt
+
+150’000
+90’000
+240’000
+5'811’000
+
+Einnahmen Ticketverkauf ab 2030
+
+150’000
+
+Total Deckungsbeitrag ab 2030
+
+90’000
+
+Gesamtkosten
+
+5’661’000
+
+Seite 12/16
+
+Regierungsrat des Kantons Basel-Stadt
+
+7.
+
+Anzug Jo Vergeat und Konsorten betreffend Erdbebenübungen
+Basel-Stadt
+
+Der Grosse Rat hat an seiner Sitzung vom 7. Juni 2023 den nachstehenden Anzug Jo Vergeat und
+Konsorten (23.5233) dem Regierungsrat zur Stellungnahme überwiesen:
+«Erdbeben gehören zu den wohl gravierendsten und für den Kanton Basel-Stadt zu den ernstzunehmenden Naturkatastrophen. Bei starken Beben sind viele Todesfälle auf mangelndes Wissen der Bevölkerung zum richtigen Verhalten während eines Bebens zurückzuführen und wären durch wirksame
+Präventionsbemühungen möglicherweise vermeidbar.
+Basel-Stadt ist bekanntermassen einem erhöhten Erdbebenrisiko ausgesetzt (zusammengesetzt aus
+Erdbebenwahrscheinlichkeit und Auswirkung des Erdbebens). Laut Berechnungen der ETH Zürich ist
+im Umkreis von 10 km um Basel-Stadt alle 650 Jahre mit einem Erdbeben der Magnitude 6 zu rechnen.
+Mit einem Szenario zu einem Starkbeben in der Region Basel wurde 2012 der Kantonale Krisenstab
+sowie weitere staatlichen Organe in einer grossangelegten Übung (Erdbebenübung SEISMO 12) beübt. Während bei den Gebäuden stark in die Erdbebensicherheit investiert wird, wird die Bevölkerung
+hingegen wenig zum richtigen Verhalten während eines Bebens sensibilisiert. In Schulen und Unternehmen kennen wir in Basel keine regelmässigen Erdbebenübungen. Auch andere Formen der Prävention (öffentliche Vorträge, Informationskampagnen), welche die breite Bevölkerung adressieren,
+sind den Anzugsstellenden nicht bekannt.
+Andere erdbebengefährdete Regionen der Welt hingegen investieren viel in eine gute Information und
+Beübung der Bevölkerung. So kennt beispielsweise in Japan jedes Kind das richtige Verhalten bei
+einem starken Beben und in Kanada gehört die Beübung der breiten Bevölkerung zum Alltag. In vielen
+gefährdeten Städten wie z.B. Vancouver B.C. wurde der Shake-Out-Day ins Leben gerufen. Jährlich
+üben dabei staatliche Institutionen, Unternehmen, Vereine und auch Familien das richtige Verhalten
+bei einem Beben. Diese präventiven Übungsstrategien werden von verschiedenen Studien als sehr
+effektiv eingestuft1. Dies gilt überdies, auch für andere Notfallszenarien, wie beispielsweise die Evakuation bei einem Brand oder die Beübung von Verhalten bei einem Amoklauf. Gerade die wiederkehrende Beübung ist dabei sinnvoll, während eine einmalige Beübung eher weniger Effekte zeigt.
+Weiter gibt es auch andere Strategien die Kenntnis der Bevölkerung und insbesondere der Schüler*innen zu stärken. So gibt es eine Vielzahl von Spielen, welche zu diesem Zweck entwickelt wurden.
+Auch Ausstellungsbereiche mit Fokus auf Erdbeben in Museen könnten zur besseren Vermittlung genutzt werden.
+Die Anzugstellenden fordern aufgrund der oben genannten Relevanz der Beübung von Notfallszenarien die Regierung auf zu prüfen und zu berichten:
+-
+
+Wie eine angemessene Information der Bevölkerung und der Arbeitnehmenden in Basel über die
+Erdbebengefahr und das Verhalten bei einem Erdbeben gewährleistet werden kann?
+Wie die Verwaltung und die staatlichen Kultur- und Bildungsinstitutionen dabei eine Vermittlungstätigkeit wahrnehmen können?
+In welcher Form und mit welchen Sachmitteln Kinder in der obligatorischen Schulzeit eine Beübung
+zum Notfall Erdbeben durchlaufen?
+Ob ein jährlicher Shake-Out Day zusammen mit Wirtschaft, Sicherheitsbehörden und Gesellschaft
+eingeführt werden kann?
+
+Çoban, M., Göktaş, Y. Which training method is more effective in earthquake training: Digital game, drill, or
+traditional training? Smart Learn. Environ. 9, 23 (2022).
+1
+
+Jo Vergeat, Oliver Thommen, Salome Bessenich, Balz Herter, Laurin Hoppler, Beat Braun, Felix
+Wehrli, Niggi Daniel Rechsteiner, Annina von Falkenstein, Christoph Hochuli»
+
+Wir berichten zu diesem Anzug wie folgt:
+
+Seite 13/16
+
+Regierungsrat des Kantons Basel-Stadt
+
+-
+
+Wie eine angemessene Information der Bevölkerung und der Arbeitnehmenden in Basel über
+die Erdbebengefahr und das Verhalten bei einem Erdbeben gewährleistet werden kann?
+
+Wie in Kapitel 2.3 beschrieben, gibt es verschiedene Ansätze, um die Bevölkerung über die Gefahr
+und das Risiko von Erdbeben sowie über das richtige Verhalten im Ereignisfall zu informieren.
+Heute können solche Informationen über verschiedene Kanäle wie Notfallflyer, den Internetauftritt
+des Kantons Basel-Stadt, die Webseiten des Bundes oder Alertswiss abgerufen werden. Eine rein
+einseitige Kommunikation und das blosse Bereitstellen von Informationen stellen jedoch keine wirksamen Methoden zur Sensibilisierung dar, da die selten zu nachhaltige Verhaltensänderungen führen. Der Erdbebensimulator und die Dauerausstellung hingegen bieten eine greifbare und unmittelbare Erfahrung der tatsächlichen Auswirkungen eines Erdbebens, die mit anderen Medien nicht
+erreicht werden kann.
+-
+
+Wie die Verwaltung und die staatlichen Kultur- und Bildungsinstitutionen dabei eine Vermittlungstätigkeit wahrnehmen können?
+In welcher Form und mit welchen Sachmitteln Kinder in der obligatorischen Schulzeit eine
+Beübung zum Notfall Erdbeben durchlaufen?
+
+Wirksame Sensibilisierungsinstrumente setzen auf Interaktion und Austausch und sollen möglichst
+zielgruppenspezifisch und erlebnisbasiert sein. Staatliche Bildungs- und Kulturinstitutionen sind
+aufgrund ihrer pädagogischen und didaktischen Kompetenzen sowie aufgrund ihres Vermittlungsauftrags ideale Partnerinnen, um entsprechende Themen nachhaltig zu erläutern. Gerade die Vermittlung von Inhalten an Schulkinder hat das Potenzial, eine breite und nachhaltige Sensibilisierung
+zu erwirken, wie sie für seltene Ereignisse wie Erdbeben notwendig ist. Schulkinder agieren als
+Multiplikatoren von Wissen, da sie dieses in alle Gesellschaftsschichten – unabhängig von Herkunft, Sprache oder Einkommen – hineintragen.
+Im Kanton Basel-Stadt erhalten die Kinder im Rahmen der obligatorischen Schulzeit und des Lehrplans 21 weder eine spezifische Notfallübung noch lernen sie konkrete Verhaltensweisen für den
+Fall eines Erdbebens. Es steht den Lehrpersonen frei, solche Themen im Unterricht anzusprechen.
+Zusätzlich zu den allgemein verfügbaren Lehrmitteln und Schulunterlagen hat der Kanton BaselStadt 2016 in Zusammenarbeit mit dem SED Unterlagen für den stufengerechten Unterricht gemäss Lehrplan 21 zusammengestellt und an die Volksschulen verteilt. Diese sind weiterhin auf der
+Webseite des Kantonalen Laboratoriums abrufbar. Ob und wie verbreitet das Angebot genutzt und
+entsprechende Sensibilisierungsinhalte im Unterricht behandelt werden, ist jedoch nicht bekannt.
+Mit vorliegendem Ratschlag wird der Bau und Betrieb eines Erdbebensimulators im Neubau des
+Naturhistorischen Museums Basel beantragt. Damit soll ein Vermittlungsformat geschaffen werden,
+das die Bevölkerung – und insbesondere Schülerinnen und Schüler – auf attraktive und nachhaltige
+Weise für das Erdbebenrisiko sensibilisiert, deren Risikobewusstsein fördert sowie elementares
+Wissen zum richtigen Verhalten bei einem Erdbeben vermittelt.
+-
+
+Ob ein jährlicher Shake-Out Day zusammen mit Wirtschaft, Sicherheitsbehörden und Gesellschaft eingeführt werden kann?
+
+Wie in Kapitel 2.3.1 dargelegt, können Shake-Out Drills ein wirksames Mittel darstellen, um die
+Bevölkerung auf Erdbebenrisiken aufmerksam zu machen. Die erfolgreiche Einführung und vor
+allem die jährlichen Wiederholungen von Erdbebenübungen (z.B. an Schulen) in Form von ShakeOut Days sind aufgrund des hohen Masses an benötigtem Engagement und der vermeintlich als
+nicht unmittelbar empfundenen Erdbebengefahr als eher kritisch und schwierig umsetzbar zu beurteilen.
+Mit dem vorliegenden Ratschlag wird das Anliegen des Anzugs erfüllt, weshalb der Regierungsrat
+dem Grossen Rat beantragt, den Anzug abzuschreiben.
+
+Seite 14/16
+
+Regierungsrat des Kantons Basel-Stadt
+
+8.
+
+Prüfungen
+
+Das Finanzdepartement hat den vorliegenden Ratschlag gemäss § 8 des Gesetzes über den kantonalen Finanzhaushalt (Finanzhaushaltgesetz) vom 14. März 2012 überprüft.
+
+9.
+
+Antrag
+
+Gestützt auf unsere Ausführungen wird dem Grossen Rat beantragt, den nachstehenden Beschlussentwurf anzunehmen und den Anzug von Jo Vergeat und Konsorten zum Thema «Erdbebenübungen Basel-Stadt» abzuschreiben.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Dr. Conradin Cramer
+Regierungspräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Beilagen
+- Entwurf Grossratsbeschluss
+- Erdbebenszenarien Basel-Stadt
+- Konzept Erdbebensimulator Basel
+
+Seite 15/16
+
+Regierungsrat des Kantons Basel-Stadt
+
+Grossratsbeschluss
+Ratschlag betreffend Ausgabenbewilligung für die Realisierung eines Erdbebensimulators im neuen Naturhistorischen Museum Basel
+(vom [Datum eingeben])
+Der Grosse Rat des Kantons Basel-Stadt, nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. [Nummer eingeben] vom [Datum eingeben] und nach dem mündlichen Antrag der
+[Kommission eingeben] vom [Datum eingeben], beschliesst:
+1.
+
+Für die Realisierung und den Betrieb eines Erdbebensimulators im neuen Naturhistorischen Museum Basel werden Gesamtausgaben in der Höhe von Fr. 5‘811‘000 bewilligt.
+Diese Ausgaben teilen sich wie folgt auf:
+a)
+b)
+
+Fr. 5'571'000 einmalige neue Ausgaben zulasten der Investitionsrechnung, Investitionsbereich „Übrige“
+Fr. 240'000 als wiederkehrende neue Ausgaben für den Betrieb und den Unterhalt
+des Erdbebensimulators zulasten der Erfolgsrechnung des Präsidialdepartements,
+Naturhistorisches Museum Basel
+
+Dieser Beschluss ist zu publizieren. Er untersteht dem Referendum.
+
+Seite 16/16
+
+BS
+Erdbebenszenario
+
+Überblick
+
+Erdbeben bei Basel (BS)
+Magnitude 6.0 [Mw]
+
+Gefahrenstufe
+
+Dieses Szenario zeigt ein Erdbeben in Frankreich (F), dessen Epizentrum
+ungefähr 10 km westlich von Basel (BS) liegt. Dieses Erdbeben würde in der
+
+Lokalzeit
+
+-
+
+Datum
+
+-
+
+Herdtiefe [km]
+
+8
+
+Magnitude [Mw]
+
+6.0
+
+Auswertung
+
+automatisch
+
+Schweizer Koordinaten
+
+2'601'489 / 1'265'664
+
+Weitere Ereignisdaten
+
+Link
+
+ganzen Schweiz verspürt werden. Mässige bis starke Schäden wären bei einem
+Erdbeben dieser Stärke in weiten Gebieten im Umkreis des Epizentrums zu
+erwarten. Im statistischen Durchschnitt ist alle 650 Jahre mit einem Beben der
+Magnitude 6 in einem Umkreis von 50 km um dieses Epizentrum zu rechnen.
+
+5
+
+Geschätzte Auswirkungen
+
+Anzahl Todesopfer im Kanton BS
+
+Die geschätzten Auswirkungen werden in Intensitäten beschrieben. Die
+Intensität beschreibt die Stärke eines Erdbebens basierend auf dem Ausmass
+
+Die Anzahl Todesopfer liegt mit grosser Wahrscheinlichkeit im eingefärbten
+Bereich.
+
+der Auswirkungen und der subjektiven Wahrnehmung von Personen.
+
+keine
+
+5
+
+50
+
+500
+
+5'000
+
+Anzahl Schutzsuchende im Kanton BS
+
+National
+
+Die Anzahl Schutzsuchende liegt mit grosser Wahrscheinlichkeit im
+eingefärbten Bereich.
+
+keine
+
+50
+
+500
+
+5'000
+
+50'000
+
+Kosten Gebäudeschäden im Kanton BS
+Die Kosten für Gebäudeschäden liegen mit grosser Wahrscheinlichkeit im
+eingefärbten Bereich.
+
+keine
+
+10 Mio.
+
+100 Mio.
+
+1 Mia.
+
+10 Mia.
+
+Anzahl Verletzte
+
+Ausmass der Gebäudeschäden
+
+Die Anzahl verletzter Personen in den Gemeinden des Kantons BS liegt mit
+
+Das Ausmass mässiger bis sehr starker Schäden an Gebäuden in den
+
+grosser Wahrscheinlichkeit im eingefärbten Bereich.
+
+Gemeinden des Kantons BS liegt mit grosser Wahrscheinlichkeit im
+eingefärbten Bereich. Die Prozentangabe entspricht dem mittleren Anteil der
+
+Kantonal
+
+beschädigten Gebäude.
+
+0-5
+
+6-50
+
+51-500
+
+501-5'000
+
+5'000
+
+< 1%
+
+1-10%
+
+11-25%
+
+26-50%
+
+51-100%
+
+Bundesamt für Umwelt BAFU
+
+Alle Angaben ohne Gewähr und vorbehaltlich Änderungen
+
+Mit der Unterstützung von:
+Bundesamt für Bevölkerungsschutz BA
+
+Was tun nach einem Erdbeben? www.seismo.ethz.ch/de/earthquakes/what-to-do/
+Weitere Informationen unter www.seismo.ethz.ch und https://lage.naz.ch/eld2/login
+
+Erläuterungen
+Bei den hier angegebenen Werten zu diesem Erdbebenszenario handelt es sich um automatisch erzeugte Schätzungen. Sie beruhen auf Annahmen basierend auf
+dem Erdbebenrisikomodell Schweiz (ERM-CH23). Die tatsächlichen Werte können unter Umständen stark davon abweichen. Daher sind alle Angaben ohne
+Gewähr und vorbehaltlich Änderungen.
+Das Erdbebenrisikomodell Schweiz wurde vom Schweizerischen Erdbebendienst (SED) an der ETH Zürich in Zusammenarbeit mit dem Bundesamt für Umwelt
+(BAFU) und dem Bundesamt für Bevölkerungsschutz (BABS) entwickelt.
+
+MLhc und Mw sind Magnitudeneinheiten und geben Auskunft über die während
+
+Die
+
+eines Bebens freigesetzte Energie beziehungsweise dessen Stärke.
+
+Naturgefahrenfachstellen des Bundes festgelegt.
+Gefahrenstufe 1: keine oder geringe Gefahr
+
+Gefahrenstufen
+
+1
+
+bis
+
+5
+
+wurden
+
+gemeinsam
+
+von
+
+den
+
+Überblick
+
+Gefahrenstufe 2: mässige Gefahr
+Gefahrenstufe 3: erhebliche Gefahr
+Gefahrenstufe 4: grosse Gefahr
+Gefahrenstufe 5: sehr grosse Gefahr
+Weitere
+
+Informationen
+
+zu
+
+den
+
+Gefahrenstufen:
+
+www.naturgefahren.ch/
+
+home/umgang-mit-naturgefahren/erdbeben/gefahrenstufen.html
+Der Überblick fasst die wichtigsten Informationen zum Beben zusammen. Dazu
+
+In dieser Tabelle sind die wichtigsten Erdbebenparameter aufgelistet. Die
+
+werden standardisierte Textelemente automatisch zusammengefügt.
+
+Verlinkung in der letzten Zeile führt zu weiteren Informationen zu diesem
+Beben auf der Webseite des Schweizerischen Erdbebendienstes an der ETH
+Zürich.
+
+Die Karte zeigt die zu erwartenden
+Auswirkungen
+des
+Bebens.
+Die
+
+Die geschätzte Anzahl Todesopfer leitet sich aus folgenden Werten ab:
+geschätzte Anzahl stark beschädigter oder zerstörter Gebäude
+
+geschätzten Auswirkungen werden in
+
+geschätzte Personenbelegung dieser Gebäude (unabhängig von Tageszeit oder Saison)
+
+Intensitäten
+beschrieben.
+Die
+Intensität beschreibt die Stärke eines
+
+geschätzter Anteil an Personen, die in stark beschädigten oder zerstörten Gebäuden zu Tode kommen
+Nicht berücksichtigt in der geschätzten Anzahl Todesopfer sind folgende Werte:
+
+Erdbebens
+basierend
+auf
+dem
+Ausmass der Auswirkungen und der
+subjektiven
+
+Wahrnehmung
+
+geschätzte Anzahl Todesopfer aufgrund von Schäden an der Infrastruktur (z. B. Brücken, Strassen)
+geschätzte Anzahl Todesopfer aufgrund Sekundäreffekte des Bebens (z. B. Erdrutsche, Felsstürze, Feuer)
+
+von
+
+Personen.
+Die erwartete Anzahl Schutzsuchende über kurz- und längerfristige Zeit leitet sich aus folgenden Werten ab:
+
+National
+
+geschätzte Anzahl mässig bis stark beschädigter oder zerstörter Gebäude
+geschätzte Personenbelegung dieser Gebäude (unabhängig von Tageszeit oder Saison)
+geschätzter Anteil an Gebäuden, die aufgrund von Schäden nicht mehr bewohnbar sind
+
+Die geschätzten Kosten für Gebäudeschäden umfassen sowohl strukturelle als auch nicht-strukturelle Schäden an
+Gebäuden und leiten sich aus folgenden Werten ab:
+geschätzte Anzahl leicht, mässig und stark beschädigter oder zerstörter Gebäude
+Wert dieser Gebäude
+geschätzter anteilmässiger Verlust des Gebäudewerts aufgrund dieser Schäden
+Nicht berücksichtigt in den geschätzten Kosten für Gebäudeschäden sind folgende Werte:
+bewegliche Gebäudeinhalte (Fahrhabe)
+Verluste durch Sekundäreffekte des Bebens (z. B. Erdrutsche, Felsstürze, Feuer)
+Verluste aufgrund von Verzögerungen z. B. bei Reparaturen oder dem Wiederaufbau
+Verluste aufgrund von Betriebsunterbrüchen
+Verluste an der Infrastruktur (Brücken, Strasse, Stromleitungen)
+
+Die
+
+geschätzte
+
+Anzahl
+
+verletzter
+
+Personen
+
+mit
+
+leichten
+
+bis
+
+schweren
+
+Kantonal
+
+Verletzungen leitet sich aus folgenden Werten ab:
+geschätzte Anzahl mässig bis stark beschädigter oder zerstörter Gebäude
+
+Es werden fünf verschiedene Schadensgrade an Gebäuden unterschieden:
+Schadensgrad 1: geringfügige bis leichte Schäden
+Schadensgrad 2: mässige Schäden
+
+geschätzte Personenbelegung dieser Gebäude (unabhängig von Tageszeit
+
+Schadensgrad 3: kräftige bis starke Schäden
+
+oder Saison)
+geschätzter Anteil an Personen, die in mässig bis stark beschädigten oder
+
+Schadensgrad 4: sehr starke Schäden
+Schadensgrad 5: Zerstörung
+
+zerstörten Gebäuden verletzt werden
+Nicht berücksichtigt in der geschätzten Anzahl Verletzter ist folgender Wert:
+Verletzte durch Schäden an der Infrastruktur (z. B. Brücken, Strassen)
+Verletzte durch Sekundäreffekte des Bebens (z. B. Erdrutsche, Felsstürze,
+Feuer)
+
+Die geschätzten Schäden an Gebäuden berücksichtigen alle Gebäude mit
+einem Schadensgrad von 2 oder mehr. Welche Schäden ein Gebäude erleidet,
+hängt stark von seiner Bauweise und der Beschaffenheit des lokalen
+Untergrunds ab.
+
+Was tun nach einem Erdbeben? www.seismo.ethz.ch/de/earthquakes/what-to-do/
+Weitere Informationen unter www.seismo.ethz.ch und https://lage.naz.ch/eld2/login
+
+BS
+Erdbebenszenario
+
+Überblick
+
+Erdbeben bei Basel (BS)
+Magnitude 6.6 [Mw]
+
+Gefahrenstufe
+
+Dieses Szenario zeigt ein Erdbeben im Kanton Basel-Landschaft (BL), dessen
+Epizentrum ungefähr 10 km südlich von Basel (BS) liegt. Dieses Erdbeben
+
+Lokalzeit
+
+-
+
+Datum
+
+-
+
+Herdtiefe [km]
+
+10
+
+Magnitude [Mw]
+
+6.6
+
+Auswertung
+
+automatisch
+
+Schweizer Koordinaten
+
+2'612'166 / 1'257'704
+
+Weitere Ereignisdaten
+
+Link
+
+würde in der ganzen Schweiz verspürt werden. Mässige bis starke Schäden
+wären bei einem Erdbeben dieser Stärke in weiten Gebieten im Umkreis des
+Epizentrums zu erwarten. Im statistischen Durchschnitt ist alle 2100 Jahre mit
+einem Beben der Magnitude 6.6 in einem Umkreis von 50 km um dieses
+Epizentrum zu rechnen.
+
+5
+
+Geschätzte Auswirkungen
+
+Anzahl Todesopfer im Kanton BS
+
+Die geschätzten Auswirkungen werden in Intensitäten beschrieben. Die
+Intensität beschreibt die Stärke eines Erdbebens basierend auf dem Ausmass
+
+Die Anzahl Todesopfer liegt mit grosser Wahrscheinlichkeit im eingefärbten
+Bereich.
+
+der Auswirkungen und der subjektiven Wahrnehmung von Personen.
+
+keine
+
+5
+
+50
+
+500
+
+5'000
+
+Anzahl Schutzsuchende im Kanton BS
+
+National
+
+Die Anzahl Schutzsuchende liegt mit grosser Wahrscheinlichkeit im
+eingefärbten Bereich.
+
+keine
+
+50
+
+500
+
+5'000
+
+50'000
+
+Kosten Gebäudeschäden im Kanton BS
+Die Kosten für Gebäudeschäden liegen mit grosser Wahrscheinlichkeit im
+eingefärbten Bereich.
+
+keine
+
+10 Mio.
+
+100 Mio.
+
+1 Mia.
+
+10 Mia.
+
+Anzahl Verletzte
+
+Ausmass der Gebäudeschäden
+
+Die Anzahl verletzter Personen in den Gemeinden des Kantons BS liegt mit
+
+Das Ausmass mässiger bis sehr starker Schäden an Gebäuden in den
+
+grosser Wahrscheinlichkeit im eingefärbten Bereich.
+
+Gemeinden des Kantons BS liegt mit grosser Wahrscheinlichkeit im
+eingefärbten Bereich. Die Prozentangabe entspricht dem mittleren Anteil der
+
+Kantonal
+
+beschädigten Gebäude.
+
+0-5
+
+6-50
+
+51-500
+
+501-5'000
+
+5'000
+
+< 1%
+
+1-10%
+
+11-25%
+
+26-50%
+
+51-100%
+
+Bundesamt für Umwelt BAFU
+
+Alle Angaben ohne Gewähr und vorbehaltlich Änderungen
+
+Mit der Unterstützung von:
+Bundesamt für Bevölkerungsschutz BA
+
+Was tun nach einem Erdbeben? www.seismo.ethz.ch/de/earthquakes/what-to-do/
+Weitere Informationen unter www.seismo.ethz.ch und https://lage.naz.ch/eld2/login
+
+Erläuterungen
+Bei den hier angegebenen Werten zu diesem Erdbebenszenario handelt es sich um automatisch erzeugte Schätzungen. Sie beruhen auf Annahmen basierend auf
+dem Erdbebenrisikomodell Schweiz (ERM-CH23). Die tatsächlichen Werte können unter Umständen stark davon abweichen. Daher sind alle Angaben ohne
+Gewähr und vorbehaltlich Änderungen.
+Das Erdbebenrisikomodell Schweiz wurde vom Schweizerischen Erdbebendienst (SED) an der ETH Zürich in Zusammenarbeit mit dem Bundesamt für Umwelt
+(BAFU) und dem Bundesamt für Bevölkerungsschutz (BABS) entwickelt.
+
+MLhc und Mw sind Magnitudeneinheiten und geben Auskunft über die während
+
+Die
+
+eines Bebens freigesetzte Energie beziehungsweise dessen Stärke.
+
+Naturgefahrenfachstellen des Bundes festgelegt.
+Gefahrenstufe 1: keine oder geringe Gefahr
+
+Gefahrenstufen
+
+1
+
+bis
+
+5
+
+wurden
+
+gemeinsam
+
+von
+
+den
+
+Überblick
+
+Gefahrenstufe 2: mässige Gefahr
+Gefahrenstufe 3: erhebliche Gefahr
+Gefahrenstufe 4: grosse Gefahr
+Gefahrenstufe 5: sehr grosse Gefahr
+Weitere
+
+Informationen
+
+zu
+
+den
+
+Gefahrenstufen:
+
+www.naturgefahren.ch/
+
+home/umgang-mit-naturgefahren/erdbeben/gefahrenstufen.html
+Der Überblick fasst die wichtigsten Informationen zum Beben zusammen. Dazu
+
+In dieser Tabelle sind die wichtigsten Erdbebenparameter aufgelistet. Die
+
+werden standardisierte Textelemente automatisch zusammengefügt.
+
+Verlinkung in der letzten Zeile führt zu weiteren Informationen zu diesem
+Beben auf der Webseite des Schweizerischen Erdbebendienstes an der ETH
+Zürich.
+
+Die Karte zeigt die zu erwartenden
+Auswirkungen
+des
+Bebens.
+Die
+
+Die geschätzte Anzahl Todesopfer leitet sich aus folgenden Werten ab:
+geschätzte Anzahl stark beschädigter oder zerstörter Gebäude
+
+geschätzten Auswirkungen werden in
+
+geschätzte Personenbelegung dieser Gebäude (unabhängig von Tageszeit oder Saison)
+
+Intensitäten
+beschrieben.
+Die
+Intensität beschreibt die Stärke eines
+
+geschätzter Anteil an Personen, die in stark beschädigten oder zerstörten Gebäuden zu Tode kommen
+Nicht berücksichtigt in der geschätzten Anzahl Todesopfer sind folgende Werte:
+
+Erdbebens
+basierend
+auf
+dem
+Ausmass der Auswirkungen und der
+subjektiven
+
+Wahrnehmung
+
+geschätzte Anzahl Todesopfer aufgrund von Schäden an der Infrastruktur (z. B. Brücken, Strassen)
+geschätzte Anzahl Todesopfer aufgrund Sekundäreffekte des Bebens (z. B. Erdrutsche, Felsstürze, Feuer)
+
+von
+
+Personen.
+Die erwartete Anzahl Schutzsuchende über kurz- und längerfristige Zeit leitet sich aus folgenden Werten ab:
+
+National
+
+geschätzte Anzahl mässig bis stark beschädigter oder zerstörter Gebäude
+geschätzte Personenbelegung dieser Gebäude (unabhängig von Tageszeit oder Saison)
+geschätzter Anteil an Gebäuden, die aufgrund von Schäden nicht mehr bewohnbar sind
+
+Die geschätzten Kosten für Gebäudeschäden umfassen sowohl strukturelle als auch nicht-strukturelle Schäden an
+Gebäuden und leiten sich aus folgenden Werten ab:
+geschätzte Anzahl leicht, mässig und stark beschädigter oder zerstörter Gebäude
+Wert dieser Gebäude
+geschätzter anteilmässiger Verlust des Gebäudewerts aufgrund dieser Schäden
+Nicht berücksichtigt in den geschätzten Kosten für Gebäudeschäden sind folgende Werte:
+bewegliche Gebäudeinhalte (Fahrhabe)
+Verluste durch Sekundäreffekte des Bebens (z. B. Erdrutsche, Felsstürze, Feuer)
+Verluste aufgrund von Verzögerungen z. B. bei Reparaturen oder dem Wiederaufbau
+Verluste aufgrund von Betriebsunterbrüchen
+Verluste an der Infrastruktur (Brücken, Strasse, Stromleitungen)
+
+Die
+
+geschätzte
+
+Anzahl
+
+verletzter
+
+Personen
+
+mit
+
+leichten
+
+bis
+
+schweren
+
+Kantonal
+
+Verletzungen leitet sich aus folgenden Werten ab:
+geschätzte Anzahl mässig bis stark beschädigter oder zerstörter Gebäude
+
+Es werden fünf verschiedene Schadensgrade an Gebäuden unterschieden:
+Schadensgrad 1: geringfügige bis leichte Schäden
+Schadensgrad 2: mässige Schäden
+
+geschätzte Personenbelegung dieser Gebäude (unabhängig von Tageszeit
+
+Schadensgrad 3: kräftige bis starke Schäden
+
+oder Saison)
+geschätzter Anteil an Personen, die in mässig bis stark beschädigten oder
+
+Schadensgrad 4: sehr starke Schäden
+Schadensgrad 5: Zerstörung
+
+zerstörten Gebäuden verletzt werden
+Nicht berücksichtigt in der geschätzten Anzahl Verletzter ist folgender Wert:
+Verletzte durch Schäden an der Infrastruktur (z. B. Brücken, Strassen)
+Verletzte durch Sekundäreffekte des Bebens (z. B. Erdrutsche, Felsstürze,
+Feuer)
+
+Die geschätzten Schäden an Gebäuden berücksichtigen alle Gebäude mit
+einem Schadensgrad von 2 oder mehr. Welche Schäden ein Gebäude erleidet,
+hängt stark von seiner Bauweise und der Beschaffenheit des lokalen
+Untergrunds ab.
+
+Was tun nach einem Erdbeben? www.seismo.ethz.ch/de/earthquakes/what-to-do/
+Weitere Informationen unter www.seismo.ethz.ch und https://lage.naz.ch/eld2/login
+
+Kanton Basel-Stadt
+
+Konzept Erdbebensimulator Basel
+
+Projektleitung:
+
+Dominik Seitz
++41 61 266 55 21
+dominik.seitz@bs.ch
+
+Samuel Mock
++41 61 385 25 88
+samuel.mock@bs.ch
+
+Kanton Basel-Stadt
+
+Sensibilisierung für Erdbeben ist eine Herausforderung weil…
+… schwere Erdbeben selten sind.
+… es ein historisches Gedächtnis (1356) aber kein kollektiv erlebtes Ereignis
+gibt.
+… Informationen über Erdbebenrisiken komplex zu verstehen sind.
+… der Zugang zu Information allein keine Verhaltensänderungen bewirkt​.
+… man das Risiko unterschätzt, sich auf falsche Sicherheitsannahmen verlässt
+oder Informationen, die persönlichen Überzeugungen widersprechen ignoriert.
+… man häufig glaubt, dass Katastrophen eher andere treffen werden.
+… man häufig fatalistisch glaubt, dass man eh nichts unternehmen kann.
+… die Tendenz vorherrscht, Vorsorgemassnahmen an den Staat zu delegieren​.
+
+Kanton Basel-Stadt
+
+Für eine wirkungsvolle Sensibilisierung braucht es deshalb…
+… Kommunikation in beide Richtungen, Dialog und Austausch.
+… Personalisierte Botschaften und erlebnisbasierte Vermittlung.
+… Verständliche und relevante Inhalte aus vertrauenswürdigen Quellen.
+… Langfristiges Angebot.
+… Ressourcen.
+
+Kanton Basel-Stadt
+
+Projektidee
+ Ein Erdbebensimulator wird im neuen NMB realisiert und räumlich in die
+thematisch begleitende Dauerausstellung «Erdbeben» integriert.
+ Der ESB simuliert Erschütterungen von bekannten Erdbeben. Ergänzt mit
+Projektionen und Hintergrundgeräuschen macht er die Beben für die
+Besuchenden immersiv erlebbar.
+
+ Die Besuchenden spüren die Heftigkeit der Erdstösse und erfahren, wie sie
+sich bei Erdbeben verhalten sollten.
+ Ausserhalb des geführten Simulationsmodus dient der Erdbebensimulator als
+frei zugänglicher Multimediaraum, der im Rahmen des individuellen
+Ausstellungsrundganges besucht werden kann und Präventionsthemen
+vermittelt.
+
+Kanton Basel-Stadt
+
+Dauerausstellung «Erdbeben»
+Eine audiovisuelle Auftaktinszenierung erinnert
+an das zerstörerische Beben von 1356 und
+schafft einen emotionalen Bezug zum Thema.
+Anhand von Sammlungsobjekten, Modellen,
+interaktiven Stationen und Messgeräten erfahren
+die Besuchenden, warum Erdbeben in der
+Region Basel vergleichsweise häufig sind.
+Die Ausstellung zeigt, wie Erdbebenaktivität
+gemessen wird. Die Besuchenden können
+bedeutende Erdbeben weltweit abrufen und
+erfahren, wie andere Gesellschaften mit dem
+höheren Risiko schwerer Erdbeben umgehen.
+
+Die Dauerausstellung ist nicht Bestandteil des
+vorliegenden Ratschlags betreffend
+Ausgabenbewilligung. Sie bietet hier jedoch die
+thematische Einbettung des Erdbebensimulators.
+
+In Weiteren können sich die Besuchenden
+darüber informieren, wie Städte – speziell Basel
+– Gebäude und Infrastruktur gegen Erdbeben
+schützen. Im Erdbebensimulator erleben sie
+vergangene Beben hautnah und lernen, wie sie
+sich im Ernstfall am besten verhalten
+Ausstellungsbereiche
+(1) Basel 1356
+(2) Das Erdbeben-Einmaleins
+(3) Die Region Basel
+(4) Vorsorge und Verhalten
+(5) Fact or Myth?
+
+Kanton Basel-Stadt
+
+Dauerausstellung «Erdbeben»
+
+3D Visualisierung Szenografie, Stauffenegger & Partner
+
+Grundriss Szenografie, Stauffenegger & Partner
+
+Kanton Basel-Stadt
+
+Dauerausstellung «Erdbeben»
+
+Kanton Basel-Stadt
+
+Dauerausstellung «Erdbeben»
+«Erklärbär»
+Grundlagen
+
+Hands-on
+Experimente
+
+Lego-City-Modell
+Vorsorge &
+Krisenmanagement
+
+Erdbebensimulator
+Erdbebenberichte &
+Erdbeben erleben
+
+Kanton Basel-Stadt
+
+Erdbebensimulator
+
+ Der Erdbebensimulator soll
+Platz für mindestens 12
+Personen bieten und
+barrierefrei zugänglich sein.
+Seine Aussenwand wird
+nahtlos in die begleitende
+Dauerausstellung integriert.
+
+Kanton Basel-Stadt
+
+Erdbebensimulator
+Ziele und Zielgruppen
+Die Bevölkerung und insb. Schulkinder…
+… erkennen «Erdbeben» als relevantes gesellschaftliches Risiko im Kanton BS.
+… kennen das richtige Verhalten vor, während und nach einem Erdbeben.
+
+… kennen die wichtigsten Instrumente der persönlichen Vorsorge im Falle eines
+Erdbebens.
+
+Kanton Basel-Stadt
+
+Erdbebensimulator
+
+Kanton Basel-Stadt
+
+Erdbebensimulator
+Machbarkeitsstudie 2023
+ Anforderungen an den Erdbebensimulator
+wurden definiert.
+ verschiedene Anbieter / Systeme von
+Erdbebentischen auf Grundlage der
+definierten Anforderungen wurden geprüft.
+ Die technische Machbarkeit wurde mit
+Varianten validiert und ein empfohlener
+Lösungsansatz liegt vor.
+ Eine Kostenschätzung +/- 25% aus der ein
+Leistungsverzeichnis hervorgeht wurde
+erstellt.
+ Ein genereller Zeitplan für das
+Bauvorhaben wurde erstellt.
+
+Kanton Basel-Stadt
+
+Erdbebensimulator
+Die Machbarkeitsstudie bringt folgende Empfehlungen hervor:
+
+
+
+
+
+Eckige Plattform für 12 Besucher und einen Operator (nicht auf der Schüttelplattform).
+Elektrischer Antrieb und pneumatischer Hub (x,y Richtung, ±15cm).
+Drei von vier Wände werden mit je zwei Projektoren bespielt, (270° Projektion).
+Projektoren auf dem ESB-Dach mit Linsenöffnungen in der Decke. Geräusch- und
+Wärmeemissionen der Projektoren bleiben somit ausserhalb des ESB.
+ Frischluft im ESB durch aktive Belüftung.
+ Das gewählte Audiosystem ermöglicht immersives 3D Sound Erlebnis.
+ Die audiovisuellen Produktionen zeigen den Blick von einem Innenraum nach aussen
+mit der Illusion eines Erdbebens. Die Produktionsart sind digital erstellte hochwertige
+3D Renderings, mit Filmaufnahmen ergänzt.
+
+Kanton Basel-Stadt
+
+Erdbebensimulator
+Fazit Machbarkeitsstudie 2023:
+Ein Erdbebensimulator der die Projektziele gemäss Projektidee erfüllt, ist im
+Neubau des NMB realisierbar!
+ Die inhaltlichen Anforderungen können erfüllt werden
+ Die Platzverhältnisse im Ausstellungsraum sind knapp, die räumlichen Anforderungen
+können aber erfüllt werden
+ Kapazitätsanforderungen können erfüllt werden
+ Technische Anforderungen können erfüllt werden
+Die Machbarkeitsstudie ist Bestandteil eines
+laufenden Ausschreibungsverfahrens und kann dem
+Ratschlag deshalb nicht beigelegt werden. Einsicht
+kann auf Verlangen gewährt werden.
+
+Kanton Basel-Stadt
+
+Das Naturhistorische Museum eignet sich besonders weil…
+… es eine hohe Glaubwürdigkeit besitzt.
+… es eine hohe wissenschaftliche Kompetenz besitzt.
+… es eine hohe didaktische und pädagogische Kompetenz besitzt.
+… es grosse Erfahrung in der Wissensvermittlung hat.
+… ideale Räumlichkeiten und moderne Infrastruktur / Technik im Neubau zur
+Verfügung stehen.
+… es ein regionales Publikumsmagnet ist
+… es ein breiteres Sensibilisierungsangebot durch eine begleitende
+Dauerausstellung möglich macht.
+
+Kanton Basel-Stadt
+
+Co-Projektleitung:
+
+Dominik Seitz
++41 61 266 55 21
+dominik.seitz@bs.ch
+
+Samuel Mock
++41 61 385 25 88
+samuel.mock@bs.ch
+
+

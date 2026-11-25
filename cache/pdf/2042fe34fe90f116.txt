@@ -1,0 +1,219 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+25.5544.02
+
+JSD/P255544
+Basel, 22. April 2026
+Regierungsratsbeschluss vom 21. April 2026
+
+Motion Franziska Stier und Konsorten betreffend «grundrechtskonformen Internetzugang in der Administrativhaft»; Stellungnahme
+Der Grosse Rat hat an seiner Sitzung vom 4. Februar 2026 die nachstehende Motion Franziska Stier und Konsorten dem Regierungsrat zur Stellungnahme überwiesen:
+«Das Recht auf Zugang zum Internet leitet sich aus übergeordneten Menschenrechten wie Meinungsfreiheit und Zugang zu Informationen ab. Das bedeutet für den Staat eine Pflicht, den Zugang
+nicht ungerechtfertigt einzuschränken. Entscheidend ist zudem, dass die Administrativhaft eine verwaltungsrechtliche Massnahme ist und keine Strafe. Freiheitsbeschränkungen dürfen mit Blick auf
+diese Tatsache nur minimal sein.
+Aktuell steht den administrativ Inhaftierten im Gefängnis Bässlergut ein Computer pro Stockwerk für
+eingeschränkte digitale Kommunikation zur Verfügung, der tagsüber genutzt werden kann. Dazu
+kommen 200 Minuten pro Woche für weitergehende Internetnutzung, wie Recherchen. Das entspricht rund 3 Stunden Internetzugang pro Woche und ist deutlich zu wenig, um sich über Politik,
+Rechtsprechung oder aktuelle Entwicklungen ins Ausschaffungsland zu informieren.
+In seiner mündlichen Beantwortung der Interpellation 25.5448.01 vom 15.10.2025 hielt der Regierungsrat fest, dass die Nutzung eigener Mobilgeräte durch ein Abkleben der Handykamera, wie es
+bspw. in Hamburg praktiziert wird, nicht praktikabel sei. Dies, obwohl diese Massnahme auch von
+der Nationalen Kommission zur Verhinderung von Folter empfohlen wurde.1 Das ZAA in Zürich gewährt indes den administrativ Inhaftierten persönliche Laptops/Tablets, die regelmässig kontrolliert
+werden.
+Der Zugang zum Internet unterstützt die Betroffenen zentral in der Wahrnehmung von Verfahrensrechten und ermöglicht es, uneingeschränkt und selbstständig Kontakt zu Rechtsvertretungen,
+NGOs und Behörden herzustellen.
+Die Motionär*innen ersuchen den Regierungsrat daher, eine praktikable Lösung zu entwickeln und
+umzusetzen, die administrativ Inhaftierten im Kanton Basel-Stadt einen umfassenden, kostenlosen
+und niederschwelligen Zugang zum Internet ermöglicht – wie dies beispielsweise im Kanton Zürich
+bereits umgesetzt wurde. Dieser Zugang soll insbesondere gewährleisten, dass die Betroffenen ihre
+Verfahrensrechte wahrnehmen können, sich über politische, gesellschaftliche und rechtliche Entwicklungen informieren sowie den Kontakt zu Familie und Freund*innen sowie rechtlichen und sozialen Unterstützungsstellen aufrechterhalten können.
+1
+https://www.nkvf.admin.ch/dam/de/sd-web/GqLIA-Bh5n-B/BS-bericht-stellungnahme-240812.pdf
+Franziska Stier, Patrizia Bernasconi, Johannes Sieber, Bülent Pekerman, Julia Baumgartner,
+Fleur Weibel, Daniel Gmür, Brigitta Gerber, Heidi Mück, Beda Baumgartner, Amina Trevisan, Oliver Bolliger, Hanna Bay, Nicola Goepfert»
+
+Publiziert am 24. April 2026 auf: grosserrat.bs.ch
+
+Seite 1/5
+
+Regierungsrat des Kantons Basel-Stadt
+
+1.
+
+Zur rechtlichen Zulässigkeit der Motion
+
+1.1
+
+Grundlagen des Motionsrechts
+
+Mit einer Motion kann der Grosse Rat den Regierungsrat verpflichten, eine Verfassungs- oder
+Gesetzesvorlage oder eine Vorlage für einen Grossratsbeschluss vorzulegen (§ 42 Abs. 1 des
+Gesetzes über die Geschäftsordnung des Grossen Rates vom 29. Juni 2006 [GO; SG 152.100])
+oder eine Massnahme zu ergreifen (§ 42 Abs. 1bis GO). Der Grosse Rat kann dem Regierungsrat
+also sowohl in seinem eigenen Zuständigkeitsbereich als auch im Zuständigkeitsbereich des Regierungsrats Aufträge erteilen.
+Das Recht setzt dem Grossen Rat bezüglich Motionsbegehren allerdings auch Schranken, die in
+der Gewaltenteilung, im Gesetzmässigkeits-, im Föderalismus- und im Demokratieprinzip gründen. So darf eine Motion nicht gegen höherrangiges Recht verstossen (wie Bundesrecht, interkantonales Recht oder kantonales Verfassungsrecht). Zudem ist gemäss § 42 Abs. 2 GO eine
+Motion unzulässig, die einwirken will auf
+
+
+
+
+
+1.2
+
+den verfassungsrechtlichen Zuständigkeitsbereich des Regierungsrats,
+einen Einzelfallentscheid,
+einen in gesetzlich geordnetem Verfahren zu treffenden Entscheid oder
+einen Beschwerdeentscheid.
+
+Motionsforderung
+
+Mit der vorliegenden Motion wird der Regierungsrat beauftragt, «eine praktikable Lösung zu entwickeln und umzusetzen, die administrativ Inhaftierten im Kanton Basel-Stadt einen umfassenden, kostenlosen und niederschwelligen Zugang zum Internet ermöglicht – wie dies beispielsweise im Kanton Zürich bereits umgesetzt wurde. Dieser Zugang soll insbesondere gewährleisten,
+dass die Betroffenen ihre Verfahrensrechte wahrnehmen können, sich über politische, gesellschaftliche und rechtliche Entwicklungen informieren sowie den Kontakt zu Familie und
+Freund*innen sowie rechtlichen und sozialen Unterstützungsstellen aufrechterhalten können.»
+
+1.3
+
+Rechtliche Prüfung
+
+Die ausländerrechtliche Administrativhaft ist in der Schweiz als administrative Zwangsmassnahme ausgestaltet und weist keinen Strafcharakter auf. Die Haftformen sind abschliessend auf
+Bundesebene im Ausländer- und Integrationsgesetz vom 16. Dezember 2005 (AIG; SR 142.20)
+geregelt und umfassen namentlich die Vorbereitungshaft (Art. 75 AIG), die Ausschaffungshaft
+(Art. 76 AIG), die Dublin‑Haft (Art. 76a AIG) sowie die Ausschaffungshaft wegen fehlender Mitwirkung (Art. 77 AIG) und die Durchsetzungshaft (Art. 78 AIG). Die primäre Gesetzgebungskompetenz des Bundes im Ausländerrecht geht aus Art. 121 der Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999 (BV; SR 101) hervor. Gemäss Art. 3 BV kommt den
+Kantonen indes dort eine subsidiäre Generalkompetenz zu, wo der Bund die Autonomie der Kantone nicht beschränkt. Daraus folgt, dass die Kantone mit dem Vollzug des Ausländerrechts (Behördenzuständigkeiten, Haftvollzug, Organisation der Einrichtungen) betraut sind (siehe auch
+Art. 124 Abs. 2 AIG, woraus hervorgeht, dass die Kantone die notwendigen Bestimmungen zum
+Vollzug des AIG erlassen).
+Im Kanton Basel‑Stadt regelt das Gesetz über den Vollzug der Zwangsmassnahmen im Ausländerrecht (SG 122.300) die kantonale Zuständigkeit. Gemäss § 5 Abs. 1 dieses Gesetzes ordnet
+die Migrationsbehörde die Vorbereitungs-, Ausschaffungs- oder Durchsetzungshaft an. Ergänzend enthalten das Justizvollzugsgesetz (JVG; SG 258.200) und die Justizvollzugsverordnung
+(JVV; SG 258.210) Bestimmungen zum Vollzug. So sieht § 2 Abs. 1 lit. a JVG vor, dass in ausländerrechtliche Administrativhaft Eingewiesene getrennt von anderen Eingewiesenen unterzubringen sind. Personen in ausländerrechtlicher Administrativhaft können entweder im Untersu-
+
+Seite 2/5
+
+Regierungsrat des Kantons Basel-Stadt
+
+chungsgefängnis Basel-Stadt oder im Gefängnis Bässlergut aufgenommen werden (vgl.
+§ 6 Abs. 1 lit. e und § 7 Abs. 1 lit. b JVV). Gestützt auf § 10 Abs. 1 JVV haben diese Einrichtungen
+eine Hausordnung sowie konkretisierende Weisungen explizit auch mit Bezug auf die Verwendung von elektronischen Geräten zu erlassen (vgl. § 10 Abs. 1 lit. k JVV). Das Gefängnis Bässlergut, in dem grundsätzlich Personen, die sich in administrativer Haft befinden, untergebracht
+werden, hat eine Hausordnung betreffend die Administrativhaft (Stand: 09. Oktober 2023) erlassen. Gemäss Ziffer 3.10 dieser Hausordnung haben die eingewiesenen Personen auf Kosten des
+Gefängnisses Zugang zum Internet und die Möglichkeit, über Video zu telefonieren. In diesem
+Zusammenhang wird ausführend auf das Merkblatt Nr. 12 (Internet und Videotelefonie) verwiesen.
+Die ausländerrechtliche Administrativhaft gilt rechtlich als schwerer Eingriff in die Grundrechte
+und internationalen Grundrechtsgarantien der betroffenen Person. Insbesondere tangiert sie die
+in Art. 5 der Konvention zum Schutze der Menschenrechte und Grundfreiheiten vom
+4. November 1950 (EMRK; SR 0.101) verankerte Garantie auf «Freiheit und Sicherheit» sowie
+das in Art. 10 Abs. 2 BV normierte Rechte auf «persönliche Freiheit» (namentlich den Teilgehalt
+der «Bewegungsfreiheit») als auch die im Zusammenhang mit einem Freiheitsentzug aus
+Art. 31 BV fliessenden Rechte. Mithin bestehen hohe Anforderungen an die Gesetzesgrundlage,
+das öffentliche Interesse und die Verhältnismässigkeit der Massnahme. Da die Zwangsmassnahme der Administrativhaft präventiv der Sicherstellung des Weg- bzw. Ausweisungsvollzugs
+dient und nicht die Bestrafung der betroffenen Person bezweckt, haben die sich gegen ihre persönlichen Interessen gerichteten Auswirkungen der Haft als verhältnismässig zu erweisen.
+Die vorliegende Motion verlangt, dass administrativ Inhaftierten im Kanton Basel-Stadt durch eine
+praktikable Lösung einen umfassenden, kostenlosen und niederschwelligen Zugang zum Internet
+ermöglicht wird.
+Gegenstand der vorliegenden Motion ist eine Massnahme in der Zuständigkeit der Exekutive
+(vgl. § 42 Abs. 1bis GO). Dies ist zulässig, sofern der verfassungsrechtliche Zuständigkeitsbereich
+des Regierungsrats respektiert wird (vgl. § 42 Abs. 2 GO). Die Anordnung und der Vollzug der
+ausländerrechtlichen Administrativhaft fallen in den Zuständigkeitsbereich der Exekutive des Kantons Basel-Stadt, weshalb der Grosse Rat in grundsätzlicher Hinsicht vom Regierungsrat in diesem Bereich ein Tätigwerden im Sinne der Ergreifung einer Massnahme verlangen darf. Die Motion zielt auf die Gewährung eines verhältnismässigen Internetzugangs von Personen, die sich in
+ausländerrechtlicher Administrativhaft befinden, ab, ohne dass sie die Art und Weise der Lösungsentwicklung und -umsetzung in konkreter Weise vorgibt. Die Motion belässt damit dem Regierungsrat einen Handlungsspielraum, wie er den umfassenden, kostenlosen und niederschwelligen Internetzugang im Rahmen und unter den in verschiedener Hinsicht einschränkenden
+Bedingungen der Administrativhaft umsetzen will.
+Die Motion verlangt nicht etwas, was sich auf den verfassungsrechtlichen Zuständigkeitsbereich
+des Regierungsrates, auf einen Einzelfallentscheid, auf einen in gesetzlich geordnetem Verfahren
+zu treffenden Entscheid oder einen Beschwerdeentscheid bezieht. Es spricht auch kein höherrangiges Recht wie Bundesrecht oder kantonales Verfassungsrecht gegen den Motionsinhalt.
+
+1.4
+
+Schlussfolgerung
+
+Die Motion ist als rechtlich zulässig anzusehen.
+
+Seite 3/5
+
+Regierungsrat des Kantons Basel-Stadt
+
+2.
+
+Zum Inhalt der Motion
+
+2.1
+
+Bedeutung des Internetzugangs
+
+Die Bedeutung des Internetzugangs für Personen in der Administrativhaft hat in den letzten Jahren deutlich zugenommen. Wie in Ziffer 1.3 dargelegt, ist die ausländerrechtliche Administrativhaft als präventive Massnahme zur Sicherstellung des Vollzugs ausgestaltet und weist keinen
+Strafcharakter auf. Einschränkungen, die über den mit der Festhaltung notwendigerweise verbundenen Sicherungszweck hinausgehen, sind nach der Rechtsprechung des Bundesgerichts
+nur zulässig, wenn sie durch Erfordernisse des Anstaltsbetriebs oder durch konkrete Sicherheitsbedenken im Einzelfall gerechtfertigt sind.
+Der Anspruch auf angemessene soziale Kontakte und Kontaktmöglichkeiten nach aussen umfasst heute – entsprechend der technischen und gesellschaftlichen Entwicklung – auch die Möglichkeit des Zugangs zum Internet, der lediglich zeitlich und örtlich beschränkt werden kann
+(BGE 149 II 6 E. 4.2.1 und E. 5.2). Auch die Nationale Kommission zur Verhütung von Folter
+(NKVF) betont, dass inhaftierte Personen die Möglichkeit haben müssen, sinnvolle Aussenkontakte zu pflegen, und dass der Kontakt zur Aussenwelt so wenig wie möglich einzuschränken ist
+(Bericht der NKVF vom 2. Juli 2024, Rn. 17).
+
+2.2
+
+Aktuelles Angebot im Gefängnis Bässlergut
+
+Das Gefängnis Bässlergut stellt den in der Administrativhaft eingewiesenen Personen kostenlos
+Videotelefonie und Internetzugang zur Verfügung. Die Videotelefonie kann während der gesamten Zellenaufschlusszeiten frei genutzt werden. Wie in der Motion festgehalten, beträgt der Internetzugang derzeit 200 Minuten pro Woche und Person. Das Angebot kann in einem separaten
+Internetraum unter Aufsicht des Personals genutzt werden.
+Daneben stehen den eingewiesenen Personen zahlreiche weitere Kommunikations- und Informationsmöglichkeiten zur Verfügung, namentlich Brief- und Festnetztelefonverkehr, Zeitungen und
+Bibliothek, Fernsehen und Radio, tägliche Besuchsmöglichkeiten, Rechtsberatung für Zwangsmassnahmenbetroffene sowie Beratungsangebote weiterer Organisationen. Mobiltelefone werden aus Sicherheitsgründen eingelagert. Die eingewiesenen Personen können jedoch Telefonnummern von ihrem Gerät abrufen und dieses für die Zwei-Faktor-Authentifizierung verwenden.
+
+2.3
+
+Geplanter Ausbau des Angebots
+
+Das Gefängnis Bässlergut prüft unabhängig von der vorliegenden Motion seit einiger Zeit, wie
+das Angebot weiter verbessert werden kann. Die Umsetzung eines wesentlichen Ausbauschritts
+ist bis zum dritten Quartal 2026 geplant.
+Im Zentrum steht der Ausbau der stationären Infrastruktur: Computer mit Internet- und Videotelefoniezugang werden neu in den Aufenthaltsräumen der Stationen platziert. Die eingewiesenen
+Personen erhalten damit während der gesamten Zellenaufschlusszeiten freien Zugang – ohne
+Beizug des Gefängnispersonals. Die tägliche Nutzungsmöglichkeit steigt auf über zwölf Stunden.
+Im Weiteren wird in einem separaten Raum die Infrastruktur für vertrauliche Videotelefonate mit
+Behörden, Rechtsvertretungen, Beratungsstellen etc. zur Verfügung stehen.
+Auf die Nutzung eigener oder zur Verfügung gestellter Mobilgeräte wird hingegen weiterhin verzichtet. Die Geräte erlauben Ton- und Bildaufzeichnungen, was die Privatsphäre anderer eingewiesener Personen und des Personals gefährdet. Vorrichtungen zum Abdecken der Kamera bieten keinen ausreichenden Schutz. Auch das Zentrum für ausländerrechtliche Administrativhaft
+(ZAA) in Zürich ist von der Abgabe von Tablets an eingewiesene Personen inzwischen abgekommen. So wurden Personen gegen ihren Willen bzw. ohne ihr Wissen mit Tablets fotografiert
+oder von der Kamera eines Tablets erfasst, mit dem ein Videoanruf getätigt wurde. Aus der
+
+Seite 4/5
+
+Regierungsrat des Kantons Basel-Stadt
+
+Rechtsprechung lässt sich im Übrigen kein Anspruch auf Mobiltelefone ableiten; das Bundesgericht hat vielmehr festgehalten, dass diese Problematik durch den Internetzugang an Bedeutung
+verliere (BGE 149 II 6 E. 5.3.2).
+Weitergehende Lösungen, insbesondere die Ausstattung der einzelnen Zellen mit internetfähigen
+Geräten, würden erhebliche Anpassungen erfordern, namentlich zur Gewährleistung einer flächendeckenden und sicheren Infrastruktur. Der damit verbundene zeitliche und finanzielle Aufwand erscheint zum jetzigen Zeitpunkt unverhältnismässig. Dies gilt insbesondere vor dem Hintergrund, dass im Rahmen einer Machbarkeitsstudie derzeit geprüft wird, ob für die ausländerrechtliche Administrativhaft ein eigenständiger Standort ausserhalb des Gefängnisses Bässlergut
+realisiert werden kann. Sollte sich ein Standortwechsel nicht umsetzen lassen, wären weitere
+Anpassungen unter Berücksichtigung der vorgesehenen Lösung sowie der bis dahin gewonnenen Erfahrungen neu zu beurteilen.
+Mit den bereits geplanten Massnahmen wird das Angebot gemessen an den drei Kriterien der
+Motion (vgl. Ziff. 1.2) wesentlich verbessert: Der Internetzugang wird umfassender (täglich über
+zwölf Stunden statt bisher rund drei Stunden pro Woche), bleibt kostenlos und wird niederschwelliger, da die eingewiesenen Personen die Computer in den Aufenthaltsräumen ohne Personalbeizug nutzen können.
+
+2.4
+
+Schlussfolgerung
+
+Die Erweiterung des Internetzugangs, die den Forderungen der Motion bestmöglich entspricht,
+befindet sich bereits in der Umsetzungsphase und soll bis zum dritten Quartal 2026 umgesetzt
+werden. Der Regierungsrat nutzt dabei den ihm von der Motion belassenen Handlungsspielraum
+(vgl. Ziff. 1.3), um im Rahmen der gebäudestrukturellen und betrieblichen Möglichkeiten einen
+möglichst umfassenden, kostenlosen und niederschwelligen Internetzugang zu gewährleisten.
+Gewisse Einschränkungen bleiben zum Schutz der Privatsphäre und aus sicherheitsrelevanten
+Erwägungen notwendig, werden aber so gering wie möglich gehalten. In Verbindung mit den
+zahlreichen weiteren Kommunikations- und Informationsmöglichkeiten entsprechen die Haftbedingungen im Gefängnis Bässlergut den Vorgaben des Bundesgerichts und namentlich der Meinungs- und Informationsfreiheit.
+
+3.
+
+Antrag
+
+Auf Grund dieser Stellungnahme beantragt der Regierungsrat, die Motion Franziska Stier und
+Konsorten betreffend «grundrechtskonformen Internetzugang in der Administrativhaft» dem Regierungsrat zur Erfüllung zu überweisen.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Dr. Conradin Cramer
+Regierungspräsident
+
+Marco Greiner
+Vizestaatsschreiber
+
+Seite 5/5
+
+

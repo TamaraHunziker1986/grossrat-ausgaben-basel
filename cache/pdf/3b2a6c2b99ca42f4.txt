@@ -1,0 +1,256 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+21.5751.02
+
+WSU/P215751
+Basel, 13. Dezember 2023
+Regierungsratsbeschluss vom 12. Dezember 2023
+
+Anzug der Spezialkommission Klimaschutz betreffend «Senkung
+des Energieverbrauchs durch intelligente Heizsysteme»
+Der Grosse Rat hat an seiner Sitzung vom 16. Dezember 2021 den nachstehenden Anzug der
+Spezialkommission Klimaschutz dem Regierungsrat zum Bericht überwiesen:
+«Um die Klimaziele des Kantons zu erreichen, ist eine Umstellung der Energieversorgung auf emissionsneutrale Energieträger unabdingbar. Gleichzeitig muss durch die kontinuierliche Sanierung von
+Liegenschaften auch der Energieverbrauch reduziert werden.
+Neben der besseren Isolierung von Gebäuden gehört dazu auch die Nutzung digitaler Technologien,
+um den Energieverbrauch gezielter zu steuern. Zu denken ist dabei zum Beispiel an ein intelligentes
+Heizsystem, welches die Nutzung von Räumlichkeiten laufend analysiert und anhand von intelligenter
+Mustererkennung Räume gezielter beheizt. Dadurch kann der unnötige Verbrauch von Heizenergie
+beispielsweise in Schulhäusern oder Sitzungszimmern potenziell stark reduziert werden.
+Die Spezialkommission Klimaschutz bittet den Regierungsrat zu prüfen und zu berichten:
+ wie der Regierungsrat Rahmenbedingungen schaffen kann, um die Attraktivität von intelligenten
+Lastenmanagementsystemen des Stromverbrauchs oder intelligenten Heizsystemen zu erhöhen.
+ wie er digitale Innovationen wie die intelligente Steuerung von Betriebsanlagen nutzen kann, um
+den Energieverbrauch in Gebäuden und Infrastruktur des Kantons (bspw. Schulhäusern) weiter zu
+senken.
+Für die Spezialkommission Klimaschutz: Jo Vergeat, Präsidentin»
+
+Wir berichten zu diesem Anzug wie folgt:
+
+1.
+
+Generelle Einordnung
+
+Im Kantonsgebiet Basel-Stadt ist der Endenergieverbrauch über alle Energieträger zwischen 2010
+und 2022 um 26% gesunken. Diese Abnahme ist unter anderem auf die effizientere Nutzung der
+Energie durch intelligente Steuerungs-und Regelsysteme zurückzuführen. Solche Systeme sind
+heute Stand der Technik. Durch die Energiemangellage im Winter 2022/2023 ist die Bedeutung der
+intelligenten Heizungsregelung und des Lastmanagements gestiegen. Die höheren Preise für Energie haben zu einer stärkeren Nachfrage entsprechender Systeme geführt. Energiebezügerinnen
+und -bezüger wurden durch die Informationskampagnen von Bund und Kantonen zur Energiemangellage für solche Systeme sensibilisiert. Entsprechend werden diese heute vielfältig eingesetzt.
+
+Den Mitgliedern des Grossen Rates des Kantons Basel-Stadt zugestellt am 15. Dezember 2023.
+
+Seite 1/6
+
+Regierungsrat des Kantons Basel-Stadt
+
+Gleichzeitig unterstützt der Kanton Basel-Stadt, konkret das Amt für Umwelt und Energie, den Einbau entsprechender Systeme, sei es im Zusammenhang mit der gemäss Energiegesetzgebung
+geforderten energetischen Betriebsoptimierung oder durch die gezielte Information über die Energieberatung im Bereich Heizungsersatz bei Ein- und Mehrfamilienhäusern.
+
+2.
+
+Technische Grundlagen
+
+Die Spezialkommission Klimaschutz fordert den Regierungsrat auf, Lastmanagementsysteme und
+intelligente Heizsysteme durch bessere Rahmenbedingungen attraktiver zu machen.
+
+2.1
+
+Intelligentes Lastmanagement
+
+Über stromseitige Lastmanagementsysteme können Lasten besser mit effektiv vorhandenen
+Stromkapazitäten in Einklang gebracht werden. Der Bedarf wird dabei an die verfügbare Strommenge angepasst. Diese Lastverteilung führt bei Liegenschaften mit hohen Strombezügern wie
+Wärmepumpen oder Elektroautos, die gleichzeitig vor Ort Strom über z.B. Photovoltaikanlagen erzeugen, zu einer höheren Eigenverbrauchsquote. Der eigens produzierte Strom kann mit einer intelligenten Laststeuerung besser durch die vorhandenen Bezüger abgenommen werden.
+Verfügen Energieversorgungsunternehmen über einen Zugriff auf die im Netz vorhandenen Lasten,
+so können diese über gezielte Abschaltbetriebe die Lasten besser auf die effektiv im Netz vorhandene Strommenge anpassen. Dieses «Demand Side Management» führt zu einer nivellierten
+Stromnachfrage. Zudem können mit dem Lastmanagement Stromspitzen im Netz ausgeglichen
+werden, was die Netzstabilität erhöht. Für Unternehmen mit stromintensiven Prozessen ist das
+Lastmanagement finanziell interessant, weil dadurch Lastspitzen ausgeglichen werden, die aufgrund hoher Leistungspreise zu höheren Stromkosten führen.
+Mit dem Lastmanagement allein wird der Stromverbrauch nicht geringer. Aber das Lastmanagement führt zu mehr Netzstabilität und je nach Tarifstruktur für die Strombezügerinnen und -bezüger
+zu tieferen Stromkosten.
+
+2.2
+
+Intelligente Heizsysteme
+
+Im Bereich der Wärmeenergie wird der Energieverbrauch durch die Regelung und Steuerung der
+Heizsysteme tatsächlich geringer, wenn die Energie auf den effektiven Bedarf angepasst wird. Unter Einbezug der Gebäudedynamik kann mittels Absenkbetrieb, Aussentemperatur- und Raumregelung eine Energieverbrauchsreduktion erreicht werden. Damit eine Heizung möglichst bedarfsgerecht betrieben wird, sind verschiedene Parameter zu berücksichtigen. Einerseits hat jede
+Liegenschaft eine eigene Gebäudedynamik, die je nach vorhandener Speichermasse, dem Anteil
+Fenster sowie der Wärmedämmung unterschiedlich ist. Mit der Gebäudedynamik wird das Verhalten des Gebäudes beschrieben, also z.B. wie es sich mit der Wärme-Speicherfähigkeit verhält oder
+wie schnell es auskühlt. Für eine intelligente Regelung der Heizenergie muss die Dynamik des
+Gebäudes mitbeachtet werden.
+Neben der Gebäudedynamik beeinflusst auch die Art des Wärmeabgabesystems die Heizungsregelung. Fussbodenheizungen sind in der Regel träger als Heizkörper, arbeiten aber mit niedrigeren
+Vorlauftemperatur.
+Wichtig ist, dass sich die Heizkörper über Thermostatventile und die Bodenheizungen raumweise
+regeln lassen. Damit ist eine individuelle Raumtemperatur, abhängig von der Art der Nutzung, bereits möglich. Über Aussentemperaturfühler lässt sich die Vorlauftemperatur zudem in Abhängigkeit
+der Aussentemperatur gleitend regeln. Zentral im Zusammenspiel dieser Komponenten ist die richtig eingestellte Heizkurve. Mit der Heizkurve wird die Vorlauftemperatur entsprechend der effektiven Aussentemperatur so geregelt, dass die gewünschte Raumtemperatur von standardmässig
+
+Seite 2/6
+
+Regierungsrat des Kantons Basel-Stadt
+
+20°C erreicht wird. Werden diese Parameter abgestimmt auf das Gebäude richtig einreguliert, kann
+der Energieverbrauch bereits erheblich minimiert werden.
+Smart Home Lösungen erlauben darüber hinaus eine Steuerung einzelner Parameter und Komponenten über eine App oder Steuereinheit im Gebäude. Der Heizenergieverbrauch lässt sich durch
+den Einsatz von Smart Home Lösungen weiter reduzieren. Im Vergleich zu einem bereits gut einregulierten Heizsystem ist die zusätzliche Einsparung jedoch überschaubar. Zu beachten gilt hier,
+dass Smart Home Systeme den elektrischen Energieverbrauch erhöhen, weil alle steuerbaren
+Komponenten ständig mit dem Netzwerk und Strom verbunden sein müssen, damit diese individuell regelbar sind. Mit der Anzahl Steuerungskomponenten steigt auch die Komplexität des Systems,
+was eine gute und aufeinander abgestimmte Regelung bedingt. Ist diese nicht gegeben, kann der
+Energieverbrauch auch steigen.
+
+3.
+
+Rahmenbedingungen im Kanton Basel-Stadt
+
+3.1
+
+Gesetzliche Vorgaben
+
+3.1.1
+
+Neubauten
+
+In § 5 Abs. 3 Energiegesetz vom 16. November 2016 (EnG) werden bereits heute Vorgaben bezüglich der Gebäudeautomation gemacht: «Im Hinblick auf einen möglichst tiefen Energieverbrauch sind Neubauten der Kategorien III bis XII (SIA 380/1) mit Einrichtungen zur Gebäudeautomation auszurüsten, soweit es technisch möglich und wirtschaftlich zumutbar ist.» Ausgenommen
+sind Ein- und Mehrfamilienhäuser.
+Diese Vorgaben werden im Baubewilligungsverfahren vollzogen. Neubauten dieser Kategorien, die
+mit komplexer Gebäudetechnik ausgestattet werden, verfügen heute immer über ein Gebäudeautomationssystem.
+Auch Neubauten im Bereich der Ein- und Mehrfamilienhäuser werden mit intelligenten Heizungssteuerungen ausgestattet. Diese sind Stand der Technik. Jedes moderne Heizsystem verfügt über
+Schnittstellen für die Vernetzung sowie eine intelligente Steuerung.
+3.1.2
+
+Bestandsbauten
+
+Beim Heizungsersatz in Ein- und Mehrfamilienhäusern werden zur Qualitätssicherung für die Auszahlung von Förderbeiträgen verschiedene Vorgaben gemacht. Bei jeder neuen Heizungsanlage
+müssen die korrekte Installation sowie die Einstellwerte der Steuerung und Regelung dokumentiert
+werden. Bei Wärmepumpen mit einer Leistung kleiner 15 kW muss für die Auszahlung von Förderbeiträgen ein Zertifikat des Wärmepumpen Systemmoduls vorliegen. Bei Wärmepumpen im grösseren Leistungsbereich sowie Holzheizungen ist eine Leistungsgarantie von Energie Schweiz einzureichen. Zudem muss die Anlage über ein gültiges Qualitätssiegel verfügen.
+Bei Wärmepumpen wird zudem mit der Baubewilligung gefordert, dass der Elektroeinsatz bei einer
+Störung der Wärmepumpe nicht automatisch in Betrieb geht. Damit wird vermieden, dass die Wärmepumpe unbemerkt rein elektrisch heizt.
+Alle diese Vorgaben werden durch die zuständige Vollzugsbehörde kontrolliert.
+3.1.3
+
+Grossverbraucher und Betriebsoptimierungspflicht
+
+Grosse Unternehmen mit einem elektrischen Energieverbrauch über 500'000 kWh/a unterliegen
+den Grossverbraucherbestimmungen. Zudem sind Betriebe mit einem elektrischen Energieverbrauch zwischen 200'000 und 500'000 kWh/a verpflichtet, eine Betriebsoptierung durchzuführen.
+
+Seite 3/6
+
+Regierungsrat des Kantons Basel-Stadt
+
+Im Rahmen dieser Bestimmungen werden Betriebsparameter der Gebäudetechnikkomponenten
+überprüft und wo nötig sinnvoll angepasst. Diese Massnahmen stossen bei fast allen Unternehmen
+auf hohe Akzeptanz, weil sie mit geringen Investitionskosten und kleinem Aufwand realisiert werden können und die Energiekosten deutlich reduzieren.
+
+3.2
+
+Beratung
+
+Das Amt für Umwelt und Energie betreibt eine eigene Energieberatung mit zwei Mitarbeitern. Das
+Angebot richtet sich in erster Linie an Liegenschaftseigentümerinnen und -eigentümer im Bereich
+der Wohnnutzung. Die Berater verfügen über ein breites praktisches Wissen im Bereich der Heizungsinstallationen, mit dem sie die Eigentümerschaft auch zum Thema der intelligenten Heizungssteuerung bestens beraten können.
+Neben der klassischen Vollzugsarbeit, in der klare Vorgaben bezüglich der Installation von intelligenten Heizungs- bzw. von Gebäudeautomationssystemen gemacht werden, erhalten Liegenschaftseigentümerinnen und -eigentümer auch praktische Tipps und Informationen zum richtigen
+Betrieb ihrer Anlagen. Diese produkteunabhängige Beratung wird von Kundinnen und Kunden gut
+aufgenommen.
+
+3.3
+
+Sensibilisierung
+
+Damit alle relevanten Akteure in Basel-Stadt, insbesondere Hauseigentümerinnen und Unternehmen, über die bestehenden Möglichkeiten im Bereich der Regelung und Steuerung von Anlagen
+informiert sind, sieht die kantonale Verwaltung die Sensibilisierung dieser Akteure als Teil ihrer
+Aufgabe. Die Sensibilisierung für die Themen Energieverbrauchsreduktion und Energieeffizienz
+soll deshalb weiterhin und in regelmässigen Abständen erfolgen.
+Neben den privaten Akteuren soll auch die kantonale Verwaltung sensibilisiert werden. Das Bauund Verkehrsdepartement erarbeitet zurzeit im Rahmen der Massnahmenplanung zur langfristigen
+Senkung des Energieverbrauchs die Grundlagen für eine verwaltungsinterne Sensibilisierung. Für
+die Kommunikation innerhalb der kantonalen Verwaltung stehen die zuständigen Dienststellen in
+engem Austausch.
+
+4.
+
+Gebäude und Infrastruktur des Kantons
+
+4.1
+
+Vorgaben in der Energiegesetzgebung
+
+Kantonale Liegenschaften haben eine Vorbildfunktion. Deshalb sind im Energiegesetz und der dazugehörigen Verordnung zum Energiegesetz vom 29. August 2017 (EnV) Vorgaben bezüglich der
+kantonalen Bauten formuliert. EnV Anhang 10 regelt die Vorgaben für kantonale Gebäude generell.
+Die Bestimmungen von § 18 EnG1 sind zwar teilweise überholt, Absatz 2 besagt jedoch, dass der
+Energieverbrauch der kantonalen Liegenschaften bis 2030 um 10% gegenüber dem Niveau von
+2010 gesenkt werden muss. Um dies zu erreichen, ist eine intelligente Steuerung und Regelung
+der Anlagen in kantonalen Bauten unabdingbar.
+
+4.2
+
+Bereits implementierte intelligente Systeme
+
+Die Abteilung Energiemanagement (Städtebau&Architektur, Bau- und Verkehrsdepartement) ist im
+Kanton verantwortlich für den effizienten Einsatz von Energie bei den kantonalen Liegenschaften.
+1 1 Für Bauten im Verwaltungs- und Finanzvermögen des Kantons werden die Minimalanforderungen an die Energienutzung erhöht. Der Kanton legt einen
+
+Standard fest und überprüft diesen.
+2 Die Wärmeversorgung wird bis 2050 zu 95% ohne fossile Brennstoffe realisiert. Der spezifische Gesamtenergieverbrauch (Endenergie) der Bauten wird
+bis 2030 um 10% gegenüber dem Niveau von 2010 gesenkt.
+3 Betreiber von Infrastrukturanlagen, die ganz oder teilweise dem Kanton gehören, können verpflichtet werden, Abwärme, Klärgase etc. angemessen zu
+nutzen.
+
+Seite 4/6
+
+Regierungsrat des Kantons Basel-Stadt
+
+Zu ihrem Aufgabengebiet gehört die Umsetzung der Betriebsoptimierung bei den genannten Liegenschaften. Mit hoher Systematik hat die Abteilung Energiemanagement eine Aufstellung aller
+Liegenschaften im Verwaltungsvermögen erarbeitet. Dabei wurde auch die zeitliche Planung der
+anstehenden Massnahmen im Bereich des Heizungsersatzes und der Installation von Gebäudemanagement- und -steuerungskomponenten festgelegt.
+Eine systematische Analyse der grössten Verbraucher bei den kantonalen Liegenschaften wurde
+im Winter 2022/2023 unter Einbezug von externen Fachfirmen durchgeführt. Die gewonnenen Erkenntnisse aus der Vorbereitung einer potenziellen Energie-Mangellage wurden genutzt für Pilotprojekte zur langfristigen Senkung des Energieverbrauchs. Unter anderem wurden an ersten
+Standorten intelligente Systeme zur Steuerung von Lüftungen und Heizungen umgesetzt. Damit
+einhergehend wurde die zeitliche Planung der anstehenden Massnahmen im Bereich des fossilen
+Heizungsersatzes vorbereitet. Mit einer Potenzialanalyse wird nun ermittelt, um wieviel der Energieverbrauch reduziert werden muss, um die kantonalen Klimaziele zu erreichen.
+Über Gebäudeautomationssysteme werden Anlagen überwach- und steuerbar. In Neubauprojekten und Sanierungen wird dies bereits umgesetzt. Mittels beispielsweise KNX-Schnittstellen (intelligentes Steuerungssystem zur Steuerung von Gebäudetechnikelementen) werden über Wetterstationen und entsprechenden Sensoren im Aussenbereich, Raumtemperaturfühler und -sensoren
+und Zeitsteuerungen die Heizung, Lüftung und Beleuchtung dem effektiven Bedarf angepasst.
+Anhand von Pilotprojekten sollen weitere innovative Steuerungs- und Regelungssysteme getestet
+werden. So wurde im Schulhaus Leonhard ein System installiert, das mittels Bewegungsmelder die
+Belegung erfasst. Die Daten werden in einer Matrix ausgewertet, um zukünftige Belegungsmuster
+zu errechnen. Es wird eine Einsparung der Wärmeenergie von bis zu 15% erwartet.
+Über das neu im Aufbau befindliche Energiemanagementsystem Wiritec können Energiedaten
+plausibilisiert und optimiert werden. Das System erlaubt eine Überwachung und das Controlling der
+Energie- und Stromverbräuche der kantonalen Liegenschaften.
+Die technischen Möglichkeiten sind gegeben, das Know-how ist vorhanden. Für die Umsetzung
+benötigt es eine systematische Analyse des Bestandes, welche vom Regierungsrat bald in Auftrag
+gegeben werden soll. Die Umsetzung der Projekte wird auf Basis der Analyse priorisiert und in
+Einzelprojekten und Sammelkrediten zu spezifischen Themen (z.B.: fossile Heizungsersatz, LEDErsatz) umgesetzt. Die Sensibilisierung der Nutzerinnen und Nutzer ist Teil der umzusetzenden
+Massnahmen.
+
+5.
+
+Schlussfolgerung
+
+Intelligente Heizsysteme und Lastmanagementsysteme sind heute bereits Stand der Technik. Entsprechend werden diese in Neubauten standardmässig eingesetzt.
+In Anbetracht der bereits vorhandenen Instrumente in der Vollzugspraxis scheint eine zusätzliche
+Regulierung im Bereich intelligente Heizungssteuerung für Bestandsbauten nicht angezeigt.
+Die Themen Energieeffizienz und Verbrauchsreduktion sind mit der Energie-Mangellage und den
+hohen Energiepreisen soweit in den Fokus gerückt, dass immer mehr Eigentümerinnen und Eigentümer sowie insbesondere Unternehmen ihren Energieverbrauch genauer analysieren und wirtschaftliche Massnahmen zur Verbrauchsreduktion aus eigenem Interesse umsetzen.
+
+Seite 5/6
+
+Regierungsrat des Kantons Basel-Stadt
+
+6.
+
+Antrag
+
+Aufgrund dieses Berichts beantragen wir, den Anzug der Spezialkommission Klimaschutz betreffend «Senkung des Energieverbrauchs durch intelligente Heizsysteme » abzuschreiben.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Lukas Engelberger
+Vizepräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Seite 6/6
+
+

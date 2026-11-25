@@ -1,0 +1,952 @@
+Grosser Rat des Kantons Basel-Stadt
+
+Bildungs- und Kulturkommission
+3
+
+23.1410.03
+22.1303.05
+20.5343.05
+19.5264.06
+Bildungs- und Kulturkommission
+Basel, 26. Juni 2024
+Kommissionsbeschluss vom 26. Juni 2024
+
+Bericht der Bildungs- und Kulturkommission
+zum
+
+Ratschlag zur Anpassung des Schulgesetzes vom 4. April 1929 und
+Bericht
+betreffend
+
+Kantonale Volksinitiative «für den Ausbau der separativen Angebote an
+der integrativen Schule Basel-Stadt (Förderklassen-Initiative)»
+und
+
+Gegenvorschlag «Massnahmen für die Verbesserung der integrativen
+Volksschule Basel-Stadt»
+sowie Umsetzung der
+
+Motion Franziska Roth und Konsorten betreffend ergänzende
+Massnahmen zur Umsetzung des Auftrages der integrativen Schule
+sowie Bericht zum
+
+Anzug Martina Bernasconi und Konsorten betreffend Aufhebung des
+Kleinklassenverbots
+
+Den Mitgliedern des Grossen Rates des Kantons Basel-Stadt zugestellt am 28. Juni 2024
+
+Grosser Rat des Kantons Basel-Stadt, Bildungs- und Kulturkommission
+
+Inhaltsverzeichnis
+1.
+
+Begehren .................................................................................................................... 3
+
+2.
+
+Ausgangslage ............................................................................................................ 3
+
+3.
+
+Auftrag und Vorgehen .............................................................................................. 4
+
+4.
+
+Kommissionsberatung.............................................................................................. 4
+4.1
+4.2
+
+Allgemeine Erwägungen ................................................................................................................ 4
+Anhörungen ................................................................................................................................... 5
+4.2.1 Verwaltung .........................................................................................................................5
+4.2.2 Delegation des Initiativkomitees .........................................................................................6
+4.2.3 Delegation der Gemeinde Riehen ......................................................................................7
+4.2.4 Delegation des VPOD der Region Basel ...........................................................................7
+4.2.5 Delegation des Verbands der Schulleiterinnen und Schulleiter BS (VSLBS) ....................8
+4.2.6 Delegation der FSS ............................................................................................................9
+4.3 Verlängerung der Bearbeitungsfrist ............................................................................................... 9
+4.4 Massnahmen des regierungsrätlichen Gegenvorschlags ........................................................... 10
+4.4.1 Heilpädagogisch geführte klassenübergreifende Fördergruppen (teilseparatives Angebot in der
+Schule) an der Primarschule ....................................................................................................... 10
+4.4.2 Lerninseln an der Primarschule und der Sekundarstufe I ........................................................... 11
+4.4.3 Verbesserter Einsatz und Erhöhung der Förderressourcen direkt an den Schulen .................... 11
+4.4.4 One-Pool-Lösung an der Primar- und Sekundarstufe I ............................................................... 11
+4.4.5 Erhöhung der Förderressourcen im Kindergarten ....................................................................... 12
+4.4.6 Erhöhung der Ressourcen im Zentrum für Frühförderung (ZFF) ................................................ 12
+4.4.7 Erhöhung der Logopädie-Ressourcen und Erhöhung der Psychomotorik-Ressourcen ............. 12
+4.4.8 SpA Plus für Schülerinnen und Schüler mit hohem Förderbedarf auf der Primarstufe und der
+Sekundarstufe I............................................................................................................................ 12
+4.4.9 Weiterentwicklung der Tagesstrukturen für Schülerinnen und Schüler mit speziellem
+Betreuungsbedarf ........................................................................................................................ 13
+4.4.10 Fördergruppen und Förderklassen auf Primarschulstufe ........................................................... 13
+4.5 Gegenvorschlag der BKK ............................................................................................................ 14
+4.5.1 Förderklassen .............................................................................................................................. 14
+4.5.2 Doppelbesetzungen ..................................................................................................................... 16
+4.5.3 Erwartungen an die Volksschulleitung......................................................................................... 17
+
+5.
+
+Antrag ....................................................................................................................... 17
+
+Beilage:
+- Entwurf Grossratsbeschluss
+
+Seite2/19
+
+Grosser Rat des Kantons Basel-Stadt, Bildungs- und Kulturkommission
+
+1.
+
+Begehren
+
+Mit dem Ratschlag Nr. 23.1410.01 beantragt der Regierungsrat, die kantonale Volksinitiative «für
+den Ausbau der separativen Angebote an der integrativen Schule Basel-Stadt (FörderklassenInitiative)» den Stimmberechtigten des Kantons Basel-Stadt zur Abstimmung vorzulegen.
+Gleichzeitig beantragt der Regierungsrat, den Stimmberechtigten die Ablehnung der kantonalen
+Volksinitiative und die Annahme des Gegenvorschlags «Massnahmen für die Verbesserung der
+integrativen Volksschule Basel-Stadt» zu empfehlen. Zur Umsetzung des formulierten
+Gegenvorschlags beantragt der Regierungsrat eine Änderung des Schulgesetzes (SG 410.000)
+vom 4. April 1929 sowie wiederkehrende Mehrkosten.
+Im Weiteren beantragt der Regierungsrat, die Motion Franziska Roth und Konsorten betreffend
+«ergänzende Massnahmen zur Umsetzung des Auftrages der integrativen Schule» und den Anzug
+Martina Bernasconi und Konsorten betreffend «Aufhebung des Kleinklassenverbots»
+abzuschreiben.
+
+2.
+
+Ausgangslage
+
+Am 9. September 2022 stellte die Staatskanzlei durch Verfügung fest, dass die kantonale
+Volksinitiative «für den Ausbau der separativen Angebote an der integrativen Schule Basel-Stadt
+(Förderklassen-Initiative)» mit 3'588 gültigen Unterschriften zustande gekommen ist. Die Initiative
+hat folgenden Wortlaut:
+Gestützt auf § 47 der Verfassung des Kantons Basel-Stadt vom 23. März 2005 (KV; SG 111.100)
+und auf das Gesetz betreffend Initiative und Referendum vom 16. Januar 1991 (IRG; SG 31.100)
+reichten die Unterzeichnenden, im Kanton Basel-Stadt Stimmberechtigten, am 19. August 2022
+folgende unformulierte Initiative ein:
+«Die unterzeichnenden im Kanton Basel-Stadt stimmberechtigten Personen verlangen, dass im
+Kanton Basel-Stadt neben den Integrationsklassen wieder heilpädagogisch geführte Förderklassen
+eingeführt werden. Diese sollen wieder von einer eigenständigen Leitung mit voller
+Führungskompetenz geleitet werden. In die heilpädagogischen Förderklassen sollen Schülerinnen
+und Schüler eingeteilt werden, die kleinere Lerngruppen benötigen, um sich entfalten zu können
+oder Schülerinnen und Schüler, die wegen ihres auffälligen Verhaltens nicht in eine Regelklasse
+integriert werden können. Zudem sollen die heilpädagogischen Schulen sowohl privat als auch
+staatlich weiter ausgebaut werden.
+Die integrative Schule wurde in der Deutschschweiz vor etwa zehn Jahren eingeführt. Jetzt zeigt
+sich, dass das System für die Lehr- und Fachpersonen zunehmend zum Problem wird. Gemäss
+einer Studie des Schweizer Lehrerverbands (LCH) sehen 90 % der Lehrerinnen und Lehrer
+Verhaltensauffälligkeiten von Schülern als ein Hauptproblem ihres Berufsalltags. In besonderen
+Situationen muss es laut dem langjährigen ehemaligen Lehrerverbandspräsidenten Beat Zemp
+deshalb trotz integrativer Schule möglich sein, verhaltensauffällige Schüler nach einer sorgfältigen
+Abklärung in Sonderklassen zu separieren. Das Ziel ist eine gute Schule für alle Kinder und
+Jugendlichen (anstelle des aktuellen «integrativen Einheitsmodells»).»
+Nach Einsichtnahme in den Bericht des Regierungsrates Nr. 22.1303.01 vom 7. Dezember 2022
+erklärte der Grosse Rat die unformulierte Förderklassen-Initiative am 11. Januar 2023 für rechtlich
+zulässig.
+
+Seite3/19
+
+Grosser Rat des Kantons Basel-Stadt, Bildungs- und Kulturkommission
+
+Die detaillierten Ausführungen sind dem Ratschlag zu entnehmen.
+
+3.
+
+Auftrag und Vorgehen
+
+Der Grosse Rat hat den Ratschlag Nr. 23.1410.01 betreffend «Ratschlag zur Anpassung des
+Schulgesetzes vom 4. April 1929 und Bericht betreffend kantonale Volksinitiative ‘für den Ausbau
+der separativen Angebote an der integrativen Schule Basel-Stadt (Förderklassen-Initiative)’» der
+Bildungs- und Kulturkommission (BKK) am 6. Dezember 2023 zur Beratung überwiesen. Die BKK
+hat den Ratschlag an elf Sitzungen beraten. An der Beratung haben seitens
+Erziehungsdepartement (ED) der (damalige) Vorsteher, der Leiter Volksschulen, der Co-Leiter des
+Schulpsychologischen Diensts, die Leiterin Stab Volksschulen, sowie die Co-Schulleiterin der SEK
+Sandgruben, teilgenommen. Die BKK hat im Rahmen der Beratung zudem eine Delegation des
+Initiativkomitees, der Gemeinde Riehen, des VPOD der Region Basel, des Verbands der
+Schulleiterinnen und Schulleiter BS (VSLBS) sowie der freiwilligen Schulsynode Basel (FSS)
+angehört.
+
+4.
+
+Kommissionsberatung
+
+4.1
+
+Allgemeine Erwägungen
+
+Seit der Übernahme der Vorgaben aus dem Sonderpädagogik-Konkordat im Jahre 20111 ist die
+integrative Schule Teil des pädagogischen Auftrages der Volksschule und der Berufsbildung im
+Kanton Basel-Stadt. Ziel der integrativen Schule ist es, möglichst alle Kinder zu integrieren und
+ihnen die bestmögliche Bildung zu ermöglichen, unabhängig von ihren individuellen Unterschieden
+und besonderen Bedürfnissen. Dieses Prinzip der integrativen Schule ist in Basel-Stadt seit 2011
+ein gesetzlicher Auftrag. Im Zusammenhang mit der Einführung der integrativen Schule hat der
+Kanton Basel-Stadt als einziger der 16 Kantone, die dem Sonderpädagogik-Konkordat beigetreten
+sind, Kleinklassen gänzlich abgeschafft. Die Basler Schulen haben somit schweizweit eine
+Vorreiterrolle eingenommen.
+Der Wechsel hin zur integrativen Schule birgt zwar grosse Chancen, bedarf jedoch auch einer
+steten Justierung der Massnahmen, damit ihr Potenzial entfaltet werden kann. So wurde im Jahr
+2019 auf die spezifischen Erfordernisse der Schulen mit der Verankerung der Förderangebote im
+§ 63b Abs. 1bis Schulgesetz (Unterricht in Deutsch als Zweitsprache, Förderangebote für besonders
+leistungsfähige Schülerinnen und Schüler, Schulische Heilpädagogik, Logopädie, Psychomotorik
+sowie Einführungsklassen)2 reagiert. Obschon damit der Massnahmenkatalog für die integrative
+Schule gesetzlich weiter gestärkt wurde, wurden sowohl seitens der Verfechter des integrativen
+Modells als auch von Seiten der Verfechter der Wiedereinführung von Kleinklassen der Ruf nach
+weiteren Massnahmen laut.3 Die gemäss Initianten und Initiantinnen chronische Überforderung
+aller Beteiligten bei der Umsetzung der integrativen Schule mündete letztlich in der Lancierung der
+«Förderklassen-Initiative».
+Am System der integrativen Schule spaltet sich die Gesellschaft seit deren Einführung. Die Zweifel
+über das Konzept sind nie ganz verstummt, und in den vergangenen Jahren kam es immer wieder
+zu kritischen Diskussionen. Dennoch anerkennt die Kommission die Leistungen, welche im
+Zusammenhang mit dem Systemwechsel im Kanton vollbracht wurden, und heisst die integrative
+1
+
+https://www.edk.ch/de/themen/sonderpaedagogik
+https://grosserrat.bs.ch/ratsbetrieb/geschaefte/200109366
+Motion Franziska Roth und Konsorten betreffend «ergänzende Massnahmen zur Umsetzung des Auftrages der integrativen Schule» Anzug Martina
+Bernasconi und Konsorten betreffend «Aufhebung des Kleinklassenverbots»
+2
+3
+
+Seite4/19
+
+Grosser Rat des Kantons Basel-Stadt, Bildungs- und Kulturkommission
+
+Beschulung mehrheitlich weiterhin gut. Es ist völlig nachvollziehbar, dass Systemwechsel dieser
+Grössenordnung eine sukzessive und stete Anpassung, an die sich ändernden Gegebenheiten
+bedingen. Die Schwierigkeit dieses iterativen Prozesses besteht nicht zuletzt darin, dass es bei
+diesem Systemwechsel um Schülerinnen und Schüler geht. Es sind letztlich ganze Generationen
+von Kindern, welche durch die Art der Beschulung massgeblich auf ihrem weiteren Lebensweg
+geprägt werden. Die Frage, welche Art der Beschulung die richtige ist, wird auch von der Forschung
+nicht einheitlich beantwortet. Daher benötigen Anpassungen am System ein gehöriges Mass an
+Fingerspitzengefühl. Für den Einsatz der richtigen Mittel ist folglich immer das sorgfältige Abwägen
+der Vor- und Nachteile zentral. Für die BKK ist entscheidend, dass bei jeglicher Diskussion stets
+das Wohl der Kinder oberste Prämisse ist.
+In der Kommissionsberatung wurde oft auf verschiedene Studien hingewiesen, darüber diskutierte
+die BKK jeweils angeregt. Die BKK entschied aber mehrheitlich, auf Anhörungen einzelner
+Wissenschaftlerinnen und Wissenschaftler zu verzichten. In der Folge wird bei den Erwägungen
+auf Verweise auf einzelne Studien verzichtet. Soweit Anhörungsgäste Studien referenzieren, wird
+dies so angegeben.
+Aus diesen Überlegungen heraus kommt die Kommissionsmehrheit zum Schluss, dass die
+integrative Schule durch geeignete Erweiterungen des Massnahmenkatalogs des § 63b Abs. 1bis
+Schulgesetz weiter gestärkt werden muss. Bei der Umsetzung der Massnahmen müssen sowohl
+die Lehrerschaft und die Schulleitungen als auch die Kinder und deren Eltern gut miteingebunden
+werden. Eine separative Beschulung nach Vorbild der vor rund 16 Jahren abgeschafften
+Kleinklassen lehnt die Kommission hingegen ab.
+
+4.2
+
+Anhörungen
+
+4.2.1 Verwaltung
+Die BKK liess sich zu Beginn der Beratung vom zuständigen Departement die regierungsrätlichen
+Absichten erläutern, welche mit dem Ratschlag 23.1410.01 einhergehen. Die Beratung kann als
+aussergewöhnlich bezeichnet werden, da die regierungsrätliche Zuständigkeit nach der Wahl des
+Departementvorstehers zum Regierungspräsidenten im April 2024, wechselte. Die zuverlässige
+und gute Begleitung der Kommission durch die Mitarbeiterinnen und Mitarbeiter des
+Erziehungsdepartements erfuhr durch diesen Umstand keinen Abbruch. Der neue
+Departementsvorsteher konnte an den Kommissionsberatungen nicht teilnehmen und gab auch
+keine schriftliche Stellungnahme ab.
+Die Vertreterinnen und Vertreter der Verwaltung stellten zu Beginn der Beratung des Geschäfts
+klar, dass der regierungsrätliche Vorschlag sehr breit abgestützt sei. Am Anfang des Prozesses zur
+Ausarbeitung des Ratschlags habe nicht die «Förderklassen-Initiative», sondern grundlegende
+Überlegungen seitens des Erziehungsdepartements gestanden. So sei schon früher erkannt
+worden, dass das Basler System der integrativen Schule an seine Grenzen stosse. Als Grund für
+die Überlastung des Systems wurde der erhebliche Anstieg der Anzahl von Kindern genannt, die
+eine zusätzliche Unterstützung benötigen und mit dem normalen Förderangebot der Schule nicht
+zurechtkommen. Innert sieben Jahren seien die verstärkten Massnahmen an den Basler Schulen
+um 66 Prozent angestiegen. Das betreffe zum einen Kinder in einem Grenzbereich, die schulisch
+zu leistungsstark für Sonderschulmassnahmen, aber gleichzeitig zu leistungsschwach seien, um
+dem Regelunterricht nach Kaskade 2-Massnahmen folgen zu können (Lernschwäche/kognitive
+Einschränkungen), sowie Kinder mit Verhaltensauffälligkeiten. Diese Faktoren könne man nicht
+beeinflussen. Die Schulen stossen bei der Beschulung solch betroffener Kinder zunehmend an ihre
+Seite5/19
+
+Grosser Rat des Kantons Basel-Stadt, Bildungs- und Kulturkommission
+
+Grenzen. Leider sei das Erziehungsdepartement mit seinen Überlegungen zur Stärkung der
+integrativen Schule durch die Corona-Pandemie ausgebremst worden.
+Die BKK formulierte nach der Anhörung der Verwaltung, an welcher alle Massnahmen des
+Ratschlags nochmals hergeleitet und diskutiert wurden, zwei ausführliche Fragenkataloge
+zuhanden des Erziehungsdepartements. Die Fragenkataloge wurden beantwortet. Zudem wurde
+im Zuge der Beratung die Co-Schulleiterin der SEK Sandgruben angehört, welche der Kommission
+interessante Einblicke in die Arbeit im Bereich der heilpädagogischen Spezialangebote (SpA)
+geben konnte (vgl. hierzu Kapitel 4.4.8).4
+
+4.2.2 Delegation des Initiativkomitees
+Die Vertreterinnen und Vertreter des Initiativkomitees nannten als Ziel der Initiative die Stärkung
+der integrativen Schule. Das Massnahmenpaket der Regierung, insbesondere die Ressourcen zur
+Frühförderung und im Kindergarten, werden vom Initiativkomitee begrüsst. Die Mehrheit der
+Lehrpersonen heisse diese Massnahmen ebenfalls gut. Es gebe dennoch zwei zentrale Lücken im
+Massnahmenpaket: Es fehlen die Förderklassen sowie ein Förderangebot auf Sekundarstufe I.
+Diese zentralen Anliegen der Initiative sollten in den Gegenvorschlag aufgenommen werden. Die
+Schaffung heilpädagogischer Förderklassen müsse sowohl auf Primar- als auch auf Sekundarstufe
+I möglich sein. Förderklassen bieten die Chance, Schülerinnen und Schüler umfassend und nicht
+nur punktuell zu fördern. Sofern diese beiden Anliegen im Gegenvorschlag Berücksichtigung
+finden, wäre das Initiativkomitee dazu bereit, die Initiative zurückzuziehen. Die Initiative fordere
+auch, dass Förderklassen eine eigenständige Leitung mit voller Führungskompetenz aufweisen
+sowie dass ein separatives Angebot aufgebaut werden müsse. Auf diese beiden Punkte würde
+beim Rückzug der Initiative verzichtet.
+Die wichtigsten Eckwerte für das Gelingen von Förderklassen sind gemäss der Delegation des
+Initiativkomitees die nachfolgenden:
+-
+
+-
+
+Die Förderklassen bestehen aus einer kleinen Lerngruppe (mit max. 10 Schülerinnen und
+Schüler) auf allen Stufen der Volksschule.
+Die Förderklassen unterscheiden sich durch ihre umfassende Förderung von der nur
+punktuellen Förderung in den Regelklassen.
+Die Förderklassen werden grundsätzlich mit Doppelbesetzung geführt, vorzugsweise durch
+eine schulische Heilpädagogin oder eine erfahrene Lehrperson zusammen mit einer
+Sozialpädagogin.
+Für die Förderklassen ist eine Erhöhung der kollektiven Ressourcen an den
+Schulstandorten zwingend erforderlich.
+Die minimale und maximale Dauer des Verbleibs in der Förderklasse wird festgelegt.
+Die Kriterien für den Eintritt und Austritt in die Förderklasse sind festgelegt.
+Die Förderklassen haben eigene Klassenräume.
+Die Förderklassen sind für kleine Standorte in Verbundlösungen möglich. Das
+Quartiersprinzip ist bei der Primarstufe weiterhin wichtig. Ausserdem muss die gute
+Begleitung dieser Schülerinnen und Schüler auch in der Tagesstruktur mit den nötigen
+Ressourcen mitgedacht werden.
+
+Die Delegation des Initiativkomitees erachtet den Einsatz von Lerninseln als legitim. Lerninseln
+seien jedoch nicht die Lösung des Problems. Auf die Bedenken hinsichtlich der Separation von
+4
+
+Das Schweizer Zentrum für Heil- und Sonderpädagogik SZH erstellte ein Faktenblatt, in dem zentrale Informationen zur schulischen Integration in der
+Schweiz gesammelt und mit Quellen belegt sind. Alle darin enthaltenen Aussagen basieren auf einer fundierten Recherche von aktuellen Statistiken,
+Forschungsergebnissen und weiteren Quellen: https://www.szh.ch/bausteine.net/f/53632/20240208.Wissen-Integration.SZH.pdf?fd=3.
+
+Seite6/19
+
+Grosser Rat des Kantons Basel-Stadt, Bildungs- und Kulturkommission
+
+Schülerinnen und Schüler durch Förderklassen erwiderten die Anhörungsgäste, dass pauschale
+Aussagen zu ausschliesslich positiven Effekten der integrativen Schule mit Verweis auf eine
+Metanalyse von Stephan Ellinger und Roland Stein mit 1300 Einzelstudien falsch seien5. Gemäss
+Simone Balestra6 verhält es sich so, dass wenn mehr als 15 Prozent der Schülerinnen und Schüler
+aufgrund eines Förderbedarfs integriert werden müssen, die Leistungen der Kinder im unteren
+Leistungsdrittel darunter leiden. Die integrierten Kinder weisen ebenfalls schlechtere Leistungen
+auf.
+Weitere Bedingungen für das Gelingen der integrativen Schule seien unter anderem kleine
+Lerngruppen, konstante Bezugspersonen und eine umfassende Förderung durch
+Doppelbesetzungen. Die freiwillige Schulsynode Basel-Stadt (FSS) und der Verband des
+Personals öffentlicher Dienste (VPOD) fordern das schon lange. Unterrichtsstörungen seien
+oftmals ein Hilfeschrei der Kinder (kognitive oder soziale Probleme). Für diese Kinder sollte ein
+gutes Angebot geschaffen werden.
+
+4.2.3 Delegation der Gemeinde Riehen
+Die Delegation der Gemeinde Riehen teilte der Kommission mit, dass sich die Gemeinden Riehen
+und Bettingen mit dem regierungsrätlichen Gegenvorschlag einverstanden zeigen. Die Gemeinden
+wollen an der integrativen Schule festhalten. Bei der Umsetzung der Massnahmen müsse die
+Vergleichbarkeit verschiedener Schulstandorte gewährleistet und Willkür ausgeschlossen werden.
+Zudem müsse die Wahrung der Gemeindeautonomie garantiert werden. Die beiden Gemeinden
+befürworten die Aufnahme von Förderklassen in den Massnahmenkatalog der Schulleitungen. Den
+Schulen soll bei Bedarf die Möglichkeit gegeben werden, Erfahrungen mit diesem Gefäss zu
+sammeln. Im Rahmen der Anhörung wurde darauf hingewiesen, dass die Gemeinden Riehen und
+Bettingen andere Schulstandortgrössen aufweisen als die Stadt Basel. Daher solle den Gemeinden
+genügend Flexibilität beim Einsatz aller Massnahmen zugestanden werden. Die Gemeinden
+wünschen sich die nötige Autonomie, um die richtige Lösung für jede Schule und Klasse anbieten
+zu können. Das könne entweder der Einsatz einer Fördergruppe, einer Förderklasse und/oder eine
+Lerninsel sein. Aufgrund der Standortgrössen seien Lerninseln jedoch nicht immer zielführend. Hier
+wünschen sich die Gemeinden ein offeneres Konzept. Grundsätzlich weisen Riehen und Bettingen
+andere Herausforderungen auf als die meisten Stadtquartiere.
+
+4.2.4 Delegation des VPOD der Region Basel
+Die Vertreterinnen des VPOD der Region Basel legten dar, warum die dem VPOD
+angeschlossenen Lehrerinnen und Lehrer sich gegen die «Förderklassen-Initiative» aussprechen.
+So zeige die Forschung auf, dass Schülerinnen und Schüler langfristig von Integration profitieren.
+Deshalb brauche Basel ein Schulsystem, das den Schülerinnen und Schülern von heute gerecht
+werde, ohne diese zu separieren und zu diskriminieren. Trotz dem Bekenntnis zur integrativen
+Schule mangle es auch in Basel-Stadt an der Umsetzung. Der VPOD nehme die Überlastung der
+Lehrpersonen durch den akuten Lehr- und Fachpersonenmangel und die steigenden
+Anforderungen im jetzigen Schulsystem ernst und fordert die Weiterentwicklung der integrativen
+Schule. Den Ausbau separativer Massnahmen lehnt der VPOD ab, da die Entlastung der Lehr- und
+Fachpersonen nicht auf dem Rücken der Schülerinnen und Schüler ausgetragen werden dürfe.
+Aufgrund dieser Argumente stellen sich die Lehr- und Fachpersonen des VPOD klar gegen die
+«Förderklassen-Initiative». Auch die Vorschläge des Erziehungsdepartements gehen
+5
+
+Ellinger, Stephan; Stein, Roland (2012). Effekte inklusiver Beschulung: Forschungsstand im Förderschwerpunkt emotionale und soziale Entwicklung.
+Empirische Sonderpädagogik 2, 85-109.
+6
+Balestra, Simone, Eugster, Béatrix, Liebert, Helge (2022). Peers with Special Needs: Effects and Policies, The Review of Economics and Statistics 104
+(3), 602-618.
+
+Seite7/19
+
+Grosser Rat des Kantons Basel-Stadt, Bildungs- und Kulturkommission
+
+grossmehrheitlich in Richtung stärkere Separation, weshalb diese kritisch gesehen werden. Aus
+Sicht des VPOD könnten die nachfolgenden drei Aspekte den Gegenvorschlag verbessern:
+-
+
+Doppelbesetzungen: Umsetzung in mindestens 30 Prozent der Schulen. Langfristig würde
+das wohl keine grösseren Kosten als die separative Beschulung verursachen.
+
+-
+
+Schaffung von Gefässen für die integrative Arbeit: Es werde nie mitbedacht, dass
+schulische Arbeit koordiniert werden müsse (wo befindet sich welches Kind wann).
+
+-
+
+Weniger administrative Aufgaben für Lehrpersonen (Ausgleich durch mehr Ressourcen für
+Schulsekretariate).
+
+4.2.5 Delegation des Verbands der Schulleiterinnen und Schulleiter BS (VSLBS)
+Die Delegation des Verbands der Schulleiterinnen und Schulleiter BS (VSLBS) setzte sich aus dem
+Schulleiter einer Sekundarschule und der Schulleiterin einer Primarschule zusammen. Der VSLBS
+unterstützt das Massnahmenpaket des Regierungsrats. Grund dafür sei hauptsächlich, dass mit
+den Massnahmen individuell auf den Standort und die Bedürfnisse der Schülerinnen und Schüler
+reagiert werden könne. Die Gegebenheiten der Quartiere, die Schulstandortgrösse sowie die
+Zusammensetzung der Schülerinnen und Schüler seien sehr wichtig und entscheidend bei der
+Auswahl der Massnahmen. Die Erhöhung der Förderressourcen sowie die Schaffung von SpA Plus
+wurden ausdrücklich gutgeheissen. Wichtig sei zudem, dass der Bereich Lerninseln geschaffen
+werde. Lerninseln seien wertvoll, da sie es ermöglichen, Sozialpädagoginnen und
+Sozialpädagogen in den Unterricht einzubinden. Das sei eine Chance für alle Schülerinnen und
+Schüler. Bei Lerninseln gehe es darum im Schulhaus einen Ort zu schaffen, an welchem
+Zusatzförderungen geleistet werden können. Die Lerninsel sollen für Schülerinnen und Schüler
+zum Alltag gehören. Probleme verhaltensauffälliger Schülerinnen und Schüler können jedoch nicht
+innert drei Tagen im Rahmen der Beschulung an der Lerninsel gelöst werden. Man müsse die
+Probleme über die Jahre, welche der betroffenen Schülerin oder Schüler an der Sekundarschule
+verbringt, angehen und nach einer passenden Anschlusslösung suchen. Interdisziplinäre
+Schularbeit vor Ort spiele dabei eine wesentliche Rolle.
+Es sei zudem ein wichtiger Ansatz, der Lehrerschaft in den unteren Schulstufen mehr Ressourcen
+für die Elternarbeit zukommen zu lassen. Wenn Kinder und Eltern früher eng begleitet würden,
+könne sich ein tragfähiges Konstrukt entwickeln. Die Lehrerschaft komme dadurch früher an
+Themen ran, für welche gemeinsam mit den Eltern Lösungen gefunden werden müssen.
+Die Delegation des VSLBS sprach sich für Fördergruppen aus, da die betroffenen Kinder sich in
+Fördergruppen weiterhin als Teil der Klasse verstehen und den Anschluss nicht verlieren.
+Fördergruppen seien flexibler und man müsse die Kinder dort packen, wo sie Stärken haben.
+Förderklassen seien ungleich stigmatisierender als Fördergruppen, da dauerhaft separiert werde.
+Die Delegation des VSLBS sprach sich jedoch nicht explizit gegen Förderklassen aus. Diese seien
+jedoch nicht durchlässig. Fördergruppen können hingegen auch Begabte und damit beide Enden
+des Spektrums fördern.
+Doppelbesetzungen wurden als ergänzende Massnahme grundsätzlich gutgeheissen. Je tiefer die
+Schulstufe, desto wünschenswerter sei es seitens der Lehrerschaft, dass im Team agiert werden
+könne. Durch den Einsatz von Doppelbesetzungen könne wohl mehr Ruhe in den Primarklassen
+erreicht werden. Auf Sekundarstufe wäre hingegen nur der ergänzende Einsatz von
+Sozialpädagogen oder Heilpädagoginnen zielführend.
+
+Seite8/19
+
+Grosser Rat des Kantons Basel-Stadt, Bildungs- und Kulturkommission
+
+4.2.6 Delegation der FSS
+Der Vertreter der Freiwilligen Schulsynode Basel-Stadt (FSS) legte zu Beginn der Anhörung dar,
+dass rund 70 Prozent der Mitglieder der FSS die Initiative unterstützen. Abweichend vom
+Gegenvorschlag sollte es möglich sein, an den Schulstandorten Förderklassen zu bilden, sofern
+das von den Schulleitungen und der Lehrerschaft als sinnvoll erachtet werde. Förderklassen seien
+durchlässig und zeitlich begrenzt und nicht mit Kleinklassen gleichzusetzen. Die Kinder sollen
+durch sie die Möglichkeit erhalten, durchzuatmen und neue Kraft zu schöpfen. Es müsse
+grundsätzlich das Ziel bestehen, dass Kinder nach dem erfolgreichen Besuch der Förderklassen in
+die Regelklassen reintegriert werden können. Die integrative Schule solle auf keinen Fall
+abgeschafft werden.
+Das regierungsrätliche Massnamenpaket sehe für die Sekundarstufe I lediglich Lerninseln vor. Es
+sei jedoch dringend notwendig, dass die Sekundarstufe I neue Werkzeuge erhalte. In der
+Vernehmlassung vom Mai 2023 seien Massnahmen im Umfang von 16,2 Millionen Franken
+angedacht gewesen. Viele Lehrerinnen und Lehrer hatten daraufhin signalisiert, dass sie das
+Massnahmenpaket unterstützen. Im August 2023 sei die Summe um rund 4 Millionen Franken
+reduziert worden. Das regierungsrätliche Paket sei jedoch grundsätzlich ausgewogen und gehe in
+vielen Punkten darüber hinaus, was die Initiative fordere. Die Schaffung von Lerninseln sei wichtig.
+Das Massnahmenpaket weise viele wichtige Punkte auf, die nicht gefährdet werden sollten. Die
+Delegiertenversammlung der FSS vom November 2023 habe gezeigt, dass rund 75 Prozent der
+Mitglieder der FSS die Einführung von Förderklassen gutheissen. Fördergruppen in Primarschulen
+seien zudem organisatorisch kaum umsetzbar. Das Erziehungsdepartment sei wohl von der
+Annahme ausgegangen, dass Fördergruppen weniger Schulraum vereinnahmen als
+Förderklassen. Die FSS bezweifle das.
+Förderklassen sollten nicht wie Kleinklassen als dauerhafte Lösungen konzipiert werden. Hierfür
+seien Spezialangebote gedacht. In Förderklassen sollen Kinder aufgefangen werden, die sich in
+einer Negativspirale befinden. Diese Kinder müssen reintegriert werden. Förderklassen dürfen
+daher nur für eine maximale Dauer von zwei Jahren ausgelegt werden. Deren Einführung solle an
+allen Schulstandorten möglich sein, wo es umsetzbar sei. Lerninseln sollten grundsätzlich Kindern
+mit Verhaltensauffälligkeiten vorbehalten sein. Es gehe darum, dass die Kinder wieder ihre
+Motivation finden zu lernen und Freude an der Schule entwickeln. Es solle ein individueller
+Unterricht stattfinden, da jedes Kind andere Bedürfnisse aufweise. Kinder aus einer Förderklasse
+sollen mittels eines individuellen «Rucksacks» dazu befähigt werden, dass sie den Wiedereintritt
+schaffen.
+Es gebe verschiedene Modelle von Doppelbesetzungen. Zürich habe sein Modell (Einsatz zweier
+Primarlehrpersonen) wieder aufgegeben. Diese Art von Doppelbesetzung mache allenfalls im
+Kindergarten Sinn. Eine sinnvolle Doppelbesetzung (mit Sozialpädagogen oder Heilpädagoginnen)
+sei deutlich teurer. 80 Prozent der FSS-Mitglieder haben sich für sinnvolle Doppelbesetzungen
+ausgesprochen.
+
+4.3
+
+Verlängerung der Bearbeitungsfrist
+
+Bedingt durch den Wechsel des Departementvorstehers des für die Bearbeitung der Initiative
+zuständigen Erziehungsdepartements hatte sich die Beratung des Geschäfts in der Kommission
+verzögert. Die BKK sah sich daher dazu veranlasst, die Frist zur Durchführung der
+Volksabstimmung zur kantonalen Volksinitiative «Förderklassen-Initiative» zu verlängern. Die BKK
+Seite9/19
+
+Grosser Rat des Kantons Basel-Stadt, Bildungs- und Kulturkommission
+
+beantragte dem Grossen Rat daher mit Einverständnis des Initiativkomitees, eine Fristverlängerung
+zur Durchführung der Volksabstimmung bis zum 9. Februar 2025. Das entsprechende Ersuchen
+der Kommission wurde vom Grossen Rat gutheissen.7
+
+4.4
+
+Massnahmen des regierungsrätlichen Gegenvorschlags
+
+4.4.1 Heilpädagogisch geführte klassenübergreifende Fördergruppen
+(teilseparatives Angebot in der Schule) an der Primarschule
+Gemäss Ratschlag sind Fördergruppen heilpädagogisch geführte altersgemischte Kleingruppen
+mit einer maximalen Klassengrösse von zwölf Schülerinnen und Schülern. Fördergruppen sind für
+Schülerinnen und Schüler gedacht, die aufgrund ihrer allgemeinen Lernschwäche oder einer
+ausgeprägten Lernstörung einen höheren Betreuungsaufwand aufweisen, als andere gleichaltrige
+Kinder. Sie benötigen daher ein gewisses Mass an individueller Förderung, welches ihnen in der
+Regelklasse nicht angeboten werden kann. Die betroffenen Kinder besuchen je nach Alter zehn
+bis elf Lektionen pro Woche die Fördergruppe und bleiben trotz des Fördergruppenbesuchs ihrer
+Stammklasse zugehörig. Sie besuchen den Unterricht der anderen Fächer (Sport und Musik) im
+Klassenverband. Ein wesentlicher Vorteil von Fördergruppen ist, dass die meisten Kinder den
+Unterricht in ihrem Quartierschulhaus besuchen können. Die betroffenen Kinder behalten somit
+ihren Schulweg und ihren vertrauten Freundeskreis, was das Modell hinsichtlich der Akzeptanz bei
+den Eltern ideal erscheinen lässt. Der Einsatz von schulischen Heilpädagoginnen und -pädagogen
+erlaubt es, die Kinder auch in Kompetenzen wie Selbstregulation, Lern- und Arbeitsverhalten,
+soziale Fertigkeiten etc. zu schulen.
+Die BKK erkennt im Einsatz von Fördergruppen im skizzierten Umfang eine wichtige ergänzende
+Massnahme der integrativen Schule. Sowohl die Kinder der Regelklasse als auch die Schülerinnen
+und Schüler, welche eine Fördergruppe besuchen, können somit bestmöglich beschult werden. Die
+Kommission erachtet es als äussert wichtig, dass die verantwortlichen Lehr- und Fachpersonen
+einzelfallbezogen sorgfältig prüfen, ob ein Kind tatsächlich einer Fördergruppe zugewiesen werden
+muss oder auch integrativ in der Regelklasse adäquat beschult werden kann. Zudem ist eine
+regelmässige Prüfung der Massnahme essentiell. Ein Teil der BKK befand, dass der geschickte
+Einsatz von Fördergruppen einen Beitrag dazu leisten kann, dass in den Klassen weniger Unruhe
+herrscht als heute. In Basler Schulen werden derzeit die leistungsschwächeren Schülerinnen und
+Schüler mitgezogen, was letztlich für alle Kinder keine optimale Lösung darstellt.
+Die Kommission begrüsst es, dass die Zuweisung in eine Fördergruppe «auf dem kleinen
+Dienstweg» jederzeit im Schuljahr erfolgen kann. Dem sorgfältigen Einbezug der Eltern bei der
+Beurteilung und Zuweisung des Kindes in eine Fördergruppe ist dennoch grosse Aufmerksamkeit
+beizumessen. Insbesondere müssen Eltern, welche das Schulsystem nicht kennen oder
+sprachliche Barrieren aufweisen, Dolmetscherinnen oder Dolmetscher zur Seite gestellt und über
+den Rechtsweg aufgeklärt werden. Bei der Anordnung aller separativen und teilseparativen
+Massnahmen muss stets das Kindeswohl im Vordergrund stehen. Es darf nicht unterschätzt
+werden, welchen Einfluss die Separierung, auch wenn es nur für wenige Stunden in der Woche ist,
+auf das Kind und das Zusammengehörigkeitsgefühl in der Klasse haben kann.
+Die BKK anerkennet, dass die Organisation von Fördergruppen zweifelsfrei anspruchsvoll ist, da
+die Stundenpläne der Klassen sorgfältig aufeinander abgestimmt werden müssen. Die Arbeitslast
+für Lehrpersonen kann aufgrund von Mehrbedarf an Absprachen zunehmen.
+7
+
+https://grosserrat.bs.ch/dokumente/100407/000000407541.pdf
+
+Seite10/19
+
+Grosser Rat des Kantons Basel-Stadt, Bildungs- und Kulturkommission
+
+Ein Teil der Kommission zeigt sich dem Einsatz von Fördergruppen kritisch gegenüber, sollte nicht
+gleichzeitig die Möglichkeit zur Schaffung von Förderklassen erfolgen. Fördergruppen könnten
+nicht alle Bedürfnisse der Schülerinnen und Schüler respektive der Lehrerschaft abdecken. Die
+Durchmischung der Klassen könne zudem auch zu Stress bei den einzelnen Schülerinnen und
+Schülern führen.
+Andere Mitglieder der BKK sprechen sich aus anderen Gründen gegen den Einsatz von
+Fördergruppen aus. Der adäquate Einsatz von Doppelbesetzungen (Lehrperson und schulische
+heilpädagogische Fachperson) wäre ausreichend, um eine merkliche Verbesserung des Status quo
+zu erreichen.
+Die BKK spricht sich mit 11 zu 2 Stimmen für den Einsatz von Fördergruppen aus.
+
+4.4.2 Lerninseln an der Primarschule und der Sekundarstufe I
+Gemäss Ratschlag sollen Schulen mittels Lerninseln auf schwierige Situationen im
+Klassenverband reagieren können. Schülerinnen und Schüler mit akut schwierigem Verhalten
+sollen kurzfristig an eine Lerninsel am Schulstandort geschickt werden können. Mit dem Ziel der
+möglichst raschen Reintegration in die Regelklasse soll an den Lerninseln in einer kleinen Gruppe
+durch eine Sozialpädagogin und einen Heilpädagogen gezielt gefördert und unterstützt werden.
+Die Schülerinnen und Schüler bleiben während der Dauer der Beschulung an den Lerninseln ihrer
+Stammklasse zugehörig. Während des Aufenthalts der Kinder und Jugendlichen an den Lerninseln
+können allfällige Abklärungen getroffen, Unterstützungsmassnahmen aufgegleist und die Situation
+in der Regelklasse beruhigt werden.
+Die BKK heisst das Lerninsel-Modell grossmehrheitlich gut. Die Massnahme scheint angemessen
+zu sein, um den Klassenverband und die betroffenen Schülerinnen und Schüler bei Bedarf schnell
+zu beruhigen, damit wieder ein gutes Lernklima geschaffen werden kann. Kinder, welche in einer
+(kurzfristigen) Krise stecken, können sich nicht auf den Schulstoff konzentrieren. Daher muss
+zunächst die Krise bewältigt werden, damit die Kinder sich wieder auf den Schulstoff konzentrieren
+können. Das Modell der Lerninseln wird zudem schon in anderen Kanton und vereinzelt auch an
+Basler Schulen erfolgreich eingesetzt. Damit Lerninseln nachhaltig funktionieren können, wird es
+aus Sicht der BKK notwendig sein, die Kinder nach ihrer Rückkehr in die Stammklassen auch dort
+noch eine Zeit lang zu begleiten. Hierzu braucht es genügend Ressourcen.
+Die BKK spricht sich mit 11 zu 2 Stimmen für den Einsatz von Lerninseln aus.
+
+4.4.3 Verbesserter Einsatz und Erhöhung der Förderressourcen direkt an den
+Schulen
+Die BKK heisst die Massnahme ausdrücklich gut. Entscheidend ist, dass die Ressourcen schnell
+bereitstehen und direkt von den Schulleitungen abgerufen werden können.
+Die BKK spricht sich stillschweigend für die Massnahme aus.
+
+4.4.4 One-Pool-Lösung an der Primar- und Sekundarstufe I
+Die Schulleitungen übernehmen mit dem Zuweisen dieser zur Verfügung stehenden Ressourcen
+eine grosse und zusätzliche Verantwortung. Damit sie diese Ressourcen zielführend und zum Wohl
+der betroffenen Kinder einsetzen können, muss ihnen ein adäquates Weiterbildungsangebot zur
+Verfügung stehen. Allenfalls sollen Schulleitungen auch zur Weiterbildung verpflichtet werden
+Seite11/19
+
+Grosser Rat des Kantons Basel-Stadt, Bildungs- und Kulturkommission
+
+können. Auch bei dieser Massnahme schlägt die BKK die Schaffung eines Dachkonzepts seitens
+der Volksschulleitung vor.
+Die BKK spricht sich stillschweigend für die Massnahme aus.
+
+4.4.5 Erhöhung der Förderressourcen im Kindergarten
+Die BKK spricht sich stillschweigend für die Massnahme aus.
+
+4.4.6 Erhöhung der Ressourcen im Zentrum für Frühförderung (ZFF)
+Die BKK stellt in Frage, ob die gemäss Ratschlag bereitzustellenden Ressourcen den Bedarf
+decken können. Die Kommission begrüsst die Erhöhung der Ressourcen dennoch und spricht sich
+dafür aus, dass nach einer angemessenen Zeit der Ressourcenbedarf sorgfältig evaluiert wird.
+Die BKK spricht sich stillschweigend für die Massnahme aus.
+
+4.4.7 Erhöhung der Logopädie-Ressourcen und Erhöhung der PsychomotorikRessourcen
+Die BKK spricht sich stillschweigend für die Massnahme aus.
+
+4.4.8 SpA Plus für Schülerinnen und Schüler mit hohem Förderbedarf auf der
+Primarstufe und der Sekundarstufe I
+Zum besseren Verständnis der bestehenden Spezialangebote (SpA) sowie der Implementierung
+der gemäss Ratschlag vorgeschlagenen SpA Plus, hat die BKK die Co-Schulleiterin der SEK
+Sandgruben angehört. Der Schulstandort wurde 2015 gegründet und bündelt alle Spezialangebote
+der Sekundarstufe I des Kantons. Die heilpädagogischen Spezialangebote bieten jenen Kindern
+und Jugendlichen schulische Entwicklungsmöglichkeiten, die im regulären Unterricht nicht
+ausreichend gefördert werden können und in einer kleineren Klasse besser aufgehoben sind. Die
+Zuweisung von Schülerinnen und Schüler in die Spezialangebote erfolgt immer nach einem
+standardisierten Abklärungsverfahren mit Einbezug des Schulpsychologischen Dienstes. Die
+Beschulung in den SpA ist der Kaskade 3, den verstärkten Massnahmen, zugeordnet. Die
+Schülerinnen und Schüler erhalten eine zeitlich befristete Verfügung, die an der Sekundarschule
+meistens bis zum Ende der obligatorischen Schulzeit gültig ist. Die Schülerinnen und Schüler
+werden gemäss Lehrplan oder nach individuellen Lernzielen geschult. Die SpA weisen vier
+verschiedene Schwerpunkte auf: Arbeitspraxis, Lebenspraxis, Schulpraxis und Wiedereinstieg.8
+Die neu angedachten Spezialangebote Plus sollen von Schülerinnen und Schülern der Primar- und
+Sekundarstufe I ohne kognitive Einschränkungen (IQ über 75) besucht werden, die durch ihr selbstund fremdgefährdendes Verhalten mit Impulskontrollstörungen und fehlender Emotionsregulation
+den Rahmen der bestehenden Spezialangebote sprengen und in solchen Krisen separiert und
+stabilisiert werden müssen. Aufgrund von Störungen des Sozialverhaltens können sie noch nicht
+in den Fachkompetenzen gefördert werden. Hingegen benötigen sie spezifische Förderung in den
+überfachlichen Kompetenzen.
+
+8
+
+https://www.sek-sandgruben.ch/spa
+
+Seite12/19
+
+Grosser Rat des Kantons Basel-Stadt, Bildungs- und Kulturkommission
+
+Die BKK erachtet die Schaffung der SpA-Plus als folgerichtig, da die bestehenden Klassen der
+Spezialangebote oftmals durch Kinder und Jugendliche mit sehr starken Verhaltensauffälligkeiten
+überlastet sind. Sie plädiert dafür, das Angebot nicht am selben Standort wie SpA zu etablieren,
+damit keine Vermischung der Angebote stattfindet. Da die Schülerinnen und Schüler nur zwischen
+8.00 und 15.00 Uhr vor Ort betreut respektive beschult werden, scheint es zudem erforderlich, dass
+der Freizeit- und der familiäre Bereich eine gut funktionierende Betreuung erhalten, damit die
+Jugendlichen nach Schulschluss nicht auf sich allein gestellt sind.
+Da die Schulen keine psychotherapeutische Begleitung anbieten dürfen, sind die Betroffenen auf
+stationäre oder ambulante Einrichtungen angewiesen. Die Kommission bemängelt, dass diesem
+Aspekt im Ratschlag keine Aufmerksamkeit geschenkt wurde. Eine ausreichende Anzahl Plätze in
+Einrichtungen für Kinder und Jugendliche mit psychischen Problemen ist wesentlich.
+Die BKK spricht sich stillschweigend für die Massnahme aus.
+
+4.4.9 Weiterentwicklung der Tagesstrukturen für Schülerinnen und Schüler mit
+speziellem Betreuungsbedarf
+Die Kommission macht darauf aufmerksam, dass es für Fachkräfte an den Tagesstrukturen keine
+adäquaten Weiterbildungsangebote betreffend Schülerinnen und Schüler mit speziellen
+Betreuungsbedarf gibt. Die Schaffung von entsprechenden Angeboten ist daher von erheblicher
+Relevanz und muss in die Wege geleitet werden.
+Die BKK spricht sich stillschweigend für die Massnahme aus.
+
+4.4.10 Fördergruppen und Förderklassen auf Primarschulstufe
+Die BKK nimmt die Argumentation des Regierungsrats zur Kenntnis, Fördergruppen und
+Förderklassen nur auf der Primarstufe und nicht auf der Sekundarstufe einzuführen. Die BKK hat
+sich daher den Projektauftrag zur Optimierung der Sekundarstufe I zeigen lassen und unterstützt
+diesen Weg. Allerdings empfiehlt die BKK dem ED, den skizzierten Zeitplan dringend einzuhalten
+und zu Beginn des Schuljahres 2025/26 Entlastungsmassnahmen vorzuschlagen.
+
+Seite13/19
+
+Grosser Rat des Kantons Basel-Stadt, Bildungs- und Kulturkommission
+
+4.5
+
+Gegenvorschlag der BKK
+
+Die BKK hat die im vorangehenden Kapitel 4.4 diskutierten regierungsrätlichen Massnahmen
+grossmehrheitlich als sinnvolle Ergänzungen des bestehenden Massnahmenfächers zur
+Verbesserung der integrativen Schule gutgeheissen. Für einen Teil der Kommission gehen die
+Massnahmen jedoch nicht weit genug. Die BKK hat daher auf Basis des Ratschlags weitere
+Aspekte, wie die Schaffung der umstrittenen Förderklassen sowie den Einsatz von
+Doppelbesetzungen, diskutiert. Die BKK hat bei der Abwägung ihrer Entscheide versucht, die
+Belange aller Akteure zu beachten, und dabei einen Vorschlag erarbeitet, welcher eine solide
+Mehrheit der Kommission als tragfähig erachtet. Sie betrachtet die in den nachfolgenden Kapiteln
+abgebildeten Aspekte als Ergänzung des regierungsrätlichen Gegenvorschlags. Es ist der
+Kommission ein Anliegen, dass die Schulleitungen und die Kollegien einen möglichst breiten
+Fächer an sinnvollen Massnahmen erhalten, aus welchem sie jene aussuchen und umsetzen
+können, die sich am besten für die speziellen Bedürfnisse an ihrem Standort eignen. Dabei soll es
+ausdrücklich möglich sein, mehrere Massnahmen gleichzeitig am gleichen Schulstandort
+einzusetzen. Der Einsatz beliebig vieler Massnahmen ist hingegen ausgeschlossen, da die
+Ressourcen mittels des Budgets des Erziehungsdepartements, welcher der Grosse Rat jährlich
+spricht, gedeckelt sind.
+Für ein Gelingen der Implementierung und den zielgerichteten Einsatz der bereits geschilderten
+und der in den nachfolgenden Kapiteln umschriebenen Massnahmen hält es die BKK für
+unerlässlich, dass adäquate Weiterbildungsangebote zur Weiterqualifizierung geschaffen und
+bereitgestellt werden. Das Angebot muss sowohl auf die Bedürfnisse von Schulleitungen als auch
+von Lehr- und Fachpersonen ausgerichtet sein.
+
+4.5.1 Förderklassen
+Die Initiative fordert, dass Förderklassen von einer eigenständigen Leitung mit voller
+Führungskompetenz geleitet werden. In die heilpädagogischen Förderklassen sollen Schülerinnen
+und Schüler eingeteilt werden, die kleinere Lerngruppen benötigen, um sich entfalten zu können
+oder Schülerinnen und Schüler, die wegen ihres auffälligen Verhaltens nicht in eine Regelklasse
+integriert werden können.
+Die BKK definiert Förderklassen in der Folge im Sinne der Konsultationsfassung bezüglich der
+Massnahmen für die Verbesserung der integrativen Volksschule Basel-Stadt vom 16. Mai 20239.
+Demnach sind Förderklassen für Schülerinnen und Schüler ausgelegt, die eine allgemeine
+Lernschwäche im IQ-Bereich 70-85 aufweisen, oder für Kinder mit höherem IQ, jedoch mit einer
+ausgeprägten Lernstörung. Nicht geeignet sind Förderklassen für Schülerinnen und Schüler mit
+auffälligem Verhalten, welche sich nicht auf Lernschwächen zurückführen lassen. Sie sollen unter
+anderem in den Spezialangeboten beschult werden. Ebenfalls nicht geeignet für Förderklassen
+sind Kinder mit primär sozialen Auffälligkeiten oder in akuten Krisen. Für diese Kinder ist das neue
+Angebot der Lerninsel vorgesehen. Für einen grossen Teil der Kommission ist ein klarer Vorteil von
+Förderklassen, dass die Kinder den Unterricht in einer fixen Klasse mit einer heilpädagogisch
+geschulten Klassenlehrperson besuchen können und nicht ständig das Setting wechseln müssen.
+Zudem hat die notwendige Elternarbeit wegen der kleineren Klasse mehr Platz.
+Die Kommission betont, dass Förderklassen gemäss dieser Definition keine Rückkehr zum
+früheren System der Kleinklassen gleichkommen. Das gewählte Setting soll vielmehr sicherstellen,
+dass nicht nur die betroffenen Kinder, sondern auch die Ursprungsklasse sowie die unterrichtenden
+9
+
+https://www.edubs.ch/publikationen/konsultationen
+
+Seite14/19
+
+Grosser Rat des Kantons Basel-Stadt, Bildungs- und Kulturkommission
+
+Lehr- und Fachpersonen und die Schulleitungen den bestmöglichen Unterricht erhalten respektive
+gewährleisten können. Am Grundsatz «Integration vor Separation» soll festgehalten werden.
+Zentral ist, dass die Schulleitungen kein zu enges Korsett erhalten, was die Förderklassen inhaltlich
+umsetzen respektive leisten müssen. Es soll dem Standort, den Schulleitungen und dem Kollegium
+überlassen werden, ob Förderklassen eingesetzt und wie sie konzipiert werden sollen, damit auf
+spezifische Bedürfnisse eingegangen werden kann. Der individuelle Rucksack der Kinder kann
+durch dieses Gefäss erheblich gestärkt werden, damit diese später wieder in eine Regelklasse
+übergehen können.
+Die Kommission spricht sich zudem gegen eine eigenständige Leitung der Förderklassen mit voller
+Führungskompetenz aus. Vielmehr soll für Schulen der Primarstufe die in der Konsultationsfassung
+beschriebene Verbundslösung gelten, die sich am erweiterten Quartiersprinzip orientiert. Die
+Klassen können auf die Schulhäuser aufgeteilt oder dort eingerichtet werden, wo entsprechender
+Schulraum vorhanden ist. Die BKK geht nicht davon aus, dass an jedem Standort Förderklassen
+eingeführt werden, da es kein niederschwelliges Angebot darstellt. Den Schulen müssen dennoch
+Massnahmen für alle Bedürfnisse zur Verfügung gestellt werden. Teile der Kommission weisen
+darauf hin, dass der Kanton Basel-Stadt zwar als Vorzeigekanton in Sachen umfassender
+Integration gilt. Beim umfassenden Systemwechsel wurden allerdings wesentliche - hauptsächlich
+externe - Unterstützungsangebote abgebaut, so dass Kinder, die im neuen System trotzdem
+überfordert waren, keine für sie geeignete Unterstützung mehr erfahren konnten. Wichtig beim
+Einsatz aller Mittel ist, dass Kinder nicht nur separiert werden dürfen, weil sie gerade auffällig sind.
+Zunächst muss verstanden werden, weshalb sie ein auffälliges Verhalten zeigen.
+Wie auch schon beim Einsatz von Fördergruppen verlangt (vgl. Kapitel 4.4.1), muss bei der
+Anordnung separativer Massnahmen stets das Kindeswohl im Vordergrund stehen. Die Eltern
+müssen früh Teil der Entscheidungsfindung sein und bei Bedarf muss auch der Beizug einer
+Dolmetscherin oder eines Dolmetschers erfolgen. Zudem muss über den Rechtsweg aufgeklärt
+werden. Der Reintegration in die Regelklassen muss ein hohes Mass an Aufmerksamkeit
+beigemessen werden. Zudem soll in der Schullaufbahnverordnung10 die Möglichkeit zur
+Wiederholung eines Schuljahres geschaffen werden, wenn mit der Wiederholung des Schuljahres
+die Schülerinnen und Schüler im Hinblick auf die weitere Schullaufbahn eine bessere
+Entwicklungsperspektive haben.
+Eine Kommissionsminderheit spricht sich gegen die Einführung von Förderklassen aus. Gemäss
+Studienlage sei klar, dass der Einsatz von Förderklassen nicht im Sinne der Kinder sei und in erster
+Linie eine Entlastung für die Lehrerschaft darstelle. Es bestehe die Gefahr, dass in Förderklassen
+vornehmlich Kinder aus sozial benachteiligen Schichten beschult werden. Kinder würden ferner
+stigmatisiert, wenn sie separiert werden. Dieses Stigma könne sich bis in die Berufswelt
+weiterziehen. Zudem schmälere das Fehlen von Vorbildern den Lernerfolg von Kindern und
+Jugendlichen in solchen Settings erheblich. Nachteilig sei weiter, dass Kinder mit entsprechendem
+Bedarf den Unterricht nicht mehr im Quartierschulhaus besuchen können. Die Einführung von
+Förderklassen komme einem Rückschritt der integrativen Schule gleich.
+Die BKK stimmt mit 10 zu 3 Stimmen für den Einsatz von Förderklassen und nachfolgende
+Litera h des § 63b Absatz 1bis Schulgesetz:
+
+10
+
+https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/410.700
+
+Seite15/19
+
+Grosser Rat des Kantons Basel-Stadt, Bildungs- und Kulturkommission
+
+§ 63b Absatz 1bis
+1bis Förderangebote sind:
+h) (neu) Heilpädagogisch geführte Förderklassen.
+
+4.5.2 Doppelbesetzungen
+Basler Primar- und Sekundarschulklassen dürfen bis zu 25 Kinder aufweisen. Das kann
+insbesondere in sozial benachteiligten Quartieren oder in sehr heterogenen Klassen zu einer
+Überforderung der Lehrkräfte führen. Daher stellt sich die Frage, warum Doppelbesetzungen, wie
+sie im Massnahmenkatalog für den Kindergarten vorgeschlagen werden, nicht auch in der Primarrespektive Sekundarschule zum Einsatz kommen sollen. Entscheidender als das Alter der
+Schülerinnen und Schüler ist das Kriterium, inwieweit es sich um anspruchsvolle Klassen mit einem
+überwiegend problematischen Arbeits- und Sozialverhalten handelt. Derartige Lerngruppen
+kommen in nahezu allen Jahrgangsstufen und Schulformen vor. Die Ursachen für die Häufung von
+schwierigen Klassen sind vielschichtig und oftmals struktureller Natur. So können beispielsweise
+ein schwieriges soziales Umfeld, ökonomische Probleme, mangelnde Förderung von Kindern und
+Jugendlichen, sprachliche Defizite und Perspektivlosigkeit ursächlich sein. Ist aufgrund von
+Erfahrungswerten damit zu rechnen, dass Klassen von Lernenden mit persönlichen Problemen
+geprägt werden, macht es Sinn, der schwierigen Situation mit zwei Lehr- oder Fachpersonen im
+Klassenzimmer zu begegnen. Doppelbesetzungen bringen Entlastung ins Klassenzimmer, so dass
+jedes Kind gute Chancen bekommt, sein Potential entwickeln zu können. Das Zürcher-Modell
+(Einsatz zweier Lehrpersonen) hat in Zürich nicht zum gewünschten Erfolg geführt und wurde
+zwischenzeitlich wieder aufgegeben. Evaluationen haben aufgezeigt, dass die durchschnittliche
+Leistung der Schülerinnen und Schüler beim Einsatz einfacher Doppelbesetzungen sogar
+gesunken ist. Diese Art von Doppelbesetzung ergibt allenfalls im Kindergarten Sinn. Eine sinnvolle
+Doppelbesetzung, bei welcher Sozialpädagoginnen oder Sozialpädagogen oder gar
+Heilpädagoginnen respektive Heilpädagogen zum Einsatz kommen, wäre ideal für den Erfolg
+dieser Massnahme.
+Die Mehrheit der BKK ist der Ansicht, dass die Schulleitungen die Fördermassnahme der
+Doppelbesetzung als weitere Massnahme zur Unterstützung der Arbeit in den Klassen und des
+Unterrichtens erhalten sollen. Lehrpersonen stehen derzeit zu oft allein im Klassenzimmer und
+haben zu wenige Ressourcen, um die nötige individuelle Unterstützung für einen gelungenen
+Unterricht zu gewährleisten. Die Kommission vertritt die Ansicht, dass mit der Massnahme eine
+wirkungsvollere Beschulung und damit eine Entlastung des gesamten Schulsystems erreicht
+werden kann.
+Die BKK stimmt mit 10 zu 3 Stimmen für den Einsatz von Doppelbesetzungen und
+nachfolgende Litera j des § 63b Absatz 1bis Schulgesetz:
+§ 63b Absatz 1bis
+1bis Förderangebote sind:
+j) (neu) Doppelbesetzungen.
+
+Seite16/19
+
+Grosser Rat des Kantons Basel-Stadt, Bildungs- und Kulturkommission
+
+4.5.3 Erwartungen an die Volksschulleitung
+Da jeder Schulstandort eine andere Ausgangslage aufweist, erachtet es die BKK als wichtig, dass
+jede Schule ihr eigenes Konzept zum möglichen Einsatz jeglicher Massnahmen erstellt. Die
+Kommission plädiert jedoch dafür, dass seitens Volksschulleitung, welche auch für die Prüfung der
+Konzepte verantwortlich zeichnet, Dachkonzepte erstellt werden. Sie sollen dazu dienen, dass die
+Schulen innerhalb der gesetzten Leitplanken ihren Weg finden können, ohne dabei mit zu viel
+administrativen Aufwand konfrontiert zu werden. Zudem sollen Fördergruppen, Lerninseln und
+Förderklassen nach Best Practice-Modellen weiterentwickelt werden. Das sorgt für gemeinsame
+Handlungsstränge und Leitlinien. Die Volksschulleitungen sollen Gefässe schaffen, um den
+Austausch zwischen den Schulleitungen hinsichtlich der Umsetzung des Massnahmenkataloges
+zu ermöglichen.
+Um die Wirksamkeit der vorgeschlagenen Massnahmen überprüfen zu können, soll gemäss
+Ratschlag drei Jahre nach Inkrafttreten der Schulgesetzänderungen eine Evaluation durchgeführt
+und umfassend über die Ergebnisse berichtet werden. Die BKK heisst das Vorgehen explizit gut.
+
+5.
+
+Antrag
+
+Die Bildungs- und Kulturkommission beantragt dem Grossen Rat mit 7 zu 4 Stimmen bei zwei
+Enthaltungen, den nachfolgenden Grossratsbeschluss anzunehmen.
+Die BKK beantragt dem Grossen Rat einstimmig mit 13 Stimmen, den Anzug Martina Bernasconi
+und Konsorten betreffend Aufhebung des Kleinklassenverbots, als erledigt abzuschreiben.
+Die BKK beantragt dem Grossen Rat einstimmig mit 13 Stimmen, die Motion Franziska Roth und
+Konsorten betreffend ergänzende Massnahmen zur Umsetzung des Auftrages der integrativen
+Schule als erledigt abzuschreiben.
+Die BKK empfiehlt den Stimmberechtigten mit 10 zu 2 Stimmen bei einer Enthaltung, die
+Volksinitiative an der Urne zu verwerfen. Für den Fall, dass sowohl das Initiativbegehren als auch
+der Gegenvorschlag angenommen werden, empfiehlt die BKK mit 9 zu 2 Stimmen bei zwei
+Enthaltungen, bei der Stichfrage den Gegenvorschlag vorzuziehen.
+Die Bildungs- und Kulturkommission hat diesen Bericht am 26. Juni 2024 einstimmig mit 13
+Stimmen per Zirkularbeschluss verabschiedet und ihre Präsidentin zur Kommissionssprecherin
+bestimmt.
+Im Namen der Bildungs- und Kulturkommission
+Franziska Roth
+Kommissionspräsidentin
+Beilage:
+Entwurf Grossratsbeschluss
+
+Seite17/19
+
+Grosser Rat des Kantons Basel-Stadt, Bildungs- und Kulturkommission
+
+Grossratsbeschluss betreffend kantonale Volksinitiative «für den
+Ausbau der separativen Angebote an der integrativen Schule BaselStadt (Förderklassen-Initiative)»
+und
+
+Gegenvorschlag «Massnahmen für eine Verbesserung der integrativen
+Volksschule Basel-Stadt»
+(vom [Datum eingeben])
+
+Der Grosse Rat des Kantons Basel-Stadt, nach Einsichtnahme in den Ratschlag des
+Regierungsrates Nr. 23.1410.01 vom 18. Oktober 2023 und des schriftlichen Berichts
+Nr. 23.1410.03 der Bildungs- und Kulturkommission vom 26. Juni 2024, beschliesst:
+
+I.
+
+Gegenvorschlag
+
+Im Sinne eines Gegenvorschlags zu der von 3’588 im Kanton Basel-Stadt Stimmberechtigten
+eingereichten, vom Grossen Rat in der Sitzung vom 11. Januar 2023 an den Regierungsrat
+überwiesenen unformulierten Volksinitiative «für den Ausbau der separativen Angebote an der
+integrativen Schule Basel-Stadt (Förderklassen-Initiative)» mit folgendem Wortlaut:
+«Gestützt auf § 47 der Verfassung des Kantons Basel-Stadt vom 23. März 2005 und auf
+das Gesetz betreffend Initiative und Referendum vom 16. Januar 1991 (IRG) reichen die
+unterzeichnenden, im Kanton Basel-Stadt Stimmberechtigten folgende Initiative ein:
+Die unterzeichnenden im Kanton Basel-Stadt stimmberechtigten Personen verlangen, dass
+im Kanton Basel-Stadt neben den Integrationsklassen wieder heilpädagogisch geführte
+Förderklassen eingeführt werden. Diese sollen wieder von einer eigenständigen Leitung mit
+voller Führungskompetenz geleitet werden. In die heilpädagogischen Förderklassen sollen
+Schülerinnen und Schüler eingeteilt werden, die kleinere Lerngruppen benötigen, um sich
+entfalten zu können oder Schülerinnen und Schüler, die wegen ihres auffälligen Verhaltens
+nicht in eine Regelklasse integriert werden können. Zudem sollen die heilpädagogischen
+Schulen sowohl privat als auch staatlich weiter ausgebaut werden.»
+wird beschlossen:
+I.
+Schulgesetz vom 4. April 1929 11) (Stand 1. Januar 2021) wird wie folgt geändert:
+§ 63b Abs. 1bis
+1bis
+
+11)
+
+Förderangebote sind:
+g)
+(neu) Heilpädagogisch geführte klassenübergreifende Fördergruppen;
+h)
+(neu) Heilpädagogisch geführte Förderklassen;
+
+SG 410.100
+
+Seite18/19
+
+Grosser Rat des Kantons Basel-Stadt, Bildungs- und Kulturkommission
+
+i)
+j)
+
+(neu) Interventionsangebote (Lerninseln);
+(neu) Doppelbesetzungen.
+
+II. Änderung anderer Erlasse
+Keine Änderung anderer Erlasse.
+
+III. Aufhebung anderer Erlasse
+Keine Aufhebung anderer Erlasse.
+
+IV. Schlussbestimmung
+Diese Änderung ist zu publizieren; sie unterliegt dem Referendum und tritt auf Beginn des Schuljahres
+2024/25 am 12. August 2024 in Kraft. Sollte aufgrund eines erhobenen Referendums der Zeitpunkt des
+Inkrafttretens nicht eingehalten werden können, bestimmt im Falle der Annahme der Vorlage der
+Regierungsrat den Zeitpunkt des Inkrafttretens.
+II.
+
+Weitere Behandlung
+
+Die Volksinitiative «für den Ausbau der separativen Angebote an der integrativen Schule BaselStadt (Förderklassen-Initiative)» ist, sofern sie nicht zurückgezogen wird, der Gesamtheit der
+Stimmberechtigten gleichzeitig mit dem unter I. aufgeführten Gegenvorschlag zum Entscheid
+vorzulegen.
+Der Grosse Rat empfiehlt den Stimmberechtigten, die Volksinitiative zu verwerfen und den
+Gegenvorschlag anzunehmen.
+Für den Fall, dass sowohl das Initiativbegehren als auch der Gegenvorschlag angenommen
+werden, haben die Stimmberechtigten zu entscheiden, welche der beiden Vorlagen sie
+vorziehen. Der Grosse Rat empfiehlt, bei der Stichfrage den Gegenvorschlag vorzuziehen.
+Bei Annahme der Volksinitiative arbeitet der Grosse Rat unverzüglich eine entsprechende
+Vorlage aus. Bei Annahme des Gegenvorschlages bestimmt der Regierungsrat den Zeitpunkt
+des Inkrafttretens der entsprechenden Gesetzesänderung.
+Wenn das Initiativbegehren zurückgezogen wird, ist die Änderung des Schulgesetzes nochmals
+zu publizieren. Sie unterliegt dem fakultativen Referendum und tritt auf Beginn des Schuljahres
+2024/2025 am 12. August 2024 in Kraft. Sollte aufgrund eines erhobenen Referendums der
+Zeitpunkt des Inkrafttretens nicht eingehalten werden können, bestimmt im Falle der Annahme
+der Vorlage der Regierungsrat den Zeitpunkt des Inkrafttretens.
+III.
+
+Publikation
+
+Dieser Beschluss ist zu publizieren.
+
+Seite19/19
+
+

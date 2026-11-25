@@ -1,0 +1,51 @@
+Anzug betreffend Transparenz über den Einsatz von algorithmischen Systemen in der
+Verwaltung
+
+23.5474.01
+
+Algorithmische Systeme, oft auch benannt als «Künstliche Intelligenz (KI)», werden immer häufiger eingesetzt.
+Aus technischer Perspektive handelt es sich bei «KI» um einen etablierten Sammelbegriff, der eine Reihe von
+Technologien umfasst, die automatisierte Entscheidungen fällen, Empfehlungen machen, Schlussfolgerungen
+ziehen oder Vorhersagen treffen. Dazu gehören wissensbasierte Systeme und statistische Methoden ebenso wie
+Ansätze des maschinellen Lernens (z.B. unter Einsatz neuronaler Netze). Die grosse Leistungsfähigkeit dieser
+Technologien basiert meist auf der Aneinanderreihung einer Vielzahl von mathematischen Optimierungen, die
+unter Nutzung grosser Rechnerkapazitäten Strukturen aus grossen Datenmengen extrahieren. 1 In der
+öffentlichen Verwaltung können diese Systeme in unterschiedlichen Kontexten verwendet werden, zum Beispiel
+bei der Beantwortung von Anfragen mit Chatbots, der automatischen Verarbeitung von Steuererklärungen oder
+Sozialhilfeanträgen, in der vorhersagenden Polizeiarbeit, zur Bewertung des Rückfallrisikos von Straftäterinnen
+oder Straftätern oder zur Prognose der Arbeitsmarktintegration.
+Die öffentliche Verwaltung ist die einzige Anbieterin bestimmter Dienstleistungen oder Erfüllerin von Aufgaben,
+die Teil der Grundversorgung sind, und sie geniesst einen besonderen Zugang zu sensiblen Daten. Entsprechend
+unterliegt sie besonderen Verpflichtungen. Algorithmische Systeme, in diesem Fall algorithmische
+Entscheidungssysteme genannt, werden immer häufiger verwendet, um Entscheidungen über Personen zu
+treffen, zu empfehlen oder zu beeinflussen, und zwar in einer Weise, die Auswirkungen darauf hat, welche
+Entscheidung getroffen wird. Für die Akzeptanz und das Vertrauen der Bevölkerung in staatliche Entscheidungen
+ist besonders wichtig, dass die betroffenen Personen und die interessierte Öffentlichkeit wissen, worauf die von
+der Verwaltung getroffenen Entscheide beruhen, und dass sie diese nachvollziehen können. Dazu gehört, dass
+die Bevölkerung wissen kann, in welchen Bereichen die Verwaltung algorithmische Systeme, wie sie oben
+beschrieben sind, einsetzt oder experimentell daran arbeitet. Diese Transparenz kann mit einem einfach öffentlich
+zugänglichen Register sichergestellt werden. Der Kanton Zürich bereitet die Einführung eines solches Registers
+derzeit vor.2 Für die öffentliche Verwaltung ist diese Transparenz nicht nur ein Erfordernis, sondern auch eine
+Chance.
+Das Register sollte unter anderem Auskunft geben über die Art und Herkunft der bearbeiteten Daten, die
+Rechtsgrundlage, den Verwendungszweck, die verantwortliche Verwaltungseinheit, die Logik des algorithmischen
+Systems, die Akteure (z.B. kantonale Fachabteilungen oder beauftrage private Anbieter), die an der Entwicklung
+des Systems mitgewirkt haben oder an dessen Einsatz beteiligt sind, sowie (falls verfügbar) die Resultate einer
+Folgenabschätzung zum Einsatz des Systems. Diese Informationen sollen offen und leicht digital zugänglich sein
+und in einem standardisierten Format aufbereitet werden, so dass sie auch für die wissenschaftliche Forschung
+nutzbar sind. Dabei muss die Wahrung von Datenschutzerfordernissen stets sichergestellt werden. Im Falle von
+legitimen Geheimhaltungsinteressen kann ausnahmsweise auf einen Teil der Angaben verzichtet werden. In
+letzterem Falle muss jedoch die zuständige Aufsichtsbehörde oder die Stelle, gegenüber der vollständige
+Transparenz geleistet wird, angegeben werden.
+Die JSSK bittet den Regierungsrat deshalb zu prüfen und darüber zu berichten, wie ein Register zur Erfassung
+aller von der kantonalen Verwaltung eingesetzten algorithmischen Entscheidungssysteme eingeführt werden
+kann.
+1 Thouvenin, Florent/Christen, Markus/Bernstein, Abraham/Braun Binder, Nadja/Burri, Thomas/Donnay, Karsten/Jäger, Lena/Jaffe,
+Mariela/Krauthammer, Michael/Lohmann, Melinda/Mätzener, Anna/Mützel, Sophie/Obrecht, Liliane/Ritter, Nicole/Spielkamp, Matthias/Volz,
+Stephanie, Ein Rechtsrahmen für Künstliche Intelligenz, Positionspapier, 2021, abrufbar unter: https://www.zora.uzh.ch/id/eprint/211386/
+2Die Einführung geschieht im Rahmen der Revision des Gesetzes über die Information und den Datenschutz (IDG) des Kantons Zürich:
+https://www.zh.ch/de/news-uebersicht/medienmitteilungen/2023/08/kanton-zuerich-modernisiert-gesetz-ueber-information-und-datenschutz.html
+
+Für die Justiz-, Sicherheits- und Sportkommission: Barbara Heer, Präsidentin
+
+

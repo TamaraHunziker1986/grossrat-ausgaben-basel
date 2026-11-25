@@ -1,0 +1,55 @@
+Anzug betreffend Methoden zur Förderung von bidirektionalen DC-Ladestationen
+
+25.5497.01
+
+In Zukunft wird immer mehr Strom aus Sonnenenergie produziert. Im revidierten Ratschlag zur Förderung des
+Ausbaus der Photovoltaik-Infrastruktur an Gebäuden im Kanton Basel-Stadt («Solaroffensive») wurde das
+ambitionierte Ziel von 500 GWh pro Jahr vorgeschlagen. Solaranlagen produzieren bei Sonnenschein Strom,
+welcher zu einem gewissen Anteil in das Verteilnetz zurückgespeist wird, falls er nicht im Gebäude gebraucht
+wird. Wenn an einem sonnigen Mittag viele Solaranlagen rückspeisen und gleichzeitig wenig Strom im Gebäude
+verbraucht wird, führt dies zu hohen Belastungen (sog. Lastspitzen) für das Verteilnetz. Dies kann dazu führen,
+dass PV-Anlagen abgeregelt werden müssen, oder im Extremfall gar nicht realisiert werden, weil die
+Verteilnetzleitung nicht für die zusätzliche Belastung ausgelegt ist. Es gilt Lösungen für dieses Problem zu finden,
+denn um die Klimaziele zu erreichen, braucht es möglichst viele PV-Anlagen. Der einfachste Ansatz ist, den
+Solarstrom zu einem möglichst grossen Anteil direkt bei der Produktionsstätte zu verbrauchen, bzw. in einer
+Batterie zwischenzuspeichern. Ein Batteriespeicher erhöht den Eigenverbrauchsanteil des Solarstroms, was sich
+positiv auf die Kosten der PV-Anlage auswirkt, und er sorgt für eine Entlastung im Verteilnetz, weil sich durch die
+Pufferung des Solarstroms Lastspitzen reduzieren lassen.
+Bis heute werden PV-Anlagen noch zu selten mit Batteriespeichern ergänzt. Zur Lösung dieses Problems
+könnten bidirektionale DC-Ladestationen für Elektromobile einen wichtigen Beitrag leisten, weil sie es
+ermöglichen, Strom im Elektroauto zu speichern und bei Bedarf wieder zu entladen. Gemäss der kantonalen
+Klimastrategie «Netto-Null 2037» sollen bis 2037 97% der im Kanton immatrikulierten Personenwagen
+emissionsfrei sein. Mit dem Ausbau der Elektromobilität, werden quasi nebenbei immer mehr Batteriespeicher im
+privaten Bereich angeschafft. Weil erstens Personenwagen ca. 90% ihrer Lebensdauer stehend verbringen, und
+zweitens durchschnittliche Fahrten ca. 40km lang sind - was nur 10% der Batteriekapazität von Elektroautos
+entspricht - wird das Potential von Elektroautobatterie kaum ausgenutzt.
+Durch die zunehmende Elektrifizierung des motorisierten Verkehrs nimmt die Zahl von Elektroautobatterien rasch
+zu. Mit Hilfe von bidirektionalen DC-Ladestationen werden die Batterien in Autos nutzbar für mehr als «nur» um
+das Fahrzeug zu bewegen. Es ist möglich den Strom sowohl aus der Autobatterie vor Ort zu nutzen «Vehicle-tobuilding» (im EFH, MFH, Parkhaus, Unternehmen, usw.) oder dem öffentlichen Stromnetz «Vehicle-to-grid» als
+Flexibilität zur Verfügung zu stellen, wobei die oben beschriebenen Vorteile eines Batteriespeichers zum Tragen
+kommen.
+Ein Pilotprojekt in der holländischen Stadt Utrecht zeigt, dass diese Technologie bereits heute erfolgreich und
+grossflächig eingesetzt werden kann. Dabei versorgen 500 bidirektionale Ladestationen Utrechts
+Elektrofahrzeuge. Auch in der Schweiz hat das Projekt «V2X Suisse» von Mobility aufgezeigt, dass neben dem
+bewährten «Vehicle-to-building» auch «Vehicle-to-grid» technisch gut funktioniert, und zwar sowohl netzdienlich
+(für den Verteilnetzbetreiber) als auch systemdienlich (für den Übertragungsnetzbetreiber). Die Kantone Bern,
+Zürich und Tessin haben die Relevanz dieser Zukunftstechnologie bereits erkannt und fördern den Einsatz von
+bidirektionalen Ladestationen durch finanzielle Anreize.
+Die Unterzeichnenden sind der Meinung, dass der Einsatz von bidirektionalen DC-Ladestationen im
+Energiesystem und im Mobilitätskonzept des Kanton Basel-Stadt bereits heute mitgedacht werden und mehr
+Gewicht erhalten soll und bitten den Regierungsrat zu prüfen und zu berichten:
+Wie können bidirektionale DC-Ladestationen als Schlüsseltechnologie im «Gesamtkonzept
+Elektromobilität» anerkannt und festgehalten werden?
+Welche Möglichkeiten zur gezielten Förderung von bidirektionalen DC-Ladestationen bestehen und wann
+können diese eingeführt werden?
+Wie können Fördermechanismen mit Car Sharing Angeboten gekoppelt werden?
+Können bidirektionale DC-Ladestationen für die Busse der BVB eingesetzt werden?
+Können bidirektionale DC-Ladestationen für Fahrzeuge des Kantons eingesetzt werden, z.B. für
+Fahrzeuge vom Werkhof und für Dienstwagen?
+Können in Basel-Stadt ansässige Unternehmen, die PV-Anlagen besitzen, Förderbeiträge beantragen,
+wenn sie den Eigenverbrauch optimieren wollen und die überschüssige Energie im Fahrzeugpark – mittels
+bidirektionalen DC-Ladestationen - zwischenspeichern wollen?
+Béla Bartha, Harald Friedl, Olivier Battaglia, Lorenz Amiet, Michael Graber, Jean-Luc Perret, Leoni
+Bolz, Brigitte Kühne
+
+

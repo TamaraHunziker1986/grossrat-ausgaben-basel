@@ -1,0 +1,46 @@
+Motion betreffend Messenger Dienst für die Basler Volksschulen
+
+24.5423.01
+
+Im Ratschlag von 2012 "Erweiterung der Informations- und Kommunikationstechnologien an der Volksschule
+Basel-Stadt (ICT@BS)" legte die Organisation IGT Medien die Grundlage für die Zentralisierung und den Ausbau
+der IT-Dienstleistungen an den Basler Volksschulen. Ab 2014 standen weitere Mittel zur Verfügung, um die ITlnfrastruktur an die höheren Anforderungen z. B. durch den Ausbau von Servern und Software anzupassen. Mit
+dem zweiten Ratschlag von 2019 zum "Ausbau der Digitalisierung der Volksschulen und des Zentrums für
+Brückenangebote" wurde dieser Prozess weitergeführt. Die Massnahmen verbesserten die IT-Architektur
+erheblich, reduzierten die Komplexität und ermöglichten den Ausbau von Diensten wie Microsoft Teams.
+Ziel war es, die Schuten vollständig von IT-Aufgaben zu entlasten und Synergien zu fördern. Um noch mehr
+Synergien zu nutzen und den Datenschutz zu sichern war mit Edulog ein weiterer Schritt geplant, der einen
+einfachen und sicheren Zugang zu diversen Online-Diensten (Lehrmittel etc.) für Schulen bietet.
+In der Beantwortung der Interpellation Nr. 45 (24.5137) nimmt die Regierung Stellung. U. a. schreibt sie: "... die
+Beschaffung von Kommunikations-Apps nicht kantonal zu organisieren, sondern den Entscheid über den Einsatz
+in der Verantwortung der teilautonomen Schulen zu belassen. In der Beantwortung der Schriftlichen Anfrage
+(24.5216) wird weiter ausgeführt, dass die Schulstandorte die Aufwände über das Standortbudget zu finanzieren
+haben."
+Dieser Entscheid soll dem Umstand Rechnung tragen, dass gemäss der "Verordnung für die Schulleitungen der
+Volksschulen" die Schulleitung im Rahmen des Schulprogramms die Kooperation mit den Erziehungsberechtigten
+regelt." Diese Begründung ist in mehrerlei Hinsicht unverständlich. So wird z. B. auch das Kommunikationsmittel
+E-Mail für Lehrpersonen und Schülerinnen zentral beschafft und unterhalten. Zentrale Beschaffungen
+ermöglichen eine Ausschreibung, die auf Grund des Wettbewerbs durch verschiedene Anbieterangebote zu
+tieferen Preisen führen. Bereits vorhandene Nutzendendaten von Eltern und Lehrpersonen können automatisch
+von der zentralen Datenbank, die jetzt schon die eduBS-Umgebung speist, importiert werden.
+Genau diese Zentralisierung wurde mit den beiden Ratschlägen angestrebt, um die Schulen von Beschaffungsund Unterhaltsarbeiten zu entlasten, damit sie sich ihren zentralen Aufgaben widmen können. Zudem wurde das
+Budget der Schulen nicht entsprechend aufgestockt, um eine Aufgabe wie die Anschaffung eines MessengerDienstes finanzieren zu können. De facto müssen die Schuten ihr sowieso schon knappes Budget belasten, das
+viel nutzbringender den Schüter:innen zugutekommen müsste. Wenn man dann noch das Budget in Betracht
+zieht, dass der Grosse Rat im 2019 gesprochen hatte, dann ist die Finanzierungsfrage klar beantwortet. Die
+Nachfolgeorganisation DIG-ITvom ED ist sowohl mit der Beschaffung, der Installation, dem Betrieb und der
+Finanzierung zu beauftragen. Auch ICT-Medien hatte solche verhältnismässig kleinen Neuanschaffungen für die
+Schulen mit ihrem damaligen Budget gestemmt, als klare Dienstleistung für die Schulen.
+Nicht zuletzt - andere Städte lösen solche Fragen, wie Basel ursprünglich auch, zentral (bspw. Bern). 1 Aufgrund
+des aktuellen Flickenteppichs im Kanton Basel-Stadt bei den Schulkommunikations-lnstrumenten soll die
+Beschaffung unter Berücksichtigung der Bedürfnisse der Schulleitungen erfolgen.
+Die Unterzeichnenden der Motion fordern den Regierungsrat auf, innert zwei Jahren für einen
+datenschutzkonformen Schul-Messenger-Dienst für alle Volksschulen zu sorgen. Schulen, die bereits einen
+Messenger-Dienst im Einsatz haben, der dann auf Grund der Ausschreibung allenfalls abgelöst wird, erhalten
+eine Übergangszeit von längstens 5 Jahren, um auf den kantonalen Schul-Messenger umzusteigen.
+1
+
+https://www.inside-it.ch/stadtberner-schulen-erhalten-einen-schweizer-messenger-20230810
+
+Oliver Thommen, Sandra Bothe
+
+

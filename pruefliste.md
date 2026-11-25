@@ -39,6 +39,10 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100393/000000393868.pdf
 - einmalig: Fr. 200'000  
   «- Fr. 200‘000 gebundene Ausgaben für den Ersatz von 108 Sitzbänken durch das TBA zu Lasten der Erfolgsrechnung des Bau-und Verkehrsdepartments»
 
+## 2021-03-10 20.1274 Bericht zum Stand der Umsetzung der Anforderungen des Bundesgesetzes zur Behindertengleichstellung (BehiG) auf dem Tram- und Busnetz des Kantons Basel-Stadt; Statusbericht per Ende 2019
+Beschluss: https://grosserrat.bs.ch/dokumente/100393/000000393870.pdf
+- keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
+
 ## 2021-03-10 20.0137 Ratschlag betreffend Ausgabenbewilligung für die Sanierung der Rauracherstrasse mit Umgestaltung der Bushaltestellen Bahnhof Niederholz und Habermatten
 Beschluss: https://grosserrat.bs.ch/dokumente/100393/000000393866.pdf
 - einmalig: Fr. 1'490'000  
@@ -53,10 +57,6 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100393/000000393866.pdf
   «- Fr. 1‘095‘000 gebundene Ausgaben für die Erhaltung der Strasse gemäss dem heutigen Standard zu Lasten der Investitionsrechnung, Investitionsbereich IB1 «Stadtentwicklung und Infrastruktur», Rahmenausgabenbewilligung Erhaltung Infrastruktur Strassen»
 - einmalig: Fr. 420'000  
   «- Fr. 420‘000 gebundene Ausgaben für die Erhaltung der Strasse gemäss dem heutigen Standard zu Lasten der Investitionsrechnung, Investitionsbereich IB1 «Stadtentwicklung und Infrastruktur», Rahmenausgabenbewilligung Erhaltung Lichtsignalanlagen 2 Der Beitrag des Bundes in der Höhe von max. Fr. 26‘500 (zuzüglich MWST. und Teuerung seit 2005) ist der Ausgabe gutzuschreiben.»
-
-## 2021-03-10 20.1274 Bericht zum Stand der Umsetzung der Anforderungen des Bundesgesetzes zur Behindertengleichstellung (BehiG) auf dem Tram- und Busnetz des Kantons Basel-Stadt; Statusbericht per Ende 2019
-Beschluss: https://grosserrat.bs.ch/dokumente/100393/000000393870.pdf
-- keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
 
 ## 2021-03-17 20.1373 Staatsbeitrag an die Stiftung Wildt'sches Haus für die Jahre 2021-2024
 Beschluss: https://grosserrat.bs.ch/dokumente/100393/000000393909.pdf
@@ -1727,6 +1727,11 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411151.pdf
 - einmalig: Fr. 1'310'000  
   «Es werden Ausgaben über gesamthaft Fr. 1'310'000 für die Beschaffung eines elektrobetriebenen ABC-Lastkraftwagens der Feuerwehr Basel-Stadt zu Lasten der Investitionsrechnung des Justizund Sicherheitsdepartements, Dienststelle Rettung, genehmigt.»
 
+## 2025-12-10 25.1333 Beschaffung von vier Rettungswagen für die Sanität Basel-Stadt (eRTW)
+Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411466.pdf
+- einmalig: Fr. 1'912'000  
+  «Es wird eine Ausgabe über gesamthaft Fr. 1'912'000 für die Beschaffung von vier elektrobetriebenen Rettungswagen der Sanität Basel-Stadt zu Lasten der Investitionsrechnung des Justiz- und Sicherheitsdepartements, Dienststelle Rettung, bewilligt.»
+
 ## 2025-12-10 25.5498 Änderung der Ausführungsbestimmungen zum Gesetz über die Geschäftsordnung des Grossen Rates (AB)
 Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411459.pdf
 **Achtung:** Gesamtbetrag laut Beschluss Fr. 6'000, Summe der gelesenen Posten Fr. 0
@@ -1736,11 +1741,6 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411459.pdf
 Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411460.pdf
 - befristet: Fr. 840'000  
   «Für die Stiftung Rheinleben werden für den Betrieb der Anlaufstelle für Angehörige und Kinder psychisch erkrankter Menschen für die Jahre 2026 bis 2029 Ausgaben von insgesamt Fr. 840‘000 (jährlich Fr. 210‘000) bewilligt.»
-
-## 2025-12-10 25.1333 Beschaffung von vier Rettungswagen für die Sanität Basel-Stadt (eRTW)
-Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411466.pdf
-- einmalig: Fr. 1'912'000  
-  «Es wird eine Ausgabe über gesamthaft Fr. 1'912'000 für die Beschaffung von vier elektrobetriebenen Rettungswagen der Sanität Basel-Stadt zu Lasten der Investitionsrechnung des Justiz- und Sicherheitsdepartements, Dienststelle Rettung, bewilligt.»
 
 ## 2025-12-10 23.1497 Teilrevision des Bürgerrechtsgesetzes (BürG)
 Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411478.pdf
@@ -2093,10 +2093,6 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413300.pdf
 Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413535.pdf
 - keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
 
-## 2026-10-14 26.0743 Universität Basel: Leistungsbericht 2025; Partnerschaftliches Geschäft, Bericht des RR
-Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413540.pdf
-- keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
-
 ## 2026-10-14 25.1234 Teilrevision des Gesetzes über die Behindertenhilfe
 Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413537.pdf
 - keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
@@ -2105,6 +2101,10 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413537.pdf
 Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413539.pdf
 - einmalig: Fr. 345'380  
   «Es wird ein Betrag in Höhe von 345'380 Franken für die Ersatzbeschaffung von einem E-LKW für die Materialzentrale (zu Lasten der Investitionsrechnung Erziehungsdepartement, Zentrale Dienste, Investitionsbereich «Übrige») bewilligt.»
+
+## 2026-10-14 26.0743 Universität Basel: Leistungsbericht 2025; Partnerschaftliches Geschäft, Bericht des RR
+Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413540.pdf
+- keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
 
 ## 2026-10-14 26.0555 Ausgabenbewilligung zur Neugestaltung von Grünanlagen mit Naturschutzzone im Areal Walkeweg
 Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413536.pdf (korrigiert)
@@ -2280,4 +2280,1876 @@ Dokument: https://grosserrat.bs.ch/dokumente/100412/000000412441.pdf
 Dokument: https://grosserrat.bs.ch/dokumente/100412/000000412440.pdf
 - Fr. 150'000  
   «In Entsprechung des Budgetpostulats 2026 Heidi Mück werden im Budget 2026 des Erziehungsdepartements zusätzlich Fr. 150’000 eingestellt. (Position Erziehungsdepartement, 290 Jugend, Familie und Sport, 36 Transferaufwand)»
+
+## Vorstoss 20.5456 Anzug Sarah Wyss und Toya Krummenacher betreffend Unterbesetzung kantonaler Arbeitsinspektor*innen und Ausschöpfung Covi
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 20.5480 Anzug Pascal Messerli und Konsorten betreffend Basler Preis für Zivilcourage
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 20.5020 Motion Jürg Stöcklin und Konsorten betreffend Anpassung von § 7 Energiegesetz
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 20.5451 Anzug Beat Leuthardt und Konsorten betreffend politische Plakatierung durch die APG
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 20.5474 Anzug Jessica Brandenburger und Konsorten betreffend Schaffung eines ambulanten gerontopsychiatrischen Dienstes für Base
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 20.5472 Anzug Tim Cuénod und Konsorten betreffend eine kantonale Flachdach-Strategie
+Kosten: geschätzt' einmalig 10'157' pro Jahr 0  
+  «Ersatzabgabe: 2’284 Fr. / a Förderanteil insgesamt: 26 % Förderanteil insgesamt: Tabelle 4: Solarpflicht, Ersatzabgabe und Förderbeiträge für ein freistehendes Einfamilienhaus in Riehen 72 m2 16.7 kW 16.7 kW 38’840 Fr. 5’994 Fr. 4’163 Fr. 10'157 Fr. 26 % Seite 41/79 Regierungsrat des Kantons Basel-Stadt Reihen-Mehrfamilienhaus, Klybeck Gebäude PV-Anlage zur Pflichterfüllung Realisierte PV-Anlage G» (https://grosserrat.bs.ch/dokumente/100410/000000410358.pdf)
+
+## Vorstoss 20.5175 Motion Patricia von Falkenstein und Konsorten betreffend Erkenntnisse aus der Corona-Krise und ihrer Bewältigung
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5010 Anzug Christian C. Moesch und Konsorten betreffend Förderung des Ausbaus von 5G
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5013 Anzug Thomas Widmer-Huber und Konsorten betreffend behindertengerechte und kleinkinderfreundliche Gestaltung des Rheinuf
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5009 Anzug Jean-Luc Perret und Konsorten betreffend Koordination des vorhandenen Parkraums in den bestehenden öffentlichen Pa
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5014 Anzug Patrick Hafner betreffend Begegnungszone vor Rathaus
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5016 Anzug Patrick Hafner betreffend Optimierung von Anwohnerinformationen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5021 Anzug Sebastian Kölliker und Konsorten betreffend Anlaufstelle sexuelle Gesundheit
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5015 Anzug Patrick Hafner betreffend kundenfreundliche Steuerverwaltung
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5102 Anzug Jürg Stöcklin und Konsorten betreffend der Reduktion von klimaschädlichem Zement und Beton im Kanton Basel-Stadt
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5103 Anzug Jeremy Stephenson und Konsorten betreffend Parkhaus UKBB wann gibt es endlich eine Patienten-, Besucher- und Mitar
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5105 Anzug Raffaela Hanauer und Konsorten betreffend besseren Erschliessung der Innenstadt für den Veloverkehr
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 20.5343 Motion Franziska Roth und Konsorten betreffend ergänzende Massnahmen zur Umsetzung des Auftrages der integrativen Schule
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5098 Anzug Jérôme Thiriet und Konsorten betreffend Veloverbesserungsmassnahmen zur besseren Erschliessung des Güterbahnhofs W
+Kosten: beziffert' einmalig 350'000' pro Jahr 0  
+  «Begehren Mit diesem Ausgabenbericht beantragt der Regierungsrat dem Grossen Rat, einmalige Ausgaben in der Höhe von 350’000 Franken für die Bearbeitung eines Vorprojekts zu bewilligen zu Lasten der Investitionsrechnung, Investitionsbereich IB 1 («Stadtentwicklung & Allmendinfrastruktur», Städtebau & Architektur, Position 6510.300.20057).» (https://grosserrat.bs.ch/dokumente/100407/000000407731.pdf)
+
+## Vorstoss 21.5099 Anzug Balz Herter und Konsorten betreffend Bewahrung, Dokumentation und Vermittlung der Basler Fasnacht
+Kosten: beziffert' einmalig 50'000' pro Jahr 0  
+  «Nach erfolgtem Bundesentscheid wurde ein Beitrag von 50'000 Franken zugesagt.» (https://grosserrat.bs.ch/?dnr=21.5099.02)
+
+## Vorstoss 21.5232 Anzug Stefan Wittlin und Konsorten betreffend Schaffung von Anreizen für die bauliche Verdichtung im Bestand
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5222 Anzug Jean-Luc Perret und Konsorten betreffend einer autoverkehrsfreien Kreuzung Bankverein
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5229 Anzug Joël Thüring und Konsorten betreffend Verzicht auf Stellungnahmen bei Vernehmlassungen NICHT als Zustimmung werten
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5221 Anzug Luca Urgese und Konsorten betreffend regelmässige Befragungen nach Wahlen und Abstimmungen
+Kosten: geschätzt' einmalig 37'799' pro Jahr 0  
+  «Kosten der Nachanalyse: 37'798.90 Franken.» (https://grosserrat.bs.ch/dokumente/100413/000000413035.pdf)
+
+## Vorstoss 21.5220 Anzug Annina von Falkenstein und Konsorten betreffend Nachholbildungsmöglichkeiten bei Defiziten in den Grundkompetenzen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5219 Anzug Annina von Falkenstein und Konsorten betreffend Streichung der Mitgliedgebühren der IWB App Enerjoy
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5231 Anzug Beat Leuthardt und Konsorten betreffend «Suuberi Luft fürs Fälbi-Quartier JETZT!» (Endlich Lebensqualität und weni
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5230 Anzug Beda Baumgartner und Konsorten betreffend Information von Beziehenden von Langzeitnothilfe
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5243 Anzug Johannes Sieber und Konsorten betreffend politische Bildung von Jugendlichen durch Abgabe eines Medien-Gutscheins
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5299 Anzug Sandra Bothe und Konsorten betreffend fit durch Weiterbildung auf dem Arbeitsmarkt
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5300 Anzug Nicole Strahm-Lavanchy und Konsorten betreffend Lade-Strom für Elektroautos aus der Tram-Oberleitung
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5321 Anzug Beatrice Messerli und Konsorten betreffend Pilotprojekte zur Steigerung der Attraktivität der Berufsmatur
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 20.5443 Motion Alex Ebi und Konsorten betreffend Planung eines neuen Hallenbads und einer neuen Publikumssporthalle
+Kosten: beziffert' einmalig 200'000' pro Jahr 0  
+  «Januar 2024. 1.1 Machbarkeitsstudien Hallenbad Der Regierungsrat hat eine Planungspauschale von 200'000 Franken bewilligt, um die bauliche Machbarkeit des Hallenbads am ausgewählten Standort sowie die Kosten vertieft zu prüfen.» (https://grosserrat.bs.ch/?dnr=20.5443.03)
+
+## Vorstoss 21.5302 Anzug Michael Hug und Konsorten betreffend Start-up Hub im Stadtzentrum
+Kosten: geschätzt' einmalig 67'300'000' pro Jahr 0  
+  «Kap. 7.5.4). 7.7 Ausserordentliche Äufnung des Standortförderungsfonds Wie in Kap. 7.6.2 ausgeführt, werden für die Jahre 2023 – 2030 zur Umsetzung der neun Programme Gesamtausgaben von rund 67,3 Millionen Franken erwartet.» (https://grosserrat.bs.ch/dokumente/100405/000000405196.pdf)
+
+## Vorstoss 20.5434 Motion Luca Urgese und Konsorten betreffend Lobbying des Regierungsrates für Verhandlungen des Bundesrates mit dem franz
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 20.5484 Motion Beat K. Schaller und Konsorten betreffend keine Allmendgebühren bis zur vollständigen Erholung des Gewerbes nach 
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5298 Anzug Mehmet Sigirci und Konsorten betreffend Vollzug des persönlichen Verkehrs des nicht obhutsberechtigten Elternteils
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5301 Anzug Raffaela Hanauer und Jean-Luc Perret betreffend öffentliche Feuerstellen im Landschaftspark Wiese
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5303 Anzug Annina von Falkenstein und Konsorten betreffend Aufstockung von Lehrstellen und Praktika beim Kanton
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5304 Anzug Claudio Miozzari und Konsorten betreffend Rhein als Lebens- und Schifffahrtsader auch unterhalb der Dreirosenbrück
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5322 Anzug Brigitte Kühne und Konsorten betreffend biodiversitätsschädigende Subventionen im Kanton Basel-Stadt
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 20.5473 Motion Oliver Bolliger und Konsorten betreffend würdige Unterbringung von Nothilfebeziehenden alleinstehenden Asylsuchen
+Kosten: geschätzt' einmalig 140'000' pro Jahr 200'000  
+  «Die Folgekosten belaufen sich dabei auf rund 140'000 Franken.» (https://grosserrat.bs.ch/?dnr=20.5473.03)
+
+## Vorstoss 20.5485 Motion Andreas Zappalà und Konsorten betreffend berufsmässige Vertretung durch die Interessenverbände an der Schlichtung
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5431 Anzug Christian von Wartburg und Konsorten betreffend Verbesserung der Veloverkehrssicherheit
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5437 Anzug Daniel Sägesser und Konsorten betreffend Funktionskontrolle bei den thermischen Solaranlagen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5476 Anzug Jessica Brandenburger und Konsorten betreffend Weiterbildungen für den Umgang mit LGBTIQ-feindlichen Aggressionen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5424 Anzug Stefan Wittlin und Konsorten betreffend Infrastruktur für Schwimmunterricht an der Primarschule
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5425 Anzug Edibe Gölgeli und Konsorten betreffend bessere Durchmischung der Schulklassen für mehr Chancengerechtigkeit
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5429 Anzug Brigitte Gysin und Konsorten betreffend Prävention Verkehrssicherheit für Velofahrer:innen, Schreiben des RR
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5438 Anzug Melanie Nussbaumer und Konsorten betreffend Alleinerziehende vor Armut schützen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5490 Anzug Mahir Kabakci und Konsorten betreffend die rechtliche Nichtdiskriminierung der ausländischen Bevölkerung im Kanton
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5489 Anzug Mahir Kabakci und Konsorten betreffend Verbesserung der Parkiermöglichkeiten beim und auf dem Friedhof Hörnli
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5495 Anzug Pascal Messerli und Konsorten betreffend kantonaler Massnahmenplan zur Bekämpfung von Antisemitismus
+Kosten: beziffert' einmalig 2'800'000' pro Jahr 746'000  
+  «Der Grosse Rat bewilligte dazu ab 2019 jährlich wiederkehrende zusätzliche Ausgaben von 746'000 Franken.» (https://grosserrat.bs.ch/?dnr=21.5495.02)
+
+## Vorstoss 21.5497 Anzug Joël Thüring und Konsorten betreffend Schaffung einer Beratungs- und Präventionsstelle für Menschen mit pädophilen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5512 Anzug Salome Bessenich und Konsorten betreffend "Ferienstrassen" für Basel: Temporäre kinderfreundliche Umnutzung von Qu
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5488 Anzug Michela Seggiani und Konsorten betreffend Einsetzung einer regierungsrätlichen Klimakommission in Basel-Stadt
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5518 Anzug Oliver Thommen und Konsorten betreffend ein attraktives Zentrum für Gundeldingen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5580 Anzug Olivier Battaglia und Beat von Wartburg betreffend Digitalisierung der Bildungsvermittlung auf allen Stufen, Schre
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5234 Motion der Umwelt, Verkehrs- und Energiekommission betreffend einem raschen Ausbau der Ladeinfrastruktur für E-Autos in 
+Kosten: geschätzt' einmalig 25'000' pro Jahr 100'000  
+  «Pro Ladestation mit zwei Ladepunkten ist mit durchschnittlichen Kosten für die Grundinstallation von ca. 25'000 Franken zu rechnen.» (https://grosserrat.bs.ch/dokumente/100405/000000405286.pdf)
+
+## Vorstoss 21.5215 Motion Beat Leuthardt und Konsorten betreffend Eifachs Uusestuehle für d'Baize und für uns alli
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5513 Anzug Tonja Zürcher und Konsorten betreffend Überprüfung und Erweiterung der Angebote für Obdachlose in der Stadt unabhä
+Kosten: geschätzt' einmalig 0' pro Jahr 545'600  
+  «Das jährliche Budget des Kantons verschlechtert sich unter daraus folgend per Saldo um rund 545’600 Franken aufgrund der effektiven Zusatzausgaben:  Kompetenzstelle Soziales Wohnen: Miet- und Betriebskosten Fr. 65'000 und 1 FTE zusätzlich: Fr. 111’600  Unterstützende Massnahmen: Fr. 255’000  Housing First erweitert: Fr. 94’000  Housing First plus: Fr. 760’000 – Fr. 740'000 bei Wegfall einer No» (https://grosserrat.bs.ch/dokumente/100406/000000406623.pdf)
+
+## Vorstoss 21.5514 Anzug Barbara Heer und Konsorten betreffend Anti-Diskriminierungsmassnahmen zum Thema Betteln, Schreiben des RR
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5630 Anzug Claudia Baumgartner und Konsorten betreffend übermässige Vermehrung von Freigängerkatzen / Tierwohl für Streunerka
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5647 Anzug Lukas Faesch und Konsorten betreffend Abschaffung der metallenen Registrierungsmarke bei Hunden
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5317 Motion Oliver Bolliger und Konsorten betreffend temporäre Erhöhung des Freibetrags bei der Sozialhilfe aufgrund der wirt
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5233 Motion der Bau- und Raumplanungskommission betreffend Veloanbindung Gundeli
+Kosten: geschätzt' einmalig 200'000' pro Jahr 0  
+  «Die Kosten für die Realisierung der «Phase 1, Teilausbau 1» betragen 200'000 Franken.  Phase 1, Teilausbau 2: Nördlich der Brücke erfolgen bauliche Anpassungen am Strassenraum bis zur Nauenstrasse, insbesondere an der Querung der Veloroute.» (https://grosserrat.bs.ch/dokumente/100408/000000408767.pdf)
+
+## Vorstoss 21.5529 Anzug Michael Hug und Tobias Christ betreffend freiwillige Abgabe auf Flugtickets und CO2-Reduktionen am EAP fördern, Sc
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5533 Anzug Oliver Thommen und Konsorten betreffend ein digitales Forum für Basel
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5585 Anzug Joël Thüring und Konsorten betreffend «Gemeinsam statt einsam - Cluster-Wohnungen für Basel»
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5625 Anzug Andrea Elisabeth Knellwolf und Konsorten betreffend "EU-Filiale" der Universität Basel am «Oberrhein», Schreiben d
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5646 Anzug Pascal Pfister und Konsorten betreffend Strategie gegen Einsamkeit
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5275 Motion Pascal Pfister und Konsorten betreffend Corona-Härtefall-Unterstützung für Personen in bescheidenen finanziellen 
+Kosten: beziffert' einmalig 70'000' pro Jahr 0  
+  «Dies und 70’000 Franken Verwaltungskosten ergeben einen Gesamtbetrag von 4.870 Mio.» (https://grosserrat.bs.ch/dokumente/100402/000000402718.pdf)
+
+## Vorstoss 21.5236 Motion Jürg Stöcklin und Konsorten betreffend "Aufbruch ins Solarzeitalter"- mehr Photovoltaik-Anlagen auf Basels Dächer
+Kosten: geschätzt' einmalig 10'157' pro Jahr 0  
+  «Ersatzabgabe: 2’284 Fr. / a Förderanteil insgesamt: 26 % Förderanteil insgesamt: Tabelle 4: Solarpflicht, Ersatzabgabe und Förderbeiträge für ein freistehendes Einfamilienhaus in Riehen 72 m2 16.7 kW 16.7 kW 38’840 Fr. 5’994 Fr. 4’163 Fr. 10'157 Fr. 26 % Seite 41/79 Regierungsrat des Kantons Basel-Stadt Reihen-Mehrfamilienhaus, Klybeck Gebäude PV-Anlage zur Pflichterfüllung Realisierte PV-Anlage G» (https://grosserrat.bs.ch/dokumente/100410/000000410353.pdf)
+
+## Vorstoss 21.5216 Motion Karin Sartorius und Konsorten betreffend Vereinfachte Erweiterung der Restaurations-Aussenflächen zur COVID-Präve
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5706 Anzug Claudio Miozzari und Konsorten betreffend postpartale Depression
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5702 Anzug Melanie Nussbaumer und Konsorten betreffend Neukonzipierung IWB-Dach Binningerstrasse neben Pruntrutermatte
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5710 Anzug Christoph Hochuli und Konsorten betreffend Öffnung der Unterführung Grenzacherstrasse für Velos/E-Bikes/Motorfahrr
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5709 Anzug Salome Hofer und Konsorten betreffend grosszügiges «Uusestuehle» langfristig ermöglichen, Schreiben des RR
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5708 Anzug der Wirtschafts- und Abgabekommission betreffend Analyse zu den aktuellen Steuerabzügen im Kanton Basel-Stadt
+Kosten: beziffert' einmalig 30'444' pro Jahr 0  
+  «Der Mittelwert des Abzugs für tatsächliche Kosten betrug 30’444 Franken und der Medianwert 9’740 Franken.» (https://grosserrat.bs.ch/?dnr=21.5708.03)
+
+## Vorstoss 21.5745 Anzug der Spezialkommission Klimaschutz betreffend Experimentierzone und Experimentierstatus für klimafreundliches Bauen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5753 Anzug der Spezialkommission Klimaschutz betreffend Stärkung des Forschungsstandorts im Bereich Klima
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5754 Anzug der Spezialkommission Klimaschutz betreffend Wissenstransfer zwischen Wissenschaft und Politik
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5747 Anzug der Spezialkommission Klimaschutz betreffend Kreislaufwirtschaft vorantreiben
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5750 Anzug der Spezialkommission Klimaschutz betreffend «Eine koordinierende Stelle in der Verwaltung zuständig für Zusammenf
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5017 Motion der Gesundheits- und Sozialkommission betreffend Corona-Bonus für das Gesundheitspersonal während der COVID-19-Pa
+Kosten: beziffert' einmalig 5'000'000' pro Jahr 0  
+  «August 2022, beschliesst: Für die Refinanzierung eines Corona-Bonus für das Gesundheitspersonal während der COVID19-Pandemie werden Ausgaben in der Höhe von Fr. 5'000’000 bewilligt.» (https://grosserrat.bs.ch/dokumente/100402/000000402716.pdf)
+
+## Vorstoss 21.5244 Motion Johannes Sieber und Michela Seggiani betreffend Verbot von Konversionstherapien in Basel-Stadt
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5742 Anzug der Spezialkommission Klimaschutz betreffend Vorbildfunktion für nachhaltiges Bauen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5743 Anzug der Spezialkommission Klimaschutz betreffend Zielkonflikte zwischen Regulationen und Klimaschutz
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5746 Anzug der Spezialkommission Klimaschutz betreffend Netto-Null-Konzept für die Verwaltung
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5748 Anzug der Spezialkommission Klimaschutz betreffend Klimaziele bei Arealentwicklungen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5749 Anzug der Spezialkommission Klimaschutz bezüglich der Folgekosten des Klimawandels in einem "Weiter-wie-bisher"-Szenario
+Kosten: geschätzt' einmalig 1'400'000' pro Jahr 0  
+  «Im Szenario mit einem stärkeren Klimawandel ergeben sich im Vergleich zum begrenzten Klimawandel im Jahr 2035 Mehrkosten im Sektor Gesundheit von 1,4 Millionen Franken.» (https://grosserrat.bs.ch/?dnr=21.5749.02)
+
+## Vorstoss 21.5751 Anzug der Spezialkommission Klimaschutz betreffend Senkung des Energieverbrauchs durch intelligente Heizsysteme
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5752 Anzug der Spezialkommission Klimaschutz betreffend Klausel für Pilotprojekte
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5739 Anzug Jérôme Thiriet und Konsorten betreffend Veloführung an der Kreuzung Am Wiesengriener - Weilstrasse
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5475 Motion Oliver Thommen und Konsorten betreffend politische Rechte für Menschen mit geistiger oder psychischer Behinderung
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5439 Motion Johannes Sieber und Konsorten betreffend einer kantonalen Gleichstellungsstrategie 2030
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5769 Anzug Karin Sartorius und Konsorten betreffend Veloverbindung Friedrich-Miescher-Strasse - Burgfelderstrasse
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5319 Motion Jérôme Thiriet und Konsorten betreffend Winterdienst auf Trottoirs ist Staatsaufgabe!
+Kosten: beziffert' einmalig 454'000' pro Jahr 741'000  
+  «Franken für die Beschaffung von zwanzig Winterdienstaggregaten (Pflug und Sohlestreuer) und von jährlich wiederkehrenden Betriebskosten von 741’000 Franken aus.» (https://grosserrat.bs.ch/dokumente/100408/000000408444.pdf)
+
+## Vorstoss 21.5776 Anzug Edibe Gölgeli betreffend Doppelspurausbau der S6 in Riehen
+Kosten: geschätzt' einmalig 170'000'000' pro Jahr 0  
+  «Beide Parlamente sind im Frühjahr 2023 den Anträgen nahezu einstimmig gefolgt. ‒ Welche Mehrkosten sind gegenüber einer oberirdischen Variante zu erwarten? Aufgrund der genannten beiden Machbarkeitsstudien sind für die Variante «tief» Mehrkosten von rund 170 Millionen Franken (bei einer Genauigkeit von ± 30%) gegenüber «hoch» zu erwarten.» (https://grosserrat.bs.ch/?dnr=21.5776.04)
+
+## Vorstoss 21.5813 Anzug Lydia Isler-Christ und Konsorten betreffend «temporäre Genussorte» in der Freien Strasse
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5839 Anzug Andrea Strahm und Andrea Elisabeth Knellwolf betreffend Überwachung der Gebühren gemäss NörV
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5834 Anzug Tobias Christ und Konsorten betreffend Kunstmuseum-Parking nicht konkurrenzieren
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5832 Anzug Christoph Hochuli und Konsorten betreffend Veloführung Birsköpfli - Lehenmatt
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5474 Motion Sandra Bothe und Konsorten betreffend Begleitmassnahmen zum Thema Betteln "Basler Weg"
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5422 Motion Oliver Bolliger und Konsorten betreffend einem Stadthotel gegen die Obdachlosigkeit (Umsetzung von Recht auf Wohn
+Kosten: geschätzt' einmalig 0' pro Jahr 545'600  
+  «Das jährliche Budget des Kantons verschlechtert sich unter daraus folgend per Saldo um rund 545’600 Franken aufgrund der effektiven Zusatzausgaben:  Kompetenzstelle Soziales Wohnen: Miet- und Betriebskosten Fr. 65'000 und 1 FTE zusätzlich: Fr. 111’600  Unterstützende Massnahmen: Fr. 255’000  Housing First erweitert: Fr. 94’000  Housing First plus: Fr. 760’000 – Fr. 740'000 bei Wegfall einer No» (https://grosserrat.bs.ch/dokumente/100406/000000406622.pdf)
+
+## Vorstoss 21.5833 Anzug Michael Hug und Konsorten betreffend umfassende Information aller HauseigentümerInnen im Kanton über die Installat
+Kosten: geschätzt' einmalig 10'157' pro Jahr 0  
+  «Ersatzabgabe: 2’284 Fr. / a Förderanteil insgesamt: 26 % Förderanteil insgesamt: Tabelle 4: Solarpflicht, Ersatzabgabe und Förderbeiträge für ein freistehendes Einfamilienhaus in Riehen 72 m2 16.7 kW 16.7 kW 38’840 Fr. 5’994 Fr. 4’163 Fr. 10'157 Fr. 26 % Seite 41/79 Regierungsrat des Kantons Basel-Stadt Reihen-Mehrfamilienhaus, Klybeck Gebäude PV-Anlage zur Pflichterfüllung Realisierte PV-Anlage G» (https://grosserrat.bs.ch/dokumente/100410/000000410357.pdf)
+
+## Vorstoss 21.5487 Motion Heidi Mück und Konsorten betreffend Einhaltung des Luftreinhalteplans 2016: Stromanschlüsse für Schiffe im Basler
+Kosten: geschätzt' einmalig 220'000' pro Jahr 0  
+  «Die Kosten für den Umbau der Stromversorgung betrugen rund 220'000 Franken. 2.2.2 Liegestellen GMS/TMS Dreirosen Seit 2023 steht der GMS und TMS ein Stromkasten mit 16 A-, 32 A- und 63 A-Steckern zur Verfügung.» (https://grosserrat.bs.ch/?dnr=21.5487.03)
+
+## Vorstoss 22.5039 Anzug Jean-Luc Perret und Konsorten betreffend 30'-Takt im ÖV-Nachtnetz
+Kosten: geschätzt' einmalig 0' pro Jahr 600'000  
+  «Die Umstellung auf das neue Nachtangebot im Dezember 2023 kostet zusätzlich rund 600'000 Franken pro Jahr.» (https://grosserrat.bs.ch/?dnr=22.5039.02)
+
+## Vorstoss 22.5023 Anzug Johannes Sieber und Konsorten betreffend Einrichtung eines runden Tischs für LGBTI-Anliegen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5038 Anzug Heidi Mück und Konsorten betreffend Besteuerung der Einnahmen aus Einspeisevergütungen von Photovoltaik-Kleinanlag
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5040 Anzug Harald Friedl und Konsorten betreffend Einrichtung eines Stadttaubenkonzepts
+Kosten: geschätzt' einmalig 517'000' pro Jahr 45'000  
+  «Er beantragt, die Initiative abzulehnen und im Sinne eines Gegenvorschlags Ausgaben von 517'000 Franken für ein dreijähriges Pilotprojekt, das die Reaktivierung von drei ehemaligen Taubenschlägen und Begleitmassnahmen vorsieht, zu bewilligen.» (https://grosserrat.bs.ch/dokumente/100411/000000411528.pdf)
+
+## Vorstoss 22.5021 Anzug Salome Bessenich und Konsorten betreffend Stärkung der Plakatsammlung Basel
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5022 Anzug Beda Baumgartner und Konsorten betreffend kein Einsatz von biometrischen Erkennungssystemen in Basel-Stadt
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5024 Anzug Joël Thüring und Konsorten betreffend Beteiligung des Kantons Basel-Stadt am ICT Scouts/Campus
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5036 Anzug Nicole Strahm-Lavanchy und Konsorten für einen weiteren Standort der Rettungs-Sanität im Hirzbrunnen oder Riehen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5037 Anzug Tim Cuénod und Konsorten betreffend der Finanzierung der ÖV-Transportkosten für Besuche ausserschulischer Lernorte
+Kosten: geschätzt' einmalig 150'000' pro Jahr 150'000  
+  «Gemäss mündlichen Aussage resp.- Schätzung des Erziehungsdepartementes würde eine Ausdehnung dieser Regelung auf die Sekundarstufe l Kosten von rund 150’000 Franken pro Jahr zur Folge haben.» (https://grosserrat.bs.ch/?dnr=22.5037.02)
+
+## Vorstoss 22.5053 Anzug Lisa Mathys und Konsorten betreffend Frühlingserwachen der "kleinen" Kulturangebote in Zeiten der Unsicherheit
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5645 Motion Joël Thüring und Konsorten betreffend neues Massnahmenpaket Sauberkeit für ein sauberes Basel - die Zweite
+Kosten: geschätzt' einmalig 0' pro Jahr 220'000  
+  «Für die Umsetzung des Massnahmenpakets gegen Littering werden jährlich zusätzlich 220'000 Franken an Personalkosten für 200 Stellenprozente (HC) im Departement für Wirtschaft, Soziales und Umwelt (WSU) benötigt, die im Budget 2026 berücksichtigt werden.» (https://grosserrat.bs.ch/dokumente/100409/000000409506.pdf)
+
+## Vorstoss 22.5084 Anzug Luca Urgese und Christoph Hochuli betreffend nachhaltige Bekämpfung von illegalen Sprayereien im öffentlichen Raum
+Kosten: beziffert' einmalig 350'000' pro Jahr 0  
+  «Insgesamt beliefen sich die Ausgaben auf durchschnittlich 350’000 Franken im Jahr.» (https://grosserrat.bs.ch/?dnr=22.5084.02)
+
+## Vorstoss 22.5086 Anzug Tim Cuénod und Konsorten betreffend bessere und attraktivere Erreichbarkeit der Sportanlagen St. Jakob vom Gundeli
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5087 Anzug Semseddin Yilmaz und Konsorten betreffend einem evt. Ausbau der Einsatztramlinie E11
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5088 Anzug Laurin Hoppler und Konsorten betreffend Entlastung bei amtlichen Gebühren für Registerauszüge und offizielle Dokum
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5089 Anzug Oliver Thommen und Konsorten betreffend die Anpassung des Luftreinhalteplan zum Schutz der Bevölkerung
+Kosten: geschätzt' einmalig 30'000' pro Jahr 0  
+  «Die Kosten für die Erarbeitung des Punktesystems betragen ca. 30'000 Franken.» (https://grosserrat.bs.ch/dokumente/100407/000000407947.pdf)
+
+## Vorstoss 22.5118 Anzug Georg Mattmüller und Konsorten betreffend Unterführungen im Stadtgebiet
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5119 Anzug Johannes Sieber und Konsorten betreffend einer kantonalen Medienförderung
+Kosten: geschätzt' einmalig 30'000' pro Jahr 100'000  
+  «Seite 7/12 Regierungsrat des Kantons Basel-Stadt nur 12% aller Berechtigten nutzten das Angebot bis anhin, womit die geschätzten Kosten im Jahr 2024 bei 30'000 Franken lagen.13 Die umfassendste Medienförderung, mit einem Budget von insgesamt 6,2 Mio.» (https://grosserrat.bs.ch/?dnr=22.5119.03)
+
+## Vorstoss 22.5123 Anzug Annina von Falkenstein und Konsorten betreffend Beleuchtung und Randmarkierungen auf Velowegen und -routen durch e
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5082 Anzug Beat Braun und Konsorten betreffend echter Wohnschutz jetzt: Mehr Baslerinnen und Basler zu Wohnungseigentümer/inn
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5085 Anzug Brigitte Kühne und Konsorten betreffend 'Trees in Cities Challenge' - Noch mehr Bäume für Basel
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5120 Anzug Karin Sartorius und Konsorten betreffend Velofurt - Pilotversuch in Basel
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5121 Anzug Christoph Hochuli und Konsorten betreffend Vorgeburtlicher Mutterschutz
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5122 Anzug Niggi Daniel Rechsteiner und Konsorten betreffend Strategie für die Stadtentwicklung im Kleinbasel (Webergasse, Cl
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5124 Anzug Luca Urgese und Christian von Wartburg betreffend attraktive Gestaltung des Marktplatzes
+Kosten: beziffert' einmalig 350'000' pro Jahr 0  
+  «Januar 2022 hat der Grosse Rat für das entsprechend Vorprojekt zur Neuorganisation und Umgestaltung des Bereichs Schifflände/Marktplatz einmalige Ausgaben von 350‘000 Franken bewilligt.» (https://grosserrat.bs.ch/?dnr=22.5124.02)
+
+## Vorstoss 22.5168 Anzug David Wüest-Rudin und Konsorten zur Sicherstellung einer Kompetenz- und Beratungsstelle für klimafreundliches Baue
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5170 Anzug Salome Bessenich und Konsorten betreffend Strategie Netto-Null in der Basler Bauwirtschaft
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5171 Anzug Thomas Widmer-Huber und Konsorten zur Förderung der Suizidprävention im Kanton Basel-Stadt
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5172 Anzug Franz-Xaver Leonhardt und Konsorten betreffend "Betonpiste Dreirosenbrücke"
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5158 Anzug Pascal Messerli und Oliver Thommen betreffend Förderung des Baumbestands
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5169 Anzug Lea Wirz und Konsorten zur Sicherstellung der Möglichkeit zur Weiterverwendung bestehender Bau- Substanz während a
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5744 Motion der Spezialkommission Klimaschutz für eine Ersatzpflicht für fossile Heizungen per 2035
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5221 Anzug Michael Hug und Konsorten betreffend Wiederaufnahme der Planung eines Tram-Schiffsverkehrs ("Vaporetto") auf dem R
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5214 Anzug Sasha Mazzotti und Konsorten betreffend Auswirkungen verschiedener Schulmodelle auf die Chancengerechtigkeit
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5222 Anzug Lisa Mathys und Konsorten betreffend "Basel-Soli-Ticket" für Menschen mit tiefen Einkommen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 21.5810 Motion Beda Baumgartner und Konsorten für Unterstützung von aufsuchender Arbeit im Altersbereich
+Kosten: beziffert' einmalig 25'000' pro Jahr 0  
+  «Für die Jahre 2023 und 2024 wurde jeweils ein Beitrag von 25'000 Franken vereinbart, zusätzlich übernahm das GD anteilige Kosten des Vereins «Fundus Basel» für den Erfahrungswertbericht in der Höhe von 5’605.60 Franken.» (https://grosserrat.bs.ch/?dnr=21.5810.03)
+
+## Vorstoss 21.5840 Motion Raphael Fuhrer und Konsorten betreffend integrale Signalisation von Tempo 30 in Basel-Stadt mit gleichzeitiger Be
+Kosten: geschätzt' einmalig 750'000' pro Jahr 0  
+  «Begehren Mit diesem Ausgabenbericht beantragen wir dem Grossen Rat, Ausgaben in Höhe von insgesamt 750’000 Franken für die Projektierung während den ersten drei Jahren des Zielnetzes Tempo 30, für die Projektierung zugehöriger flankierender Massnahmen zur Minimierung unerwünschter räumlicher Verkehrsverlagerungen, für die Projektierung von Massnahmen zur Beschleunigung des öffentlichen Verkehrs so» (https://grosserrat.bs.ch/dokumente/100412/000000412291.pdf)
+
+## Vorstoss 21.5837 Anzug Daniel Hettich und Konsorten betreffend Regionales Logistikflächenkonzept
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5259 Anzug Beatrice Isler und Konsorten betreffend Velofreundlichere Kreiselzufahrten und Kreisel
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5249 Anzug Mark Eichner und Konsorten betreffend eines grossen grünen Parks direkt am Rhein von der Wiese bis zum Hafenkran
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5256 Anzug Melanie Nussbaumer und Konsorten betreffend «Berner Modell für die Akutversorgung nach sexualisierter Gewalt»
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5257 Anzug Barbara Heer und Konsorten betreffend Begleitdienst im Spital für Betroffene sexualisierter Gewalt
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5244 Anzug Fleur Weibel und Konsorten betreffend Nachhaltige Stärkung der Pflege in der kantonalen Gesundheitsversorgung
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5246 Anzug Jean-Luc Perret und Konsorten betreffend sicherer Durchfahrtsbreiten auf Velorouten in Tempo 30-Zonen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5245 Anzug Jean-Luc Perret und Raoul I. Furlano zur Reduktion der Arbeitszeit in der Pflege
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5247 Anzug Lisa Mathys und Konsorten betreffend eines kantonalen KMU-Klimafonds für Basel-Stadt - juristische Grundlage und P
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5295 Anzug Toya Krummenacher und Konsorten betreffend Regulierung der Arbeit auf Abruf im Personalrecht des Kantons Basel-Sta
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5330 Anzug Luca Urgese und Konsorten betreffend digitale Steuererklärung für juristische Personen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5336 Anzug Claudio Miozzari und Konsorten betreffend Garantie auf Frühbetreuung
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5338 Anzug Nicole Amacher und Konsorten betreffend Unterzeichnung der Lohngleichheitscharta aller Betriebe mit kantonaler Bet
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5306 Anzug Sandra Bothe und Konsorten betreffend Monitoring zur Sicherstellung von ausreichend und qualifizierten Lehr- und F
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5331 Anzug Joël Thüring und Lydia Isler-Christ betreffend betreffend «regelmässige Information der Bevölkerung über die Krise
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5352 Anzug Pascal Messerli und Joël Thüring betreffend "Sicherer Badespass im Rhein - dank besseren Ein- und Ausstiegsmöglich
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5334 Anzug René Brigger und Konsorten betreffend Berücksichtigung Kostenmiete bei Berechnung der Mehrwertabgabe
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5337 Anzug Melanie Eberhard und Konsorten betreffend ein Care-Team für Basel
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5370 Anzug Christoph Hochuli und Konsorten betreffend verbesserten Begleitung vulnerabler Menschen durch das ABES
+Kosten: beziffert' einmalig 617'150' pro Jahr 12'343  
+  «Und nebenbei bemerkt: Gemäss den Angaben des Bundesamts für Statistik betragen die Nettoausgaben für Sozialhilfebeziehende im Kanton Basel-Stadt CHF 12'343 pro Jahr 1.» (https://grosserrat.bs.ch/?dnr=22.5370.02)
+
+## Vorstoss 22.5327 Anzug Daniela Stumpf und Konsorten betreffend «Vergünstigter Eintritt für Hallen- und Gartenbäder für AHV-/IVBezüger/inn
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5329 Anzug Melanie Nussbaumer und Konsorten betreffend Erhöhung der Abschlüsse auf der Sekundarstufe II
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5065 Motion der Justiz-, Sicherheits- und Sportkommission sowie der Bau- und Raumplanungskommission zum Sanierungsprojekt Kun
+Kosten: beziffert' einmalig 300'000' pro Jahr 0  
+  «März 2012 (Finanzhaushaltgesetz; SG 610.100) sind Ausgaben über Fr. 300'000 dem Grossen Rat zum Beschluss vorzulegen.» (https://grosserrat.bs.ch/?dnr=22.5065.02)
+
+## Vorstoss 22.5217 Motion Mahir Kabakci und Konsorten betreffend Streichung der Einbürgerungsgebühren für Personen unter 25 Jahren
+Kosten: beziffert' einmalig 570'000' pro Jahr 0  
+  «Darin enthalten ist eine vorübergehende Erhöhung des Personalaufwandes von 570’000 Franken, damit die bisherige Bearbeitungsdauer bei einer allfällig deutlichen Erhöhung der Anzahl Gesuche beibehalten werden kann.» (https://grosserrat.bs.ch/dokumente/100411/000000411289.pdf)
+
+## Vorstoss 22.5081 Motion Sandra Bothe und Konsorten betreffend "Keine Ausgrenzung von Kindern in den Tagesferien auf Grund der Schulwahl"
+Kosten: geschätzt' einmalig 111'000' pro Jahr 0  
+  «Basierend auf der Annahme, dass die Inanspruchnahme von Tagesferien bei 1'259 Schülerinnen und Schülern der Privatschulen gleich hoch ist wie bei den 11’227 Schülerinnen und Schülern der Volksschulen, ergeben sich geschätzte Mehrkosten von rund 111'000 Franken.» (https://grosserrat.bs.ch/dokumente/100405/000000405428.pdf)
+
+## Vorstoss 22.5161 Motion David Jenny und Konsorten betreffend Anpassung des Gesetzes betreffend Einführung des Bundesgesetzes über Schuldb
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5177 Motion Salome Bessenich und Konsorten betreffend "Nachtrag Klima" zum Gestaltungskonzept Innenstadt
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5035 Motion Sandra Bothe und Konsorten betreffend "Lernbrücken für Lernlücken" zum Ausgleich der Nachteile aufgrund der Coron
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5422 Anzug Claudio Miozzari und Konsorten betreffend Schulraum für das Quartier am Ring
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5393 Anzug Nicole Strahm-Lavanchy und Konsorten betreffend kein Stolpergraben zwischen Dorfkirche und Dorfsaal - Erweiterung 
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5402 Anzug Mark Eichner und Konsorten betreffend Weiterbildungsgutscheine für Lehrabgängerinnen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5414 Anzug Salome Bessenich und Johannes Sieber betreffend Sicherstellung von Grünflächen im Kleinbasel während der Baustelle
+Kosten: geschätzt' einmalig 2'360'000'000' pro Jahr 0  
+  «Die Gesamtkosten werden auf CHF 2.36 Milliarden geschätzt.» (https://grosserrat.bs.ch/?dnr=22.5414.02)
+
+## Vorstoss 22.5419 Anzug Brigitte Kühne und Konsorten betreffend Anreizsystem für Vertikalbegrünung sowie Nistmöglichkeiten für Tiere am Ge
+Kosten: geschätzt' einmalig 50'000' pro Jahr 0  
+  «April 2024 hat der Grosse Rat im Rahmen des Ratschlags für die Umsetzung von Klimaanpassungs- und Hitzeschutzmassnahmen gemäss dem Stadtklimakonzept bereits Fr. 50’000 für Sachkosten für die Erarbeitung von Anreizsystemen zur Klimaanpassung für die Jahre 2025 bis 2026 bewilligt. 2.» (https://grosserrat.bs.ch/dokumente/100410/000000410706.pdf)
+
+## Vorstoss 22.5420 Anzug Brigitte Kühne und Raffaela Hanauer betreffend «Superblocks» in Basel
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5421 Anzug Jessica Brandenburger und Konsorten betreffend Unterstützungsbeiträge für Senior:innen in bescheidenen finanzielle
+Kosten: geschätzt' einmalig 0' pro Jahr 13'400  
+  «Im Zuge der parlamentarischen Beratung der ELG-Revision wurde zwar die jährliche Mindestpauschale für Betreuungsleistungen von 13'400 Franken auf 11'160 Franken gesenkt, weshalb die Kostenschätzungen im erläuternden Bericht des Bundes nicht mehr ganz aktuell sind.» (https://grosserrat.bs.ch/?dnr=22.5421.03)
+
+## Vorstoss 22.5471 Anzug Andreas Zappalà und Konsorten betreffend Meldepflicht für den Einbau von Dachfenster als Teil der Solar- und PV-An
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5472 Anzug Felix Wehrli und Konsorten betreffend Reduktion der Arbeitszeit bei den Polizistinnen und Polizisten im Schichtdie
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5473 Anzug Beat Braun und Konsorten betreffend Präventions- und Kommunikationskampagne gegen sexualisierte Gewalt
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5475 Anzug Georg Mattmüller und Konsorten betreffend Verständlichkeit der Kommunikation der kantonalen Verwaltung
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5514 Anzug Christoph Hochuli und Konsorten betreffend wirksame Ausstiegsprogramme für Menschen, die aus der Prostitution auss
+Kosten: beziffert' einmalig 0' pro Jahr 1'433'025  
+  «Begehren Mit vorliegendem Bericht beantragt der Regierungsrat dem Grossen Rat die Bewilligung von Ausgaben an den Verein Aliena für die Ausrichtung einer Finanzhilfe in Höhe von insgesamt 1'433'025 Franken (286'605 Franken p.a.) in den Jahren 2026 bis 2030 für den Aufbau und die Umsetzung eines Pilotprojekts zur Ausstiegshilfe für Sexarbeitende. 2.» (https://grosserrat.bs.ch/dokumente/100411/000000411029.pdf)
+
+## Vorstoss 22.5519 Anzug Brigitte Gysin und Konsorten betreffend Sicherheit in Kreiseln für Velofahrende
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5521 Anzug Franziska Roth und Konsorten betreffend Stärkung der Lernbeziehung im A-Zug der Sek l
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5523 Anzug Sandra Bothe und Konsorten betreffend Einführung eines Praktikums in der Fachmaturitätsklasse Pädagogik für zukünf
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5524 Anzug Jeremy Stephenson und Konsorten betreffend Umsetzung von Massnahmen zur Reduktion der 80-prozentigen Energieverlus
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5513 Anzug Beat K. Schaller und Konsorten gegen das Wildparken von E-Trottinette
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5522 Anzug Melanie Nussbaumer und Konsorten betreffend Sensibilisierung der Verwaltung im Umgang mit psychisch Erkrankten
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5534 Anzug Claudio Miozzari und Konsorten betreffend Diversität und Diskirminierungsbekämpfung an den Schulen in Basel-Stadt
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5515 Anzug Nicole Strahm-Lavanchy und Konsorten betreffend Förderung der Biodiversität und Vergrösserung des privaten Baumbes
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5550 Anzug Thomas Müry betreffend thermographische Aufnahmen zur Feststellung von Energieverlusten im Gebäudebereich
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5570 Anzug Michela Seggiani und Konsorten betreffend Barrierefreiheit bei öffentlichen Gebäuden und Dienstleistungen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5580 Anzug Melanie Eberhard und Konsorten zur Situation der Nachhol- und Weiterbildungen bei Gesundheitsberufen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5593 Anzug Joël Thüring betreffend "Massnahmen gegen die überfüllte Notfallstation und die Überbelastung des Personals in den
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 19.5512 Motion Joël Thüring und Konsorten betreffend kundenfreundliche Öffnungszeiten beim Bau- und Gastgewerbeinspektorat
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5571 Anzug Franz-Xaver Leonhardt und Konsorten betreffend negative CO2-Emissionen Zertifikate zur Kompensation von Treibhausg
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5572 Anzug Georg Mattmüller und Konsorten für verpflichtend betriebliche Berufsbildung in Institutionen und Organisationen mi
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5573 Anzug Beda Baumgartner und Konsorten betreffend Bekämpfung des Fachkräftemangels - mehr Lernende im Bereich der Informat
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5582 Anzug Alex Ebi und Konsorten betreffend Entschädigung für baustellengeplagte Kleinunternehmen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5027 Anzug Ivo Balmer und Konsorten betreffend mehr Transparenz auf dem Grundstücksmarkt
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5028 Anzug Oliver Thommen und Daniel Sägesser betreffend Beteiligung der Vermietenden an den Energiekosten unsanierter Liegen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5013 Anzug Melanie Eberhard und Konsorten betreffend kostenlose Betreibungs- und Verlustscheinregisterauszüge für Sozial- und
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5091 Anzug Christine Keller und Konsorten betreffend Freilaufareale für Hunde
+Kosten: geschätzt' einmalig 0' pro Jahr 80'000  
+  «Pro Hundefreilaufzone muss zukünftig mit einem finanziellen Aufwand von ca. 80'000 Franken gerechnet werden und für den jährlichen Unterhalt fallen nochmals ca. 10’00015'000 Franken an.» (https://grosserrat.bs.ch/?dnr=23.5091.02)
+
+## Vorstoss 23.5086 Anzug Claudia Baumgartner und Brigitte Kühne betreffend "Runder Tisch Stadtbienen"
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5051 Anzug Edibe Gölgeli und Konsorten betreffend Honoraranpassungen für Gerichtsdolmetschern
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5089 Anzug Barbara Heer und Konsorten betreffend kantonale Beiträge zur Sicherheit von Minderheiten
+Kosten: beziffert' einmalig 85'000' pro Jahr 746'000  
+  «Dezember 2018 hat der Grosse Rat des Kantons Basel-Stadt in diesem Zusammenhang zunächst jährlich wiederkehrende zusätzliche Ausgaben von 746'000 Franken bewilligt, damit das kantonale Polizeikorps um acht bewaffnete Sicherheitsassistentinnen und Sicherheitsassistenten aufgestockt werden konnte.» (https://grosserrat.bs.ch/?dnr=23.5089.02)
+
+## Vorstoss 23.5090 Anzug Johannes Sieber und Konsorten betreffend Stärkung der Teilhabe an Kultur durch Ausbau und Konsolidierung des Angeb
+Kosten: beziffert' einmalig 0' pro Jahr 20'000  
+  «Der Kanton fördert das Projekt deshalb seit 2019 mit einem eigenen Staatsbeitrag von 20'000 Franken p. a. und verpflichtet alle kantonalen Museen und seit 2021 auch Kulturinstitutionen mit Betriebsbeiträgen dazu, eine angemessene Vergünstigung für Personen mit «KulturLegi» anzubieten.» (https://grosserrat.bs.ch/?dnr=23.5090.02)
+
+## Vorstoss 22.5469 Motion Karin Sartorius und Konsorten betreffend sexualisierte Gewalt: Prävention soll bereits in der Schule beginnen
+Kosten: bewilligt' einmalig 1'300'000' pro Jahr 0  
+  «Ausgabenbewilligung 25.1942: Ausgabenbewilligung zur Umsetzung der Motion Karin Sartorius und Konsorten betreffend sexualisierte Gewalt: Prävention soll bereits in der Schule beginnen» (https://grosserrat.bs.ch/?gnr=25.1942)
+
+## Vorstoss 23.5125 Anzug Andrea Strahm und Konsorten betreffend mehr Sitzgelegenheiten an der Basler Riviera - Sanierung Rheinbord
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5126 Anzug Salome Bessenich und Konsorten betreffend öffentlicher Platz für die Jugend
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5196 Anzug Melanie Eberhard und Konsorten betreffend Gleichstellung und zum Schutz der persönlichen Integrität im Sport
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5213 Anzug Sandra Bothe und Konsorten betreffend die Überarbeitung der Bildungsstrategie beim Fremdsprachenerwerb an der Volk
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5214 Anzug Thomas Widmer-Huber und Konsorten betreffend Sensibilisierung der friedlich Demonstrierenden und Abstand von Vermu
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5222 Anzug Bruno Lötscher-Steiger und Konsorten betreffend Bildungsoffensive für Informatikfachleute auf Hochschulebene mitte
+Kosten: beziffert' einmalig 62'000'000' pro Jahr 0  
+  «Aufgrund des Ausgabenwachstums der Universität und der finanziellen Lage des Kantons BaselLandschaft, welcher für das Jahr 2025 mit einem Defizit von 62 Millionen Franken rechnet, droht die paritätische Finanzierung noch weiter in Schieflage zu geraten.» (https://grosserrat.bs.ch/dokumente/100410/000000410733.pdf)
+
+## Vorstoss 23.5232 Anzug Jean-Luc Perret und Konsorten betreffend Verbesserung der ÖV-Erschliessung des Bachgrabenareals
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5236 Anzug Béla Bartha und Konsorten betreffend die Förderung der Biodiversität im privaten städtischen Raum durch ein zeitge
+Kosten: geschätzt' einmalig 50'000' pro Jahr 0  
+  «April 2024 hat der Grosse Rat im Rahmen des Ratschlags für die Umsetzung von Klimaanpassungs- und Hitzeschutzmassnahmen gemäss dem Stadtklimakonzept bereits Fr. 50’000 für Sachkosten für die Erarbeitung von Anreizsystemen zur Klimaanpassung für die Jahre 2025 bis 2026 bewilligt. 2.» (https://grosserrat.bs.ch/dokumente/100410/000000410707.pdf)
+
+## Vorstoss 23.5237 Anzug Nicole Amacher und Konsorten betreffend Einführung einer Elternzeit in Kanton Basel-Stadt Variante: «Freiwilligen 
+Kosten: geschätzt' einmalig 50'000'000' pro Jahr 125'000'000  
+  «Wenn ein Unternehmen beispielsweise infolge der 10 Prozentpunkt-Differenz beim Steuersatz in Basel-Stadt CHF 50 Mio. weniger versteuert als in München, dürfen die weiteren Kosten der Investition in Basel-Stadt maximal CHF 50 Mio. höher liegen.» (https://grosserrat.bs.ch/dokumente/100407/000000407750.pdf)
+
+## Vorstoss 23.5210 Anzug Oliver Bolliger und Konsorten betreffend eine zukünftige Sicherung der Medikamentenversorgung in der Region
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5212 Anzug Nicola Goepfert und Konsorten betreffend Aussetzung von Rückführungen nach Kroatien
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5215 Anzug Franziska Roth und Konsorten betreffend proaktive Förderung der Nachholbildung
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5233 Anzug Jo Vergeat und Konsorten betreffend Erdbebenübungen Basel-Stadt
+Kosten: beziffert' einmalig 5'811'000' pro Jahr 5'571'000  
+  «Begehren Mit diesem Ratschlag werden einmalige neue Ausgaben zulasten der Investitionsrechnung in Höhe von 5'571'000 Franken im Jahr 2025 für die Realisierung eines Erdbebensimulators sowie jährlich wiederkehrende neue Ausgaben zulasten der Erfolgsrechnung in Höhe von 240'000 Franken für den Unterhalt und Betrieb ab dem Jahr 2029 beantragt. 2.» (https://grosserrat.bs.ch/dokumente/100410/000000410144.pdf)
+
+## Vorstoss 23.5234 Anzug Michael Hug und Konsorten betreffend attraktivere Innenstadt in den Sommermonaten durch Sonnensegel
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5235 Anzug Salome Bessenich und Konsorten betreffend eine Rutschbahn fürs Kleinbasel
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5238 Anzug Lisa Mathys und Konsorten betreffend existenzsichernde Weiterbildungsbeiträge als Klimaberufe-Offensive
+Kosten: geschätzt' einmalig 14'100' pro Jahr 0  
+  «Dadurch können folgende Staats- und Sozialversicherungskosten reduziert werden:  Arbeitslosenversicherung: Das SECO14 weist für die Schweiz im Jahr 2023 einen direkten Aufwand der Arbeitslosenversicherung für Auszahlungen von durchschnittlich rund 14’100 Franken je Taggeldbezügerin und Taggeldbezüger aus.15 Nicht inbegriffen sind dabei rund 785 Mio.» (https://grosserrat.bs.ch/?dnr=23.5238.02)
+
+## Vorstoss 22.5551 Motion Raffaela Hanauer und Konsorten zur Erstellung einer Klimastrategie mit Klimaaktionsplan nach Annahme des Gegenvor
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5516 Motion Pascal Pfister und Konsorten betreffend «Demokratie braucht Stellen, wo Plakate wahrgenommen werden»
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 22.5564 Motion Melanie Eberhard und Konsorten betreffend Anpassung von § 12 des Staatsbeitragsgesetzes
+Kosten: geschätzt' einmalig 0' pro Jahr 50'000  
+  «Bei Finanzhilfen wird in der Regel auf den Personalkosten, wenn diese mindestens 70% der gesamten Betriebskosten ausmachen, entsprechend dem Finanzierungsanteil des Kantons jährlich ein Teuerungsausgleich gewährt, der sich nach der Entwicklung der Personalteuerung beim Kanton richtet. 2 Keine Anpassung an die Teuerung gemäss Abs. 1 erfolgt bei Finanzhilfen bis jährlich 50'000 Franken. 3 Von den Re» (https://grosserrat.bs.ch/dokumente/100410/000000410990.pdf)
+
+## Vorstoss 22.5517 Motion Pascal Messerli und Konsorten betreffend Ausgliederung der Kriminalpolizei aus der Staatsanwaltschaft
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5244 Anzug Christine Keller und Konsorten betreffend Ergänzungsleistungen - persönliche Benachrichtigung von potentiell Anspr
+Kosten: beziffert' einmalig 0' pro Jahr 120'000  
+  «Der erwartete zusätzliche Verwaltungsaufwand entspricht einer Vollzeitstelle von 120'000 Franken pro Jahr.» (https://grosserrat.bs.ch/dokumente/100409/000000409292.pdf)
+
+## Vorstoss 23.5243 Anzug Amina Trevisan und Konsorten betreffend Verbesserung der Voraussetzungen für den Bezug von kantonale Beihilfen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5326 Anzug Jérôme Thiriet und Konsorten betreffend temporäre Massnahmen für die Sicherheit von Velofahrenden bei Baustellen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5344 Anzug Beda Baumgartner und Konsorten betreffend gezielte Förderung von Forschung und Entwicklung für die Allgemeinheit u
+Kosten: geschätzt' einmalig 50'000'000' pro Jahr 125'000'000  
+  «Wenn ein Unternehmen beispielsweise infolge der 10 Prozentpunkt-Differenz beim Steuersatz in Basel-Stadt CHF 50 Mio. weniger versteuert als in München, dürfen die weiteren Kosten der Investition in Basel-Stadt maximal CHF 50 Mio. höher liegen.» (https://grosserrat.bs.ch/dokumente/100407/000000407747.pdf)
+
+## Vorstoss 23.5345 Anzug Pascal Pfister und Konsorten für einen internationalen Ausgleich bei der Verwendung der zusätzlichen Steuereinnahm
+Kosten: geschätzt' einmalig 50'000'000' pro Jahr 125'000'000  
+  «Wenn ein Unternehmen beispielsweise infolge der 10 Prozentpunkt-Differenz beim Steuersatz in Basel-Stadt CHF 50 Mio. weniger versteuert als in München, dürfen die weiteren Kosten der Investition in Basel-Stadt maximal CHF 50 Mio. höher liegen.» (https://grosserrat.bs.ch/dokumente/100407/000000407748.pdf)
+
+## Vorstoss 23.5299 Anzug Franz-Xaver Leonhardt und Raffaela Hanauer betreffend CO2-Abscheidung bei der Kehrichtverwertungsanlage der IWB in
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5329 Anzug Daniel Hettich und Konsorten betreffend Optimierung der Haltezeiten der S6 am Badischen Bahnhof
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5340 Anzug Daniel Albietz und Konsorten betreffend "Die Region Basel fit für Wasserstoff machen"
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5341 Anzug Lorenz Amiet und Daniel Sägesser betreffend "E-Fuel als CO2-neutrale Ergänzung zur Elektromobilität"
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5342 Anzug Beda Baumgartner und Konsorten betreffend juristische Beratung und Unterstützung für behinderte Menschen und ihre 
+Kosten: beziffert' einmalig 0' pro Jahr 390'000  
+  «Im Rahmen der Gesundheitsprävention werden die Beratungsstellen von Pro Infirmis und der Stiftung Rheinleben als Angebote der privaten Behindertenhilfe mit zusätzlichen kantonalen Finanzhilfen in Höhe von insgesamt 390'000 Franken pro Jahr unterstützt;12 dies, da die Kostendeckung des Bundes nicht ausreichend ist und zudem auch Personen ohne bereits gesprochene IV-Rente - Voraussetzung für Leistun» (https://grosserrat.bs.ch/?dnr=23.5342.02)
+
+## Vorstoss 23.5343 Anzug Georg Mattmüller und Konsorten betreffend eine bedarfsgerechte Finanzierung der subventionierten Fahrten für mobil
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5298 Anzug Amina Trevisan und Konsorten betreffend mehr Chancengerechtigkeit durch höhere Stipendien für Lernende und Studier
+Kosten: beziffert' einmalig 10'188' pro Jahr 0  
+  «Im Kanton Waadt liegt der Stipendienaufwand mit einem Durchschnitt von CHF 10’188 schweizweit am höchsten.» (https://grosserrat.bs.ch/?dnr=23.5298.02)
+
+## Vorstoss 23.5253 Anzug Joël Thüring und Konsorten betreffend Massnahmen gegen den illegalen Drogenhandel rund um die Kaserne, den Erasmus
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5267 Anzug Oliver Bolliger und Konsorten betreffend Verstetigung der angepassten Erhöhung des Freibetrags bei der Sozialhilfe
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5293 Anzug Béla Bartha und Konsorten betreffend Beitrag der Kulturbetriebe von Basel-Stadt zur Einhaltung des Pariser Klimaab
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5328 Anzug Franz-Xaver Leonhardt und Konsorten betreffend Veloroute Aeschenplatz - Bruderholz
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5030 Anzug Sandra Bothe und Konsorten betreffend die gesetzliche Verankerung bezüglich der Förderung der Weiterbildung der Ba
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5388 Anzug Joël Thüring betreffend Aufwertung des Vorplatzes / Eingangsbereich und der Wartezone für Busreisende am Bahnhof S
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5414 Anzug Nicole Kuster und Konsorten betreffend Aufwertung der Uferböschung des Grossbasler Rheinufers durch den Bau von Ba
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5425 Anzug Brigitte Kühne und Konsorten betreffend grossflächiger Entsiegelung von Parkplätzen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5373 Anzug Melanie Nussbaumer und Konsorten betreffend Hebammengeleitete Geburtshilfe in den Spitälern
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5114 Anzug Luca Urgese und Konsorten betreffend Umnutzung des Roche-Parkhauses an der Schwarzwaldallee zu einem Quartierparki
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5211 Anzug Daniel Seiler und Konsorten betreffend Massnahmen zur Beschleunigung von kantonalen Bauprojekten
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5123 Anzug Sasha Mazzotti und Konsorten betreffend Schaffung einer Fachstelle «Schule und Kultur» nach dem Vorbild des Kanton
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5087 Motion Bau- und Raumplanungskommission betreffend Fuss- und Velobrücke «Güterbahnhof Wolf»
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5382 Anzug Bruno Lötscher und Konsorten betreffend Veloroute Gellert-Jacob Burckhardt-Strasse-Gundeldingen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5392 Anzug Johannes Sieber und Béla Bartha betreffend Stärkung der Rahmenbedingungen für die Film- und Kreativwirtschaft im Z
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5012 Anzug Laurin Hoppler und Konsorten betreffend mediterrane Nächte
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5398 Anzug Joël Thüring betreffend Aufwertung für Gewerbe und Tourismus: Ein Taxistandplatz in Fussdistanz zum Marktplatz
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5229 Anzug Franziska Roth und Konsorten betreffend genügend Unterrichtszeit für alle
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5230 Motion Annina von Falkenstein und Konsorten betreffend mit U-Abo bis zu den FHNW-Standorten Brugg und Olten
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5217 Motion Jean-Luc Perret und Konsorten für den unterirdischen Schutz von Grünanlagenzonen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5381 Anzug Christoph Hochuli und Konsorten betreffend Problemlösungen für die Konflikte auf dem Vorplatz des Bahnhofs SBB
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5422 Anzug Brigitte Kühne und Konsorten betreffend entsiegelte sowie ökologisch aufgewertete Verkehrsinseln und Verkehrskreis
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5423 Anzug Brigitte Kühne und Konsorten betreffend einfachere Umsetzung Begegnungszonen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5424 Anzug Brigitte Kühne und Konsorten betreffend entsiegelten und biodiversitätsfördernden Kindergarten, Schul- und Univers
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5379 Anzug Barbara Heer und Konsorten betreffend öffentliche Aufarbeitung der Kolonialgeschichte Basels
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5454 Anzug Daniel Seiler und Konsorten betreffend defizitären Versorgungsgrad des Kantons mit Hausärztinnen und Hausärzten
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5453 Anzug Brigitte Gysin und Konsorten betreffend Ausbreitung der Tigermücke
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5461 Anzug Pascal Messerli und Konsorten betreffend "Mobile Polizeiposten in den Quartieren"
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5474 Anzug der Justiz-, Sicherheits- und Sportkommission betreffend Transparenz über den Einsatz von algorithmischen Systemen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5492 Anzug Christine Keller und Konsorten betreffend mehr Biodiversität auf Grünflächen - "Bunte Wiesen statt Rasen"
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5506 Anzug Oliver Bolliger und Melanie Nussbaumer betreffend Ausbau schadensmindernden Massnahmen in der Suchtarbeit
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5513 Anzug Daniel Sägesser und Konsorten betreffend Roadmap Lastoptimierung und Energiespeicherung
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5515 Anzug Lisa Mathys und Konsorten betreffend Rahmenausgabebewilligung für den Ausbau der kantonalen PV-Anlagen und Einsatz
+Kosten: beziffert' einmalig 8'500'000' pro Jahr 0  
+  «Ausgangslage 1.1 Stand des Photovoltaik-Ausbaus Eine Rahmenausgabenbewilligung in der Höhe von 8'500'000 Franken für die Projektierung und Erstellung von Photovoltaik-Anlagen wurde vom Grosse Rat am 9.» (https://grosserrat.bs.ch/?dnr=23.5515.02)
+
+## Vorstoss 23.5463 Anzug Daniela Stumpf und Konsorten betreffend "Beleuchtungskonzept für ein sicheres Basel"
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5473 Anzug Adrian Iselin und Konsorten betreffend Umnutzung Büroflächen zu Wohnraum
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5480 Anzug Balz Herter und Konsorten betreffend Vorbereitung auf Extremwetterereignisse
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5472 Anzug Fleur Weibel und Konsorten betreffend Deeskalation bei Kundgebungen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5475 Anzug Anouk Feurer und Konsorten betreffend Mobile Spielplätze
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5479 Anzug Balz Herter und Konsorten betreffend gemeinsames Wachsen von Bevölkerung und Sicherheit
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5491 Anzug Tim Cuénod und Konsorten betreffend Kapazitätsausbau bei der Buslinie 36 und möglicher Schaffung einer Schnellbus-
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5514 Anzug Daniel Sägesser und Konsorten betreffend Wahltarife mit dynamischen Energie- und Netznutzungspreisen für flexible 
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5216 Motion David Jenny und Konsorten betreffend Frühlingsputz in der Systematischen Gesetzessammlung: Aufhebung oder Totalre
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5531 Anzug Jean-Luc Perret und Konsorten betreffend Anpassung der Förderbeiträge für erneuerbare Heizlösungen
+Kosten: geschätzt' einmalig 10'000' pro Jahr 0  
+  «Der Kanton schreibt den Einbau erneuerbarer Heizungen nicht nur vor, er subventioniert sie auch mit beträchtlichen Beiträgen an die Investitionen: Für eine Luft/Wasser- Wärmepumpe 8000 bis 10'000 Franken, für eine Sole/Wasser-Wärmepumpe bis zu 30’000 Franken.» (https://grosserrat.bs.ch/?dnr=23.5531.02)
+
+## Vorstoss 23.5534 Anzug Heidi Mück und Konsorten betreffend Erweiterung der Zielgruppe für Drug Checking im Rahmen von "Safer Dance Basel"
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5533 Anzug Beat K. Schaller und Konsorten betreffend der Kannenfeldpark soll wieder eine Erholungszone sein
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5530 Anzug Jean-Luc Perret und Konsorten betreffend einwandfreie Tramwartehallen erhalten statt verschrotten
+Kosten: beziffert' einmalig 50'000' pro Jahr 0  
+  «Beispielhaltestelle Spalentor Typ «Schuhschachtel» Beispielhaltestelle Nasenweg Typ «Furrer» Kosten für den Re-Use der Wartehalle 79'000 Fr. 50'000 Fr.» (https://grosserrat.bs.ch/?dnr=23.5530.03)
+
+## Vorstoss 23.5532 Anzug Luca Urgese und Konsorten betreffend Velospur in der St. Jakobs-Strasse
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5332 Motion Alex Ebi und Konsorten betreffend Dreifachturnhalle und zusätzlicher Schulraum Campus Bäumlihof, Drei Linden und 
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5272 Motion Beat K. Schaller und Konsorten für eine sichere Kreuzung bei der Heiliggeistkirche
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5546 Anzug Beat K. Schaller und Konsorten betreffend Spenden statt Entsorgen, Pilotprojekt in Entsorgungsstellen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5570 Anzug Anouk Feurer und Konsorten betreffend Antisemitismusprävention an allen Sekundarschulen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5571 Anzug Philip Karger und Konsorten betreffend Antisemitismusbekämpfung mittels Sichtbarkeit der Geschichte der Juden in B
+Kosten: beziffert' einmalig 2'800'000' pro Jahr 85'000  
+  «Die Adaption des neuen Standortes wurde mit einem Investitionsbeitrag von 2.8 Millionen Franken unterstützt.» (https://grosserrat.bs.ch/?dnr=23.5571.02)
+
+## Vorstoss 23.5578 Anzug Tobias Christ und Konsorten für eine verbesserte und sicherere Veloverbindung vom Neubad Richtung Innenstadt und B
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5347 Motion Barbara Heer und Konsorten betreffend Ferienbetreuung in den Tagesstrukturen einführen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5539 Anzug Catherine Alioth und Konsorten betreffend die Umsetzung der Berufs-, Studien- und Laufbahnberatung während des Mat
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5547 Anzug Anina Ineichen und Konsorten betreffend eine sichere Veloverbindung zwischen Rankhof und Wettsteinplatz
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5592 Anzug Oliver Thommen und Konsorten betreffend ein Rathaushof mit Aufenthaltsqualität
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5602 Anzug Oliver Thommen und Konsorten betreffend Wahlmaterial-Kakophonie
+Kosten: geschätzt' einmalig 126'000' pro Jahr 0  
+  «Basierend auf den Kosten der Bürgergemeinde Basel würden sich die mutmasslichen externen Kosten für 92’000 separat verschickte Wahlwerbematerial-Couverts (Stimmberechtigte plus Reserve) bei kantonalen Gesamterneuerungswahlen auf rund 126'000 Franken für Verpackung, Versand und Porti (B-Post) belaufen.» (https://grosserrat.bs.ch/?dnr=23.5602.02)
+
+## Vorstoss 23.5269 Motion Laurin Hoppler und Konsorten betreffend ein Gesamtkonzept für die Umgestaltung des Kasernenareals
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5651 Anzug Fleur Weibel und Konsorten betreffend Wissen schaffen und austauschen: Was ist los im Kleinbasel und was braucht e
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5263 Motion Beda Baumgartner und Konsorten betreffend fairen Wettbewerb beim gewerblichen Personentransport
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5628 Anzug Sandra Bothe und Konsorten betreffend Stärkung der demokratischen Werte in der Volksschule: Entflechtung des Samme
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5629 Anzug Philip Karger und Konsorten betreffend Bürokratie in der Verwaltung von Basel-Stadt
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5659 Anzug Michael Hug und Luca Urgese betreffend Vergabe zur zeitgemässen Betreibung eines Recyclingparks für die gesamte Ba
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5022 Anzug Annina von Falkenstein und Konsorten betreffend Wiederaufnahme regelmässiger Wochenendfahrgelegenheiten des Rufbus
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5040 Anzug Bruno Lötscher-Steiger und Konsorten betreffend Kultur für alle - Swisslos-Fonds Unterstützung auch bei kulturelle
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5032 Anzug Salome Bessenich und Konsorten betreffend Nutzung des Horburg-Parkings als Quartierparking
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5452 Motion Christoph Hochuli und Konsorten betreffend Velopasserelle vom Gundeli über die Bahngeleise zum Elsässertor
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5477 Motion Luca Urgese und Konsorten betreffend automatisch ausgefüllte Steuererklärung
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5060 Anzug Jessica Brandenburger und Konsorten betreffend Massnahmen zur Unterstützung von Long Covid Erkrankten
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5065 Anzug Christine Keller und Konsorten betreffend Lehrstuhl für Palliative Care an der Medizinischen Fakultät der Universi
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5067 Anzug Georg Mattmüller und Konsorten betreffend Finanzierung von spezialisierter Palliativ-Pflege in kantonalen Pflegehe
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5542 Motion Pascal Pfister und Konsorten betreffend Freiwilligen-Projekte gegen Einsamkeit unterstützen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5545 Motion Tobias Christ und Konsorten betreffend eine zukunftsfähige Mobilität
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5512 Motion René Brigger und Konsorten betreffend Anpassung Basler Baurecht an die Solaroffensive
+Kosten: geschätzt' einmalig 10'157' pro Jahr 0  
+  «Ersatzabgabe: 2’284 Fr. / a Förderanteil insgesamt: 26 % Förderanteil insgesamt: Tabelle 4: Solarpflicht, Ersatzabgabe und Förderbeiträge für ein freistehendes Einfamilienhaus in Riehen 72 m2 16.7 kW 16.7 kW 38’840 Fr. 5’994 Fr. 4’163 Fr. 10'157 Fr. 26 % Seite 41/79 Regierungsrat des Kantons Basel-Stadt Reihen-Mehrfamilienhaus, Klybeck Gebäude PV-Anlage zur Pflichterfüllung Realisierte PV-Anlage G» (https://grosserrat.bs.ch/dokumente/100410/000000410354.pdf)
+
+## Vorstoss 24.5076 Anzug Bruno Lötscher-Steiger und Konsorten betreffend Wahlen: Systematische Diskriminierung der Frauen durch die Beschrä
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5544 Motion Tobias Christ und Konsorten betreffend ein gesundes Stadtklima
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5055 Anzug Pascal Pfister und Konsorten betreffend ambulant begleitete Arbeit für Personen mit behinderungsbedingten Einschrä
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5062 Anzug Amina Trevisan und Konsorten betreffend Verbesserung der Zugänglichkeit von öffentlichen automatisierten externen 
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5061 Anzug Amina Trevisan und Konsorten betreffend Palliativ Care und Migration bzw. diversitätssensitive Palliative Care
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5066 Anzug Christine Keller und Konsorten betreffend Zertifizierung von Alters- und Pflegeheimen in "Qualität in Palliative C
+Kosten: geschätzt' einmalig 0' pro Jahr 650'000  
+  «Bei einer Verpflichtung der 42 Pflegeheime im Kanton Basel-Stadt zu einer Zertifizierung ist somit von wiederkehrenden Kosten von mindestens rund 650'000 Franken auszugehen.» (https://grosserrat.bs.ch/?dnr=24.5066.02)
+
+## Vorstoss 24.5068 Anzug Lukas Bollack und Konsorten betreffend Rheintunnel und flankierende Massnahmen zur Entlastung der Quartiere
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5145 Motion Pascal Messerli und Michael Hug betreffend der Polizeiberuf muss in Basel-Stadt wieder attraktiv werden: Lohnerhö
+Kosten: geschätzt' einmalig 3'900'000' pro Jahr 500'000  
+  «Bei einem Teuerungsausgleich von 0.75 % würden sich die zusätzlichen Lohnkosten auf rund 500'000 Franken pro Jahr belaufen.» (https://grosserrat.bs.ch/dokumente/100412/000000412259.pdf)
+
+## Vorstoss 24.5144 Motion Oliver Bolliger und Konsorten betreffend Schaffung einer gesetzlichen Grundlage zur Einführung von Familien-Ergän
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5105 Anzug Daniel Seiler und Konsorten betreffend Schutz von vulnerablen Menschen bei Hitze
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5146 Anzug Jean-Luc Perret und Konsorten betreffend mehr Sicherheit und Komfort für Velofahrende in der Ahornstrasse
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5159 Anzug Christoph Hochuli und Konsorten betreffend Velovignetten und Velocodierungen gegen Velodiebstähle
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5161 Anzug Bruno Lötscher-Steiger und Konsorten betreffend Zukunft der Kirchengebäude in Basel-Stadt
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5658 Motion Tobias Christ und Konsorten betreffend die Einführung eines Aufgaben- und Finanzplans
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5585 Motion Nicole Kuster und Konsorten betreffend "Kontakt- und Anlaufstelle Dreispitz" und die Nähe zum geplanten Primarsch
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5478 Motion Lorenz Amiet und Konsorten betreffend «Wider die Auswüchse bei Lohngleichheitsanalysen im kantonalen Beschaffungs
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5575 Anzug Andrea Elisabeth Knellwolf und Konsorten betreffend Definition Wohnungsnot
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5576 Motion Michael Hug und Konsorten betreffend Anpassung der Wohnschutzbestimmungen in Bezug auf das Bewilligungsverfahren
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5141 Anzug Edibe Gölgeli und Konsorten betreffend Universitätszugang für Spät- und Wiedereinsteigende an der Universität Base
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5142 Anzug Christoph Hochuli und Konsorten betreffend Ergänzungsleistungen für in Heimen lebende Personen
+Kosten: geschätzt' einmalig 400'000' pro Jahr 0  
+  «Ausgehend von aktuell 2'379 anspruchsberechtigten EL-Bezügerinnen und -Bezügern, die im Heim oder Spital leben, führt die Verordnungsanpassung im Einführungsjahr zu Mehrausgaben von rund 400'000 Franken.» (https://grosserrat.bs.ch/?dnr=24.5142.02)
+
+## Vorstoss 23.5590 Anzug Luca Urgese und Konsorten betreffend fairen Wettbewerb zwischen kantonalen Unternehmen und Privaten stärken
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5573 Motion Niggi Daniel Rechsteiner und Konsorten betreffend Anpassung der Wohnschutzbestimmungen im Bereich der energetisch
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5574 Motion Pascal Messerli und Konsorten betreffend Anpassung der Wohnschutzbestimmungen im Bereich Wohnschutzkommission
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5098 Anzug Raphael Fuhrer und Konsorten betreffend niederschwelliger Zugang zu allen staatlich mitfinanzierten Museen dank ei
+Kosten: beziffert' einmalig 26'147' pro Jahr 0  
+  «Für eine Person kostet er regulär 177 Franken für ein Jahr, anlässlich des 30-jährigen Jubiläums für das Jahr 2026 147 Franken. 2024 wurde der Schweizer Museumspass bei knapp 107'000 Eintritten gezeigt.» (https://grosserrat.bs.ch/?dnr=24.5098.02)
+
+## Vorstoss 24.5099 Anzug Jo Vergeat und Konsorten betreffend einer neuen «Usestuelete 2.0» in Basel-Stadt
+Kosten: geschätzt' einmalig 14'000' pro Jahr 0  
+  «Insgesamt mussten rund zehn Tonnen Abfall entsorgt werden, was zusätzliche Kosten von rund 14'000 Franken verursachte.» (https://grosserrat.bs.ch/?dnr=24.5099.02)
+
+## Vorstoss 24.5107 Anzug Ivo Balmer und Konsorten betreffend Wohnen ist kein Gewerbe - gewerbliches «Airbnb» und Business Apartments reguli
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5108 Anzug Oliver Thommen und Konsorten betreffend Einbezug von Menschen mit Behinderung
+Kosten: geschätzt' einmalig 0' pro Jahr 40'000  
+  «Die Umsetzung der Massnahmen führt zu Mehrkosten im Bereich von etwa 40'000 Franken jährlich.» (https://grosserrat.bs.ch/?dnr=24.5108.02)
+
+## Vorstoss 24.5140 Anzug Michela Seggiani und Konsorten betreffend Konferenz der Schweizer Grenzregionen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5143 Anzug Nicole Amacher und Konsorten betreffend vertiefte Analyse der Entwicklung des Nichtbezugs von Sozialhilfe und beda
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5160 Anzug Amina Trevisan und Konsorten betreffend öffentliche Aufarbeitung der Geschichte illegalisierter migrantischen Fami
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5179 Anzug Annina von Falkenstein betreffend Erweiterung Tagesfamilien durch Tagesgrosseltern
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5657 Motion Tobias Christ und Konsorten für eine Generelle Aufgabenüberprüfung mit Entlastungsziel
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5497 Motion Luca Urgese und Konsorten betreffend Gleichbehandlung von Ehegatten und Konkubinatspaaren bei der Erbschafts- und
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5586 Motion Melanie Eberhard und Konsorten für eine verbindliche Kooperation der Spitäler der Kantone Basel-Stadt und Basel-L
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5572 Motion Daniel Seiler und Konsorten betreffend Anpassung der Wohnschutzbestimmungen im Bereich des Stockwerkeigentums
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5056 Motion Christian C. Moesch und Konsorten betreffend Rückvergütungen von kantonalen Überschüssen an die steuerzahlenden P
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5645 Motion Nicole Strahm-Lavanchy und Konsorten betreffend Stromsparbonus für Betriebe gerecht verteilen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5173 Motion Johannes Sieber und Konsorten betreffend Erlass eines Musikschulgesetzes
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 23.5591 Motion Bruno Lötscher-Steiger und Konsorten betreffend Abbau von Hindernissen bei der Förderung von Photovoltaikinstalla
+Kosten: geschätzt' einmalig 10'157' pro Jahr 0  
+  «Ersatzabgabe: 2’284 Fr. / a Förderanteil insgesamt: 26 % Förderanteil insgesamt: Tabelle 4: Solarpflicht, Ersatzabgabe und Förderbeiträge für ein freistehendes Einfamilienhaus in Riehen 72 m2 16.7 kW 16.7 kW 38’840 Fr. 5’994 Fr. 4’163 Fr. 10'157 Fr. 26 % Seite 41/79 Regierungsrat des Kantons Basel-Stadt Reihen-Mehrfamilienhaus, Klybeck Gebäude PV-Anlage zur Pflichterfüllung Realisierte PV-Anlage G» (https://grosserrat.bs.ch/dokumente/100410/000000410355.pdf)
+
+## Vorstoss 23.5581 Motion Raphael Fuhrer und Konsorten betreffend keine finanziellen Fehlanreize für Fahrzeuge mit übermässigem Verbrauch v
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5168 Motion Bruno Lötscher-Steiger und Konsorten betreffend Ausweitung der zulässigen juristischen Praktika für die Anwaltspr
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5211 Anzug Heidi Mück und Konsorten betreffend stärkere Sensibilisierung der Lehrpersonen für geschlechtsunabhängige Leistung
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5213 Anzug Annina von Falkenstein und Konsorten betreffend Unterstützung von Arbeitnehmerinnen und Arbeitnehmern mit finanzie
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5219 Anzug Bruno Lötscher-Steiger betreffend Prostatakrebs-Vorsorge
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5224 Anzug Beda Baumgartner und Konsorten betreffend Evaluation und möglicher Anpassung des Taxigesetzes
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5248 Anzug Daniel Seiler und Konsorten betreffend Stärkung der dualen Berufsbildung durch besseren Einbezug der Wirtschaft
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5249 Anzug Beat K. Schaller und Konsorten betreffend Auswirkungen der künstlichen Intelligenz auf den Staat und sein Verhältn
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5212 Anzug Amina Trevisan und Konsorten betreffend Verbesserung der Anstellungs- und Arbeitsbedingungen sowie Chancengleichhe
+Kosten: beziffert' einmalig 62'000'000' pro Jahr 0  
+  «Aufgrund des Ausgabenwachstums der Universität und der finanziellen Lage des Kantons BaselLandschaft, welcher für das Jahr 2025 mit einem Defizit von 62 Millionen Franken rechnet, droht die paritätische Finanzierung noch weiter in Schieflage zu geraten.» (https://grosserrat.bs.ch/dokumente/100410/000000410734.pdf)
+
+## Vorstoss 24.5268 Anzug Michela Seggiani und Konsorten betreffend Haus der Vereine in Basel
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5269 Anzug Melanie Eberhard und Konsorten betreffend geschlechtsspezifischem Fokus bei der medizinischen Prävention und Nachs
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5271 Anzug Patrick Fischer und Konsorten betreffend Überprüfung hoheitlicher Aufgaben zur Entlastung der Kantonspolizei
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5272 Anzug Pascal Messerli und Konsorten betreffend Sicherheitsempfinden der Bevölkerung durch Massnahmen bei Brücken, Unterf
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5298 Anzug Beda Baumgartner und Konsorten betreffend Zugang zu Informationen nach IDG
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5343 Anzug Philip Karger und Konsorten betreffend Erhöhung des Angebots an Sitzplätzen in der Innerstadt im öffentlichen Raum
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5405 Anzug Amina Trevisan und Konsorten betreffend «Wohnen für Hilfe» - intergenerationales Projekt gegen Wohnungsnot und Ein
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5415 Anzug Daniel Sägesser und Konsorten betreffend «Fernwärme Basel2037» - Kehricht-Saisonspeicher + Wärmepumpen für die Bas
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5447 Anzug Bruno Lötscher-Steiger und Konsorten betreffend Förderung von Literatur für Kinder und Jugendliche
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5466 Anzug Nicole Strahm-Lavanchy und Konsorten betreffend die Bewirtschaftung öffentlich zugänglicher Ladeinfrastruktur für 
+Kosten: beziffert' einmalig 300'000' pro Jahr 0  
+  «Ein solcher Pilotversuch würde 200'000 bis 300'000 Franken kosten (AppKosten, Projektleitung, Wirkungskontrolle, Markierung/Signalisation).» (https://grosserrat.bs.ch/?dnr=24.5466.02)
+
+## Vorstoss 24.5250 Anzug Erich Bucher und Konsorten betreffend neue Schulraumoffensive
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5251 Anzug Christoph Hochuli und Konsorten betreffend Verkehrssicherheit in der Peter Merian-Strasse
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5255 Anzug Daniel Sägesser und Konsorten betreffend Überprüfung der Regulierung von Anlagen zur Gebäudekühlung bei Bestandsba
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5256 Anzug Laurin Hoppler und Konsorten betreffend Einführung eines Thementags zur direkten Demokratie an den Volksschulen in
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5263 Anzug Georg Mattmüller und Konsorten betreffend bedarfsgerechte Gesundheitsversorgung von Menschen mit Behinderungen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5264 Anzug Fleur Weibel und Konsorten betreffend niederschwellige und zeitgemässe Informationen für alle Familien
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5270 Anzug Bruno Lötscher-Steiger und Konsorten betreffend Gauben erlauben - und auch Dacheinschnitte, bitte
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5309 Anzug Leoni Bolz und Konsorten betreffend Vermittlung fürsorgerischer Zwangsmassnahmen in den Schulen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5342 Anzug Annina von Falkenstein und Konsorten betreffend Markierung von sicheren Fussgänger Übergängen bei Tram-Haltestelle
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5413 Anzug Jenny Schweizer und Konsorten betreffend Neubeurteilung der Frühlingsferien
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5419 Anzug Fina Girard und Konsorten betreffend angemessene Löhne für Praktikant:innen der PH
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5421 Anzug Barbara Heer und Konsorten betreffend Gutscheine für werdende Väter für Geburtsvorbereitungskurse
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5254 Anzug Amina Trevisan und Konsorten betreffend Gendermedizin: gesundheitliche Benachteiligung von Frauen im Bereich Erken
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5265 Anzug Edibe Gölgeli und Konsorten betreffend Einrichtung eines Gender-Medizin-Instituts in Basel-Stadt
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5266 Anzug Beda Baumgartner und Konsorten betreffend "Ein Bus" für Basel
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5304 Anzug Amina Trevisan und Konsorten betreffend Lohntransparenz bei Stellenausschreibungen für Stellen beim Kanton Basel-S
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5305 Anzug Amina Trevisan und Konsorten betreffend Hass, Beleidigungen, Abwertungen und Drohungen - schützt unser Kanton unse
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5319 Anzug Anouk Feurer und Konsorten betreffend Kleinkinder und Bildschirme
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5406 Anzug Amina Trevisan und Konsorten betreffend Mammografie-Screening-Programm soll auch jüngere und ältere Frauen miteinb
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5407 Anzug Lukas Bollack und Konsorten betreffend die Anpassung der Praxis zur Einrichtung von Veloabstellplätzen in den Quar
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5414 Anzug Tobias Christ und Niggi Daniel Rechsteiner betreffend Anstellung pflegender Angehöriger durch Spitex Organisatione
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5417 Anzug Joël Thüring und Konsorten betreffend Fr. 35.- statt 75.- in Basel-Landschaft: Überprüfung der Gebühren für den Fü
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5418 Anzug Hanna Bay und Konsorten betreffend Unterstützung für Angehörige und Kinder von inhaftierten Personen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5420 Anzug Melanie Nussbaumer und Konsorten betreffend Kompetenzzentrum für geschlechterreflektierte Männerarbeit
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5422 Anzug Christine Keller und Konsorten betreffend Förderung, Stärkung und Anerkennung von Freiwilligenarbeit und freiwilli
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5205 Motion Fleur Weibel und Konsorten betreffend Erarbeitung einer kantonalen Strategie gegen Rassismus mit Massnahmenplan
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5474 Anzug Melanie Eberhard und Konsorten betreffend Rechtsberatung im Sozialhilferecht
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5476 Anzug Zaira Esposito und Konsorten betreffend Stärkung des Zugangs in den für Diagnostik, Beratung, Betreuung und Pflege
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5486 Anzug Stefan Suter und Konsorten betreffend Steuererklärung per Todestag
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5499 Anzug Lukas Bollack und Konsorten betreffend Velostrassen für Velos statt für Autos
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5210 Motion Béla Bartha und Konsorten betreffend Barrierenabbau auf Biotopverbundsachsen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5500 Anzug Jean-Luc Perret und Konsorten betreffend Verkehrsregelung Colmarer-, Hegenheimer-, Türkheimerstrasse Verkehrsregim
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5545 Anzug Lydia Isler-Christ betreffend Teuerungsausgleich für Werkverträge per Ende Jahr
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5208 Motion Beda Baumgartner und Konsorten betreffend Vertretung in Arbeitsstreitigkeiten
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5206 Motion Franziska Roth und Jenny Schweizer betreffend finanzielle Stärkung der Spielgruppen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5521 Anzug Jérôme Thiriet und Konsorten betreffend Schaffung von Wasserläufen in der Basler Innenstadt
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5209 Motion Patrizia Bernasconi und Konsorten betreffend Vertretung in Mietstreitigkeiten
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5008 Anzug Andrea Strahm und Konsorten betreffend Basilisken-Brunnen auf dem Wielandplatz
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5002 Anzug Beda Baumgartner und Konsorten betreffend Arbeitszeitverkürzung für KMUs in einem Pilot ermöglichen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5018 Anzug Jean-Luc Perret und Konsorten betreffend Förderung der Baslertrommel und des Basler Piccolos im schulischen Kontex
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5261 Anzug der Geschäftsprüfungskommission betreffend zentrale Verantwortlichkeit in der kantonalen Informatik
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5277 Motion Christine Keller und Konsorten betreffend Anpassung des Maximalalters beim Anspruch auf Ausbildungsbeilagen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5019 Anzug Jenny Schweizer und Konsorten betreffend einheitliche Beschulung und Benotung an den Primarschulstandorten Basel-S
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5021 Anzug Daniel Sägesser und Konsorten betreffend Nutzung Windenergie im Überwachungsperimeter des Primärradars des EuroAir
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5275 Anzug Luca Urgese und Konsorten betreffend Einführung eines jährlichen Grossratsbeschlusses über den kantonalen Einkomme
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5424 Motion Daniel Albietz und Konsorten betreffend Restfinanzierungsdarlehen für gemeinnützige Wohnbauträger
+Kosten: geschätzt' einmalig 40'000'000' pro Jahr 0  
+  «Dem Grossen Rat ist innerhalb eines Jahres eine entsprechende Rahmenausgabenbewilligung in der Höhe von mindestens 40 Millionen Franken vorzulegen.» (https://grosserrat.bs.ch/dokumente/100412/000000412488.pdf)
+
+## Vorstoss 24.5184 Motion Adrian Iselin und Michael Hug betreffend Schaffung von kantonalen Förderbeiträgen für Photovoltaik-Anlagen zusätz
+Kosten: geschätzt' einmalig 10'157' pro Jahr 0  
+  «Ersatzabgabe: 2’284 Fr. / a Förderanteil insgesamt: 26 % Förderanteil insgesamt: Tabelle 4: Solarpflicht, Ersatzabgabe und Förderbeiträge für ein freistehendes Einfamilienhaus in Riehen 72 m2 16.7 kW 16.7 kW 38’840 Fr. 5’994 Fr. 4’163 Fr. 10'157 Fr. 26 % Seite 41/79 Regierungsrat des Kantons Basel-Stadt Reihen-Mehrfamilienhaus, Klybeck Gebäude PV-Anlage zur Pflichterfüllung Realisierte PV-Anlage G» (https://grosserrat.bs.ch/dokumente/100410/000000410356.pdf)
+
+## Vorstoss 25.5031 Anzug Raphael Fuhrer und Konsorten betreffend zukunftsfähige Mobilitätslösungen bei Unternehmen, Veranstaltungen und Ins
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5074 Anzug Amina Trevisan und Konsorten betreffend Massnahmen zur Sicherung der Unterrichtsqualität und Unterstützung von Leh
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5085 Anzug Brigitta Gerber und Konsorten betreffend Einführung Edubs-Book und dessen praktische Handhabung (Tastaturkenntniss
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5397 Anzug Christoph Hochuli und Konsorten betreffend Verbot von Einweg-E-Zigaretten
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5395 Motion Amina Trevisan und Konsorten betreffend Förderung von Psychotherapieplätzen durch die Subventionierung der Weiter
+Kosten: beziffert' einmalig 0' pro Jahr 24'000  
+  «Der Kanton leistet zur Finanzierung der ärztlichen Weiterbildung gestützt auf die RAB GWL 2022–2025 einen Beitrag von 24'000 Franken pro Jahr und Assistenzärztin/-arzt (Vollzeitäquivalent) an Universitätsspitäler und von 15'000 Franken pro Jahr und Assistenzärztin/-arzt (Vollzeitäquivalent) an nicht-universitäre Spitäler.» (https://grosserrat.bs.ch/?dnr=24.5395.02)
+
+## Vorstoss 24.5303 Motion Beat Braun und Konsorten betreffend Erhöhung der ambulanten psychotherapeutischen Versorgungsplätze
+Kosten: geschätzt' einmalig 0' pro Jahr 287'000'000  
+  «Laut einer Untersuchung betragen die direkten Kosten (z.B. Ausgaben für Polizei und Justiz) und indirekten Kosten (wie gesundheitliche Folgen, Rentenzahlungen aufgrund dauerhafter Erwerbsunfähigkeit oder Produktivitätsverluste für die Wirtschaft) im Zusammenhang mit Gewalt in Paarbeziehungen je nach Berechnungsgrundlage (Prävalenzraten) schweizweit jährlich etwa 164 bis 287 Millionen Franken.» (https://grosserrat.bs.ch/?dnr=24.5303.03)
+
+## Vorstoss 25.5076 Anzug Jérôme Thiriet und Konsorten betreffend Toilettensituation im Landschaftspark Wiese
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5077 Anzug Stefan Suter und Konsorten betreffend Postzustellung A-Post +
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5032 Anzug Raphael Fuhrer und Konsorten betreffend Optimierung des Tramverkehrs durch die Innenstadt
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5033 Anzug Lukas Bollack und Konsorten betreffend bessere Anbindung des südöstlichen Bruderholzquartiers mit dem Velo
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5075 Anzug Brigitta Gerber und Konsorten betreffend Soziale Sicherheit für Frauen durch verbesserte Information & Planung - d
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5082 Anzug Salome Bessenich und Konsorten betreffend Dranbleiben an den Planungen für zusätzliche Grün- und Freiräume im unte
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5396 Motion Daniel Albietz und Michael Hug betreffend Wiedereinführung des Gebietsprinzips im Bau- und Gastgewerbeinspektorat
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5423 Motion Oliver Thommen und Sandra Bothe betreffend Messenger Dienst für die Basler Volksschulen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5333 Anzug Joël Thüring betreffend Ausbildungsobligatorium - zur Erhöhung der Abschlussquote im Kanton Basel-Stadt
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5302 Anzug Beat Braun und Konsorten betreffend Prävention in der Schule: häusliche Gewalt
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5464 Anzug Heidi Mück und Konsorten betreffend Vision Zero in der Basler Verkehrsplanung
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5465 Motion Tonja Zürcher und Konsorten betreffend Schulwegsicherheit rasch und konkret umsetzen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5367 Anzug Laurin Hoppler und Konsorten betreffend gezielte Unterstützungsmassnahmen für Junge Lehrpersonen während des Studi
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5398 Anzug Nicole Kuster und Konsorten betreffend Unterstützung der Schulen und der Lehrpersonen bei der Anwendung von KI-Sys
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5350 Anzug Catherine Alioth und Konsorten betreffend Einrichtung einer öffentlichen Bibliothek für die Quartiere Kleinhüninge
+Kosten: geschätzt' einmalig 0' pro Jahr 180'000  
+  «Im Ratschlag zur Investition wird dargelegt, dass die Betriebskosten der GGG nach Erweiterung um rund 180'000 Franken pro Jahr steigen werden und dass die GGG hierfür eine Erhöhung der Staatsbeiträge für die Periode 2026–2029 beantragen wird.» (https://grosserrat.bs.ch/?dnr=24.5350.02)
+
+## Vorstoss 24.5297 Motion Christine Keller und Konsorten betreffend Einführung einer Schlichtung bei Gesuchen gemäss dem Öffentlichkeitspri
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5430 Anzug Oliver Thommen und Konsorten für ein Grundrecht der digitalen Integrität
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5280 Motion Brigitte Kühne und Konsorten betreffend Werkleitungsumlegungen/-bündelungen zugunsten von Bäumen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5148 Anzug Remo Gallacchi und Konsorten betreffend Regelung der Bespielungspläne
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5150 Anzug Sandra Bothe und Konsorten betreffend Sofortmassnahmen zum Gesundheitsschutz an Schulen vor Hitzebelastung
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5142 Anzug Joël Thüring und Konsorten betreffend Herzl-Gedenktafel beim Stadtcasino
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5143 Anzug Oliver Bolliger und Konsorten betreffend einer zukunftsfähigen und nachhaltigen subjektbezogenen Finanzierung der 
+Kosten: geschätzt' einmalig 0' pro Jahr 600'000  
+  «In der Antwort des Regierungsrats auf die schriftliche Anfrage von Oliver Bolliger (24.5307.02) werden die jährlichen Transportkosten auf rund CHF 600‘000 Franken geschätzt – dies sind knapp 0.4% der Gesamtkosten der IFEG-Leistungen.» (https://grosserrat.bs.ch/?dnr=25.5143.01)
+
+## Vorstoss 25.5147 Anzug Raoul I. Furlano und Konsorten betreffend Schaffung einer Task-Force zur Bekämpfung von Antisemitismus
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5149 Anzug Claudio Miozzari und Konsorten betreffend aktive Sammlungspflege der Museen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5194 Anzug Anina Ineichen und Konsorten betreffend logopädische Versorgung auf Sekundarstufe II
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5279 Motion Melanie Eberhard und Konsorten betreffend Entlastung der Prämienlast in Basel-Stadt
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5175 Anzug Thomas Widmer-Huber und Daniel Hettich betreffend grössere Unabhängigkeit von Kanton und Gemeinden bei der Festleg
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5195 Anzug Pascal Pfister und Konsorten betreffend eine Vereinfachung der Steuererklärungen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5198 Anzug Claudio Miozzari und Konsorten betreffend «Wie geht's den jungen Männern in Basel-Stadt?»
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5203 Anzug Oliver Thommen und Konsorten betreffend die langfristige Unterstützung der Ukraine
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5542 Motion Fleur Weibel und Konsorten betreffend Prävention psychischer Erkrankungen ab Kindergartenalter und über die gesam
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5197 Anzug Michael Graber und Konsorten betreffend Kennzeichnung von Rollstuhlzugänglichkeit bei Trams
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5201 Anzug Claudio Miozzari und Konsorten betreffend bessere Lösungen für Teilzeitarbeitende in der PKBS
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 24.5543 Anzug Joël Thüring und Konsorten betreffend ein Herz für Kleinhüningen - Aufwertung der Sportanlage Schorenmatte durch R
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5234 Anzug Oliver Bolliger und Konsorten betreffend humanitäre Nothilfe und längerfristige Aufbauhilfe für die Zivilbevölkeru
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5257 Anzug Salome Bessenich und Konsorten betreffend offene Wettbewerbe und Nachwuchsförderung für die Architekturstadt Basel
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5289 Anzug Sandra Bothe und Konsorten betreffend Immersionsunterricht als Chance - Landessprachen F/I an Mittelschulen stärke
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5091 Anzug Salome Bessenich und Konsorten betreffend Open-Source für Basel-Stadt analog Art. 9 EMBAG
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5283 Anzug Joël Thüring und Lukas Faesch betreffend Spalen-Post muss bleiben!
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5285 Anzug Stefan Suter und Konsorten betreffend Rekursfrist
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5295 Anzug Catherine Alioth und Konsorten betreffend Digitalisierung des Antrags auf Stipendien und Erhebung einer umfassende
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5090 Anzug Johannes Sieber und Konsorten betreffend Ergänzung des Kulturfördergesetzes zwecks Förderung des Kulturjournalismu
+Kosten: geschätzt' einmalig 30'000' pro Jahr 100'000  
+  «Seite 7/12 Regierungsrat des Kantons Basel-Stadt nur 12% aller Berechtigten nutzten das Angebot bis anhin, womit die geschätzten Kosten im Jahr 2024 bei 30'000 Franken lagen.13 Die umfassendste Medienförderung, mit einem Budget von insgesamt 6,2 Mio.» (https://grosserrat.bs.ch/?dnr=25.5090.03)
+
+## Vorstoss 25.5088 Motion Melanie Eberhard und Konsorten betreffend Ausbau der Sportflächen für den Breitenfussball
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5146 Anzug Heidi Mück und Konsorten betreffend Umsetzung der geplanten Verbesserungsmassnahmen für das Gebiet rund um die Dre
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5284 Anzug Franz-Xaver Leonhardt und Konsorten betreffend mehr ESC-Groove in der Basler Verwaltung
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5087 Anzug Michela Seggiani und Konsorten betreffend Gestaltung von nachhaltig erfolgreichen Matching - Prozessen zwischen Ju
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5307 Anzug Jo Vergeat und Konsorten betreffend Ergänzung der Kunst im Rathaus um bedeutende Frauenfiguren des Kantons Basel-S
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5176 Anzug Joël Thüring und Konsorten betreffend LED-Beleuchtung für Basler Sportplätze
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5199 Anzug Christine Keller und Konsorten betreffend Transparenz in Bezug auf Löhne von Chef - und leitenden Ärzt:innen (bei 
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5306 Anzug Leoni Bolz und Konsorten betreffend weniger Verkehr in den Quartieren und eine erhöhte Verkehrssicherheit
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5308 Anzug Zaira Esposito und Konsorten betreffend Deutschkurse für zugezogene Schweizerinnen und Schweizer aus anderen Sprac
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5322 Anzug Sasha Mazzotti und Konsorten betreffend Einführung eines «TNW-Klassenpasses» für die Schulen in Basel-Stadt
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5145 Motion Sandra Bothe und Konsorten betreffend ein lernfreundliches Klima: Gesundheitsschutz an Schulen vor Hitzebelastung
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5314 Anzug Pascal Pfister und Konsorten betreffend Schnuppertage in kleinen Unternehmen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5323 Anzug Georg Mattmüller und Konsorten betreffend Einführung des Sunflower-Lanyard-Systems im Kanton
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5395 Anzug Michela Seggiani und Konsorten betreffend Unterstützung und Informationstransfer bei Grossbaustellen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5196 Anzug Christoph Hochuli und Konsorten für ein Schattendach mit Begrünung
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5380 Anzug Beat K. Schaller und Konsorten betreffend Förderung der zweiten Quantenrevolution
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5388 Anzug Brigitte Gysin und Konsorten betreffend wirkungsvollen Jugendschutz: Massnahmen bei Verstoss gegen Tabak- und Alko
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5408 Anzug Michela Seggiani und Konsorten betreffend Ausbau der Deutschkurse für Migrantinnen und Migranten
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5409 Anzug Béla Bartha und Konsorten betreffend Bewilligung von solargebundenen Klimaanlagen auf öffentlichen Gebäuden
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5192 Motion Brigitte Kühne und Konsorten betreffend Ergänzung des Gastgewerbegesetzes sowie der Verordnung zum Gastgewerbeges
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5202 Motion Fleur Weibel und Konsorten betreffend Verbesserung des Mutterschaftsurlaubs bei befristeten Arbeitsverhältnissen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5089 Anzug Ivo Balmer und Konsorten betreffend Rahmenausgabebewilligung für den aktiven Landerwerb
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5232 Motion Pascal Messerli und Konsorten betreffend sofortigen Verzicht auf sämtliche Massnahmen des Kaskadenmodells
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5010 Motion Barbara Heer und Konsorten betreffend Entschädigung der angeordneten Umkleidezeit aller Mitarbeitenden der Verwal
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5460 Anzug Melanie Nussbaumer und Konsorten betreffend Zugang zu Laptops für armutsbetroffene Jugendliche auf Sek II-Stufe un
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5462 Anzug Stefan Wittlin und Konsorten betreffend neue zweckdienliche Trinkbrunnen zum Auffüllen von Flaschen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5469 Anzug Zaira Esposito und Claudia Baumgartner betreffend Wasserspiel auf dem Tellplatz - eine sprudelnde Piazza fürs Gund
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5463 Anzug der Gesundheits- und Sozialkommission betreffend eine bessere Vernetzung der Gesundheitsakteure
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5473 Anzug Amina Trevisan und Konsorten betreffend Basler Kampagne gegen den Schlaganfall
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5461 Anzug Stefan Wittlin und Konsorten betreffend Sicherstellung des Service Public der Postfilialen in Basel-Stadt
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5464 Anzug Daniel Gmür und Konsorten betreffend Nachvollziehbarkeit gerichtlicher Entscheide durch öffentliche Urteilsberatun
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5472 Anzug Brigitta Gerber und Konsorten betreffend Leerstand der Messe Basel und die Suche nach Zwischenlösungen für die pre
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5474 Anzug Joël Thüring und Konsorten betreffend faire Abstimmungsvideos des Kantons statt einseitiger Information
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5497 Anzug Béla Bartha und Konsorten betreffend Methoden zur Förderung von bidirektionalen DC-Ladestationen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5511 Anzug Harald Friedl und Konsorten betreffend Schaffung von mehr sicheren Veloabstellplätzen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5495 Anzug Johannes Barth und Konsorten betreffend Perspektive Berufsbildung: Berufswelten in der Primarschule entdecken
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5515 Anzug Joël Thüring und Konsorten betreffend Perspektive Berufsbildung: Ausrichtung der Fachmaturitätsschule überprüfen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5516 Anzug Catherine Alioth und Konsorten betreffend Sicherstellung der gleichwertigen Darstellung der Bildungswege in kanton
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5256 Motion Anina Ineichen und Konsorten betreffend Schaffung einer gesetzlichen Grundlage für die Auslagerung von Informatik
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5494 Anzug Adrian Iselin und Konsorten betreffend die Zukunft der Art Basel am Standort Basel
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5513 Anzug Beat K. Schaller und Konsorten betreffend Perspektive Berufsbildung - MINT-Förderung für alle, ab der ersten Stund
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5235 Motion Philip Karger und Konsorten zur Verstärkung der Ressourcen für die alterspsychiatrische Versorgung von Menschen i
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5512 Anzug Jérôme Thiriet und Konsorten betreffend Perspektive Berufsbildung: Berufsberatung im Gymnasium. Monitoring und bes
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5510 Anzug Beat K. Schaller und Konsorten betreffend sicher in Tram und Bus. Nicht nur während der Fahrt, sondern auch beim E
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5288 Motion Melanie Eberhard und Konsorten betreffend Einsetzung einer kantonalen Pflegeverantwortlichen (Government Chief Nu
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5547 Anzug Brigitta Gerber und Konsorten betreffend kurzfristige Festhaltungen dokumentieren
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5548 Anzug Oliver Bolliger und Konsorten betreffend Massnahmen zur Senkung der Suizidversuche im Gefängnis Bässlergut
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5549 Anzug Catherine Alioth und Konsorten betreffend die Überprüfung einer Neuausrichtung der Informatikmittelschule Basel
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5580 Anzug Claudio Miozzari für eine bikantonale Plattform Talentförderung in der Berufsbildung
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5586 Anzug Jean-Luc Perret und Konsorten betreffend irreführende Verwendung des Begriffs «Ranger» auf der Dreirosenanlage
+Kosten: beziffert' einmalig 190'000' pro Jahr 0  
+  «Anzug betreffend irreführende Verwendung des Begriffs «Ranger» auf der Dreirosenanlage 25.5586.01 Der Regierungsrat hat unlängst für die ganzjährige Weiterführung des sogenannten Rangerdienstes auf der Dreirosenanlage im Jahr 2026 Ausgaben in der Höhe von 190’000 Franken genehmigt.» (https://grosserrat.bs.ch/?dnr=25.5586.01)
+
+## Vorstoss 25.5587 Anzug Ivo Balmer und Konsorten zum Ausbau der statistischen Grundlagen im Bereich Wohnen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5297 Motion Amina Trevisan und Konsorten betreffend Dolmetschende im Gesundheitswesen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5005 Anzug Joël Thüring und Lukas Faesch betreffend Innenstadt beleben trotz Tramsperre - temporäre Erleichterungen für Betri
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5007 Anzug Edibe Gölgeli und Andrea Strahm betreffend finanzielle und strukturelle Absicherung des Basler «Kindernäschts»
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5016 Anzug Harald Friedl und Konsorten betreffend Optimierung und Kapazitätserhöhung ÖV durch intelligente Lösungen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5017 Anzug Béla Bartha und Konsorten betreffend Einführung von Doppelstockzügen im S Bahnverkehr der Region Basel
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5315 Motion Hanna Bay und Konsorten betreffend gerichtliche Überprüfung von freiheitsentziehenden Massnahmen nach Polizeigese
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5299 Motion Annina von Falkenstein und Konsorten betreffend Erhöhung des Freibetrags für Stipendienbezügerinnen und -bezüger
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5015 Anzug Lisa Mathys und Konsorten betreffend "S Lied vo de Bahnhöf" - die Schweiz im internationalen Zugverkehr nicht abhä
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5298 Anzug Raoul I. Furlano und Konsorten betreffend Überarbeitung des Stipendiensystems und Vorschusszahlungen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5006 Anzug Joël Thüring und Lukas Faesch betreffend Innenstadt erreichbar halten - Shuttle-Service während der tramfreien Zei
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5018 Anzug Luca Urgese und Konsorten betreffend Prüfung von Quartierparking-Alternativen nach gescheiterter Umnutzung des pro
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5321 Motion Oliver Thommen und Tim Cuénod betreffend ein Konzept für Geschichte und Erinnerungskultur im öffentlichen Raum
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5052 Anzug Michael Graber und Konsorten betreffend Tramdepot Eglisee aus dem Dornröschenschlaf wecken
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5065 Anzug Michael Graber und Konsorten betreffend Feuerwerks-Littering
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5410 Motion Michela Seggiani und Konsorten betreffend «LGBTI-Label» für Basel-Stadt
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5412 Motion Brigitta Gerber und Konsorten betreffend bundesgerichtskonforme, arbeitsrechtliche Einbettung des UberEats-Anbiet
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5394 Motion Alex Ebi und Konsorten betreffend Schaffung eines Unterstützungsfonds für baustellenbetroffene Unternehmen in Bas
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5056 Anzug Jenny Schweizer und Konsorten betreffend Beschilderung des Schulstandortes Gartenstrasse Sek I
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5459 Motion Oliver Thommen und Konsorten betreffend Wasser fassen und lassen am Fernbusbahnhof der Kulturhauptstadt der Schwe
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5055 Anzug Julia Baumgartner und Konsorten betreffend faire Honorare für professionelle Kulturschaffende
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5064 Anzug Lisa Mathys und Konsorten betreffend Verschlechterung der Umsteigebeziehung von Bus 80 und 81 am Aeschenplatz
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5097 Anzug Sandra Bothe und Brigitte Gysin betreffend Evaluation des Einsatzes digitaler Instrumente an den Schulen des Kanto
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5107 Anzug Georg Mattmüller und Konsorten betreffend Versorgungslücken bei Spitex-Leistungen für Personen unter 65 Jahren
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5110 Anzug Luca Urgese und Konsorten betreffend Abstimmungsmöglichkeiten für Menschen mit einer Behinderung und Auslandsschwe
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5111 Anzug Brigitta Gerber und Konsorten betreffend Reparieren statt Wegwerfen - Reparaturbonus auch für Basel
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5096 Anzug Brigitte Gysin und Sandra Bothe betreffend Einführung einer stufengerechten Nachtsperrung bei eduBS-Books
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5109 Anzug Joël Thüring und Lydia Isler-Christ betreffend Sicherstellung der Information der Bevölkerung in Schutzräumen nach
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5108 Anzug Lea Wirz und Konsorten betreffend eine nachhaltige, gesunde und lokal verankerte Ernährungspolitik im Kanton Basel
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5112 Anzug Annina von Falkenstein und Konsorten betreffend Sicherung von Suizidhotspots
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5113 Anzug Barbara Heer und Konsorten betreffend Beschleunigung der Wiederherstellung des öffentlichen Verkehrs rund um Kundg
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5114 Anzug Fleur Weibel und Konsorten betreffend bessere Fahrgastinformationen im öffentlichen Verkehr rund um Kundgebungen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5141 Anzug der Regiokommission betreffend Städtepartnerschaft als Beitrag zur europäischen Kohäsion
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5142 Anzug Tobias Christ und Leoni Bolz betreffend Klimaziel 2037 erreichen: Pilotprojekt für eine nachhaltige urbane Mobilit
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5163 Anzug Raffaela Hanauer und Konsorten betreffend Massnahmen für ein einfaches Parkieren des Gewerbes
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5544 Motion Franziska Stier und Konsorten betreffend grundrechtskonformen Internetzugang in der Administrativhaft
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5519 Motion Nicola Goepfert und Konsorten für Überbrückungsbeiträge in zeitlich befristeten Notlagen für Sans-Papiers
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5554 Motion Franz-Xaver Leonhardt und Konsorten betreffend Einführung eines kantonalen Berufsbildungsfonds
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5529 Anzug Bruno Lötscher-Steiger und Konsorten betreffend grenzüberschreitende Polizeiarbeit und effizientere Bekämpfung und
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5545 Motion Nicola Goepfert und Konsorten betreffend Gewährung einer unentgeltlichen Rechtsvertretung ab 10 Hafttagen für all
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5509 Motion Anina Ineichen und Konsorten betreffend Gewaltschutz an Grossveranstaltungen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5508 Anzug Catherine Alioth und Konsorten betreffend professionelle ICT-Lehrstellenförderung
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5492 Motion Christoph Hochuli und Konsorten für die Schaffung eines Frauenhausgesetzes sowie eine Erhöhung der Schutzplätze u
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5546 Anzug Heidi Mück und Konsorten betreffend Kinderrechte umsetzen: Für ein Verbot ausländerrechtlicher Administrativhaft f
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5543 Motion Beda Baumgartner und Konsorten betreffend endlich gleich lange Spiesse im gewerblichen Personentransport
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 25.5581 Motion Jo Vergeat und Konsorten betreffend Anpassung der Verordnung zum Swisslos-Fonds Basel-Stadt zur mehrjährigen Unte
+Kosten: geschätzt' einmalig 30'000' pro Jahr 0  
+  «Zudem ist gemäss § 42 Abs. 2 GO eine Motion unzulässig, die einwirken will auf  den verfassungsrechtlichen Zuständigkeitsbereich des Regierungsrats,  einen Einzelfallentscheid,  einen in gesetzlich geordnetem Verfahren zu treffenden Entscheid oder  einen Beschwerdeentscheid. 1.2 Motionsforderung Mit der vorliegenden Motion wird der Regierungsrat beauftragt, «die Verordnung zum SwisslosFonds Ba» (https://grosserrat.bs.ch/?dnr=25.5581.02)
+
+## Vorstoss 26.5169 Anzug Amina Trevisan und Konsorten betreffend Finanzierungsmodell der Quartiertreffpunkte Basel (QTP): Von der Pauschale
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5228 Anzug Andrea Strahm und Marina Schai betreffend Ermöglichung von anonymen Geburten
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5246 Anzug Michael Graber und Konsorten betreffend verbesserte Zugänglichkeit zum Hirzbrunnenquartier durch innovative Verkeh
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5196 Anzug Bruno Lötscher-Steiger und Konsorten betreffend finanzielle Förderung des Ersatzneubaus des Sonnenbades St. Margar
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5212 Anzug Beda Baumgartner und Konsorten betreffend Einführung eines regelmässigen wissenschaftlichen Wirkungsmonitorings zu
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5213 Anzug Edibe Gölgeli und Konsorten betreffend Einführung eines Basler Frauenpreises zur Förderung der Sichtbarkeit und Gl
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5229 Anzug Jessica Brandenburger und Konsorten betreffend Verbesserung der Übergänge zwischen Sozialleistungen in Basel-Stadt
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5245 Anzug Jessica Brandenburger und Konsorten betreffend kantonale Leistungen der Betreuung nach Einführung der rechtlichen 
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5247 Anzug Claudio Miozzari und Konsorten betreffend gendergerechte Gestaltung des öffentlichen Raums
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5328 Anzug Silvia Schweizer und Konsorten betreffend Frauenparkplätze und bauliche Sicherheitsstandards in städtischen Parkhä
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5344 Anzug Daniel Albietz und Konsorten betreffend Befähigung der Bevölkerung im KI-bedingten Strukturwandel: Weiterbildungs-
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5280 Anzug Lisa Mathys und Konsorten betreffend transparente und zugängliche Zusammenstellung der regulatorischen Widersprüch
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5013 Motion Beda Baumgartner und Konsorten betreffend Stärkung der Härtefallregularisierung im Kanton Basel-Stadt
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5260 Anzug Barbara Heer und Konsorten betreffend die Schaffung eines Mahnmals für Betroffene geschlechtsspezifischer Gewalt
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5278 Anzug Silvia Schweizer und Konsorten betreffend Förderung der freiwilligen Erwerbstätigkeit nach Erreichen des Referenza
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5281 Anzug Ivo Balmer und Anina Ineichen betreffend Transparenz bei der Vermietungspraxis von Immobilien Basel-Stadt (IBS)
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5313 Anzug Annina von Falkenstein betreffend Förderung des Baus von privaten Zisternen zur Einsparung von Trinkwasser
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5051 Motion Christoph Hochuli und Konsorten betreffend Stärkung des Bereichs Menschenhandel bei der Kriminalpolizei, beim Fah
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5375 Anzug Sandra Bothe und Konsorten betreffend Berufsbildner:innen stärken: gute Rahmenbedingungen für eine anspruchsvolle 
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5376 Anzug Brigitte Kühne und Konsorten betreffend der Betriebsqualität von grenzüberschreitenden Regionalverkehrsverbindunge
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5373 Anzug Daniel Albietz und Konsorten betreffend Aufbau einer EMRIC-ähnlichen Krisen- und Rettungsdienstkooperation in der 
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5378 Anzug Oliver Bolliger und Konsorten betreffend Aufsuchende zahnärztliche Versorgung für vulnerable Menschen
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5374 Anzug Sandra Bothe und Konsorten betreffend direkt in die Berufsbildung, Übergänge gezielt stärken
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5379 Anzug Balz Herter und Konsorten betreffend aktive Förderung eines vorgelagerten Einspracheverzichts zur Beschleunigung v
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5418 Anzug Jérôme Thiriet und Konsorten betreffend Qualifizierungs- und Praxisprogramm für hochqualifizierte Stellensuchende
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5414 Anzug Jérôme Thiriet und Konsorten betreffend Förderung des Ersatzes emissionsintensiver Zweitakt-Kleinkrafträder
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5416 Anzug Béla Bartha und Konsorten betreffend Anpassung und Verstärkung der Massnahmen zur Förderung hochbegabter Kinder un
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5072 Anzug Laurin Hoppler und Oliver Thommen betreffend die Nutzung freiwerdender Räumlichkeiten für Kommissionen und Fraktio
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5405 Anzug Christoph Hochuli und Konsorten betreffend Gesichtserkennungs-Software für Kantonspolizei und Staatsanwaltschaft
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5415 Anzug Lisa Mathys und Konsorten betreffend Einführung eines internen CO2-Preises für mehr Kostenwahrheit bei der Beschaf
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5424 Anzug Christoph Hochuli und Konsorten betreffend velogerechte Planung der Kreisel Wettsteinplatz und Kannenfeldplatz
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5100 Motion Lisa Mathys und Konsorten betreffend Umsetzungsplanung zur Erreichung der Biodiversitätsziele durch die Immobilie
+Kosten: offen' einmalig 0' pro Jahr 0
+
+## Vorstoss 26.5014 Motion Andrea Strahm und Konsorten betreffend die Regelung der Stellvertretungen an den Schulen
+Kosten: offen' einmalig 0' pro Jahr 0
 

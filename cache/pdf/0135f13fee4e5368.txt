@@ -1,0 +1,523 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+21.5749.02
+
+PD/P215749
+Basel, 13. Dezember 2023
+Regierungsratsbeschluss vom 12. Dezember 2023
+
+Anzug der Spezialkommission Klimaschutz betreffend «Folgekosten des Klimawandels in einem “Weiter-wie-bisher“-Szenario»
+Der Grosse Rat hat an seiner Sitzung vom 16. Dezember 2021 den nachstehenden Anzug der
+Spezialkommission Klimaschutz bezüglich der Folgekosten des Klimawandels in einem “Weiterwie-bisher“-Szenario dem Regierungsrat zum Bericht überwiesen:
+«Die Spezialkommission Klimaschutz beschäftigt sich mit bestehenden, geplanten und allenfalls zusätzlich notwendigen Massnahmen zum Klimaschutz. Ein Thema sind dabei auch immer wieder die
+Kosten dieser Massnahmen. Nicht bekannt sind jedoch die Folgekosten, welche ein „Weiter-wie-bisher“-Szenario («costs of inaction») bringen würde. Um die Kosten von Klimaschutzmassnahmen ins
+Verhältnis zu ihrem (finanziellen) Nutzen setzen zu können, ist es wichtig, die Kosten des Nicht-Handelns zu kennen.
+2006 berechnete der Ökonom Nicholas Stern, dass ein ungebremster Klimawandel über die nächsten
+beiden Jahrhunderte mit einer Reduktion des jährlichen globalen BIP um durchschnittlich 5 bis 20 Prozent verbunden wäre. Die Kosten einer Reduktion der Emissionen zur Begrenzung der Klimaerhitzung
+auf maximal 2 °C lägen hingegen bei lediglich rund 2 % des globalen BIP pro Jahr. 2015 bestätigte die
+OECD in einem Bericht zu den ökonomischen Auswirkungen des Klimawandels, dass die Kosten des
+Nicht-Handelns jene des Handelns um ein Vielfaches übersteigen.
+Für die Schweiz hat die ETH Lausanne (EPFL) 2019 die Kosten der Auswirkungen des Klimawandels
+auf die Bereiche Gesundheit, Gebäude und Infrastrukturen, Energie, Wasserversorgung, Landwirtschaft und Tourismus berechnet und kam zum Ergebnis, dass die Mehrkosten eines mehr oder weniger ungebremsten Klimawandels jene bei einer Begrenzung auf max. 2 °C bis 2060 rund 2,8 Milliarden
+Franken betragen. Bis Ende des Jahrhunderts könnten die BIP-Einbussen in der Schweiz auf bis zu
+12 % pro Jahr ansteigen.
+Zahlen der Kosten für Basel-Stadt gibt es bisher keine.
+Die Spezialkommission Klimaschutz bittet den Regierungsrat deshalb, zu prüfen und zu berichten,
+
+
+welche Folgen verschiedene Szenarien der Klimaerwärmung für unseren Kanton. d.h. die Unternehmen, die Bevölkerung und den Kantonshaushalt hätten. Dabei sind mindestens 2 Szenarien
+darzustellen: eines mit einer Begrenzung des Klimawandels auf unter 1.5°C, eines mit einem ungebremsten Klimawandel, also deutlich mehr als 2°C.
+
+
+
+mit welchen Zusatzkosten man in diesen Fällen rechnen müsste, für den Staat, aber auch für
+Unternehmen und Private.
+
+
+
+in welchem Verhältnis die Kosten der Klimaschutzmassnahmen für ein Szenario "unter 1.5°C" zu
+den Kosten der Folgen einer Klimaerwärmung von "deutlich über 2°C" stehen.
+
+Für die Spezialkommission Klimaschutz: Jo Vergeat, Präsidentin»
+
+Den Mitgliedern des Grossen Rates des Kantons Basel-Stadt zugestellt am 15. Dezember 2023.
+
+Seite 1/8
+
+Regierungsrat des Kantons Basel-Stadt
+
+Wir berichten zu diesem Anzug wie folgt:
+
+1.
+
+Inhaltliche Beurteilung
+
+Im Zuge ihrer Arbeit wünscht die Spezialkommission Klimaschutz die Darlegung der Folgekosten
+eines "Weiter-wie-bisher"-Szenarios ("costs of inaction"), also die Kosten von unzureichendem Klimaschutz und fehlender Klimaanpassung im Vergleich zu einem Szenario, in dem die globale Erwärmung auf unter 1.5°C beschränkt werden kann. Dieser Vergleich bildet eine essentielle Grundlage für die ökonomische Einordnung von Klimaschutz- und Klimaanpassungsmassnahmen.
+Für den Kanton Basel-Stadt wurden bereits verschiedene Studien zu den Folgekosten eines „Weiter-wie-bisher“-Szenarios durchgeführt:
+- Im Jahr 2011 berichtete der Regierungsrat über die Klimafolgen für den Kanton Basel-Stadt
+bis 2050 und zeigte Handlungsmöglichkeiten und -bedarfe auf. Dabei wurden die Klimaszenarien CH2050 des Beratenden Organs für Fragen der Klimaänderung (OcCC) verwendet und die Klimafolgen in verschiedenen Sektoren analysiert. Signifikante Folgekosten des
+Klimawandels wurden in den Bereichen Gebäude und Infrastruktur, Trinkwasser und Rheinschifffahrt identifiziert.1
+- INFRAS hat 2015 in einer umfassenden Studie die Risiken und Chancen des Klimawandels
+für den Kanton Basel-Stadt mit quantitativen und qualitativen Kostenschätzungen aufgezeigt. Sie legt das Potenzial für hohe Kosten in den Bereichen Gesundheit, Energie, Gebäude/Infrastruktur, Wasserwirtschaft und Biodiversität dar.2
+- Ein weiterer Bericht des Regierungsrats (2021) befasste sich mit der Anpassung an den
+Klimawandel in den vier Sektoren Umwelt, Gesundheit, Wirtschaft sowie Gebäude und Infrastruktur.3
+Diese Studien und Zahlen bilden eine gute Datengrundlage für die Beantwortung des vorliegenden
+Anzugs. Der Anzug verlangt jedoch weitere Kostenschätzungen, die über die Ergebnisse der bereits vorliegenden Studien hinausgehen. Entsprechend wurde die Universität Basel beauftragt, die
+volkswirtschaftlichen Auswirkungen verschiedener Szenarien der Klimaerwärmung für den Kanton Basel-Stadt, d. h. für die Unternehmen, die Bevölkerung und den Kantonshaushalt, abzuschätzen. Dabei wurden zwei Szenarien untersucht: eines mit einer Begrenzung der Klimaerwärmung
+auf unter 1.5°C und eines mit einer ungebremsten Klimaerwärmung von deutlich über 2°C.
+
+2.
+
+Ausgangslage
+
+2.1
+
+Klimawandel verursacht Kosten
+
+Wie im Anzug erwähnt, verursachen nicht nur Massnahmen für den Klimaschutz und die Klimaanpassung Kosten, sondern auch die Folgen des Klimawandels selbst. Die Höhe dieser Kosten hängt
+davon ab, inwieweit es gelingt, den Klimawandel zu begrenzen und welche Massnahmen zur Anpassung an den Klimawandel ergriffen werden.
+Die Auswirkungen des Klimawandels sind bereits vielfältig und spürbar, sowohl global als auch im
+Kanton Basel-Stadt. In der Schweiz wurden die Hitzewellen seit 1901 um über 200 % häufiger und
+intensiver und die Starkniederschläge im gleichen Zeitraum 12 % intensiver und 30 % häufiger. Die
+Durchschnittstemperatur im Kanton Basel-Stadt liegt heute bereits 2.1°C über der Durchschnittstemperatur in vorindustrieller Zeit.4
+
+1 Regierungsrat, Kanton Basel-Stadt. 2011. Bericht über die Folgen des Klimawandels im Kanton Basel-Stadt. Handlungsmöglichkeiten und Handlungsbe-
+
+darf aufgrund der Klimaänderung in Basel-Stadt, Regierungsrat des Kantons Basel-Stadt, Basel.
+2 INFRAS und Egli Engineering. 2015. Analyse klimabedingter Risiken und Chancen in der Schweiz: Regionale Fallstudie Kanton Basel-Stadt.
+3 Regierungsrat, Kanton Basel-Stadt. 2021. Anpassung an den Klimawandel im Kanton Basel-Stadt. Handlungsfelder und Massnahmenplanung.
+4 MeteoSchweiz (2021). Klimawandel im Kanton Basel-Stadt.
+
+Seite 2/8
+
+Regierungsrat des Kantons Basel-Stadt
+
+Diese Entwicklungen werden mit ungebremstem Klimawandel noch stärker. Zunehmende Starkund Extremniederschläge können zu Erosion der landwirtschaftlichen Böden und Überschwemmungen im Siedlungsraum führen. Dagegen können längere Trockenperioden zu Dürre in der
+Landwirtschaft oder gar Wassermangel führen. Hitzeextreme und -wellen bedrohen die Gesundheit
+insbesondere von älteren und kranken Menschen und sind in den Innenstädten noch extremer als
+in ländlichen Gegenden. Abnehmende Kälte im Winter erleichtert dagegen die Überwinterung für
+Schadorganismen und verändert den bisherigen Zyklus von Tieren und Pflanzen. Zudem können
+diese Extreme nicht nur einzeln, sondern auch in Kombination auftreten (z. B. Starkniederschläge
+nach Trockenperioden), was deren Auswirkungen noch verschärft.
+
+Abbildung 1 Extremwerte in Basel / Binningen um 2060 bei einem Szenario ohne Klimaschutz (MeteoSchweiz 2021, Klimawandel im Kanton Basel-Stadt)
+
+Der Kanton Basel-Stadt ist jedoch nicht nur betroffen von den Folgen des Klimawandels im Kanton,
+sondern auch von den globalen Folgen, da sich diese beispielsweise auf Lieferketten auswirken
+können und die globalen Ungleichheiten verschärfen.
+Während erste Auswirkungen der Klimakrise bereits heute sichtbar sind, steigen die Kosten mit
+zunehmender Erwärmung. Vereinfacht gesagt: je drastischer die Klimaerwärmung, desto stärker
+werden die Folgen des Klimawandels und desto höher sind die Kosten für die Anpassung an die
+veränderten Bedingungen und zur Behebung von Schäden. Daher ist es von entscheidender Bedeutung, die Herausforderungen des Klimawandels ernst zu nehmen und rechtzeitig wirksame
+Massnahmen zu ergreifen.
+
+2.2
+
+Basel-Stadt geht voran
+
+Eine Schwierigkeit in dieser eigentlich einfachen Rechnung zwischen Klimaschutzmassnahmen
+und den durch den Klimawandel verursachten Kosten sind jedoch die Skaleneffekte. Lokaler Klimaschutz führt nicht automatisch zu tieferen Klimafolgenkosten in der gleichen Region. Andererseits profitieren auch Regionen von Klimaschutzmassnahmen, wenn selbst gleichzeitig weiterhin
+Treibhausgasemissionen ausstossen.
+Um den globalen Klimawandel abzubremsen und seine Folgen zu mildern, sind globale Klimaschutzmassnahmen nötig. Auch wenn global gesehen der Hebel des Kantons Basel-Stadt, klein
+ist, so kann und sollte er dennoch als wirtschaftlich starke Region eine Vorbildrolle einnehmen. Der
+Kanton setzt sich deshalb aktiv für die Dekarbonisierung ein, indem er sich bereits zu Netto-Null
+Treibhausgasemissionen ab dem Jahr 2037 verpflichtet hat und sich auch darüber hinaus für das
+1.5°C-Ziel einsetzt.
+
+Seite 3/8
+
+Regierungsrat des Kantons Basel-Stadt
+
+3.
+
+Beantwortung der Fragen
+
+Die Berechnung der Kosten eines "Weiter-wie-bisher"-Szenarios gestaltet sich komplex. Unterschiedliche wissenschaftliche Ansätze, Szenarien und Systemgrenzen kommen hierbei zum Einsatz. Im Folgenden werden die Resultate verschiedener Studien zusammengefasst und es wird ein
+Überblick über die volkswirtschaftlichen Kosten bei einem ungebremsten Klimawandel auf globaler
+und kantonaler Ebene gegeben. Eine abschliessende Abschätzung der Gesamtkosten der Klimafolgen für den Kanton Basel-Stadt ist in keiner Studie möglich.
+
+3.1
+
+Kantonale volkswirtschaftliche Kosten: Ergebnisse der Studie zu den Kosten der Klimafolgen im Kanton Basel-Stadt
+
+Die in Auftrag gegebene Studie5 zeigt, dass die Quantifizierung der Schäden durch den Klimawandel sowohl methodisch als auch datenmässig äusserst komplex ist. Dennoch liefert sie exemplarisch Kostenwerte für einige wenige Klimafolgen, die in früheren Studien als besonders relevant für
+den Kanton eingeschätzt wurden. Es ist wichtig zu beachten, dass die resultierenden Kostenwerte
+mit beträchtlichen Unsicherheiten behaftet sind, aber dennoch aussagekräftige Ergebnisse liefern.
+Die Studie der Universität Basel stützt sich auf die in Kapitel 1 erwähnte Literatur und untersucht
+die Mehrkosten, die durch die Klimakrise verursacht werden, anhand von zwei Szenarien: einem
+Szenario mit begrenztem Klimawandel auf 1.5°C globale Erwärmung und einem Szenario mit stärkerem Klimawandel auf deutlich über 2°C globale Erwärmung. Im Szenario mit stärkerem Klimawandel wird jeweils eine Variante mit und eine ohne Anpassungsmassnahmen betrachtet.
+Die Studie beschränkt sich auf Sektoren, bei denen substanzielle Auswirkungen auf den Kanton Basel-Stadt zu erwarten sind und für die eine ausreichende Datengrundlage besteht. Dazu gehören die Bereiche:
+- Gesundheit: Auswirkungen der zunehmenden Hitzebelastung auf das Sterberisiko und die
+Arbeitsproduktivität
+- Veränderungen im Energiebereich: Auswirkungen der steigenden Temperaturen auf den
+Heiz- und Kühlenergiebedarf
+- Gebäude & Infrastruktur: Hochwasserschäden (exkl. Schäden an Anlagen, Vermögenswerten in den Gebäuden und Todesfällen6)
+In der Studie wurden keine indirekten Kosten berücksichtigt, wie beispielsweise Migrationskosten,
+Ressourcenkonflikte, dauerhafte Preisverschiebungen auf internationalen Märkten oder systemische Risiken. Obwohl diese Faktoren von grosser finanzieller Bedeutung sind, lassen sie sich derzeit wissenschaftlich nicht quantifizieren.
+3.1.1
+
+Kosten des Klimawandels für die Jahre 2035 und 2060 in zwei Szenarien
+
+Tabelle 1 zeigt die Differenz zwischen den Folgekosten des Klimawandels bei einer begrenzten
+globalen Erwärmung von 1.5°C und den Kosten bei einem Weiter-wie-bisher-Szenario mit einer
+globalen Erwärmung von über 2°C. Positive Werte zeigen die Mehrkosten des Szenarios mit stärkerer Erwärmung. Insgesamt zeigt sich, dass ein Weiter-wie-bisher-Szenario gegenüber einem
+Szenario mit starkem Klimaschutz 2035 nur einen kleinen Unterschied ausmacht. Die Unterschiede
+werden jedoch über die Zeit grösser, da sich auch die Temperaturdifferenzen zwischen den Szenarien vergrössern. Die angegebenen Werte zeigen Durchschnittswerte; in Jahren mit stärkeren
+Hitzewellen können die Kosten markant höher ausfallen.
+Im Szenario mit einem stärkeren Klimawandel ergeben sich im Vergleich zum begrenzten Klimawandel im Jahr 2035 Mehrkosten im Sektor Gesundheit von 1,4 Millionen Franken. Diese sind
+verursacht durch eine erhöhte Sterblichkeit und eine verminderte Arbeitsproduktivität aufgrund von
+5 Frank Krysiak, Joëlle Velvart (Februar 2023). The Costs of Inaction. Studienbericht. Universität Basel.
+6 Würden diese mitberücksichtigt, hätte dies gemäss BVD eine Erhöhung der Kosten um einen Faktor von 1.8 bis 2. Für den Bereich Gebäude und Infra-
+
+struktur werden aufgrund der vorhandenen Daten keine Kosten für das Jahr 2035 ausgewiesen.
+
+Seite 4/8
+
+Regierungsrat des Kantons Basel-Stadt
+
+Hitzetagen. Es ist jedoch zu berücksichtigen, dass die Folgen im Sektor Gesundheit insbesondere
+auf die Hitze zurückzuführen sind und der zusätzliche Hitzeinseleffekt aufgrund des städtischen
+Umfelds in diesen Berechnungen nicht berücksichtigt ist. Den Mehrkosten im Bereich Gesundheit
+stehen geringere Kosten im Bereich Energie gegenüber (4,1 Millionen Franken), da bei einem stärkeren Klimawandel weniger Heizenergie benötigt wird. Für den Bereich Gebäude und Infrastruktur
+liegen für 2035 keine Zahlen vor.
+Im Jahr 2060 können die Kosten im Sektor Gesundheit in einem Szenario mit globalem Klimaschutz
+gegenüber jenem mit starkem Klimawandel um rund 17 Millionen Franken reduziert werden. Dabei
+ist wichtig zu verstehen, dass 12 Millionen Franken an Schäden auf vermiedene Todesfälle zurückzuführen sind. Obwohl diese hier als Kosten abgebildet sind, sollte nicht vergessen werden, dass
+es sich dabei um Menschenleben handelt. Dazu kommen 5 Millionen Franken aus dem Bereich
+Arbeitsproduktivität – auch hier darauf zurückzuführen, dass Menschen produktiver arbeiten und
+weniger ausfallen, wenn sie weniger unter Hitzeextremen leiden. Weitere 3 Millionen Franken Unterschied stammen aus dem Bereich Gebäude und Infrastruktur aufgrund der tieferen Eintrittswahrscheinlichkeit von bisher 300-jährlichen Hochwasserereignissen. Im Bereich Energie fallen hingegen 4,6 Millionen Franken zusätzliche Kosten an, da die Kosteneinsparungen im Heizbereich die
+Mehrkosten im Kühlbereich nicht kompensieren können.
+Tabelle 1: Berechnete jährlich anfallende Kosten im Jahr 2035 und 2060 (in Millionen Franken, gerundet) nach Bereich und im Total für die Differenz
+zwischen stärkerem und begrenzten Klimawandel (ohne Anpassungsmassnahmen und mit Wärmeinseleffekt). Positive Zahlen bedeuten Einsparungen bei
+einem begrenzten Klimawandel.
+
+2035
+
+2060
+
+Gesundheit: Mortalität
+
+(in Mio. CHF)
+
+1,0
+
+11,7
+
+Gesundheit: Arbeitsproduktivität
+
+0,4
+
+4,9
+
+Energie: Zusatzkosten Kühlen und Heizen
+
+-4,1
+
+-4,6
+
+-2,7
+
+15,0
+
+Gebäude und Infrastruktur
+Gesamtkosten
+
+3,0
+
+Um die Kosten über mehrere Jahre zu berechnen, müssen Diskontraten vorgenommen werden,
+um den Gegenwartswert7 zu ermitteln. Die Diskontrate beschreibt, wie stark ein Individuum den
+Konsum eines Gutes in der Zukunft höher oder niedriger schätzt als den Konsum dieses Gutes in
+der Gegenwart. Der Nutzen in der Zukunft wird umso geringer eingeschätzt, je höher die Diskontrate ist. In der Wissenschaft besteht eine intensive Diskussion über die Wahl dieser Diskontraten.
+In der Diskussion der Kosten des Klimawandels ist es mittlerweile üblich, Gegenwartswerte mit
+einer eher hohen (5 % p. a.) und einer niedrigen (1 % p. a.) Diskontrate zu berechnen. Je nach
+Diskontrate kommt man auf völlig unterschiedliche Kostenwerte: Im Zeitraum der Jahre 2035 bis
+2149 können zwischen 94 und 746 Millionen Franken durch effektiven Klimaschutz gespart werden.
+Tabelle 2: Für die Jahre 2035-2149 auf das Basisjahr 2030 berechneter Gegenwartswert (in Millionen Franken, gerundet) je Bereich und insgesamt für die
+Differenz zwischen starker und begrenzter Klimaänderung (ohne Anpassungsmassnahmen und mit Wärmeinseleffekt) bei einer Diskontrate von 5 % und
+1 %. Positive Zahlen bedeuten Einsparungen bei einem begrenzten Klimawandel. Die Zahlen stellen die Untergrenze dar, da die Kosten 2035 für
+2035-2049 und die Kosten 2060 für 2050-2149 konstant angenommen wurden.
+
+(in Mio. CHF)
+Gesundheit: Mortalität
+Gesundheit: Arbeitsproduktivität
+Energie: Zusatzkosten Kühlen und Heizen
+
+5 % diskontiert
+101,0
+42,0
+-72,0
+
+1 % diskontiert
+625,0
+263,0
+-296,0
+
+Gebäude und Infrastruktur
+
+23,0
+
+154,0
+
+Gesamtkosten
+
+94,0
+
+747,0
+
+7 Der Gegenwartswert ist der Wert, den ein zukünftiger Zahlungsstrom zum jetzigen Zeitpunkt hat. Er wird durch Diskontierung der zukünftigen Zahlungen
+berechnet.
+
+Seite 5/8
+
+Regierungsrat des Kantons Basel-Stadt
+
+3.1.2
+
+Einfluss von Klimaanpassungsmassnahmen auf die Kosten des Klimawandels
+
+Ein weiterer Faktor bei den Kosten der Folgen des Klimawandels spielen Klimaanpassungsmassnahmen. Für das Jahr 2035 können im Szenario mit starkem Klimawandel Kosten von 37–38 Millionen Franken durch Klimaanpassungsmassnahmen verhindert werden. Im Jahr 2060 verdoppelt
+sich dieses Potenzial auf 66 bis 68 Millionen Franken (siehe Tabelle 3a). Bis 2035 sind die Kosten
+sowie der Nutzen von Klimamassnahmen gering. Dies darf aber nicht so interpretiert werden, als
+dass sich Massnahmen bis 2035 nicht lohnen würden. Alle Klimaschutz- und viele Anpassungsmassnahmen benötigen viele Jahre, um ihre volle Wirkung zu entfalten und können daher nicht
+lange aufgeschoben werden, wenn sie bis 2050 Wirkung zeigen sollen. Wichtig ist, dass die angegebenen Werte als Durchschnittswerte pro Jahr zu verstehen sind; in Jahren mit grösseren Hitzewellen können die Kosten deutlich höher liegen. Die Gegenwartswerte für die Jahre 2035-2149 auf
+das Basisjahr 2030 ergeben jährliche Kosteneinsparungen von 840-873 Millionen Franken
+(5 % diskontiert) beziehungsweise 3940-4087 Millionen Franken (1 % diskontiert) dank Klimaanpassungsmassnahmen (Tabelle 3b).
+Tabelle 3a: Berechnete jährliche Kosteneinsparungen aufgrund von Massnahmen für Klimaanpassung beim starken Klimawandel im Jahr 2035 und 2060
+(in Millionen Franken, gerundet) nach Bereich und im Total (mit und ohne Wärmeinseleffekt - WIE). Positive Zahlen bedeuten Einsparungen durch Klimaanpassungsmassnahmen.
+
+(in Mio. CHF)
+
+Mit WIE
+
+Ohne WIE
+
+Ohne
+WIE
+
+Mit WIE
+
+Jährliche Kosteneinsparungen
+2035
+
+2060
+
+Gesundheit: Mortalität
+
+18,4
+
+19,2
+
+25,2
+
+25,90
+
+Gesundheit: Arbeitsproduktivität
+
+5,2
+
+5,7
+
+7,6
+
+8,20
+
+Energie: Zusatzkosten Kühlen und Heizen
+
+12,9
+
+12,9
+
+28,3
+
+29,50
+
+-
+
+-
+
+4,5
+
+4,50
+
+36,5
+
+37,8
+
+65,70
+
+68,10
+
+Gebäude und Infrastruktur
+Gesamtkosten
+
+Tabelle 3b: Jährliche Kosteneinsparungen in Gegenwartwerte für die Jahre 2035-2149 auf das Basisjahr 2030 (in Millionen Franken, gerundet) nach Bereich
+und im Total (mit und ohne Wärmeinseleffekt - WIE). Die Gegenwartswerten stellen die Untergrenze dar, da die Kosten 2035 für 2035-2049 und die
+Kosten 2060 für 2050-2149 konstant angenommen wurden. Positive Zahlen bedeuten Einsparungen durch Klimaanpassungsmassnahmen.
+
+(in Mio. CHF)
+
+Mit WIE
+
+Ohne WIE
+
+Mit WIE
+
+Ohne WIE
+
+Gegenwartwerte für die Jahre 2035-2149 auf das Basisjahr 2030
+5 % diskontiert
+
+1 % diskontiert
+
+Gesundheit: Mortalität
+
+362,0
+
+375,0
+
+1’576,0
+
+Gesundheit: Arbeitsproduktivität
+
+106,0
+
+116,0
+
+472,0
+
+508,0
+
+Energie: Zusatzkosten Kühlen und Heizen
+
+337,0
+
+347,0
+
+1’660,0
+
+1’723,0
+
+1’624,0
+
+Gebäude und Infrastruktur
+
+35,0
+
+35,0
+
+232,0
+
+232,0
+
+Gesamtkosten
+
+840,0
+
+873,0
+
+3’940,0
+
+4’087,0
+
+Die wichtigsten Erkenntnisse der Studie lassen sich wie folgt zusammenfassen:
+
+
+
+
+Im Bereich Gesundheit sind durchaus relevante Kosten zu erwarten, vor allem im Zusammenhang mit einer erhöhten Sterblichkeit durch Hitzetage und einer tieferen Arbeitsproduktivität im sekundären Wirtschaftssektor. Anpassungsmassnahmen können diese Kosten
+deutlich reduzieren, aber eine vollständige Vermeidung scheint nicht möglich zu sein. Die
+Kosten der erhöhten Sterblichkeit fallen vollumfänglich bei den Privaten an; die Kosten einer
+verringerten Arbeitsproduktivität dürften zunächst bei den Unternehmen anfallen. Je nach
+Arbeitsmarktsituation und Auswirkungen in den Nachbarkantonen ist es denkbar, dass eine
+verringerte Arbeitsproduktivität zu einer Abflachung der Lohnentwicklung führt. Damit würden diese Kosten langfristig teilweise von den Unternehmen und teilweise von den Privaten
+getragen.
+Im Energiesektor halten sich die Kosteneinsparungen durch einen geringeren Heizenergiebedarf im Winter und die Kosten durch einen erhöhten Kühlbedarf im Sommer weitgehend
+
+Seite 6/8
+
+Regierungsrat des Kantons Basel-Stadt
+
+
+
+die Waage. Anpassungsmassnahmen zur Verbesserung der Gebäudedämmung sind wichtig, insbesondere angesichts der bestehenden Einsparpotenziale (unabhängig vom Klimawandel). Die Anpassungsmassnahmen im Energiebereich tragen gleichzeitig zur Reduktion
+der Treibhausgasemissionen und zur Begrenzung des Klimawandels bei. Die veränderten
+Kosten des Heiz- und Kühlenergieverbrauchs werden von der Bevölkerung und den Unternehmen getragen.
+Im Bereich Gebäude und Infrastruktur wird sich der Klimawandel auf das Schadenpotenzial
+von Hochwasser, Hagel und Sturm auswirken. Die Extremereignisse werden zunehmen.
+Das Ausmass ist jedoch mit grösseren Unsicherheiten behaftet. Die Kosten für Hochwasserschäden an Gebäuden und Infrastruktur werden vom Kanton und den Gebäudeversicherungen getragen.
+
+3.2
+
+Kosten der Klimaschutzmassnahmen
+
+Die Höhe der Investitionskosten für Klimaschutz- und Klimaanpassungsmassnahmen hängt von
+vielen Faktoren ab und musste entsprechend modelliert werden. Die gesetzlichen Rahmenbedingungen sehen vor, dass die Klimaneutralität bis 2037 nach den Leitsätzen der Klimagerechtigkeit
+erreicht wird. Zum Zeitpunkt der Beantwortung dieser Anfrage ist der Aktionsplan zur Klimaschutzstrategie mit Massnahmen und Massnahmenkosten für die Verwaltung noch nicht veröffentlicht.
+Die folgenden Aussagen basieren auf Schätzungen, die INFRAS im Rahmen der Erarbeitung der
+Klimaschutzstrategie durchgeführt hat. Auch hier handelt es sich um volkswirtschaftliche Kosten,
+die nicht nur die öffentliche Hand, sondern auch Private (z. B. Gebäudeeigentümerinnen und -eigentümer) und Unternehmen (z. B. Baufirmen und Versicherungen) betreffen.
+Die Modellrechnungen von INFRAS zeigen, dass in den Handlungsfeldern Mobilität 8, Gebäude9,
+Wirtschaft10, Energieversorgung und Entsorgung11 zwischen 2020 und 2037 Klimaschutzinvestitionen von rund 3,6 Milliarden Franken zur Erreichung des Netto-Null-Ziels notwendig sind. Das sind
+rund eine Milliarde Franken mehr als die Investitionen, die ohne die Klimastrategie anfallen würden.
+
+3.3
+
+Schlussfolgerung
+
+Die Unsicherheiten in den Klimaprognosen sind deutlich sichtbar. Unterschiedliche Annahmen,
+Systemgrenzen und wissenschaftliche Grundlagen und Modelle führen zu stark variierenden Ergebnissen. Diese Differenzen zeigen, wie unterschiedliche Kosteneinschätzungen je nach Datenlage und Annahmen entstehen können, sei es auf der konservativen Seite oder mit höheren Kosten
+im "Weiter-wie-bisher" Szenario. Der Vergleich mit anderen Studien unterstreicht diesen Punkt.
+Die Kostenschätzungen der Universität Basel liegen merklich unter den Werten von INFRAS und
+Egli Engineering (2015). Dies resultiert unter anderem aus neuerer Forschung zu Hitzetagen und
+einer detaillierteren Bewertung der Mortalität nach Altersgruppen. Hätte die Universität Basel den
+Ansatz von INFRAS und Egli Engineering (2015) übernommen (5 Millionen Franken pro Todesfall
+ohne Berücksichtigung des Alters), wären die sterbebedingten Kosten dreimal höher. Die Arbeitsproduktivitätskosten der Universität Basel sind ebenfalls niedriger, da aktuellere Studien verwendet
+wurden.
+Die Studie von Vöhringer et al. (2019) erlaubt einen weiteren Vergleich. Sie schätzt Verluste im
+Bruttoinlandsprodukt bei starkem und gemässigtem Klimawandel bis 2060 auf 0,18-0,41 % beziehungsweise 0,08-0,25 %. Ebenso beziffert sie Wohlfahrtsverluste für die Schweiz auf
+3,5-8,8 Milliarden Franken pro Jahr bei starkem und 2,4-4,8 Milliarden Franken pro Jahr bei gemässigtem Klimawandel. Übertragen auf den Kanton Basel-Stadt (2060: 215'000 Einwohnerinnen
+
+8 Mobilität
+9 Gebäude
+10 Wirtschaft
+11 Energieversorgung und Entsorgung
+
+Seite 7/8
+
+Regierungsrat des Kantons Basel-Stadt
+
+und Einwohner von 10'600'000 in der Schweiz) ergeben sich Mehrkosten von 23-79 Millionen Franken pro Jahr beziehungsweise 37-59 Millionen Franken pro Jahr basierend auf dem Bruttoinlandsprodukt. Die Berechnungen der Universität Basel stimmen weitgehend mit Vöhringer et al. überein,
+trotz unberücksichtigter indirekter Effekte.
+Die Kostenschätzungen der Universität Basel sind auf ausgewählte Kostenaspekte fokussiert und
+stellen konservative Untergrenzen dar. Die verschiedenen Herangehensweisen und Ergebnisse
+verdeutlichen, dass je nach Annahmen und Datenlage konservative Werte oder höhere Kosten im
+"Weiter-wie-bisher" Szenario resultieren können. Inmitten dieser Unterschiede bleibt ein weitgehender Konsens bestehen: Die zukünftigen Klimakosten des Nichthandelns (z. B. stärkere Hitzebelastung, mehr Extremwetterereignisse, Biodiversitätsverlust etc.) sind erheblich höher als die
+Kosten eines entschlossenen Klimaschutzes. Allerdings kann Basel-Stadt allein den Klimawandel
+und dessen Folgen und Kosten nicht aufhalten. Als wirtschaftlich stärkere Region trägt Basel-Stadt
+eine besondere Verantwortung. Es ist angezeigt, dass Basel-Stadt eine Vorreiterrolle übernimmt
+und seine Emissionen rasch reduziert.
+Im Sinne der Generationengerechtigkeit und allgemein der Klimagerechtigkeit ist deshalb eine
+möglichst rasche und wirksame Umsetzung von Massnahmen zentral. Werden heute die direkten
+Kosten des Klimaschutzes gescheut, müssen umso höhere Folgekosten von zukünftigen Generationen getragen werden und deren Risiken durch die vielfältigen negativen Auswirkungen des Klimawandels steigen. Dazu gehören auch die bereits erwähnten indirekten Kosten (Migrationskosten, Ressourcenkonflikte, dauerhafte Preisverschiebungen auf den internationalen Märkten etc.)
+sowie systemische Risiken, die bisher nicht quantitativ erfasst werden konnten, aber die Dringlichkeit des Themas noch einmal verdeutlichen.
+
+4.
+
+Antrag
+
+Aufgrund dieses Berichts beantragen wir, den Anzug der Spezialkommission Klimaschutz betreffend «Folgekosten des Klimawandels in einem “Weiter-wie-bisher“-Szenario» abzuschreiben.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Lukas Engelberger
+Vizepräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Seite 8/8
+
+

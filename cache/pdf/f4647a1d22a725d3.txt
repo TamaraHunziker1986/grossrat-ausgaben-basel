@@ -1,0 +1,311 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+24.5466.02
+
+BVD/P245466
+Basel, 23. September 2026
+Regierungsratsbeschluss vom 22. September 2026
+
+Anzug Nicole Strahm-Lavanchy und Konsorten betreffend «die Bewirtschaftung öffentlich zugänglicher Ladeinfrastruktur für E-Nutzfahrzeuge»
+Der Grosse Rat hat an seiner Sitzung vom 19. Dezember 2024 den nachstehenden Anzug
+Nicole Strahm-Lavanchy und Konsorten dem Regierungsrat zum Bericht überwiesen:
+«Die Dekarbonisierung des motorisierten Individual-Verkehrs ist ein zentrales Element der Klimapolitik des Kantons Basel-Stadt und wird unter anderem durch die Bereitstellung eines ausreichenden
+Angebots an Ladestationen unterstützt. In diesem Zusammenhang hat der Regierungsrat auch ein
+bedingt rückzahlbares Darlehen zur Finanzierung von 200 öffentlich zugänglichen Ladestationen auf
+der Allmend gewährt. Ein Teil dieser öffentlich zugänglichen Ladestationen auf der Allmend ist bereits in Betrieb, der Rest soll in den nächsten Jahren folgen. Daten zur Belegung der Ladestationen
+ergeben indes, dass die Ladestationen je nach Ort und Zeit nicht ausgelastet sind.
+Die Einführung batterieelektrischer Nutzfahrzeuge ist ein wichtiger Schritt zur Reduzierung der Umweltauswirkungen im Wirtschaftsverkehr. Für den Markthochlauf batterieelektrischer Nutzfahrzeuge
+bedarf es jedoch einer ausreichenden und zuverlässigen Ladeinfrastruktur, die den unterschiedlichen
+Nutzungsszenarien im Wirtschaftsverkehr gerecht wird. Dabei ist ausschlaggebend, dass die Anforderungen der Nutzer im Mittelpunkt der Überlegungen zur Ausgestaltung der Ladeinfrastruktur stehen. Dies ist Grundvoraussetzung für die Integration und Verbreitung entsprechender E-Nutzfahrzeuge.
+Der Einsatz alternativer Antriebstechnologien muss im Vergleich zu konventionell betriebenen Fahrzeugen kostenmässig wettbewerbsfähig sein. Zur Gewährleistung eines möglichst hohen Nutzungsgrades ist daher für Unternehmen die Integration des Ladevorganges in den Betriebsprozess und in
+die Betriebszeiten unerlässlich. Hierbei können Unternehmen einerseits die Standzeit des Fahrzeuges ausserhalb der Betriebszeiten zum Laden nutzen; andererseits Zwischenladungen in den betrieblichen Prozess integrieren, sofern der Ladevorgang ausserhalb der Betriebszeit zur Erbringung der
+benötigten Tagesfahrleistung nicht ausreicht.
+Zwischenladungen sind insbesondere auch im Rahmen der Stand- und Wartezeiten möglich, die bei
+der Erbringung von Dienstleistungen, beim Be- und Entladen oder beim Umschlag entstehen. Hierzu
+sind Unternehmen indes auf die Verfügbarkeit von Ladestationen im öffentlichen Strassenraum angewiesen. Vor dem Hintergrund, dass die Verfügbarkeit der Lade-Infrastruktur je nach Standort und
+Nachfrage variiert, erscheint es erforderlich, dass Unternehmen im Voraus planen und gegebenenfalls Reservierungen vornehmen können, um sicherzustellen, dass während der Stand- und Wartezeiten der Zugang zu einer Ladestation und hiermit die Integration des Ladevorganges in den Betriebsprozess möglich ist.
+
+Publiziert am 25. September 2026 auf: grosserrat.bs.ch
+
+Seite 1/7
+
+Regierungsrat des Kantons Basel-Stadt
+
+Der Regierungsrat wird vor dem Hintergrund gebeten, zu prüfen und berichten:
+- welche Massnahmen ergriffen werden können, um das Laden von Elektro-Gewerbefahrzeugen
+auf Allmend grundsätzlich zu erleichtern und den Gewerbetreibenden gleichzeitig das Suchen
+nach einer freien öffentlichen zugänglichen Ladestation für ihr elektrisch betriebenes Gewerbefahrzeug zu ersparen;
+- ob die Einführung eines virtuellen Buchungssystems möglich ist, mit dem Unternehmen im Voraus
+die Parkfelder mit Ladesäulen für den gewünschten Zeitraum reservieren bzw. die Belegung der
+Parkfelder einsehen können;
+- wie die Gewerbetreibenden an Werktagen zu Betriebszeiten (07.00 - 17.00 Uhr) von einem Vorrang der öffentlich zugänglichen Ladeinfrastruktur profitieren können;
+- ob die genehmigte Lade- und Parkdauer bei öffentlich zugänglichen Ladeinfrastrukturen für Gewerbetreibende von drei auf vier Stunden ausgeweitet werden kann.
+Nicole Strahm-Lavanchy, Daniel Sägesser, Beat Braun, Daniel Hettich, Lisa Mathys, Pascal Messerli,
+Lukas Bollack, Raphael Fuhrer, Brigitte Kühne, Raffaela Hanauer, Semseddin Yilmaz, FranzXaver Leonhardt, Jean-Luc Perret»
+
+Wir berichten zu diesem Anzug wie folgt:
+
+1.
+
+Ausgangslage
+
+1.1
+
+Entwicklung Anteil Elektrofahrzeuge
+
+Per Ende Dezember 2025 waren im Kanton Basel-Stadt 60'687 Personenwagen zugelassen. Davon verfügten 3'257 über einen rein elektrischen Antrieb (5,4%). Bei den Lieferwagen war der Anteil
+Elektrofahrzeuge mit 6,6% leicht höher. Bei den Lastwagen lag der Elektrifizierungsgrad mit
+16,4% am höchsten. Die überraschend hohen Anteile bei den Last- und Lieferwagen sind auf die
+kantonale Fahrzeugflotte zurückzuführen, die bereits deutlich überdurchschnittlich elektrifiziert ist.
+Der aktuelle Fortschritt bei der Elektrifizierung der Fahrzeugflotte reicht eindeutig nicht, um bis 2037
+die gesetzten Ziele gemäss der Klimaschutzstrategie zu erreichen. Für weitere Angaben zum Stand
+der Elektrifizierung per Ende 2025 sei auf die Beantwortung der Schriftliche Anfrage Brigitte Kühne
+betreffend «Fortschritt bei der Elektrifizierung des MIV-Bestands» verwiesen (Schreiben 26.5024.02).
+Der Anteil Elektrofahrzeuge bei den Neuzulassungen in den ersten fünf Monaten 2026 liegt im
+Bereich der Vorjahre. Es ist keine Beschleunigung der Elektrifizierungsrate abzusehen.
+
+1.2
+
+Ladestationen im öffentlichen Raum
+
+Die IWB erstellt im Auftrag des Kantons 200 öffentliche Ladestationen mit je zwei Parkplätzen im
+öffentlichen Strassenraum (400 Ladepunkte). Hiervon sind aktuell bereits 152 in Betrieb (Stand
+Juni 2026). Der Ausbau wird wie geplant per Ende 2026 abgeschlossen sein, wobei mögliche Einsprachen dazu führen können, dass einzelne Standorte erst 2027 fertig gestellt werden.
+Dieser Ausbau geht bewusst dem effektiven Bedarf voraus. Zurzeit sind die Ladestationen durchschnittlich ca. fünf Stunden pro Tag belegt. Die Auslastung liegt damit bei rund 20%. Die insgesamt
+über alle Ladestationen verzeichnete Anzahl Ladevorgänge und die abgesetzte Menge Strom ist
+zunehmend. Bei der gegenwärtigen Entwicklung der Anzahl Elektrofahrzeuge werden die 200 Ladestationen den Bedarf in den nächsten Jahren aber abdecken können.
+
+Seite 2/7
+
+Regierungsrat des Kantons Basel-Stadt
+
+1.3
+
+Fördermöglichkeiten Elektrofahrzeuge
+
+Der Kanton hat seit 2019 mit dem Programm «Wirtschaft unter Strom» den Kauf gewerblich genutzter Elektrofahrzeuge mit insgesamt rund 3,4 Mio. Franken unterstützt. Bis 2022 erfolgte die
+Finanzierung aus dem Energieförderfonds, von 2023-2026 aus dem Mobilitätsfonds.
+Das Programm «Wirtschaft unter Strom» läuft zurzeit aus. Die zur Verfügung stehenden Gelder
+sind vollständig reserviert, die letzten Auszahlungen dürften etwa per Ende 2026 erfolgen.
+Als Nachfolgelösung können Unternehmen seit Frühling 2026 beim Basler Standortpaket im Förderbereich Umwelt Finanzierungsbeiträge für den Kauf von Elektrofahrzeugen beantragen. Der Ersatz bestehender Verbrennerfahrzeuge durch Elektrofahrzeuge wird in der Regel mit 40% des
+Kaufpreises unterstützt. Der Beitrag liegt damit höher als beim Programm «Wirtschaft unter Strom»,
+das in der Regel eine Subvention von 20% ermöglicht hat.
+
+1.4
+
+Parkierungsmöglichkeiten für das Gewerbe
+
+1.4.1
+
+Gewerbeparkkarte
+
+Unternehmen, die an wechselnden Standorten schweres Arbeitsmaterial oder Werkzeuge brauchen, können eine Gewerbeparkkarte beantragen. Eine solche Parkkarte gewährt weitreichende
+Privilegien beim Parkieren. So darf ein Fahrzeug mit einer Gewerbeparkkarte nicht nur in der
+Blauen Zone sowie auf gebührenpflichtigen Parkplätzen mit mindestens 90 Minuten Parkdauer parkiert werden. Auch Parkverbotsfelder (Güterumschlagsfelder) oder andere Flächen im Parkverbot
+dürfen für bis zu vier Stunden genutzt werden. Voraussetzung hierfür ist, dass das Fahrzeug für
+den Arbeitseinsatz benötigt wird und dass es nicht verkehrsbehindernd abgestellt wird.
+Die Gewerbeparkkarte kostet 200 Franken pro Jahr und ist damit deutlich günstiger als eine Anwohnerinnen- und Anwohnerparkkarteoder eine Pendlerinnen- und Pendlerparkkarte. Die Anzahl
+verkaufter Gewerbeparkkarten nimmt seit Jahren deutlich zu. So gab es per Stichtag 31. Dezember 2016 noch 6'830 gültige Gewerbeparkkarten, per 31. Dezember 2025 waren es bereits
+10'636 (+56%).
+1.4.2
+
+Temporäres Parkverbot («Umzüge»)
+
+Analog zu Privatpersonen haben auch Unternehmen die Möglichkeit, temporäre Parkverbote bei
+der Kantonspolizei zu bestellen. Grundsätzlich dienen diese Parkverbote dazu, Flächen für Umzugsfirmen zu reservieren. Die Parkverbote können aber auch bei grossen Materiallieferungen
+(z.B. Möbel, Pellets), für Kurzbaustellen oder für das Stellen einer Mulde angefordert werden.
+In der Regel gelten die temporären Parkverbote für einen Tag. In begründeten Fällen sind aber bis
+zu drei Tage möglich. Die Parkverbotsschilder kosten 5 Franken pro Stück. Falls die Schilder durch
+die Polizei aufgestellt und wieder abgeräumt werden, kommt eine Gebühr von 50 Franken dazu.
+1.4.3
+
+Baustelleninstallation
+
+Für längere Baustelleninstallationen besteht die Möglichkeit, eine Allmendnutzungsbewilligung zu
+beantragen. Kleinere kurzzeitige Baustelleninstallationen sind dabei kostenlos und lediglich meldepflichtig. Für grössere Bauinstallationen oder solche, die länger als 20 Tage bestehen bleiben,
+braucht es ein Gesuch und es fallen Allmendnutzungsgebühren an.
+Bauinstallationen sind grundsätzlich nicht für das Parkieren von Autos gedacht. Fahrzeuge, welche
+für die Baustelle absolut zwingend sind, wie z.B. Werkstattwagen, sind aber innerhalb der Bauinstallationsfläche toleriert.
+
+Seite 3/7
+
+Regierungsrat des Kantons Basel-Stadt
+
+2.
+
+Umsetzungsmöglichkeiten
+
+2.1
+
+Reservation Ladestationen für Gewerbefahrzeuge
+
+Eine Reservationsmöglichkeit für Ladestationen wäre technisch grundsätzlich möglich. Dafür
+müssten entsprechende Schnittstellen entwickelt sowie Anpassungen an der bestehenden Software vorgenommen werden.
+Auf vertiefte Abklärungen hierzu wurde aber verzichtet, da der Regierungsrat eine Reservationsmöglichkeit der Ladestationen nur für Gewerbefahrzeuge aus folgenden Gründen ablehnt:
+
+
+
+
+
+
+
+
+
+
+
+
+Die öffentlichen Ladestationen sind erst mässig ausgelastet (im Mittel ca. ein Ladevorgang/Tag, durchschnittlich 20% der Zeit ist ein Ladepunkt belegt). Bei zwei Ladepunkten
+pro Ladesäule ist meist einer frei. Eine Reservationsmöglichkeit ist deshalb aus heutiger
+Sicht nicht notwendig.
+Allgemein wird in der E-Mobilitätsbranche von Reservationen von Ladeplätzen abgeraten,
+da diese hinsichtlich einer effizienten Nutzung der Ladeinfrastruktur nachtteilig sein können.
+Reservierbare Ladeplätze stehen erfahrungsgemäss öfter leer, etwa wenn Nutzende eine
+Reservation tätigen, diese aber verfallen lassen oder vor/nach dem eigentlichen Ladevorgang einen Puffer einplanen, zu dem die Station dann ebenfalls nicht verfügbar ist. Dies gilt
+speziell für öffentliche Schnellladestationen.
+In der Nacht stehen Gewerbefahrzeuge in der Regel still und können gut auf einem Privatparkplatz geladen werden. Das genügt in der Regel für ein baselstädtisches Fahrzeug. Ein
+Nachladen tagsüber ist nur in Ausnahmefällen notwendig.
+Parkplätze sollen grundsätzlich aus dem städtischen Strassenraum weg auf Privatareal verlagert werden. Eine Reservationsmöglichkeit im Strassenraum würde dieser Parkierungspolitik zuwiderlaufen.
+Sollten die öffentlichen Stationen in Zukunft deutlich stärker ausgelastet sein, wäre eine
+generelle Reservationsmöglichkeit zu prüfen. Eine Reservationsmöglichkeit, die nur dem
+Gewerbe zur Verfügung steht und die andere Fahrzeuge ausschliesst führt zu einer ineffizienten Nutzung. Die reservierten Zeitfenster, die nicht benutzt werden, könnten nicht durch
+andere Fahrzeuge aufgefüllt werden. Es käme zu Leerständen.
+Der Kauf von E-Gewerbefahrzeugen wurde bisher über die Aktion «Wirtschaft unter Strom»
+finanziell unterstützt. Seit 2026 können Unternehmen über das Basler Standortpaket, Förderbereich Umwelt, auch Beiträge an die Beschaffung von E-Fahrzeugen beantragen (vgl.
+Kap. 1.3). Diese direkte Förderung der E-Mobilität hält der Regierungsrat für effektiver als
+die indirekte Förderung nur über Ladestationen.
+Die Einrichtung privater Ladestationen wird subventioniert. Der Kanton finanziert bis 2030
+bis zu 60% der Kosten der Grundinstallation einer Ladestation mit. Damit wird das Gewerbe
+unterstützt, private Ladestationen zu erstellen.
+
+Eine Förderung der E-Mobilität des Gewerbes über eine Reservationsmöglichkeit auf öffentlichen
+Ladestationen ist deshalb weder notwendig noch zielführend.
+
+2.2
+
+Reservierungsmöglichkeiten Parkplätze für Gewerbefahrzeuge
+
+Alternativ hat der Regierungsrat geprüft, ob es zweckmässig ist, eine neue Kategorie von Parkplätzen zu schaffen, und zwar solche, die von Gewerbefahrzeugen reserviert werden können. Die Abklärungen haben ergeben, dass ein pragmatisches System entsprechend den folgenden Rahmenbedingungen theoretisch machbar wäre:
+
+Seite 4/7
+
+Regierungsrat des Kantons Basel-Stadt
+
+
+
+
+
+
+
+Um Parkplätze für eine spezifische Nutzungsgruppe reservieren zu können, muss ein öffentliches Interesse vorliegen. Der Regierungsrat geht davon aus, dass sich aus den einschlägigen Gesetzesbestimmungen1 ein solches überwiegendes öffentliches Interesse
+nachweisen lässt. Bei allfälligen Einsprachen müssten aber die Gerichte entscheiden.
+Die technische Umsetzung der Anzeige vor Ort wäre einfach – ohne elektronische Lösung
+– möglich, würde aber den Austausch der Blechsignale bedingen (neues Signal «Parkverbot, Ausnahme mit Reservation»).
+Die technische Umsetzung der Reservationsmöglichkeit an sich könnte über die ParkSmartApp erfolgen. Der Aufwand für die Implementation wäre verhältnismässig gross, auch wenn
+für einen allfälligen Pilotversuch auf gewisse Funktionalitäten verzichtet würde.
+Die Reservationsmöglichkeit müsste über eine Anpassung der Parkraumbewirtschaftungsverordnung rechtlich geregelt werden. Dabei müssten insbesondere der Kreis der Berechtigten und die notwendigen Gebühren festgelegt werden.
+
+Aus folgenden Gründen verzichtet der Regierungsrat auf die Schaffung von reservierbaren Gewerbeparkfeldern:
+
+
+
+
+
+3.
+
+Es bestehen Zweifel, ob die Nachfrage nach einer Reservationsmöglichkeit und die Zahlungsbereitschaft für Reservationsgebühren beim Gewerbe gross genug wären. Eine vorzeitige Reservation scheitert oft an der fehlenden Vorhersehbarkeit der Einsätze, eine kurzzeitige Reservation bringt nur noch geringe Vorteile gegenüber der direkten
+Parkplatzsuche.
+Das Abschleppen eines fälschlicherweise auf einem reservierten Parkplatz abgestellten
+Fahrzeuges wäre unverhältnismässig. Die Reservation könnte deshalb polizeilich nicht
+wirksam durchgesetzt werden.
+Die Zweckmässigkeit einer Reservationsmöglichkeit könnte nur mit einem Pilotversuch geprüft werden. Ein solcher Pilotversuch würde 200'000 bis 300'000 Franken kosten (AppKosten, Projektleitung, Wirkungskontrolle, Markierung/Signalisation). Das hält der Regierungsrat für zu teuer, im Verhältnis zu den eher mässigen Erfolgsaussichten.
+
+Laufende Optimierungen für das Parkieren von Gewerbefahrzeugen
+
+Das Amt für Mobilität hat in einem Konzept für Be- und Entladezonen festgelegt, dass grundsätzlich
+in 50 m Distanz von jedem Hauseingang eine Möglichkeit für den Güterumschlag mit einem Motorfahrzeug bestehen soll. Die im Rahmen des Konzepts durchgeführte Analyse zeigte, dass dies in
+vielen Teilen der Stadt bereits heute der Fall ist und nur wenige Lücken bestehen. Diese Lücken
+werden fortlaufend analysiert und wo möglich neue Angebote geschaffen. Dafür werden beispielsweise geeignete Flächen erkennbar als Güterumschlagsmöglichkeiten ausgewiesen (mit Signalen
+und/oder Markierungen) oder Blaue Parkplätze in Parkverbotsfelder umgewandelt, auf denen
+nachts weiterhin ein Parkieren durch die Anwohnenden zugelassen wird.
+Gemeinsam mit dem Gewerbeverband hat das Amt für Mobilität auch festgestellt, dass viele Besitzer und Besitzerinnen von Gewerbeparkkarten gar nicht genau wissen, welche Parkierungsprivilegien damit verbunden sind. Das Amt für Mobilität wird deshalb die entsprechenden Regeln einfach
+verständlich aufbereiten und gemeinsam mit dem Gewerbeverband über geeignete Kanäle an die
+direktbetroffenen Unternehmen bzw. an deren Angestellte im Verlauf von 2027 kommunizieren.
+
+1
+
+§§ 29 und 30 Kantonsverfassung sowie § 16 Abs. 2 Umweltschutzgesetz.
+
+Seite 5/7
+
+Regierungsrat des Kantons Basel-Stadt
+
+4.
+1.
+
+Beantwortung der Fragen
+welche Massnahmen ergriffen werden können, um das Laden von Elektro-Gewerbefahrzeugen auf Allmend grundsätzlich zu erleichtern und den Gewerbetreibenden gleichzeitig das
+Suchen nach einer freien öffentlichen zugänglichen Ladestation für ihr elektrisch betriebenes
+Gewerbefahrzeug zu ersparen;
+
+Die öffentlichen Ladestationen stehen grundsätzlich allen Elektrofahrzeugen offen. Die Auslastung
+der Stationen ist aktuell noch so gering, dass ein Reservationssystem nicht notwendig ist. Die
+Chance, dass an einer gewünschten Ladestation mindestens noch einer der beiden Ladepunkte
+verfügbar ist, ist jederzeit hoch.
+Sollte die Auslastung in Zukunft, wie erwartet, deutlich zunehmen, führte ein Reservationssystem
+für eine kleine Benutzergruppe zu einem ineffizienten Betrieb. Es bestünde die Gefahr, dass reservierte Ladepunkte frei bleiben und für andere Nutzungen zu wenig Angebote übrigbleiben.
+2.
+
+ob die Einführung eines virtuellen Buchungssystems möglich ist, mit dem Unternehmen im
+Voraus die Parkfelder mit Ladesäulen für den gewünschten Zeitraum reservieren bzw. die
+Belegung der Parkfelder einsehen können;
+
+Ein virtuelles Buchungssystem, z.B. über die entsprechend weiterentwickelte ParkSmart-App, wäre
+theoretisch möglich. Damit könnten auch die reservierten Zeitfenster angezeigt werden. Aufwändig
+wäre hingegen, die effektive Belegung durch Fahrzeuge zu zeigen und die Reservation polizeilich
+durchzusetzen (vgl. Kap. 2.2). Ebenfalls aufwändig wäre, die Reservationen am Parkfeld oder auf
+der Ladestation zu zeigen. Dies wäre aber notwendig, um vorreservierte und ad hoc-Nutzungen zu
+kombinieren. Ansonsten wissen die ad hoc-Nutzenden nicht, wann die nächste Reservation vorliegt
+und sie den Parkplatz bzw. die Ladestation wieder freigeben müssen.
+3.
+
+wie die Gewerbetreibenden an Werktagen zu Betriebszeiten (07.00 - 17.00 Uhr) von einem
+Vorrang der öffentlich zugänglichen Ladeinfrastruktur profitieren können;
+
+Eine Bevorrechtigung müsste für eine klar definierbare Fahrzeuggruppe gelten. Es wäre z.B. denkbar, als Abgrenzungsmerkmal den Besitz einer Gewerbeparkkarte heranzuziehen.
+Eine ausschliessliche Benutzung durch Gewerbefahrzeuge in einem definierten Zeitfenster würde
+die private Nutzung übermässig und unnötig einschränken. Dem könnte entgegengewirkt werden,
+indem eine Reservation z.B. bis zwei Tage im Voraus erfolgen muss, und nicht reservierte Zeiten
+dann wieder der Allgemeinheit zur Verfügung stehen. Eine solche reduzierte Reservationsmöglichkeit würde dem Gewerbe aufgrund der fehlenden Vorhersehbarkeit der Einsätze nur geringe Vorteile bringen. Zudem bedingt ein gemischtes System (Gewerbe mit Reservation, Private mit ad hocNutzung) eine Anzeige der Reservationen auf dem Parkfeld bzw. auf der Ladestation (vgl. Frage 2).
+4.
+
+ob die genehmigte Lade- und Parkdauer bei öffentlich zugänglichen Ladeinfrastrukturen für
+Gewerbetreibende von drei auf vier Stunden ausgeweitet werden kann.
+
+Die zulässige maximale Ladedauer wurde auf die Bedürfnisse eines normalen Ladevorgangs ausgelegt. Eine Ausweitung der Zeitdauer würde die Nutzbarkeit der Ladestation einschränken: mit
+der heutigen Regelung sind tagsüber (8-19 Uhr) vier Ladevorgänge à drei Stunden möglich. Bei
+einer Ausweitung der zulässigen Ladezeit auf vier Stunden wären theoretisch nur noch drei Ladevorgänge möglich.
+
+Seite 6/7
+
+Regierungsrat des Kantons Basel-Stadt
+
+5.
+
+Antrag
+
+Aufgrund dieses Berichts beantragen wir, den Anzug Nicole Strahm-Lavanchy und Konsorten betreffend «die Bewirtschaftung öffentlich zugänglicher Ladeinfrastruktur für E-Nutzfahrzeuge»
+abzuschreiben.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Dr. Conradin Cramer
+Regierungspräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Seite 7/7
+
+

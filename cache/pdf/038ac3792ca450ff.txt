@@ -1,0 +1,529 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+24.5398.02
+
+ED/P245398
+Basel, 19. Februar 2025
+Regierungsratsbeschluss vom 18. Februar 2025
+
+Motion Nicole Kuster und Konsorten betreffend «Unterstützung der
+Schulen und der Lehrpersonen bei der Anwendung von KI-Systemen in der Bildung»; Stellungnahme
+Der Grosse Rat hat an seiner Sitzung vom 20. November 2024 die nachstehende Motion
+Nicole Kuster und Konsorten dem Regierungsrat zur Stellungnahme überwiesen:
+«Mit Blick auf die Bedeutung, welche der Künstlichen Intelligenz (KI) künftig in der Arbeitswelt, der
+Gesellschaft, der Forschung und der Kultur zukommen wird, ist es unerlässlich, dass sich auch die
+Schulen damit befassen. Es muss dabei um mehr gehen als zu erkennen, ob Arbeiten mit unerlaubter
+maschineller Hilfe verfasst worden sind.
+Für die Schulen müssen adäquate KI-Systeme zur Verfügung stehen, die pädagogisch ideal und sinnvoll genutzt werden können. Dabei gilt es, wichtige Grundsätze zu berücksichtigen wie Wissenschaftlichkeit, Chancengerechtigkeit, Belassung der pädagogischen Autonomie bei den Lehrpersonen, Unterstützung der Lehrperson und nicht etwa deren Ersatz etc. Der Dachverband der Lehrerinnen und
+Lehrer Schweiz, LCH, hat dazu bereits wertvolle Unterlagen geschaffen, welche die Politik berücksichtigen muss.
+Eine unerlässliche Massnahme ist die Ermöglichung von Aus- und Weiterbildung der Lehrpersonen.
+Sie müssen über entsprechendes Fachwissen verfügen, um diesen technologischen Fortschritt zur
+Unterstützung des Lernens einzusetzen.
+Zusätzlich muss sichergestellt werden, dass in der Grundausbildung an der Pädagogischen Hochschule der FHNW Kompetenzen in KI vermittelt werden.
+Die Unterzeichnenden fordern:
+1. Für die Volksschule, die weiterführenden Schulen und die Berufsschulen die zeitnahe Einführung
+von Aus- und Weiterbildungsmodulen für alle Lehrkräfte,
+2. die Bereitstellung von KI-Systemen für alle Schulstufen,
+3. die Auftragserteilung der Regierungen der Trägerkantone der FHNW an die Pädagogische Hochschule der FHNW, die Grundausbildung, um Module der KI zu erweitern oder in den bestehenden
+Fächer systematisch zu verankern.
+Nicole Kuster, Catherine Alioth, Michael Hug, Philip Karger, Lukas Faesch, Gabriel Nigon, Raoul I.
+Furlano, Nicole Strahm-Lavanchy, Annina von Falkenstein, Olivier Battaglia, Adrian Iselin,
+Daniel Hettich»
+
+Wir nehmen zu dieser Motion wie folgt Stellung:
+
+Den Mitgliedern des Grossen Rates des Kantons Basel-Stadt zugestellt am 21. Februar 2025.
+
+Seite 1/9
+
+Regierungsrat des Kantons Basel-Stadt
+
+1.
+
+Zur rechtlichen Zulässigkeit der Motion
+
+1.1
+
+Grundlagen des Motionsrechts
+
+Mit einer Motion kann der Grosse Rat den Regierungsrat verpflichten, eine Verfassungs- oder Gesetzesvorlage oder eine Vorlage für einen Grossratsbeschluss vorzulegen (§ 42 Abs. 1 des Gesetzes über die Geschäftsordnung des Grossen Rates vom 29. Juni 2006 [GO; SG 152.100]) oder
+eine Massnahme zu ergreifen (§ 42 Abs. 1bis GO). Der Grosse Rat kann dem Regierungsrat also
+sowohl in seinem eigenen Zuständigkeitsbereich als auch im Zuständigkeitsbereich des Regierungsrats Aufträge erteilen.
+Das Recht setzt dem Grossen Rat bezüglich Motionsbegehren allerdings auch Schranken, die in
+der Gewaltenteilung, im Gesetzmässigkeits-, im Föderalismus- und im Demokratieprinzip gründen.
+So darf eine Motion nicht gegen höherrangiges Recht verstossen (wie Bundesrecht, interkantonales Recht oder kantonales Verfassungsrecht). Zudem ist gemäss § 42 Abs. 2 GO eine Motion unzulässig, die einwirken will auf
+ den verfassungsrechtlichen Zuständigkeitsbereich des Regierungsrats,
+ einen Einzelfallentscheid,
+ einen in gesetzlich geordnetem Verfahren zu treffenden Entscheid oder
+ einen Beschwerdeentscheid.
+
+1.2
+
+Motionsforderung
+
+Mit der vorliegenden Motion wird der Regierungsrat beauftragt,
+«1. Für die Volksschule, die weiterführenden Schulen und die Berufsschulen die zeitnahe Einführung von Aus- und Weiterbildungsmodulen für alle Lehrkräfte,
+2.
+die Bereitstellung von KI-Systemen für alle Schulstufen,
+3.
+die Auftragserteilung der Regierungen der Trägerkantone der FHNW an die Pädagogische
+Hochschule der FHNW, die Grundausbildung um Module der KI zu erweitern oder in den
+bestehenden Fächern systematisch zu verankern.»
+
+1.3
+
+Rechtliche Prüfung
+
+Forderung 1
+«Für die Volksschule, die weiterführenden Schulen und die Berufsschulen die zeitnahe Einführung von Ausund Weiterbildungsmodulen für alle Lehrkräfte»
+
+Die Motion verlangt die Einführung von KI-Modulen für Lehrkräfte an Volksschulen, den weiterführenden Schulen und den Berufsschulen. Die Forderung bezieht sich einerseits auf die Ausbildung
+und andererseits auf die Weiterbildung von Lehrkräften im Bereich der KI.
+Gemäss § 147 des Schulgesetzes vom 4. April 1929 (SG 410.100) sorgt der Kanton dafür, dass
+Lehr- und Fachpersonen sowie Schulleitungen die zur Erfüllung ihres Auftrags notwendige Unterstützung erhalten, wozu insbesondere auch die Weiterbildung gehört. Die Weiterbildung von Lehrpersonen wird heute durch unterschiedliche Angebote sichergestellt. So finden Weiterbildungen im
+Bereich KI bspw. schulintern, kantonal oder im Rahmen des bikantonalen, kursorischen Weiterbildungsprogramms statt. Die Motion schreibt keine konkrete Umsetzung der Forderung vor, sondern
+es wird der Prüfung des Regierungsrates anheimgestellt, wie die Forderung umgesetzt werden
+kann. Insbesondere wird die Entscheidung darüber, von wem diese Weiterbildungen durchgeführt
+und in welchem Format sie angeboten werden, dem Regierungsrat überlassen. Diese Weiterbildungen haben – im Gegensatz zur Ausbildung zur Lehrperson – nicht zwingend an der Pädagogischen Hochschule der Fachhochschule Nordwestschweiz (PH FHNW) zu erfolgen. Derzeit werden
+schulinterne und berufsbegleitende Weiterbildungen, Referate, Workshops, Veranstaltungen und
+Beratungen von verschiedenen Stellen durchgeführt.
+
+Seite 2/9
+
+Regierungsrat des Kantons Basel-Stadt
+
+Es spricht kein höherrangiges Recht wie Bundesrecht oder kantonales Verfassungsrecht gegen die
+Motionsforderung. Zudem verlangt die Motion nicht etwas, was sich auf den verfassungsrechtlichen
+Zuständigkeitsbereich des Regierungsrates, auf einen Einzelfallentscheid, auf einen in gesetzlich
+geordnetem Verfahren zu treffenden Entscheid oder einen Beschwerdeentscheid bezieht.
+Soweit sich die Forderung auf die Weiterbildung bereits ausgebildeter Lehrpersonen im Beriech
+der KI bezieht, ist sie rechtlich zulässig.
+Die Ausbildung von Lehrkräften im Kanton Basel-Stadt erfolgt an der Pädagogischen Hochschule
+der Fachhochschule Nordwestschweiz (PH FHNW). Die vorliegende Motion fordert die Einführung
+von Ausbildungsmodulen für alle Lehrkräfte im Bereich KI. Rechtliche Grundlage der Fachhochschule Nordwestschweiz (FHNW) bildet der Vertrag zwischen den Kantonen Aargau, Basel-Landschaft, Basel-Stadt und Solothurn über die Fachhochschule Nordwestschweiz (FHNW) vom 9. November 2004 (SG 428.100; FHNW-Vertrag). Die FHNW ist eine interkantonale öffentlich-rechtliche
+Anstalt mit eigener Rechtspersönlichkeit und mit dem Recht auf Selbstverwaltung im Rahmen des
+Vertrags und des Leistungsauftrags (§ 1 Abs. 2 FHNW-Vertrag). Gemäss diesem interkantonalen
+Staatsvertrag wird der mehrjährige Leistungsauftrag von den Regierungen der vier Vertragskantone beschlossen, wobei der Leistungsauftrag nur zustande kommt, wenn ihm alle vier Regierungen zustimmen (§ 17 Abs. 1 lit. b und Abs. 2 FHNW-Vertrag). In der Folge obliegt den Parlamenten
+der Vertragskantone im Rahmen der Oberaufsicht über die FHNW die Genehmigung des Leistungsauftrags, wobei alle Parlamente der Genehmigung zustimmen müssen (§ 15 Abs. 1 lit. a und
+Abs. 2 FHNW-Vertrag). Verantwortlich für die Umsetzung des mehrjährigen Leistungsauftrags ist
+der von den vier Regierungen gemeinsam gewählte Fachhochschulrat (§§ 17 Abs. 1 lit. d,
+21 Abs. 1, 22 Abs. 1 lit. a FHNW-Vertrag). Der Leistungsauftrag kann allfällige besondere kantonale
+Vorgaben für den Fachbereich Pädagogik vorsehen (§ 6 Abs. 2 lit. f FHNW-Vertrag).
+Der Inhalt des Leistungsauftrags an die FHNW – und somit auch die Ausbildungsmodule der Ausbildung zur Lehrperson – kann gemäss Staatsvertrag nur gemeinsam mit den Regierungen der
+anderen Trägerkantone festgelegt werden. Die Motionsforderung liegt damit weder vollständig im
+Kompetenzbereich des Grossen Rats (§ 42 Abs. 1 GO) noch in dem des Regierungsrates des
+Kantons Basel-Stadt (§ 42 Abs. 1bis GO) und kann deshalb nicht Gegenstand einer Motion sein.
+Folglich ist die Motionsforderung in Bezug auf die Einführung eines KI-Moduls in der Ausbildung
+zur Lehrperson rechtlich unzulässig.
+Forderung 2
+«die Bereitstellung von KI-Systemen für alle Schulstufen»
+
+Die Motion fordert die Bereitstellung von KI-Systemen für alle Schulstufen und lässt insbesondere
+die Art, die Anforderungen, die Anwendungsfelder und Anwendungsfälle sowie die Auswahl der KI
+offen. Der Entscheid darüber, wie diese Forderung umgesetzt werden soll, wird dem Regierungsrat
+überlassen.
+Die Motion verlangt nicht etwas, was sich auf den verfassungsrechtlichen Zuständigkeitsbereich
+des Regierungsrates, auf einen Einzelfallentscheid, auf einen in gesetzlich geordnetem Verfahren
+zu treffenden Entscheid oder einen Beschwerdeentscheid bezieht. Es spricht auch kein höherrangiges Recht wie Bundesrecht oder kantonales Verfassungsrecht gegen den Motionsinhalt.
+Diese Motionsforderung ist rechtlich zulässig.
+Forderung 3
+«die Auftragserteilung der Regierungen der Trägerkantone der FHNW an die Pädagogische Hochschule der
+FHNW, die Grundausbildung um Module der KI zu erweitern oder in den bestehenden Fächern systematisch
+zu verankern»
+
+Die Motion fordert vom Regierungsrat die Sicherstellung eines bestimmten Inhalts des Leistungsauftrags an die FHNW (vgl. Rechtsgrundlagen der FHNW oben Forderung 1). Gegenstand einer
+
+Seite 3/9
+
+Regierungsrat des Kantons Basel-Stadt
+
+Motion können nur Forderungen sein, welche in der Zuständigkeit des Grossen Rates oder des
+Regierungsrates liegen (vgl. § 42 Abs. 1 und 1 bis GO). Der Inhalt des Leistungsauftrags an die
+FHNW und damit auch die Auftragserteilung kann gemäss Staatsvertrag nur gemeinsam mit den
+Regierungen der anderen Trägerkantone festgelegt werden.
+Die Motionsforderung liegt damit weder vollständig im Kompetenzbereich des Grossen Rats
+(§ 42 Abs. 1 GO) noch in dem des Regierungsrates (§ 42 Abs. 1bis GO) und kann deshalb nicht
+Gegenstand einer Motion sein. Folglich ist diese Motionsforderung rechtlich unzulässig.
+
+1.4
+
+Schlussfolgerung
+
+Diese Motion ist in Teilen nicht mit § 42 Abs. 1 und Abs. 1bis GO vereinbar und ist deshalb als
+rechtlich teilweise zulässig anzusehen.
+
+2.
+
+Ausgangslage
+
+2.1
+
+Generell
+
+Der Regierungsrat misst der Digitalisierung im Bildungswesen einen hohen Stellenwert bei, dies
+zeigt sich nicht zuletzt in den bereits getätigten Investitionen für eine gute und stabile IT-Infrastruktur an den Basler Schulen. Die konstante Weiterentwicklung und immer tiefere Verknüpfung von
+digitalen Anwendungen in allen Aspekten der Gesellschaft erfordert, dass die Bildungsvermittlung
+an den Schulen diese Entwicklungen aufgreift und sich die Lehrpersonen laufend mit dieser Thematik beschäftigen. Dies gilt auch für das Thema Künstliche Intelligenz (KI). Die Auseinandersetzung mit den Chancen und Risiken der KI für den Bildungsbereich ist bereits heute Teil der Ausbildung an der Pädagogischen Hochschule der FHNW (PH FHNW) und der Weiterbildung der
+Lehrpersonen im Kanton.
+Für die Schulen der Sekundarstufe I und Sekundarstufe II bestehen zudem FAQ zum Umgang mit
+KI, welche an die Lehrpersonen und Schulleitungen adressiert sind. Grundsätzlich soll an den
+Schulen des Kantons Basel-Stadt kein Verbot von KI-Anwendungen ausgesprochen werden, sondern der sinnvolle, kritische und praxisnahe Umgang mit derartigen Systemen gelernt werden. Die
+FAQ für die Mittelschulen werden zudem von einer Arbeitsgruppe aus Berufsfachschullehrpersonen unter Berücksichtigung der Situation und der Bedürfnisse der Lernenden für die Berufsfachschulen angepasst. Dem Einsatz von KI im Rahmen von Abschlussarbeiten an den Mittelschulen
+wird Rechnung getragen, in dem die schulinternen Leitfäden dazu auf das Schuljahr 2023/2024 um
+einen Passus zur Zitierweise von KI erweitert, die Bewertungsmodalitäten angepasst und die Maturitätsprüfungsverordnung entsprechend angepasst wurden.
+2.1.1
+
+Motionsforderungen
+
+Die Motionärinnen und Motionäre möchten das Thema KI an den Schulen mit drei konkreten Forderungen umsetzen. Im Folgenden wird einzeln auf die Forderungen eingegangen.
+2.1.2
+
+Aus- und Weiterbildungsmodule für Lehrkräfte
+
+An den Schulen des Kantons Basel-Stadt und für Lehrpersonen aller Stufen finden bereits zahlreiche Weiterbildungen zum Thema KI statt – einerseits explizit (KI als Hauptthema), andererseits
+relativ zu anderen Thematiken (KI als Option wird im Rahmen des eigentlichen Themas behandelt,
+z. B. in Weiterbildungen zum Thema «Feedback»). Weiterbildungen, in denen KI als Option behandelt wird, können an dieser Stelle nicht spezifisch ausgewiesen werden.
+Grundsätzlich finden Lehrpersonen berufsbegleitende Weiterbildungen im bikantonalen, kursorischen Weiterbildungsprogramm, das durch das Pädagogische Zentrum Basel-Stadt (PZ.BS) und
+
+Seite 4/9
+
+Regierungsrat des Kantons Basel-Stadt
+
+das Amt für Volksschulen Basel-Landschaft angeboten wird. Schulinterne Weiterbildungen im Rahmen von Schulentwicklungsvorhaben finden direkt an den teilautonomen Schulen statt. Ergänzend
+dazu werden im Rahmen von Veranstaltungen, kantonal oder schulintern, aktuelle Themen aufgenommen. Lehrpersonen erhalten so die Gelegenheit, sich vertieft damit auseinanderzusetzen und
+sich darüber auszutauschen. Auch fach- oder themenspezifische Beratungen können in Anspruch
+genommen werden.
+Im Jahr 2023 haben folgende Weiterbildungen, Veranstaltungen und Beratungen explizit zum
+Thema KI stattgefunden:
+Typ
+Thema
+Stufe
+Teilnehmende
+Schulinterne Weiterbil- Einführung in die Funktionsweise von KI- Sek II
+14
+dung
+Sprachmodellen und in die Anwendung
+von ChatGPT
+Berufsbegleitende
+Eine schlaue Sache? - Künstliche Intelli- Alle Stu- 13
+Weiterbildung BS
+genz als Unterrichtsthema
+fen
+Berufsbegleitende
+DeepL, ChatGPT & Co. - Konsequenzen Sek I und 19
+Weiterbildung BS
+für den Fremdsprachenunterricht
+Sek II
+Berufsbegleitende
+ChatGPT: Wie funktioniert es und was hat Sek II
+40
+Weiterbildung BS
+es für Folgen für die Schule?
+Veranstaltung
+Netzwerkstatt Fremdsprachen zu maschi- Sek II
+43
+nellen Übersetzungstools und KI-Chatbots
+Für das Jahr 2024 können folgende Weiterbildungen, Veranstaltungen und Beratungen explizit zum
+Thema KI ausgewiesen werden.
+Typ
+Thema
+Stufe
+Schulinternes Referat KI und Prompting kennenlernen
+Sek I
+Schulinternes Referat KI und Bildung
+Sek I
+Schulinternes Referat KI und Schreibprozess
+Sek I
+Schulinternes Referat KI und mögliche Nutzung im Unterricht
+Sek I
+Schulinterner
+Work- KI im Unterricht - Einsatzmöglichkeiten
+Sek I
+shop
+Schulinterner
+Work- KI im Deutschunterricht - praktische Bei- Sek I
+shop
+spiele
+Schulinterner
+Work- KI
+Sek I
+shop
+Schulinterner
+Work- KI und mögliche Nutzung im Unterricht
+PSt
+shop
+Schulinterne Weiterbil- Weiterbildung KI
+Sek I
+dung
+Schulinterne Weiterbil- KI im Fremdsprachenunterricht
+Sek I
+dung
+Schulinterne Weiterbil- ChatGPT: ein neuer Stern am Bildungs- Sek II
+dung
+himmel
+Schulinterne Weiterbil- KI und Maturaarbeiten: Workshop für Sek II
+dung
+Schülerinnen und Schüler (MAA-Büro)
+Schulinterne Weiterbil- KI und Maturaarbeiten: Weiterbildung für Sek II
+dung
+Lehrpersonen (PICTS-Angebot)
+Schulinterne Weiterbil- KI im und um den Unterricht
+PSt
+dung
+Schulinterne Weiterbil- Das KI-Paradox
+Sek II
+dung
+
+Teilnehmende
+80
+80
+12
+80
+10
+20
+80
+12
+30
+24
+60
+10
+10
+14
+150
+
+Seite 5/9
+
+Regierungsrat des Kantons Basel-Stadt
+
+Berufsbegleitende
+Weiterbildung BS
+Berufsbegleitende
+Weiterbildung BS
+Berufsbegleitende
+Weiterbildung BS
+Veranstaltung
+Beratung
+Beratung
+Beratung
+
+Character Animation mit KI-Tools
+
+Sek I und 7
+Sek II
+Eine schlaue Sache? – Künstliche Intelli- Alle
+10
+genz als Unterrichtsthema
+Stufen
+DeepL, ChatGPT & Co. - Konsequenzen Sek I und 20
+für den Fremdsprachenunterricht
+Sek II
+Netzwerkstatt «Was hat KI für Auswirkun- Sek II
+101
+gen auf das Lernen und Prüfen?»
+3D Druck und KI
+Sek I
+2
+KI und Nutzung im Unterricht
+Sek I
+2
+KI und Nutzungsweisen
+Sek I
+3
+
+Für das erste Halbjahr 2025 sind zudem derzeit folgende Weiterbildungen, Veranstaltungen und
+Beratungen zum Thema geplant:
+Typ
+Veranstaltung
+Veranstaltung
+Schulinternes Referat
+Berufsbegleitende
+Weiterbildung
+Berufsbegleitende
+Weiterbildung
+Berufsbegleitende
+Weiterbildung
+Berufsbegleitende
+Weiterbildung BS
+Berufsbegleitende
+Weiterbildung BS
+
+Thema
+Stufe
+Teilnehmende
+Veränderte Spielregeln: Die Welt in Zeiten Sek II
+ca. 500
+von KI – innerhalb und ausserhalb der
+Schule
+Tagung «KI mitgedacht»
+PSt und ca. 120
+Sek I
+KI
+Sek I
+offen
+Künstliche Intelligenz im Mathematikunter- Sek I und max. 20
+richt
+Sek II
+Character Animation mit KI-Tools
+Sek I und max. 20
+Sek II
+KI im Klassenzimmer: Chancen für Leh- Alle
+max. 16
+rende und Lernende
+Stufen
+Circle KI - gemeinsam Unterrichtsbau- PSt, Sek I offen
+steine entwickeln
+Umgang mit KI-Tools im Unterricht
+Sek I, Sek offen
+II
+
+Das Angebot wird zudem laufend nach Bedarf ergänzt.
+Prinzipiell ist zu beachten, dass diese Daten nur die strukturierten Weiterbildungen zum Thema im
+engeren Sinne darstellen. Beratungen unter Kolleginnen und Kollegen oder durch ICT-Betreuungspersonen und Pädagogische ICT-Supporterinnen und Supporter werden statistisch nicht erfasst,
+ebenso werden auch das kontinuierliche Ausprobieren und sich Weiterentwickeln im Rahmen der
+Unterrichtsvorbereitung nicht erfasst.
+2.1.3
+
+KI-Systeme an den Basler Schulen
+
+Aktuell läuft im Erziehungsdepartement ein Projekt zum Thema Nutzung von KI-Systemen an den
+Basler Schulen. Dieses läuft unter dem Arbeitstitel GovAI ED BS (Governance AI ED BS) und hat
+zwei Hauptziele:
+
+
+
+
+Erstellen einer generischen KI-Governance für das Erziehungsdepartement. Diese Richtlinie
+soll flexibel und unabhängig von einer spezifischen Anwendung auf unterschiedliche KI-Produkte und Entwicklungen anwendbar sein;
+Ein datenschutzkonformer Einsatz von Microsoft Copilot im eduBS Tenant und damit ein bewilligter Einsatz von Microsoft Copilot als KI-Anwendung an den Schulen im Kanton BaselStadt. Die Einführung für den Microsoft Copilot ist für August 2025 geplant.
+
+Seite 6/9
+
+Regierungsrat des Kantons Basel-Stadt
+
+Im Rahmen dieses Projekts müssen eine Reihe von Herausforderungen angegangen und offene
+Fragen geklärt werden. Microsoft Copilot ist ein in andere Produkte integrierter Service und kann
+beispielsweise in Office-Anwendungen (als Teil von Microsoft 365) oder über den Webbrowser
+(Edge/Bing) genutzt werden. Abhängig vom Nutzungsszenario fallen nicht nur unterschiedliche Lizenzgebühren an, sondern die KI verarbeitet je nach Szenario auch unterschiedliche personenbezogene Daten von Lehrpersonen sowie Schülerinnen und Schülern. Besondere Aufmerksamkeit
+muss daher der Einhaltung des Datenschutzgesetzes gewidmet werden. Da KI-Anwendungen wie
+Microsoft Copilot cloudbasiert sind, müssen zudem die spezifischen Datenschutzanforderungen für
+Cloud-Dienste gemäss den Bestimmungen der Konferenz der schweizerischen Datenschutzbeauftragten (privatim) berücksichtigt werden. Obwohl der Hersteller die gesetzeskonforme Nutzung von
+Copilot zusichert, ist dies für jedes Nutzungsszenario individuell zu prüfen. Darüber hinaus ist zu
+beachten, dass die Nutzung von KI-Anwendungen nicht nur datenschutzrechtliche Risiken birgt.
+So ist auch eine Reihe von weiterführenden Regelungen und Anforderungen zu berücksichtigen
+(z. B. urheberrechtliche Anforderungen). Da es in der Schweiz bislang keine einheitlichen Vorgaben
+für KI-Anwendungen gibt, muss im Rahmen dieses Projekts ein entsprechender Anforderungskatalog entwickelt werden. Die Compliance von Microsoft Copilot mit diesem Katalog wiederum, ist in
+einem zweiten Schritt sorgfältig zu prüfen.
+Die als ein Ergebnis dieses Projekts angestrebte KI-Governance soll zudem eine Reihe grundlegender Fragen klären. Diese umfassen allgemeine rechtliche Klärungen, die Entwicklung von Anforderungen, die Risikoanalyse, die Umsetzung risikosenkender Massnahmen sowie die kontinuierliche Identifikation und Bewältigung neuer Risiken. Wie bereits erwähnt, existieren in der
+Schweiz bislang keine einheitlichen und allgemeinen Vorgaben für eine KI-Governance, jedoch
+können z. B. die Erfahrungen und Standards der Europäischen Union (EU) als Orientierung dienen.
+Das Lernen eines altersgerechten und sinnvollen Einsatzes von KI-Anwendungen soll an den
+Schulen im Kanton Basel-Stadt im Unterricht integriert und gefördert werden, da KI für alle Aspekte
+unserer Gesellschaft immer wichtiger wird. Aus dieser Sicht ist es sinnvoll, dass an den Schulen
+des Kantons Basel-Stadt Microsoft Copilot als geprüfte und primäre KI-Anwendung zu Verfügung
+gestellt werden soll. So werden die Schülerinnen und Schüler an einer Anwendung geschult, welche sie später im Verlauf ihres weiteren Bildungs- und Berufslebens auch direkt wiederfinden werden. Zudem fallen mit jeder weiteren KI-Anwendung, die flächendeckend eingeführt werden soll,
+neue Lizenzgebühren an, die aktuell nicht im Budget des Erziehungsdepartements eingeplant sind.
+2.1.4
+
+Lehrpersonenausbildung im Bereich KI
+
+Digitalisierung und der Umgang mit KI sind an der PH FHNW sowohl in der Aus-, als auch in der
+Weiterbildung fest verankert und bereits heute Bestandteil unterschiedlicher Module der Ausbildung und der Weiterbildung. An der PH FHNW gibt es an den Instituten Primarstufe sowie Sekundarstufe I und II – jeweils eine Professur, die sich mit der Förderung der informatischen Bildung
+befasst: die Professur für Informatische Bildung und die Professur für Didaktik der Informatik und
+Medienbildung. Medien, Informatik und der Einsatz digitaler Medien sind Inhalte des Unterrichts –
+als Werkzeuge zeitgemässen Lernens und Lehrens dienen digitale Medien der Individualisierung
+und Kompetenzerweiterung im Sinne der Future Skills. Zudem werden Neustudierende in einer
+Einführungsveranstaltung sowie über eine Selbstlernumgebung in den Bereichen Medienkompetenz, Medienbildung und Mediennutzung geschult, um ihre Grundkompetenzen in diesem Bereich
+zu erweitern und sie für das Studium fit zu machen.
+Auch das Studienangebot der PH FHNW spiegelt diesen Fokus wider. Im Jahr 2024 wurden über
+170 Lehrveranstaltungen angeboten, die sich mit Digitalität und digitaler Bildung als Haupt- oder
+Nebenschwerpunkt beschäftigten (z. B. von Fachwissenschaft Räume, Zeiten, Gesellschaften,
+über Medien und Informatik bis hin zu übergreifenden Modulen zu digitalen Kompetenzen). So
+befassen sich beispielsweise Studierende im Modul Fachwissenschaft Informatik mit zentralen
+Konzepten der Informatik: Kreativität, Datenstrukturen, Algorithmen, Programmieren, Computersysteme, Netzwerke und eben auch Künstliche Intelligenz. Im Modul Fachdidaktik Informatik liegt
+
+Seite 7/9
+
+Regierungsrat des Kantons Basel-Stadt
+
+der Schwerpunkt auf der Auswahl von Inhalten für den Informatikunterricht. Aus einer Vielzahl von
+Themen können die Studierenden deren Eignung im schulischen Kontext reflektieren und erwerben
+Kenntnisse über exemplarische Unterrichtssequenzen aus verschiedenen Bereichen wie Algorithmik, Datenbanken, Robotik und KI. Auch existiert ein Modul, welches sich ganz dem Thema KI
+verschrieben hat (Fragestellungen, grundlegende Technologien, gesellschaftliche Implikationen,
+Anwendung im schulischen Kontext auf unterschiedliche Fächer).
+KI ist ein Querschnitts-Thema in vielen Modulen, da hier viele Bezüge zu unterschiedlichen Schulfächern hergestellt werden können, so z. B. in der Erprobung und Entwicklung von Unterrichtsmaterialien, Fachwissenschaft Bildnerisches Gestalten, Fachwissenschaft Wirtschaft und Recht,
+Fachwissenschaft Wirtschaft, Arbeit, Haushalt, Fachdidaktik Pädagogik und Psychologie. Im Modul
+Forschungsatelier wird der Fokus unter anderem darauf gelegt, welche didaktischen Potentiale digitale Medien beim Forschenden Lernen bieten, um allen Schülerinnen und Schüler eine chancengleiche Teilnahme am Unterricht zu gewährleisten. Im Modul Gesellschaft und Kultur bearbeiten
+die Studierenden Fragestellungen, die sich mit der Vernetzung des Digitalen mit dem Analogen
+beim kindlichen Lernen beschäftigen. Weiterhin werden digitale Elemente als erfahrbare Bestandteile analoger spielerischer Lernumgebungen und digital-analoger kultureller Praktiken konzeptualisiert, wie z. B. die ‘Programmierung‘ von Problemlöseschritten in alltäglichen Settings oder die
+Erfahr-, Mach- und Prüfbarkeit von Bildern und Texten. In diesem Zusammenhang sollen neben
+KI, Programmierkompetenzen und Games auch Medienkompetenzen sowie damit verbundene Kulturtechniken thematisiert werden. Das Modul E-Kindheiten vermittelt den Studierenden verschiedene wissenschaftliche Perspektiven auf Lernen, Spielen, Sozialisation und das Selbstbild im digitalen Zeitalter.
+Seit 2019 setzen sich die von der PH FHNW konzipierten Weiterbildungen für Lehrpersonen aktiv
+mit Themen rund um KI auseinander. Bereits die Veranstaltung KommSchau 2019 widmete sich
+diesem zukunftsweisenden Bereich. In den letzten zwei Jahren wurden Angebote gezielt erweitert,
+etwa im Rahmen von CAS-Programmen, der Lehrplan- und Profilentwicklung oder durch kursorische Angebote, die um KI-Themen ergänzt wurden. Folgende Angebote wurden beispielsweise in
+den letzten zwei Jahren lanciert (nicht abschliessende Aufzählung):
+
+
+
+
+
+
+
+
+KI für Schulleitungen
+Grundlagen KI
+Gestalten mit KI
+Maschinelles Lernen als Unterrichtsgegenstand
+Sprachförderung mit KI
+Prüfungskultur im Zeitalter KI
+Zukunftswerkstatt KI
+
+Auch schulinterne Weiterbildungen und Beratungsdienstleistungen werden bedarfsgerecht auf die
+Anforderungen von Schulen und deren Entwicklungsprozesse zugeschnitten. Die Angebote setzen
+auf den Einsatz aktueller Tools, die didaktisch, fachlich und zyklusadäquat im Unterricht eingesetzt
+werden und selbstverständlich werden die Teilnehmenden auf Aspekte des Datenschutzes sensibilisiert. In jedem Setting wird auf eine reflektierte Haltung zur digitalen Transformation Wert gelegt.
+Ziel ist es, Lehrpersonen nicht nur technologisch, sondern auch pädagogisch und ethisch fundiert
+für die digitale Bildungswelt zu stärken. Die Angebote im Bereich KI werden zudem stetig weiterentwickelt, neu z. B. zum Datenschutz oder Ethik.
+
+3.
+
+Fazit
+
+Die obigen Ausführungen zeigen, dass der Regierungsrat die Wichtigkeit des Themas KI und deren
+Anwendung im schulischen Kontext erkannt hat und ein laufender Prozess stattfindet, um einen
+rechtskonformen sowie praxisorientierten Umgang mit KI an den Basler Schulen zu gewährleisten.
+
+Seite 8/9
+
+Regierungsrat des Kantons Basel-Stadt
+
+So ist das Thema KI und die damit verbundenen Herausforderungen und Fragen bereits heute Teil
+der Ausbildung der Lehrpersonen und findet ebenfalls einen prominenten Platz in der kontinuierlichen Weiterbildung dieser. Zudem ist das Erziehungsdepartement mit dem Projekt GovAI ED BS
+daran, die Grundlagen für, einerseits eine rechtskonforme Einführung der KI-Anwendung Microsoft
+Copilot für die Schulen des Kantons und andererseits eine generische Governance für KI-Systeme
+im Allgemeinen zu schaffen. Diese Arbeiten werden in engem Austausch mit dem Statistischen Amt
+vorangetrieben, welches das Thema KI gesamtkantonal koordiniert. Aus diesem Grund beantragt
+der Regierungsrat die vorliegende Motion als Anzug zu überweisen. Der Regierungsrat wird im
+Rahmen der Beantwortung eines Anzugs über den Fortschritt der diversen laufenden Arbeiten zu
+diesem Thema und über allfällige weitere anzustrebende Massnahmen wieder berichten.
+
+4.
+
+Antrag
+
+Auf Grund dieser Stellungnahme beantragen wir, die Motion Nicole Kuster und Konsorten betreffend «Unterstützung der Schulen und der Lehrpersonen bei der Anwendung von KI-Systemen in
+der Bildung» als Anzug zu überweisen.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Dr. Conradin Cramer
+Regierungspräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Seite 9/9
+
+

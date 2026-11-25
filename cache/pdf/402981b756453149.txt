@@ -1,0 +1,311 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+21.5580.02
+
+ED/P215580
+Basel, 8. November 2023
+Regierungsratsbeschluss vom 7. November 2023
+
+Anzug Olivier Battaglia und Beat von Wartburg betreffend Digitalisierung der Bildungsvermittlung auf allen Stufen
+Der Grosse Rat hat an seiner Sitzung vom 17. November 2021 den nachstehenden Anzug Oliver
+Battaglia und Beat von Wartburg dem Regierungsrat überwiesen:
+«Die Covid-19-Krise hat gezeigt, wie wichtig die Vermittlung von Lerninhalten auf digitalem Weg ist.
+Nicht für alle Schul- und übrigen Bildungsstufen standen von Anfang der Krise an die benötigten geeigneten Verfahren und Geräte für alle Schülerinnen und Schüler und Lernenden bereit. Und nicht
+alle Lehrerinnen und Lehrer waren optimal auf diese Krisensituation vorbereitet. Insbesondere der
+Fernunterrichthat Defizite aufgezeigt, die sich negativ auf die Bildungslaufbahn auswirken können.Die
+angestrebte Chancengerechtigkeit hat gelitten. Die Erkenntnisse aus der Krise –auf welche wir alle
+ungenügend vorbereitet waren - müssen nun genutzt werden, um rasch Verbesserungen zu erreichen. Die Digitalisierung des Bildungswesens für die Volksschule, die weiterführenden Schulen und
+die Berufsbildung sowie für die Ausbildung der Lehrerinnen und Lehrer muss jetzt umgesetzt werden.
+Mit der Einführung einer digitalen Bildungskultur kann das Bildungswesen Defiziteausgleichen und den
+Rückstand gegenüber der Entwicklung der Wirtschaft verringern.
+Mit der Pädagogischen Hochschule der FHNW verfügen die Nordwestschweizer Kantone über eine
+Bildungsinstitution für Lehrkräfte. Daher ist es leicht möglich, Neuerungen rasch einzuführen. Wenn
+die Lehrerinnen und Lehrer besser vertrautsind mit digitaler Wissensvermittlung, ist viel gewonnen.
+Die Unterzeichneten bitten den Regierungsrat zu prüfen und zu berichten:
+
+1. Ob und wie die digitale Bildungsvermittlung in technischer und didaktischer Hinsicht in die Lehrpläne der Pädagogischen Hochschule der FHNW aufgenommen werden kann.
+
+2. Ob Weiterbildungsgänge für die Lehrpersonen zur Befähigung der digitalenBildungsvermittlung angeboten werden können.
+
+3. Ob zeitnah digitale Bildungsinhalte wie Programmierkenntnisse, Digital Literacy und algorithmische
+Kompetenzen stufengerecht in die Lehrpläne der Volksschule, der weiterführenden Schulen und
+der Berufsschulen aufgenommen werden können.
+
+4. Welche Verbesserungen im Hinblick auf künftige Notwendigkeiten von Fernunterricht bei einem
+unterprivilegierten Teil der Bevölkerung (fehlende Computer, ungünstige Raumsituation etc.) erfolgen müssen.
+
+5. Wie die Finanzierung dieser zusätzlichen Bildungsleistungen erfolgen kann.
+Olivier Battaglia, Beat von Wartburg»
+
+Wir berichten zu diesem Anzug wie folgt:
+
+Den Mitgliedern des Grossen Rates des Kantons Basel-Stadt zugestellt am 10. November 2023.
+
+Seite 1/7
+
+Regierungsrat des Kantons Basel-Stadt
+
+1.
+
+Ausgangslage
+
+Der Regierungsrat misst der Digitalisierung im Bildungswesens auf allen Schulstufen eine hohe
+Bedeutung zu und hat daher entsprechende Massnahmen ergriffen. Wie die Anzugsteller korrekt
+feststellen, hat die Corona-Pandemie sowohl die Möglichkeiten als auch die Herausforderungen
+des digitalen Unterrichts an den Schulen nochmals in fokussierter Form aufgezeigt.
+Bereits vor der Pandemie hat der Regierungsrat die Grundlagen dafür geschaffen, dass an den
+Basler Schulen die Digitalisierung forciert und die Informatikinfrastruktur ausgebaut wird. Der
+Grosse Rat hat auf Antrag des Regierungsrates in den letzten Jahren mit den drei nachstehend
+aufgeführten Ratschlägen für die Digitalisierung auf allen Schulstufen Investitionen von gesamthaft
+über 30 Mio. Franken gutgeheissen:
+
+
+
+
+Ratschlag betreffend den Ausbau der Digitalisierung der Volksschulen und des Zentrums
+für Brückenangebote Basel-Stadt (P190314); Beschlussnummer 19/46/07G vom 13. November 2019;
+Ratschlag betreffend den Ausbau der Informatikinfrastruktur an den vollschulischen Angeboten der Sekundarstufe II Basel-Stadt (Gymnasien, Fachmaturitätsschule, Wirtschaftsmittelschule) (P181006); Beschlussnummer 19/12/11G vom 20. März 2019;
+Ratschlag betreffend den Ausbau der Informatikinfrastruktur an den Berufsfachschulen der
+Sekundarstufe II Basel-Stadt (Allgemeine Gewerbeschule Basel AGS, Berufsfachschule
+Basel BFS, Schule für Gestaltung SfG, Bildungszentrum Gesundheit Basel-Stadt BZG)
+(P200767); Beschlussnummer 21/2/21G vom 14. Januar 2021.
+
+Die Umsetzung dieser Vorhaben startete im Jahr 2019. Aktuelle Informationen zum Stand der Digitalisierung in der Volksschule finden sich im Zwischenbericht 2020/2021 zum Projekt «Ausbau
+Digitalisierung der Volksschulen und des Zentrums für Brückenangebote (ZBA)» vom
+15. März 2022. Eine Übersicht über die diversen Projekte rund um die Digitalisierung der Schulen
+bietet auch die Antwort des Regierungsrates zum Anzug Michela Seggiani und Konsorten betreffend zukunftsgerichtete, nachhaltige Investitionen in die digitale Transformation zur Stärkung des
+Wirtschaftssandorts nach der Corona-Krise (P205361). Ausserdem finden sich Informationen zur
+Thematik der Digitalisierung an den Schulen in der Antwort des Regierungsrates auf die Motion
+Sarah Wyss und Sandra Bothe betreffend Einführung eines wirklichen BYODs oder Systemwechsels vom 6. März 2023 (P205266).
+Sowohl für die Realisierung der drei oben genannten Digitalisierungs- und IT-Ratschläge für die
+Schulen Basel-Stadt, als auch für die Reorganisation und Zentralisierung der IT-Abteilung des Erziehungsdepartements wurden strategische Konzepte für die Schulen erarbeitet. Die Umsetzung
+auf Ebene der Schulen wurde in der Digitalisierungsstrategie des Erziehungsdepartementes von
+2019 konkretisiert. Diese basiert wiederum auf der am 21. Juni 2018 von der Schweizerischen
+Konferenz der kantonalen Erziehungsdirektoren (EDK) verabschiedeten nationalen Digitalisierungsstrategie für das Bildungswesen. Die kantonale Strategie bezieht sich zudem auf den Legislaturplan 2017 bis 2021 des Kantons Basel-Stadt mit dem Legislaturziel 3: «Der Kanton Basel-Stadt ist der Kern einer Wissensregion» und definiert fünf Aktionsfelder für die Schulen:
+
+
+
+
+
+
+Förderung der digitalen Kompetenzen der Schülerinnen und Schüler;
+Digitale Kompetenzen von Lehrpersonen;
+Digitale Infrastruktur;
+Entwicklung einer Schulkultur im Umgang mit der digitalen Entwicklung;
+Weiterführung und Förderung der kantonsübergreifenden Zusammenarbeit.
+
+Der Regierungsrat hat der Digitalisierung im Bildungswesen im aktuellen Legislaturplan 2021 bis
+2025 wiederum grosses Gewicht beigemessen: «Digitalisierung ist ein Schlüsselfaktor für die
+
+Seite 2/7
+
+Regierungsrat des Kantons Basel-Stadt
+
+Standortattraktivität und die Entwicklung des Kantons. Sie prägt den wirtschaftlichen Strukturwandel, ermöglicht neue Arbeitsmodelle und prägt die Anforderungen an Berufsqualifikationen. Die Digitalisierung bietet zugleich das Potenzial für diese Veränderungen.»
+
+1.1
+
+Stand der Digitalisierung an den baselstädtischen Schulen
+
+Die stetige Ausbreitung der Digitalisierung in allen Bereichen der Arbeits- und Lebenswelt erfordert,
+dass die Bildungsvermittlung an den Schulen diese Entwicklung aufgreift und bedingt von allen
+Lehrpersonen eine laufende Auseinandersetzung mit dieser Thematik. So ist die Auseinandersetzung mit den Herausforderungen und Chancen der Digitalisierung Teil der Lehrpersonenausbildung an der Pädagogischen Hochschule FHNW (PH FHNW). Dabei eignen sich die Lehrpersonen
+die nötigen Kompetenzen an, um die neuen technologischen Möglichkeiten konkret im Unterricht
+und pädagogisch gewinnbringend einzusetzen. Des Weiteren verpflichtet die im Berufsauftrag vorgesehene Weiterbildung die Lehrpersonen, sich individuell im Bereich der pädagogischen Fragen
+der Digitalisierung laufend fortzubilden.
+Digitalisierung alleine bringt jedoch per se eine Qualitätssteigerung des Unterrichtes mit sich. Nur
+weil ein Lernprozess digitalisiert ist, sind damit nicht automatisch die Chancen auf einen Lernerfolg
+von Schülerinnen und Schülern verbessert oder verschlechtert. Allgemein sind die im Unterricht
+eingesetzten Mittel – aktuell und zukünftig noch vermehrt digitale Anwendungen – in ihrer Wirkung
+stets von den gesellschaftlichen Erwartungen, den technischen Möglichkeiten des Mediums und
+dem konkreten methodischen (pädagogischen) Einsatz abhängig. Es ist nicht das Ziel des schulischen Lernprozesses, digitale Mittel um ihrer selbst willen einzusetzen, sondern digitale Technologien sind – wenn zielführend eingesetzt – ein bereits oft eingesetztes Mittel, um den Erwerb von
+Wissen zu gestalten.
+Bei der Digitalisierung im schulischen Bereich wird der Qualitätssicherung ein hoher Stellenwert
+zugeschrieben. So hat das Erziehungsdepartement gemeinsam mit der PH FHNW das Orientierungsraster «Schule in einer digitalen Welt» erarbeitet. Dieses Mittel wird in den Jahren 2024 bis
+2028 auch im Rahmen der Schulevaluationen der einzelnen Volksschulstandorte eingesetzt werden.
+Die Umsetzung des Projekts Digitalisierung in den Volksschulen, gemäss dem eingangs erwähnten
+Ratschlag, verläuft planmässig. So werden bis im Schuljahr 2023/24 alle Schülerinnen und Schüler
+ab der 5. Klasse der Primarschule bis zur 2. Klasse der Sekundarschule mit einem persönlichen
+Endgerät ausgestattet sein. 2024/25 steht die Erneuerung der Poolgeräte für die Schülerinnen und
+Schüler der 1. bis 4. Klassen der Primarschule an. Die Ausstattung der Schulräume mit der entsprechenden Technik (Beamer, Lautsprecher und Anschlusstechnik) verläuft ebenfalls planmässig.
+Die Ausrüstung aller Schülerinnen und Schüler des Zentrums für Brückenangebote (ZBA) mit einem persönlichen Endgerät erfolgte bereits im Schuljahr 2022/23. Diejenigen Schülerinnen und
+Schüler, die nicht direkt im Anschluss an die Volksschule einen weiteren schulischen oder beruflichen Weg finden konnten, erhalten so eine Chance auf einen Einstieg in die berufliche Grundbildung. Das Gesamtprojekt «Ausbau Digitalisierung der Volksschulen und des ZBA» wird Ende 2024
+abgeschlossen. Der Projektteil zur Weiterbildung/Schulentwicklung wurde bereits Mitte 2023 abgeschlossen. So haben über mehrere Jahre im sogenannten Zwei- respektive Dreitageblock (den
+obligatorischen Weiterbildungstagen der Lehrpersonen) die Lehrpersonen des Kantons ein grosses Angebot von Weiterbildungen zum Thema Digitalisierung besucht. An den Schulstandorten
+wurde intern das nötige Wissen und die entsprechenden Beratungs- und Unterstützungskapazitäten (ICT-Betreuungsperson) aufgebaut.
+Die Informatikinfrastruktur der fünf Gymnasien und der Fachmaturitätsschule wurde in einem dreijährigen Projekt (2019 bis 2022) modernisiert und auf einen einheitlichen Stand gebracht. Die Schülerinnen und Schüler sowie Lehrpersonen können dank des IT-Projekts Mittelschulen mit persönlichen IT-Endgeräten (Bring Your Own Device,BYOD) auf ein leistungsfähiges und sicheres
+Netzwerk zugreifen, bezahlen, drucken und schulische Applikationen für den Unterricht nutzen. Im
+Seite 3/7
+
+Regierungsrat des Kantons Basel-Stadt
+
+Rahmen des IT-Projekts wurde an den Mittelschulen eine Vernetzungsgruppe nach Fachgremien
+gegründet, die sicherstellt, dass die Weiterbildungsangebote für Lehrpersonen deren Bedürfnissen
+entsprechen und laufend weiterentwickelt werden. Auch das Thema «Lernen und Prüfen in einer
+Kultur der Digitalität (LPKD)» wurde im Rahmen des Projekts intensiv bearbeitet. Im Frühjahr 2024
+werden die ersten Schulklassen an Basler Gymnasien und an der Fachmaturitätsschule (FMS)
+schriftliche Abschluss-/Maturprüfungen auf digitalem Weg absolvieren. Damit passen sich die Ab
+schluss-/Maturprüfungen dem Unterricht an, wo Schülerinnen und Schüler schon länger Notebooks
+nach dem BYOD-Prinzip einsetzen.
+Im IT-Projekt Berufsfachschulen (August 2021 bis Juli 2024) wird die IT-Infrastruktur der Berufsfachschulen (Allgemeine Gewerbeschule Basel AGS, Berufsfachschule Basel BFS Basel, Schule
+für Gestaltung Basel SfG) und des Bildungszentrums Gesundheit Basel-Stadt (BZG) sowie der
+assoziierten Lehrwerkstätten, der Plakatsammlung und der Bibliothek für Gestaltung modernisiert
+und auf einen einheitlichen Stand gebracht. In den ersten beiden Projektjahren wurden die technischen und personellen Voraussetzungen für die Übernahme der Betriebsverantwortung für die
+IT-Basisdienste durch die Abteilung Digitalisierung und Informatik (DIG-IT) geschaffen. Der Bedarf
+der Schulen nach Support vor Ort wurde erhoben und in einem Supportkonzept festgehalten. Die
+Schulen haben im Februar 2022 an der Befragung der Eidgenössischen Hochschule für Berufsbildung (EHB) «Digitale Kompetenzen von Berufsschullehrkräften» teilgenommen. Die Resultate aus
+der Standortbestimmung bilden die Datengrundlage für die Stufe drei des Weiterbildungskonzepts
+der Digitalen Medienwerkstatt der EHB. Das Weiterbildungskonzept betreffen IT für die Lehrpersonen der Berufsfachschulen wird über das Projekt hinaus konzipiert und in der Linie verankert.
+
+2.
+1.
+
+Zu den einzelnen Anliegen
+Ob und wie die digitale Bildungsvermittlung in technischer und didaktischer Hinsicht in die
+Lehrpläne der Pädagogischen Hochschule der FHNW aufgenommen werden kann.
+
+Seit dem Frühlingssemester 2022 gilt für die Studierenden der PH FHNW ein Notebook-Obligatorium. In einer Einführungsveranstaltung für Neustudierende werden diese in ihrem Grundkompetenzaufbau bezüglich Medienkompetenz, Medienbildung und Mediennutzung geschult. Für Studierende im Hauptstudium wird seit dem Herbstsemester 2022 eine medieninformatische
+Lehrveranstaltung ausgerichtet, in welcher die entsprechenden Kompetenzen vertieft werden, die
+für die Umsetzung der verschiedenen Studieninhalte im Berufsalltag notwendig sind.
+Sowohl das Institut Primarstufe wie auch das Institut Sekundarstufe I und II an der PH FHNW führen
+je eine Professur zur Stärkung der informatischen Bildung. Es handelt sich dabei um eine Professur
+für Informatische Bildung und eine Professur für Didaktik der Informatik und Medienbildung. Die
+inhaltlichen Ausrichtungen der beiden Professuren wiederspiegeln sich auch im Studienangebot
+der PH FHNW. Im Herbstsemester 2022 waren insgesamt 195 Lehrveranstaltungen in den Studiengängen der PH FHNW ausgeschrieben, die sich mit dem Thema Digitalität und digitale Bildung
+als Haupt- oder Nebenschwerpunkt auseinandersetzten.
+2.
+
+Ob Weiterbildungsgänge für die Lehrpersonen zur Befähigung der digitalen Bildungsvermittlung angeboten werden können.
+
+Am Pädagogischen Zentrum Basel (PZ.BS) werden im Zuge der Umsetzung der eingangs genannten Ratschläge seit 2021 zum Thema Digitalisierung zahlreiche Weiterbildungen angeboten, welche sich an Lehrpersonen richten. Darunter sind beispielsweise Schulungen zum Umgang mit dem
+eduBS-Book und zum Umgang mit diversen Tools (z.B. MS Teams, OneNote, Learning Management System ILIAS) sowie zum Unterrichten in einer digitalen Welt. Neben den Weiterbildungen,
+Seite 4/7
+
+Regierungsrat des Kantons Basel-Stadt
+
+die individuell besucht werden können, wurden für die Volks- und Mittelschulen auch Veranstaltungen im Rahmen der obligatorischen Weiterbildungstage am Zwei- respektive Dreitageblock angeboten. Diese Angebote werden von den Lehrpersonen rege wahrgenommen. Somit steht den Lehrpersonen aller Stufen rund um das Thema Digitalisierung – mit Fokus auf die Vermittlung von
+digitalen Bildungsinhalten und Kompetenzen – inzwischen eine breite Palette an Weiterbildungen
+zur Verfügung, welche vom PZ.BS angeboten und laufend aktualisiert wird.
+An der PH FHNW werden Digitalität und digitale Bildung in den unterschiedlichen Certificate of
+Advanced Studies (CAS)-Weiterbildungsprogrammen für bereits unterrichtende Lehrpersonen vermittelt, beispielsweise im CAS Schulleitung, CAS Schulentwicklung und pädagogisch-wirksame
+Schulführung oder CAS Digitale Transformation in der Schule.
+3.
+
+Ob zeitnah digitale Bildungsinhalte wie Programmierkenntnisse, Digital Literacy und algorithmische Kompetenzen stufengerecht in die Lehrpläne der Volksschule, der weiterführenden
+Schulen und der Berufsschulen aufgenommen werden können.
+
+Digitale Bildungsinhalte sind Teil des Lehrplans 21 (Modul «Medien und Informatik»). Die Vermittlung digitaler Grundlagen wurde an den Basler Schulen stufengerecht in diversen Formaten und
+Fächern eingeführt.
+In der Primarstufe wurde die Stundentafel im Bereich Medien und Informatik angepasst. So ist
+Medien und Informatik seit diesem Schuljahr als eigenes Fach in der 5. und 6. Klasse der Primarstufe eingeführt worden. Diese Anpassung wurde vom Bereich Volksschulen des Erziehungsdepartements unabhängig von den laufenden Arbeiten im Rahmen der Umsetzung der eingangs erwähnten Ratschläge realisiert.
+An den Schulen der Sekundarstufe II wurde Informatik aufsteigend ab Schuljahr 2020/21 eingeführt. Das Fach wird in zusätzlichen drei Lektionen durchgeführt (davon eine Lektion in Halbklassen) im ersten und zweiten Jahr des Gymnasiums. Aufgrund dieser Vorgaben haben Informatiklehrpersonen aller Gymnasien einen kantonalen Lehrplan Informatik erarbeitet, der vom
+Erziehungsrat genehmigt wurde.
+Parallel zur Einführung von Informatik an den Gymnasien wurde das Fach in Basel-Stadt auch an
+der Fachmaturitätsschule (FMS) ausgebaut, da vertiefte Kenntnisse in Informatik für alle Schülerinnen und Schüler der Mittelschulen unabdingbar sind, nicht nur für Schülerinnen und Schüler des
+Gymnasiums. Eineinhalb Lektionen Informatik des ersten Jahres waren bereits in der Stundentafel
+verankert. In der 2. Klasse wurden zwei Lektionen zusätzlicher Unterricht eingeführt. Durch den
+gleichzeitigen Einführungszeitpunkt an den Gymnasien und der Fachmaturitätsschule konnten Synergien genutzt werden, u.a. in der Zusammenarbeit der Fachschaften bei der Erarbeitung der
+Lehrpläne.
+Die Lehrpläne der Berufsfachschulen in den einzelnen Berufen bzw. Berufsfeldern bauen auf den
+Vorgaben der nationalen Bildungsverordnungen und Bildungspläne auf. Diese werden von den nationalen Bildungspartnern entwickelt und den Kantonen zur Kenntnisnahme vorgelegt. Letztere haben auf inhaltliche, zeitliche und konzeptionelle Aspekte keinen direkten Einfluss. Dafür achten die
+Kantone darauf, dass die Implementierung der Schullehrpläne mit den Ausbildungsprogrammen
+der betrieblichen und überbetrieblichen Ausbildung in den Ausbildungsbetrieben und den Zentren
+für überbetriebliche Kurse abgeglichen werden. Konkret bedeutet dies, dass den Berufsfachschulen von nationaler Seite her vorgegeben wird, zu welchem Zeitpunkt, in welchem Umfang und mit
+welcher Methodik der vorgegebene Stoff umzusetzen ist.
+Die Anpassung der jeweiligen Bildungsverordnungen und -pläne, welche periodisch alle 5 bis
+10 Jahre erfolgt, bezieht sich nicht nur auf Inhalte, sondern auch auf die Art, wie diese Inhalte
+vermittelt werden sollen. Die fortschreitende Digitalisierung fliesst hier einerseits in die traditionelle
+Seite 5/7
+
+Regierungsrat des Kantons Basel-Stadt
+
+Unterrichtsgestaltung vor Ort, andererseits auch in unterschiedliche Formen von «Blended Learnig» ein. Beides erfordert eine stetige Weiterentwicklung der Infrastruktur an den Schulen und eine
+permanente Weiterbildung der Lehrpersonen. Zu einer Grundbildung in Informatik gehören gemäss
+Rahmenlehrplan folgende Punkte: die Einführung in verschiedene Konzepte (Grundzüge von Programmiersprachen, wichtige technische Hintergründe von Computernetzwerken, Sicherheitsaspekte der digitalen Kommunikation usw.) und die Entwicklung eines fundierten Verständnisses für
+die Hintergründe einer Informationsgesellschaft.
+Mit dem Grundlagenfach Informatik ist somit am Gymnasium gesichert, dass alle Schülerinnen und
+Schüler Programmieren, algorithmische Kompetenzen und Digital Literacy erwerben. Die FMS BS
+orientiert sich bezüglich Inhalte und Stundendotation an den Gymnasien. An den Berufsfachschulen ist der Anteil an informatischer Bildung je nach Beruf unterschiedlich und zentral gesteuert. Die
+umgesetzte Einführung eines eigenen Fachs Medien und Informatik für die letzten zwei Jahre der
+Primarschule gewährleistet, dass die Schülerinnen und Schüler in der Primarschule die Grundlagen
+der digitalen Medienkompetenz/Mediennutzung erlenen und die Funktionsweisen von Hard- und
+Software einordnen können.
+4.
+
+Welche Verbesserungen im Hinblick auf künftige Notwendigkeiten von Fernunterricht bei einem unterprivilegierten Teil der Bevölkerung (fehlende Compu ter, ungünstige Raumsituation
+etc.) erfolgen müssen.
+
+Seit dem Schuljahr 2023/24 sind ab der 5. Klasse der Primarschule und bis zur 2. Klasse der Sekundarschule alle Schülerinnen und Schüler mit persönlichen Endgeräten ausgerüstet worden. Die
+Ausrüstung erfolgt dabei aufsteigend: Das heisst, die Abteilung Digitalisierung und Informatik des
+Erziehungsdepartements (DIG-IT) rüstet immer die 5. Klasse der Primastufe aus. Die Schülerinnen
+und Schüler behalten dann ihr persönliches Endgerät bis zum Ende der ersten Sekundarstufe. Im
+nächsten Schuljahr 2024/25 werden somit alle Schülerinnen und Schüler in Basel ab der 5. Klasse
+der Primarstufe mit einem persönlichen Endgerät ausgerüstet sein. Von dieser Massnahme profitieren insbesondere Kinder aus weniger privilegierten Haushalten, da die Ausgabe der Endgeräte
+für die Schülerinnen und Schüler kostenfrei erfolgt. Die Ausrüstung aller Schülerinnen und Schüler
+der ZBA mit einem persönlichen Endgerät erfolgte wie bereits geschildert im Schuljahr 2022/23.
+Für das Jahr 2024/25 ist die Erneuerung der Poolgeräte für die 1. bis 4. Klassen der Primarstufe
+geplant.
+An den Schulen der zweiten Sekundarstufe wurde in Basel-Stadt das BOYD-Prinzip eingeführt.
+Das Prinzip ist der wesentliche Unterschied zwischen Volksschule und Sekundarstufe II. Damit
+wurden private mobile Endgeräte wie Laptops, Tablets oder Smartphones in die Netzwerke der
+Schulen integriert. Eltern sind in der Schweiz gemäss dem Subsidiaritätsprinzip verpflichtet, im
+Rahmen des Zumutbaren für die Erstausbildung und den Unterhalt ihrer Kinder aufzukommen. Dies
+bedeutet, dass ab der Sekundarstufe II die Eltern grundsätzlich für eine Ausrüstung ihrer Kinder
+mit einem geeigneten Endgerät zuständig sind. Um zu verhindern, dass aufgrund der Anschaffung
+der Geräte finanzielle Schwierigkeiten für einkommensschwächere Familien entstehen, bietet die
+Kommission für Ausbildungsbeiträge für Schülerinnen und Schüler mit Wohnsitz in Basel-Stadt seit
+2020 neu die niederschwellige Möglichkeit von Unterstützungszahlungen durch den Stipendienfonds der Basler Schulen. Auf Antrag können 600 Franken an die Anschaffungskosten für Geräte
+geleistet werden. Die Gelder aus dem Stipendienfonds werden zusätzlich zu den regulären Stipendien gesprochen und können bei finanziellen Engpässen durch die Schulen vorfinanziert werden.
+Es besteht eine Nachfrage nach dem Angebot, die budgetierten Mittel sind ausreichend. In
+Basel-Stadt wurde des Weiteren für die Mittelschulen, deckungsgleich zu anderen Kantonen, ein
+Webshop eingerichtet, bei dem sich Geräte zwischen 1‘000 und 1‘500 Franken erwerben lassen.
+Eine Alternativlösung besteht für die Schülerinnen und Schüler welche die Sekundarstufe I in Basel-Stadt absolvieren haben. Diese können die in der Sekundarstufe I unentgeltlich erhaltenen Geräte weiterhin verwenden und sich zusätzlich ein Wacom Tablet für 100 Franken kaufen (um damit
+die vorausgesetzte Touchscreen-Fähigkeit zu erlangen).
+Seite 6/7
+
+Regierungsrat des Kantons Basel-Stadt
+
+5.
+
+Wie die Finanzierung dieser zusätzlichen Bildungsleistungen erfolgen kann.
+
+Die vom Regierungsrat mit den drei eingangs erwähnten Ratschlägen beantragte und vom Grossen Rat genehmigte Investitionssumme von über 30 Mio. Franken für die Digitalisierung der Basler Schulen zeigt, dass sich Regierung und Parlament der Wichtigkeit dieser Thematik bewusst
+sind und bereits angemessene Mittel zur Digitalisierung der Basler Schulen gesprochen haben. In
+diesen drei Ratschlägen wurden bereits auch die wiederkehrenden Kosten von über 5 Mio. Franken
+jährlich für den Erhalt der Infrastruktur, den laufenden Support usw. vorgesehen. Damit wurde seit
+2019 auf allen Schulstufen eine dem Bedarf entsprechende Grundinfrastruktur aufgebaut, die
+Schülerinnen und Schüler der Primar- und ersten Sekundarstufe mit Endgeräten ausgerüstet, auf
+der Sekundarstufe II das BOYD Prinzip umgesetzt und die dafür nötige Technik an den Schulen
+aktualisiert.
+
+3.
+
+Fazit
+
+Der Regierungsrat hält fest, dass der Grosse Rat auf Antrag des Regierungsrates mit der Genehmigung der drei Ratschläge zur Digitalisierung der baselstädtischen Schulen ein Investitionsvolumen von über 30 Mio. Franken für die Digitalisierung der Schulen in Basel-Stadt gutgeheissen hat.
+Die in den Ratschlägen vorgesehenen Massnahmen werden seit 2019 umgesetzt, laufend überprüft und weiterentwickelt. So wurde an den Basler Schulen die technische Grundinfrastruktur dem
+heutigen Bedarf entsprechend angepasst und ausgebaut. Des Weiteren wurden die Schülerinnen
+und Schüler ab der 5. Klasse der Primarschule und bis Ende der Sekundarstufe I (bis im Jahr 2024)
+mit geeigneten Endgeräten ausgerüstet und auf der Sekundarstufe II das Bring Your Own DevicePrinzip eingeführt. Parallel dazu wurde an der PH FHNW und am PZ.BS ein breites Aus- und Weiterbildungsangebot zum Thema Digitalisierung für angehende und bereits unterrichtende Lehrpersonen entwickelt und implementiert. Damit wurde auf der technischen Ebene die Grundlage für
+eine digitale Wissensvermittlung an den Schulen geschaffen und die Lehrpersonen werden an der
+PH FHNW und dem PZ.BS im Umgang mit digitalen Anwendungen geschult und auf der pädagogischen Ebene für den angemessenen Einsatz dieser Mittel sowie in der digitalen Wissensvermittlung aus- und weitergebildet.
+
+4.
+
+Antrag
+
+Aufgrund dieses Berichts beantragen wir, den Anzug Olivier Battaglia und Beat von Wartburg abzuschreiben.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Beat Jans
+Regierungspräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Seite 7/7
+
+

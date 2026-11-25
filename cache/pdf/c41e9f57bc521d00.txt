@@ -1,0 +1,134 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+22.5022.02
+
+JSD/P225022
+Basel, 13. Dezember 2023
+Regierungsratsbeschluss vom 12. Dezember 2023
+
+Anzug Beda Baumgartner und Konsorten betreffend kein Einsatz
+von biometrischen Erkennungssystemen in Basel-Stadt
+Der Grosse Rat hat an seiner Sitzung vom 23. März 2022 den nachstehenden Anzug Beda
+Baumgartner und Konsorten dem Regierungsrat zum Bericht überwiesen:
+«Die Diskussion rund um biometrische Erkennungssysteme wird weltweit aber auch in der Schweiz
+immer intensiver geführt. In Ländern wie China hat der Staat bereits eine sehr umfassende Infrastruktur aufgebaut, um beispielsweise die Gesichtserkennung massenhaft einsetzen zu können. Gewisse, für den Gesundheitsschutz temporär notwendige, Instrumente (bspw. Scans bei Eintritten in
+Läden) in der Covid-Pandemie befeuern auch in der Schweiz die Frage, warum solche Systeme
+nicht auch längerfristig einsetzbar sein sollen. Der Einsatz von biometrischen Erkennungssystemen
+zur Identifizierung von Personen im öffentlich zugänglichen Raum stellt jedoch eine Gefahr für die
+Grundrechte dar. Biometrische Erkennungssysteme werden dazu eingesetzt, Individuen anhand ihrer biometrischen Daten aus einer Menge von Menschen zu identifizieren oder zu überwachen, wobei sie als Referenz auf eine Datenbank zurückgreifen. Die häufigste Form sind Gesichtserkennungssysteme. Die Identifikation kann jedoch auch anhand anderer biometrischer Daten (wie Gang,
+Augen, Stimme) erfolgen. Der unterschiedslose Einsatz solcher Systeme im öffentlich zugänglichen
+Raum ermöglicht eine biometrische Massenüberwachung.
+Gesichtserkennungssysteme können oft diskriminierend wirken, da sich gezeigt hat, dass sie beispielsweise Menschen dunkler Hautfarbe oder Frauen weniger gut erkennen. Dies führt bei diesen
+Gruppen zu einer höheren Anzahl an falsch positiven Treffern - was, zum Beispiel im Strafverfolgungskontext, relevante Auswirkungen auf Personen haben kann. Grund dafür ist, dass die Daten,
+mit denen die Systeme trainiert wurden, nicht repräsentativ sind bzw. überproportional Daten von
+Menschen weisser Hautfarbe und Männern enthalten. Gleichzeitig ist es aber so, dass eine Verbesserung der technologischen Ebene die Problematik nicht beseitigt, weshalb ein Moratorium für die
+Anwendung solcher Systeme nicht ausreichend ist: Der Einsatz von biometrischen Erkennungssystemen im öffentlichen Raum ermöglicht eine undifferenzierte Massenüberwachung, die mit den
+Grundrechten in Konflikt steht. Wenn Menschen im öffentlichen Raum jederzeit identifiziert und
+überwacht werden können, verletzt dies nicht nur ihr Recht auf Privatsphäre und Datenschutz, sondern hat auch eine abschreckende Wirkung, die sie vom Wahrnehmen von Grundrechten wie der
+Meinungsäusserungs- oder Versammlungsfreiheit abhält. Der Einsatz dieser Systeme im öffentlichen
+Raum kann demnach per se nicht auf grundrechtskonforme Weise geschehen, sondern ist mit zentralen demokratisch garantierten Freiheiten inkompatibel.
+
+Den Mitgliedern des Grossen Rates des Kantons Basel-Stadt zugestellt am 15. Dezember 2023.
+
+Seite 1/3
+
+Regierungsrat des Kantons Basel-Stadt
+
+Als erste Stadt in den USA hat San Francisco 2019 den Einsatz von Gesichtserkennungstechnologien durch Behörden verboten. Auch das Europäische Parlament spricht sich gegen eine Massenüberwachung durch künstliche Intelligenz aus.1
+Darum wird der Regierungsrat gebeten zu prüfen und zu berichten,
+-
+
+wie sichergestellt werden kann, dass sämtliche kantonalen Organe (auch die Kantonspolizei) auf
+den Einsatz von biometrischen Überwachungssystemen verzichten
+
+-
+
+wie und ob der Einsatz von biometrischen Überwachungssystemen durch private
+Dritte im öffentlichen und öffentlich zugänglichen Raum verhindert werden kann. Dies könnte beispielsweise durch Bewilligungsverfahren oder Verbotszonen geschehen.
+
+Beda Baumgartner, Thomas Gander, Michelle Lachenmeier, Fleur Weibel, Salome Bessenich, Johannes Sieber, Jerome Thiriet, Jessica Brandenburger, Heidi Mück, Lea Wirz, Tonja Zürcher, Barbara Heer»
+
+Wir berichten zu diesem Anzug wie folgt:
+
+1.
+
+Einleitende Bemerkungen
+
+Der Regierungsrat hat Verständnis für das Anliegen der Anzugsstellenden und teilt die Einschätzung, dass neben den vielen potenziellen Gewinnen, welche sich aus der Nutzung neuer Technologien ergeben, auch die Risiken bestimmter Technologien nicht ausser Acht gelassen werden
+dürfen. Mit der Generierung von grossen Datenmengen durch staatliche Behörden gewinnen
+Fragen nach Datenschutz, Zugriff und Verwendung an gesellschaftlicher Bedeutung.
+
+2.
+
+Gesichtserkennung versus Gesichtsabgleich
+
+Wichtig erscheint dem Regierungsrat die Differenzierung, was genau gemeint ist mit «biometrischen Erkennungssystemen». Es gilt zu unterscheiden zwischen Gesichtserkennung und reinem
+Gesichtsabgleich. Letzteres ist der zeitversetzte Vergleich eines Gesichts mit einem Einzelbild
+oder einer Bilddatenbank. Beim Gesichtsbildabgleich handelt es sich also nicht um eine Gesichtserkennung, auch bekannt unter dem Begriff «Face Recognition», die eine Echtzeitverarbeitung voraussetzt.
+
+2.1
+
+Gesichtsabgleich
+
+In der Schweiz bestehen die rechtlichen Grundlagen für den Einsatz von Technologien zum Gesichtsabgleich. Diese kommen denn auch bereits bei verschiedenen Sicherheitsbehörden zur
+Aufklärung von Straftaten zum Einsatz. Im Rahmen der Strafprozessordnung (StPO) kann durch
+einen Vergleich mit bereits vorhandenem Bildmaterial im Nachgang zu Straftaten spezifisch nach
+Tatverdächtigen gefahndet werden. Dies bringt Effizienz bei grossen Datenmengen, die im Hinblick auf die tatverdächtige Person gesichtet werden müssen. Allfällige Treffer des Systems werden anschliessend manuell überprüft. Zudem ist der Gesichtsabgleich oftmals das einzige Instrument, um Täter identifizieren zu können, wenn ein Abgleich von Fingerabdrücken oder DNA
+nicht möglich ist. Dies kommt heute immer häufiger vor, zum Beispiel in Fällen von sexuellen
+Handlungen mit Kindern oder Geldautomatensprengungen. Deshalb sind die Schweizer Strafverfolgungsbehörden bei Straftaten, zu denen Bilder gesichert werden konnten, darauf angewiesen,
+mittels Gesichtsbildabgleich weitere Ermittlungshinweise zu den beteiligten Personen zu erhalten.
+Die Erfolgsquoten und die Zuverlässigkeit des Vergleichs von Gesichtsbildern sind in den vergangenen Jahren deutlich besser geworden. Das Fedpol plant, das automatisierte Fingerabdruck-Identifikationssystem (AFIS) 2026 um ein Modul für den Gesichtsbildabgleich zu ergänzen.
+
+1 (https://www.netzwoche.ch/news/2021-10-07/europaeisches-parlament-lehntmassenueberwachung-durch-ki-ab (24.11.2021)
+
+Seite 2/3
+
+Regierungsrat des Kantons Basel-Stadt
+
+In Bezug auf den Gesichtsabgleich besteht weder gesetzgeberischer Handlungsbedarf noch kantonaler Handlungsspielraum, da die Kompetenz zum Erlass von strafprozessualen Vorschriften
+beim Bund liegt.
+
+2.2
+
+Gesichtserkennung
+
+Die Gesichtserkennung, also ein Abgleich in Echtzeit beispielsweise via Überwachungskamera,
+ist im Gegensatz zum Gesichtsabgleich in der Schweiz aus grundrechtlichen Überlegungen nicht
+zulässig und kommt entsprechend auch nicht zum Einsatz. Bei der Gesichtserkennung handelt es
+sich nach dem Bundesgesetz über den Datenschutz um eine Bearbeitung besonders schützenswerter Personendaten. Für die Bearbeitung solcher Daten durch Bundesorgane ist eine Grundlage in einem Gesetz im formellen Sinn erforderlich. Soll eine Gesichtserkennung in einem bestimmten Bereich eingeführt werden, bedarf es somit einer rechtlichen Grundlage im jeweiligen
+Spezialgesetz, das auf den konkreten Sachverhalt Anwendung findet.
+
+3.
+
+Biometrische Überwachungssysteme in Basel-Stadt
+
+Der Regierungsrat ist der Ansicht, dass ein Abgleich von Gesichtsdaten in Echtzeit aus Gründen
+des Daten- und Persönlichkeitsschutzes heikel wäre. Der Regierungsrat sieht jedoch aktuell keinen Anlass, den Einsatz von biometrischen Überwachungssystemen zu regeln. Dies einerseits,
+weil es für den Einsatz entsprechender Technologien – wie bereits dargelegt – gar keine rechtliche Grundlage gibt und es kein Verbot von etwas braucht, das gar nicht zur Anwendung kommen
+kann. Zum anderen handelt es sich um eine Fragestellung, die auf internationaler oder zumindest
+eidgenössischer Ebene geregelt werden müsste. In diesem Zusammenhang ist auf den im April 2021 veröffentlichen Vorschlag der Europäischen Kommission im Zusammenhang mit der Regelung der Künstlichen Intelligenz (KI)2 hinzuweisen. Darin wird vorgeschlagen, dass die sogenannten Live-Scans verboten werden, jedoch nur im Grundsatz. Vorgesehen sind – unter
+strengen Auflagen – Ausnahmen, beispielsweise für die gezielte Suche nach vermissten Kindern
+oder für die Verhinderung eines Terroranschlags. Der Regierungsrat wird die Entwicklungen mit
+Interesse beobachten.
+
+4.
+
+Antrag
+
+Aufgrund dieses Berichts beantragen wir, den Anzug Beda Baumgartner und Konsorten betreffend kein Einsatz von biometrischen Erkennungssystemen in Basel-Stadt abzuschreiben.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Lukas Engelberger
+Vizepräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+2 EUR-Lex - 52021PC0206 - EN - EUR-Lex (europa.eu)
+
+Seite 3/3
+
+

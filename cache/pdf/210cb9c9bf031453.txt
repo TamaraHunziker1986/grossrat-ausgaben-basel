@@ -1,0 +1,2129 @@
+Grosser Rat des Kantons Basel-Stadt
+
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+An den Grossen Rat
+
+25.0921.02
+
+19.5034.05 / 21.5236.04 / 23.5512.04 / 23.5591.04 / 24.5184.04 / 21.5833.03 / 20.5472.05
+
+Umwelt-, Verkehrs- und Energiekommission
+Basel, 11. November 2026
+Kommissionsbeschluss vom 11. November 2026
+
+Bericht der Umwelt-, Verkehrs- und Energiekommission
+zum Ratschlag zur Förderung des Ausbaus der Photovoltaik-Infrastruktur an Gebäuden im Kanton Basel-Stadt («Solaroffensive»)
+sowie
+
+zu fünf Motionen und zwei Anzügen
+und
+
+Mitbericht der Bau- und Raumplanungskommission
+
+Publiziert am 13. November 2026 auf www.grosserrat.bs.ch
+
+Seite 1/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+Inhaltsverzeichnis
+1.
+
+Ausgangslage ........................................................................................................................ 3
+
+2.
+
+Kommissionsberatung ........................................................................................................... 3
+2.1
+
+2.2
+
+2.3
+
+2.4
+2.5
+
+Vorgehen ....................................................................................................................................... 4
+2.1.1 Sammlung von Verständnisfragen .....................................................................................4
+2.1.2 Austausch mit dem Regierungsrat .....................................................................................4
+2.1.3 Hearings mit Verbänden und Interessenorganisationen ....................................................6
+2.1.4 Wissenschaftlicher Input ....................................................................................................7
+Abklärungen der UVEK zur Photovoltaik-Pflicht bei bestehenden Bauten ................................... 9
+2.2.1 Ermittlung der Photovoltaik-Pflicht .....................................................................................9
+2.2.2 Verhältnismässigkeit ....................................................................................................... 10
+2.2.3 Flächenuntergrenze ........................................................................................................ 10
+2.2.4 Solarkataster des Kantons .............................................................................................. 11
+2.2.5 Technisch nutzbare Fläche ............................................................................................. 12
+2.2.6 Systemgrenzen bei der Bemessung der Photovoltaik-Pflicht ......................................... 12
+2.2.7 Berücksichtigung von neuen Dachfenstern .................................................................... 13
+2.2.8 Übergangsfrist und Ersatzabgabe bei gleichzeitiger Dachsanierung ............................. 13
+2.2.9 Härtefallregelung, Bürgschaften und Contracting ........................................................... 14
+2.2.10 Photovoltaik-Pflicht an Fassaden .................................................................................... 14
+2.2.11 Photovoltaik-Pflicht und Dachbegrünungspflicht ............................................................. 15
+2.2.12 Gleichstellung von Solarthermieanlagen ........................................................................ 18
+2.2.13 Photovoltaik-Pflicht an Fassaden bei Neubauten ........................................................... 19
+2.2.14 Einbezug von Bundesbauten .......................................................................................... 19
+Erörterungen der UVEK zu weiteren Massnahmen der Solaroffensive ...................................... 20
+2.3.1 Förderung ........................................................................................................................ 20
+2.3.2 Kommunikation und Beratung ......................................................................................... 21
+2.3.3 Zulassungsverfahren, Denkmalschutz und Stadtbild ...................................................... 21
+2.3.4 Wirtschaftlichkeit und Einspeisevergütung ..................................................................... 25
+2.3.5 Folgeratschlag, Speicherung und Abregelung ................................................................ 26
+2.3.6 Gesetzesanpassungen ................................................................................................... 27
+Abklärungen der UVEK zu Auswirkungen auf Mietende ............................................................ 27
+Weitere in der UVEK gestellte Anträge ....................................................................................... 29
+2.5.1 Zulassung von Klimaanlagen .......................................................................................... 29
+2.5.2 Ausserkantonale Photovoltaik-Produktion ...................................................................... 30
+2.5.3 Liegenschaften im Baurecht ............................................................................................ 30
+2.5.4 Berichterstattung ............................................................................................................. 30
+
+3.
+
+Motionen und Anzüge .......................................................................................................... 31
+
+4.
+
+Fazit und Antrag der UVEK .................................................................................................. 31
+
+Seite 2/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+1.
+
+Ausgangslage
+
+Die Stimmberechtigten des Kantons Basel-Stadt haben am 27. November 2022 den Gegenvorschlag zur Volksinitiative für ein klimagerechtes Basel («Klimagerechtigkeitsinitiative») angenommen. Sie verankerten damit das Netto-Null-Ziel 2037 und die Klimagerechtigkeit in der Kantonsverfassung. Der Regierungsrat verabschiedete zehn Monate später die kantonale Klimaschutzstrategie «Netto-Null 2037», in der er darlegt, wie er den Verfassungsauftrag umsetzen möchte.
+Ein Element der Umsetzung des Verfassungsauftrags ist der Ausbau der Stromproduktion aus
+Photovoltaik1 im Kanton. Bei Ausschöpfung des gesamten technischen Potenzials (vgl. Kapitel
+3.3.2 des Ratschlags des Regierungsrats) könnten knapp 40% des heutigen Strombedarfs mit Photovoltaik-Anlagen gedeckt werden. Mit der Solaroffensive möchte der Regierungsrat die für Neubauten bereits bestehende Photovoltaik-Pflicht auf bestehende Bauten ausweiten. Bestärkt wird er
+in seinem Ansinnen neben dem Ergebnis der genannten Volksabstimmung durch mehrere politische Vorstösse. So hat ihn der Grosse Rat mit Überweisung der Motion Jürg Stöcklin und Konsorten betreffend «Aufbruch ins Solarzeitalter» - mehr Photovoltaik-Anlagen auf Basels Dächern und
+Fassaden am 17. November 2021 aufgefordert, private Liegenschaftseigentümerinnen und -eigentümer zu verpflichten, geeignete Dachflächen für die Produktion von Strom mit Photovoltaik-Technologie zu nutzen.
+Der Ratschlag zur Förderung des Ausbaus der Photovoltaik-Infrastruktur an Gebäuden im Kanton
+Basel-Stadt basiert auf den drei Säulen «Vereinfachung des Bewilligungsverfahrens», «Einführung
+einer Photovoltaik-Pflicht für Dachflächen ab 100 Quadratmetern» und «Förderbeiträge während
+15 Jahren». In einem Folgeratschlag aufgreifen möchte der Regierungsrat die Themen Netzinfrastruktur und Stromspeicherung. Zur Umsetzung der Solaroffensive beantragt er Anpassungen im
+Energiegesetz und im Bau- und Planungsgesetz (BPG). Er möchte eine Photovoltaik-Pflicht einführen, die Zulassungsverfahren für Photovoltaik-Anlagen in Übereinstimmung mit der Bundesgesetzgebung vereinfachen und auf Verordnungsebene ein Förderprogramm verankern. Weiter beantragt er, sieben parlamentarische Vorstösse als erledigt abzuschreiben.
+
+2.
+
+Kommissionsberatung
+
+Der Grosse Rat hat den Ratschlag zur Förderung des Ausbaus der Photovoltaik-Infrastruktur an
+Gebäuden im Kanton Basel-Stadt («Solaroffensive») am 10. September 2025 zur Vorberatung der
+Umwelt-, Verkehrs- und Energiekommission (UVEK) und für einen Mitbericht der Bau- und Raumplanungskommission (BRK) überwiesen. Die UVEK ist ohne Gegenstimme auf das Geschäft eingetreten und setzte sich zwischen dem 12. November 2025 und dem 3. Juni 2026 an insgesamt elf
+Sitzungen mit dem Geschäft auseinander. Sie hat die Elemente der Solaroffensive (Vereinfachung
+Zulassungsverfahren, Photovoltaik-Pflicht, Förderung, Kommunikation und Beratung) intensiv diskutiert. Zur Verbesserung des für die Beurteilung des Geschäfts notwendigen Know-hows hat sie
+sich vom Regierungsrat und von Fachpersonen aus dem Departement für Wirtschaft, Soziales und
+Umwelt einen fachlichen und von einer Vertreterin und einem Vertreter eines SWEET-Konsortiums2
+einen wissenschaftlichen Input zu energiepolitischen Themen geben lassen. Um die Meinungen
+von Verbänden und Interessenorganisationen in den Entscheidungsprozess einzubeziehen, hat sie
+diese zu Hearings eingeladen. Erörtert hat sie schliesslich die Feststellungen und Empfehlungen
+der mitberichtenden Bau- und Raumplanungskommission.
+Sie beantragt dem Grossen Rat mit 8:4 Stimmen bei 1 Enthaltung, dem Antrag des Regierungsrats
+zu folgen. Sie macht in ihrem Bericht mehrere Anregungen zur konkreten Umsetzung der Solaroffensive, insbesondere eine Gleichstellung von Photovoltaik- und Solarthermieanlagen. Einen nach
+Abschluss der Beratung gestellten Antrag, dem Grossen Rat die Rückweisung des Geschäfts an
+
+1
+
+In diesem Bericht werden die Begriffe Photovoltaik und Solar synonym verwendet.
+SWEET ist ein Forschungsförderprogramm des Bundesamts für Energie. Es finanziert grosse, interdisziplinäre Konsortien aus Wissenschaft und Praxis.
+Diese Konsortien erforschen Lösungen für die Schweizer Energiestrategie 2050 und den Weg zu Netto-Null-Klimazielen.
+2
+
+Seite 3/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+den Regierungsrat zu beantragen, hat sie mit 9:2 Stimmen bei 1 Enthaltung abgelehnt. Den vorliegenden Bericht verabschiedete sie am 11. November 2026.
+
+2.1
+
+Vorgehen
+
+2.1.1
+Sammlung von Verständnisfragen
+Da der Ratschlag des Regierungsrats, das Vorgehen mitsamt Vernehmlassung sowie auch die
+zahlreichen Massnahmen viele unterschiedliche Thematiken umfassen und die Flughöhe des Ratschlags sehr technisch ist, hat die UVEK Verständnisfragen schriftlich gesammelt und durch die
+Verwaltung beantworten lassen, bevor sie zu weiteren Hearings (siehe Kapitel 2.1.3 und 2.1.4)
+schritt und danach in die Diskussion einstieg. Die Abklärungen der Fragesammlung von rund vierzig schriftlich eingereichten Fragen aus der Kommission wird in Kapitel 2.2 und dessen Unterkapiteln zusammengefasst und in den Kontext der Diskussion gestellt.
+2.1.2
+
+Austausch mit dem Regierungsrat
+
+Die UVEK hat sich die Beweggründe und Haltung des Regierungsrats zum Geschäft erläutern lassen. Zudem fasste der Regierungsrat der UVEK gegenüber die wesentlichen Inhalte des Ratschlags zusammen. Für den Regierungsrat zum Voranbringen der Solaroffensive wichtig ist die
+Tatsache, dass der Kanton Basel-Stadt bei Energiemangellagen wie alle anderen Kantone von
+nationalen Massnahmen betroffen ist. Es ist deshalb wichtig, dass die Schweiz selbst genug Strom
+produziert. Dazu kann die Solaroffensive einen Beitrag leisten. Mit dem Ausbau der Stromproduktion auf seinem Gebiet kann der Kanton seine Energieunabhängigkeit und die Versorgungssicherheit erhöhen. Neben dem vom Flusskraftwerk Birsfelden produzierten Strom ist die Photovoltaik
+aktuell die einzige ergiebige Quelle zur Stromproduktion im Kanton.
+Änderungen gegenüber der Vernehmlassungsvorlage
+Der Regierungsrat hat vor der Verabschiedung des Ratschlags zur Solaroffensive eine öffentliche
+Vernehmlassung durchgeführt. Basierend auf den erhaltenen Rückmeldungen nahm er mehrere
+Anpassungen und Ergänzungen vor. Die wichtigsten Unterschiede zur Vernehmlassungsvorlage
+sind im Ratschlag detailliert ausgeführt und im Folgenden summarisch zusammengefasst:
+▪
+
+Verzicht auf eine Photovoltaik-Pflicht auf Dachflächen unter 100 Quadratmetern und an geeigneten Fassadenflächen.
+
+▪
+
+Verzicht auf eine Photovoltaik-Pflicht auf Dachflächen von Kulturdenkmälern kantonaler und
+nationaler Bedeutung.
+
+▪
+
+Verzicht auf eine Photovoltaik-Pflicht auf bereits anderweitig genutzten Flächen und auf Flächen, deren Nutzung aus technischen Gründen nicht möglich ist.
+
+▪
+
+Reduktion des Zubauziels bis 2037 von 790 auf 500 GWh/a (= 40% des heutigen Strombedarfs).3
+
+▪
+
+Präzisierung der Ersatzabgabe: 1'500 Franken pro fehlendem kW Leistung während zehn
+Jahren (entspricht der Höhe der Ersatzabgabe für Neubauten).
+
+▪
+
+Einführung einer Härtefallregelung.
+
+▪
+
+Neudefinition des kantonalen Förderbeitrags statt Fortführung der bestehenden Förderaktion «Solarkraftwerk Basel» bis 2030 mit anschliessender Neubeurteilung.4
+
+Der Regierungsrat stuft die Vorlage als zielführend und austariert sowie als wichtiges Element zur
+Erreichung der Klimaziele und zu mehr Unabhängigkeit in der Stromproduktion ein. Er hat
+3
+
+Zur Erreichung dieses Ziels muss die aktuelle Zubaurate vervierfacht werden. Seine Erreichung basiert auf der Annahme, dass auch auf nicht unter die
+Pflicht fallenden Dächern Photovoltaik-Anlagen erstellt werden.
+4
+Förderbeiträge bis zum Ende der Übergangsfrist; degressives Fördermodell; Förderung unabhängig von einer thermischen Dachsanierung; zusätzliche
+Förderbeiträge für Photovoltaik-Anlagen an Fassaden und an geschützten Gebäuden.
+
+Seite 4/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+gegenüber der UVEK die wesentlichen Neuerungen, welche die Solaroffensive mit sich bringt, wie
+folgt zusammengefasst:
+Aktualisierung der Pflicht bei Neubauten
+Das Energiegesetz des Bundes enthält eine Pflicht zur Nutzung der Sonnenenergie bei Neubauten.
+Die kantonalen Vorschriften zur Pflicht bei Neubauten basieren auf den MuKEn 2014. Kantone, die
+die Vorgaben der MuKEn 2014 umgesetzt haben, sind allerdings von den Vorschriften in Art. 45a
+des eidgenössischen Energiegesetzes explizit befreit. Dies ist beim Kanton Basel-Stadt der Fall.
+Gemäss § 6 Abs. 1 des kantonalen Energiegesetzes müssen neue Bauten einen Teil der von ihnen
+benötigten Elektrizität auf Grundlage von erneuerbaren Energien selbst erzeugen. Für Gebäude,
+die umgebaut oder saniert werden, besteht keine entsprechende Pflicht. Nur auf Bauten im Eigentum des Kantons muss bei einer Gesamterneuerung oder Dachsanierung eine Photovoltaik-Anlage
+installiert werden.
+Ist heute bei einem Neubau die Elektrizitätserzeugung technisch nicht möglich oder sinnvoll oder
+kann die erforderliche Leistung nicht oder nur teilweise erbracht werden, ist eine Ersatzabgabe
+geschuldet. Die Einnahmen aus der Ersatzabgabe fliessen in den Fonds Energie-Förderabgabe
+und werden zur Förderung von erneuerbaren Energien und zur Steigerung der Energieeffizienz
+verwendet. Von der Ersatzabgabe befreit sind Neubauten und Erweiterungen mit einer Energiebezugsfläche unter 200 Quadratmetern.
+Die Pflicht bei Neubauten bleibt bestehen, die Detailbestimmungen in der kantonalen Energieverordnung werden aufgrund der technischen und wirtschaftlichen Entwicklung aktualisiert (vgl. nachfolgenden Abschnitt «Begleitmassnahmen und weitere Neuerungen»).
+Ausgestaltung der Photovoltaik-Pflicht auf bestehenden Bauten
+Um den Ausbau der Solarstromproduktion voranzutreiben, möchte der Regierungsrat die Photovoltaik-Pflicht auf bestehende Bauten mit gut bis sehr gut geeigneten Dachflächen ausweiten. Er
+folgt damit der Forderung der vom Grossen Rat am 17. November 2021 überwiesenen Motion Jürg
+Stöcklin und Konsorten betreffend «Aufbruch ins Solarzeitalter» - mehr Photovoltaik-Anlagen auf
+Basels Dächern und Fassaden. Die Pflicht muss gemäss seinem Antrag innerhalb von 15 Jahren
+umgesetzt sein. Zur Einführung der Photovoltaik-Pflicht für bestehende Gebäude müssen § 6 des
+Energiegesetzes erweitert und § 17 der Energieverordnung angepasst werden. Die Änderung des
+Energiegesetzes liegt in der Zuständigkeit des Grossen Rats, die Anpassung der Verordnung in
+jener des Regierungsrats. Für das Verständnis und die Beurteilung der Gesetzesvorlage sind auch
+die Verordnungsänderungen wesentlich. Sie lassen sich wie folgt zusammenfassen:
+Die Photovoltaik-Pflicht erstreckt sich auf alle Bauten und Anlagen, die gemäss Solarkataster eine
+gut oder sehr gut geeignete Dachfläche von mindestens 100 Quadratmetern aufweisen. Als gut
+gelten Dachflächen mit einer Globaleinstrahlung von 800 bis 1’100 kWh, als sehr gut solche mit
+einer Globaleinstrahlung von über 1’100 kWh pro Quadratmeter und Jahr. Die Pflicht ist erfüllt,
+wenn die technisch nutzbare Dachfläche vollständig genutzt wird. Als technisch nutzbar gilt die gut
+oder sehr gut geeignete Dachfläche abzüglich von definierten Ausnahmeflächen (30% der Fläche).
+Von der Pflicht ausgenommen sind Dachflächen, an denen eine Photovoltaik-Nutzung nicht oder
+nur mit einem unverhältnismässigen Aufwand möglich ist. Dazu gehören
+▪
+
+Dachflächen auf Kulturdenkmälern von kantonaler oder nationaler Bedeutung (inklusive Bauten und Anlagen, die im kantonalen Denkmalverzeichnis eingetragen sind). Bei Bauten, die
+nach Inkrafttreten der Solaroffensive ins Denkmalverzeichnis aufgenommen werden, bleibt
+die Nutzungspflicht für jene Dachteilflächen bestehen, deren Nutzung aus denkmalschützerischer Sicht möglich ist und für die Eigentümerschaft keinen unverhältnismässigen Aufwand
+darstellt.
+
+▪
+
+Dachflächen oder Dachteilflächen von baubewilligungspflichtigen Bauten und Anlagen, bei
+denen keine Baubewilligung für eine Photovoltaik-Anlage erteilt werden kann.
+
+Seite 5/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+▪
+
+Dachflächen oder Dachteilflächen, die bereits anderweitig genutzt werden (z. B. für eine Solarthermieanlage, eine begehbare Dachterrasse oder Dachbegrünung), ausser wenn sie umfassend saniert werden.
+
+▪
+
+Dachflächen oder Dachteilflächen, deren Nutzung aus technischen oder statischen Gründen
+nicht möglich ist (z. B. Dachfenster, Lüftungsschächte, Kamine).
+
+Begleitmassnahmen und weitere Neuerungen
+Fassadenflächen fallen nicht unter die Photovoltaik-Pflicht, können aber an diese angerechnet werden. Für bestehende Gebäude gilt eine Übergangsfrist von 15 Jahren. Die Pflicht tritt sofort ein,
+wenn Dachflächen umfassend saniert werden.
+Wird die Nutzungspflicht nicht oder nur teilweise erfüllt, ist eine Ersatzabgabe (aufgeteilt über zehn
+Jahre) zu entrichten.
+In finanziellen Härtefällen kann der Kanton bei selbst genutztem Wohneigentum einen Aufschub
+der Pflicht von bis zu drei Jahren nach der nächsten Handänderung gewähren.
+Die seit 2017 geltende Photovoltaik-Pflicht für Neubauten wird an die die Vorgaben der MuKEn
+2025 angepasst. Die Obergrenze von 30 kW Leistung wird abgeschafft und die Nutzungspflicht von
+10 auf 30 Watt pro Quadratmeter Energiebezugsfläche erhöht, die Untergrenze wird von 200 auf
+50 Quadratmeter neu geschaffener Energiebezugsfläche gesenkt. Statt der Erfüllung der Pflicht
+eine Ersatzabgabe zu entrichten, ist nicht mehr möglich.
+Sich aufgrund einer nicht Photovoltaik-förderlichen Architektur oder aus ästhetischem Empfinden
+bei Neubauten oder Erweiterungen aus der Photovoltaik-Pflicht freizukaufen, ist nicht mehr möglich. Das eidgenössische Raumplanungsgesetz stellt die Interessen an der Nutzung der Solarenergie vor ästhetische Anliegen.
+Weitere Ausführungen des Regierungsrats zu den einzelnen Themenfeldern finden sich in den jeweiligen Unterkapiteln.
+2.1.3
+
+Hearings mit Verbänden und Interessenorganisationen
+
+Die UVEK hat aufgrund mehrerer erhaltener Schreiben mit den folgenden Verbänden und Interessenorganisationen ein jeweils halbstündiges Hearing durchgeführt: Hauseigentümerverband Basel-Stadt, SVIT beider Basel, Casafair Nordwestschweiz, Mieterinnen- und Mieterverband Basel,
+Gewerbeverband Basel-Stadt, aeesuisse beider Basel. Schriftlich Stellung genommen hat die Handelskammer beider Basel. Die UVEK weist darauf hin, dass sich diese Organisationen bereits im
+Rahmen der öffentlichen Vernehmlassung einbringen konnten. Um ihre Anliegen und offenen Fragen in die Beratung aufzunehmen, hat sie diese zu Hearings eingeladen. Die meisten äusserten
+sich dabei positiv zu den vom Regierungsrat im Vergleich zur Vernehmlassungsvorlage vorgenommenen Anpassungen und bezeichneten ihre Anliegen als zumindest teilweise aufgenommen.
+Aus den Hearings hat die UVEK die folgenden Themen und Fragestellungen in die Erörterung des
+Ratschlags und ihre Diskussion mitgenommen. Sie verzichtet auf eine Zusammenfassung des Inhalts der einzelnen Hearings.
+▪
+
+Muss die Photovoltaik-Pflicht gesetzlich verankert werden oder ist das Ausbauziel auch auf
+freiwilliger Basis über finanzielle Anreize erreichbar?
+
+▪
+
+Ist eine Beschränkung der Photovoltaik-Pflicht auf geeignete Dachflächen von mindestens
+100 Quadratmetern «richtig», oder wäre eine Grenze bei z.B. 50 Quadratmetern «besser»?
+
+▪
+
+Warum wird die Befreiung von der Photovoltaik-Pflicht aufgrund einer bestehenden Nutzung
+nicht auf Fälle mit nachgewiesener technischer Unvereinbarkeit beschränkt?
+
+▪
+
+Warum sind Bauten der SBB und des ASTRA von der Photovoltaik-Pflicht ausgenommen?
+
+▪
+
+Warum sind denkmalgeschützte Gebäude von der Photovoltaik-Pflicht ausgenommen?
+
+Seite 6/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+▪
+
+Warum ist das Fördermodell degressiv ausgestaltet und die Förderung auf 15 Jahre beschränkt?
+
+▪
+
+Warum muss die Pflicht innerhalb von 15 Jahren umgesetzt werden? Dies könne zur Folge
+haben, dass eine Photovoltaik-Anlage für sich statt im Rahmen einer Gesamtsanierung installiert werden muss.
+
+▪
+
+Warum bietet der Kanton keine staatliche Finanzierung der Investition mit Rückzahlung durch
+die Eigentümerschaften über eine gewisse Zeitdauer an?
+
+▪
+
+Warum ist die Härtefallregelung eher restriktiv und erweckt damit den Eindruck, dass der Regierungsrat am liebsten ganz darauf verzichten würde?
+
+▪
+
+Warum bietet der Kanton keine Bürgschaften an?
+
+▪
+
+Ist die Investitionssicherheit durch die Einspeisevergütung gegeben? Wie wirken sich mögliche Abregelungen bei «zu hoher» Stromproduktion auf die Wirtschaftlichkeit aus?
+
+▪
+
+Schränkt die Photovoltaik-Pflicht die Möglichkeit von Dachstockausbauten (Dachfenster und
+Gauben) und damit die Schaffung von zusätzlichem Wohnraum ein?
+
+▪
+
+Müssen Mieterinnen und Mieter die administrativen Kosten eines Zusammenschlusses zum
+Eigenverbrauch (ZEV) mittragen und eine der Vermieterschaft gehörende, nicht rentable
+Photovoltaik-Anlage mitfinanzieren?
+
+▪
+
+Ist die Ersatzabgabe auch fällig, wenn eine technisch sinnvolle Lösung umgesetzt wird, die
+den gesetzlichen Bestimmungen nicht vollständig entspricht?
+
+▪
+
+Wie wird mit Dächern umgegangen, die sowohl der Photovoltaik- als auch der Begrünungspflicht unterstehen? Wie wird der höhere Pflegeaufwand auf begrünten Dachflächen mit Photovoltaik-Anlage abgegolten?
+
+▪
+
+Steht für das ambitionierte Ausbauziel genug qualifiziertes Fachpersonal für Planung, Projektierung, Installation und Kontrolle zur Verfügung?
+
+2.1.4
+
+Wissenschaftlicher Input
+
+Die UVEK hat eine Vertreterin und einen Vertreter des EDGE-Konsortiums von SWEET um eine
+Einordnung der vom Regierungsrat vorgelegten Solaroffensive aus wissenschaftlicher Perspektive
+gebeten. Es ging ihr dabei primär um die Frage, wie die geplanten Massnahmen aus einer nationalen und wissenschaftlichen Perspektive einzuordnen sind. Sie fasst im Folgenden die wichtigsten
+Erkenntnisse aus diesem Austausch zusammen.
+Kantonaler Beitrag an Bundesziele
+Das Energiegesetz des Bundes enthält verbindliche Ziele für die Stromproduktion aus neuen erneuerbaren Energien (ohne Wasserkraft). Bis 2035 müssen aus diesen Quellen 35 TWh/a produziert werden, bis 2050 45 TWh/a. Auf Verordnungsebene hat der Bundesrat als Zwischenziel eine
+Produktion von 18.7 TWh/a bis 2030 verankert.
+Der für die Erreichung der Ziele erforderliche Zubau an Photovoltaik war in den letzten Jahren zu
+gering, um die für die Jahre 2030 und 2035 definierten Ziele zu erreichen. 2024 wurde in der
+Schweiz etwa 6 TWh Photovoltaik-Strom produziert. Um bis 2030 auf 18.7 TWh/a zu kommen,
+müssten pro Jahr 2.3 TWh zugebaut werden. Der effektive Zubau liegt aber nur bei etwa 1.5 TWh
+und hat 2025 und 2026 gegenüber 2023 und 2024 sogar abgenommen. Der Zubau müsste um
+mindestens 50% beschleunigt werden. Wie dies geschehen soll, ist unklar.
+Theoretisch könnte in der Schweiz die gesamte im Energiegesetz vorgegebene Photovoltaik-Produktion auf Dachflächen erzeugt werden. Das Potenzial wird derzeit nur zu etwa 12% ausgeschöpft. Der politische Wille für ein Obligatorium auf bestehenden Bauten fehlt bislang in den meisten Kantonen. Ein geringerer Ausbau der Photovoltaik auf Dachflächen bedeutet, dass andere
+
+Seite 7/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+Potenziale wie die Agri-Photovoltaik (Kombination von Landwirtschaft und Photovoltaik), die alpine
+Photovoltaik oder Photovoltaik auf Seen genutzt werden müssen.
+Auf den Dachflächen dürfte ohne Obligatorium für bestehende Bauten auch in den nächsten 10 bis
+20 Jahren nur ein kleiner Teil des Potenzials ausgeschöpft werden. Und dies, obwohl die Wirtschaftlichkeit grundsätzlich gegeben ist. Je mehr Photovoltaik-Anlagen auf Gebäuden erstellt werden, desto weniger braucht es auf Flächen in der Landschaft (Agri-Photovoltaik, alpine Photovoltaik). Ein Photovoltaik-Obligatorium auf Dachflächen bedeutet also auch «Schutz der Landschaft».
+Saisonalität, Windkraft, Speicherung und Abregelung
+Aufgrund der Saisonalität (Sommer/Winter) und der Tageszeiten (Tag/Nacht) wäre die Windkraft
+eine ideale Ergänzung zur Photovoltaik. Allerdings ist die Opposition gegen Windkraftwerke in der
+Schweiz hoch. Simulationen von SWEET Edge zeigen, dass die kostengünstigste Option, um die
+nicht vorhandene Windkraft zu kompensieren, der stärkere Photovoltaik-Zubau ist. Der Zubau
+müsste so gross sein, dass im Sommer ein Teil (gemäss Prognosen etwa 20%) des produzierten
+Stroms nicht genutzt werden könnte. Im Kanton Basel-Stadt dürfte die Abregelung aufgrund des
+Verhältnisses von vorhandenen Dachflächen und Strombedarf allerdings vergleichsweise selten
+nötig sein. Für den Ausgleich zwischen Tag und Nacht eignen sich auch Batteriespeicher. Diese
+dürften sich dank sinkender Preise in absehbarer Zeit flächendeckend durchsetzen und das kurzfristige Ausgleichsproblem lösen.
+Umsetzbarkeit und Einordnung der Massnahmen
+Die vorgesehene Aufhebung des generellen Photovoltaik-Verbots in historischen Ortskernen und
+die Vereinfachung des Zulassungsverfahrens (Meldung statt Baubewilligung) entsprechen den
+EDGE-Empfehlungen.
+Wichtig ist, dass Leute, denen die intrinsische oder ökonomische Motivation zur Installation einer
+Photovoltaik-Anlage fehlt, in geeigneter Weise angesprochen werden.
+Die Flächenuntergrenze bei 100 Quadratmetern dürfte ein guter Kompromiss zwischen maximaler
+Wirkung und politischer Machbarkeit sein. Sie dürfte dazu beitragen, dass nur wenigen Eigentümerinnen und Eigentümern von unter die Pflicht fallenden Liegenschaften die finanziellen Mittel für die
+Installation einer Photovoltaik-Anlage fehlen. Um die Vorlage politisch abzustützen, dürfte es trotzdem wichtig sein, klar zu kommunizieren, wie mit solchen Personen umgegangen wird.
+Die Übergangszeit von 15 Jahren und die Ausnahmen von der Pflicht dürften angemessen sein.
+Die mit der Solaroffensive verbundenen Ziele allein über Freiwilligkeit oder finanzielle Anreize zu
+erreichen, ist unrealistisch. Anreize dürften zu wenig Wirkung entfalten oder müssten so stark ausgestaltet sein, dass es zu grossen Mitnahmeeffekten käme. Mit der Photovoltaik-Pflicht steigt die
+Wahrscheinlichkeit, dass das Ziel erreicht wird.
+Die Fortführung der Förderung ist aus sozialwissenschaftlicher Sicht wichtig. Für «likely adopters»
+(die noch nicht investiert haben, sich dies aber vorstellen können) sind oft die Investitionskosten
+die grosse Hürde. In Betracht ziehen könnte man vor diesem Hintergrund ein Recht auf ein Contracting-Angebot und eine Förderung von Beteiligungsmodellen, beispielsweise Co-Finanzierungen
+und Crowdfundings. Beteiligungsmodelle könnten die Energiewende breiter abstützen. Sie ermöglichten es auch Nicht-Hausbesitzenden, einen Beitrag zur Solaroffensive zu leisten.
+Um weniger oder gar nicht Interessierte zu erreichen, reichen öffentliche Informationen allein nicht
+aus. Es braucht eine Anlaufstelle, die die Leute, die der Pflicht unterliegen, darüber informiert, was
+sie tun sollen bzw. müssen, und ihnen auf Wunsch Contracting-Lösungen vermittelt.
+Kanton Basel-Stadt als Vorreiter
+Vor dem Hintergrund der geschilderten Ausgangslage begrüsst das EDGE-Konsortium von
+SWEET die Vorreiterrolle, die der Kanton Basel-Stadt mit der Einführung eines Photovoltaik-Obligatoriums auf bestehenden Dachflächen plant. Aus politikwissenschaftlicher Sicht dürfte das NettoNull-Ziel 2037 eine wichtige Grundlage für die Solaroffensive sein. Ergreift man konkrete
+
+Seite 8/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+Massnahmen, ist es von Vorteil, wenn man sich auf ein demokratisch legitimiertes Ziel beziehen
+und aufzeigen kann, was es zu dessen Erreichung braucht. Mit der Förder- und der Lenkungsabgabe und dem Stromspar-Bonus verfügt der Kanton Basel-Stadt über Instrumente, die andere Kantone nicht kennen.
+Setzt der Kanton Basel-Stadt die Solaroffensive wie im Ratschlag dargestellt um, nimmt er eine
+Vorreiterrolle ein. Bringt er seine Haltung in gesamtschweizerische Gremien ein, kann er eine Rolle
+über die Kantonsgrenze hinaus spielen. Viele der vorgeschlagenen Massnahmen (ambitionierte
+Ziele, Photovoltaik-Pflicht auf bestehenden Bauten, Weiterführung der Förderung) entsprechen den
+politik- und sozialwissenschaftlichen Empfehlungen.
+
+2.2
+
+Abklärungen der UVEK zur Photovoltaik-Pflicht bei bestehenden Bauten
+
+Die UVEK hat zur Photovoltaik-Pflicht bei bestehenden Bauten diverse Abklärungen getroffen, einerseits aufgrund von Fragen der Kommissionsmitglieder, andererseits aufgrund der an den Hearings aufgekommenen Themen.
+2.2.1
+
+Ermittlung der Photovoltaik-Pflicht
+
+Für die UVEK geht aus dem Ratschlag des Regierungsrats nicht abschliessend hervor, wie die
+Photovoltaik-Pflicht ermittelt wird. Sie hat sich deshalb den Prozess im Detail erläutern lassen.
+Mit dem Solarkataster wird die Eignung einer Dachfläche aufgrund von physikalischen Verhältnissen wie der Globalstrahlung, der Ausrichtung, der Neigung und der Verschattung festgestellt. Eine
+Aussage zur technischen Machbarkeit macht der Kataster aber nicht. In einem ersten Schritt wird
+auf Basis des Katasters ermittelt, ob ein Gebäude der Photovoltaik-Pflicht unterliegt oder nicht.
+Nicht betroffen sind Dächer mit einer gemäss Solarkataster geeigneten Dachfläche von weniger
+als 100 Quadratmetern. In jedem Fall von der Pflicht ausgenommen sind Kulturdenkmäler.
+Unterliegt eine Dachfläche der Pflicht, wird in einem zweiten Schritt festgelegt, wie viel Photovoltaik-Leistung installiert werden muss, um die Pflicht zu erfüllen. Als nicht nutzbar gelten u.a. Dachfensterflächen, Dachterrassen, Schneefänge und Flächen, deren Nutzung wegen Schutzbestimmungen nicht erlaubt ist.
+Abbildung 1: Ermittlung der Photovoltaik-Pflicht
+
+Die Pflicht gilt ohne weiteren Nachweis als erfüllt, wenn 70% der gemäss Solarkataster geeigneten
+Fläche mit einer Leistung von 200 Watt/m2 genutzt wird. Ist dies nicht möglich, wird der Umfang
+der Pflicht auf Nachweis der technisch nutzbaren Fläche entsprechend reduziert. Wird die
+
+Seite 9/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+technisch nutzbare Fläche (die sich in Spezialfällen, zum Beispiel bei einem Gewächshaus, bis auf
+null reduzieren kann) mit Photovoltaik-Modulen belegt, ist keine Ersatzabgabe geschuldet.
+2.2.2
+
+Verhältnismässigkeit
+
+Zur Frage, ob es sich bei der Photovoltaik-Pflicht um einen unzulässigen Eingriff in die in der Bundesverfassung garantierte Eigentumsgarantie und Wirtschaftsfreiheit handelt, argumentiert der Regierungsrat damit, dass sich die Pflicht zur Eigenstromerzeugung nicht von anderen Bauvorschriften unterscheidet. Eingriffe in die Grundrechte seien zudem zulässig, wenn dafür eine gesetzliche
+Grundlage und ein öffentliches Interesse bestehen und sie verhältnismässig ausgestaltet sind.
+Die gesetzliche Grundlage wird mit der Anpassung des kantonalen Energiegesetzes geschaffen,
+das öffentliche Interesse am Ausbau einer lokalen und erneuerbaren Stromproduktion ist durch das
+in der Verfassung verankerte Netto-Null-Ziel 2037 gegeben. Verhältnismässig ist eine Massnahme,
+wenn sie für die Betroffenen zumutbar sowie geeignet und erforderlich ist, um die zugrundeliegenden Ziele zu erreichen.
+Die zur Erreichung des Netto-Null-Ziels notwendige Dekarbonisierung der Wärmeversorgung und
+der Mobilität dürfte zu einer Zunahme des Stromverbrauchs um etwa 25% führen. Um dieser Entwicklung gerecht zu werden, erachtet der Regierungsrat die Nutzung des Solarstrompotenzials als
+geeignet. Verhältnismässig dürfte die Photovoltaik-Pflicht zudem sein, da sich damit die Unabhängigkeit der Energieversorgung erhöht und die Abhängigkeit von Entwicklungen im Ausland reduziert. Im Kanton Basel-Stadt kommt als ausbaufähige erneuerbare Energiequelle nur die Photovoltaik infrage. Die solare Nutzungspflicht bei Bestandesbauten dürfte deshalb auch dann verhältnismässig sein, wenn sie über den Eigenverbrauch hinausgeht und in kürzerer Zeit als dem typischen
+Sanierungszyklus eines Gebäudes umgesetzt werden muss. Mit den definierten Ausnahmen von
+der Pflicht, der finanziellen Förderung, der Übergangsfrist von 15 Jahren und der Aufteilung der
+Ersatzabgabe auf zehn Jahre dürfte die Eigenerzeugungspflicht für bestehende Gebäude schliesslich auch zumutbar ausgestaltet sein. Weitere rechtliche Einschätzungen zur Photovoltaik-Pflicht
+finden sich in Kapitel 6.2.3 des Ratschlags.
+2.2.3
+
+Flächenuntergrenze
+
+Die Photovoltaik-Pflicht erstreckt sich gemäss dem Antrag des Regierungsrats auf Bauten und Anlagen, die gemäss Solarkataster eine gut oder sehr gut geeignete Dachfläche von mindestens 100
+Quadratmetern aufweisen. Diese Untergrenze bedeutet, dass etwa 8'750 von 35'000 Gebäuden
+und etwa drei Viertel der gut bis sehr gut geeigneten Dachflächen im Kanton unter die Pflicht fallen.
+Die UVEK stellt fest, dass die Motion Jürg Stöcklin und Konsorten betreffend «Aufbruch ins Solarzeitalter» - mehr Photovoltaik-Anlagen auf Basels Dächern und Fassaden eine Photovoltaik-Pflicht
+auf allen geeigneten Bauten fordert, also keine Untergrenze vorsieht. Die Konferenz Kantonaler
+Energiedirektoren (EnDK) empfiehlt in den Mustervorschriften der Kantone im Energiebereich (MuKEn) bei Dachsanierungen eine Untergrenze von 50 Quadratmetern. Mit dieser Grenze fielen im
+Kanton Basel-Stadt etwa doppelt so viele Gebäude und ungefähr 90% der geeigneten Dachfläche
+unter die Pflicht.
+Bei den MuKEn handelt es sich um unverbindliche Mustervorgaben, deren Umsetzung den Kantonen obliegt. Die UVEK hat sich erkundigt, warum der Regierungsrat die Grenze nicht bei 50, sondern bei 100 Quadratmetern ziehen möchte. Die Antwort aus dem Departement für Wirtschaft,
+Soziales und Umwelt lautete, dass die MuKEn die Installation von Photovoltaik-Anlagen ausschliesslich im Rahmen von Dachsanierungen verlangen. Die Solaroffensive sieht hingegen vor,
+dass nach 15 Jahren auf allen Dächern, die unter die Pflicht fallen, eine Anlage installiert sein muss.
+Eine Verknüpfung von Dachsanierung und Photovoltaik-Pflicht könnte dazu führen, dass Hauseigentümerinnen und Hauseigentümer mit Dachsanierungen so lange wie möglich zuwarten. Dies
+möchte der Regierungsrat verhindern. Bei Dächern mit einer geeigneten Dachfläche unter 100
+Quadratmetern setzt er auf Freiwilligkeit.
+
+Seite 10/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+Die UVEK stellt fest, dass der Regierungsrat die Untergrenze auch aufgrund von Rückmeldungen
+aus der Vernehmlassung von 50 auf 100 Quadratmeter erhöht hat. Einige Kommissionsmitglieder
+begrüssen diesen Schritt, andere hätten lieber eine tiefere Untergrenze. Ein Antrag für eine tiefere
+Untergrenze stand zwar im Raum, wurde aber nicht gestellt.
+Die UVEK erwartet, dass der Kanton in der Kommunikation zur Solaroffensive deutlich macht, dass
+die Installation einer Photovoltaik-Anlage auch auf kleineren Flächen wirtschaftlich interessant sein
+kann. Es braucht dafür keine 100 Quadratmeter grosse Dachfläche. Schon heute werden auf vielen
+kleineren Dächern Photovoltaik-Anlagen installiert.
+2.2.4
+
+Solarkataster des Kantons
+
+Die UVEK hat festgestellt, dass sich private Solarfirmen teilweise auf andere Kataster stützen. Bei
+allen Katastern gilt ein Dach mit einer Globalstrahlung von mindestens 800 kWh/m2a als geeignet.
+Im Kataster des Kantons gilt eine Fläche ab diesem Wert als gut geeignet, eine mit einer Globalstrahlung von mindestens 1'100 kWh/m2a als sehr gut geeignet. Andere Kataster unterteilen
+feiner (z.B. von gering bis hervorragend), beginnen aber ebenfalls bei 800 kWh/m2a. Sie weisen
+teilweise auch nicht geeignete Flächen aus, was im Kataster des Kantons nicht der Fall ist.
+Abbildung 2: Ausschnitt aus dem Solarkataster des Kantons
+
+Der UVEK wurde erläutert, dass das Solarkataster des Kantons auf dem hochauflösenden Gebäudemodell des Kantons basiert und Globalstrahlungs- bzw. Sonneneinstrahlungsdaten berücksichtigt. Er ist im Vergleich zu den Katastern von Solarfirmen sehr genau. Allfällige Fehler lassen sich
+korrigieren. Die dem Gebäudemodell zugrundeliegenden Definitionen von Gebäuden und von
+Dachflächen sind in einer Verordnung geregelt und sind unveränderbar.
+Die Feinheit der Differenzierung ist in Bezug auf die Photovoltaik-Pflicht zwar unerheblich, die
+UVEK könnte sich aber vorstellen, dass der Kanton sein Kataster diesbezüglich z.B. an das u.a.
+von den IWB genutzte Tool von Planeco angleicht, um Unklarheiten zu vermeiden. Der Kataster
+des Kantons dürfte für die Festlegung der Photovoltaik-Pflicht aber die beste Grundlage sein.
+
+Seite 11/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+2.2.5
+
+Technisch nutzbare Fläche
+
+Die UVEK hat sich mit der Frage befasst, inwiefern die im Solarkataster ausgewiesene geeignete
+Dachfläche tatsächlich nutzbar ist, und was geschieht, wenn sie technisch nicht genutzt werden
+kann. Ihr wurde erläutert, dass die für die Ermittlung der Photovoltaik-Pflicht massgebende technisch nutzbare Fläche in aller Regel kleiner ist als die im Solarkataster ausgewiesene geeignete
+Fläche. Dies deshalb, weil bei der Installation einer Photovoltaik-Anlage ein gewisser Abstand zum
+Dachrand eingehalten werden, und weil Dachfenster, Dachterrassen und weitere Elemente die verfügbare Fläche reduzieren. In aller Regel sei es aber möglich, 70% der unter die Pflicht fallenden
+Dachfläche mit Photovoltaik-Modulen zu belegen. Deshalb erstreckt sich die Pflicht nicht auf 100%
+der Dachfläche, sondern es wird bei der Berechnung der Pflichtleistung davon ausgegangen, dass
+70% davon mit Photovoltaik-Modulen belegt werden kann.
+Der Vorschlag des Regierungsrats sieht nicht eine bestimmte Anzahl von Modulen, sondern eine
+Photovoltaik-Leistung von 200 W pro genutztem Quadratmeter vor. Die Pflichtleistung wird mit der
+Formel Photovoltaik-Pflichtleistung [kW] = 0.7 * geeignete Dachfläche in m2 * 0.2 kW / m2 berechnet. Der pauschale Abzug von 30% deckt die üblichen Fälle ab und erlaubt einen effizienten Vollzug. Sind weniger als 70% der geeigneten Dachfläche technisch nutzbar, kann der Umfang der
+Pflicht auf Nachweis auf die effektiv technisch nutzbare Dachfläche reduziert werden. Dann gilt die
+Formel Photovoltaik-Pflichtleistung [kW] = technisch nutzbare Dachfläche in m2 * 0.2 kW / m2.
+Die UVEK stellt fest, dass der Vorschlag des Regierungsrats keine absolute Gleichbehandlung
+garantiert. Ein Haus mit einer gemäss Solarkataster geeigneten Dachfläche von 90 Quadratmetern
+und einer technisch nutzbaren Fläche von 80 Quadratmetern fällt nicht unter die Pflicht, ein Haus
+mit einer gemäss Solarkataster geeigneten Dachfläche von 100 Quadratmetern und einer technisch nutzbaren Fläche von 60 Quadratmetern hingegen schon. Würde man – um solche Ungleichheiten zu verhindern – die technische Nutzbarkeit als für die Pflicht massgebend deklarieren, wäre
+dies mit einem grossen administrativen Aufwand verbunden. Unter Beibehalt der Grenze von 100
+Quadratmetern dürften überdies viele Dächer aus der Pflicht fallen, wäre die technisch nutzbare
+Fläche relevant. Die UVEK erachtet es deshalb als richtig, wenn die gemäss Solarkataster geeignete Fläche für die Pflicht massgebend ist. Dass sich auf einem Dach weniger als 70% der geeigneten Fläche für die Photovoltaik nutzen lässt, dürfte die Ausnahme sein. Oft sind zudem auch
+kleinere Photovoltaik-Anlagen wirtschaftlich. Es braucht dafür kein 100 Quadratmeter grosses
+Dach.
+Veranschaulichung: Auf einem Dach mit gemäss Solarkataster 100 Quadratmetern geeigneter Fläche muss mindestens eine Fläche von 70 Quadratmetern belegt und mindestens eine Leistung von
+14 kW (0.7 * 100 m2 * 0.2 kW) erbracht werden. Lassen sich auf dem Dach z.B. wegen einer
+bestehenden Dachterrasse nur 60 Quadratmeter nutzen, muss diese Fläche belegt werden und
+eine Leistung von 12 kW (0.6 * 100 m2 * 0.2 kW) erbracht werden. In einem solchen Fall entfällt die
+Pflicht nicht, und Ersatzabgabe ist keine geschuldet.
+2.2.6
+
+Systemgrenzen bei der Bemessung der Photovoltaik-Pflicht
+
+Die UVEK hat sich mit der Frage befasst, wie mit zusammenhängenden Gebäuden auf unterschiedlichen Parzellen oder mehreren Gebäuden auf einer Parzelle umgegangen wird. Ihr wurde erläutert,
+dass die Systemgrenze zur Bemessung der Pflicht nicht entlang der Parzellengrenze, sondern mittels der vom Bundesamt für Statistik für jedes Gebäude vergebene EGID-Nummer gezogen wird.
+Dieser Nummer sind die Gebäudefläche, der Grundriss und weitere Daten hinterlegt. Die Abtrennung eines Gebäudeteils oder die Trennung eines Gebäudes in zwei Gebäude, um der Photovoltaik-Pflicht zu entkommen, ist demnach nicht möglich. Theoretisch möglich wäre es, ein Gebäude
+zur Umgehung der Pflicht zu verkleinern, was aber kaum verhältnismässig wäre.
+Da die EGID-Nummer ausschlaggebend ist, wird die Photovoltaik-Pflicht bei mehreren Gebäuden
+auf einer Parzelle für jedes einzeln ermittelt. Die geeigneten Dachflächen werden nicht addiert.
+Zwei Gebäude auf derselben Parzelle, die beide weniger als 100 Quadratmeter, gemäss Solarkataster aber zusammen mehr als 100 Quadratmeter geeignete Dachfläche aufweisen, fallen beide
+
+Seite 12/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+nicht unter die Pflicht. Damit soll gemäss Regierungsrat sichergestellt werden, dass keine unwirtschaftlichen Anlagen realisiert werden (müssen). Fällt nur das grössere von zwei Gebäuden auf
+einer Parzelle in die Pflicht, kann die Pflicht aber (ganz oder teilweise) auf dem kleineren Dach
+erfüllt werden. Dies ergibt z.B. Sinn, wenn das grössere Gebäude eine Lagerhalle mit geringem
+Strombedarf und das kleinere ein Wohnhaus mit höherem Strombedarf ist.
+Die UVEK stuft den Umgang in Fällen mit zwei oder mehr Gebäuden auf einer Parzelle als zielführend ein. Sie stellt gleichzeitig fest, dass es sich dabei um seltene Fälle handelt.
+2.2.7
+
+Berücksichtigung von neuen Dachfenstern
+
+Die UVEK hat sich mit der Frage befasst, ob man sich durch den Einbau von Dachfenstern oder
+ähnlichen Massnahmen von der Pflicht nachträglich befreien kann. Ihr wurde erläutert, dass sich
+an der Pflicht nichts ändert, wenn eine Dachfläche nach der Einführung der Photovoltaik-Pflicht
+z.B. durch den Einbau eines Dachfensters verändert wird. Dachfenster, die innerhalb der 15 Jahre
+realisiert werden, können nicht von der Dachfläche, die unter die Photovoltaik-Pflicht fällt, abgezogen werden. Dies gilt auch dann, wenn dadurch die gemäss Solarkataster geeignete Dachfläche
+unter 100 Quadratmeter sinkt. Es ist also nicht möglich, sich auf diese Weise von der Pflicht zu
+befreien. Zudem ist der Einbau eines Dachfensters teurer als die Belegung derselben Fläche mit
+Photovoltaik-Modulen.
+Die UVEK hat sich auch erkundigt, ob die Photovoltaik-Pflicht den Ausbau eines Dachstocks und
+die Schaffung von Wohnraum verunmöglichen kann. Sie stellt fest, dass – sofern es die Baugesetzgebung zulässt – auf 30% einer Dachfläche Dachfenster eingebaut werden können, wenn die
+Pflichtleistung auf den verbleibenden 70% erbracht wird. Für den Einbau von Dachflächenfenstern
+braucht es eine Baubewilligung, wenn sie mehr als 10% der Dachfläche einnehmen. Hinzuweisen
+ist in diesem Zusammenhang darauf, dass die Photovoltaik-Pflicht nicht absolut ist. Wer ihr nicht
+nachkommen will, kann stattdessen die Ersatzabgabe zahlen. Diese ist im Vergleich zu den Investitionen, die für den Ausbau eines Dachstocks anfallen, nicht hoch. Zudem gibt es auch die Möglichkeit, die Pflichtleistung an der Fassade zu erfüllen.
+Einen Antrag, nach Inkrafttreten der Solaroffensive eingebaute Dachfenster gleich zu behandeln
+wie bestehende, hat die UVEK mit 6:5 Stimmen bei 1 Enthaltung abgelehnt.
+2.2.8
+
+Übergangsfrist und Ersatzabgabe bei gleichzeitiger Dachsanierung
+
+Bei der Übergangsfrist orientiert sich der Regierungsrat an den von der Motion Jürg Stöcklin und
+Konsorten betreffend «Aufbruch ins Solarzeitalter» - mehr Photovoltaik-Anlagen auf Basels Dächern und Fassaden geforderten 15 Jahren. Wer der Photovoltaik-Pflicht in dieser Zeit nicht nachkommt, muss eine Ersatzabgabe zahlen.
+Die UVEK hat sich damit auseinandergesetzt, wie sich die 15-jährige Übergangsfrist auf eine kombinierte Planung von Dachsanierung und Bau einer Photovoltaik Anlage auswirkt. Wer innerhalb
+der 15 Jahre ein unter die Pflicht fallendes Dach saniert, muss die Photovoltaik-Anlage gleichzeitig
+installieren und kann nicht länger abwarten. Wird hingegen mit dem Bau der Photovoltaik-Anlage
+erst nach der Frist begonnen, da man die Dachsanierung erst später plant, fällt für die überschrittenen Jahre eine Ersatzabgabe an.
+Die UVEK weist darauf hin, dass für Dachflächen, die der Photovoltaik-Pflicht nicht unterliegen oder
+von dieser ausgenommen werden, keine Ersatzabgabe geschuldet ist. Sie stuft es im Sinne der mit
+der Solaroffensive verbundenen Ziele als angemessen und realistisch ein, dass die Pflicht innerhalb von 15 Jahren erfüllt werden muss. Wer die Photovoltaik-Anlage erst danach installieren
+möchte, um sie mit einer Dachsanierung zu kombinieren, zahlt die Ersatzabgabe (nur) anteilsmässig für die dazwischenliegenden Jahre.
+
+Seite 13/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+2.2.9
+
+Härtefallregelung, Bürgschaften und Contracting
+
+Die UVEK stellt fest, dass der Regierungsrat für Privatpersonen, die in einer eigenen Liegenschaft
+wohnen, welche unter die Photovoltaik-Pflicht fällt, bei ungenügender Liquidität eine Härtefallregelung vorsieht.
+Die Frist zur Erfüllung der Photovoltaik-Pflicht kann in Härtefällen über die gesetzlich verankerten
+15 Jahre hinaus verlängert werden, und zwar bis maximal drei Jahre nach der nächsten Handänderung. Dies ist z.B. vorstellbar, wenn jemand aufgrund fortgeschrittenen Alters keine Hypothek
+mehr aufnehmen kann.
+Voraussetzung für die Gewährung des zeitlichen Aufschubs ist zum einen der Nachweis der fehlenden Liquidität, zum anderen der Nachweis, dass sich die Dachfläche nicht im Rahmen eines
+Contractings an Dritte vermieten lässt, welche die Photovoltaik-Anlage finanzieren und betreiben.
+Für Hauseigentümerinnen und Hauseigentümer, die nicht in der eigenen Liegenschaft wohnen,
+sieht der Regierungsrat keine Ausnahmen vor.
+Die UVEK hat sich beim Departement für Wirtschaft, Soziales und Umwelt erkundigt, ob – allenfalls
+an Stelle der Härtefallregelung – die IWB eine «Contracting-Garantie» anbieten könnten. Eine solche ist gemäss erhaltener Antwort nicht vorgesehen. Eine staatliche Garantie würde den Wettbewerb verzerren. Im heutigen Zinsumfeld sei zudem eine Hypothek günstiger als ein Contracting.
+Contractings sind dann sinnvoll, wenn sich eine Eigentümerschaft nicht mit der Sache auseinandersetzen will und bereit ist, für den Mehraufwand zu bezahlen.
+Die UVEK hat sich darüber hinaus erkundigt, ob der Kanton Bürgschaften anbieten könnte, falls
+kein Contractingpartner gefunden wird. Der UVEK wurde erläutert, dass der Regierungsrat auf administrativ aufwendige staatliche Bürgschaften verzichten möchte. Der Kanton müsste mit allen
+Hypothekenbanken ein Bürgschaftsprogramm aufziehen. Bürgschaften ergeben erst ab Beträgen
+von etwa 0.5 Mio. Franken Sinn.
+Die UVEK geht davon aus, dass es nur wenige Härtefälle geben wird, begrüsst aber dennoch, dass
+der Regierungsrat eine Härtefallregelung in die Solaroffensive eingebaut hat. Die geeignete Dachfläche eines durchschnittlichen Einfamilienhauses ist weniger gross als 100 Quadratmeter. Bei
+grossen Einfamilienhäusern oder Mehrfamilienhäusern dürfte die fehlende Liquidität selten ein
+Problem sein. Ein Bürgschaftsprogramm empfände die Kommission als unverhältnismässig. Die
+Nachfrage nach Bürgschaften wäre dank der Härtefallregelung vermutlich gering.
+Die UVEK erwartet, dass das Amt für Umwelt und Energie die Hauseigentümerinnen und Hauseigentümer im Rahmen der Solarberatung (vgl. Kapitel 2.3.2) über die Möglichkeit des Contractings
+informiert.
+2.2.10
+
+Photovoltaik-Pflicht an Fassaden
+
+Eine Photovoltaik-Pflicht an Fassaden von Bestandesbauten ist im Gegensatz zur Vernehmlassungsvorlage und zur Motion Jürg Stöcklin und Konsorten betreffend «Aufbruch ins Solarzeitalter»
+- mehr Photovoltaik-Anlagen auf Basels Dächern und Fassaden nicht Gegenstand des Ratschlags.
+Der Regierungsrat begründet dies mit den fehlenden Erfahrungen mit Photovoltaik-Modulen an
+bestehenden Fassaden. Er empfände eine Nutzungspflicht derzeit als nicht verhältnismässig. Die
+Nutzung von Fassaden ist jedoch möglich und wird von Bund und Kanton zusätzlich gefördert (vgl.
+Kapitel 2.3.1).
+Unabhängig vom vorliegenden Geschäft festhalten möchte der Regierungsrat an der Anpassung
+an die MuKEn 2025 bei Neubauten. Die MuKEn sehen zwar keine direkte Photovoltaik-Pflicht an
+Fassaden vor, je nach Gebäudeform kann es aber sein, dass es zur Erfüllung der Pflicht auch
+Fassadenmodule braucht. Die UVEK kann das Vorgehen des Regierungsrats aufgrund der Rückmeldungen zur Vernehmlassung nachvollziehen.
+
+Seite 14/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+2.2.11
+
+Photovoltaik-Pflicht und Dachbegrünungspflicht
+
+Die UVEK hat sich mit dem Nutzungskonflikt zwischen Photovoltaik und Dachbegrünung auseinandergesetzt. Sie ist damit auch einem Anliegen der BRK nachgekommen. Diese empfiehlt der UVEK
+in ihrem Mitbericht, «die Aspekte der Kombination von PV mit Begrünung, der Anrechenbarkeit
+solarthermischer Anlagen sowie insbesondere den Aspekt der Qualitätssicherung vertieft zu prüfen
+und zu präzisieren».
+Viele Flachdächer eignen sich sowohl für die Stromproduktion als auch für die Förderung der Biodiversität und die Verbesserung des Stadtklimas mittels Dachbegrünung. Das eine schliesst das
+andere nicht zwingend aus. Mit der Einführung der Photovoltaik-Pflicht bei Bestandsbauten unterliegen Flachdächer ab 100 Quadratmetern einer doppelten Pflicht.
+Abbildung 3: Begrüntes Dach mit aufgeständerten Photovoltaik-Modulen
+
+Die in § 72 des BPG verankerte Pflicht zur Begrünung von Flachdächern gilt für ungenutzte Flachdächer ab einer Fläche von 10 Quadratmetern und einer Dachneigung von bis zu 10 Grad. Aufgrund der für die Photovoltaik-Pflicht vorgesehenen Flächenuntergrenze von 100 Quadratmetern
+müssen auch in Zukunft mehr Flachdächer begrünt als mit einer Photovoltaik-Anlage ausgestattet
+werden. Da eine Photovoltaik-Anlage nicht als Nutzung gilt, müssen aber gemäss der heutigen
+Bestimmung im BPG auch Dächer mit Photovoltaik-Anlage begrünt werden.
+Die Erfüllung der doppelten Pflicht ist auch mit aufgeständerten Modulen möglich. Diese eignen
+sich allerdings nicht in jedem Fall und sind überdies teurer. Da sowohl die nachträgliche Begrünung
+einer Dachfläche mit einer Photovoltaik-Anlage als auch die nachträgliche Installation einer Photovoltaik-Anlage auf einem intensiv begrünten Dach mit zusätzlichen Schwierigkeiten verbunden ist,
+schlägt der Regierungsrat vor, bereits intensiv begrünte Dachflächen von der Photovoltaik-Pflicht
+auszunehmen.
+
+Seite 15/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+Bestehende Praxis und angedachte Revision von § 72 BPG
+Die UVEK erkennt in der Gesetzgebung, die nach der Einführung der neuen Solarpflicht auf bestehenden Bauten gälte, eine potenzielle Ungewissheit für Hauseigentümerinnen und Hauseigentümer, die nach Inkrafttreten der Solaroffensive beide Pflichten erfüllen müssen. Sie hat sich deshalb
+aufzeigen lassen, wie die beiden zuständigen Departemente mit der doppelten Pflicht umgehen
+werden und ob eine Revision von § 72 BPG angedacht ist.
+Innerhalb der Verwaltung ist man sich gemäss Informationsstand der UVEK darüber einig, wie mit
+der doppelten Pflicht umgegangen werden soll. Bei noch ungenutzten Flächen gibt es zwei Möglichkeiten: Entweder werden auf ein vollflächig begrüntes Dach aufgeständerte Photovoltaik-Module gestellt (100/100‑Aufteilung) oder es werden 60% der Fläche für die Photovoltaik und 40% der
+Fläche für die Begrünung genutzt (60/40‑Aufteilung). Eine bereits begrünte Dachfläche muss nicht
+mit Photovoltaik-Anlagen belegt werden, sofern sie nicht umfassend saniert wird.
+Die 60/40-Aufteilung entspricht der heutigen Praxis von Amt für Umwelt und Energie und Stadtgärtnerei bei Neubauten. Die 100/100-Aufteilung ist freiwillig und nicht auf allen Dächern umsetzbar.
+Die UVEK hat erfahren, dass die 60/40-Aufteilung im Rahmen eines umfassenden Ratschlags zum
+Stadtklimakonzept (Umsetzung des Stadtklimakonzeptes: Handlungsfeld 3, formelle Vorgaben) im
+BPG verankert werden soll. Da dies erst in ein paar Jahren geschehen dürfte, bleibt die potenzielle
+Ungewissheit für Hauseigentümerinnen und Hauseigentümer bis dann bestehen.
+Erwägung einer vorgezogenen Revision von § 72 BPG
+Die UVEK hat sich überlegt, ob die Revision von § 72 BPG bereits im Rahmen der Solaroffensive
+umgesetzt werden sollte. Da die Federführung dafür beim Bau- und Verkehrsdepartement liegt, hat
+sie einen Vertreter dessen Rechtsabteilung angehört. Dieser hat der UVEK bestätigt, dass der Regierungsrat noch nicht über die Anpassung dieses Artikels diskutiert hat. Mit der Revision soll die
+Pflicht zur Flachdachbegrünung präzisiert und im Gesetz festgehalten werden, welche Nutzungen
+möglich sind. Ausgeschlossen werden soll, dass eine ungenutzte Flachdachfläche weder begrünt
+noch für die Photovoltaik genutzt wird. Die bisherige Bestimmung («Ungenutzte Flachdächer sind
+mit einer Vegetationsschicht zu überdecken») soll durch die vier folgenden Bestimmungen, deren
+Ausformulierung noch nicht definitiv ist, ersetzt werden:
+▪
+
+Flachdächer mit einer Neigung bis und mit 10 Grad und mit einer begrünbaren Dachfläche
+von mindestens 10 Quadratmetern sind mit einer ökologisch wertvollen Vegetationsschicht
+zu versehen.
+→ Flächen unter 10 Quadratmetern sind ausgenommen, da sie keine nennenswerte Wirkung
+auf das Stadtklima haben. Eine Begrünungspflicht wäre deshalb unverhältnismässig. Steile
+Dächer sind schwierig zu begrünen und sollen deshalb ausschliesslich für die Photovoltaik
+genutzt werden. Dass die Begrünung ökologisch wertvoll sein muss, entspricht der heutigen
+Praxis.
+
+▪
+
+Solaranlagen sind auf maximal 60% der Flachdachflächen zulässig. Aufgeständerte Solaranlagen sind in Kombination mit einer Begrünung vollflächig zulässig.
+→ Die Bestimmung entspricht der heutigen Praxis, wenn auf der gleichen Fläche beide
+Pflichten gelten. Eine Doppelpflicht (Begrünung und Photovoltaik auf der gleichen Fläche) ist
+nicht vorgesehen, mit aufgeständerten Photovoltaik-Modulen aber freiwillig möglich.
+
+▪
+
+Anstelle von Solaranlagen sind weitere Nutzungen auf maximal 30% der Flachdachflächen
+zulässig.
+→ 30% der Dachfläche dürfen anderweitig (z.B. für eine Dachterrasse etc.) genutzt werden.
+Dabei handelt es sich um eine Bauvorschrift. Nicht zu den weiteren Nutzungen gehören technisch notwendige Installationen wie Liftaufbauten und Lüftungsanlagen.
+
+▪
+
+Flachdächer eingeschossiger Bauten gemäss § 81 Abs. 1 lit. c sind intensiv zu begrünen.
+
+Seite 16/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+→ Bei eingeschossigen Bauten gemäss § 81 Abs. 1 lit. c handelt es sich um Gewerbebauten
+mit Geschossflächen oder Ausnutzungsziffern, die über die im Baurecht vorgesehenen
+Masse hinausgehen. Da gesetzliche Frei- bzw. Grünflächen überbaut werden, soll im Sinne
+einer Kompensation eine intensive (statt nur extensive) Begrünung verlangt werden. Die Bestimmung dürfte nur in Einzelfällen zur Anwendung kommen.
+Die UVEK ist basierend auf den erhaltenen Informationen mit 11:1 Stimmen bei 1 Enthaltung zum
+Schluss gekommen, auf eine Revision von § 72 des BPG im Rahmen des Ratschlags zur Solaroffensive zu verzichten. Eine gleichzeitige Legiferierung wäre zwar sinnvoll, ist aber nicht zwingend,
+besteht doch für Neubauten, bei denen die doppelte Pflicht schon heute gilt, eine etablierte Praxis.
+Die gesetzliche Grundlage für die Förderung von Photovoltaik-Anlagen, auch für Zusatzbeiträge für
+die Kombination mit einer Dachbegrünung, ist § 20 des Energiegesetzes. Die Solaroffensive ist mit
+der aktuellen Gesetzgebung umsetzbar. Eine Einbindung der Revision von § 72 des BPG in den
+Ratschlag zur Solaroffensive hätte zudem zur Folge, dass dazu keine Vernehmlassung stattfinden
+würde.
+Vor- und Nachteile einer Kombi-Lösung
+Die UVEK hat sich nach den Auswirkungen der Kombination von aufgeständerten PhotovoltaikModulen und Dachbegrünung auf die Biodiversität erkundigt. Gemäss existierender Studien sind
+die Meinungen dazu geteilt. Die Stadtgärtnerei stuft ein abgestimmtes System mit einem sogenannten Habitatmosaik als für die Biodiversität wertvoll ein. Auf einem so gestalteten Dach gibt es
+beschattete und besonnte Bereiche und solche mit mehr bzw. weniger Substrat.
+Eine kombinierte Fläche ist mit einem höheren Pflegeaufwand verbunden. Man muss sicherstellen,
+dass die Photovoltaik-Anlage nicht von Pflanzen überwuchert wird. Eher nachteilig ist es für die
+Biodiversität, wenn eine Photovoltaik-Anlage auf ein bereits begrüntes Dach gestellt wird. Dann
+muss man hochgewachsene Pflanzen entfernen und die Begrünung (teilweise) neu anlegen. Eine
+Photovoltaik-Anlage bedeutet mehr Schatten und mehr Feuchtigkeit, was zu anderen und höher
+wachsenden Pflanzen führen kann. Aus diesen Überlegungen schlägt der Regierungsrat vor, bereits begrünte Dächer von der Photovoltaik-Pflicht auszunehmen.
+Zusätzliche Förderung von Kombi-Lösungen
+Der Kanton fördert Dach- und Fassadenbegrünungen, die über die gesetzlichen Vorgaben hinausgehen, mit Mitteln aus dem Mehrwertabgabefonds. Dies ist u.a. dann der Fall, wenn ein Dach ohne
+thermische Sanierung begrünt wird, wenn die Begrünung intensiver ist als das vorgegebene Minimum, oder wenn spezielle ökologische Strukturen geschaffen werden.
+Daran ändert sich mit der Solaroffensive nichts. Die UVEK empfände es aber für gerechtfertigt,
+erhielte einen zusätzlichen Beitrag, wer freiwillig das gesamte Dach begrünt und mit aufgeständerten Photovoltaik-Modulen ausrüstet oder ein begrüntes Dach mit einer Photovoltaik-Anlage ausstattet (100/100‑Aufteilung). Damit würde der höhere Installations- und Pflegeaufwand (einmalig)
+abgegolten. Die Aufständerung und der zusätzliche Pflegeaufwand reduzieren zwar die Wirtschaftlichkeit, dafür kann mit aufgeständerten Modulen bei geeigneter Ausrichtung mehr Winterstrom
+produziert werden als mit flach verlegten Modulen.
+Die UVEK bittet den Regierungsrat daher, für die genannten Fälle in der Verordnung einen Zusatzbeitrag von 100 Franken pro kW Photovoltaik-Leistung zu verankern. Eine Abgeltung des tatsächlichen Unterhalts wäre administrativ (zu) aufwendig. Die im Vergleich zur Tabelle auf Seite 40 des
+Ratschlags entsprechend ergänzte Übersicht über die Förderbeiträge findet sich in Tabelle 1.
+
+Seite 17/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+Tabelle 1: Vorgesehene Förderbeiträge
+Jahr nach Inkrafttreten
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+Grundbeitrag (CHF pro kW Leistung)
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+
+Zusatzbeitrag Fassaden (CHF pro kW Leistung)
+
+100
+
+100
+
+100
+
+100
+
+100
+
+0
+
+Zusatzbeitrag Kulturdenkmäler (CHF pro kW Leistung)
+
+100
+
+100
+
+100
+
+100
+
+100
+
+0
+
+Zusatzbeitrag Begrünung (CHF pro kW Leistung)
+
+100
+
+100
+
+100
+
+100
+
+100
+
+0
+
+2.2.12
+
+Gleichstellung von Solarthermieanlagen
+
+Die Solaroffensive legt den Fokus auf den Bau von Photovoltaik-Anlagen. An die PhotovoltaikPflicht angerechnet werden können bestehende, nicht aber neue Solarthermieanlagen. Es ist also
+nicht möglich, statt einer Photovoltaik-Anlage zur Stromproduktion eine Solarthermieanlage zur
+Warmwasserproduktion zu erstellen. Die BRK bittet die UVEK in ihrem Mitbericht um eine fachliche
+Prüfung, wie Solarthermieanlagen bei der Berechnung der Nutzungspflicht sowie einer allfälligen
+Ersatzabgabe angemessen berücksichtigt werden könnten.
+Regierungsrat priorisiert Strom- gegenüber Warmwasserproduktion
+Die UVEK stellt fest, dass der Kanton den Hauseigentümerinnen und -eigentümern in der Vergangenheit die Solarthermie empfohlen hat, um den Verbrauch fossiler Energie zu reduzieren. Sie hat
+sich deshalb erkundigt, warum der Regierungsrat nun bei der Solarthermie eine Kehrtwende vorschlägt. Gemäss erhaltener Antwort gibt es für die Priorisierung der Strom- gegenüber der Warmwasserproduktion mehrere Argumente. Solarthermieanlagen ergeben vor allem bei Häusern mit
+fossiler Heizung Sinn. Die Warmwasseraufbereitung erfolgt dann mit Sonnenenergie statt mit Gas
+oder Erdöl. Die Dekarbonisierung der Wärmeversorgung ist in Basel allerdings schon weit fortgeschritten. Bis 2037 wird kein Haus mehr mit Gas oder Öl geheizt. Zur Dekarbonisierung braucht es
+deshalb langfristig keine Solarthermieanlagen mehr. Für ein Haus, das an das Fernwärmenetz angeschlossen ist oder über eine Wärmepumpe verfügt, ist selbst produzierter Strom «wertvoller» als
+selbst produziertes Warmwasser. Strom kann für mehr Anwendungen genutzt werden als warmes
+Wasser. Um das mit einer Solarthermieanlage produzierte Warmwasser zu nutzen, braucht es zudem einen separaten Wasserkreislauf. Eine Solarthermieanlage zu installieren ist deshalb aufwendiger als eine Photovoltaik-Anlage. Und überschüssiges Warmwasser kann im Gegensatz zu
+überschüssigem Strom nicht in ein Netz eingespeist werden. Aus diesen Gründen möchte der Regierungsrat, dass auf den Basler Dächern Strom und nicht warmes Wasser produziert wird. Die
+Hauseigentümerinnen und Hauseigentümer folgen dieser Logik schon heute, werden doch immer
+mehr Photovoltaik-Anlagen, aber kaum mehr Solarthermieanlagen erstellt.
+Trotzdem ist es auch in Zukunft möglich, auf einer unter die Photovoltaik-Pflicht fallenden, noch
+ungenutzten Dachfläche (weder Solarthermie noch Photovoltaik) eine Solarthermieanlage zu erstellen, sofern 70% der Fläche für die Photovoltaik genutzt werden. Der Bund fördert Solarthermieanlagen weiterhin, der Kanton Basel-Stadt sieht dies nicht mehr vor. Das politische Ziel des Regierungsrats lautet, in Basel mehr Strom zu produzieren.
+Bestehende Solarthermieanlagen reduzieren die Fläche, die mit Photovoltaik-Modulen belegt werden muss. Liegt die verfügbare Fläche nach Abzug der von der Solarthermieanlage beanspruchten
+Fläche unter 100 Quadratmetern, entfällt die Photovoltaik-Pflicht aber nicht. Da Solarthermieanlagen deutlich weniger Platz benötigen, ist eine Photovoltaik-Anlage auf der verbleibenden Fläche in
+der Regel immer noch wirtschaftlich. Kann die geforderte Leistung wegen der reduzierten Fläche
+nicht erbracht werden, ist zudem keine Ersatzabgabe geschuldet.
+UVEK wünscht generelle Gleichstellung von Photovoltaik- und Solarthermieanlagen
+Die UVEK kann die Haltung des Regierungsrats nachvollziehen. Ein Ausbau der Solarthermie wäre
+in Basel nicht zielführend. Dass bestehende Solarthermieanlagen aufgrund der früheren Empfehlungen des Kantons an die Photovoltaik-Pflicht angerechnet werden, erachtet sie als richtig. Mit 9:0
+
+Seite 18/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+Stimmen bei 2 Enthaltungen spricht sich die UVEK aber dafür aus, auch neue Solarthermieanlagen
+auf die Erfüllung der Photovoltaik-Pflicht anzurechnen. Sie ist überzeugt, dass diese Liberalisierung
+nicht zu einem Solarthermie-Boom führen und die Stromproduktion allenfalls marginal reduzieren
+wird. Möchte eine Hauseigentümerin oder ein Hauseigentümer das Warmwasser selbst produzieren, reicht dafür eine Teilfläche des Dachs. Reduziert sich durch die Kombination beider Technologien die Rentabilität der Photovoltaik-Anlage, geht dies zu Lasten der Hauseigentümerschaft.
+Zur Umsetzung dieser Anpassung hat die Verwaltung der UVEK vorgeschlagen, in der Energieverordnung bestehende und neue Solarthermieanlagen als technisch nicht nutzbare Flächen zu deklarieren. Im Gesetzesentwurf des Regierungsrats steht, dass Dachflächen oder Dachteilflächen
+von der Photovoltaik-Pflicht ausgenommen sind, deren Nutzung für die Eigenstromerzeugung technisch nicht möglich ist. Was als technisch nicht nutzbar gilt, wird in der Verordnung definiert. Der
+Regierungsrat erläutert im Ratschlag, was er unter «technisch nicht nutzbar» versteht. Er verpflichtet sich damit gewissermassen, die Verordnung entsprechend zu formulieren. Da Solarthermieanlagen im Ratschlag nicht als technisch nicht nutzbare Fläche aufgeführt sind, drückt die UVEK an
+dieser Stelle ihre Erwartung aus, dass in der Verordnung sowohl bestehende als auch neue Solarthermieanlagen aufgeführt werden. Würde der Grosse Rat Solarthermieanlagen im Gesetz als
+technisch nicht nutzbare Fläche deklarieren, müsste er dies auch für alle anderen technisch nicht
+nutzbaren Flächen tun. Dies wäre aus Sicht der UVEK nicht stufengerecht.
+Die UVEK weist darauf hin, dass die Gleichstellung von Photovoltaik- und Solarthermieanlagen
+auch bei der Revision von § 72 des BPG berücksichtigt werden muss (vgl. Kapitel 2.2.11).
+2.2.13
+
+Photovoltaik-Pflicht an Fassaden bei Neubauten
+
+Die Handelskammer beider Basel hat die UVEK in ihrer Stellungnahme aufgefordert, darauf hinzuwirken, dass «der verpflichtende Einsatz von Photovoltaik-Anlagen auf Fassaden von Neubauten
+in Schon- und Schutzzonen ebenfalls nur unter hohen gestalterischen Auflagen möglich bleiben
+soll». Die UVEK hat diese Thematik nicht vertieft, da sich die Solaroffensive überwiegend auf Bestandesbauten bezieht. Bei neuen Gebäuden ist die in Quadratmetern ausgewiesene Energiebezugsfläche massgebend. Reicht die Dachfläche eines Neubaus nicht aus, um die PhotovoltaikPflicht umzusetzen, muss die Fassade einbezogen werden. Dies ist namentlich bei Hochhäusern
+der Fall.
+2.2.14
+
+Einbezug von Bundesbauten
+
+Die UVEK stellt fest, dass es im Kanton Basel-Stadt für die Photovoltaik geeignete Flächen in der
+Hoheit oder im Eigentum des Bundes gibt, namentlich Eisenbahnanlagen sowie Infrastrukturen im
+Bereich der Nationalstrassen. Der Kanton kann diese der Photovoltaik-Pflicht nicht unterstellen.
+Gemäss Art. 45 des Energiegesetzes des Bundes sind geeignete Flächen auf technischen Bauten
+und Anlagen solaraktiv auszurüsten.
+Das ASTRA installiert gemäss den Abklärungen der UVEK entlang der Nationalstrassen eigene
+Solaranlagen, wenn es den Strom (für Werkhöfe, Tunnelzentralen, Tunnelportale, Galerien etc.)
+direkt verwenden kann. Die Nutzung weiterer Flächen hat es in verschiedenen Losen ausgeschrieben und vergeben.
+Lärmschutzwände scheinen sich auf den ersten Blick für die Stromproduktion zu eignen. Sie müssen allerdings Vorgaben zur Sicherheit, zum Blendschutz und zum Anprallschutz erfüllen. Module
+auf der zur Strasse gerichteten Seite einer Lärmschutzwand haben zur Folge, dass der Lärm reflektiert statt absorbiert wird. Für die Befestigung der Module gibt es keine Standardlösungen, und
+in nicht erschlossenen Gebieten fehlt häufig der Netzanschluss. All dies kann Photovoltaik an Lärmschutzwänden unrentabel machen.
+Auch die SBB verfügen über eine Strategie für den Photovoltaik-Ausbau. Bis 2030 wollen sie aus
+dieser Quelle 100 GWh, bis 2040 160 GWh Strom pro Jahr produzieren. Nicht möglich sind Photovoltaik-Anlagen in der Nähe von Fahrleitungen, und viele Perrondächer können ohne Ertüchtigung nicht grossflächig mit Modulen belegt werden. Die SBB setzen ihre Strategie im Rahmen der
+
+Seite 19/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+Sanierung von Bahnhöfen um. Für den Bahnhof Basel SBB ist eine Sanierung mit Zeithorizont
+2040 vorgesehen. Dann sind gemäss SBB auch Photovoltaikanlagen auf den Perrondächern geplant.
+
+2.3
+
+Erörterungen der UVEK zu weiteren Massnahmen der Solaroffensive
+
+Die UVEK hat auch die weiteren Elemente der Solaroffensive – die Förderung, die Vereinfachung
+des Zulassungsverfahrens und die Kommunikation und Beratung – erörtert. In diesem Kapitel behandelt sie diese Themen sowie Fragen zum Denkmalschutz und zum Stadtbild, die auch im Mitbericht der BRK angesprochen werden.
+2.3.1
+
+Förderung
+
+Die Installation von Photovoltaik-Anlagen wird sowohl vom Bund als auch vom Kanton Basel-Stadt
+finanziell gefördert. Die UVEK hat sich zum besseren Verständnis die Funktionsweise und die Zusammenhänge zwischen der Bundesförderung und der neu angedachten kantonalen Förderung
+aufzeigen lassen.
+Bundesförderung
+Bei den vom Bund ausgerichteten Investitionsbeiträgen handelt es sich um Einmalvergütungen.
+Erfüllt eine Photovoltaik-Anlage Zusatzbedingungen, die zu einer höheren Winterstromproduktion
+führen, richtet der Bund einen leistungsabhängigen Bonus aus. Mit der Revision des Energiegesetzes hat er mit der gleitenden Marktprämie ein neues Förderinstrument für Anlagen ab 150 kW
+Leistung eingeführt. Bei diesen wird ausschliesslich die produzierte Energie vergütet. Der Bund
+passt die Vergütungssätze der Einmalvergütung jährlich der Marktentwicklung und seinen Zielsetzungen an. Die aktuell geltenden Leistungsbeiträge sind auf Seite 39 des Ratschlags zusammengestellt. Eine Prognose, wie sich diese bis 2037 entwickeln, ist nicht möglich.
+Kantonale Förderung
+Der Kanton Basel-Stadt fördert bislang die Installation von Photovoltaik-Anlagen bei gleichzeitiger
+Dach- oder Fassadensanierung mit 50 Franken pro Quadratmeter für Anlagen auf Dächern und mit
+70 Franken pro Quadratmeter für Anlagen an Fassaden. Die Förderung beschränkt sich vor dem
+Hintergrund des nationalen Förderprogramms auf die Aktion «Solarkraftwerk Basel» und ist weder
+im Energiegesetz noch in der Energieverordnung verankert. Im Rahmen der Solaroffensive möchte
+der Regierungsrat die Förderung von Photovoltaik-Anlagen als eigenen Gegenstand in der Energieverordnung verankern. Eine degressive Ausgestaltung soll dazu beitragen, die ambitionierten
+Ziele der Solaroffensive möglichst bald zu erreichen. Für freiwillig erstellte Anlagen an Fassaden
+und angepasste Anlagen an schutzwürdigen Objekten sind aufgrund der höheren Kosten Zusatzbeiträge vorgesehen.
+Finanziert werden die Förderbeiträge aus dem Fonds der Energie-Förderabgabe. Die Tarife der
+drei Förderbeiträge für Photovoltaik-Anlagen – Grundbeitrag pro kW Leistung (über die 15 Jahre
+abnehmend), Zusatzbeitrag für Anlagen an Fassaden, Zusatzbeitrag für Anlagen an schutzwürdigen Objekten – werden in der Energieverordnung festgehalten.
+Die UVEK stellt fest, dass der Kanton die Installation von unter die Pflicht fallenden PhotovoltaikAnlagen eigentlich nicht mehr fördern müsste und das Risiko von allenfalls nicht wirtschaftlichen
+Anlagen auf die Eigentümerinnen und Eigentümer abwälzen könnte. Die Förderung ist ein Instrument, um freiwillige Massnahmen anzustossen. Der Kanton Basel-Stadt fördert aber auch andere
+verpflichtende Massnahmen wie den Heizungsersatz.
+Die Förderung, die Höhe der Förderbeiträge und die Anreizwirkung der degressiven Ausgestaltung
+hat in der UVEK zu keinen Diskussionen geführt. Sie schlägt eine Zusatzförderung von KombiLösungen bei Installation von Photovoltaik und gleichzeitiger Dachbegrünung vor (vgl. Kapitel
+2.2.11).
+
+Seite 20/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+2.3.2
+
+Kommunikation und Beratung
+
+Die UVEK räumt der Kommunikation und Beratung einen hohen Stellenwert ein und hat sich diesbezüglich mit der Vertretung des Departements für Wirtschaft, Soziales und Umwelt ausgetauscht.
+Der Regierungsrat geht davon aus, dass die Vereinfachung des Zulassungsverfahrens (vgl. Kapitel
+2.3.3), die Einführung der Photovoltaik-Pflicht (vgl. Kapitel 2.2) und die Förderung (vgl. Kapitel
+2.3.1) den Ausbau der Solarenergieproduktion beschleunigen, die Erreichung des Ausbauziels
+aber nicht garantieren. Da es Investitionsentscheidungen von vielen Privatpersonen positiv zu beeinflussen gilt, kommt auch der Kommunikation und Beratung eine Schlüsselrolle zu. Neben dem
+Einsatz von klassischen Werbemitteln sind Führungen, Besichtigungen oder Abendveranstaltungen in den Quartieren geplant. Eine Solarberatung im Amt für Umwelt und Energie wird Interessierte bei technischen Fragen, der visuellen Integration einer Photovoltaik-Anlage, Denkmalschutzthemen, der Kombination von Photovoltaik und Dachbegrünung, der Finanzierung und beim Vergleich von Offerten beraten und unterstützen. Mit Leitfäden sollen Fälle mit Unschärfe definiert
+werden. Dank der Beratung und Information sollen die Meldenden bzw. Baubewilligungsstellenden
+zum einen wissen, welches Verfahren für sie gilt, zum anderen, was es dafür braucht.
+In Bezug auf die Information schreibt die BRK in ihrem Mitbericht an die UVEK, eine «generelle
+Briefzustellung an alle Eigentümerschaften sei gemäss Verwaltung schwierig». Die UVEK hat diesbezüglich eine andere Auskunft erhalten. Es sei beabsichtigt, alle betroffenen Hauseigentümerinnen und Hauseigentümer über die Solaroffensive zu orientieren und ihnen zu erklären, wie sie die
+Photovoltaik-Pflicht erfüllen können. Die UVEK erwartet, dass ein solches Schreiben verschickt
+wird, und regt an, auch jene Hauseigentümerinnen und Hauseigentümer zu informieren, deren
+Häuser eine geeignete Dachfläche haben, aber nicht unter die Photovoltaik-Pflicht fallen. Sie erwartet von der Informations- und Beratungstätigkeit des AUE zudem, dass auch die Aspekte des
+Stadtbilds (vgl. Kapitel 2.3.3) sowie Informationen zum Contracting (vgl. Kapitel 2.2.9) angemessen
+einfliessen.
+2.3.3
+
+Zulassungsverfahren, Denkmalschutz und Stadtbild
+
+Melde- und Bewilligungsverfahren
+Das Bundesrecht sieht für genügend angepasste Solaranlagen auf Dächern in der Bau- und Landwirtschaftszone keine Baubewilligungspflicht vor (Art. 18a Raumplanungsgesetz). Sie müssen der
+kantonalen Baubewilligungsbehörde vor dem Baubeginn gemeldet werden. Was als «genügend
+angepasst» und damit bewilligungsfrei gilt, ist in der Raumplanungsverordnung definiert. Gemäss
+einer Vernehmlassungsvorlage aus dem Herbst 2024 beabsichtigt der Bund, auch Kriterien für bewilligungsfreie Photovoltaik-Anlagen an Fassaden zu definieren. Dies ist bislang allerdings nicht
+geschehen. Die Kantone können deren Zulassung deshalb selbst regeln.
+Der Kanton Basel-Stadt regelt die Bewilligungsverfahren für Photovoltaik-Anlagen im BPG, in der
+Verordnung zum BPG und in den Ausführungsbestimmungen zu dieser. Heute müssen Anlagen
+auf Dächern in Nummernzonen, in der Zone für Nutzungen im öffentlichen Interesse, in der
+Schonzone sowie auf inventarisierten Objekten – sofern sie bestimmte gestalterische Kriterien erfüllen – lediglich gemeldet werden. Dies gilt auch für Anlagen an Fassaden in den Zonen 4, 5, 5a
+und 6 und in der Industrie- und Gewerbezone (Zone 7). In der Stadt- und Dorfbild-Schutzzone ist
+die nach aussen sichtbare historisch oder künstlerisch wertvolle Bausubstanz und der entsprechende Charakter der bestehenden Bebauung zu erhalten. Sorgfältig in ein Dach oder eine Fassade integrierte Photovoltaik-Anlagen sind nur ausserhalb der historischen Ortskerne von Basel,
+Bettingen und Riehen zulässig. Veränderungen an eingetragenen Denkmälern sind in jedem Fall
+der Denkmalpflege zur Bewilligung vorzulegen.
+In Schutzzonen sowie auf Kultur- und Naturdenkmälern von kantonaler oder nationaler Bedeutung
+braucht es für Photovoltaik-Anlagen eine Bewilligung. Als Kultur- und Naturdenkmäler gelten gemäss der Raumplanungsverordnung Gebiete, Baugruppen und Einzelelemente gemäss Bundesinventar der schützenswerten Ortsbilder von nationaler Bedeutung (ISOS) mit Erhaltungsziel A sowie im kantonalen Denkmalverzeichnis eingetragene Kulturdenkmäler.
+
+Seite 21/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+In der Basler Altstadt, den mittelalterlichen Vorstädten und in den historischen Ortskernen Riehen,
+Bettingen, Bäumlihof und St. Chrischona befinden sich zahlreiche Kulturdenkmäler von kantonaler
+oder nationaler Bedeutung. Je nach Dacheindeckung und Einsehbarkeit würden einzelne Teilflächen dieser Objekte von einer Solaranlage in unterschiedlichem Masse beeinträchtigt. Die kantonale Denkmalpflege hat die Dachflächen in diesen Gebieten detailliert untersucht. Basierend auf
+einem Dachflächenkataster, der auf map.bs veröffentlicht werden soll, können die Eigentümerinnen
+und Eigentümer künftig feststellen, auf welchen Teilflächen ihres Objekts eine Photovoltaik-Anlage
+voraussichtlich bewilligt bzw. nicht bewilligt wird.
+Anpassung des kantonalen Zulassungsverfahrens
+Die in § 37 Abs. 4bis und 4ter des BPG verankerte Möglichkeit, Photovoltaik-Anlagen in bestimmten
+Quartieren grundsätzlich zu verbieten, ist bundesrechtswidrig. Der Regierungsrat beantragt deshalb, das Verbot aufzuheben und Photovoltaik-Anlagen auch in den historischen Ortskernen als
+grundsätzlich zulässig zu erklären. Die in der Verordnung definierten Kriterien für die Meldepflicht
+will er an jene des Bundes angleichen und auf alle Nummernzonen sowie die Zone für Nutzungen
+im öffentlichen Interesse ausdehnen. Eine Ausdehnung auf die Schonzone, wie es die Motion René
+Brigger und Konsorten betreffend «Anpassung Basler Baurecht an die Solaroffensive» fordert, bezeichnet er im Ratschlag erst dann als angezeigt, wenn die detaillierten Kriterien für bewilligungsfreie Solaranlagen gemäss Art. 32abis der Raumplanungsverordnung des Bundes vorliegen.
+Mit den vom Regierungsrat im Rahmen der Solaroffensive vorgeschlagenen Anpassungen braucht
+es in Zukunft noch eine Baubewilligung für Photovoltaik-Anlagen, die
+▪
+
+die Kriterien für «genügend angepasste Anlagen» gemäss Art. 18a des Raumplanungsgesetzes des Bundes nicht erfüllen,
+
+▪
+
+sich auf oder an Gebäuden in der Stadt- und Dorfbild-Schutzzone befinden (die Denkmalpflege wird in die Beurteilung einbezogen),
+
+▪
+
+sich an Fassaden in der Stadt- und Dorfbild-Schonzone befinden (in Basel wird die Stadtbildkommission, in Riehen die Ortsbildkommission und in Bettingen die Dorfbildkommission in
+die Beurteilung einbezogen),
+
+▪
+
+sich auf oder an Gebäuden in der Landschafts- oder Naturschutzzone befinden,
+
+▪
+
+sich auf oder an Kulturdenkmälern von kantonaler oder nationaler Bedeutung gemäss Art.
+32b der Raumplanungsverordnung des Bundes befinden.
+
+Alle weiteren Photovoltaik-Anlagen unterliegen der Meldepflicht.
+Aktualisierung aufgrund zwischenzeitlicher Entwicklungen
+Nach Abschluss ihrer Beratung wurde der UVEK über eine Änderung der Ausführungsbestimmungen informiert. Diese beinhaltet eine Ausweitung des Meldeverfahrens für genügend angepasste
+Solaranlagen an Fassaden auf die Schonzone. Sie wurde der UVEK wie folgt erläutert: Am 1. Januar 2026 ist die im Ratschlag in Aussicht gestellte Revision des Raumplanungsrechts in Kraft
+getreten. Gemäss dem geändertem Art. 18a des Raumplanungsgesetzes sind genügend angepasste Solaranlagen auch an Fassaden nur noch meldepflichtig. Die Kriterien für genügend angepasste Solaranlagen an Fassaden sind in Art. 32abis der Raumplanungsverordnung definiert.
+Da die bisherigen kantonalen Bestimmungen zur Meldepflicht in § 7 ABPV im Widerspruch zu den
+Kriterien des Bundes standen, wurden sie angepasst und verweisen nun direkt auf das Bundesrecht. Gemäss der angepassten Regelung unterliegen Solaranlagen, welche die Kriterien der genügenden Anpassung gemäss Art. 32abis der Raumplanungsverordnung erfüllen, auch an Fassaden in der Schonzone nur noch der Meldepflicht. Damit wird die Motion René Brigger und Konsorten betreffend «Anpassung Basler Baurecht an die Solaroffensive» vollständig erfüllt. Die Abbildung auf Seite 27 des Ratschlags wurde daher im Nachgang der Beratung der UVEK von Seiten
+Verwaltung wie folgt angepasst:
+
+Seite 22/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+Abbildung 4: Vereinfachung der Bewilligungssituation durch die Solaroffensive
+Heute
+
+Solaroffensive
+
+Zone
+
+Dach
+
+Fassade
+
+Zone
+
+Dach
+
+Fassade
+
+Zonen 4, 5, 5a,
+6 und 7
+
+Meldeverfahren *
+
+Meldeverfahren *
+
+Zonen 4, 5, 5a,
+6 und 7
+
+Meldeverfahren *
+
+Meldeverfahren *
+
+Zonen 2, 2a, 3
+und NÖI
+
+Meldeverfahren *
+
+Baubewilligungsverfahren
+
+Zonen 2, 2a, 3
+und NÖI
+
+Meldeverfahren *
+
+Meldeverfahren *
+
+Schonzone
+
+Meldeverfahren *
+
+Baubewilligungsverfahren
+
+Schonzone
+
+Meldeverfahren *
+
+Meldeverfahren *
+
+Schutzzone
+
+Baubewilligungsverfahren
+
+Baubewilligungsverfahren
+
+historische
+Ortskerne
+
+Nicht zulässig **
+
+Nicht zulässig **
+
+Schutzzone
+(inkl.
+historischer
+Ortskerne)
+
+Baubewilligungsverfahren
+
+Baubewilligungsverfahren
+
+Kulturdenkmäler
+
+Baubewilligungsverfahren
+
+Baubewilligungsverfahren
+
+Kulturdenkmäler
+
+Baubewilligungsverfahren
+
+Baubewilligungsverfahren
+
+* Meldeverfahren für "genügend angepasste Anlagen",
+für alle anderen weiterhin Baubewilligungsverfahren
+** Ausnahmen mit Bewilligung der Denkmalpflege möglich
+
+* Meldeverfahren für "genügend angepasste Anlagen",
+für alle anderen weiterhin Baubewilligungsverfahren
+
+Die UVEK hat diese Änderung, welche ausserhalb ihrer Entscheidungskompetenz liegt, zur Kenntnis genommen. Sie verweist auf ihre Stellungnahme unter dem Untertitel Qualitätssicherung bei
+Fassaden-Photovoltaik-Anlagen.
+Vollzugshilfen zur Planung und Realisierung von Solaranlagen
+Die neue Bewilligungspraxis soll transparent und nachvollziehbar dargestellt, und gleichzeitig gewährleistet werden, dass für jedes Objekt die passende Anlage gefunden werden und das Meldebzw. Bewilligungsverfahren zügig durchgeführt werden kann. Um die Planung und Realisierung
+von Solaranlagen zu erleichtern, stellt der Regierungsrat zwei Vollzugs- bzw. Projektierungshilfen
+in Aussicht:
+1.
+
+Die von der Stadt- bzw. Ortsbildkommission, der kantonalen Denkmalpflege und dem Amt für
+Umwelt und Energie erarbeitete Hilfe enthält Kriterien und Best-Practice-Beispiele für zulässige Solaranlagen. Sie hilft den Eigentümerschaften bei der Einschätzung der Anforderungen
+für eine bewilligungsfähige Anlage.
+
+2.
+
+Die von der Stadtgärtnerei und dem Amt für Umwelt und Energie erarbeitete Projektierungshilfe ist für Dächer gedacht, die sich für die Photovoltaik und die Begrünung eignen.
+
+Zielkonflikte zwischen Photovoltaik-Anlagen und Denkmalschutz
+Die UVEK hat sich mit möglichen Zielkonflikten zwischen Photovoltaik-Anlagen und dem Denkmalschutz und den historischen Stadt- und Ortsbildern befasst. Sie stellt fest, dass der Regierungsrat
+die unter Denkmalschutz stehenden Gebäude von der Photovoltaik-Pflicht ausnimmt. Im Vordergrund steht für ihn, das Potenzial auf nicht denkmalgeschützten Häusern zu nutzen. In den historischen Ortskernen gilt für Photovoltaik-Anlagen heute ein Verbot mit Ausnahmen. Auf dieses Verbot
+möchte der Regierungsrat künftig verzichten, an der Bewilligungspflicht aber festhalten.
+Die UVEK unterstützt den Verzicht auf die Photovoltaik-Pflicht bei denkmalgeschützten Gebäuden,
+auch wenn es heute ästhetisch ansprechende Module gibt, die sich in historische Gebäude einpassen lassen. Sie sind allerdings teurer. Wegen zusätzlicher Anforderungen ist die Wirtschaftlichkeit
+von Photovoltaik-Anlagen auf denkmalgeschützten Gebäuden nicht in allen Fällen gegeben.
+Qualitätssicherung bei Fassaden-Photovoltaik-Anlagen
+Betreffend Einbezug des Stadt- und Ortsbildschutzes verweist die UVEK auf den Mitbericht der
+BRK. Diese äussert das Anliegen, dass Fassaden-Photovoltaik-Anlagen, die ohne Baubewilligung
+
+Seite 23/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+erstellt werden, in jedem Fall bzw. in allen Zonen zusätzlich der Stadtbildkommission (in Basel),
+der Ortsbildkommission (in Riehen) oder der Dorfbildkommission (in Bettingen) vorzulegen sind
+und auf deren Beratungsangebot hingewiesen wird. Die BRK fordert eine entsprechende Anpassung des Grossratsbeschlusses. Sie möchte verhindern, dass Fassaden-Photovoltaik-Anlagen
+ohne ästhetische Qualitätssicherung erstellt werden. Keine Aussage macht sie zur Frage, ob die
+Qualitätssicherung auch anders als durch den Einbezug der genannten Kommissionen sichergestellt werden könnte. Keine Mehrheit gefunden hat in der BRK gemäss dem Mitbericht der Antrag,
+Photovoltaik-Anlagen an Fassaden generell als bewilligungspflichtig zu deklarieren.
+Die UVEK weist darauf hin, dass keine Photovoltaik-Pflicht für Anlagen an Fassaden eingeführt
+wird. Die Forderung der BRK bezieht sich auf Anlagen, die freiwillig erstellt werden und in den
+Nummernzonen, den NÖI oder neu auch der Schonzone errichtet werden sollen. Der Bund gewichtet die Produktion von erneuerbarer Energie höher als das öffentliche Interesse am Ortsbildschutz.
+Deshalb sieht das Bundesrecht seit dem 1. Januar 2026 für Solaranlagen auf Dächern und an
+Fassaden grundsätzlich das Meldeverfahren vor. Eine Baubewilligung braucht es jedoch noch für
+Anlagen in Schutzzonen und auf Kulturdenkmälern kantonaler und nationaler Bedeutung.
+An Fassaden gelten Photovoltaik-Anlagen gemäss Art. 32abis der Raumplanungsverordnung des
+Bundes als genügend angepasst, wenn sie – soweit das kantonale Recht nichts anderes vorsieht
+– die folgenden Voraussetzungen erfüllen:
+▪
+
+Sie überdecken vorhandene Gliederungs- oder Schmuckelemente nicht;
+
+▪
+
+sie ragen von vorne betrachtet nicht über die Fassadenkanten hinaus;
+
+▪
+
+sie sind in einem maximalen Abstand von 20 cm zur Fassade und parallel zu dieser angeordnet;
+
+▪
+
+sie sind in einheitlicher Farbgebung und Materialisierung sowie nach dem Stand der Technik
+reflexionsarm ausgeführt.
+
+▪
+
+Zudem müssen die Module mindestens eine der folgenden Voraussetzungen erfüllen:
+−
+−
+−
+−
+−
+−
+−
+
+Sie sind als eine zusammenhängende kompakte rechteckige Fläche oder als mehrere
+sich gleichmässig wiederholende rechteckige Flächen angeordnet;
+sie ersetzen bisher einheitlich gestaltete Fassadenelemente oder Bauteile einheitlich;
+sie decken Giebelflächen von Schrägdächern vollständig ab;
+sie weisen eine möglichst ähnliche Farbgebung wie nicht mit Solarmodulen abgedeckte
+anschliessende Fassadenflächen auf;
+sie befinden sich in einer Arbeitszone;
+sie liegen im Geltungsbereich von gebietsbezogenen, Bauzonen betreffenden, kantonalen oder kommunalen Gestaltungsvorschriften zu Solaranlagen an Fassaden und entsprechen diesen;
+sie erfüllen eine entsprechende Voraussetzung, die im kantonalen Recht für Solaranlagen an Fassaden innerhalb von Bauzonen vorgesehen ist.
+
+Im Kanton Basel-Stadt prüft das Bauinspektorat, ob die Kriterien erfüllt sind. Ist dies nicht der Fall,
+braucht es eine Baubewilligung. Genügend angepasste Anlagen sind der Überprüfung der guten
+Gesamtwirkung gemäss § 58 BPG entzogen und werden – den Ausführungsbestimmungen zur
+Bau- und Planungsverordnung folgend – nicht der Stadtbild-, Dorfbild- oder Ortsbildkommission zur
+Stellungnahme vorgelegt. Im Rahmen eines Baubewilligungsverfahrens können die genannten
+Kommissionen die gute Gesamtwirkung überprüfen. Gegen ein öffentlich aufgelegtes Baugesuch
+kann Einsprache erhoben und gegen eine Baubewilligung Rekurs eingelegt werden.
+Die UVEK stellt fest, dass ein Zielkonflikt zwischen dem Ausbauziel und ästhetischen Interessen
+und Vorstellungen besteht. Die BRK stellt infrage, ob das Amt für Umwelt und Energie die fachlichen Kompetenzen zur Überprüfung der genannten Kriterien hat. Die UVEK hält korrigierend fest,
+dass gemäss ihren Abklärungen das Bauinspektorat dafür zuständig ist. Aus ihrer Sicht liegt es in
+dessen Verantwortung, die für die qualitative Prüfung notwendigen fachlichen Kompetenzen
+
+Seite 24/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+sicherzustellen. Die UVEK erachtet es als wichtig, dass bei Fassaden-Photovoltaik-Anlagen dem
+Stadt- und Ortsbild in allen Bauzonen Rechnung getragen wird. Dass es für diese vor dem Hintergrund der politischen Ziele von den genannten Ausnahmen abgesehen keine Baubewilligung
+braucht, empfindet sie dennoch als richtig.
+Die von der BRK vorgeschlagene Ergänzung des Grossratsbeschlusses erachtet die UVEK als
+nicht stufengerecht. Sie erwartet aber, dass die Überprüfung der ästhetischen und/oder qualitätssichernden Kriterien für im Meldeverfahren erstellte Fassaden-Photovoltaik-Anlagen unter Einbezug geeigneter Fachpersonen stattfindet, ohne dass die Effizienz des Verfahrens darunter leidet.
+Sie hält gleichzeitig fest, dass es ihr dabei weder um eine Verschärfung der Bundesbestimmungen
+noch um eine Verhinderung von Fassaden-Photovoltaik-Anlagen geht.
+2.3.4
+
+Wirtschaftlichkeit und Einspeisevergütung
+
+Zum Nachvollzug der ökonomischen Konsequenzen der Photovoltaik-Pflicht hat sich die UVEK mit
+der Wirtschaftlichkeit und Rentabilität von Photovoltaik-Anlagen befasst und sich vom AUE die
+Stromabrechnungsmodelle sowie die Möglichkeiten zur Beteiligung der Stromkonsumierenden an
+Photovoltaik-Anlagen auf dem eigenen Wohngebäude erläutern lassen.
+Wirtschaftlichkeit
+Die Wirtschaftlichkeit von Photovoltaik-Anlagen hängt von mehreren Faktoren ab:
+▪
+
+Grössere Anlagen sind pro kW Leistung günstiger als kleine, da sich die einmaligen Kosten
+für Planung, Gerüst, Anschlüsse etc. auf mehr Module verteilen.
+
+▪
+
+Die Betriebskosten (Reinigung und Kontrolle, Ersatz beschädigter Module und Wechselrichter, Anlagenüberwachung und Abrechnung) können über die Lebensdauer einer Anlage bis
+zu 50% der Kosten ausmachen.
+
+▪
+
+Die Förderbeiträge von Bund und Kanton reduzieren die Investitionsausgaben.
+
+▪
+
+Der Strombezugspreis (aus dem Netz) ist in der Regel deutlich höher als die Einspeisevergütung. Eine Anlage mit hohem Eigenverbrauch (bzw. geringer Einspeisung) ist deshalb wirtschaftlicher.
+
+Die Beispiele in Kapitel 8.1.1 des Ratschlags zeigen, dass Photovoltaik-Anlagen auf grösseren
+Dächern nahezu immer wirtschaftlich sind. Auf kleinen Dächern, bei denen die Wirtschaftlichkeit
+allenfalls nicht gegeben ist, besteht keine Photovoltaik-Pflicht. Bei der in Tabelle 12 des Ratschlags
+aufgeführten Wohnüberbauung St. Johann wäre die Photovoltaik-Anlage bei einem Eigennutzungsgrad von 35% nach 16 bis 18 Jahren amortisiert. Die Dauer verkürzt sich, wenn der Eigennutzungsgrad mit geeigneten Massnahmen, z.B. einem Batteriespeicher, optimiert wird. Wird der
+produzierte Strom vollständig in das Netz eingespeist, verlängert sich die Amortisationsdauer. Es
+besteht also ein Anreiz, den produzierten Strom so weit wie möglich selbst zu nutzen. Bei Liegenschaften mit Mietwohnungen eignet sich dafür ein Zusammenschluss zum Eigenverbrauch (vgl.
+Kapitel 2.3.5).
+Einspeisevergütung
+Die Einspeisevergütung wurde ursprünglich eingeführt, weil man den produzierten Strom nicht für
+den Eigenbedarf nutzen konnte, sondern in das Netz einspeisen musste. Im Kanton Basel-Stadt
+erhält man gemäss der Energieverordnung eine Einspeisevergütung von 14 Rappen pro kWh für
+Anlagen bis 100 kW Leistung und von 11 Rappen pro kWh für Anlagen ab 100 kW Leistung für
+eine Dauer von zwölf Jahren. Gemäss Ratschlag ist damit die Investitionssicherheit trotz stark
+schwankender Marktpreise gewährleistet. Nach Ablauf der zwölf Jahre wird die Höhe der Einspeisevergütung nach bundesrechtlichen Vorschriften berechnet. Aktuell sieht das Bundesrecht dann
+für eingespeisten Strom den aktuellen Marktpreis, im Minimum aber eine Mindestvergütung (aktuell
+6 Rappen pro kWh) vor. Es ist allerdings nicht ausgeschlossen, dass der Bund die Vergütung künftig noch stärker an den Marktpreis koppelt. Bei einem Strombörsenpreis von 0 erhielte man keine
+Einspeisevergütung mehr. Wegen der unterschiedlich hohen Nachfrage würde Winterstrom höher
+
+Seite 25/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+abgegolten als Sommerstrom (was Fassaden-Photovoltaik-Anlagen trotz höherer Investitionsausgaben wirtschaftlich interessanter machen würde).
+Die UVEK hat nachgefragt, wie «sicher» die im Ratschlag als fix bezeichnete Einspeisevergütung
+ist. Die Vertretung des Departements für Wirtschaft, Soziales und Umwelt hat es als Absicht des
+Regierungsrats bezeichnet, die genannte Höhe bis 2030 zu garantieren. Die Einspeisevergütung
+ab 2030 soll im Folgeratschlag thematisiert werden. Aus energiewirtschaftlicher Sicht seien vermehrt zeitlich variable Tarife angezeigt, um Anreize für ein netzdienliches Einspeiseverhalten zu
+setzen. Sollte der Bund die Einspeisevergütung für bestehende Photovoltaik-Anlagen einschränken, müsste sich der Kanton eine Kompensationsmassnahme überlegen.
+Für die UVEK wäre es nachvollziehbar, würde die Einspeisevergütung in Zukunft «netzdienlich»
+ausgestaltet und würden sich die Tarife im Tagesverlauf und zwischen Winter und Sommer unterscheiden. Die Stromproduktion und die Stromverfügbarkeit über dynamische Preise zu steuern, ist
+ökonomisch sinnvoll. Gleichzeitig erwartet die UVEK, dass der Regierungsrat sicherstellt, dass die
+Photovoltaik-Pflicht für die betroffenen Liegenschaftseigentümerinnen und -eigentümer zu keinem
+Verlustgeschäft wird. Es wäre unredlich, würde im vorliegenden Ratschlag eine fixe Einspeisevergütung für zwölf Jahre versprochen und diese in einem Folgeratschlag widerrufen. Die UVEK
+schliesst sich deshalb der Erwartung der BRK an, dass der Regierungsrat die offenen Fragen zur
+Einspeisevergütung im Folgeratschlag beantwortet. Ziel müssen Rahmenbedingungen sein, die
+Investitionen in Photovoltaik-Anlagen langfristig attraktiv und planbar machen.
+2.3.5
+
+Folgeratschlag, Speicherung und Abregelung
+
+Die UVEK hat erörtert, was die mit der Solaroffensive verbundene höhere Stromproduktion für die
+Netzinfrastruktur bedeutet.
+Wie stark der Strom aus Photovoltaik-Anlagen die Netzinfrastruktur belastet, hängt einerseits davon ab, wie viel davon in das Netz eingespeist wird, anderseits von den zeitlichen Spitzen. Ziel
+muss es sein, die zusätzliche Netzbelastung mit innovativen Techniken wie der dezentralen Stromspeicherung, dem bidirektionalen Laden und einer «smarten» Netzsteuerung möglichst gering zu
+halten. Der Regierungsrat hat die IWB deshalb beauftragt, eine Machbarkeitsstudie für die Netzinfrastruktur und ein Konzept für die lokale und regionale Einspeisung sowie die Speicherung der
+elektrischen Energie zu erarbeiten. Er wird basierend auf der Machbarkeitsstudie geeignete Massnahmen definieren und dem Grossen Rat für deren Umsetzung einen Folgeratschlag vorlegen.
+Die Fachleute aus dem Departement für Wirtschaft, Soziales und Umwelt haben der UVEK versichert, dass das Stromnetz im Kanton Basel-Stadt bis 2030 wegen der zusätzlichen Stromproduktion aus Photovoltaik-Anlagen nicht ausgebaut werden muss. Längerfristig muss die Energiewende
+auch im Netz vollzogen werden. Die Dekarbonisierung der Energieversorgung wird die Nachfrage
+nach Strom unabhängig von der Solaroffensive erhöhen.
+Gemäss heutigem Kenntnisstand könnte es in den 2030er Jahren an einzelnen Tagen im Sommer
+gesamtschweizerisch zu einer Stromüberproduktion kommen. Um eine Überlastung des Netzes zu
+verhindern, kann die Einspeisung von Photovoltaikstrom eingeschränkt werden (sog. Abregelung)
+und der Eigenverbrauch und die dezentrale Speicherung gefördert werden. Mit flexiblen Strompreisen kann zudem ein Anreiz geschaffen werden, Strom dann zu konsumieren, wenn viel produziert
+wird (und umgekehrt).
+Gemäss dem von der UVEK angehörten Experten (vgl. Kapitel 2.1.4) ist davon auszugehen, dass
+Strom aus Photovoltaik-Anlagen in Zukunft vermehrt dezentral gespeichert, also nicht in das Netz
+eingespeist, wird. Aufgrund der Preisentwicklung dürfte in ein paar Jahren eine neue PhotovoltaikAnlage standardmässig mit einem Batteriespeicher kombiniert werden. Der Netzausbau dürfte daher deutlich geringer ausfallen, als bisher prognostiziert.
+Unklar ist auch die Zukunft der Einspeisevergütung. Sollte die Wirtschaftlichkeit von PhotovoltaikAnlagen mangels garantierter Einspeisevergütung dereinst nicht mehr gegeben sein, müsste man
+andere Modelle entwickeln, damit die Investitionssicherheit gewährleistet bleibt. Vor dem Hintergrund, dass offene Fragen wie diese erst in ein paar Jahren in einem Folgeratschlag geklärt werden
+Seite 26/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+sollen, wurde während der Beratung der Solaroffensive in der UVEK ein Antrag auf Rückweisung
+des Geschäfts an den Regierungsrat gestellt. Der Regierungsrat solle die Solaroffensive erst bzw.
+nochmals vorlegen, wenn er alle Fragen beantworten kann. Andernfalls verpflichte der Kanton die
+Hauseigentümerinnen und Hauseigentümer, Strom zu erzeugen, der ab dem Jahr 2030 womöglich
+nur teilweise genutzt und in das Netz eingespeist werden kann.
+Die UVEK hat den Rückweisungsantrag mit 9:2 Stimmen bei 1 Enthaltung abgelehnt. Sie erwartet,
+dass die Tarifierung, die Förderung des Eigenverbrauchs und die Regelung der Einspeisevergütung Gegenstand des Folgeratschlags sein werden. Dessen Inhalt ist zumindest umrissen. Die Solaroffensive auf die lange Bank zu schieben, wäre angesichts der aktuellen energetischen Herausforderungen nicht zielführend.
+2.3.6
+
+Gesetzesanpassungen
+
+Der Regierungsrat beantragt dem Grossen Rat zur Umsetzung der Solaroffensive Anpassungen
+im BPG und im Energiegesetz. Die UVEK stuft diese basierend auf der Beratung des Geschäfts
+als zielführend ein und stellt keine Abänderungsanträge. Erläuterungen zu Gesetzesanpassungen
+den finden sich in Kapitel 7 des Ratschlags.
+
+2.4
+
+Abklärungen der UVEK zu Auswirkungen auf Mietende
+
+Die UVEK hat die möglichen Auswirkungen der Solaroffensive auf die Mietzinse geklärt. Sie verweist diesbezüglich auch auf die ausführlichen Erläuterungen in Kapitel 8.1.2 des Ratschlags.
+Keine Mietzinserhöhung wegen Photovoltaik-Pflicht
+Installieren Hauseigentümerinnen oder Hauseigentümer Photovoltaik-Anlagen auf Häusern mit
+Mietwohnungen, können sie den produzierten Strom entweder in das Netz einspeisen oder an die
+Mietparteien verkaufen. Bei einer vollständigen Einspeisung in das Netz gehört die Anlage nicht
+zum Mietobjekt. Die Mietenden beziehen den Strom vom Netzbetreiber (den IWB). Die Erstellung
+der Photovoltaik-Anlage ist dann keine Mehrleistung gemäss Art. 14 der Verordnung über die Miete
+und Pacht von Wohn- und Geschäftsräumen (VMWG) des Bundes, weshalb der Mietzins nicht
+erhöht werden darf. Verkauft die Eigentümerin, der Eigentümer den Strom an die Mietenden, entspricht die Photovoltaik-Anlage hingegen einer Mehrleistung (Investitionen in erneuerbare Energie). Dann darf die Eigentümerschaft die Anlage- und Betriebskosten in den internen Strompreis
+einrechnen und den an die einzelnen Mietenden verkauften Strom über die Nebenkosten verrechnen. Eine pauschale Erhöhung der Mietzinse ist auch in diesem Fall nicht zulässig.
+Der Regierungsrat hat eine zusätzliche Bestimmung in die Wohnschutz-Verordnung aufgenommen, gemäss der Investitionen in Photovoltaik-Anlagen nicht auf die Mieten überwälzt werden dürfen. Bei dieser handelt es sich um eine Doppelung der bundesrechtlichen Regelung, wonach solche
+Investitionen ohnehin nicht auf Mietende überwälzt werden dürfen.
+Win-win-Situation bei Zusammenschluss zum Eigenverbrauch (ZEV)
+Für den gemeinsamen Verbrauch des Photovoltaik-Stroms von Hauseigentümerschaft und Mietenden müssen diese einen Zusammenschluss zum Eigenverbrauch (ZEV) gemäss Art. 17 des Energiegesetzes des Bundes gründen. Die Kapitalkosten der Photovoltaik-Anlage sind Teil der internen
+Stromkosten des ZEV gemäss Art. 16b der Verordnung zum Energiegesetz. Die internen Stromkosten dürfen nicht in den Mietzins einfliessen, aber als Nebenkosten in Rechnung gestellt werden.
+Der interne Strompreis ist in Art. 16b der Verordnung zum Energiegesetz geregelt. Für den bezogenen Strom darf die Eigentümerschaft den Mietenden in einem ZEV entweder pauschal bis zu
+80% des Preises des Verteilnetzbetreibers (den IWB) oder die effektiven Kosten verrechnen, maximal jedoch 100% des Preises des Verteilnetzbetreibers. Die effektiven Kosten auszuweisen ist
+mit einem hohen Aufwand verbunden. Ob es zu einem höheren Betrag pro kWh als die Pauschale
+führt, hängt u.a. vom Strompreis ab. In der Regel dürfte im Kanton Basel-Stadt die pauschale Abrechnung für die Liegenschaftseigentümer interessanter sein.
+
+Seite 27/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+Rechenbeispiel für eine Photovoltaik-Anlage in Basel:
+Gestehungskosten: 16 Rp/kWh + Kosten ZEV-Dienstleister 5 Rp/kWh = 21 Rp/kWh
+IWB-Standardtarif 38.9 Rp/kWh
+Höchstbetrag pauschale Abrechnung: 38.9 * 0.8 = 31.1 Rp/kWh
+Höchstbetrag effektive Abrechnung: 21 + (38.9 –21) / 2 = 21 + 8.95 = 29.95 Rp/kWh
+Gemäss den IWB beteiligen sich bei 90% aller in Basel bisher gegründeten ZEV alle Mietparteien.
+Bei einem Neubau kann der Vermieter den Anschluss an den ZEV im Mietvertrag «vorschreiben».
+Bestehende Mieterinnen und Mieter sind nicht verpflichtet, sich einem ZEV anzuschliessen. Beteiligt sich wegen eines «zu hohen» Preises nur ein Teil der Mieterinnen und Mieter, ergibt der ZEV
+aufgrund des Aufwands zur Abrechnung und der notwendigen Investitionen wirtschaftlich keinen
+Sinn. Es liegt also im Interesse des Eigentümers der Photovoltaik-Anlage, mit einem angemessenen Preis möglichst alle Mieterinnen und Mieter in den ZEV einzubinden.
+Nach einem Beitritt können sich die Mieterinnen und Mieter im Streitfall an die Staatliche Schlichtungsstelle für Mietstreitigkeiten wenden.
+Wie in Kapitel 2.3.4 ausgeführt, hat die Eigentümerin bzw. der Eigentümer der Photovoltaik-Anlage
+ein Interesse an einem hohen Eigennutzungsgrad, also möglichst viel Strom selbst zu nutzen bzw.
+zu verkaufen und möglichst wenig in das Netz einzuspeisen. Liegt der Preis unter dem Standardpreis der IWB, aber über der Einspeisevergütung, fahren beide Seiten besser.
+Neu gibt es auch virtuelle Zusammenschlüsse zum Eigenverbrauch (vZEV). In solchen erfolgt die
+Messung des Stromverbrauchs mit Smart Metern, was die Abrechnung vereinfacht und es erleichtert, einzelne Mietparteien herauszunehmen. Ein vZEV benötigt weniger Investitionen in Elektroinstallationen als ein ZEV. Es lassen sich mit einem vZEV auch benachbarte Liegenschaften miteinander verbinden, sofern sie dieselbe Anschlussleitung nutzen.
+Die UVEK stellt fest, dass die Hauseigentümerschaften nicht verpflichtet sind, aber daran interessiert sein dürften, den mit einer Photovoltaik-Anlage produzierten Strom an die Mietenden zu verkaufen. Die Zahl der ZEV oder vZEV dürfte mit der Photovoltaik-Pflicht zunehmen. Und in aller
+Regel werden die Mietenden davon profitieren, wenn auf der von ihnen bewohnten Liegenschaft
+eine Photovoltaik-Anlage installiert wird oder werden muss, erhalten sie den damit produzierten
+Strom doch günstiger als von den IWB. Im obigen Rechenbeispiel entspricht die Differenz zwischen
+dem Höchstbetrag von 38.9 Rappen pro kWh und den in Rechnung gestellten 31.1 Rappen dem
+«Gewinn» der Mietpartei. Der «Gewinn» für den Vermieter beträgt 17 Rappen pro kWh. Er erhält
+vom Mieter 31 Rappen pro kWh statt nur 14 Rappen pro kWh bei Einspeisung in das Netz. Mit
+diesem «Gewinn» finanziert er die Gestehungskosten und die Amortisation der Anlage. Wie der
+«Gesamtgewinn» zwischen den beiden Seiten verteilt wird, ist innerhalb der oben dargestellten
+gesetzlichen Grenzen Verhandlungssache. Als Fazit sieht die UVEK, dass die neue Solarpflicht
+zwar in diversen Mietverträgen zur Erhöhung der Nebenkosten führen kann, dies jedoch netto einen Gewinn für die Mietenden darstellt, da der damit bezogene Strom günstiger ist als jener der
+IWB und sich die IWB-Rechnung stärker reduziert als sich die Nebenkosten erhöhen.
+Mietzinserhöhung bei Vermietung inklusive Photovoltaik-Anlage
+Zulässig ist eine Mietzinserhöhung bei Einfamilienhäusern und Gewerbeobjekten, die inklusive einer Photovoltaik-Anlage an eine einzige Partei vermietet werden. In diesem Fall wird kein ZEV oder
+vZEV gebildet, sondern die Photovoltaik-Anlage wird inklusive aller Erträge aus der Stromproduktion der Mietpartei überlassen. Die Mietzinserhöhung lässt sich dadurch rechtfertigen, dass die Anlage zum Mietobjekt gehört und der produzierte Strom von der Mietpartei kostenlos genutzt
+und/oder verkauft werden kann: Dies entlastet deren Stromrechnung in der Regel stärker, als die
+Mietzinserhöhung ausfällt.
+
+Seite 28/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+Keine Überwälzung der Ersatzabgabe auf Mieten
+Eine rechtliche Grundlage, um die bei nicht erfüllter Photovoltaik-Pflicht fällige Ersatzabgabe auf
+die Mieten zu überwälzen, existiert nicht. Gemäss dem kantonalen Wohnschutzgesetz dürfen nur
+Investitionen, die mit einer Mehrleistung verbunden sind, auf die Mieten überwälzt werden. Da es
+sich bei der Ersatzabgabe um keine Investition handelt, gilt das nationale Mietrecht. Gemäss diesem können Kostensteigerungen oder Mehrleistungen des Vermieters in den Mietzins einfliessen.
+Bei der Ersatzabgabe handelt es sich jedoch um keine Mehrleistung. Zur Frage, ob die finanziellen
+Folgen einer nicht erfüllten Photovoltaik-Pflicht des Vermieters als Kostensteigerung geltend gemacht werden können, existiert bis jetzt keine Rechtsprechung. Für die UVEK wäre es sinnwidrig,
+dürften die aus einer Unterlassung des Vermieters resultierenden Kosten auf die Mieterschaft überwälzt werden. Sie geht davon aus, dass sich die Gerichte auf die Seite der Mietenden stellen würden. Auf kantonaler Ebene regeln lässt sich diese Frage nicht.
+
+2.5
+
+Weitere in der UVEK gestellte Anträge
+
+2.5.1
+
+Zulassung von Klimaanlagen
+
+In der UVEK ist der Antrag gestellt worden, bei Liegenschaften, die unter die Photovoltaik-Pflicht
+fallen, den Einbau von Klimaanlagen zur Kühlung der Innenräume zu erlauben. Dies mit dem Argument, dass Kühlung insbesondere dann angezeigt ist, wenn die Photovoltaik-Anlage viel (oder
+sogar überschüssigen) Strom produziert, nämlich im Hochsommer. Sommerliche Hitzeperioden
+dürften in Zukunft häufiger und die Kühlung von Gebäuden deshalb wichtiger werden.
+Der Grosse Rat hat den Regierungsrat bereits am 19. Dezember 2024 mit der Überweisung des
+Anzugs Daniel Sägesser und Konsorten betreffend Überprüfung der Regulierung von Anlagen zur
+Gebäudekühlung bei Bestandsbauten beauftragt, zu prüfen, unter welchen Bedingungen Klimaanlagen zugelassen werden können.
+Der Inhalt der Antwort des Regierungsrats war der UVEK zum Zeitpunkt der Beratung der Solaroffensive nicht bekannt. Sie stellt fest, dass der Einbau von Klimaanlagen gemäss der aktuellen Gesetzgebung erst dann erlaubt ist, wenn ein Gebäude die Vorgaben für den sommerlichen Wärmeschutz erfüllt und dennoch ein Kühlbedarf ausgewiesen wird. Eine gute Gebäudeisolation reduziert
+im Sommer die Temperatur in den Innenräumen. Mit dem Einsatz von Energie soll also nicht primär,
+sondern nur ergänzend gekühlt werden.
+Die UVEK empfände eine liberalere Handhabung von Klimaanlagen nur bei Häusern, die der Photovoltaik-Pflicht unterliegen, im Sinne der Gleichbehandlung als nicht opportun. Die Verknüpfung
+von Photovoltaik-Anlage und Klimaanlage dürfte allerdings den Anreiz erhöhen, Solarstrom zu produzieren, und wäre deshalb im Sinne der Solaroffensive. Zu den von der Hitze am stärksten betroffenen Gebäuden gehören aber jene, die unter Denkmalschutz stehen und deshalb von der Photovoltaik-Pflicht ausgenommen sind. Es wäre unsinnig, dürften ausgerechnet diese nicht gekühlt
+werden.
+Die UVEK kommt mehrheitlich zum Schluss, dass eine Liberalisierung der Gebäudekühlung angezeigt ist, aber kein direkter Zusammenhang zur Solaroffensive hergestellt werden soll. Sie hat mit
+8:5 Stimmen beschlossen, auf das Verfolgen einer Gesetzesbestimmung zur Zulassung von Klimaanlagen im Rahmen der Beratung der Solaroffensive zu verzichten. Bei der Solaroffensive geht
+es um die Frage, wie mehr Strom produziert werden kann, nicht darum, wie dieser genutzt werden
+soll. Die Kommission erwartet, dass der Regierungsrat die im Anzug Daniel Sägesser und Konsorten betreffend Überprüfung der Regulierung von Anlagen zur Gebäudekühlung bei Bestandsbauten
+geforderte Liberalisierung aufnimmt. Sie wird sich wieder mit dem Thema befassen, sobald die
+Stellungnahmen des Regierungsrats zu diesem Anzug und auch zum Anzug Béla Bartha und Konsorten betreffend Bewilligung von solargebundenen Klimaanlagen auf öffentlichen Gebäuden vorliegen.
+
+Seite 29/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+2.5.2
+
+Ausserkantonale Photovoltaik-Produktion
+
+Die UVEK hat mit 9:1 Stimmen bei 3 Enthaltungen einen Antrag abgelehnt, der forderte, auf Dachflächen auf ausserkantonalen Liegenschaften produzierten Solarstrom an die Photovoltaik-Pflicht
+anzurechnen. Begründet wurde der Antrag mit dem Argument, es sei fair, müssten von der Pflicht
+betroffene Hauseigentümerinnen und Hauseigentümer keine Photovoltaik-Anlage installieren,
+wenn sie ihren Beitrag an die Solaroffensive bereits ausserhalb des Kantons geleistet haben.
+Eine klare Mehrheit der UVEK empfände es als konträr zum Ziel der Solaroffensive, das Solarstrompotenzial auf dem Kantonsgebiet bestmöglich auszuschöpfen, dürfte anderswo produzierter
+Strom angerechnet werden. Ausserdem wäre die dafür nötige Kontrolle (u.a. die Überprüfung der
+Eigentumsverhältnisse) administrativ aufwendig. Führen andere Gebietskörperschaften auch eine
+Photovoltaik-Pflicht ein, müsste die Befreiung widerrufen werden. Und letztlich gibt es keinen triftigen Grund, warum jemand, der auf einem Gebäude ausserhalb des Kantons eine PhotovoltaikAnlage betreibt, dies nicht auch innerhalb des Kantons tun soll, handelt es sich dabei doch in aller
+Regel um eine rentable Investition.
+2.5.3
+
+Liegenschaften im Baurecht
+
+Die UVEK hat einen Antrag, Dachflächen auf Liegenschaften im Baurecht, die gemäss Baurechtsvertrag innerhalb von 30 Jahren nach Inkrafttreten der Solaroffensive heimfallen, von der Photovoltaik-Pflicht zu befreien, mit 11:1 Stimmen bei 1 Enthaltung abgelehnt. Begründet wurde der Antrag damit, dass die Baurechtsnehmenden nicht entschädigt werden müssten, wenn die Photovoltaik-Anlage zum Zeitpunkt des Heimfalls noch nicht amortisiert ist.
+Eine klare Mehrheit der UVEK empfände es als konträr zum Ziel der Solaroffensive, das Solarstrompotenzial auf dem Kantonsgebiet bestmöglich auszuschöpfen, würde ein Teil der Dachflächen
+auf Liegenschaften im Baurecht von der Photovoltaik-Pflicht befreit. Im Kanton Basel-Stadt gibt es
+viele Liegenschaften im Baurecht. Bei der Ermittlung der Heimfallentschädigung kann der Restwert
+einer noch nicht amortisierten Photovoltaik-Anlage abgegolten werden. Ob dies geschieht oder
+nicht, muss zwischen Baurechtsgeber und Baurechtsnehmerin geregelt werden. Die Frage dürfte
+sich allerdings eher selten stellen, werden Baurechte doch meist verlängert.
+2.5.4
+
+Berichterstattung
+
+Die UVEK hat diskutiert, in welcher Form und Häufigkeit der Regierungsrat dem Grossen Rat über
+die Solaroffensive Bericht erstatten soll. Gemäss Auskunft aus dem Departement für Wirtschaft,
+Soziales und Umwelt ist die Stromproduktion aus Photovoltaik ein Indikator der Klimastrategie. Im
+Klimaportal wird alle zwei Jahre über die Entwicklung aller Indikatoren berichtet. Alle vier Jahre sind
+Berichte zur Erreichung des Netto-Null-Ziels vorgesehen, und der für das Jahr 2030 geplante Folgeratschlag gibt ebenfalls Gelegenheit, auf die bisherige Entwicklung einzugehen. Regelmässig
+aktualisiert wird zudem die geplante Internetseite zur Solaroffensive.
+Im Gegensatz zum in der Klimastrategie definierten Absenkpfad ist die Solaroffensive mit keinem
+vom Grossen Rat beschlossenen Ausbauziel verbunden. Die Solaroffensive definiert Massnahmen, die sicherstellen sollen, dass nach 15 Jahren die für die Photovoltaik geeigneten Flächen
+genutzt werden. Zwischenziele gibt es keine, und es ist im Sinne der Rechtssicherheit auch nicht
+vorgesehen, die Massnahmen innerhalb der 15 Jahre anzupassen, sollte sich zeigen, dass die
+Hauseigentümerinnen und Hauseigentümer nach fünf oder zehn Jahren «zu wenig» PhotovoltaikAnlagen erstellt haben. Eine allfällige Erhöhung der Ersatzabgabe oder eine Anpassung der Ausnahmeregelungen ist für den Regierungsrat kein Thema. Aus dieser Perspektive braucht es aus
+seiner Sicht keine regelmässige Berichterstattung an den Grossen Rat.
+Ein Teil der UVEK stellt sich auf den Standpunkt, dass im Ratschlag sehr wohl ein konkretes Ziel
+definiert ist. Bis 2037 sollen 500 GWh/a Photovoltaik zugebaut werden. Der Ratschlag referenziert
+mehrfach darauf, dass die Massnahmen und die Förderung angepasst werden können, sollten sie
+sich als nicht zielführend erweisen. Der Grosse Rat sollte deshalb vor Ablauf der 15 Jahre Kenntnis
+davon erhalten, sollte sich abzeichnen, dass das Ziel verfehlt wird. Zwischenstandsberichte alle
+
+Seite 30/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+drei bis vier Jahre wären für den politischen Diskurs wertvoll. Der Austausch zwischen der UVEK
+und der Verwaltung wäre einfacher, basierte er auf Berichten. Dass es für die Solaroffensive einen
+Rahmen braucht, der bis 2037 unverändert bleibt, und die Spielregeln nicht während des Spiels
+geändert werden sollten, wird damit nicht infrage gestellt.
+Ein anderer Teil der UVEK ist der Ansicht, dass die vorgesehenen, öffentlich zugänglichen Informationen genügen. Es besteht nicht die Gefahr eines Blindflugs bis 2037. Im Internet abrufbare,
+regelmässig aktualisierte Informationen dürften zudem wertvoller sein als statische Berichte zu im
+Voraus definierten Zeitpunkten.
+Die UVEK hat sich nach der geführten Diskussion mit 6:4 Stimmen bei 3 Enthaltungen dafür entschieden, auf einen Antrag für eine zusätzliche Berichterstattung an den Grossen Rat (alle drei bis
+vier Jahre) zur Solaroffensive zu verzichten.
+
+3.
+
+Motionen und Anzüge
+
+Der Regierungsrat nimmt in Kapitel 11 seines Ratschlags zu fünf Motionen und zwei Anzügen Stellung. Er beantragt, alle sieben abzuschreiben. Die UVEK folgt diesen Anträgen mit jeweils 12:0
+Stimmen.
+
+4.
+
+Fazit und Antrag der UVEK
+
+Die UVEK stuft die Solaroffensive mehrheitlich als wichtigen Schritt zur Erhöhung der Energieunabhängigkeit und als wichtigen Beitrag zur Energiewende ein. Der Vorschlag des Regierungsrats
+dürfte ambitioniert, über den vorgesehenen Zeithorizont aber umsetzbar sein.
+Die UVEK anerkennt, dass der Regierungsrat auf in der Vernehmlassung kritisierte Punkte eingegangen ist und die Vorlage in verschiedenen Punkten angepasst hat. Einzelne dieser Anpassungen
+waren in der Einschätzung eines Teils der UVEK nicht zwingend, die meisten werden von der Kommission aber begrüsst. Der Kanton Basel-Stadt kann mit der Solaroffensive eine Vorreiterrolle einnehmen und andere Kantone dazu bewegen, ähnlich vorzugehen.
+Die UVEK erwartet vom Regierungsrat, die in diesem Bericht für die Verordnung und Praxis mitgegebenen Punkte umzusetzen, u.a. die Gleichstellung von Photovoltaik- und Solarthermieanlagen,
+die Information aller unter die Pflicht fallenden Hauseigentümerinnen und Hauseigentümer, die Revision von § 72 BPG im angedachten Sinne, die Erhöhung der Förderbeiträge bei zusätzlicher Begrünung, die Qualitätswahrung beim Bauinspektorat in Bezug auf Fassadenphotovoltaik und den
+allgemeinen Ausbau der Beratung der Hauseigentümerinnen und -eigentümer zu diesen Themen
+inklusive alternativen Contracting-Optionen. Gestützt auf ihre Ausführungen in Kapitel 2 dieses Berichts beantragt sie dem Grossen Rat mit 8:4 Stimmen, dem Antrag des Regierungsrats zur Anpassung des Energiegesetzes und des Bau- und Planungsgesetzes zuzustimmen.
+Die UVEK beantragt dem Grossen Rat mit jeweils 12:0 Stimmen, die Motion Thomas Grossenbacher und Konsorten betreffend «Solardachpflicht auf öffentlichen Gebäuden», die Motion Jürg
+Stöcklin und Konsorten betreffend «Aufbruch ins Solarzeitalter» - mehr Photovoltaik-Anlagen auf
+Basels Dächern und Fassaden, die Motion René Brigger und Konsorten betreffend «Anpassung
+Basler Baurecht an die Solaroffensive», die Motion Bruno Lötscher-Steiger und Konsorten betreffend «Abbau von Hindernissen bei der Förderung von Photovoltaikinstallationen in den historischen
+Ortskernen von Basel, Riehen und Bettingen», die Motion Adrian Iselin und Michael Hug betreffend
+«Schaffung von kantonalen Förderbeiträgen für Photovoltaik-Anlagen zusätzlich zur Förderung
+durch den Bund», den Anzug Michael Hug und Konsorten betreffend «umfassende Information
+aller Hauseigentümer im Kanton über die Installation von Solaranlagen auf Dächern und an Fassaden im Bring-System» sowie den Anzug Tim Cuénod und Konsorten betreffend «kantonale
+Flachdach-Strategie» abzuschreiben.
+
+Seite 31/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+Den vorliegenden Bericht hat die UVEK an ihrer Sitzung vom 11. November 2026 mit 11:0 Stimmen
+verabschiedet und ihre Präsidentin zur Sprecherin bestimmt.
+Im Namen der Umwelt-, Verkehrs- und Energiekommission
+Raffaela Hanauer
+Kommissionspräsidentin
+
+Beilagen
+Entwurf Grossratsbeschluss
+Mitbericht Bau- und Raumplanungskommission
+
+Seite 32/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+Energiegesetz
+(EnG)
+Änderung vom [Datum]
+Der Grosse Rat des Kantons Basel-Stadt,
+nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 25.0921.01 vom 25. Juni 2025 sowie in den
+Bericht der Umwelt-, Verkehrs- und Energiekommission Nr. 25.0921.02 vom 11. November 2026,
+beschliesst:
+I.
+Das Energiegesetz 5) (EnG) vom 16. November 2016 6) (Stand 1. Juli 2024) wird wie folgt geändert:
+Titel (geändert)
+
+Energiegesetz (EnG)
+§ 6 Abs. 1 (geändert), Abs. 2 (geändert), Abs. 3 (geändert)
+Eigenstromerzeugung (Überschrift geändert)
+1
+Neue sowie bestehende Bauten und Anlagen, deren Dach umfassend saniert wird, müssen Elektrizität auf
+Grundlage von erneuerbaren Energien selbst erzeugen.
+2
+Sämtliche bestehenden Bauten und Anlagen müssen innerhalb von 15 Jahren nach Inkrafttreten dieser Bestimmung Elektrizität auf Grundlage von erneuerbaren Energien selbst erzeugen.
+3
+Bauten und Anlagen sowie damit zusammenhängende Ausstattungen und Ausrüstungen sind so zu planen
+und auszuführen, dass die Elektrizität sparsam und rationell genutzt wird.
+§ 6a (neu)
+Ausnahmen von der Eigenstromerzeugungspflicht
+1
+Von der Eigenstromerzeugungspflicht sind folgende bestehende Bauten, Anlagen oder Teilflächen ausgenommen:
+a)
+Bauten und Anlagen mit einer gemäss Solarkataster für die Erzeugung erneuerbarer Energie gut
+oder sehr gut geeigneten Dachfläche von weniger als 100 m²;
+b)
+Kulturdenkmäler von kantonaler oder nationaler Bedeutung gemäss Art. 32b der Raumplanungsverordnung (RPV) vom 28. Juni 2000 7) zum Zeitpunkt des Inkrafttretens dieser Bestimmung;
+c)
+Dachflächen oder Dachteilflächen auf Kulturdenkmälern gemäss Art. 32b RPV, die erst nach Inkrafttreten dieser Bestimmung unter Schutz gestellt werden, wenn sie sich aus denkmalschützerischer Sicht nicht oder nur mit einem unverhältnismässigen Aufwand für die Eigenstromerzeugung
+eignen;
+d)
+Dachflächen oder Dachteilflächen an baubewilligungspflichtigen Bauten und Anlagen, bei denen
+im Einzelfall keine Baubewilligung für eine Eigenstromerzeugungsanlage erteilt werden kann;
+e)
+Dachflächen oder Dachteilflächen, welche bereits anderweitig genutzt werden und nicht umfassend
+saniert werden;
+f)
+Dachflächen oder Dachteilflächen, deren Nutzung für die Eigenstromerzeugung technisch nicht
+möglich ist.
+2
+Der Regierungsrat kann aus denkmalschützerischen Gründen weitere bestehende Bauten und Anlagen von
+der Eigenstromerzeugungspflicht ausnehmen.
+
+5)
+6)
+7)
+
+Titel redaktionell beigefügt.
+SG 772.100
+SR 700.1
+
+Seite 33/34
+
+Grosser Rat des Kantons Basel-Stadt
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+§ 6b (neu)
+Härtefall
+1
+Wird bei selbstgenutztem Wohneigentum für die Umsetzung der Pflicht von § 6 ein finanzieller Härtefall
+geltend gemacht, kann ein Aufschub von bis zu drei Jahren nach der nächsten Handänderung gewährt werden.
+§ 6c (neu)
+Ersatzabgabe
+1
+Kommt die Eigentümerschaft der Pflicht zur Eigenstromerzeugung nicht oder nur teilweise nach, hat sie
+eine Ersatzabgabe zu leisten.
+2
+Die Eigentümerschaft von Neubauten kann nicht auf die Eigenstromerzeugung verzichten.
+§ 6d (neu)
+Vollzug
+1
+Die Verordnung regelt die Einzelheiten zur Pflicht zur Eigenstromerzeugung sowie der Ersatzabgabe.
+§ 20 Abs. 1 (geändert)
+1
+Massnahmen, die dem Zweck dieses Gesetzes dienen, sind zu fördern. Dazu gehören insbesondere Anlagen zur Gewinnung von erneuerbarer Energie, Verbrauchsgemeinschaften, Anlagen zur Verbesserung der
+Energieeffizienz, Dämmungen von bestehenden Bauten sowie Energieanalysen.
+II. Änderung anderer Erlasse
+Bau- und Planungsgesetz (BPG) vom 17. November 1999 8) (Stand 17. Februar 2025) wird wie folgt geändert:
+§ 37 Abs. 4bis (aufgehoben), Abs. 4ter (aufgehoben)
+4bis
+Aufgehoben.
+4ter
+Aufgehoben.
+III. Aufhebung anderer Erlasse
+Keine Aufhebung anderer Erlasse.
+IV. Schlussbestimmung
+Diese Änderung ist zu publizieren; sie unterliegt dem Referendum und der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens.
+
+[Behörde]
+[Funktion 1]
+[NAME 1]
+[Funktion 2]
+[NAME 2]
+
+8)
+
+SG 730.100
+
+Seite 34/34
+
+Grosser Rat des Kantons Basel-Stadt
+
+Bau- und Raumplanungskommission (BRK)
+
+Bau- und Raumplanungskommission
+Basel, 5. März 2026
+Kommissionsbeschluss vom 5. März 2026
+
+Mitbericht der Bau- und Raumplanungskommission zum Ratschlag zur
+Förderung des Ausbaus der Photovoltaik-Infrastruktur an Gebäuden im
+Kanton Basel-Stadt («Solaroffensive»)
+und
+
+Teilrevisionen Bau- und Planungsgesetz (BPG) und Energiegesetz BaselStadt (EnG)
+und
+
+Bericht
+- zur Motion Thomas Grossenbacher und Konsorten betreffend «Solardachpflicht auf öffentlichen Gebäuden»
+- zur Motion Jürg Stöcklin und Konsorten betreffend «Aufbruch ins Solarzeitalter» - mehr Photovoltaik-Anlagen auf Basels Dächern und Fassaden
+- zur Motion René Brigger und Konsorten betreffend «Anpassung Basler
+Baurecht an die Solaroffensive»
+- zur Motion Bruno Lötscher-Steiger und Konsorten betreffend «Abbau
+von Hindernissen bei der Förderung von Photovoltaikinstallationen in
+den historischen Ortskernen von Basel, Riehen und Bettingen»
+- zur Motion Adrian Iselin und Michael Hug betreffend «Schaffung von
+kantonalen Förderbeiträgen für Photovoltaik-Anlagen zusätzlich zur
+Förderung durch den Bund»
+- zum Anzug Michael Hug und Konsorten betreffend «umfassende Information aller Hauseigentümer im Kanton über die Installation von Solaranlagen auf Dächern und an Fassaden im Bring-System»
+- zum Anzug Tim Cuénod und Konsorten betreffend «kantonale Flachdach-Strategie»
+zuhanden der
+
+Umwelt-, Verkehrs- und Energiekommission (UVEK)
+
+Seite 1
+
+Grosser Rat des Kantons Basel-Stadt, Bau- und Raumplanungskommission
+
+Inhaltsverzeichnis
+1.
+
+Auftrag und Vorgehen der Kommission.................................................................. 3
+
+2.
+
+Kommissionsberatung.............................................................................................. 3
+2.1
+2.2
+
+3.
+
+Erwägungen der Kommission .................................................................................. 6
+3.1
+3.2
+
+3.3
+
+4.
+
+Anhörung der Verwaltung ............................................................................................................. 3
+Anhörung der kantonalen Denkmalpflege und der Stadtbildkommission ..................................... 4
+a. Kantonale Denkmalpflege .......................................................................................................4
+b. Stadtbildkommission ...............................................................................................................6
+Qualitätssichernde Massnahmen .................................................................................................. 6
+Weitere Aspekte ............................................................................................................................ 8
+a. Konkurrenz zwischen Dachbegrünung und PV-Pflicht ...........................................................8
+b. Konkurrenz zwischen Solarthermie und PV-Pflicht ................................................................9
+c. Einspeisevergütung ................................................................................................................9
+Abschreibung von Motionen und Anzügen ................................................................................. 10
+
+Antrag ....................................................................................................................... 10
+
+Seite 2
+
+Grosser Rat des Kantons Basel-Stadt, Bau- und Raumplanungskommission
+
+1.
+
+Auftrag und Vorgehen der Kommission
+
+Der Grosse Rat hat den Ratschlag Nr. 25.0921.01 betreffend «Förderung des Ausbaus der
+Photovoltaik-Infrastruktur an Gebäuden im Kanton Basel-Stadt («Solaroffensive»)» am
+10. September 2025 der Umwelt-, Verkehrs- und Energiekommission (UVEK) zur Berichterstattung
+und der Bau- und Raumplanungskommission (BRK) zum Mitbericht überwiesen.
+Um die dem Ratschlag zugrundeliegenden Intentionen des Regierungsrats zu verstehen, informierten sich die Kommissionen eigenständig beim zuständigen Departement für Wirtschaft, Soziales
+und Umwelt (WSU). Daraufhin legten sie ihre thematischen Schwerpunkte fest, wobei die BRK ihre
+Beratung auf das Bau- und Planungsgesetz, speziell auf die Verfahren in Schon- und Schutzzonen,
+ausrichtete.
+Im Rahmen ihrer Beratungen hörte die BRK den Departementsvorsteher des WSU sowie den
+Amtsleiter des Amtes für Umwelt und Energie (AUE) an. In einer weiteren Anhörung wurden zudem
+der Kantonale Denkmalpfleger und der Präsident der Stadtbildkommission gemeinsam gehört.
+
+2.
+
+Kommissionsberatung
+
+2.1
+
+Anhörung der Verwaltung
+
+Die Vertreter der Verwaltung betonten im Zuge der Anhörung, dass der von der Basler Stimmbevölkerung deutlich angenommene Klimaschutzauftrag einen klaren politischen Handlungsauftrag
+darstellt. Der Ausbau erneuerbarer Energien – insbesondere der Solarenergie – sei ein zentraler
+Bestandteil davon, was auch durch die Motion Stöcklin und Konsorten («Aufbruch ins Solarzeitalter»1) unterstrichen werde.
+Obwohl die IWB bereits 100 Prozent erneuerbaren Strom liefert, besteht bei Solarstrom noch erhebliches Ausbaupotenzial. Zudem laufen Wasserkraftkonzessionen mittelfristig aus, und die
+Strommangellage im Winter 2022/23 zeigte die Bedeutung regionaler Produktion. Aufgrund begrenzter Flächen im Stadtkanton und ausgeschöpfter Rheinnutzung ist Solarenergie die sinnvollste
+Option für Basel-Stadt, da sie Versorgungssicherheit und Energiewende unterstützt. Das Ausbauziel von 500 GWh pro Jahr entspricht einer Verzehnfachung des heutigen Ertrags durch Solarenergie und rund 40 Prozent des aktuellen Stromverbrauchs. Die PV-Pflicht soll für geeignete Dachflächen ab 100 m² gelten und berücksichtigt damit wirtschaftliche Aspekte. Das Solarkataster weist
+geeignete Flächen aus und bezieht neben der Fläche auch Faktoren wie Verschattung ein.
+In der anschliessenden Diskussion wurden insbesondere die Auswirkungen der PV-Pflicht auf
+Hauseigentümer thematisiert. Es wurde die Frage gestellt, wie sinnvoll eine Solaranlage für Eigentümer ist, die Fernwärme beziehen und keinen hohen Eigenstromverbrauch aufweisen. Kritisiert
+wurde zudem, dass überschüssiger Strom zu festen Tarifen abgegeben und bei Mehrbedarf teuer
+zurückgekauft werden müsse.
+Dem wurde seitens Verwaltung entgegengehalten, dass grössere pflichtige Dachflächen in der Regel auf grösseren Gebäuden stehen, die auch einen höheren Eigenbedarf aufweisen. Zudem könnten (virtuelle) Zusammenschlüsse zum Eigengebrauch (ZEV)oder lokale Elektrizitätsgemeinschaften (LEG) gebildet werden, wodurch Stromproduzierende und Stromabnehmende profitieren und
+teilweise von Netzabgaben befreit würden. Eigenverbrauch bleibe für die Wirtschaftlichkeit zentral,
+ergänzend könnten Batteriespeicher eingesetzt werden. Gesellschaftlich sei es jedoch sinnvoll,
+wenn möglichst viel Strom ins Gesamtnetz eingespeist werde.
+
+1
+
+https://grosserrat.bs.ch/dokumente/100395/000000395179.pdf
+
+Seite 3
+
+Grosser Rat des Kantons Basel-Stadt, Bau- und Raumplanungskommission
+
+Die Vertreter der Verwaltung führten aus, dass 70 Prozent der geeigneten Dachfläche mit einer
+Leistung von 200 Watt pro Quadratmeter belegt werden müssen. Eine Reduktion der Einspeisevergütung sei derzeit nicht geplant, wobei auf Bundesebene über dynamischere Modelle nachgedacht werde.
+Auf Nachfrage bestätigte die Verwaltung, dass die Förderung auch für Flächen ausserhalb der
+Pflicht gelte, insbesondere wenn mehr als 70 Prozent der geeigneten Fläche genutzt werden. Für
+begrünte Dächer wurde mit der Stadtgärtnerei ein Verhältnis von 60 Prozent Photovoltaik zu
+40 Prozent Biodiversitätsfläche vereinbart. Lösungen wie kombinierte Dach- und Fassadenanlagen
+seien möglich und praxiserprobt.
+Zur Information der Betroffenen sollen Katasterreports, Medienarbeit, Informationsveranstaltungen
+und zusätzliche Solarberatungsfachpersonen beitragen. Eine generelle Briefzustellung an alle Eigentümerschaften sei gemäss Verwaltung schwierig. Die Erhöhung der Mindestfläche von 50 m²
+auf 100 m² halbiert die Anzahl betroffener Liegenschaften, wobei vor allem kleine bis mittlere Einund Mehrfamilienhäuser ausgenommen seien. Denkmalgeschützte Gebäude seien nicht Teil der
+Statistik und unterlägen einer Einzelfallprüfung.
+Auf die Frage, weshalb es trotz finanzieller Anreize eine PV-Pflicht brauche, wurde mit dem grossen
+öffentlichen Interesse und der kollektiven Verantwortung für eine sichere Stromversorgung argumentiert. Nicht alle Kantone würden dieselbe Strategie verfolgen, jedoch bestehe ein gemeinsamer
+europäischer Strommarkt. Komme es andernorts zu einem Ausfall an Energielieferungen, könne
+die Solarenergie die Resilienz des Gesamtsystems erhöhen. Abschliessend erwarte die Verwaltung, dass Photovoltaik – auch an Fassaden – bei Neu- und Umbauten zunehmend zum Standard
+wird.
+
+2.2
+
+Anhörung der kantonalen Denkmalpflege und der Stadtbildkommission
+
+Um Fragen der Qualitätssicherung bei der Umsetzung der Solaroffensive, insbesondere auf die
+aktuell angewendeten Verfahren und geplante Neuerungen, ging es der BRK bei der gemeinsamen
+Anhörung der Stadtbildkommission und der kantonalen Denkmalpflege. Die wesentlichen Aspekte
+der Diskussion werden nachfolgend abgebildet.
+a. Kantonale Denkmalpflege
+Die Denkmalpflege wurde gemäss Aussage von dessen Vertreter von Anfang an konstruktiv in die
+Umsetzung der Solaroffensive eingebunden, insbesondere durch das WSU und das Amt für Umwelt und Energie (AUE). Die kantonale Denkmalpflege ist gestützt auf § 16 DSchG2 für Schutzzonen zuständig. Der Regierungsrat setzt Schutzzonen fest und die Denkmalpflege wirkt als Fachbehörde im Verfahren mit. Das BPG regelt ergänzend die planungsrechtliche Umsetzung.
+Bei der Umsetzung der Solaroffensive gelte es, die Vorgaben des Bundes ebenso wie das öffentliche Interesse zu wahren. Besonders entscheidend sei die Abwägung zwischen dem Schutz des
+Ortsbildes – etwa durch ISOS oder Objekte von nationaler Bedeutung – und der Umsetzung der
+PV-Pflicht. Beide Interessen seien gleichwertig und bereits heute finde eine Güterabwägung statt.
+Dabei spielen Aspekte wie Blickachsen zwischen Klein- und Grossbasel oder Sichtbeziehungen
+von den Münstertürmen eine Rolle. Sofern keine erhebliche Beeinträchtigung vorliege, würden PVAnlagen in der Regel genehmigt. Das AUE habe zudem angeregt, die Dachflächen in der Schutzzone auf ihre Relevanz für das Ortsbild zu bewerten. Mittels Drohnen seien die Dächer folglich
+erfasst worden. Die Erkenntnisse würden auf mapBS3 abgebildet.
+In den letzten fünf Jahren seien 73 PV-Gesuche in den Schutzzonen eingereicht worden, davon 70
+bewilligt und drei abgelehnt. Weitere Projekte seien zwar bewilligt, aber nicht umgesetzt worden.
+2
+3
+
+https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/497.100
+https://map.geo.bs.ch/?lang=de&baselayer_ref=Grundkarte%20farbig
+
+Seite 4
+
+Grosser Rat des Kantons Basel-Stadt, Bau- und Raumplanungskommission
+
+Innerhalb der historischen Ortskerne seien nur 4 Prozent der Flächen als Schutzzonen ausgewiesen, beispielsweise grosse Teile der Freien Strasse. Auch aus Ressourcengründen werde darauf
+verzichtet, bei Vorhaben in Schutzzonen ausserhalb des historischen Ortskerns tiefgreifende Stellungnahmen vorzunehmen.
+Die meisten Dächer in der Schutzzone seien ohnehin vom Solarobligatorium nicht betroffen, da sie
+kleiner als 100 m² sind. Das Dachflächenkataster dient lediglich als Planungshilfe und soll Transparenz und Nachvollziehbarkeit für Planende und Behörden schaffen. PV-Anlagen würden genehmigt, solange sie nicht störend wirken oder historische Materialien zerstören. Historische Dacheindeckungen etwa sind auch unter PV-Anlagen zu erhalten und können nicht durch Solarziegel
+ersetzen werden.
+In Bezug auf § 6a Absatz 2 des Energiegesetzes (EnG)4 legte der Vertreter der kantonalen Denkmalpflege dar, dass der Regierungsrat aus denkmalpflegerischen Gründen bestehende Gebäude
+von der Eigenstromerzeugungspflicht ausnehmen kann. Ziel sei es, PV-Anlagen zu untersagen,
+wenn sie dem Schutzziel widersprechen. Schutzverträge und Schutzverfügungen würden bereits
+im Austausch mit dem AUE bearbeitet, wobei Klimaschutzaspekte ebenfalls berücksichtigt werden
+müssen.
+Beispiel einer bewilligten PV-Anlage im historischen Ortskern, Oberer Rheinweg 7
+(Hotel Krafft).
+
+Quelle: Kantonale Denkmalpflege
+
+Beispiele bewilligter PV-Anlagen in der Schutzzone und auf Denkmälern, Burgweg 35 und
+Schaffhauserrheinweg 53 – 71.
+
+Quelle: Kantonale Denkmalpflege
+
+4
+
+https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/772.100
+
+Seite 5
+
+Grosser Rat des Kantons Basel-Stadt, Bau- und Raumplanungskommission
+
+b. Stadtbildkommission
+Die konkrete fachliche Zuständigkeit der Stadtbildkommission für Schonzonen ergibt sich aus der
+Verordnung über die Stadtbildkommission des Kantons Basel-Stadt. Diese weist der Stadtbildkommission die Aufgabe zu, Baugesuche in Schon- und Schutzzonen in gestalterischer und städtebaulicher Hinsicht zu beurteilen und zuhanden der Bewilligungsbehörde Stellung zu nehmen. Die
+Stadtbildkommission ist damit die gesetzlich vorgesehene Fachinstanz für Fragen der Einordnung
+und Stadtbildverträglichkeit.
+Bezüglich der Umsetzung der PV-Pflicht in der Schonzone wies der Vertreter der Stadtbildkommission darauf hin, dass in fast allen Zonen bereits heute das Meldeverfahren gelte, auch für Fassaden-PV. Man sammle bereits seit einigen Jahren Erfahrungen und halte die Praxis bei Dachanlagen für etabliert, was allerdings für Anlagen an Fassaden nicht behauptet werden könne. Aktuell
+gebe es acht Fassaden-PV-Anlagen in der Stadt Basel. Aus Sicht des Vertreters der Stadtbildkommission sei eine Bewilligungspflicht überall dort notwendig, wo Qualitätssicherung erforderlich ist.
+Mit der Unterscheidung zwischen Melde- und Bewilligungsverfahren werde klar definiert, wo welche
+Massnahmen zulässig sind. Ziel sei es, dass die Qualität der PV-Anlagen gesichert werde, da bei
+reinen Meldeverfahren die Qualitätskontrolle wegfalle und Anlagen sonst möglicherweise unkontrolliert installiert würden. Im Bewilligungsfall sei die Beratung intensiver, was die Qualität zusätzlich
+erhöhe. Projektierungshilfen für die visuelle Gestaltung von PV-Anlagen könnten künftig in Zusammenarbeit mit der Stadtbildkommission entwickelt werden, analog zum bestehenden Reklamekonzept. Ziel sei es, Richtlinien mit klaren Beispielen zu versehen, um Transparenz zu schaffen und
+auch um Konflikte zwischen PV-Pflicht und Begrünungspflicht zu minimieren.
+Zur Rolle der PV-Pflicht beim Klimaschutz wiesen die beiden Gäste darauf hin, dass ein Konsens
+mit dem AUE bestehe: Der Schutz des Ortsbildes und einzelner Objekte müsse gewährleistet werden, ohne dass Klimaziele darunter leiden. In speziellen Fällen, etwa bei verschachtelten Altstadtsituationen, in denen ein Gebäude nicht ans Fernwärmenetz angeschlossen werden könne, werde
+bspw. auch die Installation einer Wärmepumpe auf dem Dach akzeptiert.
+
+3.
+
+Erwägungen der Kommission
+
+Nachdem sich die Kommission im Lichte ihres thematischen Schwerpunkts sowie gestützt auf die
+durchgeführten Anhörungen ein vertieftes und differenziertes Bild des Ratschlags verschafft hatte,
+richtete sie ihr Hauptaugenmerk in der weiteren Beratung insbesondere auf die Frage der Qualitätssicherung. Im Zentrum stand dabei weniger die grundsätzliche Zielsetzung der Vorlage – die in
+weiten Teilen unbestritten war – als vielmehr die konkrete Ausgestaltung der Umsetzung und deren
+Auswirkungen auf das Stadt- und Ortsbild.
+
+3.1
+
+Qualitätssichernde Massnahmen
+
+Im Kanton Basel-Stadt ist eine Baubewilligung grundsätzlich immer dann erforderlich, wenn ein
+Vorhaben die bauliche Substanz, die äussere Erscheinung, die Nutzung oder die Umweltwirkungen
+einer Liegenschaft wesentlich verändert. Massgeblich ist dabei, ob durch das Projekt öffentliche
+Interessen – etwa Raumplanung, Sicherheit, Brandschutz, Lärmschutz, Ortsbild oder Denkmalschutz – berührt werden oder nachbarschaftliche Rechte betroffen sein können. Technische Anlagen können ebenfalls bewilligungspflichtig sein, insbesondere wenn sie das Erscheinungsbild beeinflussen oder Emissionen verursachen. Dazu zählen etwa Wärmepumpen, grössere
+Lüftungsanlagen oder – je nach Ausgestaltung und Lage – Photovoltaikanlagen. In sensiblen Zonen wie der Schonzone oder bei denkmalgeschützten Gebäuden gelten bislang strengere Massstäbe, da hier der Schutz des Orts- und Stadtbildes zusätzlich zu berücksichtigen ist. Das PVVerbot in historischen Stadtkernen war bundesrechtswidrig und widerspricht zudem dem übergeordneten Ziel, den Ausbau erneuerbarer Energien konsequent voranzutreiben und die energiepo-
+
+Seite 6
+
+Grosser Rat des Kantons Basel-Stadt, Bau- und Raumplanungskommission
+
+litischen Vorgaben umzusetzen. Anstelle eines pauschalen Verbots ist nun vielmehr eine differenzierte Regelung angezeigt. Je nach Sensibilität der jeweiligen Zone und den konkreten Auswirkungen auf das Orts- und Stadtbild könne entweder eine Baubewilligungspflicht vorgesehen werden,
+die eine vertiefte Prüfung durch die zuständigen Fachstellen ermöglicht, oder ein vereinfachtes
+Meldeverfahren zur Anwendung gelangen. Auf diese Weise lasse sich der notwendige Ausbau der
+Solarenergie mit den berechtigten Anliegen des Ortsbild- und Denkmalschutzes in ein ausgewogenes Verhältnis bringen.
+
+Quelle: Ratschlag 25.0921.01
+
+Vor diesem Hintergrund rückte der vorgesehene Praxiswechsel in den Zonen 2, 2a, 3 sowie in der
+NÖI besonders in den Fokus der Diskussion. In diesen Zonen soll von der bisherigen Praxis, wonach entsprechende Vorhaben grundsätzlich dem ordentlichen Baubewilligungsverfahren unterstanden, zugunsten eines vereinfachten Meldeverfahrens abgewichen werden. Diese Änderung
+wird von der BRK als wesentlich erachtet, weil sie nicht nur verfahrensrechtliche, sondern auch
+qualitative Implikationen mit sich bringt.
+Während das Baubewilligungsverfahren eine vertiefte Prüfung durch die zuständigen Fachstellen
+– unter Einbezug städtebaulicher, gestalterischer und denkmalpflegerischer Aspekte – sicherstellt,
+ist das Meldeverfahren primär auf eine formelle Überprüfung der gesetzlichen Kriterien ausgerichtet. Die Kommission setzte sich daher intensiv mit der Frage auseinander, ob und in welcher Weise
+die bisher gewährleistete Qualitätssicherung auch unter einem erleichterten Verfahren sichergestellt werden kann. Der angestrebte Praxiswechsel wurde somit nicht isoliert als administrative Vereinfachung betrachtet, sondern als strukturelle Weichenstellung mit potenziell langfristigen Auswirkungen auf das Erscheinungsbild und die bauliche Entwicklung der betroffenen Zonen. Im
+Anschluss an die dargelegte Diskussion wurden zwei Anträge eingebracht.
+Der erste Antrag zielt darauf ab, die bisherige Bewilligungspflicht für Fassaden-Photovoltaikanlagen in den Zonen 2, 2a, 3 und NÖI beizubehalten. Der Antragsteller begründete dies insbesondere
+mit dem Schutz des Orts- und Stadtbildes. Er verwies dabei auf die Stellungnahme der Ortsbildkommission Riehen, wonach in naher Zukunft mit einer grossen Vielfalt an Photovoltaikmodulen
+hinsichtlich Formen, Farben und Gestaltung zu rechnen sei. Diese technische und gestalterische
+Diversifizierung berge das Risiko einer uneinheitlichen oder unkoordinierten Anordnung von PVElementen an Fassaden, was zu einer Beeinträchtigung des Orts- und Stadtbildes führen könne.
+Gerade in sensiblen Zonen erscheine es daher angezeigt, an der vertieften Prüfung im Rahmen
+Seite 7
+
+Grosser Rat des Kantons Basel-Stadt, Bau- und Raumplanungskommission
+
+eines Baubewilligungsverfahrens festzuhalten. Der Antrag stützt sich somit auf das Argument, dass
+eine vorgängige umfassende Beurteilung durch die zuständigen Fachstellen ein wirksameres Instrument zur Sicherung der gestalterischen Qualität darstellt als ein blosses Meldeverfahren.
+Der zweite Antrag knüpft an die Frage an, wie das vorgesehene Meldeverfahren konkret ausgestaltet werden soll. Nach der Vorstellung der Antragstellerin würde die Meldung zunächst beim Bauund Gastgewerbeinspektorat (BGI) eingehen und anschliessend an das AUE weitergeleitet. Dort
+würde geprüft, ob die gesetzlichen Kriterien erfüllt sind, insbesondere ob es sich um eine genügend
+angepasste Anlage gemäss Artikel 18a Raumplanungsgesetz (RPG)5 handelt. Zweifel wurden jedoch dahingehend geäussert, ob das AUE über die erforderliche gestalterische und ortsbildbezogene Expertise verfügt, um eine solche Prüfung in der notwendigen Tiefe vorzunehmen. Vor diesem Hintergrund wurde angeregt, der UVEK zu beantragen, dass Meldeverfahren für FassadenPhotovoltaikanlagen verpflichtend durch die Stadtbildkommission respektive die Ortsbildkommission Riehen begleitet werden sollen. Zudem solle ausdrücklich auf das bestehende Beratungsangebot dieser Fachgremien hingewiesen werden. Es könnte auch eine den Reklamerichtlinien der
+Stadtbildkommission analoge Vorgehensweise als sinnvoll sein. Die Reklamerichtlinien dienen
+dazu, Aussenwerbung im städtischen Raum so zu regulieren, dass sie sich in das Gesamtbild von
+Quartier und Strasse einfügt und nicht als störend oder dominierend empfunden wird. Sie stützen
+sich auf das kantonale Bau‑ und Planungsgesetz, wonach «Bauten, Anlagen, Reklamen, Aufschriften und Bemalungen so zu gestalten sind, dass eine gute Gesamtwirkung entsteht» (§ 58
+BPG). Ziel dieses Antrags ist es, trotz vereinfachtem Verfahren eine fachlich fundierte Qualitätssicherung sicherzustellen und Fehlentwicklungen frühzeitig zu vermeiden. Die Einführung respektive
+der Beibehalt der Bewilligungspflicht könne als Bremsen gelesen werden.
+Die BRK stimmt mit 7 zu 4 Stimmen bei einer Enthaltung gegen den ersten Antrag.
+Die BRK stimmt mit 10 zu 1 Stimmen bei einer Enthaltung für den zweiten Antrag.
+Die BRK beantragt der UVEK demnach den GRB dahingehend zu ergänzen, dass bei Fassaden-PV-Anlagen nicht nur eine Meldung ans AUE, sondern auch an die Stadtbildkommission
+in Basel bzw., die Ortsbildskommission in Riehen oder die Dorfbildkommission in Bettingen
+erfolgen soll. Zudem soll auf das Beratungsangebot dieser Kommissionen hingewiesen werden. Dieses Vorgehen soll für alle Zonen gelten.
+
+3.2
+
+Weitere Aspekte
+
+a. Konkurrenz zwischen Dachbegrünung und PV-Pflicht
+Die BRK erkannte die teilweise ungewollte Konkurrenz zwischen der Dachbegrünung und der Installation von Photovoltaikanlagen als ein problematisches Spannungsfeld. Für Bestandsbauten
+besteht ab einer Dachgrösse von 100 m2 neu sowohl eine klare Pflicht zur Installation von PVAnlagen als auch eine verpflichtende Begrünung gemäss § 72 BPG, wobei eine Dachbegrünung
+nur bei einer baulichen Anpassung verpflichtend ist. Vor diesem Hintergrund weist die Kommission
+darauf hin, dass es wichtig ist, Mechanismen zu schaffen, die sicherstellen, dass eine angemessene und ökologisch wertvolle Begrünung der Dachflächen erhalten oder gefördert wird. Dabei ist
+es aus Sicht der BRK entscheidend, bei jeder geplanten PV-Installation sorgfältig zu prüfen, welches Begrünungspotenzial auf dem jeweiligen Dach vorhanden ist und wie dieses optimal mit den
+Solarpanels kombiniert werden kann.
+Die BRK betont, dass eine solche integrative Vorgehensweise nicht nur ökologisch sinnvoll ist,
+sondern auch die städtische Lebensqualität erhöht und die Ziele der Energiewende in Basel-Stadt
+effektiv unterstützt. Durch die abgestimmte Nutzung von Dachflächen können technische Innovation, Klimaschutz und Naturschutz in Einklang gebracht werden, ohne dass eine Massnahme die
+
+5
+
+https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de
+
+Seite 8
+
+Grosser Rat des Kantons Basel-Stadt, Bau- und Raumplanungskommission
+
+andere behindert. Die Kommission sieht in dieser Kombination von Photovoltaik und Dachbegrünung eine Chance, um Nachhaltigkeit und Stadtentwicklung wirkungsvoll zusammenzuführen.
+b. Konkurrenz zwischen Solarthermie und PV-Pflicht
+Im Rahmen der Beratungen wurde darauf hingewiesen, dass die Solarenergie gesamtheitlich betrachtet werden sollte. Neben der Stromproduktion durch Photovoltaik leisten auch solarthermische
+Anlagen einen wichtigen Beitrag zur Nutzung erneuerbarer Energien. Sie weisen bei der Warmwasserbereitung und zur Heizungsunterstützung einen deutlich höheren Wirkungsgrad auf und
+sind insbesondere bei Gebäuden ohne Anschluss an das Fernwärmenetz von grosser Bedeutung.
+In Basel bestehen bereits zahlreiche solarthermische Anlagen, die in den vergangenen Jahren aktiv
+gefördert wurden und weiterhin ein Standbein der Energiestrategie darstellen.
+Die Kommission teilt die Ansicht, dass solarthermische Anlagen im vorliegenden Ratschlag ungenügend berücksichtigt werden. Insbesondere führt die fehlende Anrechnung bei der Nutzungspflicht und bei der geforderten PV-Leistung dazu, dass Eigentümerinnen und Eigentümer mit bestehenden solarthermischen Anlagen unter Umständen eine Ersatzabgabe entrichten müssten.
+Dies erscheint sachlich nicht gerechtfertigt, da auch solarthermische Anlagen zur Reduktion fossiler
+Energieträger und zur CO₂-Minderung beitragen.
+Vor diesem Hintergrund ist die Kommission der Auffassung, dass solarthermische Anlagen bei der
+Berechnung der Nutzungspflicht sowie einer allfälligen Ersatzabgabe angemessen zu berücksichtigen sind. Die BRK wünscht, dass die hauptberatende Kommission (UVEK) diese Anliegen fachlich
+weiter prüft.
+c. Einspeisevergütung
+Ein weiterer Diskussionspunkt war die Rentabilität der Photovoltaikanlagen, insbesondere im Hinblick auf die Einspeisevergütung. Die Kommission weist darauf hin, dass die wirtschaftliche Attraktivität einer Anlage entscheidend für die Bereitschaft von Eigentümerschaften und Unternehmen
+ist, in Photovoltaik zu investieren. Es besteht eine gewisse Sorge, dass zukünftig gerade in den
+Sommermonaten keine fixe Einspeisevergütung garantiert werden kann.
+Von besonderem Interesse ist zudem, wie Mehrfamilienhäuser und Gewerbebetriebe, aber auch
+Einfamilienhäuser ihren Eigenverbrauch gezielt steigern können – beispielsweise durch den Einsatz von Klimageräten6, Wärmepumpen oder anderen energieintensiven Geräten, insbesondere in
+den sonnenreichen Monaten. Auch die Installation von Batterien zur Speicherung des Solarstroms
+soll zur eigenen Verwendung des produzierten Stroms dienen.
+Unsicherheiten bei der Nutzung des erzeugten Stroms können die Investitionsbereitschaft mindern.
+Eigentümerschaften könnten Gefahr laufen, ihren Strom nur eingeschränkt selbst nutzen zu können, diesen zu schlechten Konditionen an die IWB abzugeben und gleichzeitig für den Winter teuren Strom zukaufen zu müssen. Beispielsweise wurden im Hafen sehr grosse Photovoltaikanlagen
+auf verschiedenen Dächern und Fassaden realisiert. Der dort produzierte Strom darf gemäss Eigentümer jedoch nach aktueller Praxis nicht zur direkten Versorgung weiterer Gebäude desselben
+Eigentümers oder auch für Drittfirmen innerhalb des Perimeters genutzt werden. Stattdessen muss
+der überschüssig erzeugte Strom ins Netz eingespeist und zu vergleichsweise tiefen Einspeisetarifen an das Energieversorgungsunternehmen abgegeben werden. Für die Stromversorgung innerhalb des Parimeters muss der benötigte Strom wiederum zu regulären, deutlich höheren Bezugstarifen eingekauft werden. Diese Konstellation führt dazu, dass lokal produzierter Solarstrom nicht
+effizient innerhalb des Areals genutzt werden kann und wirtschaftliche Anreize für eine weitergehende Eigenversorgung geschwächt werden.
+
+6
+
+https://grosserrat.bs.ch/ratsbetrieb/geschaefte/200113244 (Anzug Daniel Sägesser und Konsorten betreffend Überprüfung der Regulierung von Anlagen
+zur Gebäudekühlung bei Bestandsbauten).
+
+Seite 9
+
+Grosser Rat des Kantons Basel-Stadt, Bau- und Raumplanungskommission
+
+Die BRK erhofft sich, dass die Fragen der Einspeisevergütung sowie Möglichkeiten zur Erhöhung
+des Eigenverbrauchs in einem Folgeratschlag vertieft behandelt werden. Ziel muss es sein, die
+Rahmenbedingungen so zu gestalten, dass Investitionen in Photovoltaikanlagen langfristig attraktiv
+und planbar bleiben.
+
+3.3
+
+Abschreibung von Motionen und Anzügen
+
+Die BRK stimmt dem Regierungsrat hinsichtlich seiner Empfehlung zur Abschreibung der im Ratschlag 25.0921.01 genannten Motionen und Anzüge einstimmig mit 12 Stimmen zu.
+Im Gegensatz zur Forderung der Motion Brigger («Anpassung Basler Baurecht an die Solaroffensive»)7 sprach sich die Kommission aus Gründen der Qualitätssicherung dagegen aus, das Meldeverfahren auf die Schonzonen auszuweiten. Vielmehr soll zunächst die praktische Umsetzung und
+Erfahrung in den bestehenden Zonen abgewartet werden, bevor eine derartige Erweiterung in Betracht gezogen wird. Auf diese Weise kann sich eine belastbare Praxis entwickeln, die sowohl die
+fachgerechte Installation von Photovoltaikanlagen als auch den Schutz des städtischen Ortsbildes
+gewährleistet. Die Kommission spricht sich dennoch für die Abschreibung der Motion aus.
+
+4.
+
+Antrag
+
+Die BRK empfiehlt der UVEK, die Aspekte der Kombination von PV mit Begrünung, der Anrechenbarkeit solarthermischer Anlagen sowie insbesondere den Aspekt der Qualitätssicherung vertieft
+zu prüfen und zu präzisieren. In Sachen Qualitätssicherung beantragt die BRK der UVEK, den GRB
+dahingehend zu ergänzen, dass bei Fassaden-PV-Anlagen nicht nur eine Meldung ans AUE, sondern auch an die Stadt- bzw. Orts- oder Dorfbildkommission erfolgen soll. Zudem soll auf das Beratungsangebot dieser Kommissionen hingewiesen werden.
+Die BRK empfiehlt der Umwelt-, Verkehrs- und Energiekommission mit 9 zu 3 Stimmen, der Beschlussvorlage zuzustimmen.
+Die BRK empfiehlt die nachfolgenden fünf Motionen (Motion Thomas Grossenbacher und Konsorten betreffend «Solardachpflicht auf öffentlichen Gebäuden»; Motion Jürg Stöcklin und Konsorten
+betreffend «Aufbruch ins Solarzeitalter - mehr Photovoltaik-Anlagen auf Basels Dächern und Fassaden»; Motion René Brigger und Konsorten betreffend «Anpassung Basler Baurecht an die Solaroffensive»; Motion Bruno Lötscher-Steiger und Konsorten betreffend «Abbau von Hindernissen
+bei der Förderung von Photovoltaikinstallationen in den historischen Ortskernen von Basel, Riehen
+und Bettingen»; Motion Adrian Iselin und Michael Hug betreffend «Schaffung von kantonalen Förderbeiträgen für Photovoltaik-Anlagen zusätzlich zur Förderung durch den Bund») einstimmig mit
+12 Stimmen zur Abschreibung.
+Die BRK empfiehlt die beiden folgenden Anzüge (Anzug Michael Hug und Konsorten betreffend
+«umfassende Information aller Hauseigentümer im Kanton über die Installation von Solaranlagen
+auf Dächern und an Fassaden im Bring-System»; Anzug Tim Cuénod und Konsorten betreffend
+«kantonale Flachdach-Strategie») einstimmig mit 12 Stimmen zur Abschreibung.
+Die BRK hat diesen Mitbericht am 5. März 2026 einstimmig mit 12 Stimmen verabschiedet und ihre
+Vize-Präsidentin zur Sprecherin bestimmt.
+Im Namen der Bau- und Raumplanungskommission
+Michael Hug
+Kommissionspräsident
+
+7
+
+https://grosserrat.bs.ch/ratsbetrieb/geschaefte/200112788
+
+Seite 10
+
+

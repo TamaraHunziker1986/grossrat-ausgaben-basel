@@ -1,0 +1,1350 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+21.5708.03
+
+FD/P215708
+Basel, 28. Januar 2026
+Regierungsratsbeschluss vom 27. Januar 2026
+
+Anzug der Wirtschafts- und Abgabekommission (WAK) betreffend
+«Analyse zu den aktuellen Steuerabzügen im Kanton Basel-Stadt»
+Der Grosse Rat hat an seiner Sitzung vom 8. Februar 2024 vom Schreiben 21.5708.02 des Regierungsrates Kenntnis genommen und entgegen dem Antrag des Regierungsrates den nachstehenden Anzug der Wirtschafts- und Abgabekommission (WAK) stehen lassen und dem Regierungsrat
+zum erneuten Bericht überwiesen:
+«Mit dem Steuerpaket 2008 und nachfolgenden, weiteren Massnahmen wurden auch die Steuerabzüge bei der kantonalen Einkommenssteuer für natürliche Personen angepasst und teilweise ausgebaut. Steuerabzüge haben zum Ziel, spezifischen Lebensumständen im Zusammenhang mit der Arbeits-, Wohn- oder Lebenssituation Rechnung zu tragen. Im Kanton Basel-Stadt gibt es keine aktuelle
+Evaluation darüber, wie effizient die Steuerabzüge wirken. Zudem sind im Laufe der Jahre verschiedene Abzüge angepasst worden oder neu dazugekommen, was die Übersicht für die natürlichen Personen sowie die Bearbeitung für den Kanton nicht unbedingt vereinfacht. In diesem Zusammenhang
+bittet die Kommission für Wirtschaft und Abgaben den Regierungsrat zu prüfen und zu berichten:
+1. Inwiefern die einzelnen, aktuellen Steuerabzüge wirkungseffizient sind und auf welcher Grundlage sie festgelegt wurden.
+2. Mit welchen Massnahmen der Prozess administrativ für beide Seiten vereinfacht werden könnte.
+Für die Wirtschafts- und Abgabekommission: Andrea Elisabeth Knellwolf, Präsidentin»
+
+Wir berichten zu diesem Anzug wie folgt:
+
+1.
+
+Inwiefern sind die einzelnen, aktuellen Steuerabzüge wirkungseffizient und auf welcher Grundlage wurden sie festgelegt?
+
+1.1
+
+Einleitung
+
+Um diese Frage zu beantworten, wird nachfolgend auf die Steuerabzüge, welche bei der kantonalen Einkommenssteuer gewährt werden, einzeln eingegangen und die gesetzlichen Grundlagen
+des kantonalen und nationalen Rechts für jeden steuerlichen Abzug dargelegt.
+Die steuerlichen Abzüge können allgemein in Gewinnungskosten (§§ 26-31 Steuergesetz
+[StG, SG 640.100]), allgemeine Abzüge (§§ 32 und 33 StG) und Sozialabzüge (§ 35 StG) unterteilt
+werden.
+
+Publiziert am 30. Januar 2026 auf: grosserrat.bs.ch
+
+Seite 1/16
+
+Regierungsrat des Kantons Basel-Stadt
+
+Als Gewinnungskosten können die für die Erzielung der steuerbaren Einkünfte notwendigen Aufwendungen abgezogen werden (§ 26 StG). Die Abzugsfähigkeit der Gewinnungskosten ist den
+Kantonen durch Art. 9 Abs. 1 des Steuerharmonisierungsgesetzes (StHG, SR 642.14) vorgegeben
+und folgt aus dem Grundsatz der Besteuerung nach der wirtschaftlichen Leistungsfähigkeit nach
+Art. 127 Abs. 2 der Bundesverfassung (SR 101). Durch den Abzug der für die Einkommenserzielung notwendigen Kosten wird das objektive Nettoprinzip verwirklicht. Nur das Reineinkommen,
+das um die Gewinnungskosten verminderte Einkommen, trägt zur objektiven wirtschaftlichen Leistungsfähigkeit bei und soll besteuert werden.
+Mit der Berücksichtigung der allgemeinen Abzüge und der Sozialabzüge wird das steuerbare Einkommen ermittelt, das zusammen mit den Tarifen der persönlich-wirtschaftlichen Situation der jeweiligen steuerpflichtigen Person, ihrer subjektiven wirtschaftlichen Leistungsfähigkeit, Rechnung
+trägt. Die allgemeinen Abzüge und die Sozialabzüge verwirklichen zusammen mit den Tarifen das
+subjektive Nettoprinzip.
+Die allgemeinen Abzüge sind den Kantonen bundesrechtlich durch das Steuerharmonisierungsgesetz vorgegeben, wobei der Kanton bei verschiedenen allgemeinen Abzügen den (Höchst-)Betrag
+festlegen kann (Art. 9 Abs. 2 und 4 StHG). Der Kanton kann daher nicht neue allgemeine Abzüge
+einführen. Mit den allgemeinen Abzügen werden verschiedene Aufwendungen, wie Versicherungsprämien, Unterhaltsbeiträge oder behinderungsbedingte Kosten, berücksichtigt, welche aus gesellschaftspolitischer Sicht die subjektive wirtschaftliche Leistungsfähigkeit der steuerpflichtigen Person beeinflussen.
+Nach Art. 9 Abs. 4 StHG können die Kantone Sozialabzüge vorsehen. Sozialabzüge dienen grundsätzlich der Berücksichtigung des sozialen Status der Steuerpflichtigen und des Einflusses, der
+dieser auf die individuelle (wirtschaftliche) Leistungsfähigkeit der Betroffenen hat. Im Vordergrund
+stehen dabei die familiären Verhältnisse der Steuerpflichtigen und die mit diesen verbundenen zivilrechtlichen Lasten (vgl. BGE 131 I 377, E. 4.2). Dazu gehören insbesondere der Kinderabzug
+und der Unterstützungsabzug. Andere Abzüge als Sozialabzüge dürfen die Kantone nicht einführen.
+Neben der Erläuterung der gesetzlichen Grundlagen werden im folgenden Abschnitt zudem für die
+einzelnen Abzüge des Steuergesetzes die folgenden Werte aufgeführt: Anteil der Steuerpflichtigen,
+welchen der jeweilige Abzug gewährt wird, Mittelwert des gewährten Abzugs, Medianwert des gewährten Abzugs, Steuerminderertrag aufgrund des Abzugs für den Kanton und für die Gemeinden,
+durchschnittliche Steuerentlastung für die Steuerpflichtigen.
+Dabei bestimmt sich der Mittelwert eines Abzugs als die Summe der gewährten Abzüge geteilt
+durch die Anzahl der Steuerpflichtigen, welchen dieser Abzug gewährt wurde.
+Der Medianwert eines Abzugs bedeutet, dass der einen Hälfte der Steuerpflichtigen, welchen der
+Abzug gewährt wurde, ein Abzug über diesem Betrag und der anderen Hälfte ein Abzug unter
+diesem Betrag gewährt wurde. Dabei zählen gemeinsam eingeschätzte Personen wie Ehepaare,
+Familien und eingetragene Partnerschaften jeweils als eine steuerpflichtige Person. Bei einzelnen
+Abzügen, insbesondere bei Abzügen mit festem Betrag, wurde auf die Angabe des Mittel- und des
+Medianwertes verzichtet.
+Mit diesen Angaben kann die Nutzung der Steuerabzüge und die damit verbundenen Mindereinnahmen beim Kanton und den Gemeinden aufgezeigt werden. Eine Wirkungsanalyse, die aufzeigt,
+ob durch die einzelnen Steuerabzüge das gewollte politische Ziel erreicht wird, lässt sich mit den
+verfügbaren Daten nicht erstellen.
+Die nachfolgenden Zahlen zu den einzelnen Abzügen ergeben sich aus den Steuerdaten der Steuerperiode 2020. Berücksichtigt sind somit die 2020 geltenden Höchstbeträge. Bei der Wiedergabe
+
+Seite 2/16
+
+Regierungsrat des Kantons Basel-Stadt
+
+der Gesetzesbestimmungen werden auch die heute geltenden Höchstbeträge (nach einer allfälligen Revision bzw. nach Ausgleich der kalten Progression) aufgeführt.
+Nach § 228 Abs. 1 StG erhebt der Kanton von den Steuerpflichtigen der Einwohnergemeinden
+Bettingen und Riehen 50% (Kantonssteuerquote) der nach den Bestimmungen des Steuergesetzes
+berechneten Einkommens- und Vermögenssteuer der natürlichen Personen. Den Einwohnergemeinden verbleiben 50% (Gemeindesteuerquote) zur Ausschöpfung. Nachfolgend wird zwischen
+dem Mindertrag Kanton, Riehen (Gemeindesteuerquote 40%) und Bettingen (Gemeindesteuerquote 37.5%) unterschieden.
+
+1.2
+
+Analyse der einzelnen Abzüge
+
+1.2.1
+
+Abzüge für Berufskosten (§ 27 StG)
+
+Nach § 27 Abs. 1 StG sind bei unselbstständiger Berufstätigkeit als Berufskosten abzugsfähig: die
+notwendigen Fahrkosten (lit. a) bis zu einem Höchstbetrag von 3'200 Franken (ab 2025), die notwendigen Mehrkosten für Verpflegung (lit. b) von 1'600 bis 3'200 Franken (pauschal) bzw. 15 Franken (ohne Verbilligung) bzw. 7.50 Franken (mit Verbilligung) pro Arbeitstag und die übrigen für die
+Ausübung des Berufs erforderlichen Kosten (lit. c).
+Der Pauschalabzug betrug 4'000 Franken (pro 2020) bzw. beträgt 4'200 Franken (ab 2025), wobei
+ausser für die Verpflegungskosten den Steuerpflichtigen ein Nachweis höherer Kosten offensteht.
+Wird der Pauschalabzug geltend gemacht, sind keine weiteren Berufskosten abziehbar.
+Beim Abzug für Berufskosten handelt es sich um einen Abzug für Gewinnungskosten für die steuerbaren Einkünfte aus unselbstständiger Erwerbstätigkeit. Art. 9 Abs. 1 StHG gibt allgemein vor,
+dass die zur Erzielung der steuerbaren Einkünfte notwendigen Aufwendungen abgezogen werden
+können. Weiter ist in Art. 9 Abs. 1 Satz 2 StHG festgehalten, dass die Kantone für die notwendigen
+Fahrkosten einen Höchstbetrag festlegen können (Basel-Stadt: Fahrkosten bis höchstens
+3'200 Franken [ab 2025]).
+1.2.2
+
+Pauschalabzug für Berufskosten (§ 27 Abs. 2 StG)
+
+Der Pauschalabzug für Berufskosten betrug in der Steuerperiode pro 2020 4'000 Franken. Er wurde
+von 58.06% der Steuerpflichtigen geltend gemacht. Der Mittelwert des Abzugs betrug 3’301 Franken und der Medianwert 4’000 Franken. Die Steuerertragsminderung durch den Abzug betrug bei
+der Kantonssteuer 39.02 Mio., für Riehen 1.58 Mio. und für Bettingen 0.08 Mio. Franken des Einkommenssteuerertrags. Für die Steuerpflichtigen, welchen der Abzug gewährt wurde, führte der
+Abzug zu einer durchschnittlichen Steuerminderung der Kantons- und Gemeindesteuern von (gesamthaft) 593 Franken.
+1.2.3
+
+Fahrkosten für öffentlichen Verkehr / privates Fahrzeug (§ 27 Abs. 1 lit. a StG)
+
+Der Abzug von notwendigen Fahrkosten für Abonnementskosten für den öffentlichen Verkehr bzw.
+für ein privates Fahrzeug betrug in der Steuerperiode 2020 maximal 3'000 Franken. Er wurde von
+4.44% der Steuerpflichtigen geltend gemacht. Der Mittelwert des Abzugs betrug 2’177 Franken und
+der Medianwert 3’000 Franken. Die Steuerertragsminderung durch den Abzug betrug bei der Kantonssteuer 2.22 Mio., für Riehen 0.09 Mio. und für Bettingen 0.01 Mio. Franken des Einkommenssteuerertrags. Für die Steuerpflichtigen, welchen der Abzug gewährt wurde, führte der Abzug zu
+einer durchschnittlichen Steuerminderung der Kantons- und Gemeindesteuern von (gesamthaft)
+441 Franken.
+1.2.4
+
+Mehrkosten für Verpflegung (§ 27 Abs. 1 lit. b StG)
+
+Ein Abzug von notwendigen Mehrkosten für Verpflegung betrug in der Steuerperiode pro 2020
+1'600 (mit Verbilligung Arbeitgebende) bzw. 3'200 Franken (ohne Verbilligung Arbeitgebende) bzw.
+
+Seite 3/16
+
+Regierungsrat des Kantons Basel-Stadt
+
+15 bzw. 7.50 Franken pro Arbeitstag und wurde von 3.82% der Steuerpflichtigen geltend gemacht.
+Der Mittelwert des Abzugs betrug 2’479 Franken und der Medianwert 3’200 Franken. Die Steuerertragsminderung durch den Abzug betrug bei der Kantonssteuer 2.25 Mio., für Riehen 0,09 Mio. und
+für Bettingen 0,01 Mio. Franken des Einkommenssteuerertrags. Für die Steuerpflichtigen, welchen
+der Abzug gewährt wurde, führte der Abzug zu einer durchschnittlichen Steuerminderung der Kantons- und Gemeindesteuern von (gesamthaft) 521 Franken.
+1.2.5
+
+Übrige Berufsauslagen (§ 27 Abs. 1 lit. c StG)
+
+Ein Abzug von übrigen Berufsauslagen wurde von 0.96% der Steuerpflichtigen geltend gemacht.
+Der Mittelwert des Abzugs betrug 5’084 Franken und der Medianwert 3’153 Franken. Die Steuerertragsminderung durch den Abzug betrug bei der Kantonssteuer 1,14 Mio., für Riehen 0,05 Mio. und
+für Bettingen 0,01 Mio. Franken des Einkommenssteuerertrags. Für die Steuerpflichtigen, welchen
+der Abzug gewährt wurde, führte der Abzug zu einer durchschnittlichen Steuerminderung der Kantons- und Gemeindesteuern von (gesamthaft) 1'058 Franken.
+1.2.6
+
+Mehrkosten bei auswärtigem Wochenaufenthalt (§ 27 StG i.V.m § 26 StV)
+
+Ein Abzug von Mehrkosten bei auswärtigem Wochenaufenthalt wurde von 0.33% der Steuerpflichtigen geltend gemacht. Der Mittelwert des Abzugs betrug 7’086 Franken und der Medianwert
+6'320 Franken. Die Steuerertragsminderung durch den Abzug betrug bei der Kantonssteuer
+0,55 Mio., für Riehen 0,03 Mio. und für Bettingen 0,00 Mio. Franken des Einkommenssteuerertrags.
+Für die Steuerpflichtigen, welchen der Abzug gewährt wurde, führte der Abzug zu einer durchschnittlichen Steuerminderung der Kantons- und Gemeindesteuern von (gesamthaft) 1’471 Franken.
+1.2.7
+
+Abzug für Vermögensverwaltungskosten (§ 31 Abs. 1 lit. a StG)
+
+Bei beweglichem Privatvermögen können nach § 31 Abs. 1 lit a StG die Kosten der Verwaltung
+durch Dritte abgezogen werden. Beim Vermögensverwaltungskostenabzug handelt es sich um einen Abzug für Aufwendungen bzw. Gewinnungskosten für die Erzielung der steuerbaren Erträge
+aus beweglichem Privatvermögen (Dividenden, Zinsen usw.). Art. 9 Abs. 1 StHG gibt allgemein
+vor, dass die zur Erzielung der steuerbaren Einkünfte notwendigen Aufwendungen abgezogen werden können.
+Der Abzug wurde von 57.72% der Steuerpflichtigen geltend gemacht. Der Mittelwert des Abzugs
+betrug 814 Franken und der Medianwert 68 Franken. Die Steuerertragsminderung durch den Abzug betrug bei der Kantonssteuer 9,65 Mio., für Riehen 0,49 Mio. und für Bettingen 0,02 Mio. Franken des Einkommenssteuerertrags. Für die Steuerpflichtigen, welchen der Abzug gewährt wurde,
+führte der Abzug zu einer durchschnittlichen Steuerminderung der Kantons- und Gemeindesteuern
+von (gesamthaft) 149 Franken.
+1.2.8
+
+Abzug für Kosten bei Liegenschaften im Privatvermögen (§ 31 Abs. 2 und 3 StG)
+
+Nach § 31 Abs. 2 StG können bei Liegenschaften im Privatvermögen die Unterhaltskosten, die
+Kosten der Instandstellung von neu erworbenen Liegenschaften, die Versicherungsprämien und
+die Kosten der Verwaltung durch Dritte abgezogen werden. Den Unterhaltskosten sind Investitionen, die dem Energiesparen und dem Umweltschutz dienen, und die Rückbaukosten im Hinblick
+auf den Ersatzneubau gleichgestellt, soweit sie bei der direkten Bundessteuer abzugsfähig sind.
+Zudem können die Kosten für denkmalpflegerische Arbeiten abgezogen werden.
+Nach § 31 Abs. 3 StG erlässt der Regierungsrat die näheren Ausführungsbestimmungen. Er kann
+Pauschalansätze festlegen. Der Pauschalabzug beträgt 10% (Gebäude bis 10 Jahre) bzw. 20%
+(Gebäude älter als 10 Jahre) des Bruttomietertrags bzw. Eigenmietwerts. Beim Abzug für Liegenschaftskosten handelt es sich grundsätzlich um einen Abzug der Gewinnungskosten (notwendigen
+Ausgaben) für den besteuerten Eigenmietwert bzw. Mietertrag. Der Abzug selber und die abzugsfähigen Gewinnungskosten sind den Kantonen durch Art. 9 Abs. 3 StHG vorgegeben. Den
+
+Seite 4/16
+
+Regierungsrat des Kantons Basel-Stadt
+
+Kantonen ist jedoch freigestellt, ob sie einen Abzug für Umweltschutz, Energiesparen und Denkmalpflege vornehmen, wobei für den Abzug für Umweltschutz und Energiesparen die Regelungen
+des Eidgenössischen Finanzdepartements anzuwenden sind.
+Der Abzug wurde von 25.59% der Steuerpflichtigen geltend gemacht, wobei 9.22% die tatsächlichen Kosten und 16.37% den Pauschalabzug geltend machten. Der Mittelwert des Abzugs für tatsächliche Kosten betrug 30’444 Franken und der Medianwert 9’740 Franken. Der Mittelwert des
+Pauschalabzugs betrug 4’906 Franken und der Medianwert 2'288 Franken. Die Steuerertragsminderung durch den Abzug betrug bei der Kantonssteuer insgesamt 79.85 Mio. Franken, wobei
+61,81 Mio. Franken auf den Abzug der tatsächlichen Kosten und 18,04 Mio. Franken auf den Pauschalabzug entfielen. Die Steuerertragsminderung betrug durch den Abzug für Riehen
+6,5 Mio. Franken (1,27 Mio. Franken pauschal, 5,23 Mio. Franken effektiv) und für Bettingen
+0,47 Mio. Franken (0,09 Mio. Franken pauschal, 0,38 Mio. Franken effektiv). Für die Steuerpflichtigen, welchen der Abzug gewährt wurde, führte der Abzug zu einer durchschnittlichen Steuerminderung der Kantons- und Gemeindesteuern von 6’257 Franken (Abzug der tatsächlichen Kosten)
+bzw. 1'010 Franken (Pauschalabzug).
+1.2.9
+
+Abzug für Schuldzinsen (§ 32 Abs. 1 lit. a StG)
+
+Nach § 32 Abs. 1 lit. a StG sind die privaten Schuldzinsen im Umfang der steuerbaren Vermögenserträge aus beweglichem und unbeweglichem Vermögen und weiterer 50’000 Franken abzugsfähig. Beim Schuldzinsenabzug handelt es sich um einen allgemeinen Abzug. Der Abzug selber und die abzugsfähigen Aufwendungen sind durch Art. 9 Abs. 2 Bst. a StHG vorgegeben, wobei
+auch der Umfang des (maximalen) Abzugs bundesrechtlich festgelegt ist.
+Der Abzug wurde von 27.13% der Steuerpflichtigen geltend gemacht. Der Mittelwert des Abzugs
+betrug 5’559 Franken und der Medianwert 2'151 Franken. Die Steuerertragsminderung durch den
+Abzug betrug bei der Kantonssteuer 33,4 Mio., für Riehen 2,09 Mio. und für Bettingen
+0,14 Mio. Franken des Einkommenssteuerertrags. Für die Steuerpflichtigen, welchen der Abzug
+gewährt wurde, führte der Abzug zu einer durchschnittlichen Steuerminderung der Kantons- und
+Gemeindesteuern von (gesamthaft) 1'118 Franken.
+1.2.10
+
+Abzug für Leibrenten und dauernde Lasten (§ 32 Abs. 1 lit. b StG)
+
+Abzugsfähig nach § 32 Abs. 1 lit. b StG sind 40% der bezahlten Leibrenten sowie die Leistungen
+aufgrund von dauernden Lasten. Beim Abzug für Leibrentenleistungen handelt es sich um einen
+allgemeinen Abzug. Die Abzugsfähigkeit des pauschalierten Zinsanteils von 40% der Leibrentenleistungen folgt daraus, dass Schuldzinsen für die oder den Leistenden grundsätzlich abzugsfähig
+sind und dieser Zinsanteil bei der Empfängerin oder dem Empfänger der Leibrentenleistung besteuert wird (vgl. § 23 Abs. 3 StG) [in Kraft bis 31. Dezember 2024]. Ebenso werden die Einkünfte
+aus einer dauernden Last bei der Person, welche die Leistung empfängt, besteuert. Der Abzug
+selber und die abzugsfähigen Aufwendungen sind durch Art. 9 Abs. 2 Bst. b StHG vorgegeben.
+Der Abzug wurde von 0.07% der Steuerpflichtigen geltend gemacht. Der Mittelwert des Abzugs
+betrug 11’781 Franken und der Medianwert 7'960 Franken. Die Steuerertragsminderung durch den
+Abzug betrug bei der Kantonssteuer 0,18 Mio., für Riehen 0,02 Mio. und für Bettingen
+0,00 Mio. Franken des Einkommenssteuerertrags. Für die Steuerpflichtigen, welchen der Abzug
+gewährt wurde, führte der Abzug zu einer durchschnittlichen Steuerminderung der Kantons- und
+Gemeindesteuern von (gesamthaft) 2'483 Franken. Ab dem Steuerjahr 2025 wird der steuerbare
+Ertragsanteil der garantierten Rentenleistung bei Leibrentenversicherungen nach Versicherungsvertragsgesetz in Abhängigkeit des Höchstzinssatzes der Eidgenössischen Finanzmarktaufsicht
+FINMA berechnet. Allfällige Überschussleistungen werden zu 70 Prozent steuerbar sein. Bei Leibrenten und Verpfründungen nach Obligationenrecht sowie bei ausländischen Leibrentenversicherungen wird der steuerbare Ertragsanteil neu in Abhängigkeit von der Durchschnittsrendite zehnjähriger Bundesobligationen ermittelt.
+
+Seite 5/16
+
+Regierungsrat des Kantons Basel-Stadt
+
+1.2.11
+
+Abzug für Unterhaltsbeiträge an geschiedene/getrenntlebende Ehegatten und an
+minderjährige Kinder (§ 32 Abs. 1 lit. c StG)
+
+Abzugsfähig nach § 32 Abs. 1 lit. c StG sind die Unterhaltsbeiträge an den geschiedenen oder
+getrennt lebenden Ehegatten und die Unterhaltsbeiträge an den anderen Elternteil für die unter
+dessen elterlicher Sorge stehenden Kinder. Beim Abzug für Unterhaltsbeiträge handelt es sich um
+einen allgemeinen Abzug. Der Abzug folgt aus dem Korrespondenzprinzip: Weil der empfangende
+Ehegatte oder Elternteil die Unterhaltsbeiträge zu versteuern hat (§ 24 lit. e StG), kann sie die
+leistende Person abziehen. Der Abzug selber und die abzugsfähigen Aufwendungen sind durch
+Art. 9 Abs. 2 Bst. c StHG vorgegeben.
+Der Abzug für Unterhaltsbeiträge an den geschiedenen oder getrennt lebenden Ehegatten wurde
+von 1.18% der Steuerpflichtigen geltend gemacht. Der Mittelwert des Abzugs betrug 22’718 Franken und der Medianwert 15’000 Franken. Die Steuerertragsminderung durch den Abzug betrug bei
+der Kantonssteuer 6,14 Mio., für Riehen 0,38 Mio. und für Bettingen 0,01 Mio. Franken des Einkommenssteuerertrags. Für die Steuerpflichtigen, welchen der Abzug gewährt wurde, führte der
+Abzug zu einer durchschnittlichen Steuerminderung der Kantons- und Gemeindesteuern von (gesamthaft) 4'717 Franken. Bei diesen Zahlen zur Steuerertragsminderung wird jedoch nicht berücksichtigt, dass die Unterhaltsbeiträge bei der empfangenden Person besteuert werden, womit die
+tatsächlichen Steuerertragsminderungen wesentlich tiefer liegen dürften.
+Der Abzug für Unterhaltsbeiträge an den anderen Elternteil für die unter dessen elterlicher Sorge
+stehenden Kinder wird von 1.82% der Steuerpflichtigen geltend gemacht. Der Mittelwert des Abzugs betrug 14’660 Franken und der Medianwert 10'898 Franken. Die Steuerertragsminderung
+durch den Abzug betrug bei der Kantonssteuer 5,99 Mio., für Riehen 0,26 Mio. und für Bettingen
+0,01 Mio. Franken des Einkommenssteuerertrags. Für die Steuerpflichtigen, welchen der Abzug
+gewährt wurde, führte der Abzug zu einer durchschnittlichen Steuerminderung der Kantons- und
+Gemeindesteuern von (gesamthaft) 2'913 Franken. Bei diesen Zahlen zur Steuerertragsminderung
+wird jedoch nicht berücksichtigt, dass die Unterhaltsbeiträge bei der empfangenden Person besteuert werden, womit die tatsächlichen Steuerertragsminderungen wesentlich tiefer liegen dürften.
+1.2.12
+
+Abzug für Beiträge an die staatliche (AHV, IV, EO) und berufliche Vorsorge
+(§ 32 Abs. 1 lit. d StG)
+Abzugsfähig nach § 32 Abs. 1 lit. d StG sind die geleisteten Einlagen, Prämien und Beiträge an die
+Alters-, Hinterlassenen- und Invalidenversicherung (AHV/IV, 1. Säule) und an die berufliche Vorsorge (2. Säule). Beim Abzug für Beiträge an die AHV/IV oder die berufliche Vorsorge handelt es
+sich um einen allgemeinen Abzug. Der Abzug der Beiträge folgt aus dem Prinzip, dass die Leistungen (Renten oder Kapitalleistungen) aus der 1. oder 2. Säule voll besteuert werden
+(vgl. § 23 Abs. 1 StG). Der Abzug selber und die abzugsfähigen Aufwendungen sind durch
+Art. 9 Abs. 2 Bst. d StHG vorgegeben. Abziehbare Beiträge an die 1. oder 2. Säule werden bei
+unselbstständigem Erwerb in der Regel bereits durch Deklaration des Nettolohns gemäss Lohnausweis in der Steuererklärung geltend gemacht. Die folgenden Zahlen beziehen sich auf die übrigen Fälle, in welchen der Abzug nicht bereits durch Deklaration des Nettolohns geltend gemacht
+wurde.
+Ein Abzug für Beiträge an die 1. Säule wird von 2.22% der Steuerpflichtigen geltend gemacht. Der
+Mittelwert des Abzugs betrug 2'828 Franken und der Medianwert 1’183 Franken. Die Steuerertragsminderung durch den Abzug betrug bei der Kantonssteuer 1,14 Mio., für Riehen 0,06 Mio. und
+für Bettingen 0,00 Mio. Franken des Einkommenssteuerertrags. Für die Steuerpflichtigen, welchen
+der Abzug gewährt wurde, führte der Abzug zu einer durchschnittlichen Steuerminderung der Kantons- und Gemeindesteuern von (gesamthaft) 460 Franken.
+Ein Abzug für Beiträge an die 2. Säule wird von 3.76% der Steuerpflichtigen geltend gemacht. Der
+Mittelwert des Abzugs betrug 36’760 Franken und der Medianwert 20'000 Franken. Die Steuerertragsminderung durch den Abzug betrug bei der Kantonssteuer 31,62 Mio., für Riehen
+
+Seite 6/16
+
+Regierungsrat des Kantons Basel-Stadt
+
+2,21 Mio. und für Bettingen 0,12 Mio. Franken des Einkommenssteuerertrags. Für die Steuerpflichtigen, welchen der Abzug gewährt wurde, führte der Abzug zu einer durchschnittlichen Steuerminderung der Kantons- und Gemeindesteuern von (gesamthaft) 7’712 Franken.
+1.2.13
+
+Abzug für Beiträge
+(§ 32 Abs. 1 lit. e StG)
+
+an
+
+die
+
+gebundene
+
+Selbstvorsorge,
+
+Säule
+
+3a
+
+Abzugsfähig nach § 32 Abs. 1 lit. e StG sind Einlagen, Prämien und Beiträge zum Erwerb von
+vertraglichen Ansprüchen aus anerkannten Formen der gebundenen Selbstvorsorge (Säule 3a).
+Beim Abzug für Beiträge an die gebundene Selbstvorsorge (Säule 3a) handelt es sich um einen
+allgemeinen Abzug. Die Abzugsfähigkeit der Beiträge an die Säule 3a folgt aus dem Prinzip, dass
+die Leistungen (Renten oder Kapitalleistungen) aus der Säule 3a voll besteuert werden
+(vgl. § 23 Abs. 1 StG). Der Abzug selber und die abzugsfähigen Aufwendungen sind durch
+Art. 9 Abs. 2 Bst. e StHG vorgegeben und betrug in der Steuerperiode pro 2020 maximal
+6'826 Franken (bzw. in der Steuerperiode pro 2025 maximal 7’258 Franken).
+Der Abzug wurde von 33.85% der Steuerpflichtigen geltend gemacht. Die Steuerertragsminderung
+durch den Abzug betrug bei der Kantonssteuer 44.09 Mio., für Riehen 2.36 Mio. und für Bettingen
+0,13 Mio. Franken des Einkommenssteuerertrags. Für die Steuerpflichtigen, welchen der Abzug
+gewährt wurde, führte der Abzug zu einer durchschnittlichen Steuerminderung der Kantons- und
+Gemeindesteuern von (gesamthaft) 1'168 Franken.
+1.2.14
+
+Abzug für Versicherungen (§ 32 Abs. 1 lit. g StG)
+
+§ 32 Abs. 1 lit. g StG regelt den Abzug für Versicherungsprämien und Zinsen aus Sparkapitalien.
+Hiernach können von den Einkünften abgezogen werden: Die Einlagen, Prämien und Beiträge für
+die Lebens-, die Kranken- und die nicht unter lit. f fallende Unfallversicherung sowie die Zinsen von
+Sparkapitalien des Steuerpflichtigen und der von ihm unterhaltenen Personen, bis zum Gesamtbetrag von 5’600 Franken (pro 2020) für in ungetrennter Ehe lebende Steuerpflichtige und
+von 2'800 Franken (pro 2020) für die übrigen Steuerpflichtigen bzw. pauschal 8'400 Franken (ab
+2025) für in ungetrennter Ehe lebende Steuerpflichtige und pauschal 4'200 Franken (ab 2025) für
+die übrigen Steuerpflichtigen. Gemäss § 32 Abs. 1 lit. g StG können neben den Krankenkassenprämien auch die Prämien für Lebensversicherungen und die nicht obligatorische Unfallversicherung sowie die Zinsen von Sparkapitalien zum Abzug gebracht werden.
+Beim Abzug für Versicherungsprämien und Zinsen aus Sparkapitalien gemäss
+§ 32 Abs. 1 lit. g StG handelt es sich um einen allgemeinen Abzug. Der Abzug selber und die
+abzugsfähigen Aufwendungen sind durch Art. 9 Abs. 2 Bst. g StHG vorgegeben. Hingegen bestimmt nach Art. 9 Abs. 2 Bst. g StHG das kantonale Recht die Höhe des maximalen Abzugs, der
+pauschaliert werden kann. Der Kanton ist daher frei in der Festlegung des maximalen Betrags des
+Abzugs.
+Der Abzug wurde von 26.65% (Ehegatten) bzw. 73.13% (übrige) der Steuerpflichtigen geltend gemacht. Der Mittelwert des Abzugs betrug 5'463 Franken (Ehegatten) bzw. 2'659 Franken (übrige)
+und der Medianwert 5'600 Franken (Ehegatten) bzw. 2'800 Franken (übrige). Die Steuerertragsminderung durch den Abzug betrug bei der Kantonssteuer 30,81 Mio. Franken (Ehegatten) bzw.
+34,49 Mio. Franken (übrige), für Riehen 1,91 Mio. (Ehegatten) bzw. 1,30 Mio. (übrige) und für Bettingen 0,10 Mio. (Ehegatten) bzw. 0,06 Mio. (übrige) Franken des Einkommenssteuerertrags. Für
+die Steuerpflichtigen, welchen der Abzug gewährt wurde, führte der Abzug zu einer durchschnittlichen Steuerminderung der Kantons- und Gemeindesteuern von (gesamthaft) 1'048 Franken (Ehegatten) bzw. 415 Franken (übrige).
+1.2.15
+
+Behinderungsbedingte Kosten (§ 32 Abs. 1 lit. h StG)
+
+Abzugsfähig nach § 32 Abs. 1 lit. h StG sind die behinderungsbedingten Kosten der steuerpflichtigen Person und der von ihr unterhaltenen Personen mit Behinderungen im Sinne des
+
+Seite 7/16
+
+Regierungsrat des Kantons Basel-Stadt
+
+Behindertengleichstellungsgesetzes, soweit die steuerpflichtige Person die Kosten selber trägt.
+Beim Abzug für behinderungsbedingte Kosten handelt es sich um einen allgemeinen Abzug. Der
+Abzug selber und die abzugsfähigen Aufwendungen sind durch Art. 9 Abs. 2 Bst. hbis StHG vorgegeben.
+Der Abzug wurde von 3.19% der Steuerpflichtigen geltend gemacht. Der Mittelwert des Abzugs
+betrug 23'771 Franken und der Medianwert 24’813 Franken. Die Steuerertragsminderung durch
+den Abzug betrug bei der Kantonssteuer 6,88 Mio., für Riehen 0,30 Mio. und für Bettingen
+0,01 Mio. Franken des Einkommenssteuerertrags. Für die Steuerpflichtigen, welchen der Abzug
+gewährt wurde, führte der Abzug zu einer durchschnittlichen Steuerminderung der Kantons- und
+Gemeindesteuern von (gesamthaft) 1’909 Franken.
+1.2.16
+
+Abzug für Kinderdrittbetreuungskosten (§ 32 Abs. 1 lit. i StG)
+
+Abzugsfähig nach § 32 Abs. 1 lit. i StG sind die nachgewiesenen Kosten höchstens 10'100 Franken
+(pro 2020), bzw. höchstens 26’000 Franken (ab 2025), für die Drittbetreuung jedes Kindes, das das
+14. Altersjahr noch nicht vollendet hat, soweit diese Kosten in direktem kausalem Zusammenhang
+mit der Erwerbstätigkeit, Ausbildung oder Erwerbsunfähigkeit der steuerpflichtigen Person stehen.
+Beim Abzug für Kinderdrittbetreuungskosten handelt es sich um einen allgemeinen Abzug. Mit dem
+Abzug soll die wirtschaftliche Leistungsfähigkeit von erwerbstätigen Eltern, welche ihre Kinder von
+Dritten betreuen lassen, berücksichtigt werden. Obwohl die Kinderdrittbetreuung in vielen Fällen
+einen engen Bezug mit der Erzielung von Erwerbseinkommen durch die Eltern hat, gelten die dafür
+aufgewendeten Kosten nicht als Berufskosten bzw. Gewinnungskosten. Der Abzug selber und die
+abzugsfähigen Aufwendungen sind durch Art. 9 Abs. 2 Bst. m StHG vorgegeben, wobei das kantonale Recht die Höhe des maximalen Abzugs pro Kind festlegt.
+Der Abzug wurde von 5.69% der Steuerpflichtigen geltend gemacht. Der Mittelwert des Abzugs
+betrug 5’702 Franken und der Medianwert 3’918 Franken. Die Steuerertragsminderung durch den
+Abzug betrug bei der Kantonssteuer 7,19 Mio., für Riehen 0,39 Mio. und für Bettingen
+0,02 Mio. Franken des Einkommenssteuerertrags. Für die Steuerpflichtigen, welchen der Abzug
+gewährt wurde, führte der Abzug zu einer durchschnittlichen Steuerminderung der Kantons- und
+Gemeindesteuern von (gesamthaft) 1’135 Franken.
+1.2.17
+
+Beiträge an politische Parteien (§ 32 Abs. 1 lit. j StG)
+
+Abzugsfähig nach § 32 Abs. 1 lit. j StG sind die Mitgliederbeiträge und Zuwendungen bis zum
+Gesamtbetrag von 10’000 Franken (Steuerperiode pro 2020) für an die in einem kantonalen Parlament vertretenen politischen Parteien. Beim Abzug für Beiträge an politische Parteien handelt es
+sich um einen allgemeinen Abzug. Der Abzug selber und die abziehbaren Aufwendungen ist durch
+Art. 9 Abs. 2 Bst. l StHG vorgegeben, wobei das kantonale Recht die maximale Höhe des Abzugs
+festlegt.
+Der Abzug wird von 2.03% der Steuerpflichtigen geltend gemacht. Der Mittelwert des Abzugs betrug 840 Franken und der Medianwert 200 Franken. Die Steuerertragsminderung durch den Abzug
+betrug bei der Kantonssteuer 0,39 Mio., für Riehen 0,03 Mio. und für Bettingen 0,00 Mio. Franken
+des Einkommenssteuerertrags. Für die Steuerpflichtigen, welchen der Abzug gewährt wurde, führte
+der Abzug zu einer durchschnittlichen Steuerminderung der Kantons- und Gemeindesteuern von
+(gesamthaft) 176 Franken.
+1.2.18
+
+Abzug für berufsorientierte Aus- und Weiterbildungskosten (§ 32 Abs. 1 lit. k StG)
+
+Abzugsfähig nach § 32 Abs. 1 lit. k StG sind die Kosten für berufsorientierte Aus- und Weiterbildung,
+einschliesslich der Umschulungskosten, bis zum Gesamtbetrag von 18’100 Franken (pro 2020)
+bzw. 19'100 Franken (ab 2025) pro Person. Beim Abzug für Kosten der berufsorientierten Aus- und
+Weiterbildung handelt es sich um einen allgemeinen Abzug. Da die Kosten nicht zwingend einen
+
+Seite 8/16
+
+Regierungsrat des Kantons Basel-Stadt
+
+direkten Zusammenhang mit einem aktuell ausgeübten Beruf haben müssen, handelt es sich gemäss Steuergesetz nicht um Gewinnungskosten. Der Abzug selber und die abzugsfähigen Aufwendungen sind durch Art. 9 Abs. 2 Bst. o StHG vorgegeben, wobei der Kanton den maximal abzugsfähigen Betrag festlegen kann.
+Der Abzug wurde von 5.41% der Steuerpflichtigen geltend gemacht. Der Mittelwert des Abzugs
+betrug 3’012 Franken und der Medianwert 1’720 Franken. Die Steuerertragsminderung durch den
+Abzug betrug bei der Kantonssteuer 3,54 Mio., für Riehen 0,12 Mio. und für Bettingen
+0,00 Mio. Franken des Einkommenssteuerertrags. Für die Steuerpflichtigen, welchen der Abzug
+gewährt wurde, führte der Abzug zu einer durchschnittlichen Steuerminderung der Kantons- und
+Gemeindesteuern von (gesamthaft) 573 Franken.
+1.2.19
+
+Abzug
+bei
+Erwerbstätigkeit
+(§ 32 Abs. 2 StG)
+
+beider
+
+Ehegatten,
+
+Zweiverdienerabzug
+
+Bei Erwerbstätigkeit beider, in ungetrennter Ehe lebender Ehegatten sind nach § 32 Abs. 2 StG
+vom niedrigeren der beiden Erwerbseinkommen 1’000 Franken (pro 2020) bzw. 1'100 Franken (ab
+2025) abziehbar. Ein gleicher Abzug ist bei erheblicher Mitarbeit des einen Ehegatten im Geschäft
+des anderen Ehegatten zulässig. Beim Zweiverdienerabzug handelt es sich um einen allgemeinen
+Abzug. Der Abzug soll die Ungleichbehandlung von Zweiverdienendenehepaaren gegenüber
+gleichsituierten Konkubinatspaaren vermindern und dabei die erhöhten Lebenshaltungskosten
+ausgleichen, welche durch die Berufstätigkeit beider Ehegatten verursacht werden. Der Abzug selber ist durch Art. 9 Abs. 2 Bst. k StHG vorgegeben, wobei das kantonale Recht die Höhe des
+Abzugs festlegt.
+Der Abzug wurde von 13.5% der Steuerpflichtigen geltend gemacht. Die Steuerertragsminderung
+durch den Abzug betrug bei der Kantonssteuer 3,05 Mio., für Riehen 0,19 Mio. und für Bettingen
+0,01 Mio. Franken des Einkommenssteuerertrags. Für die Steuerpflichtigen, welchen der Abzug
+gewährt wurde, führte der Abzug zu einer durchschnittlichen Steuerminderung der Kantons- und
+Gemeindesteuern von (gesamthaft) 205 Franken.
+1.2.20
+
+Spieleinsätze bei Geldspielen (§ 32 Abs. 3 StG)
+
+Von den steuerbaren Gewinnen aus Geldspielen können nach § 32 Abs. 3 StG 5%, jedoch höchstens 5’000 Franken, als Einsatzkosten abgezogen werden. Beim Abzug für Spieleinsätze handelt
+es sich an sich um einen Abzug für Gewinnungskosten, welcher aber aus Praktikabilitätsgründen
+auf einen festen Prozentbetrag des steuerbaren Spielgewinns pauschaliert und limitiert wurde. Der
+Abzug wird darum unter den allgemeinen Abzügen aufgeführt. Der Abzug selber ist durch
+Art. 9 Abs. 2 Bst. n StHG vorgegeben, wobei das kantonale Recht die Höhe des abzugsfähigen
+Prozentbetrags des Gewinns und einen allfälligen Höchstbetrag des Abzugs festlegt.
+Der Abzug wurde von 0.03% der Steuerpflichtigen geltend gemacht. Der Mittelwert des Abzugs
+betrug 154 Franken und der Medianwert 19 Franken. Die Steuerertragsminderung durch den Abzug betrug bei der Kantonssteuer 0,00 Mio., für Riehen 0,00 Mio. und für Bettingen 0,00 Mio. Franken des Einkommenssteuerertrags. Für die Steuerpflichtigen, welchen der Abzug gewährt wurde,
+führte der Abzug zu einer durchschnittlichen Steuerminderung der Kantons- und Gemeindesteuern
+von (gesamthaft) 31 Franken.
+1.2.21
+
+Abzug für krankheits- und unfallbedingte Kosten (§ 33 lit. a StG)
+
+Abzugsfähig nach § 33 lit. a StG sind die Krankheits- und Unfallkosten der steuerpflichtigen Person
+und der von ihr unterhaltenen Personen, soweit die steuerpflichtige Person die Kosten selber trägt
+und diese 5% der um die Aufwendungen gemäss §§ 27-32 verminderten steuerbaren Einkünfte
+(Nettoeinkommen vor Abzug der freiwilligen Zuwendungen und der Krankheits- und Unfallkosten)
+übersteigen. Die Aufwendungen werden nur in dem den Selbstbehalt überschiessenden Ausmass
+zum Abzug zugelassen. Beim Abzug für Krankheits- und Unfallkosten handelt es sich um einen
+
+Seite 9/16
+
+Regierungsrat des Kantons Basel-Stadt
+
+von der Höhe des Einkommens abhängigen allgemeinen Abzug. Der Abzug selber und die abzugsfähigen Aufwendungen sind durch Art. 9 Abs. 2 Bst. h StHG vorgegeben, wobei das kantonale
+Recht die Höhe des nicht abzugsfähigen Selbstbehalts festlegt.
+Der Abzug wurde von 11.36% der Steuerpflichtigen geltend gemacht. Der Mittelwert des Abzugs
+betrug (nach Abzug des Selbstbehalts von 5%) 2’091 Franken und der Medianwert 1’048 Franken.
+Die Steuerertragsminderung durch den Abzug betrug bei der Kantonssteuer 3,39 Mio., für Riehen
+0,15 Mio. und für Bettingen 0,01 Mio. Franken des Einkommenssteuerertrags. Für die Steuerpflichtigen, welchen der Abzug gewährt wurde, führte der Abzug zu einer durchschnittlichen Steuerminderung der Kantons- und Gemeindesteuern von (gesamthaft) 265 Franken.
+1.2.22
+
+Abzug für gemeinnützige Zuwendungen (§ 33 lit. b StG)
+
+Abzugsfähig nach § 33 lit. b StG sind freiwillige Zuwendungen an schweizerische Gemeinwesen
+und an juristische Personen mit Sitz in der Schweiz, die im Hinblick auf öffentliche oder ausschliesslich gemeinnützige Zwecke von der Steuerpflicht befreit sind, sofern die Zuwendungen 100 Franken
+in der Steuerperiode erreichen. Der Abzug ist auf 20% der um die Aufwendungen gemäss
+§§ 27-32 StG verminderten steuerbaren Einkünfte (Reineinkommen vor Abzug der freiwilligen Leistungen und der Krankheits- und Unfallkosten) begrenzt. Beim Abzug für gemeinnützige Zuwendungen handelt es sich um einen von der Höhe des Einkommens abhängigen allgemeinen Abzug. Der
+Abzug selber und die abzugsfähigen Aufwendungen sind durch Art. 9 Abs. 2 Bst. i StHG vorgegeben, wobei das kantonale Recht die Höhe des maximalen Abzugs festlegt.
+Der Abzug wurde von 21.25% der Steuerpflichtigen geltend gemacht. Der Mittelwert des Abzugs
+betrug 2'647 Franken und der Medianwert 500 Franken. Die Steuerertragsminderung durch den
+Abzug betrug bei der Kantonssteuer 12,81 Mio., für Riehen 0,83 Mio. und für Bettingen
+0,05 Mio. Franken des Einkommenssteuerertrags. Für die Steuerpflichtigen, welchen der Abzug
+gewährt wurde, führte der Abzug zu einer durchschnittlichen Steuerminderung der Kantons- und
+Gemeindesteuern von (gesamthaft) 548 Franken.
+1.2.23
+
+Abzug für Kinder, Kinderabzug (§ 35 Abs. 1 lit. a StG)
+
+Nach § 35 Abs.1 lit. a StG kann ein Kinderabzug von 7’900 Franken (pro 2020) bzw. 9'000 Franken
+(ab 2025) vorgenommen werden für jedes minderjährige, erwerbsunfähige oder in der beruflichen
+oder schulischen Ausbildung stehende Kind, für dessen Unterhalt die steuerpflichtige Person zur
+Hauptsache sorgt. Bei nicht gemeinsam besteuerten Eltern wird der Kinderabzug hälftig aufgeteilt,
+wenn das Kind unter gemeinsamer elterlicher Sorge steht und keine Unterhaltsbeiträge für das
+Kind geltend gemacht werden.
+Beim Kinderabzug handelt es sich um einen Sozialabzug. Mit dem Kinderabzug wird die verminderte wirtschaftliche Leistungsfähigkeit durch die rechtliche und sittliche Pflicht zur Unterstützung
+der Kinder berücksichtigt. Die Sozialabzüge sind durch das StHG nicht vorgegeben. Nach
+Art. 9 Abs. 4 StHG ist den Kantonen jedoch die Festlegung von Sozialabzügen erlaubt, wobei der
+Kinderabzug ausdrücklich erwähnt wird.
+Der Abzug wurde von 19.53% der Steuerpflichtigen geltend gemacht. Der Mittelwert des Abzugs
+betrug 11’975 Franken und der Medianwert 7’900 Franken. Die Steuerertragsminderung durch den
+Abzug betrug bei der Kantonssteuer 46,12 Mio., für Riehen 2,61 Mio. und für Bettingen
+0,12 Mio. Franken des Einkommenssteuerertrags. Für die Steuerpflichtigen, welchen der Abzug
+gewährt wurde (bzw. bei mehreren Kindern mehrere Abzüge gewährt wurden), führte der Abzug
+zu einer durchschnittlichen Steuerminderung der Kantons- und Gemeindesteuern von (gesamthaft) 2’126 Franken.
+
+Seite 10/16
+
+Regierungsrat des Kantons Basel-Stadt
+
+1.2.24
+
+Abzug für unterstützte Personen, Unterstützungsabzug (§ 35 Abs. 1 lit. b StG)
+
+Nach § 35 Abs. 1 lit. b StG kann ein Unterstützungsabzug von 5’500 Franken (pro 2020) bzw. 5005'800 Franken (ab 2025) für unterstützungsbedürftige Personen, an deren Unterhalt die steuerpflichtige Person in Erfüllung einer rechtlichen Unterstützungspflicht mindestens in der Höhe des
+Abzugs beiträgt, geltend gemacht werden. Beim Unterstützungsabzug handelt es sich um einen
+Sozialabzug. Mit dem Unterstützungsabzug wird die verminderte wirtschaftliche Leistungsfähigkeit
+durch die Unterstützung von unterstützungsbedürftigen Personen berücksichtigt. Die Sozialabzüge
+sind durch das StHG nicht vorgegeben. Nach Art. 9 Abs. 4 StHG ist den Kantonen jedoch die
+Festlegung von Sozialabzügen erlaubt.
+Der Abzug wurde von 1.74% der Steuerpflichtigen geltend gemacht. Der Mittelwert des Abzugs
+betrug 6’542 Franken und der Medianwert 5’500 Franken. Die Steuerertragsminderung durch den
+Abzug betrug bei der Kantonssteuer 2,62 Mio., für Riehen 0,13 Mio. und für Bettingen
+0,01 Mio. Franken des Einkommenssteuerertrags. Für die Steuerpflichtigen, welchen der Abzug
+gewährt wurde (bzw. bei mehreren unterstützungsbedürftigen Personen mehrere Abzüge gewährt
+wurden), führte der Abzug zu einer durchschnittlichen Steuerminderung der Kantons- und Gemeindesteuern von (gesamthaft) 1’345 Franken.
+1.2.25
+
+Sozialabzug
+für
+Ehegatten,
+(§ 35 Abs. 1 lit. c bis e StG)
+
+alleinerziehende
+
+und
+
+übrige
+
+Personen
+
+Nach § 35 Abs. 1 lit. c StG erhalten alle Steuerpflichtigen, denen kein Abzug nach lit. d oder lit. e
+zusteht, einen Abzug von 18'100 Franken (pro 2020) bzw. einen Abzug von 19'500 Franken (ab
+2025). Gemäss § 35 Abs. 1 lit. d StG erhalten Steuerpflichtige, die in rechtlich und tatsächlich ungetrennter Ehe leben, einen Abzug von 35'300 Franken (pro 2020) bzw. 38'000 Franken (ab 2025).
+Laut § 35 Abs. 1 lit. e StG erhalten alle alleinstehenden Steuerpflichtigen mit eigenem Haushalt,
+sofern sie allein mit minderjährigen, erwerbsunfähigen oder der beruflichen Ausbildung obliegenden Kindern in häuslicher Gemeinschaft leben und an deren Unterhalt zur Hauptsache beitragen,
+einen Abzug von 30'200 Franken (pro 2020) bzw. 32'600 Franken (ab 2025).
+Diese Abzüge dienen dazu, die Steuerprogression zu regeln und die Steuerbefreiung des existenznotwendigen Einkommens zu erreichen (vgl. Ratschlag Nr. 07.1357.01 vom 6. September 2007,
+S. 5 f.). Die Sozialabzüge sind durch das StHG nicht vorgegeben. Nach Art. 9 Abs. 4 StHG ist den
+Kantonen jedoch die Festlegung von Sozialabzügen erlaubt.
+Der Abzug für alle übrigen Personen wurde von 71.16% der Steuerpflichtigen geltend gemacht. Die
+Steuerertragsminderung durch den Abzug betrug bei der Kantonssteuer 224,52 Mio. Franken, für
+Riehen 8,21 Mio. und für Bettingen 0,37 Mio. Franken des Einkommenssteuerertrags. Für die Steuerpflichtigen, welchen der Abzug für alle übrigen Personen gewährt wurde, führte der Abzug zu
+einer durchschnittlichen Steuerminderung der Kantons- und Gemeindesteuern von (gesamthaft) 2’770 Franken.
+Der Abzug für verheiratete Personen wurde von 26.86% der Steuerpflichtigen geltend gemacht.
+Die Steuerertragsminderung durch den Abzug betrug bei der Kantonssteuer 198,47 Mio., für Riehen 12,23 Mio. und für Bettingen 0,65 Mio. Franken des Einkommenssteuerertrags. Für die Steuerpflichtigen, welchen der Abzug für verheiratete Personen gewährt wurde, führte der Abzug zu
+einer durchschnittlichen Steuerminderung der Kantons- und Gemeindesteuern von (gesamthaft)
+6’695 Franken.
+Der Abzug für alleinerziehende Personen wurde von 3.28% der Steuerpflichtigen geltend gemacht.
+Die Steuerertragsminderung durch den Abzug betrug bei der Kantonssteuer 16,19 Mio., für Riehen
+0,90 Mio. und für Bettingen 0,03 Mio. Franken des Einkommenssteuerertrags. Für die Steuerpflichtigen, welchen der Abzug für Alleinerziehende gewährt wurde, führte der Abzug zu einer durchschnittlichen Steuerminderung der Kantons- und Gemeindesteuern von (gesamthaft) 4’431 Franken.
+
+Seite 11/16
+
+Regierungsrat des Kantons Basel-Stadt
+
+1.2.26
+
+Abzug für alleinstehende Rentnerinnen und Rentner (§ 35 Abs. 1 lit. f StG)
+
+Gemäss § 35 Abs. 1 lit. f StG erhalten allein stehende Rentnerinnen und Rentner zusätzlich zum
+Abzug nach § 35 Abs. 1 lit. c einen Abzug von 3'300 Franken (pro 2020) bzw. 3'500 Franken (ab
+2025). Die Sozialabzüge sind durch das StHG nicht vorgegeben. Nach Art. 9 Abs. 4 StHG ist den
+Kantonen jedoch die Festlegung von Sozialabzügen erlaubt.
+Der Abzug wurde von 23.51% der Steuerpflichtigen geltend gemacht. Die Steuerertragsminderung
+durch den Abzug betrug bei der Kantonssteuer 12,95 Mio., für Riehen 0,60 Mio. und für Bettingen
+0,03 Mio. Franken des Einkommenssteuerertrags. Für die Steuerpflichtigen, welchen der Abzug
+gewährt wurde, führte der Abzug zu einer durchschnittlichen Steuerminderung der Kantons- und
+Gemeindesteuern von (gesamthaft) 490 Franken.
+1.2.27
+
+Abzug für unterstützten Konkubinatspartner mit Kindern (§ 35 Abs. 1 lit. h StG)
+
+Nach § 35 Abs. 1 lit. h StG erhalten Steuerpflichtige einen Abzug von höchstens 18'100 Franken
+(pro 2020) bzw. 19'500 Franken (ab 2025) für die Unterstützung der Partnerin oder des Partners
+einer Lebensgemeinschaft mit gemeinsamen oder nicht gemeinsamen Kindern, insoweit deren
+bzw. dessen Einkommen zur Deckung des nötigen Lebensbedarfs von 18'100 Franken (pro 2020)
+bzw. 19'500 Franken (ab 2025) nicht ausreicht. Die Sozialabzüge sind durch das StHG nicht vorgegeben. Nach Art. 9 Abs. 4 StHG ist den Kantonen jedoch die Festlegung von Sozialabzügen
+erlaubt.
+Der Abzug wurde von 0.24% der Steuerpflichtigen geltend gemacht. Der Mittelwert des Abzugs
+betrug 13’513 Franken und der Medianwert 17’181 Franken. Die Steuerertragsminderung durch
+den Abzug betrug bei der Kantonssteuer 0,73 Mio., für Riehen 0,02 Mio. und für Bettingen
+0,00 Mio. Franken des Einkommenssteuerertrags. Für die Steuerpflichtigen, welchen der Abzug
+gewährt wurde, führte der Abzug zu einer durchschnittlichen Steuerminderung der Kantons- und
+Gemeindesteuern von (gesamthaft) 2’625 Franken.
+
+1.3
+
+Zusammenfassende Darstellung
+
+In der diesem Bericht angehängten Tabelle werden die vorstehenden Ausführungen zu den einzelnen Abzügen tabellarisch zusammengefasst.
+
+2.
+
+Mit welchen Massnahmen könnte der Prozess administrativ für
+beide Seiten vereinfacht werden?
+
+Wie der Regierungsrat bereits im Bericht 21.5708.02 betonte, hat der Kanton ein grosses Interesse
+daran, dass die Steuerabzüge für die Bevölkerung und Verwaltung administrativ möglichst einfach
+handhabbar sind. Als ein wichtiges Instrument zur Vereinfachung erachtet er Pauschalen, mit welchen die Beilage von Belegen in den meisten Fällen nicht mehr notwendig ist und der Prozess für
+alle Beteiligten einfacher gestaltet werden kann. Auf diese Weise konnten Vereinfachungen bei der
+Berufskostenpauschale, beim Versicherungsabzug, beim Kinderabzug oder beim Sozialabzug für
+Ehegatten, alleinerziehende und übrige Personen umgesetzt werden. Bei zahlreichen weiteren Abzügen wäre eine Ausgestaltung als Pauschale nicht angezeigt, da ohne Berücksichtigung der individuellen Situation andere Ziele nicht mehr erreicht werden könnten.
+In Bezug auf weitere Vereinfachungen ist darauf hinzuweisen, dass die meisten hiervor aufgeführten Abzüge gemäss Steuerharmonisierungsgesetz des Bundes (StHG) verbindlich vorgeschrieben
+sind und nur in ihrer Höhe durch das kantonale Recht beeinflusst werden können.
+Da die Steuerverwaltung zudem für die Veranlagung der direkten Bundessteuer zuständig ist, welche im Bundesgesetz über die direkte Bundessteuer (DBG) über dieselben oder ähnliche Abzüge
+verfügt, würde eine Vereinfachung auf kantonaler Ebene nicht weiterhelfen. Durch eine
+
+Seite 12/16
+
+Regierungsrat des Kantons Basel-Stadt
+
+Vereinfachung infolge Aufhebung von Abzügen auf kantonaler Ebene lässt sich daher, mit wenigen
+Ausnahmen (bei den Sozialabzügen), grundsätzlich nicht viel erreichen.
+Darüber hinaus wurden und werden stetig zahlreiche Massnahmen zur administrativen Vereinfachung des Veranlagungsprozesses eingeführt. Auf Bundesebene wurden durch das Bundesgesetz
+über elektronische Verfahren im Steuerbereich vom 18. Juni 2021 die Grundlagen für den elektronischen Verkehr mit den Steuerbehörden geschaffen. Es verpflichtet die Kantone, neben dem
+schriftlichen Verfahren auch ein elektronisches vorzusehen. Die Umsetzung der entsprechenden
+gesetzlichen Grundlagen ist derzeit in Abklärung. Ferner regelt es einheitliche Datenformate bei
+der Steuererklärung und ermöglicht die Verwendung der AHV-Nummer durch den Versicherer bei
+der Meldung von Versicherungsleistungen.
+Zur Vereinfachung des Steuererklärungsprozesses wurde im Kanton Basel-Stadt die Möglichkeit
+geschaffen, die Steuererklärung elektronisch auszufüllen und einzureichen. Hierdurch muss diese
+nicht mehr bei der Post aufgegeben werden. Zudem führt die elektronische Steuererklärung zu
+zahlreichen Vereinfachungen, indem die steuerpflichtigen Personen durch den Prozess des Ausfüllens der Steuererklärung begleitet werden. Durch das Begleitmenu werden die Steuerpflichtigen
+auf eine allfällige Unvollständigkeit ihrer Angaben und auf die Voraussetzungen sowie korrekte
+Höhe der von ihnen geltend gemachten Abzüge hingewiesen. Die Belege können einfach mit einer
+Scan-App erfasst und der Steuererklärung angehängt werden. Zudem wurde gesamtschweizerisch
+das elektronische Wertschriftenverzeichnis (sog. eSteuerauszug) eingeführt, welches den Steuerpflichtigen das umfangreiche und zeitraubende Übertragen der Guthaben und Wertschriften in das
+Wertschriftenverzeichnis der Steuererklärung erspart.
+Seit Neuem besteht zudem die Möglichkeit, die Veranlagungsverfügung und Steuerrechnung im
+E-Bill-Portal zu empfangen und zu bezahlen. Auf Seiten der Steuerverwaltung führt der Ausbau der
+Digitalisierung zu zahlreichen Vereinfachungen und zu einer stetigen Beschleunigung und Effizienzsteigerung des immer anspruchsvoller und komplexer werdenden Veranlagungsprozesses.
+In diesem Zusammenhang rückt ausserdem die bereits von einigen Kantonen erfolgreich eingesetzte Veranlagung mithilfe algorithmischer Systeme in den Fokus. Die Schaffung entsprechender
+gesetzlicher Grundlagen ist derzeit in Abklärung.
+
+3. Antrag
+Aufgrund dieses Berichts beantragen wir, den Anzug der Wirtschafts- und Abgabekommission (WAK) betreffend «Analyse zu den aktuellen Steuerabzügen im Kanton Basel-Stadt» abzuschreiben.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Dr. Conradin Cramer
+Regierungspräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Anhang
+Tabelle zur Grundlage und Wirksamkeit der Steuerabzüge
+
+Seite 13/16
+
+Regierungsrat des Kantons Basel-Stadt
+
+Tabelle zur Grundlage und Wirksamkeit der Steuerabzüge
+Abzug
+
+Anteil Steuerpflichtige mit
+Abzug
+in %
+
+Mittelwert
+Abzug
+in Franken
+
+Medianwert
+Abzug
+in Franken
+
+Mittlere Steuerermässigung Staatsund Gemeindesteuer
+in Franken
+
+Minderertrag
+Kanton
+
+Minderertrag Gemeindesteuer
+in Mio. Franken*
+
+Spielraum für
+den kantonalen
+Gesetzgeber bei
+der Abzugshöhe
+
+Bettingen
+
+Riehen
+
+39.02
+
+0.08
+
+1.58
+
+x
+
+441
+
+2.22
+
+0.01
+
+0.09
+
+x
+
+3'200
+
+521
+
+2.25
+
+0.01
+
+0.09
+
+x
+
+5'084
+
+3'153
+
+1'058
+
+1.14
+
+0.01
+
+0.05
+
+0.33%
+
+7'086
+
+6'320
+
+1'471
+
+0.55
+
+0.00
+
+0.03
+
+Vermögensverwaltungskosten
+(§ 31 Abs. 1 lit. a StG)
+
+57.72%
+
+814
+
+68
+
+149
+
+9.65
+
+0.02
+
+0.49
+
+Liegenschaftsunterhaltskosten
+pauschal (§ 31 Abs. 2 und 3
+StG)
+
+16.37%
+
+4'906
+
+2'288
+
+1'010
+
+18.04
+
+0.09
+
+1.27
+
+Liegenschaftsunterhaltskosten
+effektiv (§ 31 Abs. 2 und 3 StG)
+
+9.22%
+
+30'444
+
+9'740
+
+6'257
+
+61.81
+
+0.38
+
+5.23
+
+Schuldzinsen (§ 32 Abs. 1 lit. a
+StG)
+
+27.13%
+
+5'559
+
+2'151
+
+1'118
+
+33.40
+
+0.14
+
+2.09
+
+Abzug für Leibrenten und dauernde Lasten (§ 32 Abs. 1 lit. b
+StG)
+
+0.07%
+
+11'781
+
+7'960
+
+2'483
+
+0.18
+
+0.00
+
+0.02
+
+Unterhaltsbeiträge an geschiedene/getrenntlebende Ehegatten (§ 32 Abs. 1 lit. c StG)
+
+1.18%
+
+22'718
+
+15'000
+
+4'717
+
+6.14
+
+0.01
+
+0.38
+
+Unterhaltsbeiträge an minderjährige Kinder (§ 32 Abs. 1 lit. c
+StG)
+
+1.82%
+
+14'660
+
+10'898
+
+2'913
+
+5.99
+
+0.01
+
+0.26
+
+Staatliche Vorsorge
+(AHV/IV/EO) (§ 32 Abs. 1 lit. d
+StG)
+
+2.22%
+
+2'828
+
+1'183
+
+460
+
+1.14
+
+0.00
+
+0.06
+
+Pauschalabzug für Berufskosten
+(§ 27 Abs. 2 StG)
+
+58.06%
+
+3'301
+
+4'000
+
+593
+
+effektiv ÖV / privates Fahrzeug
+(§ 27 Abs. 1 lit. a StG)
+
+4.44%
+
+2'177
+
+3'000
+
+Mehrkosten für auswärtige Verpflegung (§ 27 Abs. 1 lit. b StG)
+
+3.82%
+
+2'479
+
+Übrige Berufsauslagen - effektiv
+(§ 27 Abs. 1 lit. c StG)
+
+0.96%
+
+Mehrkosten auswärtiger Wochenaufenthalt - effektiv (§ 27
+StG i.V.m. § 26 StV)
+
+Spielraum für
+den kantonalen
+Gesetzgeber betreffend Abzug
+
+Seite 14/16
+
+Regierungsrat des Kantons Basel-Stadt
+Abzug
+
+Anteil Steuerpflichtige mit
+Abzug
+in %
+
+Mittelwert
+Abzug
+in Franken
+
+Medianwert
+Abzug
+in Franken
+
+Mittlere Steuerermässigung Staatsund Gemeindesteuer
+in Franken
+
+Minderertrag
+Kanton
+
+Minderertrag Gemeindesteuer
+in Mio. Franken*
+
+Spielraum für
+den kantonalen
+Gesetzgeber bei
+der Abzugshöhe
+
+Spielraum für
+den kantonalen
+Gesetzgeber betreffend Abzug
+
+Bettingen
+
+Riehen
+
+31.62
+
+0.12
+
+2.21
+
+1'168
+
+44.09
+
+0.13
+
+2.36
+
+5'600
+
+1'048
+
+30.81
+
+0.10
+
+1.91
+
+x
+
+2'659
+
+2'800
+
+415
+
+34.49
+
+0.06
+
+1.30
+
+x
+
+3.19%
+
+23'771
+
+24'813
+
+1'909
+
+6.88
+
+0.01
+
+0.30
+
+Abzug für Kinderdrittbetreuungskosten (§ 32 Abs. 1 lit. i StG)
+
+5.69%
+
+5'702
+
+3'918
+
+1'135
+
+7.19
+
+0.02
+
+0.39
+
+x
+
+Beiträge an politische Parteien
+(§ 32 Abs. 1 lit. j StG)
+
+2.03%
+
+840
+
+200
+
+176
+
+0.39
+
+0.00
+
+0.03
+
+x
+
+Abzug für berufsorientierte Ausund Weiterbildungskosten (§ 32
+Abs. 1 lit. k StG)
+
+5.41%
+
+3'012
+
+1'720
+
+573
+
+3.54
+
+0.00
+
+0.12
+
+x
+
+Abzug bei Erwerbstätigkeit beider Ehegatten, Zweiverdienerabzug (§ 32 Abs. 2 StG)
+
+13.50%
+
+205
+
+3.05
+
+0.01
+
+0.19
+
+x
+
+Spieleinsätze bei Geldspielen (§
+32 Abs. 3 StG)
+
+0.03%
+
+154
+
+19
+
+31
+
+0.00
+
+0.00
+
+0.00
+
+x
+
+Krankheits- und unfallbedingte
+Kosten (steuermindernd nach
+Selbstbehalt) (§ 33 lit. a StG)
+
+11.36%
+
+2'091
+
+1'048
+
+265
+
+3.39
+
+0.01
+
+0.15
+
+x
+
+Abzug für gemeinnützige Zuwendungen (§ 33 lit. b StG)
+
+21.25%
+
+2'647
+
+500
+
+548
+
+12.81
+
+0.05
+
+0.83
+
+x
+
+Abzug für Kinder, Kinderabzug
+(§ 35 Abs. 1 lit. a StG)
+
+19.53%
+
+11'975
+
+7'900
+
+2'126
+
+46.12
+
+0.12
+
+2.61
+
+x
+
+ja
+
+Abzug für unterstützte Personen, Unterstützungsabzug (§ 35
+Abs. 1 lit. b StG)
+
+1.74%
+
+6'542
+
+5'500
+
+1'345
+
+2.62
+
+0.01
+
+0.13
+
+x
+
+ja
+
+Abzug für alle übrigen Personen
+(§ 35 Abs. 1 lit. c StG)
+
+71.16%
+
+2'770
+
+224.52
+
+0.37
+
+8.21
+
+x
+
+ja
+
+Abzug für Ehegatten (§ 35 Abs.
+1 lit. d StG)
+
+26.86%
+
+6'695
+
+198.47
+
+0.65
+
+12.23
+
+x
+
+ja
+
+Berufliche Vorsorge (Pensionskasse) (§ 32 Abs. 1 lit. d StG)
+
+3.76%
+
+36'760
+
+20'000
+
+7'712
+
+Gebundene Selbstvorsorge,
+Säule 3a (§ 32 Abs. 1 lit. e StG)
+
+33.85%
+
+5'556
+
+6'826
+
+Abzug für Versicherungen Ehegatten (§ 32 Abs. 1 lit. g StG)
+
+26.65%
+
+5'463
+
+Abzug für Versicherungen alle
+übrigen Personen (§ 32 Abs. 1
+lit. g StG)
+
+73.13%
+
+Behinderungsbedingte Kosten
+(§ 32 Abs. 1 lit. h StG)
+
+Seite 15/16
+
+Regierungsrat des Kantons Basel-Stadt
+Abzug
+
+Anteil Steuerpflichtige mit
+Abzug
+in %
+
+Mittelwert
+Abzug
+in Franken
+
+Medianwert
+Abzug
+in Franken
+
+Mittlere Steuerermässigung Staatsund Gemeindesteuer
+in Franken
+
+Spielraum für
+den kantonalen
+Gesetzgeber bei
+der Abzugshöhe
+
+Spielraum für
+den kantonalen
+Gesetzgeber betreffend Abzug
+
+Riehen
+
+16.19
+
+0.03
+
+0.90
+
+x
+
+ja
+
+490
+
+12.95
+
+0.03
+
+0.60
+
+x
+
+ja
+
+2'625
+
+0.73
+
+0.00
+
+0.02
+
+x
+
+ja
+
+3.28%
+
+4'431
+
+Abzug für alleinstehende Rentnerinnen und Rentner (zusätzlich zu Abzug für alle übrigen
+Personen) (§ 35 Abs. 1 lit. f StG)
+
+23.51%
+
+Abzug für unterstützten Konkubinatspartner mit Kindern (§ 35
+Abs. 1 lit. h StG)
+
+0.24%
+
+17'181
+
+Minderertrag Gemeindesteuer
+in Mio. Franken*
+
+Bettingen
+Abzug für alleinerziehende Personen (nicht für Konkubinatspaare) (§ 35 Abs. 1 lit. e StG)
+
+13'513
+
+Minderertrag
+Kanton
+
+Prämissen:
+-
+
+Nur primäre Steuerpflicht
+Nur ganzjährige Steuerpflicht
+Steuerperiode 2020
+Bei einzelnen Abzügen, insbesondere bei Abzügen, die als Pauschale ausgestaltet sind, wurde von der Angabe des Mittel- und Medianwerts abgesehen.
+
+* Diese Spalte zeigt die Mindereinnahmen der Gemeindesteuer ohne Kantonsanteil. Die Gemeindesteuerquote von Bettingen beträgt 37.5% (Einkommenssteuer) und die Gemeindesteuerquote von
+Riehen beträgt 40% (Einkommenssteuer).
+
+Seite 16/16
+
+

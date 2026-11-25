@@ -1,0 +1,57 @@
+Motion betreffend automatisch ausgefüllte Steuererklärung
+
+23.5477.01
+
+Seit 2021 können alle steuerpflichtigen natürlichen Personen auf dem Portal eSteuern.BS
+ihre Steuererklärung komplett digital ausfüllen und einreichen. Dies stellt für Steuerpflichtige
+einen echten Mehrwert dar, entfällt doch seither das Einsenden von analogen Unterlagen.
+In der Beantwortung des Anzugs Luca Urgese und Konsorten betreffend «Digitalisierung
+vorantreiben – Steuererklärung online ausfüllen» hielt der Regierungsrat fest, dass langfristig
+die vorausgefüllte Steuererklärung möglich sein soll. Dies werde im Rahmen der geplanten
+Erweiterungsschritte geprüft (vgl. 19.5193.03, S. 3).
+Auch wenn mit der digitalen Steuererklärung ein wesentlicher Schritt gemacht werden
+konnte, schöpft der heutige Steuerveranlagungsprozess das volle Potenzial der
+Digitalisierung bei Weitem noch nicht aus. So verfügt der Kanton bereits heute über
+zahlreiche relevante Informationen, die für die Veranlagung genützt werden können:
+-
+
+Arbeitgebende sind verpflichtet, den Lohn ihrer Arbeitnehmerinnen und Arbeitnehmer
+direkt der Steuerverwaltung zu melden (sog. Lohnmeldeverfahren).
+
+-
+
+Der Kanton schickt Liegenschaftseigentümern jährlich die aktuellen Liegenschafts- und
+Eigenmietwerte, welche diese via Steuererklärung wieder an den Kanton
+zurückschicken müssen.
+
+-
+
+Der Kanton weiss aufgrund des Einwohnerregisters, wer wie viele Kinder in welchem
+Alter hat und kennt aufgrund früherer Steuerveranlagungen auch die
+Sorgerechtssituation, die er als Vorschlag automatisch in das Folgejahr übernehmen
+könnte, bis die Steuerpflichtigen eine Veränderung melden.
+
+-
+
+Aufgrund einer kürzlich vom Grossen Rat beschlossenen Gesetzesrevision kennt der
+Kanton künftig auch von der Arbeitslosenversicherung erhaltene Leistungen.
+
+Diese Aufzählung ist wohl nicht vollständig. Auch weitere steuerrelevante Informationen
+dürften dem Kanton bereits vorliegen. Es ist nicht ersichtlich, weshalb der Kanton diese
+Daten nicht nutzen sollte, um den Steuerpflichtigen das Ausfüllen der Steuerklärung zu
+erleichtern.
+Selbstverständlich sind bei einer solchen Lösung auch datenschutzrechtliche Vorgaben zu
+beachten. Datentransfers zwischen verschiedenen Amtsstellen benötigen eine
+entsprechende gesetzliche Grundlage. Durch eine entsprechende Gestaltung der
+Schnittstelle kann überdies sichergestellt werden, dass der Datentransfer automatisiert auf
+Ebene der steuerpflichtigen Person erfolgt und nur die Personen Einsicht in die
+entsprechenden Daten erhalten, die ohnehin Einsicht in die Steuererklärung haben.
+Der Regierungsrat wird deshalb beauftragt, dem Grossen Rat die notwendigen gesetzlichen
+Grundlagen zu unterbreiten, damit beim Kanton vorhandene Daten über eine steuerpflichtige
+Person künftig automatisch und datenschutzkonform in die digitale Steuererklärung eingefügt
+werden können und die digitale Steuererklärung so weiterzuentwickeln, dass die
+vorhandenen Daten künftig automatisch über digitale Schnittstellen vorabgefüllt werden.
+Luca Urgese, Joël Thüring, Christine Keller, Daniel Albietz, Annina von
+Falkenstein, Niggi Daniel Rechsteiner, Fina Girard
+
+
