@@ -1,0 +1,3 @@
+# Themen von Hand richtigstellen. Eine Zeile pro Geschäft.
+# signatur: Geschäftsnummer wie 23.5123, thema: genau einer der Namen aus themen.py oder «Übriges»
+signatur,thema

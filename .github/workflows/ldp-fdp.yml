@@ -1,0 +1,38 @@
+name: FDP/LDP-Analyse aktualisieren
+
+on:
+  schedule:
+    # Jeden Montag um 05:41 Uhr (Winterzeit)
+    - cron: "41 4 * * 1"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["ldp-fdp/build.py", "ldp-fdp/themen.py", "ldp-fdp/template.html", "ldp-fdp/themen-korrekturen.csv", ".github/workflows/ldp-fdp.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Daten holen und Seite bauen
+        run: python ldp-fdp/build.py
+      - name: Änderungen speichern
+        run: |
+          git config user.name "grossrat-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/ldp-fdp ldp-fdp/pruefliste.md
+          git diff --cached --quiet && echo "Keine Änderungen" && exit 0
+          git commit -m "Update FDP/LDP-Analyse $(date +%Y-%m-%d)"
+          git pull --rebase -X theirs
+          git push

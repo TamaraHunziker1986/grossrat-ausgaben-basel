@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="de-CH">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>FDP und LDP im Grossen Rat | FDP.Die Liberalen Basel-Stadt</title>
+<meta name="description" content="Vergleich von FDP und LDP im Grossen Rat Basel-Stadt: Abstimmungen und Vorstösse der Legislaturen 2021–2025 und 2025–2029.">
+<link rel="icon" href="fdp-logo.png" type="image/png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@500;700;800&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --hellblau:#00a0e2; --blau:#074ea1; --magenta:#e6007d;
+  --text:#4b5261; --titel:#414959; --grau:#ededed; --linie:#d9dce1; --weiss:#fff;
+  --fdp:#074ea1; --ldp:#9aa3b2; --ja:#0b7a3e; --nein:#b4232a;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;font-family:"Source Sans 3",Arial,sans-serif;font-size:17px;line-height:1.5;color:var(--text);background:var(--weiss)}
+a{color:var(--blau)}
+h1,h2,h3{font-family:Jost,Arial,sans-serif;color:var(--titel);font-weight:800;line-height:1.15;margin:0 0 .5em}
+.wrap{max-width:1180px;margin:0 auto;padding:0 24px}
+
+.topbar{background:var(--hellblau);color:#fff;font-family:Jost,Arial,sans-serif;font-weight:700;font-size:14px}
+.topbar .wrap{display:flex;justify-content:flex-end;gap:24px;padding-top:8px;padding-bottom:8px}
+.topbar a{color:#fff;text-decoration:none}
+.topbar a:hover{text-decoration:underline}
+.kopf{background:var(--hellblau)}
+.kopf .wrap{display:flex;align-items:center;gap:14px;padding-top:6px;padding-bottom:22px}
+.kopf img{height:64px;width:auto;display:block}
+
+.hero{background:var(--blau);color:#fff;padding:52px 0 44px}
+.hero h1{color:#fff;font-size:clamp(32px,5vw,52px);margin-bottom:.3em}
+.hero p{max-width:780px;font-size:19px;margin:0 0 .6em}
+.hero .stand{font-size:15px;opacity:.85}
+.intern{display:inline-block;background:var(--magenta);color:#fff;font-family:Jost,Arial,sans-serif;font-weight:700;font-size:13px;letter-spacing:.04em;text-transform:uppercase;padding:3px 10px;border-radius:2px;margin-bottom:14px}
+
+.zeitraum{display:inline-flex;align-items:center;gap:10px;margin-top:14px;font-family:Jost,Arial,sans-serif;font-weight:700;font-size:15px}
+.zeitraum select{font:inherit;font-weight:600;font-size:16px;padding:8px 12px;border:0;border-radius:3px;color:var(--blau)}
+
+.kacheln{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:16px;margin:-28px auto 0;position:relative}
+.kachel{background:#fff;border-top:5px solid var(--hellblau);box-shadow:0 2px 12px rgba(7,78,161,.12);padding:18px 20px}
+.kachel .zahl{font-family:Jost,Arial,sans-serif;font-weight:800;font-size:clamp(24px,2.5vw,30px);white-space:nowrap;color:var(--titel);line-height:1.1}
+.kachel .was{font-size:15px;margin-top:6px}
+
+nav.inhalt{margin:34px 0 0;display:flex;flex-wrap:wrap;gap:8px 18px;font-family:Jost,Arial,sans-serif;font-weight:700;font-size:15px}
+nav.inhalt a{text-decoration:none}
+nav.inhalt a:hover{text-decoration:underline}
+
+section{padding:48px 0 8px}
+section h2{font-size:clamp(24px,3vw,32px)}
+h3.unter{font-size:21px;margin-top:26px}
+.lead{max-width:800px;margin:0 0 20px}
+
+.legende{display:flex;gap:18px;font-size:14.5px;margin:0 0 12px;flex-wrap:wrap}
+.legende span{display:inline-flex;align-items:center;gap:6px}
+.legende i{display:inline-block;width:14px;height:14px;border-radius:2px}
+
+.bars{display:grid;grid-template-columns:minmax(150px,260px) 1fr;gap:10px 16px;align-items:center;max-width:920px}
+.bars .name{font-size:15.5px;font-weight:600;color:var(--titel)}
+.bars .paar{display:flex;flex-direction:column;gap:3px}
+.bar{display:flex;align-items:center;gap:8px;font-size:13.5px;font-variant-numeric:tabular-nums}
+.bar i{display:block;height:13px;border-radius:0 3px 3px 0;min-width:2px}
+.bar b{font-weight:700;color:var(--titel);white-space:nowrap}
+.bar.fdp i{background:var(--fdp)} .bar.ldp i{background:var(--ldp)}
+
+.zwei{display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:24px}
+.box{background:var(--grau);padding:20px 22px}
+.box h3{font-size:20px;margin-bottom:10px}
+.box p{margin:0 0 .6em}
+.box dl{display:grid;grid-template-columns:1fr auto auto;gap:4px 18px;margin:0;font-size:15.5px}
+.box dt{margin:0} .box dd{margin:0;text-align:right;font-weight:700;color:var(--titel);font-variant-numeric:tabular-nums}
+.box .kopfzeile{font-family:Jost,Arial,sans-serif;font-weight:700;font-size:13px;text-transform:uppercase;letter-spacing:.03em}
+
+.filter{display:flex;flex-wrap:wrap;gap:12px;margin:0 0 16px}
+.filter label{font-size:14px;font-weight:600;display:flex;flex-direction:column;gap:4px}
+.filter label.check{flex-direction:row;align-items:center;gap:8px;align-self:flex-end;padding-bottom:9px}
+.filter select,.filter input[type=search]{font:inherit;font-size:15px;padding:8px 10px;border:1px solid var(--linie);border-radius:3px;min-width:200px;color:var(--text);background:#fff}
+.tabelle{overflow-x:auto;border:1px solid var(--linie)}
+table{border-collapse:collapse;width:100%;font-size:15px}
+th,td{padding:9px 12px;border-bottom:1px solid var(--linie);text-align:left;vertical-align:top}
+th{font-family:Jost,Arial,sans-serif;font-weight:700;color:var(--titel);background:var(--grau);position:sticky;top:0;white-space:nowrap}
+td.g{min-width:320px}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+td.p,th.p{text-align:center;white-space:nowrap}
+.chip{display:inline-block;font-size:12.5px;font-weight:700;padding:1px 7px;border-radius:10px;border:1px solid currentColor;white-space:nowrap}
+.chip.J{color:var(--ja)} .chip.N{color:var(--nein)} .chip.geteilt{color:var(--text)}
+.chip.knapp{color:var(--magenta)}
+.klein{font-size:13.5px;color:#6b7280}
+.mehr{margin-top:12px}
+button.link{font:inherit;color:var(--blau);background:none;border:0;padding:0;cursor:pointer;text-decoration:underline;font-weight:600}
+.diff-pos{color:var(--fdp);font-weight:700} .diff-neg{color:#6b7280;font-weight:700}
+
+.ideen{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:18px}
+.idee{border-left:5px solid var(--magenta);background:#fff;box-shadow:0 2px 10px rgba(7,78,161,.10);padding:16px 18px}
+.idee h3{font-size:18.5px;margin-bottom:6px}
+.idee p{margin:0;font-size:15.5px}
+.idee .quelle{margin-top:8px;font-size:13.5px;color:#6b7280}
+
+.methode{max-width:820px}
+.methode p{margin:0 0 .9em}
+
+footer{background:var(--hellblau);color:#fff;margin-top:56px;padding:32px 0;font-size:15px}
+footer a{color:#fff}
+footer .wrap{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:24px}
+footer strong{font-family:Jost,Arial,sans-serif;font-size:17px}
+@media (max-width:600px){ .wrap{padding:0 16px} .hero{padding:36px 0 40px} .filter select,.filter input[type=search]{min-width:0;width:100%} .filter label{flex:1 1 100%} .bars{grid-template-columns:1fr} .bars .name{margin-top:8px} }
+</style>
+</head>
+<body>
+<div class="topbar"><div class="wrap"><a href="../">Was der Grosse Rat ausgibt</a><a href="https://www.fdp-bs.ch">fdp-bs.ch</a></div></div>
+<header class="kopf"><div class="wrap">
+  <a href="https://www.fdp-bs.ch"><img src="fdp-logo.png" alt="FDP Kanton Basel-Stadt"></a>
+</div></header>
+
+<div class="hero"><div class="wrap">
+  <span class="intern">Interne Analyse</span>
+  <h1>FDP und LDP im Grossen Rat</h1>
+  <p>Wie unterscheiden sich die beiden Fraktionen bei Abstimmungen und Vorstössen? Ausgewertet sind alle elektronischen Abstimmungen und alle Vorstösse der Legislaturen 2021–2025 und 2025–2029.</p>
+  <p class="stand" id="stand"></p>
+  <label class="zeitraum">Legislatur <select id="f-leg"></select></label>
+</div></div>
+
+<div class="wrap"><div class="kacheln" id="kacheln"></div>
+<nav class="inhalt" aria-label="Inhalt">
+  <a href="#stimmverhalten">Stimmverhalten</a><a href="#differenzen">Unterschiedliche Haltung</a>
+  <a href="#themen">Vorstösse nach Thema</a><a href="#arten">Vorstossarten und Erfolg</a>
+  <a href="#zusammenarbeit">Zusammenarbeit</a><a href="#liste">Alle Vorstösse</a><a href="#ideen">Was noch dazukommen könnte</a>
+</nav></div>
+
+<main class="wrap">
+  <section id="stimmverhalten">
+    <h2>Stimmverhalten</h2>
+    <p class="lead">Wie oft hat die Mehrheit der FDP-Fraktion gleich gestimmt wie die Mehrheit einer anderen Fraktion? Gezählt sind alle Abstimmungen, in denen beide Fraktionen mehrheitlich Ja oder Nein gestimmt haben.</p>
+    <div class="legende"><span><i style="background:var(--fdp)"></i>FDP stimmt gleich wie …</span><span><i style="background:var(--ldp)"></i>LDP stimmt gleich wie …</span></div>
+    <div class="bars" id="bars-ueberein"></div>
+    <div class="zwei" style="margin-top:28px">
+      <div class="box"><h3>Geschlossenheit</h3><p class="klein">Anteil der Abstimmungen, in denen niemand aus der Fraktion gegen die eigene Mehrheit gestimmt hat (Enthaltungen nicht mitgezählt).</p><dl id="dl-geschlossen"></dl></div>
+      <div class="box"><h3>Auf der Seite der Mehrheit</h3><p class="klein">Anteil der Abstimmungen, in denen die Fraktionsmehrheit so gestimmt hat, wie der Rat entschieden hat.</p><dl id="dl-gewinner"></dl></div>
+    </div>
+  </section>
+
+  <section id="differenzen">
+    <h2>Wo FDP und LDP unterschiedlich gestimmt haben</h2>
+    <p class="lead" id="diff-lead"></p>
+    <h3 class="unter">Nach Thema</h3>
+    <div class="tabelle"><table id="t-diff-thema"></table></div>
+    <h3 class="unter">Alle Abstimmungen mit unterschiedlicher Haltung</h3>
+    <p class="lead klein">«Entscheidend» heisst: Hätte die unterlegene Fraktion geschlossen wie die andere gestimmt, wäre das Resultat anders ausgefallen. Grundlage sind die Stimmen der Ratsmitglieder, nicht die Fraktionsparolen.</p>
+    <div class="filter">
+      <label>Thema<select id="f-d-thema"></select></label>
+      <label>Sieger<select id="f-d-gewinnt"><option value="">FDP oder LDP</option><option value="FDP">FDP auf der Mehrheitsseite</option><option value="LDP">LDP auf der Mehrheitsseite</option></select></label>
+      <label>Suche<input id="f-d-suche" type="search" placeholder="Stichwort"></label>
+      <label class="check"><input id="f-d-knapp" type="checkbox"> nur entscheidende</label>
+    </div>
+    <div class="tabelle"><table id="t-diff"></table></div>
+    <div class="mehr" id="mehr-diff"></div>
+  </section>
+
+  <section id="themen">
+    <h2>Vorstösse nach Thema</h2>
+    <p class="lead">Anteil der Vorstösse, die Ratsmitglieder der FDP und der LDP als Erste unterzeichnet haben, nach Hauptthema. Die rechte Spalte zeigt, wo die FDP im Vergleich zur LDP mehr (positiv) oder weniger (negativ) Gewicht legt.</p>
+    <div class="legende"><span><i style="background:var(--fdp)"></i>FDP</span><span><i style="background:var(--ldp)"></i>LDP</span><span><i style="background:var(--magenta);height:3px"></i>alle Fraktionen</span></div>
+    <div class="tabelle"><table id="t-themen"></table></div>
+  </section>
+
+  <section id="arten">
+    <h2>Vorstossarten und Erfolg</h2>
+    <p class="lead" id="arten-lead"></p>
+    <div class="zwei">
+      <div class="box"><h3>Eingereichte Vorstösse</h3><dl id="dl-arten"></dl></div>
+      <div class="box"><h3>Motionen und Anzüge: Was daraus wurde</h3><dl id="dl-erfolg"></dl><p class="klein" style="margin-top:10px">Massgebend ist der erste Entscheid über die Überweisung. «Offen» heisst: noch nicht traktandiert oder Vermerk nicht eindeutig.</p></div>
+    </div>
+    <h3 class="unter">Alle Fraktionen im Vergleich</h3>
+    <div class="tabelle"><table id="t-alle"></table></div>
+  </section>
+
+  <section id="zusammenarbeit">
+    <h2>Mit wem die Fraktionen Vorstösse einreichen</h2>
+    <p class="lead">Anteil der eigenen Vorstösse, die mindestens ein Ratsmitglied der jeweiligen Partei mitunterzeichnet hat. Ein hoher Wert bei SP oder Grünen zeigt Allianzen über die Lager hinweg.</p>
+    <div class="legende"><span><i style="background:var(--fdp)"></i>Vorstösse der FDP</span><span><i style="background:var(--ldp)"></i>Vorstösse der LDP</span></div>
+    <div class="bars" id="bars-mit"></div>
+    <p class="klein" id="allein"></p>
+  </section>
+
+  <section id="liste">
+    <h2>Alle Vorstösse von FDP und LDP</h2>
+    <div class="filter">
+      <label>Partei<select id="f-v-partei"><option value="">FDP und LDP</option><option>FDP</option><option>LDP</option></select></label>
+      <label>Art<select id="f-v-typ"></select></label>
+      <label>Thema<select id="f-v-thema"></select></label>
+      <label>Suche<input id="f-v-suche" type="search" placeholder="Stichwort oder Name"></label>
+    </div>
+    <div class="tabelle"><table id="t-vorstoesse"></table></div>
+    <div class="mehr" id="mehr-vorstoesse"></div>
+  </section>
+
+  <section id="ideen">
+    <h2>Was noch dazukommen könnte</h2>
+    <p class="lead">Diese Auswertungen würden den Unterschied zwischen FDP und LDP noch deutlicher zeigen. Die meisten Daten sind öffentlich verfügbar.</p>
+    <div class="ideen">
+      <div class="idee"><h3>Zustimmung zu Ausgaben</h3><p>Wie oft haben FDP und LDP neuen Ausgaben zugestimmt, und um welche Beträge ging es? Die Daten dafür liegen auf der Seite «Was der Grosse Rat ausgibt» bereits vor und lassen sich hier direkt gegenüberstellen.</p><p class="quelle">Quelle: eigene Ausgabenübersicht</p></div>
+      <div class="idee"><h3>Interessenbindungen</h3><p>In welchen Branchen und Organisationen sitzen die Ratsmitglieder? Ein Vergleich nach Gewerbe, Finanz, Stiftungen, Kultur und Verbänden zeigt, wo die beiden Fraktionen verankert sind.</p><p class="quelle">Quelle: data.bs.ch, Datensatz 100309</p></div>
+      <div class="idee"><h3>Parolen bei Abstimmungen</h3><p>Kantonale und eidgenössische Parolen beider Parteien seit 2021 nebeneinander, mit den Fällen, in denen sie sich nicht einig waren.</p><p class="quelle">Quelle: Parteiwebsites, Medienmitteilungen</p></div>
+      <div class="idee"><h3>Wählerschaft nach Quartier</h3><p>Die Grossratswahlen 2020 und 2024 nach Wahlkreis und Wahllokal: Wo holen FDP und LDP ihre Stimmen, und wo überschneiden sie sich?</p><p class="quelle">Quelle: data.bs.ch, Wahlresultate 2020 und 2024</p></div>
+      <div class="idee"><h3>Smartvote-Profile</h3><p>Die Smartspider der Kandidierenden 2024 zeigen, in welchen Politikfeldern die Positionen auseinandergehen, etwa bei Umwelt, Finanzen oder Gesellschaft.</p><p class="quelle">Quelle: smartvote.ch</p></div>
+      <div class="idee"><h3>Kommissionsarbeit</h3><p>Präsidien, Sitze und Minderheitsanträge in den Kommissionen. Hier fällt viel Politik, bevor ein Geschäft in den Rat kommt.</p><p class="quelle">Quelle: data.bs.ch, Datensätze 100308 und 100310</p></div>
+      <div class="idee"><h3>Wortmeldungen im Rat</h3><p>Wer spricht wie oft zu welchen Themen? Die Ratsprotokolle zeigen, welche Fraktion in der Debatte sichtbar ist.</p><p class="quelle">Quelle: Ratsprotokolle grosserrat.bs.ch</p></div>
+      <div class="idee"><h3>Präsenz in den Medien</h3><p>Nennungen in bz, BaZ und Prime News sowie Medienmitteilungen pro Monat und Thema. Damit lässt sich prüfen, ob die Themen der Vorstösse auch öffentlich wahrgenommen werden.</p><p class="quelle">Quelle: Medienbeobachtung, eigene Ablage</p></div>
+    </div>
+  </section>
+
+  <section id="methode" class="methode">
+    <h2>So entstehen die Zahlen</h2>
+    <p>Grundlage sind die offenen Daten des Grossen Rates auf data.bs.ch: Geschäfte (100311), Vorgänge (100314), Abstimmungsergebnisse pro Ratsmitglied (100186) und Ratsmitgliedschaften (100307). Die Legislatur 2021–2025 dauerte vom 1. Februar 2021 bis zum 31. Januar 2025, die laufende begann am 1. Februar 2025.</p>
+    <p>Für das Stimmverhalten zählt die Mehrheit der anwesenden Fraktionsmitglieder in jeder einzelnen Abstimmung. Präsenzkontrollen und Wahlen sind ausgenommen. Steht es in einer Fraktion unentschieden, gilt sie als geteilt und fällt aus dem Vergleich. Die Fraktion Mitte-EVP ist als Mitte aufgeführt.</p>
+    <p>Ein Vorstoss zählt zur Partei der Person, die ihn als Erste unterzeichnet hat. Mitgezählt sind Motionen, Anzüge, Planungsanzüge, Budgetpostulate, Interpellationen, Schriftliche Anfragen, Resolutionen und Standesinitiativen von Ratsmitgliedern. Vorstösse von Kommissionen fehlen.</p>
+    <p>Jedes Geschäft hat ein Hauptthema. Es wird aus dem Titel bestimmt und, wo vorhanden, aus dem Thema, das der Parlamentsdienst vergeben hat. Die Zuordnung ist automatisch und kann im Einzelfall danebenliegen. Korrekturen sind in der Datei themen-korrekturen.csv möglich.</p>
+    <p>Die Seite ist nicht für die Öffentlichkeit bestimmt und wird von Suchmaschinen nicht erfasst.</p>
+  </section>
+</main>
+<footer><div class="wrap">
+  <div><strong>FDP.Die Liberalen Basel-Stadt</strong><br>Interne Analyse<br><a href="https://www.fdp-bs.ch">www.fdp-bs.ch</a></div>
+  <div><strong>Datenquelle</strong><br>Grosser Rat des Kantons Basel-Stadt, <a href="https://grosserrat.bs.ch">grosserrat.bs.ch</a><br>Open Data Basel-Stadt, <a href="https://data.bs.ch">data.bs.ch</a> (CC BY)</div>
+  <div><strong>Stand</strong><br><span id="fuss-stand"></span></div>
+</div></footer>
+<script>
+const D = /*DATA*/null;
+const GR = "https://grosserrat.bs.ch/?gnr=";
+const MON = ["Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"];
+const fmtDatum = s => { if(!s) return ""; const [y,m,d] = s.split("-"); return `${+d}. ${MON[+m-1]} ${y}`; };
+const kurz = s => { if(!s) return ""; const [y,m,d] = s.split("-"); return `${d}.${m}.${y}`; };
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const pct = (a,b) => b ? Math.round(1000*a/b)/10 : null;
+const fp = v => v == null ? "–" : v.toLocaleString("de-CH",{maximumFractionDigits:1}) + " %";
+const zahl = n => (n||0).toLocaleString("de-CH");
+const ANDERE = p => D.parteien.filter(q => q !== p);
+
+const LEGS = [{id:"alle", label:"Beide Legislaturen"}, ...D.legislaturen.slice().reverse().map(l => ({id:l.id, label:"Legislatur " + l.label + (l.id === D.legislaturen.at(-1).id ? " (bis heute)" : "")}))];
+const fLeg = document.getElementById("f-leg");
+fLeg.innerHTML = LEGS.map(l => `<option value="${l.id}">${esc(l.label)}</option>`).join("");
+let L = "alle";
+const legIds = () => L === "alle" ? D.legislaturen.map(l => l.id) : [L];
+const inLeg = x => L === "alle" || x.leg === L;
+
+// Zählpaare [a,b] über die gewählten Legislaturen zusammenzählen
+function paar(get){ let a=0,b=0; for (const id of legIds()){ const s = D.abstimmungen[id]; if(!s) continue; const v = get(s); if(v){a+=v[0];b+=v[1];} } return [a,b]; }
+function abstAnzahl(key){ return legIds().reduce((s,id) => s + ((D.abstimmungen[id]||{})[key]||0), 0); }
+
+document.getElementById("stand").textContent = D.letzte_abstimmung ? `Abstimmungen bis ${fmtDatum(D.letzte_abstimmung)}, Daten abgerufen am ${D.stand}.` : "";
+document.getElementById("fuss-stand").textContent = `Daten abgerufen am ${D.stand}`;
+
+// Auswahllisten
+const themenOpt = '<option value="">Alle Themen</option>' + D.themen.map(t => `<option>${esc(t)}</option>`).join("");
+document.getElementById("f-d-thema").innerHTML = themenOpt;
+document.getElementById("f-v-thema").innerHTML = themenOpt;
+const typen = [...new Set(D.vorstoesse.map(v => v.typ))].sort();
+document.getElementById("f-v-typ").innerHTML = '<option value="">Alle Arten</option>' + typen.map(t => `<option>${esc(t)}</option>`).join("");
+
+function barPaar(name, vf, vl, tf, tl){
+  const w = v => v == null ? 0 : Math.max(0, Math.min(100, v));
+  return `<div class="name">${esc(name)}</div><div class="paar">
+    <div class="bar fdp" title="${esc(tf||"")}"><i style="width:${w(vf)*0.8}%"></i><b>${fp(vf)}</b></div>
+    ${vl === undefined ? "" : `<div class="bar ldp" title="${esc(tl||"")}"><i style="width:${w(vl)*0.8}%"></i><b>${fp(vl)}</b></div>`}</div>`;
+}
+
+function zeichneKacheln(){
+  const ein = paar(s => s.ueberein.FDP.LDP);
+  const diffs = D.differenzen.filter(inLeg);
+  const vor = p => D.vorstoesse.filter(v => inLeg(v) && v.partei === p).length;
+  const sitzeTxt = p => { const s = legIds().map(id => (D.sitze[id]||{})[p]).filter(Boolean); return s.length ? s.join(" / ") + " Sitze" : ""; };
+  document.getElementById("kacheln").innerHTML = [
+    [fp(pct(...ein)), `gleiche Haltung von FDP und LDP in ${zahl(ein[1])} Abstimmungen`],
+    [zahl(diffs.length), `Abstimmungen mit unterschiedlicher Haltung, ${diffs.filter(d => d.knapp).length} davon entscheidend`],
+    [zahl(vor("FDP")), `Vorstösse der FDP (${sitzeTxt("FDP")})`],
+    [zahl(vor("LDP")), `Vorstösse der LDP (${sitzeTxt("LDP")})`],
+  ].map(([z,w]) => `<div class="kachel"><div class="zahl">${z}</div><div class="was">${esc(w)}</div></div>`).join("");
+}
+
+function zeichneStimmverhalten(){
+  const rows = D.parteien.filter(q => q !== "FDP" && q !== "LDP");
+  const ff = paar(s => s.ueberein.FDP.LDP);
+  let html = barPaar("FDP und LDP", pct(...ff), undefined, `${ff[0]} von ${ff[1]}`);
+  html += rows.map(q => {
+    const f = paar(s => s.ueberein.FDP[q]), l = paar(s => s.ueberein.LDP[q]);
+    if (!f[1] && !l[1]) return "";
+    return barPaar(q === "Mitte" ? "Mitte-EVP" : q, pct(...f), pct(...l), `FDP: ${f[0]} von ${f[1]}`, `LDP: ${l[0]} von ${l[1]}`);
+  }).join("");
+  document.getElementById("bars-ueberein").innerHTML = html;
+  const dl = (id, key) => {
+    document.getElementById(id).innerHTML = '<dt class="kopfzeile">Fraktion</dt><dd class="kopfzeile">Anteil</dd><dd class="kopfzeile">Abst.</dd>' +
+      D.parteien.filter(p => paar(s => s[key][p])[1]).map(p => { const v = paar(s => s[key][p]); const st = (p==="FDP"||p==="LDP") ? ' style="color:var(--blau)"' : "";
+        return `<dt${st}>${p==="FDP"||p==="LDP" ? "<b>"+p+"</b>" : (p==="Mitte" ? "Mitte-EVP" : p)}</dt><dd>${fp(pct(...v))}</dd><dd class="klein">${zahl(v[1])}</dd>`; }).join("");
+  };
+  dl("dl-geschlossen", "geschlossen"); dl("dl-gewinner", "gewinner");
+}
+
+let diffLimit = 40;
+function zeichneDifferenzen(){
+  const D2 = D.differenzen.filter(inLeg);
+  const nAbst = abstAnzahl("abstimmungen"), nBeide = abstAnzahl("beide");
+  const fdpSieg = D2.filter(d => d.gewinnt === "FDP").length;
+  document.getElementById("diff-lead").textContent =
+    `In ${zahl(nAbst)} Abstimmungen haben FDP und LDP ${zahl(nBeide)} Mal beide eine klare Mehrheit gebildet. In ${zahl(D2.length)} Fällen lagen sie auseinander. ` +
+    `Davon stand die FDP ${zahl(fdpSieg)} Mal auf der Seite der Ratsmehrheit, die LDP ${zahl(D2.length - fdpSieg)} Mal.`;
+  // nach Thema
+  const t = {};
+  for (const id of legIds()){ const pt = (D.abstimmungen[id]||{}).pro_thema || {}; for (const [k,v] of Object.entries(pt)){ t[k] = t[k] || {n:0,einig:0}; t[k].n += v.n; t[k].einig += v.einig; } }
+  const zeilen = D.themen.filter(k => t[k] && t[k].n).map(k => ({k, n:t[k].n, d:t[k].n - t[k].einig, q:pct(t[k].einig, t[k].n)}))
+    .sort((a,b) => (a.q ?? 101) - (b.q ?? 101));
+  document.getElementById("t-diff-thema").innerHTML =
+    '<thead><tr><th>Thema</th><th class="num">Abstimmungen</th><th class="num">unterschiedlich</th><th class="num">gleiche Haltung</th><th style="min-width:180px"></th></tr></thead><tbody>' +
+    zeilen.map(z => `<tr><td>${esc(z.k)}</td><td class="num">${zahl(z.n)}</td><td class="num"><b>${zahl(z.d)}</b></td><td class="num">${fp(z.q)}</td>
+      <td><div class="bar ldp"><i style="width:${(100 - (z.q||0))*1.5}%;background:var(--magenta)"></i></div></td></tr>`).join("") + "</tbody>";
+  // Liste
+  const th = document.getElementById("f-d-thema").value, gw = document.getElementById("f-d-gewinnt").value;
+  const q = document.getElementById("f-d-suche").value.trim().toLowerCase(), kn = document.getElementById("f-d-knapp").checked;
+  const liste = D2.filter(d => (!th || d.thema === th) && (!gw || d.gewinnt === gw) && (!kn || d.knapp) && (!q || (d.titel + " " + d.sig).toLowerCase().includes(q)));
+  const pos = (z) => `<span class="chip ${z.pos}" title="${z.J} Ja, ${z.N} Nein, ${z.E} Enthaltungen">${z.pos === "J" ? "Ja" : z.pos === "N" ? "Nein" : "geteilt"}</span> <span class="klein">${z.J}:${z.N}</span>`;
+  document.getElementById("t-diff").innerHTML =
+    '<thead><tr><th>Datum</th><th>Geschäft</th><th>Thema</th><th class="p">FDP</th><th class="p">LDP</th><th class="p">Rat</th><th class="p">Mehrheitsseite</th></tr></thead><tbody>' +
+    liste.slice(0, diffLimit).map(d => `<tr><td class="num">${kurz(d.datum)}</td>
+      <td class="g">${d.sig ? `<a href="${GR}${esc(d.sig)}" target="_blank" rel="noopener">${esc(d.titel || d.sig)}</a>` : esc(d.titel)}<br><span class="klein">${esc(d.typ)}${d.knapp ? ' · <span class="chip knapp">entscheidend</span>' : ""}</span></td>
+      <td class="klein">${esc(d.thema)}</td><td class="p">${pos(d.fdp)}</td><td class="p">${pos(d.ldp)}</td>
+      <td class="p klein">${d.angenommen ? "angenommen" : "abgelehnt"}<br>${d.ja}:${d.nein}</td><td class="p"><b>${d.gewinnt}</b></td></tr>`).join("") +
+    (liste.length ? "" : '<tr><td colspan="7" class="klein">Keine Abstimmungen für diese Auswahl.</td></tr>') + "</tbody>";
+  document.getElementById("mehr-diff").innerHTML = liste.length > diffLimit
+    ? `<span class="klein">${diffLimit} von ${liste.length} angezeigt.</span> <button class="link" id="b-diff">Alle anzeigen</button>` : `<span class="klein">${liste.length} Abstimmungen</span>`;
+  const b = document.getElementById("b-diff"); if (b) b.onclick = () => { diffLimit = 1e6; zeichneDifferenzen(); };
+}
+
+function zeichneThemen(){
+  const V = D.vorstoesse.filter(inLeg);
+  const n = p => V.filter(v => v.partei === p).length;
+  const nF = n("FDP"), nL = n("LDP");
+  const alle = {}; let nAlle = 0;
+  for (const id of legIds()){ const ta = D.themen_alle[id] || {}; for (const p of Object.keys(ta)) for (const [k,c] of Object.entries(ta[p])){ alle[k] = (alle[k]||0) + c; nAlle += c; } }
+  const z = D.themen.map(k => {
+    const f = V.filter(v => v.partei === "FDP" && v.thema === k).length, l = V.filter(v => v.partei === "LDP" && v.thema === k).length;
+    return {k, f, l, pf: pct(f, nF), pl: pct(l, nL), pa: pct(alle[k]||0, nAlle)};
+  }).filter(x => x.f || x.l).sort((a,b) => ((b.pf||0) - (b.pl||0)) - ((a.pf||0) - (a.pl||0)));
+  const max = Math.max(1, ...z.map(x => Math.max(x.pf||0, x.pl||0, x.pa||0)));
+  const w = v => ((v||0)/max*100).toFixed(1);
+  document.getElementById("t-themen").innerHTML =
+    `<thead><tr><th>Thema</th><th style="min-width:260px">Anteil an den eigenen Vorstössen</th><th class="num">FDP</th><th class="num">LDP</th><th class="num">FDP minus LDP</th></tr></thead><tbody>` +
+    z.map(x => { const d = Math.round(((x.pf||0) - (x.pl||0))*10)/10;
+      return `<tr><td>${esc(x.k)}</td><td><div style="position:relative">
+        <div class="bar fdp"><i style="width:${w(x.pf)}%"></i><b>${fp(x.pf)}</b></div>
+        <div class="bar ldp"><i style="width:${w(x.pl)}%"></i><b>${fp(x.pl)}</b></div>
+        <div title="alle Fraktionen: ${fp(x.pa)}" style="position:absolute;top:0;bottom:0;left:${w(x.pa)}%;width:3px;background:var(--magenta)"></div></div></td>
+        <td class="num">${x.f}</td><td class="num">${x.l}</td>
+        <td class="num ${d > 0 ? "diff-pos" : "diff-neg"}">${d > 0 ? "+" : ""}${d.toLocaleString("de-CH")} Pt.</td></tr>`; }).join("") +
+    `<tr><td><b>Total</b></td><td></td><td class="num"><b>${nF}</b></td><td class="num"><b>${nL}</b></td><td></td></tr></tbody>`;
+}
+
+function zeichneArten(){
+  const V = D.vorstoesse.filter(inLeg);
+  const sitze = p => legIds().map(id => (D.sitze[id]||{})[p] || 0);
+  const proSitz = p => { const s = sitze(p); const avg = s.reduce((a,b)=>a+b,0)/Math.max(1,s.filter(Boolean).length); return avg ? V.filter(v => v.partei === p).length / avg : null; };
+  document.getElementById("arten-lead").textContent =
+    `Die FDP hatte zu Beginn der Legislatur ${sitze("FDP").join(" bzw. ")} Sitze, die LDP ${sitze("LDP").join(" bzw. ")}. ` +
+    `Pro Sitz hat die FDP ${proSitz("FDP")?.toLocaleString("de-CH",{maximumFractionDigits:1}) ?? "–"} Vorstösse eingereicht, die LDP ${proSitz("LDP")?.toLocaleString("de-CH",{maximumFractionDigits:1}) ?? "–"}.`;
+  const ts = [...new Set(V.map(v => v.typ))].sort((a,b) => V.filter(v=>v.typ===b).length - V.filter(v=>v.typ===a).length);
+  document.getElementById("dl-arten").innerHTML = '<dt class="kopfzeile">Art</dt><dd class="kopfzeile">FDP</dd><dd class="kopfzeile">LDP</dd>' +
+    ts.map(t => `<dt>${esc(t)}</dt><dd>${V.filter(v => v.typ===t && v.partei==="FDP").length}</dd><dd>${V.filter(v => v.typ===t && v.partei==="LDP").length}</dd>`).join("");
+  const erg = ["überwiesen","abgelehnt","zurückgezogen","offen"];
+  const MA = V.filter(v => ["Motion","Anzug","Planungsanzug"].includes(v.typ));
+  const n = (p,e) => MA.filter(v => v.partei === p && v.ergebnis === e).length;
+  const tot = p => MA.filter(v => v.partei === p).length;
+  document.getElementById("dl-erfolg").innerHTML = '<dt class="kopfzeile"></dt><dd class="kopfzeile">FDP</dd><dd class="kopfzeile">LDP</dd>' +
+    erg.map(e => `<dt>${e}</dt><dd>${n("FDP",e)}</dd><dd>${n("LDP",e)}</dd>`).join("") +
+    `<dt><b>Überweisungsquote</b> <span class="klein">(ohne offene)</span></dt><dd>${fp(pct(n("FDP","überwiesen"), tot("FDP") - n("FDP","offen")))}</dd><dd>${fp(pct(n("LDP","überwiesen"), tot("LDP") - n("LDP","offen")))}</dd>`;
+  // alle Fraktionen
+  const agg = {}; for (const p of D.parteien) agg[p] = {total:0, typen:{}, sitze:0};
+  for (const id of legIds()){ const z = D.vorstoss_zahlen[id] || {}; for (const p of D.parteien){ const x = z[p]; if(!x) continue; agg[p].total += x.total; agg[p].sitze += x.sitze||0; for (const [t,c] of Object.entries(x.typen)) agg[p].typen[t] = (agg[p].typen[t]||0) + c; } }
+  const nl = legIds().length;
+  const haupt = ["Motion","Anzug","Interpellation","Schriftliche Anfrage","Budgetpostulat"];
+  document.getElementById("t-alle").innerHTML = `<thead><tr><th>Fraktion</th><th class="num">Sitze</th><th class="num">Vorstösse</th><th class="num">pro Sitz</th>${haupt.map(h => `<th class="num">${h}</th>`).join("")}</tr></thead><tbody>` +
+    D.parteien.map(p => { const a = agg[p], s = a.sitze / nl; const b = (p==="FDP"||p==="LDP");
+      return `<tr${b ? ' style="background:#f3f7fc"' : ""}><td>${b ? "<b>"+p+"</b>" : p}</td><td class="num">${s ? s.toLocaleString("de-CH",{maximumFractionDigits:1}) : "–"}</td><td class="num">${a.total}</td><td class="num">${s ? (a.total/s).toLocaleString("de-CH",{maximumFractionDigits:1}) : "–"}</td>${haupt.map(h => `<td class="num">${a.typen[h]||0}</td>`).join("")}</tr>`; }).join("") +
+    `</tbody>`;
+}
+
+function zeichneZusammenarbeit(){
+  const V = D.vorstoesse.filter(inLeg);
+  const anteil = (p, q) => { const eig = V.filter(v => v.partei === p); return [eig.filter(v => (v.mit_parteien||[]).includes(q)).length, eig.length]; };
+  document.getElementById("bars-mit").innerHTML = D.parteien.map(q => {
+    const f = q === "FDP" ? null : anteil("FDP", q), l = q === "LDP" ? null : anteil("LDP", q);
+    return barPaar(q, f ? pct(...f) : null, l ? pct(...l) : null, f ? `${f[0]} von ${f[1]} FDP-Vorstössen` : "", l ? `${l[0]} von ${l[1]} LDP-Vorstössen` : "");
+  }).join("");
+  const allein = p => { const eig = V.filter(v => v.partei === p); return [eig.filter(v => !(v.mit_parteien||[]).some(q => q !== p)).length, eig.length]; };
+  const af = allein("FDP"), al = allein("LDP");
+  document.getElementById("allein").textContent = `Ohne Mitunterzeichnende aus anderen Parteien: FDP ${fp(pct(...af))} (${af[0]} von ${af[1]}), LDP ${fp(pct(...al))} (${al[0]} von ${al[1]}). Interpellationen und Schriftliche Anfragen haben meist keine Mitunterzeichnenden.`;
+}
+
+let vLimit = 50;
+function zeichneVorstoesse(){
+  const p = document.getElementById("f-v-partei").value, t = document.getElementById("f-v-typ").value, th = document.getElementById("f-v-thema").value;
+  const q = document.getElementById("f-v-suche").value.trim().toLowerCase();
+  const V = D.vorstoesse.filter(v => inLeg(v) && (!p || v.partei === p) && (!t || v.typ === t) && (!th || v.thema === th) && (!q || (v.titel + " " + v.urheber + " " + v.sig).toLowerCase().includes(q)));
+  document.getElementById("t-vorstoesse").innerHTML = '<thead><tr><th>Eingang</th><th>Vorstoss</th><th>Thema</th><th class="p">Partei</th><th>Ergebnis</th></tr></thead><tbody>' +
+    V.slice(0, vLimit).map(v => `<tr><td class="num">${kurz(v.datum)}</td><td class="g"><a href="${GR}${esc(v.sig)}" target="_blank" rel="noopener">${esc(v.titel)}</a><br><span class="klein">${esc(v.sig)} · ${esc(v.urheber)}${(v.mit_parteien||[]).length ? " · mit " + [...new Set(v.mit_parteien)].join(", ") : ""}</span></td>
+      <td class="klein">${esc(v.thema)}</td><td class="p"><b>${v.partei}</b></td><td class="klein">${esc(v.ergebnis || "")}</td></tr>`).join("") +
+    (V.length ? "" : '<tr><td colspan="5" class="klein">Keine Vorstösse für diese Auswahl.</td></tr>') + "</tbody>";
+  document.getElementById("mehr-vorstoesse").innerHTML = V.length > vLimit
+    ? `<span class="klein">${vLimit} von ${V.length} angezeigt.</span> <button class="link" id="b-v">Alle anzeigen</button>` : `<span class="klein">${V.length} Vorstösse</span>`;
+  const b = document.getElementById("b-v"); if (b) b.onclick = () => { vLimit = 1e6; zeichneVorstoesse(); };
+}
+
+function alles(){ zeichneKacheln(); zeichneStimmverhalten(); zeichneDifferenzen(); zeichneThemen(); zeichneArten(); zeichneZusammenarbeit(); zeichneVorstoesse(); }
+fLeg.addEventListener("change", () => { L = fLeg.value; diffLimit = 40; vLimit = 50; alles(); });
+["f-d-thema","f-d-gewinnt","f-d-knapp"].forEach(id => document.getElementById(id).addEventListener("change", () => { diffLimit = 40; zeichneDifferenzen(); }));
+document.getElementById("f-d-suche").addEventListener("input", () => { diffLimit = 40; zeichneDifferenzen(); });
+["f-v-partei","f-v-typ","f-v-thema"].forEach(id => document.getElementById(id).addEventListener("change", () => { vLimit = 50; zeichneVorstoesse(); }));
+document.getElementById("f-v-suche").addEventListener("input", () => { vLimit = 50; zeichneVorstoesse(); });
+alles();
+</script>
+</body>
+</html>

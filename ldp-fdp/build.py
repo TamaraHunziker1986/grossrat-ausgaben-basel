@@ -1,0 +1,475 @@
+#!/usr/bin/env python3
+"""Vergleich FDP und LDP im Grossen Rat Basel-Stadt, Legislaturen 2021-2025 und 2025-2029.
+
+Quellen (Open Data Basel-Stadt, data.bs.ch):
+  100311 Grosser Rat: Geschäfte                -> Vorstösse, Urheber, Miturheber
+  100314 Grosser Rat: Vorgänge von Geschäften  -> Überweisung oder Nichtüberweisung
+  100186 Grosser Rat: Abstimmungsergebnisse    -> Stimmen der einzelnen Ratsmitglieder
+  100307 Grosser Rat: Ratsmitgliedschaften     -> Sitze pro Partei
+  100086 Grosser Rat: Geschäfte mit Themen     -> Themen des Parlamentsdienstes (bis 2024)
+
+Die Themen werden zusätzlich per Stichwort aus dem Titel bestimmt (themen.py).
+Falsch zugeordnete Geschäfte lassen sich in themen-korrekturen.csv richtigstellen.
+
+Läuft mit der Python-Standardbibliothek. Aufruf: python ldp-fdp/build.py
+"""
+import csv
+import datetime as dt
+import json
+import re
+import sys
+import time
+import urllib.parse
+import urllib.request
+from collections import Counter, defaultdict
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from themen import THEMEN, thema_von  # noqa: E402
+
+HIER = Path(__file__).resolve().parent
+ROOT = HIER.parent
+OUT = ROOT / "docs" / "ldp-fdp"
+PRUEF = HIER / "pruefliste.md"
+API = "https://data.bs.ch/api/explore/v2.1/catalog/datasets"
+GR = "https://grosserrat.bs.ch"
+UA = "grossrat-ausgaben-basel/ldp-fdp (GitHub Actions; FDP Basel-Stadt)"
+
+LEGISLATUREN = [
+    {"id": "2021", "label": "2021–2025", "von": "2021-02-01", "bis": "2025-01-31"},
+    {"id": "2025", "label": "2025–2029", "von": "2025-02-01", "bis": "2029-01-31"},
+]
+START = LEGISLATUREN[0]["von"]
+PARTEIEN = ["FDP", "LDP", "SVP", "Mitte", "EVP", "GLP", "SP", "Grüne", "BastA!"]
+VORSTOSS_TYPEN = ["Motion", "Anzug", "Budgetpostulat", "Interpellation", "Schriftliche Anfrage",
+                  "Planungsanzug", "Resolution", "Standesinitiative"]
+TYP_RE = re.compile(r"^\s*(" + "|".join(VORSTOSS_TYPEN) + r")\b", re.I)
+
+# Für Tests lässt sich export() ersetzen (siehe test_build.py)
+EXPORT_HOOK = None
+
+
+# ---------------------------------------------------------------- Hilfsfunktionen
+
+def http(url, tries=6):
+    for i in range(tries):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": UA})
+            with urllib.request.urlopen(req, timeout=300) as r:
+                return r.read().decode("utf-8")
+        except Exception as e:  # noqa: BLE001
+            if i == tries - 1:
+                raise
+            print(f"  Fehler bei {url[:160]}: {e}, neuer Versuch", file=sys.stderr)
+            time.sleep(min(60, 5 * 2 ** i))
+
+
+def export(dataset, where, select=None):
+    if EXPORT_HOOK:
+        return EXPORT_HOOK(dataset, where, select)
+    q = {"where": where, "lang": "de", "timezone": "Europe/Zurich"}
+    if select:
+        q["select"] = select
+    url = f"{API}/{dataset}/exports/json?" + urllib.parse.urlencode(q)
+    rows = json.loads(http(url))
+    print(f"  {dataset}: {len(rows)} Zeilen ({where[:70]})", file=sys.stderr)
+    return rows
+
+
+def in_list(field, values):
+    vals = ",".join('"' + v.replace('"', "") + '"' for v in values)
+    return f"{field} in ({vals})"
+
+
+def chunks(seq, n):
+    seq = list(seq)
+    for i in range(0, len(seq), n):
+        yield seq[i:i + n]
+
+
+def day(value):
+    return str(value or "")[:10]
+
+
+def leg_von(datum):
+    d = day(datum)
+    for leg in LEGISLATUREN:
+        if leg["von"] <= d <= leg["bis"]:
+            return leg["id"]
+    return None
+
+
+def partei_norm(p):
+    s = (p or "").strip().lower()
+    if not s:
+        return None
+    if "glp" in s or "grünlib" in s or "gruenlib" in s:
+        return "GLP"
+    if "basta" in s:
+        return "BastA!"
+    if "jgb" in s or "junges grünes" in s or "grün" in s or "gruen" in s or s == "gab":
+        return "Grüne"
+    if s.startswith("sp") or "sozialdem" in s:
+        return "SP"
+    if "mitte" in s or "cvp" in s:
+        return "Mitte"  # Fraktion Mitte-EVP wird als Mitte geführt
+    if "evp" in s:
+        return "EVP"
+    if "fdp" in s or "freisinn" in s:
+        return "FDP"
+    if "ldp" in s or "liberal-demo" in s:
+        return "LDP"
+    if "svp" in s:
+        return "SVP"
+    return None
+
+
+def fraktion_norm(f):
+    """Fraktionen im Abstimmungsdatensatz. Grüne und BastA! werden getrennt geführt, wo möglich."""
+    return partei_norm(f)
+
+
+def zahl(v):
+    try:
+        return int(float(v))
+    except (TypeError, ValueError):
+        return 0
+
+
+def lade_korrekturen():
+    pfad = HIER / "themen-korrekturen.csv"
+    k = {}
+    if pfad.exists():
+        with pfad.open(encoding="utf-8") as f:
+            for row in csv.DictReader(r for r in f if not r.startswith("#")):
+                sig, th = (row.get("signatur") or "").strip(), (row.get("thema") or "").strip()
+                if sig and th:
+                    k[sig] = th
+    return k
+
+
+# ---------------------------------------------------------------- Laden
+
+def lade_themen_parlamentsdienst():
+    """Themen, die der Parlamentsdienst selbst vergeben hat (Datensatz 100086)."""
+    try:
+        rows = export("100086", "signatur is not null", "signatur,thema_1,thema_2")
+    except Exception as e:  # noqa: BLE001
+        print(f"  Themen 100086 nicht verfügbar: {e}", file=sys.stderr)
+        return {}
+    return {r["signatur"].strip(): " / ".join(x for x in (r.get("thema_1"), r.get("thema_2")) if x)
+            for r in rows if r.get("signatur") and r.get("thema_1")}
+
+
+def lade_sitze():
+    """Sitze pro Partei am ersten Tag jeder Legislatur."""
+    rows = export("100307", f'gr_ende>="{START}" or gr_ende is null',
+                  "uni_nr,name_vorname,partei_kname,partei,gr_beginn,gr_ende")
+    sitze, partei_von = {}, {}
+    for leg in LEGISLATUREN:
+        stichtag = (dt.date.fromisoformat(leg["von"]) + dt.timedelta(days=14)).isoformat()
+        c = Counter()
+        gesehen = set()
+        for m in rows:
+            b, e = day(m.get("gr_beginn")), day(m.get("gr_ende"))
+            if b and b <= stichtag and (not e or e >= stichtag) and m.get("uni_nr") not in gesehen:
+                gesehen.add(m.get("uni_nr"))
+                p = partei_norm(m.get("partei_kname") or m.get("partei"))
+                if p:
+                    c[p] += 1
+        sitze[leg["id"]] = dict(c)
+    for m in rows:
+        p = partei_norm(m.get("partei_kname") or m.get("partei"))
+        if p and m.get("uni_nr"):
+            partei_von[str(m["uni_nr"])] = p
+    return sitze, partei_von
+
+
+def lade_vorstoesse(partei_von, themen_pd, korrekturen):
+    rows = export("100311", f'beginn_ges>="{START}"',
+                  "beginn_ges,signatur_ges,titel_ges,ga_rr_gr,status_ges,departement_ges,gremientyp_urheber,"
+                  "name_vorname_urheber,vorname_urheber,partei_kname_urheber,nr_urheber,"
+                  "name_vorname_miturheber,partei_kname_miturheber,nr_miturheber")
+    ges = {}
+    for g in rows:
+        sig = g.get("signatur_ges")
+        if not sig:
+            continue
+        titel = (g.get("titel_ges") or "").strip()
+        typ = None
+        for t in VORSTOSS_TYPEN:
+            if (g.get("ga_rr_gr") or "").strip().lower() == t.lower():
+                typ = t
+        if not typ:
+            m = TYP_RE.match(titel)
+            typ = next((t for t in VORSTOSS_TYPEN if m and m.group(1).lower() == t.lower()), None)
+        if not typ:
+            continue
+        if g.get("gremientyp_urheber") and g.get("gremientyp_urheber") not in ("Mitglied", ""):
+            continue  # Vorstösse von Kommissionen
+        e = ges.get(sig)
+        if not e:
+            partei = partei_norm(g.get("partei_kname_urheber")) or partei_von.get(str(g.get("nr_urheber") or ""))
+            leg = leg_von(g.get("beginn_ges"))
+            if not leg:
+                continue
+            e = ges[sig] = {
+                "sig": sig, "titel": titel, "typ": typ, "datum": day(g.get("beginn_ges")), "leg": leg,
+                "urheber": g.get("name_vorname_urheber") or g.get("vorname_urheber") or "",
+                "partei": partei, "status": g.get("status_ges") or "", "dep": g.get("departement_ges") or "",
+                "mit": [], "mit_parteien": [],
+            }
+        mn = g.get("name_vorname_miturheber")
+        if mn and mn not in e["mit"]:
+            e["mit"].append(mn)
+            mp = partei_norm(g.get("partei_kname_miturheber")) or partei_von.get(str(g.get("nr_miturheber") or ""))
+            if mp:
+                e["mit_parteien"].append(mp)
+    for e in ges.values():
+        e["thema"] = korrekturen.get(e["sig"]) or thema_von(e["titel"], themen_pd.get(e["sig"]))
+        e["thema_pd"] = themen_pd.get(e["sig"], "")
+    return ges
+
+
+UEBERWIESEN = re.compile(r"^(Teilweise )?Überweisung (als (Motion|Anzug|Planungsanzug)|an (den )?RR(?! zur Stellungnahme))"
+                         r"|^Stehenlassen|^Stehen lassen|^Zustimmung", re.I)
+ABGELEHNT = re.compile(r"Nichtüberweisung|nicht überwiesen|^Ablehnung|nicht zugestimmt|abgelehnt", re.I)
+ZURUECK = re.compile(r"zurückgezogen|Rückzug", re.I)
+
+
+def lade_ergebnisse(ges):
+    """Ob Motionen, Anzüge und Budgetpostulate überwiesen wurden."""
+    sigs = [s for s, e in ges.items() if e["typ"] in ("Motion", "Anzug", "Planungsanzug", "Budgetpostulat")]
+    vermerke = defaultdict(list)
+    for part in chunks(sorted(sigs), 80):
+        for v in export("100314", in_list("signatur_ges", part), "siz_datum,signatur_ges,vermerk"):
+            vermerke[v["signatur_ges"]].append((day(v.get("siz_datum")), (v.get("vermerk") or "").strip()))
+    alle_vermerke = Counter()
+    for s in sigs:
+        vs = sorted(vermerke.get(s, []))
+        for _, txt in vs:
+            alle_vermerke[re.sub(r"\d{1,2}\.\d{1,2}\.\d{4}", "DATUM", txt)] += 1
+        erg = "offen"
+        # Massgebend ist der erste Entscheid über die Überweisung
+        for _, txt in vs:
+            if ZURUECK.search(txt):
+                erg = "zurückgezogen"
+                break
+            if ABGELEHNT.search(txt):
+                erg = "abgelehnt"
+                break
+            if UEBERWIESEN.search(txt):
+                erg = "überwiesen"
+                break
+        ges[s]["ergebnis"] = erg
+    return alle_vermerke
+
+
+def lade_abstimmungen():
+    rows = []
+    heute = dt.date.today()
+    for jahr in range(int(START[:4]), heute.year + 1):
+        von = max(START, f"{jahr}-01-01")
+        bis = f"{jahr}-12-31"
+        rows += export("100186", f'datum>="{von}" and datum<="{bis}"',
+                       "datum,abst_nr,signatur_ges,geschaeft,typ,anz_j,anz_n,anz_e,fraktion,entscheid_mitglied")
+    return rows
+
+
+# ---------------------------------------------------------------- Auswerten
+
+def position(z):
+    """Mehrheitsposition einer Fraktion: J, N oder geteilt (None, wenn niemand Ja oder Nein stimmte)."""
+    j, n = z.get("J", 0), z.get("N", 0)
+    if j == 0 and n == 0:
+        return None
+    if j > n:
+        return "J"
+    if n > j:
+        return "N"
+    return "geteilt"
+
+
+def werte_abstimmungen(rows, themen_pd, korrekturen):
+    votes = {}
+    for r in rows:
+        typ = r.get("typ") or ""
+        if re.search(r"Präsenz|Wahl", typ, re.I):
+            continue
+        key = (day(r.get("datum")), str(r.get("abst_nr")))
+        v = votes.get(key)
+        if not v:
+            v = votes[key] = {"datum": key[0], "nr": key[1], "sig": r.get("signatur_ges") or "",
+                              "titel": (r.get("geschaeft") or "").strip(), "typ": typ,
+                              "ja": zahl(r.get("anz_j")), "nein": zahl(r.get("anz_n")),
+                              "enth": zahl(r.get("anz_e")), "fr": defaultdict(Counter)}
+        f = fraktion_norm(r.get("fraktion"))
+        k = r.get("entscheid_mitglied")
+        if f and k in ("J", "N", "E"):
+            v["fr"][f][k] += 1
+
+    stats = {}
+    differenzen = []
+    for leg in LEGISLATUREN:
+        lid = leg["id"]
+        vs = [v for v in votes.values() if leg_von(v["datum"]) == lid]
+        if not vs:
+            continue
+        ueberein = {p: {q: [0, 0] for q in PARTEIEN} for p in ("FDP", "LDP")}
+        geschlossen = {p: [0, 0] for p in PARTEIEN}
+        gewinner = {p: [0, 0] for p in PARTEIEN}
+        pro_thema = defaultdict(lambda: [0, 0])
+        n_beide = 0
+        for v in vs:
+            pos = {p: position(v["fr"].get(p, {})) for p in PARTEIEN}
+            ergebnis = "J" if v["ja"] > v["nein"] else "N"
+            for p in PARTEIEN:
+                z = v["fr"].get(p, {})
+                if pos[p] in ("J", "N"):
+                    geschlossen[p][1] += 1
+                    if (z.get("J", 0) == 0 or z.get("N", 0) == 0):
+                        geschlossen[p][0] += 1
+                    gewinner[p][1] += 1
+                    if pos[p] == ergebnis:
+                        gewinner[p][0] += 1
+            for p in ("FDP", "LDP"):
+                if pos[p] not in ("J", "N"):
+                    continue
+                for q in PARTEIEN:
+                    if q != p and pos[q] in ("J", "N"):
+                        ueberein[p][q][1] += 1
+                        if pos[p] == pos[q]:
+                            ueberein[p][q][0] += 1
+            if pos["FDP"] in ("J", "N") and pos["LDP"] in ("J", "N"):
+                n_beide += 1
+                thema = korrekturen.get(v["sig"]) or thema_von(v["titel"], themen_pd.get(v["sig"]))
+                pro_thema[thema][1] += 1
+                if pos["FDP"] == pos["LDP"]:
+                    pro_thema[thema][0] += 1
+                else:
+                    fz, lz = v["fr"]["FDP"], v["fr"]["LDP"]
+                    marge = abs(v["ja"] - v["nein"])
+                    # Hätten die abweichenden Stimmen das Resultat gedreht?
+                    abw = "FDP" if pos["FDP"] != ergebnis else "LDP"
+                    abw_z = v["fr"][abw]
+                    entscheidend = (abw_z.get("J", 0) + abw_z.get("N", 0)) * 2 > marge if marge else True
+                    differenzen.append({
+                        "leg": lid, "datum": v["datum"], "nr": v["nr"], "sig": v["sig"], "titel": v["titel"],
+                        "typ": v["typ"], "thema": thema, "ja": v["ja"], "nein": v["nein"], "enth": v["enth"],
+                        "angenommen": ergebnis == "J",
+                        "fdp": {"J": fz.get("J", 0), "N": fz.get("N", 0), "E": fz.get("E", 0), "pos": pos["FDP"]},
+                        "ldp": {"J": lz.get("J", 0), "N": lz.get("N", 0), "E": lz.get("E", 0), "pos": pos["LDP"]},
+                        "svp": pos["SVP"], "glp": pos["GLP"], "sp": pos["SP"], "mitte": pos["Mitte"],
+                        "gewinnt": "FDP" if pos["FDP"] == ergebnis else "LDP",
+                        "knapp": entscheidend,
+                    })
+        stats[lid] = {
+            "abstimmungen": len(vs),
+            "beide": n_beide,
+            # jeweils [übereinstimmend, total]; die Seite rechnet die Prozente
+            "ueberein": ueberein,
+            "geschlossen": geschlossen,
+            "gewinner": gewinner,
+            "pro_thema": {t: {"n": b, "einig": a} for t, (a, b) in pro_thema.items()},
+        }
+    differenzen.sort(key=lambda d: (d["datum"], zahl(d["nr"])), reverse=True)
+    return stats, differenzen
+
+
+def werte_vorstoesse(ges, sitze):
+    zaehl = {}
+    for leg in LEGISLATUREN:
+        lid = leg["id"]
+        z = {p: Counter() for p in PARTEIEN}
+        for e in ges.values():
+            if e["leg"] == lid and e["partei"] in z:
+                z[e["partei"]][e["typ"]] += 1
+        zaehl[lid] = {p: {"total": sum(c.values()), "typen": dict(c), "sitze": sitze.get(lid, {}).get(p)}
+                      for p, c in z.items()}
+
+    def fl(lid=None):
+        return [e for e in ges.values() if e["partei"] in ("FDP", "LDP") and (lid is None or e["leg"] == lid)]
+
+    zusammen = {}
+    for lid in [None] + [l["id"] for l in LEGISLATUREN]:
+        key = lid or "alle"
+        d = {}
+        for p in ("FDP", "LDP"):
+            eig = [e for e in fl(lid) if e["partei"] == p]
+            n = len(eig)
+            mit = Counter()
+            for e in eig:
+                for q in set(e["mit_parteien"]):
+                    if q != p:
+                        mit[q] += 1
+            erg = Counter(e.get("ergebnis") for e in eig if e["typ"] in ("Motion", "Anzug", "Planungsanzug"))
+            d[p] = {"n": n, "mit": {q: mit.get(q, 0) for q in PARTEIEN if q != p},
+                    "allein": sum(1 for e in eig if not [q for q in e["mit_parteien"] if q != p]),
+                    "ergebnis": dict(erg)}
+        zusammen[key] = d
+    return zaehl, zusammen
+
+
+# ---------------------------------------------------------------- Hauptprogramm
+
+def main():
+    OUT.mkdir(parents=True, exist_ok=True)
+    korrekturen = lade_korrekturen()
+    print("Themen, Sitze und Ratsmitglieder", file=sys.stderr)
+    themen_pd = lade_themen_parlamentsdienst()
+    sitze, partei_von = lade_sitze()
+    print("Vorstösse", file=sys.stderr)
+    ges = lade_vorstoesse(partei_von, themen_pd, korrekturen)
+    vermerke = lade_ergebnisse(ges)
+    print("Abstimmungen", file=sys.stderr)
+    rows = lade_abstimmungen()
+    abst, differenzen = werte_abstimmungen(rows, themen_pd, korrekturen)
+    zaehl, zusammen = werte_vorstoesse(ges, sitze)
+
+    vorstoesse = sorted((e for e in ges.values() if e["partei"] in ("FDP", "LDP")),
+                        key=lambda e: (e["datum"], e["sig"]), reverse=True)
+    # Themenverteilung aller Parteien, damit FDP und LDP eingeordnet werden können
+    themen_alle = {}
+    for leg in LEGISLATUREN:
+        c = {p: Counter() for p in PARTEIEN}
+        for e in ges.values():
+            if e["leg"] == leg["id"] and e["partei"] in c:
+                c[e["partei"]][e["thema"]] += 1
+        themen_alle[leg["id"]] = {p: dict(v) for p, v in c.items()}
+
+    data = {
+        "stand": dt.datetime.now(dt.timezone(dt.timedelta(hours=1))).strftime("%d.%m.%Y"),
+        "letzte_abstimmung": max((day(r.get("datum")) for r in rows), default=""),
+        "legislaturen": LEGISLATUREN,
+        "parteien": PARTEIEN,
+        "themen": [t["name"] for t in THEMEN] + ["Übriges"],
+        "sitze": sitze,
+        "abstimmungen": abst,
+        "differenzen": differenzen,
+        "vorstoss_zahlen": zaehl,
+        "zusammenarbeit": zusammen,
+        "themen_alle": themen_alle,
+        "vorstoesse": [{k: e.get(k) for k in ("sig", "titel", "typ", "datum", "leg", "urheber", "partei", "thema",
+                                               "ergebnis", "mit_parteien", "status", "dep")} for e in vorstoesse],
+    }
+    (OUT / "data.json").write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    html = (HIER / "template.html").read_text(encoding="utf-8")
+    html = html.replace("/*DATA*/null", json.dumps(data, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/"))
+    (OUT / "index.html").write_text(html, encoding="utf-8")
+    logo = ROOT / "docs" / "fdp-logo.png"
+    if logo.exists():
+        (OUT / "fdp-logo.png").write_bytes(logo.read_bytes())
+
+    # Prüfliste: Vermerke und unsicher zugeordnete Themen
+    pruef = ["# Prüfliste FDP/LDP", "", f"Stand {data['stand']}", "",
+             "## Vermerke zu Motionen, Anzügen und Budgetpostulaten (Häufigkeit)", ""]
+    pruef += [f"- {k or '(leer)'}: {n}" for k, n in vermerke.most_common(40)]
+    pruef += ["", "## Vorstösse von FDP und LDP ohne Themenzuordnung", ""]
+    pruef += [f"- {e['sig']} ({e['partei']}): {e['titel']}" for e in vorstoesse if e["thema"] == "Übriges"]
+    PRUEF.write_text("\n".join(pruef) + "\n", encoding="utf-8")
+    print(f"Fertig: {len(vorstoesse)} Vorstösse FDP/LDP, {len(differenzen)} Abstimmungen mit Differenz",
+          file=sys.stderr)
+
+
+if __name__ == "__main__":
+    main()

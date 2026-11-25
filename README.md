@@ -23,3 +23,14 @@ Nach jedem Lauf zeigt `pruefliste.md` zu jedem Geschäft die Textstelle, aus der
 - Die Seite wird über GitHub Pages aus dem Ordner `docs` veröffentlicht.
 
 Quelle: Grosser Rat des Kantons Basel-Stadt, Open Data Basel-Stadt (data.bs.ch). Rechtlich massgebend sind allein die Beschlüsse des Grossen Rates.
+
+## Unterseite: FDP und LDP im Grossen Rat (intern)
+
+Vergleich der beiden Fraktionen in den Legislaturen 2021–2025 und 2025–2029: Stimmverhalten, Abstimmungen mit unterschiedlicher Haltung, Vorstösse nach Thema, Erfolg und Mitunterzeichnungen.
+
+- Seite: `docs/ldp-fdp/index.html` (nicht verlinkt, `noindex`)
+- `ldp-fdp/build.py` holt die Daten von data.bs.ch (100311, 100314, 100186, 100307, 100086) und baut die Seite.
+- `ldp-fdp/themen.py` legt die Hauptthemen und Stichworte fest. Einzelne Geschäfte lassen sich in `ldp-fdp/themen-korrekturen.csv` umteilen.
+- `ldp-fdp/pruefliste.md` zeigt nach jedem Lauf die Vermerke und die Vorstösse ohne Thema.
+- `.github/workflows/ldp-fdp.yml` läuft jeden Montag und nach jeder Änderung an den Dateien im Ordner `ldp-fdp`.
+- Testlauf ohne Internet: `python ldp-fdp/test_build.py` (erfundene Daten, schreibt nach `/tmp`).
