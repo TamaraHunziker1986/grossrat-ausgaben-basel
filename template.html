@@ -150,6 +150,8 @@ footer strong{font-family:Jost,Arial,sans-serif;font-size:17px}
       <label>Sitzung<select id="f-sitzung"></select></label>
       <label>Departement<select id="f-dep"></select></label>
       <label>Suche<input id="f-suche" type="search" placeholder="Stichwort"></label>
+      <label>Stimmverhalten Partei<select id="f-stimm-partei"><option value="">Alle Parteien</option></select></label>
+      <label>hat gestimmt<select id="f-stimm"><option value="nein">Nein</option><option value="ja">Ja</option><option value="enthaltung">Enthaltung</option><option value="geteilt">geteilt</option></select></label>
     </div>
     <div class="tabelle"><table id="t-ausgaben"></table></div>
     <div class="mehr" id="mehr-ausgaben"></div>
@@ -355,22 +357,25 @@ function zeichne(){
 let alleAusgaben = false;
 function zeichneAusgaben(){
   const fS = document.getElementById("f-sitzung"), fD = document.getElementById("f-dep"), q = document.getElementById("f-suche").value.trim().toLowerCase();
+  const sp = document.getElementById("f-stimm-partei").value, sh = document.getElementById("f-stimm").value;
   const rows = D.ausgaben.filter(a => imZeitraum(a.datum) && (!fS.value || a.datum===fS.value) && (!fD.value || a.departement===fD.value)
-    && (!q || (a.titel + " " + (a.departement||"")).toLowerCase().includes(q))).sort((a,b) => b.datum.localeCompare(a.datum) || b.einmalig - a.einmalig);
+    && (!q || (a.titel + " " + (a.departement||"")).toLowerCase().includes(q))
+    && (!sp || haltung(a.abstimmung, sp) === sh)).sort((a,b) => b.datum.localeCompare(a.datum) || b.einmalig - a.einmalig);
   const sicht = alleAusgaben ? rows : rows.slice(0, 40);
-  document.getElementById("t-ausgaben").innerHTML = `<thead><tr><th>Sitzung</th><th>Geschäft</th><th class="num">Einmalig und befristet</th><th class="num">Wiederkehrend pro Jahr</th><th class="num">Ja : Nein</th>${ALLE.map(p=>`<th class="p">${esc(p)}</th>`).join("")}</tr></thead><tbody>
-  <tr class="summe"><td colspan="2">Total ${rows.length} Geschäfte</td><td class="num">${fr(summe(rows, a => a.einmalig))}</td><td class="num">${fr(summe(rows, a => a.jaehrlich))}</td><td colspan="${ALLE.length+1}"></td></tr>
+  document.getElementById("t-ausgaben").innerHTML = `<thead><tr><th>Sitzung</th><th>Geschäft</th><th class="num">Einmalig und befristet</th><th class="num">Wiederkehrend pro Jahr</th><th class="num">Ja : Nein : Enth.</th>${ALLE.map(p=>`<th class="p">${esc(p)}</th>`).join("")}</tr></thead><tbody>
+  <tr class="summe"><td colspan="2">Total ${rows.length} Geschäfte${sp ? ` (${esc(sp)}: ${esc(sh === "enthaltung" ? "Enthaltung" : sh === "geteilt" ? "geteilt" : sh === "ja" ? "Ja" : "Nein")})` : ""}</td><td class="num">${fr(summe(rows, a => a.einmalig))}</td><td class="num">${fr(summe(rows, a => a.jaehrlich))}</td><td colspan="${ALLE.length+1}"></td></tr>
   ${sicht.map(a => `<tr><td>${kurzDatum(a.datum)}${a.datum.slice(0,4)}</td>
     <td class="g"><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.titel)}</a><br><span class="klein">${esc(a.departement||"")}${a.darlehen ? ` · Darlehen ${fr(a.darlehen)} (nicht im Total)` : ""}${a.posten.some(p=>p.art==="befristet") ? " · befristet: " + a.posten.filter(p=>p.art==="befristet").map(p=>`${fr(p.jahresbetrag)} pro Jahr${p.jahre?`, ${p.jahre} Jahre`:""}`).join(", ") : ""}${a.bemerkung ? " · " + esc(a.bemerkung) : ""}</span></td>
     <td class="num">${a.einmalig ? `<a href="${esc(a.beschluss)}" target="_blank" rel="noopener">${fr(a.einmalig)}</a>` : ""}</td>
     <td class="num">${a.jaehrlich ? fr(a.jaehrlich) : ""}</td>
-    <td class="num">${a.abstimmung ? `${a.abstimmung.ja} : ${a.abstimmung.nein}` : '<span class="klein">k. A.</span>'}</td>
+    <td class="num">${a.abstimmung ? `${a.abstimmung.ja} : ${a.abstimmung.nein} : ${a.abstimmung.enthaltung ?? 0}` : '<span class="klein">k. A.</span>'}</td>
     ${ALLE.map(p=>`<td class="p">${chip(a.abstimmung,p)}</td>`).join("")}</tr>`).join("")}</tbody>`;
   document.getElementById("mehr-ausgaben").innerHTML = rows.length > 40
     ? `<button class="link" id="mehr-a">${alleAusgaben ? "Weniger anzeigen" : `Alle ${rows.length} Geschäfte anzeigen`}</button>` : "";
   const b = document.getElementById("mehr-a"); if (b) b.onclick = () => { alleAusgaben = !alleAusgaben; zeichneAusgaben(); };
 }
-["f-sitzung","f-dep"].forEach(id => document.getElementById(id).addEventListener("change", () => { alleAusgaben = false; zeichneAusgaben(); }));
+document.getElementById("f-stimm-partei").insertAdjacentHTML("beforeend", ALLE.map(p => `<option>${esc(p)}</option>`).join(""));
+["f-sitzung","f-dep","f-stimm-partei","f-stimm"].forEach(id => document.getElementById(id).addEventListener("change", () => { alleAusgaben = false; zeichneAusgaben(); }));
 document.getElementById("f-suche").addEventListener("input", () => { alleAusgaben = false; zeichneAusgaben(); });
 
 const urh = x => `${esc(x.urheber||"")}${x.partei?` (${esc(x.partei)})`:""}${x.miturheber && x.miturheber.length ? `<br><span class="klein">mit ${x.miturheber.map(m=>esc(m.name)+(m.partei?` (${esc(m.partei)})`:"")).join(", ")}</span>` : ""}`;

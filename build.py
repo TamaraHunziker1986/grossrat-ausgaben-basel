@@ -18,7 +18,9 @@ Läuft mit der Python-Standardbibliothek und pdftotext (poppler-utils).
 import csv
 import datetime as dt
 import hashlib
+import base64
 import json
+import os
 import re
 import subprocess
 import sys
@@ -373,6 +375,62 @@ def zahl(s):
     return int(float(s)) if s else 0
 
 
+# ---------------------------------------------------------------- Passwortschutz
+
+ITERATIONEN = 250_000
+
+ANMELDUNG = """<!DOCTYPE html>
+<html lang="de-CH"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Was der Grosse Rat ausgibt | FDP Kanton Basel-Stadt</title>
+<link rel="icon" href="fdp-logo.png" type="image/png">
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@700;800&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+<style>
+body{margin:0;font-family:"Source Sans 3",Arial,sans-serif;color:#4b5261;background:#fff}
+.kopf{background:#00a0e2;padding:16px 24px 22px}.kopf img{height:64px;display:block}
+main{max-width:420px;margin:64px auto;padding:0 24px}
+h1{font-family:Jost,Arial,sans-serif;font-weight:800;color:#414959;font-size:28px;margin:0 0 8px}
+label{display:block;font-weight:600;margin:24px 0 6px}
+input{font:inherit;width:100%;box-sizing:border-box;padding:10px 12px;border:1px solid #d9dce1;border-radius:3px}
+button{margin-top:14px;font-family:Jost,Arial,sans-serif;font-weight:700;font-size:16px;color:#fff;background:#074ea1;border:0;border-radius:3px;padding:11px 20px;cursor:pointer}
+#fehler{color:#b4232a;min-height:1.5em;margin-top:10px}
+</style></head><body>
+<div class="kopf"><img src="fdp-logo.png" alt="FDP Kanton Basel-Stadt"></div>
+<main><h1>Was der Grosse Rat ausgibt</h1><p>Interne Übersicht der FDP Basel-Stadt. Bitte Passwort eingeben.</p>
+<form id="f"><label for="pw">Passwort</label><input id="pw" type="password" autocomplete="current-password" autofocus>
+<button type="submit">Öffnen</button><div id="fehler" role="alert"></div></form></main>
+<script>
+const P = __PAYLOAD__;
+const b64 = s => Uint8Array.from(atob(s), c => c.charCodeAt(0));
+async function oeffnen(pw, still){
+  try {
+    const basis = await crypto.subtle.importKey("raw", new TextEncoder().encode(pw), "PBKDF2", false, ["deriveKey"]);
+    const key = await crypto.subtle.deriveKey({name:"PBKDF2", salt:b64(P.salt), iterations:P.iter, hash:"SHA-256"},
+      basis, {name:"AES-GCM", length:256}, false, ["decrypt"]);
+    const klar = await crypto.subtle.decrypt({name:"AES-GCM", iv:b64(P.iv)}, key, b64(P.data));
+    try { sessionStorage.setItem("gr-pw", pw); } catch(e) {}
+    const html = new TextDecoder().decode(klar);
+    document.open(); document.write(html); document.close();
+  } catch(e) {
+    if (!still) document.getElementById("fehler").textContent = "Das Passwort stimmt nicht.";
+  }
+}
+document.getElementById("f").addEventListener("submit", e => { e.preventDefault(); oeffnen(document.getElementById("pw").value); });
+try { const gespeichert = sessionStorage.getItem("gr-pw"); if (gespeichert) oeffnen(gespeichert, true); } catch(e) {}
+</script></body></html>
+"""
+
+
+def verschluesseln(html, passwort):
+    from cryptography.hazmat.primitives.ciphers.aead import AESGCM
+    salt, iv = os.urandom(16), os.urandom(12)
+    key = hashlib.pbkdf2_hmac("sha256", passwort.encode("utf-8"), salt, ITERATIONEN, dklen=32)
+    data = AESGCM(key).encrypt(iv, html.encode("utf-8"), None)
+    payload = {"salt": base64.b64encode(salt).decode(), "iv": base64.b64encode(iv).decode(),
+               "iter": ITERATIONEN, "data": base64.b64encode(data).decode()}
+    return ANMELDUNG.replace("__PAYLOAD__", json.dumps(payload))
+
+
 # ---------------------------------------------------------------- Hauptprogramm
 
 def main():
@@ -666,12 +724,18 @@ def main():
         "vorstoesse": vorstoesse,
     }
     DOCS.mkdir(exist_ok=True)
-    (DOCS / "data.json").write_text(json.dumps(daten, ensure_ascii=False, indent=1), encoding="utf-8")
     (ROOT / "pruefliste.md").write_text("\n".join(pruef) + "\n", encoding="utf-8")
 
     template = (ROOT / "template.html").read_text(encoding="utf-8")
     page = template.replace("/*__DATEN__*/null", json.dumps(daten, ensure_ascii=False).replace("</", "<\\/"))
-    (DOCS / "index.html").write_text(page, encoding="utf-8")
+    passwort = os.environ.get("SITE_PASSWORD", "").strip()
+    if passwort:
+        # Seite verschlüsselt ausliefern; ohne Passwort ist nur die Anmeldemaske lesbar
+        (DOCS / "index.html").write_text(verschluesseln(page, passwort), encoding="utf-8")
+        (DOCS / "data.json").unlink(missing_ok=True)
+    else:
+        (DOCS / "index.html").write_text(page, encoding="utf-8")
+        (DOCS / "data.json").write_text(json.dumps(daten, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"Fertig: {len(ausgaben)} Ausgaben, {len(postulate)} Budgetpostulate, {len(vorstoesse)} Vorstösse",
           file=sys.stderr)
 
