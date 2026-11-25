@@ -510,7 +510,7 @@ function zeichneWortmeldungen(){
   document.getElementById("wort-lead").innerHTML = (von ? `<b>Zeitraum: ${fmtDatum(von)} bis ${fmtDatum(bis)}</b>, ${nSitz} Sitzungen (Vollprotokolle). Neuere Protokolle sind noch nicht veröffentlicht.<br>` : "") +
     `FDP: ${zahl(tot("FDP","total"))} Wortmeldungen (${ps("FDP","total")} pro Sitz) und ${zahl(tot("FDP","zf"))} Zwischenfragen (${ps("FDP","zf")} pro Sitz). ` +
     `LDP: ${zahl(tot("LDP","total"))} Wortmeldungen (${ps("LDP","total")} pro Sitz) und ${zahl(tot("LDP","zf"))} Zwischenfragen (${ps("LDP","zf")} pro Sitz). ` +
-    `<span class="klein">Als Wortmeldung zählt jedes Votum, das im Protokoll mit Name und Fraktion beginnt. Zwischenfragen sind separat gezählt, die Antworten darauf nicht.</span>`;
+    `<span class="klein">Als Wortmeldung zählt jedes Votum, das im Protokoll mit Name und Fraktion beginnt. Zwischenfragen sind separat gezählt, die Antworten darauf nicht. Ansagen aus dem Präsidium (Sitzungsleitung durch Grossratspräsidium oder Statthalterschaft) sind nicht mitgezählt.</span>`;
   for (const p of ["FDP","LDP"]){
     const c = {}; for (const id of legIds()) for (const [n,v] of Object.entries((((W.zaehl[id]||{})[p])||{}).personen||{})) { const w = Array.isArray(v) ? v : [v,0]; c[n] = c[n] || [0,0]; c[n][0] += w[0]; c[n][1] += w[1]; }
     document.getElementById("dl-wort-" + p.toLowerCase()).innerHTML = '<dt class="kopfzeile">Ratsmitglied</dt><dd class="kopfzeile">Voten</dd><dd class="kopfzeile">Zwischenfr.</dd>' +

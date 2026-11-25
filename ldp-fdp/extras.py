@@ -435,23 +435,44 @@ def kommissionen(partei_von, legislaturen):
 # ---------------------------------------------------------------- 7 Wortmeldungen
 
 SPRECHER = re.compile(r"^[ \t]*([A-ZÄÖÜ][\w\-\.'éèàç]+(?:[ \t]+[A-ZÄÖÜ][\w\-\.'éèàç]+){0,4})[ \t]*"
-                      r"\((FDP|LDP|SP|SVP|GLP|Grüne|GRÜNE|BastA!?|BastA|Mitte|EVP|Mitte-EVP|jgb|JGB|GAB|fraktionslos)\)[ \t]*:", re.M)
+                      r"\(([A-Za-zÄÖÜäöü!/\- ]{2,25})\)[ \t]*:", re.M)
 ZF_KOPF = re.compile(r"^[ \t]*Zwischenfragen?[ \t]*$")
+# Ab 2025 kündigt das Präsidium Zwischenfragen an: «Es gibt eine Zwischenfrage von …, sie wird angenommen.»
+ZF_ANSAGE = re.compile(r"Zwischenfrage", re.I)
+ZF_ABGELEHNT = re.compile(r"nicht (angenommen|entgegengenommen|zugelassen)|keine Zwischenfrage", re.I)
+ANSAGE = re.compile(r"^\s*(Der Regierungsrat wird|Die? Interpellant|Der Interpellant|Das Wort (geht|hat|hat nun)|"
+                    r"Wir kommen|Nächste[rs]? |Somit |Damit (ist|sind|haben|kommen)|Ich eröffne|Ich schliesse|Ich bitte Sie, (abzustimmen|Platz)|"
+                    r"Es gibt (eine|zwei|drei|mehrere) Zwischenfrage|Die Interpellation|Wir stimmen|Abstimmung|Sie haben (beschlossen|den Anzug|die Motion)|"
+                    r"Der Grosse Rat (hat|beschliesst)|Die Sitzung|Eine kurze Antwort|.{0,40} hat das Wort\.)", re.I)
+PRAESIDIUM = re.compile(r"^[ \t]*[A-ZÄÖÜ][^:()]{2,60},[ \t]*(Gross|Statthalter|Präsid)", re.I)
 
 
 def zerlege_protokoll(txt, partei_norm):
     """Liefert (partei, name, art) für jede Wortmeldung. art = 'wort' oder 'zf' (Zwischenfrage).
     Antworten des Redners auf Zwischenfragen werden nicht gezählt."""
     zeilen = txt.splitlines()
+    # Wer die Sitzung leitet, steht teils als «Name, Grossratspräsident:», teils mit Parteikürzel im
+    # Protokoll. Die Ansagen des Präsidiums sind keine Wortmeldungen: diese Person ganz weglassen.
+    praesidium = {re.sub(r"\b[A-ZÄÖÜ]\.\s*", "", re.sub(r"\s+", " ", m.group(1))).strip()
+                  for m in re.finditer(r"^[ \t]*([A-ZÄÖÜ][^,:()\n]{2,50}),[ \t]*Grossratspräsident(?:in)?[ \t]*:", txt, re.M)}
     eintraege = []  # (index, name, partei_roh, text)
     for k, z in enumerate(zeilen):
         if ZF_KOPF.match(z):
             eintraege.append((k, None, "ZF", ""))
             continue
+        if PRAESIDIUM.match(z):
+            ansage = z + " " + (zeilen[k + 1] if k + 1 < len(zeilen) else "")
+            if ZF_ANSAGE.search(ansage) and not ZF_ABGELEHNT.search(ansage):
+                eintraege.append((k, None, "ZF", ""))
+            continue
         m = SPRECHER.match(z)
         if m:
             text = z[m.end():] + " " + " ".join(zeilen[k + 1:k + 4])
-            eintraege.append((k, re.sub(r"\s+", " ", m.group(1)).strip(), m.group(2), text[:700]))
+            name = re.sub(r"\s+", " ", m.group(1)).strip()
+            name = re.sub(r"\b[A-ZÄÖÜ]\.\s*", "", name).strip()  # «Raoul I. Furlano» = «Raoul Furlano»
+            if name in praesidium or ANSAGE.match(z[m.end():]):
+                continue
+            eintraege.append((k, name, m.group(2), text[:700]))
     out, block, redner = [], False, None
     for _, name, roh, text in eintraege:
         if roh == "ZF":
