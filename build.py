@@ -523,6 +523,10 @@ def main():
             merke(m.get("name_vorname"), p, ueberschreiben=True)
             if m.get("uni_nr"):
                 partei_von[str(m["uni_nr"])] = p
+    # 5. Frühere Ratsmitglieder, die in keiner Quelle eindeutig sind (Liste GB 2020)
+    for n, p in {"Lachenmeier, Michelle": "Grüne", "Stöcklin, Jürg": "Grüne", "Leuthardt, Beat": "BastA!",
+                 "von Falkenstein, Patricia": "LDP"}.items():
+        merke(n, p)
     print(f"  Parteizuordnung für {len(partei_von)} Namen", file=sys.stderr)
 
     stimmen = {}
