@@ -20,6 +20,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 240
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -39,5 +40,5 @@ jobs:
           git add docs cache pruefliste.md
           git diff --cached --quiet && echo "Keine Änderungen" && exit 0
           git commit -m "Update Grossrat-Ausgaben $(date +%Y-%m-%d)"
-          git pull --rebase
+          git pull --rebase -X theirs
           git push

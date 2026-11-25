@@ -311,6 +311,32 @@ def posten_aus_text(text):
     return out
 
 
+KOSTEN_WORT = re.compile(r"Kosten|kostet|kosten\b|Mehrkosten|Mehraufw|Aufwand|Aufwände|Ausgaben|Investition|Folgekosten|"
+                         r"Personalkosten|Betriebskosten|Beitrag von|Mittel von|Kostenfolge", re.I)
+SCHAETZUNG = re.compile(r"\brund\b|ca\.|circa|\betwa\b|geschätzt|Schätzung|voraussichtlich|ungefähr|bis zu|maximal|"
+                        r"zwischen|grob|mindestens|Grössenordnung|dürften|würden|wäre", re.I)
+NICHT_KOSTEN = re.compile(r"Einnahme|Ertrag|Erträge|Einsparung|spart|Erlös|Steuerertr|Budget der|Gesamtbudget|"
+                          r"Umsatz|Vermögen|Lohn von|Einkommen|Miete von|pro Person|pro Kind|pro Platz|pro Monat|Gebühr", re.I)
+
+
+def kosten_aus_text(text):
+    """Sätze mit Kostenangaben (Betrag und Kostenwort) aus einem Vorstoss-Dokument."""
+    t = re.sub(r"\s+", " ", text.replace("\u00ad", ""))
+    t = re.sub(r"(Fr\.|CHF)\s+", r"\1 ", t)
+    saetze = re.split(r"(?<=[a-zäöü\)»0-9]\.)\s+(?=[A-ZÄÖÜ])", t)
+    out = []
+    for satz in saetze:
+        if len(satz) > 700 or not KOSTEN_WORT.search(satz) or NICHT_KOSTEN.search(satz):
+            continue
+        werte = [(m, betrag(m)) for m in AMT.finditer(satz)]
+        werte = [(m, w) for m, w in werte if w >= 10000]
+        if not werte:
+            continue
+        out.append({"satz": satz.strip(), "betrag": werte[0][1], "wiederkehrend": bool(WIEDERKEHREND.search(satz)),
+                    "schaetzung": bool(SCHAETZUNG.search(satz))})
+    return out
+
+
 def pdf_text(url):
     CACHE.mkdir(exist_ok=True)
     (CACHE / "pdf").mkdir(exist_ok=True)
@@ -559,6 +585,7 @@ def main():
             "korrigiert": korr, "abstimmung": abstimmung(sig, datum),
         })
 
+    print("Kostenfolgen der Vorstösse lesen", file=sys.stderr)
     vorstoesse = []
     for sig, v in sorted(vorstoss_v.items(), key=lambda x: x[1]["siz_datum"]):
         g = geschaefte.get(sig, {})
@@ -566,12 +593,58 @@ def main():
         k = korrekturen.get(sig)
         if k and (k.get("ausschliessen") or "").strip().lower() in ("ja", "x", "1"):
             continue
+        titel = v["titel_ges"]
+        kosten = {"einmalig": 0, "jaehrlich": 0, "status": "offen", "quelle": None, "quelle_url": None, "datum": None}
+        # 1. Hat der Grosse Rat zur Umsetzung bereits Ausgaben bewilligt? Dann ist die Kostenfolge fix.
+        thema = re.split(r"\bbetreffend\b", titel, 1)
+        thema = thema[1].strip()[:45].lower() if len(thema) > 1 else None
+        umsetzung = [a for a in ausgaben if thema and len(thema) > 15 and thema in a["titel"].lower()]
+        if umsetzung:
+            u = umsetzung[-1]
+            kosten.update(einmalig=u["einmalig"], jaehrlich=u["jaehrlich"], status="bewilligt",
+                          quelle=f"Ausgabenbewilligung {u['signatur']}: {u['titel']}", quelle_url=u["url"], datum=u["datum"])
+        else:
+            # 2. Sonst: Kostenangaben aus Stellungnahmen und Berichten der Regierung (neuestes Dokument zuerst)
+            docs = sorted(dokumente.get(sig, []), key=lambda d: d.get("dokudatum") or "", reverse=True)
+            for d in docs:
+                url = d.get("url_dok")
+                if not url:
+                    continue
+                try:
+                    angaben = kosten_aus_text(pdf_text(url))
+                except Exception as e:  # noqa: BLE001
+                    print(f"  {sig}: {e}", file=sys.stderr)
+                    continue
+                if angaben:
+                    einm = next((x for x in angaben if not x["wiederkehrend"]), None)
+                    jahr = next((x for x in angaben if x["wiederkehrend"]), None)
+                    erst = angaben[0]
+                    kosten.update(einmalig=einm["betrag"] if einm else 0, jaehrlich=jahr["betrag"] if jahr else 0,
+                                  status="geschätzt" if any(x["schaetzung"] for x in angaben) else "beziffert",
+                                  quelle=erst["satz"], quelle_url=url, datum=day(d.get("dokudatum")))
+                    break
+        if k:
+            kosten.update(einmalig=zahl(k.get("einmalig")), jaehrlich=zahl(k.get("jaehrlich")),
+                          status=(k.get("status") or kosten["status"] or "beziffert").strip() or "beziffert")
+        pruef.append(f"## Vorstoss {sig} {titel[:120]}")
+        pruef.append(f"Kosten: {kosten['status']}, einmalig {kosten['einmalig']:,}, pro Jahr {kosten['jaehrlich']:,}".replace(",", "'")
+                     + (f"  \n  «{kosten['quelle'][:400]}» ({kosten['quelle_url']})" if kosten["quelle"] else ""))
+        pruef.append("")
         vorstoesse.append({
-            "signatur": sig, "datum": day(v["siz_datum"]), "titel": v["titel_ges"], "typ": v.get("ga_rr_gr"),
+            "signatur": sig, "datum": day(v["siz_datum"]), "titel": titel, "typ": v.get("ga_rr_gr"),
             "vermerk": re.sub(r"\s*Frist:.*", "", v.get("vermerk") or ""),
             "url": v.get("url_ges") or g.get("url_ges"), "urheber": name, "partei": partei, "miturheber": mit,
-            "einmalig": zahl(k.get("einmalig")) if k else 0, "jaehrlich": zahl(k.get("jaehrlich")) if k else 0,
+            "einmalig": kosten["einmalig"], "jaehrlich": kosten["jaehrlich"], "status": kosten["status"],
+            "quelle": (kosten["quelle"] or "")[:500] or None, "quelle_url": kosten["quelle_url"],
             "bemerkung": (k or {}).get("bemerkung"),
+        })
+    # Budgetpostulate sind Vorstösse mit fixer Kostenfolge (Budgeterhöhung)
+    for b in postulate:
+        vorstoesse.append({
+            "signatur": b["signatur"], "datum": b["datum"], "titel": b["titel"], "typ": "Budgetpostulat",
+            "vermerk": "Budgeterhöhung bewilligt", "url": b["url"], "urheber": b["urheber"], "partei": b["partei"],
+            "miturheber": b["miturheber"], "einmalig": b["betrag"] or 0, "jaehrlich": 0,
+            "status": "bewilligt" if b["betrag"] else "offen", "quelle": None, "quelle_url": None, "bemerkung": None,
         })
 
     daten = {
