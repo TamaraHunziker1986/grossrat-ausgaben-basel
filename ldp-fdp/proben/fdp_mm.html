@@ -1,0 +1,964 @@
+<!DOCTYPE html>
+<html lang="de_CH">
+<head>
+    <meta charset="utf-8">
+
+<!-- 
+	Copyright 2017 WNG SA, all rights reserved
+	
+	  WNG SA - Passage St-François 9 - CH-1003 Lausanne
+	  Tel +41 21 320 11 11 - Fax +41 21 320 11 10
+	  http://www.wng.ch/ - info[at]wng[dot]ch
+
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2026 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+
+<meta name="generator" content="TYPO3 CMS">
+<meta name="author" content="WNG agence digitale">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="copyright" content="WNG SA © 2017">
+<meta name="language" content="de">
+
+
+<link rel="stylesheet" href="https://www.fdp-bs.ch/_assets/73cc760597d9c6cd955b88216a80a41b/Css/wng_fe_users.css?1788954098" media="all">
+<link rel="stylesheet" href="https://www.fdp-bs.ch/_assets/d2d4fe2465b2db23b17128e61bb5fcb7/css/wng_events.css?1788954097" media="all">
+<link rel="stylesheet" href="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/css/bootstrap.min.css?1788954104" media="all">
+<link rel="stylesheet" href="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/css/bootstrap-theme.min.css?1788954104" media="all">
+<link rel="stylesheet" href="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/css/all.css?1788954104" media="all">
+<link rel="stylesheet" href="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/css/v4-shims.css?1788954104" media="all">
+<link rel="stylesheet" href="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/css/perfect-scrollbar.min.css?1788954104" media="all">
+<link rel="stylesheet" href="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/css/jvectormap.css?1788954104" media="all">
+<link rel="stylesheet" href="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/css/jquery-ui.min.css?1788954104" media="all">
+<link rel="stylesheet" href="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/css/jquery-ui.theme.min.css?1788954104" media="all">
+<link rel="stylesheet" href="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/css/materialize-custom-form.css?1788954104" media="all">
+<link rel="stylesheet" href="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/css/main.css?1795442609" media="all">
+<link rel="stylesheet" href="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/css/print.css?1788954104" media="all">
+<link rel="stylesheet" href="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/css/indexed_search_style.css?1788954104" media="all">
+
+<style>
+/*InlineDefaultCss*/
+/* default styles for extension "tx_frontend" */
+    .ce-align-left { text-align: left; }
+    .ce-align-center { text-align: center; }
+    .ce-align-right { text-align: right; }
+
+    .ce-table td, .ce-table th { vertical-align: top; }
+
+    .ce-textpic, .ce-image, .ce-nowrap .ce-bodytext, .ce-gallery, .ce-row, .ce-uploads li, .ce-uploads div { overflow: hidden; }
+
+    .ce-left .ce-gallery, .ce-column { float: left; }
+    .ce-center .ce-outer { position: relative; float: right; right: 50%; }
+    .ce-center .ce-inner { position: relative; float: right; right: -50%; }
+    .ce-right .ce-gallery { float: right; }
+
+    .ce-gallery figure { display: table; margin: 0; }
+    .ce-gallery figcaption { display: table-caption; caption-side: bottom; }
+    .ce-gallery img { display: block; }
+    .ce-gallery iframe { border-width: 0; }
+    .ce-border img,
+    .ce-border iframe {
+        border: 2px solid #000000;
+        padding: 0px;
+    }
+
+    .ce-intext.ce-right .ce-gallery, .ce-intext.ce-left .ce-gallery, .ce-above .ce-gallery {
+        margin-bottom: 10px;
+    }
+    .ce-image .ce-gallery { margin-bottom: 0; }
+    .ce-intext.ce-right .ce-gallery { margin-left: 10px; }
+    .ce-intext.ce-left .ce-gallery { margin-right: 10px; }
+    .ce-below .ce-gallery { margin-top: 10px; }
+
+    .ce-column { margin-right: 10px; }
+    .ce-column:last-child { margin-right: 0; }
+
+    .ce-row { margin-bottom: 10px; }
+    .ce-row:last-child { margin-bottom: 0; }
+
+    .ce-above .ce-bodytext { clear: both; }
+
+    .ce-intext.ce-left ol, .ce-intext.ce-left ul { padding-left: 40px; overflow: auto; }
+
+    /* Headline */
+    .ce-headline-left { text-align: left; }
+    .ce-headline-center { text-align: center; }
+    .ce-headline-right { text-align: right; }
+
+    /* Uploads */
+    .ce-uploads { margin: 0; padding: 0; }
+    .ce-uploads li { list-style: none outside none; margin: 1em 0; }
+    .ce-uploads img { float: left; padding-right: 1em; vertical-align: top; }
+    .ce-uploads span { display: block; }
+
+    /* Table */
+    .ce-table { width: 100%; max-width: 100%; }
+    .ce-table th, .ce-table td { padding: 0.5em 0.75em; vertical-align: top; }
+    .ce-table thead th { border-bottom: 2px solid #dadada; }
+    .ce-table th, .ce-table td { border-top: 1px solid #dadada; }
+    .ce-table-striped tbody tr:nth-of-type(odd) { background-color: rgba(0,0,0,.05); }
+    .ce-table-bordered th, .ce-table-bordered td { border: 1px solid #dadada; }
+
+    /* Space */
+    .frame-space-before-extra-small { margin-top: 1em; }
+    .frame-space-before-small { margin-top: 2em; }
+    .frame-space-before-medium { margin-top: 3em; }
+    .frame-space-before-large { margin-top: 4em; }
+    .frame-space-before-extra-large { margin-top: 5em; }
+    .frame-space-after-extra-small { margin-bottom: 1em; }
+    .frame-space-after-small { margin-bottom: 2em; }
+    .frame-space-after-medium { margin-bottom: 3em; }
+    .frame-space-after-large { margin-bottom: 4em; }
+    .frame-space-after-extra-large { margin-bottom: 5em; }
+
+    /* Frame */
+    .frame-ruler-before:before { content: ''; display: block; border-top: 1px solid rgba(0,0,0,0.25); margin-bottom: 2em; }
+    .frame-ruler-after:after { content: ''; display: block; border-bottom: 1px solid rgba(0,0,0,0.25); margin-top: 2em; }
+    .frame-indent { margin-left: 15%; margin-right: 15%; }
+    .frame-indent-left { margin-left: 33%; }
+    .frame-indent-right { margin-right: 33%; }
+/* default styles for extension "tx_wngplrnews_wngplrnews" */
+	textarea.f3-form-error {
+		background-color:#FF9F9F;
+		border: 1px #FF0000 solid;
+	}
+
+	input.f3-form-error {
+		background-color:#FF9F9F;
+		border: 1px #FF0000 solid;
+	}
+
+	.tx-wng-plr-news table {
+		border-collapse:separate;
+		border-spacing:10px;
+	}
+
+	.tx-wng-plr-news table th {
+		font-weight:bold;
+	}
+
+	.tx-wng-plr-news table td {
+		vertical-align:top;
+	}
+
+	.typo3-messages .message-error {
+		color:red;
+	}
+
+	.typo3-messages .message-ok {
+		color:green;
+	}
+
+/* default styles for extension "tx_nslazyload" */
+    figure {
+      display: block;
+    }
+    img:not([src]) {
+      visibility: hidden;
+    }
+    /* Fixes Firefox anomaly during image load */
+    @-moz-document url-prefix() {
+      img:-moz-loading {
+        visibility: hidden;
+      }
+    }
+
+
+</style>
+
+
+
+<script src="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/js/vendor/jquery-2.2.0.min.js?1788954109"></script>
+
+
+
+<title>FDP.Die Liberalen Kanton Basel-Stadt - Medienmitteilungen</title><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"><link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,600,700" rel="stylesheet"><link rel="home" href="" /><meta http-equiv="X-UA-Compatible" content="IE=Edge" /><link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" /><script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>  <script type="text/javascript" src="/tarteaucitron/tarteaucitron.js"></script>
+  <script type="text/javascript">
+    tarteaucitron.init({
+      "privacyUrl": "", /* Privacy policy url */
+
+      "hashtag": "#tarteaucitron", /* Open the panel with this hashtag */
+      "cookieName": "tarteaucitron", /* Cookie name */
+
+      "orientation": "bottom", /* Banner position (top - bottom) */
+                       
+      "showAlertSmall": false, /* Show the small banner on bottom right */
+      "cookieslist": true, /* Show the cookie list */
+                       
+      "showIcon": false, /* Show cookie icon to manage cookies */
+      "iconPosition": "BottomRight", /* BottomRight, BottomLeft, TopRight and TopLeft */
+
+      "adblocker": false, /* Show a Warning if an adblocker is detected */
+                       
+      "DenyAllCta" : true, /* Show the deny all button */
+      "AcceptAllCta" : true, /* Show the accept all button when highPrivacy on */
+      "highPrivacy": true, /* HIGHLY RECOMMANDED Disable auto consent */
+                       
+      "handleBrowserDNTRequest": false, /* If Do Not Track == 1, disallow all */
+
+      "removeCredit": true, /* Remove credit link */
+      "moreInfoLink": false, /* Show more info link */
+
+      "useExternalCss": false, /* If false, the tarteaucitron.css file will be loaded */
+      "useExternalJs": false, /* If false, the tarteaucitron.js file will be loaded */
+                      
+      "readmoreLink": "", /* Change the default readmore link */
+
+      "mandatory": true, /* Show a message about mandatory cookies */
+
+        "showIcon": false, /* Show cookie icon to manage cookies */
+    });
+  </script><script type="text/javascript">
+  var tarteaucitronForceLanguage = 'de';
+</script><link rel="apple-touch-icon-precomposed" href="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/Icons/favicons/de/apple-touch-icon-precomposed.png"><link rel="apple-touch-icon" sizes="180x180" href="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/Icons/favicons/de/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/Icons/favicons/de/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/Icons/favicons/de/favicon-16x16.png"><link rel="manifest" href="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/Icons/favicons/de/manifest.json"><link rel="mask-icon" href="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/Icons/favicons/de/safari-pinned-tab.svg" color="#0e52a0"><link rel="shortcut icon" href="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/Icons/favicons/de/favicon.ico">      <meta name="apple-mobile-web-app-title" content="FDP.Die Liberalen Kanton Basel-Stadt">
+      <meta name="application-name" content="FDP.Die Liberalen Kanton Basel-Stadt">
+      <meta name="theme-color" content="#ffffff"><meta name="msapplication-config" content="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/Icons/favicons/de/browserconfig.xml"><script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script><meta property="og:title" content="FDP.Die Liberalen Kanton Basel-Stadt - Medienmitteilungen"><meta property="og:url" content="https://www.fdp-bs.ch/aktuell/medienmitteilungen"><meta property="og:site_name" content="FDP.Die Liberalen Kanton Basel-Stadt"><meta property="og:image" content="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/Icons/preview_fdp_social.jpg"><meta property="twitter:title" content="FDP.Die Liberalen Kanton Basel-Stadt - Medienmitteilungen"><meta property="twitter:url" content="https://www.fdp-bs.ch/aktuell/medienmitteilungen"><meta property="twitter:image" content="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/Icons/preview_fdp_social.jpg"><script type="text/javascript">
+  tarteaucitron.user.analyticsUa = 'UA-112627078-1';
+  tarteaucitron.user.analyticsMore = function () { /* add here your optionnal ga.push() */ };
+  (tarteaucitron.job = tarteaucitron.job || []).push('analytics');
+</script>
+<link rel="canonical" href="https://www.fdp-bs.ch/aktuell/medienmitteilungen">
+
+</head>
+<body>
+
+    <input type="hidden" id="canton_id" name="canton_id" value="12" />
+
+
+
+
+<header id="header">
+    <div class="topheader-nav">
+        <div class="container">
+            <div class="link-national"><a href="https://www.fdp.ch" target="_blank" title="Webseiten FDP Schweiz" class="btn">FDP Schweiz</a></div><ul class="top-nav"><li><a href="/spenden" target="_top">Spenden</a></li><li><a href="/kontakt" target="_top">Kontakt</a></li></ul><a href="/aktuell/medienmitteilungen" target="_top" class="search-toggle"><i class="far fa-search" aria-hidden="true"></i></a><ul class="commit"><li><a href="/mitglied-werden" target="_top" class="btn">Mitglied werden</a></li></ul>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="navbar-outer">
+            <div class="navbar-header">
+                <a href="partei/werte/" target="_top" class="search-toggle visible-sm visible-xs">
+                    <i class="far fa-search" aria-hidden="true"></i>
+                </a>
+                <button aria-controls="navbar" aria-expanded="false" data-target="#navbar" data-toggle="collapse" class="navbar-toggle collapsed" type="button">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <div id="branding">
+                    <a href="/willkommen" target="_top" class="logo" title="FDP.Die Liberalen Kanton Basel-Stadt"><img src="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/Icons/logo_fdp_2026.svg" width="270" height="104" alt="FDP.Die Liberalen Kanton Basel-Stadt" /><span class="navbar-brand-title"> Kanton Basel-Stadt</span></a>
+                </div>
+            </div>
+            <div id="container-navbar">
+                <div id="navbar" class="navbar-collapse collapse">
+                    <nav id="nav">
+                        <ul class="menu"><li><a href="/willkommen"><i class="far fa-home"></i><span style="display:none;">Willkommen</span></a></li><li class="main-submenu  active"><a data-toggle="dropdown" class="dropdown-toggle" href="/aktuell">Aktuell</a><div class="dropdown-menu"><div class="navToggle toggle"><div></div><div></div></div><div class="container"><div class="row"><ul class="col-md-6"><li><a href="/aktuell/stellenausschreibung-geschaeftsstelle">Stellenausschreibung Geschäftsstelle</a></li><li><a href="/aktuell/medienmitteilungen">Medienmitteilungen</a></li><li><a href="/aktuell/blog">Blog</a></li><li><a href="/aktuell/vorstoesse">Vorstösse</a></li><li><a href="/aktuell/vernehmlassungen">Vernehmlassungen</a></li><li><a href="/aktuell/parolen">Parolen</a></li><li><a href="/aktuell/agenda">Agenda</a></li></ul><ul class="col-md-5 dropdow-separation"></ul></div></div></div></li><li class="main-submenu "><a data-toggle="dropdown" class="dropdown-toggle" href="/partei">Partei</a><div class="dropdown-menu"><div class="navToggle toggle"><div></div><div></div></div><div class="container"><div class="row"><ul class="col-md-6"><li class="dropdown-submenu"><a href="/partei/sektionen">Sektionen</a><ul class="dropdown-menu fourthDropSubMenu col-md-12 col-md-offset-1"><li ><a href="/partei/sektionen/quartiervereine">Quartiervereine</a></li><li ><a href="https://www.fdp-riehen.ch/willkommen" target="_blank">FDP Riehen-Bettingen</a></li></ul></li><li><a target="_blank" href="https://www.jfbs.ch/">Jungfreisinnige</a></li><li><a target="_blank" href="https://www.fdp-frauen-bs.ch">FDP Frauen</a></li><li><a href="/partei/statuten">Statuten</a></li><li><a href="/partei/jahresberichte">Jahresberichte</a></li><li><a href="/partei/parteigeschichte">Parteigeschichte</a></li></ul></div></div></div></li><li class="main-submenu "><a data-toggle="dropdown" class="dropdown-toggle" href="/personen">Personen</a><div class="dropdown-menu"><div class="navToggle toggle"><div></div><div></div></div><div class="container"><div class="row"><ul class="col-md-6"><li><a href="/personen/grosser-rat">Grosser Rat</a></li><li><a href="/personen/vorstand">Vorstand</a></li><li><a href="/personen/gerichte">Gerichte</a></li><li><a href="/personen/buergergemeinde-basel">Bürgergemeinde Basel</a></li><li><a href="/personen/weitere-mandatstraeger">Weitere Mandatsträger</a></li><li><a href="/personen/geschaeftsstelle">Geschäftsstelle</a></li></ul></div></div></div></li><li class="main-submenu "><a data-toggle="dropdown" class="dropdown-toggle" href="/positionen">Positionen</a><div class="dropdown-menu"><div class="navToggle toggle"><div></div><div></div></div><div class="container"><div class="row"><ul class="col-md-6"><li><a href="/positionen/unsere-werte">Unsere Werte</a></li><li><a href="/positionen/parteiprogramm">Parteiprogramm</a></li><li><a href="/positionen/bildung">Bildung</a></li><li><a href="/positionen/digitalisierung">Digitalisierung</a></li><li><a href="/positionen/wirtschaft">Wirtschaft</a></li></ul><ul class="col-md-5 dropdow-separation"><li><a href="/positionen/auslaenderinnen/auslaender-und-migration">Ausländerinnen/Ausländer und Migration</a></li><li><a href="/positionen/forschung-und-innovation">Forschung und Innovation</a></li><li><a href="/positionen/gesundheit">Gesundheit</a></li><li><a href="/positionen/kultur">Kultur</a></li><li><a href="/positionen/mobilitaet">Mobilität</a></li><li><a href="/positionen/sicherheit-und-justiz">Sicherheit und Justiz</a></li><li><a href="/positionen/soziales">Soziales</a></li><li><a href="/positionen/staat-finanzen-und-steuern">Staat, Finanzen und Steuern</a></li><li><a href="/positionen/stadtentwicklung">Stadtentwicklung</a></li><li><a href="/positionen/umwelt-und-energie">Umwelt und Energie</a></li><li><a href="/positionen/wohnen">Wohnen</a></li></ul></div></div></div></li></ul>
+
+
+                    </nav>
+                    <div class="topheader-nav sticky-mobile hidden-lg hidden-md">
+                        <div class="link-national"><a href="https://www.fdp.ch" target="_blank" title="Webseiten FDP Schweiz" class="btn">FDP Schweiz</a></div><ul class="top-nav"><li><a href="/spenden" target="_top">Spenden</a></li><li><a href="/kontakt" target="_top">Kontakt</a></li></ul><ul class="lang-nav"><li class="active"><a href="/aktuell/medienmitteilungen">DE</a></li></ul>
+<a href="/aktuell/medienmitteilungen" target="_top" class="search-toggle"><i class="far fa-search" aria-hidden="true"></i></a><ul class="commit"><li><a href="/mitglied-werden" target="_top" class="btn">Mitglied werden</a></li></ul>
+                    </div>
+                </div>
+                
+<div class="dropdown-search">
+	<div id="closeSearch" class="navToggle toggle">
+        <div></div>
+        <div></div>
+    </div>
+    <!--Solr search form -->
+    
+            <form method="post"
+                  id="form_kesearch_searchfield"
+                  enctype="multipart/form-data"
+                  action="/suche">
+                <div class="tx-indexedsearch-hidden-fields">
+                    <input name="tx_indexedsearch_pi2[action]" value="search" type="hidden">
+                    <input name="tx_indexedsearch_pi2[controller]" value="Search" type="hidden">
+                    <input name="tx_indexedsearch_pi2[search][_sections]" value="0" type="hidden">
+                    <input id="tx_indexedsearch_freeIndexUid" name="tx_indexedsearch_pi2[search][_freeIndexUid]" value="_" type="hidden">
+                    <input id="tx_indexedsearch_pointer2" name="tx_indexedsearch_pi2[search][pointer]" value="0" type="hidden">
+                    <input name="tx_indexedsearch_pi2[search][ext]" value="" type="hidden">
+                    <input name="tx_indexedsearch_pi2[search][searchType]" value="1" type="hidden">
+                    <input name="tx_indexedsearch_pi2[search][defaultOperand]" value="0" type="hidden">
+                    <input name="tx_indexedsearch_pi2[search][mediaType]" value="-1" type="hidden">
+                    <input name="tx_indexedsearch_pi2[search][sortOrder]" value="rank_flag" type="hidden">
+                    <input name="tx_indexedsearch_pi2[search][group]" value="" type="hidden">
+                    
+                            <input type="hidden" value="0" name="tx_indexedsearch_pi2[search][languageUid]">
+                        
+                    <input name="tx_indexedsearch_pi2[search][desc]" value="" type="hidden">
+                    <input type="hidden" name="tx_indexedsearch_pi2[search][numberOfResults]" value="10">
+                    <input name="tx_indexedsearch_pi2[search][extendedSearch]" value="" type="hidden">
+                </div>
+                <div class="tx-indexedsearch-form">
+                    <input type="text"
+                           name="tx_indexedsearch_pi2[search][sword]"
+                           value=""
+                           id="tx-indexedsearch-searchbox-sword_searchbox"
+                           class="tx-indexedsearch-searchbox-sword">
+                </div>
+                <div class="tx-indexedsearch-search-submit">
+                    <button type="submit" name="tx_indexedsearch_pi2[search][submitButton]" id="tx-indexedsearch-searchbox-button-submit" class="tx-indexedsearch-searchbox-button"><i class="fa fa-search" aria-hidden="true"></i></button>
+                </div>
+            </form>
+        
+</div>
+
+            </div>
+        </div>
+    </div>
+</header>
+    
+  
+<!--TYPO3SEARCH_begin--> 
+    
+    <div id="content" class="content-page content-little-right" style="">
+      <div class="container">    
+        <div class="row">      
+          <div id="main-content" class="col-md-8">
+            
+    
+
+            <div id="c12749" class="frame frame-default frame-type-list frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+    
+        <header>
+            
+
+    
+            <h1 class="">
+                Medienmitteilungen
+            </h1>
+        
+
+
+
+            
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+                
+                
+
+    
+        
+
+
+
+
+
+<div class="news">
+	
+
+    
+            
+                    <div class="news-list-result test">
+                        
+                                
+                                    
+
+
+<!--
+  =====================
+    Partials/List/Item.html
+-->
+
+                                            <div class="article article-simple articletype-0 topnews" itemscope="itemscope" itemtype="https://schema.org/Article">
+                                              <!-- date -->
+                                              <div class="news-list-date 3">
+                                                
+                                                <time datetime="2026-11-20">
+                                                  20
+                                                  . November 2026
+                                                  <meta itemprop="datePublished" content="2026-11-20" />
+                                                </time>
+                                              </div>
+                                              <!-- header -->
+                                              <div class="header">
+                                                <h2>
+                                                  <a title="Steine schleudern sind kein Protest" target="_top" href="/aktuell/medienmitteilungen/medienmitteilungen-detail/news/steine-schleudern-sind-kein-protest">
+                                                    Steine schleudern sind kein Protest
+                                                  </a>
+                                                </h2>
+                                              </div>
+                                              <!-- teaser -->      
+                                                         
+                                              
+                                                
+                                                    <div class="teaser-text"><p><strong>Die FDP Basel-Stadt verurteilt die Ausschreitungen rund um den heutigen Jugendstreik aufs Schärfste. Sie dankt der Polizei und allen weiteren Einsatzkräften für ihre Arbeit unter schwierigen Bedingungen, und fordert, dass die Verantwortlichen zur Rechenschaft gezogen werden.</strong></p></div>
+                                                  
+                                              
+                                              
+                                              <a class="more" title="Steine schleudern sind kein Protest" target="_top" href="/aktuell/medienmitteilungen/medienmitteilungen-detail/news/steine-schleudern-sind-kein-protest">
+                                                Weiterlesen
+                                              </a>
+                                              
+                                            </div>
+                                         
+                                
+                                    
+
+
+<!--
+  =====================
+    Partials/List/Item.html
+-->
+
+                                            <div class="article article-simple articletype-0 topnews" itemscope="itemscope" itemtype="https://schema.org/Article">
+                                              <!-- date -->
+                                              <div class="news-list-date 3">
+                                                
+                                                <time datetime="2026-11-13">
+                                                  13
+                                                  . November 2026
+                                                  <meta itemprop="datePublished" content="2026-11-13" />
+                                                </time>
+                                              </div>
+                                              <!-- header -->
+                                              <div class="header">
+                                                <h2>
+                                                  <a title="Mehrkosten bei Bauprojekten sollen vors Parlament" target="_top" href="/aktuell/medienmitteilungen/medienmitteilungen-detail/news/mehrkosten-bei-bauprojekten-sollen-vors-parlament">
+                                                    Mehrkosten bei Bauprojekten sollen vors Parlament
+                                                  </a>
+                                                </h2>
+                                              </div>
+                                              <!-- teaser -->      
+                                                         
+                                              
+                                                
+                                                    <div class="teaser-text"><p>Die FDP Basel-Stadt will, dass der Grosse Rat mitentscheidet, wenn kantonale Bauprojekte deutlich teurer werden. Grossrat Luca Urgese hat dazu eine Motion eingereicht. Ab einer zu bestimmenden Schwelle soll der Regierungsrat künftig einen Nachtragskredit beantragen müssen.</p></div>
+                                                  
+                                              
+                                              
+                                              <a class="more" title="Mehrkosten bei Bauprojekten sollen vors Parlament" target="_top" href="/aktuell/medienmitteilungen/medienmitteilungen-detail/news/mehrkosten-bei-bauprojekten-sollen-vors-parlament">
+                                                Weiterlesen
+                                              </a>
+                                              
+                                            </div>
+                                         
+                                
+                                    
+
+
+<!--
+  =====================
+    Partials/List/Item.html
+-->
+
+                                            <div class="article article-simple articletype-0 topnews" itemscope="itemscope" itemtype="https://schema.org/Article">
+                                              <!-- date -->
+                                              <div class="news-list-date 3">
+                                                
+                                                <time datetime="2026-11-13">
+                                                  13
+                                                  . November 2026
+                                                  <meta itemprop="datePublished" content="2026-11-13" />
+                                                </time>
+                                              </div>
+                                              <!-- header -->
+                                              <div class="header">
+                                                <h2>
+                                                  <a title="FDP begrüsst konkretes Entlastungsziel, beurteilt es aber als absolutes Minimum" target="_top" href="/aktuell/medienmitteilungen/medienmitteilungen-detail/news/fdp-begruesst-konkretes-entlastungsziel-beurteilt-es-aber-als-absolutes-minimum">
+                                                    FDP begrüsst konkretes Entlastungsziel, beurteilt es aber als absolutes Minimum
+                                                  </a>
+                                                </h2>
+                                              </div>
+                                              <!-- teaser -->      
+                                                         
+                                              
+                                                
+                                                    <div class="teaser-text"><p>Die FDP ist erfreut darüber, dass der Regierungsrat die angepasste Generelle Aufgabenüberprüfung (GAP), die neu ein konkretes Entlastungsziel vorsieht, rasch umsetzen will. Das Gesetz besagt, dass die kantonalen Tätigkeiten periodisch, mindestens einmal pro Legislaturperiode, auf ihre staatliche Notwendigkeit, ihre Wirksamkeit und die Effizienz ihrer Erbringung sowie auf die Tragbarkeit ihrer finanziellen Auswirkungen zu überprüfen sind. In der Vergangenheit wurde das nur halbherzig gemacht. Das…</p></div>
+                                                  
+                                              
+                                              
+                                              <a class="more" title="FDP begrüsst konkretes Entlastungsziel, beurteilt es aber als absolutes Minimum" target="_top" href="/aktuell/medienmitteilungen/medienmitteilungen-detail/news/fdp-begruesst-konkretes-entlastungsziel-beurteilt-es-aber-als-absolutes-minimum">
+                                                Weiterlesen
+                                              </a>
+                                              
+                                            </div>
+                                         
+                                
+                                    
+
+
+<!--
+  =====================
+    Partials/List/Item.html
+-->
+
+                                            <div class="article article-simple articletype-0 topnews" itemscope="itemscope" itemtype="https://schema.org/Article">
+                                              <!-- date -->
+                                              <div class="news-list-date 3">
+                                                
+                                                <time datetime="2026-10-23">
+                                                  23
+                                                  . Oktober 2026
+                                                  <meta itemprop="datePublished" content="2026-10-23" />
+                                                </time>
+                                              </div>
+                                              <!-- header -->
+                                              <div class="header">
+                                                <h2>
+                                                  <a title="Petition: «Gnueg isch Gnueg» – Für Sicherheit und Ordnung im Kleinbasel" target="_top" href="/aktuell/medienmitteilungen/medienmitteilungen-detail/news/petition-gnueg-isch-gnueg-fuer-sicherheit-und-ordnung-im-kleinbasel">
+                                                    Petition: «Gnueg isch Gnueg» – Für Sicherheit und Ordnung im Kleinbasel
+                                                  </a>
+                                                </h2>
+                                              </div>
+                                              <!-- teaser -->      
+                                                         
+                                              
+                                                
+                                                    <div class="teaser-text"><p>Auf Strassen und Plätzen im Kleinbasel wird täglich und offen mit Drogen gehandelt. Mit der Petition «Gnueg isch Gnueg» fordert ein Komitee um den Vorstand der FDP-Kleinbasel, dass der Kanton den öffentlichen Raum konsequent zurückgewinnt und dauerhaft schützt. Am Donnerstag, 29. Oktober 2026, wird die Petition an einem öffentlichen Podium im Restaurant Du Pont vorgestellt.</p></div>
+                                                  
+                                              
+                                              
+                                              <a class="more" title="Petition: «Gnueg isch Gnueg» – Für Sicherheit und Ordnung im Kleinbasel" target="_top" href="/aktuell/medienmitteilungen/medienmitteilungen-detail/news/petition-gnueg-isch-gnueg-fuer-sicherheit-und-ordnung-im-kleinbasel">
+                                                Weiterlesen
+                                              </a>
+                                              
+                                            </div>
+                                         
+                                
+                                    
+
+
+<!--
+  =====================
+    Partials/List/Item.html
+-->
+
+                                            <div class="article article-simple articletype-0 topnews" itemscope="itemscope" itemtype="https://schema.org/Article">
+                                              <!-- date -->
+                                              <div class="news-list-date 3">
+                                                
+                                                <time datetime="2026-10-21">
+                                                  21
+                                                  . Oktober 2026
+                                                  <meta itemprop="datePublished" content="2026-10-21" />
+                                                </time>
+                                              </div>
+                                              <!-- header -->
+                                              <div class="header">
+                                                <h2>
+                                                  <a title="FDP schafft mehr Flexibilität bei der Arbeit" target="_top" href="/aktuell/medienmitteilungen/medienmitteilungen-detail/news/dp-schafft-mehr-flexibilitaet-bei-der-arbeit">
+                                                    FDP schafft mehr Flexibilität bei der Arbeit
+                                                  </a>
+                                                </h2>
+                                              </div>
+                                              <!-- teaser -->      
+                                                         
+                                              
+                                                
+                                                    <div class="teaser-text"><p>Der Grosse Rat hat deutlich zwei Vorstösse der FDP überwiesen. Im Sommer sollen Bauarbeiten ab 6 Uhr möglich sein, und wer nach der Pensionierung weiterarbeiten will, soll bessere Bedingungen erhalten.</p></div>
+                                                  
+                                              
+                                              
+                                              <a class="more" title="FDP schafft mehr Flexibilität bei der Arbeit" target="_top" href="/aktuell/medienmitteilungen/medienmitteilungen-detail/news/dp-schafft-mehr-flexibilitaet-bei-der-arbeit">
+                                                Weiterlesen
+                                              </a>
+                                              
+                                            </div>
+                                         
+                                
+                                
+                                    
+    
+ 
+    <div class="page-navigation">
+        <ul class="pagination">
+            
+                    
+                
+            
+            
+                
+                        <li class="active"><span>1</span></li>
+                    
+
+            
+                
+                        <li>
+                            <a href="/aktuell/medienmitteilungen?tx_wngnewssearch_filterresult%5Bcontroller%5D=News&amp;tx_wngnewssearch_filterresult%5BcurrentPage%5D=2&amp;cHash=fa7edeea7f2a4dc2f17f589b7425eae4">2</a>
+                        </li>
+                    
+
+            
+                
+                        <li>
+                            <a href="/aktuell/medienmitteilungen?tx_wngnewssearch_filterresult%5Bcontroller%5D=News&amp;tx_wngnewssearch_filterresult%5BcurrentPage%5D=3&amp;cHash=b04341830de9e03d2d5bfec0a0b3bc55">3</a>
+                        </li>
+                    
+
+            
+            
+                <li>…</li>
+            
+            
+                    <li class="next">
+                        <a href="/aktuell/medienmitteilungen?tx_wngnewssearch_filterresult%5Bcontroller%5D=News&amp;tx_wngnewssearch_filterresult%5BcurrentPage%5D=2&amp;cHash=fa7edeea7f2a4dc2f17f589b7425eae4" title="">
+                            nächste
+                        </a>
+                    </li>
+                    
+                
+        </ul>
+    </div>
+
+
+                                
+
+
+                            
+                    </div>
+                
+            
+        
+
+</div>
+
+    
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+          </div>
+          <div class="col-md-1"></div>
+          <div id="right-content" class="col-md-3">     
+            <div class="bg-color bg-lightgray">
+    
+
+            <div id="c12760" class="frame frame-default frame-type-news_newssearchform frame-layout-7">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+    
+        <header>
+            
+
+    
+            <h4 class="">
+                Suche
+            </h4>
+        
+
+
+
+            
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+                
+                
+
+    
+    
+
+
+
+
+
+<div class="news">
+	
+
+    
+
+ <div class="news-search-form">
+        <form action="/aktuell/medienmitteilungen?no_cache=1&amp;tx_news_pi1%5Baction%5D=SearchForm&amp;tx_news_pi1%5Bcontroller%5D=News&amp;cHash=0e43dd87152d17e8047e5e8afe405018" method="get" name="search">
+<div>
+<input type="hidden" name="tx_news_pi1[__referrer][@extension]" value="News" >
+<input type="hidden" name="tx_news_pi1[__referrer][@controller]" value="News" >
+<input type="hidden" name="tx_news_pi1[__referrer][@action]" value="searchForm" >
+<input type="hidden" name="tx_news_pi1[__referrer][arguments]" value="YTowOnt90b4744fdb139c6fac454f0353e9378b02adb6449" >
+<input type="hidden" name="tx_news_pi1[__referrer][@request]" value="{&quot;@extension&quot;:&quot;News&quot;,&quot;@controller&quot;:&quot;News&quot;,&quot;@action&quot;:&quot;searchForm&quot;}4fe341ab9217e6a315a9a932b9baf59e96d904d1" >
+<input type="hidden" name="tx_news_pi1[__trustedProperties]" value="{&quot;search&quot;:{&quot;subject&quot;:1,&quot;minimumDate&quot;:1,&quot;maximumDate&quot;:1},&quot;minimumDate&quot;:1,&quot;maximumDate&quot;:1}b16552327ddace6dc0148615ef04724d23b26a65" >
+</div>
+
+            <fieldset>
+                <div class="row">
+                  <div class="col-xs-12">
+                    <div class="form-group">
+                        <label for="news-subject">
+                          Text :</label>
+                        <input id="news-subject" class="form-control" type="text" name="tx_news_pi1[search][subject]" value="" />
+                    </div>
+                  </div>
+                </div>
+
+                <div class="row">
+                  <div class="col-xs-6">
+                    <div class="form-group">
+                        <label for="news-minimumDate">Datum (Untergrenze) :</label>
+                        <input id="news-minimumDateShow" class="form-control " type="text" name="tx_news_pi1[minimumDate]" />
+                        <input id="news-minimumDate" type="hidden" name="tx_news_pi1[search][minimumDate]" value="" />
+                    </div>
+                  </div>
+                  <div class="col-xs-6">
+                    <div class="form-group">
+                        <label for="news-maximumDate">Datum (Obergrenze) :</label>
+                        <input id="news-maximumDateShow" class="form-control " type="text" name="tx_news_pi1[maximumDate]" />
+                        <input id="news-maximumDate" type="hidden" name="tx_news_pi1[search][maximumDate]" value="" />
+                    </div>
+                  </div>
+                </div>
+
+                <input type="hidden"  value='0' name='L' />
+
+                <input type="hidden" name="no_cache" value="1">
+
+                <input class="btn btn-default" type="submit" value="Suche starten" />
+            </fieldset>
+        </form>
+    </div>
+
+
+</div>
+
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+</div>
+          </div>
+        </div>
+      </div>
+    </div><!-- /content -->
+    <div class="bottom-content">
+      
+    </div>
+<!--TYPO3SEARCH_end-->  
+
+<!-- /content -->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3">
+                
+    
+
+            <div id="c12535" class="frame frame-default frame-type-text frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+                
+
+    <p><strong>Postadresse:</strong></p>
+<p>FDP.Die Liberalen Basel-Stadt&nbsp;<br> Dufourstrasse 25<br> 4052 Basel</p>
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+            </div>
+            <div class="col-sm-3">
+                
+    
+
+            <div id="c12534" class="frame frame-default frame-type-text frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+                
+
+    <p>Telefon +41 79 937 39 94<br> E-Mail&nbsp;<a href="mailto:info@fdp-bs.ch">info@fdp-bs.ch</a></p>
+<p>&nbsp;</p>
+<p><strong>Bankverbindung:</strong></p>
+<p>PostFinance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40-885-1<br> IBAN Nr.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;CH75 0900 0000 4000 0885 1</p>
+<p>&nbsp;</p>
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+            </div>
+            <div class="col-sm-6">
+                <div class="tx-dce-pi1">
+	<ul class="social-links">
+		
+			
+				<li class="social-facebook">
+					<a href="https://www.facebook.com/FDPBasel/" target="_blank" rel="noreferrer">
+						
+								<i class="fa-brands fa-facebook-f"></i>
+							
+					</a>
+				</li>
+			
+		
+			
+				<li class="social-twitter">
+					<a href="https://twitter.com/fdp_bs" target="_blank" rel="noreferrer">
+						
+								<i class="fa-brands fa-x-twitter"></i>
+							
+					</a>
+				</li>
+			
+		
+			
+				<li class="social-instagram">
+					<a href="https://instagram.com/fdp_bs" target="_blank" rel="noreferrer">
+						
+								<i class="fa-brands fa-instagram"></i>
+							
+					</a>
+				</li>
+			
+		
+	</ul>
+</div>
+
+            </div>
+            <a id="back-to-top" href="#" class="hidden-lg hidden-md">
+                <i class="fa fa-angle-up" aria-hidden="true"></i>
+            </a>
+        </div>
+        <div class="footer-nav">
+            <div class="row">
+                <div class="col-sm-6">
+                    <ul><li><a href="//www.fdp.ch/footer-menu/datenschutzerklaerung/" target="_blank">Datenschutzerklärung</a></li><li><a href="javascript:tarteaucitron.userInterface.openPanel();">Datenverwaltung</a></li></ul>
+                </div>
+                <div class="col-sm-6">
+                    <p class="pull-right">
+                        &copy; FDP.Die Liberalen<span class="hidden-xs"> - </span><span class="wng-creation">Erstellt von&nbsp;<a href="https://www.wng.ch/en/home" target="_blank" rel="noreferrer" title="WNG SA">WNG digital agency</a></span>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script src="https://www.fdp-bs.ch/_assets/948410ace0dfa9ad00627133d9ca8a23/JavaScript/Powermail/Form.min.js?1787641085" defer="defer"></script>
+<script src="https://www.fdp-bs.ch/_assets/73cc760597d9c6cd955b88216a80a41b/JavaScript/Libraries/jquery-ui.min.js?1788954103"></script>
+<script src="https://www.fdp-bs.ch/_assets/73cc760597d9c6cd955b88216a80a41b/JavaScript/wngfeusers_members.js?1788954098"></script>
+<script src="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/js/vendor/bootstrap.js?1788954109"></script>
+<script src="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/js/vendor/modernizr-3.3.1-respond-1.4.2.min.js?1788954109"></script>
+<script src="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/js/vendor/perfect-scrollbar.jquery.min.js?1788954110"></script>
+<script src="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/js/vendor/jquery.film_roll.min.js?1788954109"></script>
+<script src="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/js/vendor/jquery-ui.min.js?1788954109"></script>
+<script src="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/js/vendor/html5lightbox.js?1788954110"></script>
+<script src="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/js/vendor/jquery.touchSwipe.min.js?1788954109"></script>
+<script src="https://www.fdp-bs.ch/_assets/a80390fea21a0fc4fc64fa273c3f90b2/PLR/js/main.js?1788963610"></script>
+<script src="https://www.fdp-bs.ch/_assets/35cea25b24de16ec92392877e167431e/JavaScript/jquery.lazyload.js?1788954094"></script>
+<script src="https://www.fdp-bs.ch/_assets/35cea25b24de16ec92392877e167431e/JavaScript/main.js?1788954094"></script>
+
+
+
+</body>
+</html>
