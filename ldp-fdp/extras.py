@@ -283,7 +283,7 @@ def parolen(leg_von):
     except Exception as e:  # noqa: BLE001
         PRUEF.append(f"Parolen kantonal Fehler: {e!r}")
     try:
-        out["eidg"] = parolen_eidg(leg_von)
+        pass  # eidgenössische Parolen nicht ausgewertet
     except Exception as e:  # noqa: BLE001
         PRUEF.append(f"Parolen eidg. Fehler: {e!r}")
     return out
@@ -615,10 +615,8 @@ def alle(partei_von, legislaturen, leg_von, thema_von, partei_norm):
         ("interessen", lambda: interessen(partei_von)),
         ("parolen", lambda: parolen(leg_von)),
         ("wahlen", wahlen),
-        ("smartvote", smartvote),
         ("kommissionen", lambda: kommissionen(partei_von, legislaturen)),
         ("wortmeldungen", lambda: wortmeldungen(legislaturen, partei_norm)),
-        ("medien", lambda: medien(thema_von, leg_von)),
     ]
     for name, fn in schritte:
         log(f"Zusatz: {name}")

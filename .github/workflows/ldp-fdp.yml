@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["ldp-fdp/build.py", "ldp-fdp/themen.py", "ldp-fdp/template.html", "ldp-fdp/themen-korrekturen.csv", "ldp-fdp/extras.py", "ldp-fdp/smartvote.csv", ".github/workflows/ldp-fdp.yml"]
+    paths: ["ldp-fdp/build.py", "ldp-fdp/themen.py", "ldp-fdp/template.html", "ldp-fdp/themen-korrekturen.csv", "ldp-fdp/extras.py", ".github/workflows/ldp-fdp.yml"]
 
 permissions:
   contents: write
