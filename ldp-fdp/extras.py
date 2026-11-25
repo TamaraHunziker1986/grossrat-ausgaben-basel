@@ -415,7 +415,39 @@ def kommissionen(partei_von, legislaturen):
 # ---------------------------------------------------------------- 7 Wortmeldungen
 
 SPRECHER = re.compile(r"^[ \t]*([A-ZÄÖÜ][\w\-\.'éèàç]+(?:[ \t]+[A-ZÄÖÜ][\w\-\.'éèàç]+){0,4})[ \t]*"
-                      r"\((FDP|LDP|SP|SVP|GLP|Grüne|GRÜNE|BastA!?|BastA|Mitte|EVP|Mitte-EVP|jgb|JGB|GAB|fraktionslos)\)", re.M)
+                      r"\((FDP|LDP|SP|SVP|GLP|Grüne|GRÜNE|BastA!?|BastA|Mitte|EVP|Mitte-EVP|jgb|JGB|GAB|fraktionslos)\)[ \t]*:", re.M)
+ZF_KOPF = re.compile(r"^[ \t]*Zwischenfragen?[ \t]*$")
+
+
+def zerlege_protokoll(txt, partei_norm):
+    """Liefert (partei, name, art) für jede Wortmeldung. art = 'wort' oder 'zf' (Zwischenfrage).
+    Antworten des Redners auf Zwischenfragen werden nicht gezählt."""
+    zeilen = txt.splitlines()
+    eintraege = []  # (index, name, partei_roh, text)
+    for k, z in enumerate(zeilen):
+        if ZF_KOPF.match(z):
+            eintraege.append((k, None, "ZF", ""))
+            continue
+        m = SPRECHER.match(z)
+        if m:
+            text = z[m.end():] + " " + " ".join(zeilen[k + 1:k + 4])
+            eintraege.append((k, re.sub(r"\s+", " ", m.group(1)).strip(), m.group(2), text[:700]))
+    out, block, redner = [], False, None
+    for _, name, roh, text in eintraege:
+        if roh == "ZF":
+            block = True
+            continue
+        p = partei_norm(roh)
+        if block:
+            if name == redner:
+                continue  # Antwort auf die Zwischenfrage
+            if "?" in text:
+                out.append((p, name, "zf"))
+                continue
+            block = False
+        out.append((p, name, "wort"))
+        redner = name
+    return out
 
 
 def wortmeldungen(legislaturen, partei_norm):
@@ -427,10 +459,9 @@ def wortmeldungen(legislaturen, partei_norm):
     for t in alle_tage - set(mit_url):
         mit_url[t] = f"https://grosserrat.bs.ch/media/files/ratsprotokolle/vollprotokoll_{t}.pdf"
     urls = sorted(mit_url.items())
-    zaehl = defaultdict(lambda: defaultdict(Counter))  # leg -> partei -> name -> anzahl
-    sitzungen = Counter()
-    beispiel = []
-    fehler = 0
+    zaehl = defaultdict(lambda: defaultdict(lambda: {"wort": Counter(), "zf": Counter()}))
+    tage = defaultdict(list)
+    fehlend = []
     for datum, url in urls:
         if datum > dt.date.today().isoformat():
             continue
@@ -439,33 +470,35 @@ def wortmeldungen(legislaturen, partei_norm):
             try:
                 pdf = get(url, binary=True, tries=1)
             except Exception as e:  # noqa: BLE001
-                fehler += 1
+                fehlend.append(datum)
                 log(f"  Protokoll {datum}: {e}")
                 continue
             tmp = Path("/tmp/protokoll.pdf")
             tmp.write_bytes(pdf)
             txt = subprocess.run(["pdftotext", "-layout", str(tmp), "-"], capture_output=True, text=True).stdout
             if len(txt) < 2000:
-                fehler += 1
+                fehlend.append(datum)
                 continue
             f.write_text(txt, encoding="utf-8")
-        txt = f.read_text(encoding="utf-8")
         leg = next((l["id"] for l in legislaturen if l["von"] <= datum <= l["bis"]), None)
         if not leg:
             continue
-        sitzungen[leg] += 1
-        for m in SPRECHER.finditer(txt):
-            p = partei_norm(m.group(2))
-            if not p:
-                continue
-            name = re.sub(r"\s+", " ", m.group(1)).strip()
-            zaehl[leg][p][name] += 1
-            if len(beispiel) < 40 and p in ("FDP", "LDP"):
-                beispiel.append(f"{datum}: {m.group(0).strip()[:90]}")
-    PRUEF.append(f"Wortmeldungen: {len(urls)} Protokolle, {fehler} nicht lesbar. Beispiele: " + " | ".join(beispiel[:25]))
-    return {"sitzungen": dict(sitzungen),
-            "zaehl": {l: {p: {"total": sum(c.values()), "personen": dict(c.most_common(25))} for p, c in d.items()}
-                      for l, d in zaehl.items()}}
+        tage[leg].append(datum)
+        for p, name, art in zerlege_protokoll(f.read_text(encoding="utf-8"), partei_norm):
+            if p:
+                zaehl[leg][p][art][name] += 1
+    PRUEF.append(f"Wortmeldungen: {sum(len(v) for v in tage.values())} Protokolle gelesen, nicht verfügbar: {', '.join(fehlend) or 'keine'}")
+    res = {"sitzungen": {l: len(v) for l, v in tage.items()},
+           "zeitraum": {l: [min(v), max(v)] for l, v in tage.items() if v},
+           "zaehl": {}}
+    for l, d in zaehl.items():
+        res["zaehl"][l] = {}
+        for p, c in d.items():
+            pers = Counter()
+            pers.update(c["wort"]); pers.update(c["zf"])
+            res["zaehl"][l][p] = {"total": sum(c["wort"].values()), "zf": sum(c["zf"].values()),
+                                  "personen": {n: [c["wort"].get(n, 0), c["zf"].get(n, 0)] for n, _ in pers.most_common(25)}}
+    return res
 
 
 # ---------------------------------------------------------------- 8 Medien

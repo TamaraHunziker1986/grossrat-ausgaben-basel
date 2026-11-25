@@ -182,7 +182,7 @@ footer strong{font-family:Jost,Arial,sans-serif;font-size:17px}
 
   <section id="zusammenarbeit">
     <h2>Mit wem die Fraktionen Vorstösse einreichen</h2>
-    <p class="lead">Anteil der eigenen Vorstösse, die mindestens ein Ratsmitglied der jeweiligen Partei mitunterzeichnet hat. Ein hoher Wert bei SP oder Grünen zeigt Allianzen über die Lager hinweg.</p>
+    <p class="lead">Anteil der eigenen Vorstösse, die mindestens ein Ratsmitglied der jeweiligen Partei mitunterzeichnet hat. Die Unterschriften stammen aus den Vorstosstexten (PDF). Interpellationen und Schriftliche Anfragen sind nicht mitgezählt, weil sie keine Mitunterzeichnenden haben.</p>
     <div class="legende"><span><i style="background:var(--fdp)"></i>Vorstösse der FDP</span><span><i style="background:var(--ldp)"></i>Vorstösse der LDP</span></div>
     <div class="bars" id="bars-mit"></div>
     <p class="klein" id="allein"></p>
@@ -409,15 +409,17 @@ function zeichneArten(){
 }
 
 function zeichneZusammenarbeit(){
-  const V = D.vorstoesse.filter(inLeg);
+  const CO = ["Motion","Anzug","Planungsanzug","Budgetpostulat","Resolution","Standesinitiative"];
+  const V = D.vorstoesse.filter(v => inLeg(v) && CO.includes(v.typ) && v.pdf);
   const anteil = (p, q) => { const eig = V.filter(v => v.partei === p); return [eig.filter(v => (v.mit_parteien||[]).includes(q)).length, eig.length]; };
   document.getElementById("bars-mit").innerHTML = D.parteien.map(q => {
-    const f = q === "FDP" ? null : anteil("FDP", q), l = q === "LDP" ? null : anteil("LDP", q);
-    return barPaar(q, f ? pct(...f) : null, l ? pct(...l) : null, f ? `${f[0]} von ${f[1]} FDP-Vorstössen` : "", l ? `${l[0]} von ${l[1]} LDP-Vorstössen` : "");
+    const f = anteil("FDP", q), l = anteil("LDP", q);
+    return barPaar(q, pct(...f), pct(...l), `${f[0]} von ${f[1]} FDP-Vorstössen`, `${l[0]} von ${l[1]} LDP-Vorstössen`);
   }).join("");
   const allein = p => { const eig = V.filter(v => v.partei === p); return [eig.filter(v => !(v.mit_parteien||[]).some(q => q !== p)).length, eig.length]; };
+  const avg = p => { const eig = V.filter(v => v.partei === p); return eig.length ? eig.reduce((a,v) => a + (v.mit||[]).length, 0) / eig.length : 0; };
   const af = allein("FDP"), al = allein("LDP");
-  document.getElementById("allein").textContent = `Ohne Mitunterzeichnende aus anderen Parteien: FDP ${fp(pct(...af))} (${af[0]} von ${af[1]}), LDP ${fp(pct(...al))} (${al[0]} von ${al[1]}). Interpellationen und Schriftliche Anfragen haben meist keine Mitunterzeichnenden.`;
+  document.getElementById("allein").textContent = `Ausgewertet: ${af[1]} Vorstösse der FDP und ${al[1]} der LDP (Motionen, Anzüge, Budgetpostulate und weitere Vorstösse mit Mitunterzeichnenden). Im Schnitt hat ein FDP-Vorstoss ${avg("FDP").toLocaleString("de-CH",{maximumFractionDigits:1})} Mitunterzeichnende, ein LDP-Vorstoss ${avg("LDP").toLocaleString("de-CH",{maximumFractionDigits:1})}. Nur mit Unterschriften aus der eigenen Partei: FDP ${fp(pct(...af))}, LDP ${fp(pct(...al))}.`;
 }
 
 let vLimit = 50;
@@ -478,16 +480,22 @@ function zeichneKommissionen(){
 
 function zeichneWortmeldungen(){
   const W = Z.wortmeldungen; if (!W || !W.zaehl) { leer("dl-wort-fdp","Keine Daten."); return; }
-  const tot = p => legIds().reduce((a,id) => a + (((W.zaehl[id]||{})[p]||{}).total||0), 0);
+  const tot = (p,k) => legIds().reduce((a,id) => a + (((W.zaehl[id]||{})[p]||{})[k]||0), 0);
   const sitz = p => legIds().reduce((a,id) => a + ((D.sitze[id]||{})[p]||0), 0) / legIds().length;
   const nSitz = legIds().reduce((a,id) => a + ((W.sitzungen||{})[id]||0), 0);
-  document.getElementById("wort-lead").textContent = `Gezählt in ${nSitz} Vollprotokollen. FDP: ${zahl(tot("FDP"))} Wortmeldungen, ${(tot("FDP")/Math.max(1,sitz("FDP"))).toLocaleString("de-CH",{maximumFractionDigits:0})} pro Sitz. LDP: ${zahl(tot("LDP"))} Wortmeldungen, ${(tot("LDP")/Math.max(1,sitz("LDP"))).toLocaleString("de-CH",{maximumFractionDigits:0})} pro Sitz.`;
+  const zr = legIds().map(id => (W.zeitraum||{})[id]).filter(Boolean);
+  const von = zr.length ? zr.map(z => z[0]).sort()[0] : null, bis = zr.length ? zr.map(z => z[1]).sort().at(-1) : null;
+  const ps = (p,k) => (tot(p,k)/Math.max(1,sitz(p))).toLocaleString("de-CH",{maximumFractionDigits:0});
+  document.getElementById("wort-lead").innerHTML = (von ? `<b>Zeitraum: ${fmtDatum(von)} bis ${fmtDatum(bis)}</b>, ${nSitz} Sitzungen (Vollprotokolle). Neuere Protokolle sind noch nicht veröffentlicht.<br>` : "") +
+    `FDP: ${zahl(tot("FDP","total"))} Wortmeldungen (${ps("FDP","total")} pro Sitz) und ${zahl(tot("FDP","zf"))} Zwischenfragen (${ps("FDP","zf")} pro Sitz). ` +
+    `LDP: ${zahl(tot("LDP","total"))} Wortmeldungen (${ps("LDP","total")} pro Sitz) und ${zahl(tot("LDP","zf"))} Zwischenfragen (${ps("LDP","zf")} pro Sitz). ` +
+    `<span class="klein">Als Wortmeldung zählt jedes Votum, das im Protokoll mit Name und Fraktion beginnt. Zwischenfragen sind separat gezählt, die Antworten darauf nicht.</span>`;
   for (const p of ["FDP","LDP"]){
-    const c = {}; for (const id of legIds()) for (const [n,v] of Object.entries((((W.zaehl[id]||{})[p])||{}).personen||{})) c[n] = (c[n]||0) + v;
-    document.getElementById("dl-wort-" + p.toLowerCase()).innerHTML = Object.entries(c).sort((a,b) => b[1]-a[1]).slice(0,12).map(([n,v]) => `<dt>${esc(n)}</dt><dd>${v}</dd><dd></dd>`).join("");
+    const c = {}; for (const id of legIds()) for (const [n,v] of Object.entries((((W.zaehl[id]||{})[p])||{}).personen||{})) { const w = Array.isArray(v) ? v : [v,0]; c[n] = c[n] || [0,0]; c[n][0] += w[0]; c[n][1] += w[1]; }
+    document.getElementById("dl-wort-" + p.toLowerCase()).innerHTML = '<dt class="kopfzeile">Ratsmitglied</dt><dd class="kopfzeile">Voten</dd><dd class="kopfzeile">Zwischenfr.</dd>' +
+      Object.entries(c).sort((a,b) => (b[1][0]+b[1][1]) - (a[1][0]+a[1][1])).slice(0,12).map(([n,v]) => `<dt>${esc(n)}</dt><dd>${v[0]}</dd><dd>${v[1]}</dd>`).join("");
   }
 }
-
 
 function zeichneWahlen(){
   const W = Z.wahlen; if (!W) { leer("t-wahl","Keine Daten."); return; }

@@ -71,11 +71,12 @@ def fake_alle(partei_von, legs, leg_von, thema_von, partei_norm):
      "ausgaben": {"geschaefte": [{"sig":"23.1","datum":"2023-05-01","leg":"2021","titel":"Ausgabenbericht Testkredit","einmalig":5000000,"jaehrlich":200000,"fdp":"N","ldp":"J","url":"#"}],
                   "vorstoss_kosten": [{"sig":"24.5","datum":"2024-01-01","leg":"2021","titel":"Anzug","partei":"FDP","einmalig":100000,"jaehrlich":0}]},
      "kommissionen": {"2025": {"Finanzkommission": {"kurz":"FKom","FDP":["Muster, A (Präsident)"],"LDP":["Beispiel, B"],"praesidium":"FDP"}}},
-     "wortmeldungen": {"sitzungen":{"2021":40,"2025":20},"zaehl":{"2021":{"FDP":{"total":300,"personen":{"Luca Urgese":120}},"LDP":{"total":500,"personen":{"Raoul Furlano":90}}}}},
+     "wortmeldungen": {"sitzungen":{"2021":40,"2025":20},"zeitraum":{"2021":["2021-02-03","2025-01-08"],"2025":["2025-02-05","2026-06-24"]},"zaehl":{"2021":{"FDP":{"total":300,"zf":40,"personen":{"Luca Urgese":[120,10]}},"LDP":{"total":500,"zf":30,"personen":{"Raoul Furlano":[90,12]}}}}},
      "wahlen": {"2020":{"anteile":{"Grossbasel Ost":{"FDP":7.1,"LDP":15.0},"Kanton":{"FDP":6.9,"LDP":14.2}},"fremd":{"FDP":{"LDP":400,"SVP":200,"SP":100},"LDP":{"FDP":300,"SVP":150}},"sitze":{}},
                 "2024":{"anteile":{"Grossbasel Ost":{"FDP":8.0,"LDP":13.1},"Kanton":{"FDP":7.9,"LDP":12.0}},"fremd":{"FDP":{"LDP":500,"SVP":210,"GLP":80},"LDP":{"FDP":350,"SVP":180}},"sitze":{}}},
     }, ["test"])
 extras.alle = fake_alle
 build.OUT = Path("/tmp/ldp-fdp-test")
 build.PRUEF = Path("/tmp/ldp-fdp-test/pruefliste.md")
+build.lade_mitunterzeichnende = lambda ges: (0, [])
 build.main()

@@ -45,6 +45,9 @@ VORSTOSS_TYPEN = ["Motion", "Anzug", "Budgetpostulat", "Interpellation", "Schrif
                   "Planungsanzug", "Resolution", "Standesinitiative"]
 TYP_RE = re.compile(r"^\s*(" + "|".join(VORSTOSS_TYPEN) + r")\b", re.I)
 
+NAMEN = {}  # «Vorname Name» -> Partei, aus der Mitgliederliste
+CO_TYPEN = ("Motion", "Anzug", "Planungsanzug", "Budgetpostulat", "Resolution", "Standesinitiative")
+
 # Für Tests lässt sich export() ersetzen (siehe test_build.py)
 EXPORT_HOOK = None
 
@@ -62,6 +65,18 @@ def http(url, tries=6):
                 raise
             print(f"  Fehler bei {url[:160]}: {e}, neuer Versuch", file=sys.stderr)
             time.sleep(min(60, 5 * 2 ** i))
+
+
+def http_bin(url, tries=3):
+    for i in range(tries):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": UA})
+            with urllib.request.urlopen(req, timeout=120) as r:
+                return r.read()
+        except Exception:  # noqa: BLE001
+            if i == tries - 1:
+                raise
+            time.sleep(3 * 2 ** i)
 
 
 def export(dataset, where, select=None):
@@ -182,6 +197,9 @@ def lade_sitze():
         p = partei_norm(m.get("partei_kname") or m.get("partei"))
         if p and m.get("uni_nr"):
             partei_von[str(m["uni_nr"])] = p
+            nv = (m.get("name_vorname") or "").split(",", 1)
+            if len(nv) == 2:
+                NAMEN[re.sub(r"\s+", " ", f"{nv[1].strip()} {nv[0].strip()}")] = p
     return sitze, partei_von
 
 
@@ -264,6 +282,52 @@ def lade_ergebnisse(ges):
         ges[s]["ergebnis"] = erg
     return alle_vermerke
 
+
+def lade_mitunterzeichnende(ges):
+    """Liest die Unterzeichnenden aus dem PDF des Vorstosses (Datensatz 100313).
+    Die offenen Geschäftsdaten führen Mitunterzeichnende nur bei wenigen Vorstössen."""
+    import subprocess
+    cache = HIER / "cache" / "vorstoesse"
+    cache.mkdir(parents=True, exist_ok=True)
+    sigs = sorted(s for s, e in ges.items() if e["partei"] in ("FDP", "LDP") and e["typ"] in CO_TYPEN)
+    erstes = {}
+    for part in chunks(sigs, 80):
+        for d in export("100313", in_list("signatur_ges", part), "signatur_ges,dokudatum,titel_dok,url_dok"):
+            k = (day(d.get("dokudatum")) or "9999", d.get("url_dok") or "")
+            if d.get("url_dok") and (d["signatur_ges"] not in erstes or k < erstes[d["signatur_ges"]]):
+                erstes[d["signatur_ges"]] = k
+    namen = sorted(NAMEN, key=len, reverse=True)
+    gelesen, ohne = 0, []
+    for s in sigs:
+        f = cache / (s + ".txt")
+        if not f.exists() and s in erstes:
+            try:
+                pdf = http_bin(erstes[s][1])
+                tmp = Path("/tmp/vorstoss.pdf")
+                tmp.write_bytes(pdf)
+                txt = subprocess.run(["pdftotext", str(tmp), "-"], capture_output=True, text=True).stdout
+                if len(txt) > 200:
+                    f.write_text(txt, encoding="utf-8")
+            except Exception as e:  # noqa: BLE001
+                print(f"  PDF {s}: {e}", file=sys.stderr)
+        if not f.exists():
+            ohne.append(s)
+            continue
+        txt = re.sub(r"\s+", " ", f.read_text(encoding="utf-8"))
+        schluss = txt[-1800:]
+        e = ges[s]
+        urheber = e["urheber"]
+        if "," in urheber:
+            n, v = urheber.split(",", 1)
+            urheber = f"{v.strip()} {n.strip()}"
+        mit, mp = [], []
+        for n in namen:
+            if n != urheber and re.search(r"(?<![\w-])" + re.escape(n) + r"(?![\w-])", schluss):
+                mit.append(n)
+                mp.append(NAMEN[n])
+        e["mit"], e["mit_parteien"], e["pdf"] = mit, mp, True
+        gelesen += 1
+    return gelesen, ohne
 
 def lade_abstimmungen():
     rows = []
@@ -431,6 +495,7 @@ def main():
     print("Vorstösse", file=sys.stderr)
     ges = lade_vorstoesse(partei_von, themen_pd, korrekturen)
     vermerke = lade_ergebnisse(ges)
+    co_gelesen, co_ohne = lade_mitunterzeichnende(ges)
     print("Abstimmungen", file=sys.stderr)
     rows = lade_abstimmungen()
     abst, differenzen, sitze_fr = werte_abstimmungen(rows, themen_pd, korrekturen)
@@ -468,7 +533,7 @@ def main():
         "themen_alle": themen_alle,
         "zusatz": zusatz,
         "vorstoesse": [{k: e.get(k) for k in ("sig", "titel", "typ", "datum", "leg", "urheber", "partei", "thema",
-                                               "ergebnis", "mit_parteien", "status", "dep")} for e in vorstoesse],
+                                               "ergebnis", "mit_parteien", "mit", "pdf", "status", "dep")} for e in vorstoesse],
     }
     (OUT / "data.json").write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     html = (HIER / "template.html").read_text(encoding="utf-8")
@@ -484,6 +549,8 @@ def main():
     pruef += [f"- {k or '(leer)'}: {n}" for k, n in vermerke.most_common(40)]
     pruef += ["", "## Vorstösse von FDP und LDP ohne Themenzuordnung", ""]
     pruef += [f"- {e['sig']} ({e['partei']}): {e['titel']}" for e in vorstoesse if e["thema"] == "Übriges"]
+    pruef += ["", "## Mitunterzeichnende aus PDFs", "", f"- gelesen: {co_gelesen}, ohne PDF: {', '.join(co_ohne) or 'keine'}"]
+    pruef += [f"- {e['sig']} ({e['partei']}): {', '.join(e.get('mit') or []) or '(niemand)'}" for e in vorstoesse if e.get("pdf")][:80]
     pruef += ["", "## Zusätzliche Auswertungen", ""] + [f"- {z}" for z in zusatz_pruef]
     PRUEF.write_text("\n".join(pruef) + "\n", encoding="utf-8")
     print(f"Fertig: {len(vorstoesse)} Vorstösse FDP/LDP, {len(differenzen)} Abstimmungen mit Differenz",
