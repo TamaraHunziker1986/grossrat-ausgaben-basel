@@ -179,16 +179,21 @@ def beschluss_bloecke(text):
     return out
 
 
-NEUER_POSTEN = re.compile(r"^\s*(?:(?:\d{1,2}\.|[a-z]\)|[IVX]+\.|[-–•])\s*$|(?:\d{1,2}\.|[a-z]\)|[-–•])\s+\S|(?:Fr\.|CHF)\s*\d)")
+NEUER_POSTEN = re.compile(r"^\s*(?:(?:\d{1,2}\.|[a-z][.)]|[IVX]+\.|[-–•])\s*$|(?:\d{1,2}\.|[a-z][.)]|[-–•])\s+\S|(?:Fr\.|CHF)\s*\d)")
+AUSGABE_WORT = re.compile(r"bewillig|genehmig|gewährt|zu ?Lasten|zulasten|Ausgabe|Aufwend|Aufwand|Folgekosten|Globalbeitrag|"
+                          r"Staatsbeitr|Finanzhilfe|Kredit|Beitrag (an|von|in)|Darlehen", re.I)
+FREMDE_INVESTITION = re.compile(r"Investitionen der (IWB|BVB)|Investitionsrahmen|Gesamtinvestitionen", re.I)
 
 
-WEITER = re.compile(r"(\bvon|\bauf|\bum|total|insgesamt|gesamthaft|\bbis|\bund|\bje|Höhe|,|\()\s*$", re.I)
+WEITER = re.compile(r"(\bvon|\bauf|\bum|total|insgesamt|gesamthaft|\bbis|\bund|\bje|Höhe|,|\(|\d{4}:|;)\s*$", re.I)
 
 
 def segmente(block):
+    block = re.sub(r";\s+([a-z])\.\s", r";\n\1. ", block)
     segs, cur = [], []
     for line in block.split("\n"):
-        if NEUER_POSTEN.match(line) and cur and not WEITER.search(cur[-1]):
+        marker = re.match(r"^\s*(?:\d{1,2}\.|[a-z][.)]|[IVX]+\.|[-–•])(\s|$)", line)
+        if NEUER_POSTEN.match(line) and cur and (marker or not WEITER.search(cur[-1])):
             segs.append(" ".join(cur))
             cur = []
         if line.strip() and not re.fullmatch(r"\s*(?:\d{1,2}\.|[a-z]\)|[IVX]+\.|[-–•])\s*", line):
@@ -202,7 +207,10 @@ def posten_aus_block(block):
     posten = []
     for satz in segmente(block):
         treffer = list(AMT.finditer(satz))
-        if not treffer or KEINE_AUSGABE.search(satz):
+        if not treffer or KEINE_AUSGABE.search(satz) or FREMDE_INVESTITION.search(satz) \
+                or re.search(r"Beschluss Nr\.|\bP\d{6}\b", satz):
+            continue
+        if ("§" in satz and not re.search(r"bewillig|zu ?Lasten|zulasten", satz, re.I)) or not AUSGABE_WORT.search(satz):
             continue
         werte = [betrag(m) for m in treffer]
         if max(werte) < 1000:
@@ -226,7 +234,11 @@ def posten_aus_block(block):
             p.update(art="darlehen", betrag=erh or total or haupt, jahresbetrag=None, jahre=None)
         elif WIEDERKEHREND.search(satz) and erh is None:
             jaehrlich = [w for m, w in zip(treffer, werte)
-                         if re.match(r"\W{0,3}(p\.\s?a\.|pro Jahr|jährlich|per annum)", satz[m.end():m.end() + 20], re.I)]
+                         if re.match(r"\W{0,3}(p\.\s?a\.|pro Jahr|jährlich|per annum)(?!\s*(Fr\.|CHF|\d))", satz[m.end():m.end() + 30], re.I)]
+            erst_total = (total is None and len(werte) > 1 and werte[0] == max(werte)
+                          and (jahre or re.search(r"für die Jahre|Rahmenausgabe|Periode", satz, re.I)))
+            if erst_total:
+                total = werte[0]
             jb = jaehrlich[0] if jaehrlich else next((w for w in werte if w != total), werte[0])
             groesser = [w for w in werte if w > jb]
             gesamt = total if total and total != jb else (groesser[0] if groesser and jaehrlich else None)
@@ -240,9 +252,15 @@ def posten_aus_block(block):
             p.update(art="einmalig", betrag=haupt if erh is not None else (total or haupt), jahresbetrag=None, jahre=None)
         posten.append(p)
 
-    # Einleitender Sammelposten («… bewilligt. Diese Ausgaben teilen sich wie folgt auf»)
+    # Einleitender Sammelposten («… bewilligt. Diese Ausgaben teilen sich wie folgt auf»).
+    # Stimmt die Summe der Einzelposten mit ihm überein, zählen die Einzelposten, sonst der Gesamtbetrag.
     if len(posten) > 1:
-        posten = [p for p in posten if not re.search(r"teil(en|t) sich|wie folgt|aufgeteilt", p["quelle"], re.I)] or posten
+        leads = [p for p in posten if re.search(r"teil(en|t) sich|wie folgt|aufgeteilt", p["quelle"], re.I)]
+        rest = [p for p in posten if p not in leads]
+        if leads and rest:
+            roh = lambda p: p["jahresbetrag"] if p["art"] == "wiederkehrend" else p["betrag"]
+            lead_summe, rest_summe = sum(roh(p) for p in leads), sum(roh(p) for p in rest)
+            posten = rest if abs(lead_summe - rest_summe) <= max(2, lead_summe * 0.005) else leads
     # Sammelposten weglassen, wenn er die Summe der übrigen ist
     while len(posten) > 1:
         roh = [p["jahresbetrag"] if p["art"] == "wiederkehrend" else p["betrag"] for p in posten]
@@ -422,7 +440,10 @@ def main():
         return {"nr": str(nr), "typ": r0.get("typ"), "ja": r0.get("anz_j"), "nein": r0.get("anz_n"),
                 "enthaltung": r0.get("anz_e"), "parteien": proPartei}
 
-    pruef = ["# Prüfliste", "",
+    from collections import Counter
+    bp_vermerke = Counter((v.get("ga_rr_gr"), re.sub(r"\d{1,2}\.\d{1,2}\.\d{4}", "DATUM", v.get("vermerk") or ""))
+                          for v in vorgaenge if "Budgetpostulat" in (v.get("ga_rr_gr") or ""))
+    pruef = ["# Prüfliste", "", "Vermerke Budgetpostulate: " + "; ".join(f"{k[1]} ({n})" for k, n in bp_vermerke.most_common()), "",
              "Automatisch gelesene Beträge mit der Textstelle aus dem Grossratsbeschluss. "
              "Falsches in korrekturen.csv richtigstellen.", ""]
 
