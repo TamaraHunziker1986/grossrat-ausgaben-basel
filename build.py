@@ -39,6 +39,7 @@ UA = "grossrat-ausgaben-basel (GitHub Actions; FDP Basel-Stadt)"
 GRUPPEN = [
     {"id": "links", "titel": "SP, Grüne und BastA!", "parteien": ["SP", "Grüne", "BastA!"]},
     {"id": "mitte", "titel": "GLP, Mitte und EVP", "parteien": ["GLP", "Mitte", "EVP"]},
+    {"id": "buergerlich", "titel": "FDP, LDP und SVP", "parteien": ["FDP", "LDP", "SVP"]},
 ]
 ALLE_PARTEIEN = ["SP", "Grüne", "BastA!", "GLP", "Mitte", "EVP", "FDP", "LDP", "SVP"]
 

@@ -46,7 +46,7 @@ section{padding:48px 0 8px}
 section h2{font-size:clamp(24px,3vw,32px)}
 .lead{max-width:780px;margin:0 0 20px}
 
-.gruppen{display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:24px}
+.gruppen{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:20px}
 .gruppe{background:var(--grau);padding:22px}
 .gruppe h3{font-size:22px;margin-bottom:14px}
 .partei{background:#fff;padding:14px 16px;margin-bottom:12px}
@@ -295,10 +295,9 @@ document.getElementById("t-postulate").innerHTML = D.budgetpostulate.length ? `<
 
 // Vorstösse
 const fP = document.getElementById("f-partei");
-fP.innerHTML = `<option value="sechs">${esc(D.gruppen.map(g=>g.titel).join(" sowie "))}</option>`
+fP.innerHTML = `<option value="alle">Alle Parteien</option>`
   + D.gruppen.map(g=>`<option value="g:${g.id}">${esc(g.titel)}</option>`).join("")
-  + SECHS.map(p=>`<option value="p:${esc(p)}">${esc(p)}</option>`).join("")
-  + `<option value="alle">Alle Parteien</option>`;
+  + SECHS.map(p=>`<option value="p:${esc(p)}">${esc(p)}</option>`).join("");
 let alleZeigen = false;
 function zeichneVorstoesse(){
   const v = fP.value;
