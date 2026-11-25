@@ -1,0 +1,529 @@
+Grosser Rat des Kantons Basel-Stadt
+Beschluss
+Nr.
+Vom
+
+22/42/17.1G
+20.10.2022
+P211239
+
+Ratschlag zu einer Änderung des Gesetzes über die Information und den Datenschutz vom 9.
+Juni 2010 (Informations- und Datenschutzgesetz, IDG) und weiterer Gesetze (Anpassung an die
+europäischen Datenschutzreformen und weitere Anpassungen)
+21.1239.02, Bericht der JSSK vom 20.09.2022
+
+://:
+
+Zustimmung
+
+Der Grosse Rat des Kantons Basel-Stadt,
+nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 21.1239.01 vom 28. September 2021 sowie
+in den Bericht der Justiz-, Sicherheits- und Sportkommission Nr. 21.1239.02 vom 14. September 2022,
+beschliesst:
+I.
+Das Gesetz über die Information und den Datenschutz (Informations- und Datenschutzgesetz, IDG) vom
+9. Juni 2010 1) (Stand 4. Januar 2018) wird wie folgt geändert:
+§ 1 Abs. 2 (geändert)
+2
+Es bezweckt:
+b)
+(geändert) die Grundrechte von natürlichen Personen zu schützen, über welche die öffentlichen
+Organe Personendaten bearbeiten.
+§ 2 Abs. 2 (geändert), Abs. 2bis (neu)
+2
+Es findet keine Anwendung, soweit ein öffentliches Organ am wirtschaftlichen Wettbewerb teilnimmt und
+dabei privatrechtlich handelt. Für das Bearbeiten von Personendaten ist das Bundesgesetz über den
+Datenschutz (DSG) vom 19. Juni 1992 anwendbar. Die Aufsicht wird von der oder dem
+Datenschutzbeauftragten gemäss §§ 37ff. ausgeübt, ausser bei öffentlichen Organen, die ausschliesslich am
+wirtschaftlichen Wettbewerb teilnehmen und dabei privatrechtlich handeln.
+a)
+Aufgehoben.
+b)
+Aufgehoben.
+c)
+Aufgehoben.
+2bis
+In hängigen Verfahren der Zivil- und Strafrechtspflege sowie der Verfassungs- und
+Verwaltungsgerichtsbarkeit richten sich die Rechte und Ansprüche der betroffenen Person, die
+Informationspflicht des öffentlichen Organs bei der Beschaffung von Personendaten, die Bekanntgabe von
+Personendaten an Verfahrensbeteiligte, die Information der Öffentlichkeit und der allgemeine
+Informationszugangsanspruch der Öffentlichkeit ausschliesslich nach dem anwendbaren Verfahrensrecht.
+
+1)
+
+SG 153.260
+
+§ 3 Abs. 3 (geändert), Abs. 4, Abs. 5 (geändert), Abs. 7 (neu), Abs. 8 (neu)
+3
+Personendaten sind Informationen, die sich auf eine bestimmte oder bestimmbare natürliche Person
+beziehen.
+4
+Besondere Personendaten sind:
+a)
+(geändert) Personendaten, bei deren Bearbeitung eine besondere Gefahr der
+Grundrechtsverletzung besteht (sensitive Personendaten), insbesondere:
+1.
+(geändert) Angaben über die religiösen, weltanschaulichen, politischen oder
+gewerkschaftlichen Ansichten oder Tätigkeiten;
+2.
+(geändert) Angaben über die Gesundheit, das Erbgut (genetische Daten), die persönliche
+Geheimsphäre, das Sexualleben, die sexuelle Orientierung oder die ethnische Herkunft;
+3.
+(geändert) Angaben über Massnahmen der sozialen Hilfe;
+4.
+(geändert) Angaben über administrative oder strafrechtliche Verfolgungen und Sanktionen
+und
+5.
+(neu) mit speziellen technischen Verfahren gewonnene personenbezogene Daten zu den
+physischen, physiologischen oder verhaltenstypischen Merkmalen einer natürlichen Person,
+welche die eindeutige Identifizierung dieser Person ermöglichen oder bestätigen (biometrische
+Daten).
+5
+Bearbeiten ist jeder Umgang mit Informationen, unabhängig von den angewandten Mitteln und Verfahren,
+insbesondere das Beschaffen, Aufbewahren, Verwenden, Verändern, Bekanntgeben, Archivieren, Löschen
+oder Vernichten sowie das Durchführen logischer oder rechnerischer Operationen mit diesen
+Informationen.
+7
+Profiling ist jede automatisierte Auswertung von Informationen, um wesentliche persönliche Merkmale zu
+analysieren oder Entwicklungen, insbesondere bezüglich Arbeitsleistung, wirtschaftliche Lage, Gesundheit,
+persönliche Vorlieben, Interessen, Zuverlässigkeit, Verhalten, Aufenthaltsort oder Ortswechsel,
+vorherzusagen.
+8
+Auftragsdatenbearbeiterin oder Auftragsdatenbearbeiter ist die private Person oder das öffentliche Organ,
+die oder das im Auftrag des für die Bearbeitung veröffentlichen öffentlichen Organs Informationen
+bearbeitet.
+§ 6 Abs. 2 (geändert), Abs. 3 (neu)
+2
+Bearbeiten mehrere öffentliche Organe einen gemeinsamen Informationsbestand, regeln sie die
+Verantwortung und legen fest, welches öffentliche Organ die Gesamtverantwortung trägt.
+3
+Das öffentliche Organ muss nachweisen können, dass es die Datenschutzbestimmungen einhält. Der
+Regierungsrat regelt das Nähere für die kantonale Verwaltung. Für die Gerichte, die Gemeinden, die
+weiteren Körperschaften und die selbständigen Anstalten gilt die Regelung des Kantons sinngemäss, soweit
+sie keine eigene erlassen.
+§ 7 Abs. 3 (neu)
+3
+Eine Auftragsdatenbearbeiterin beziehungsweise ein Auftragsdatenbearbeiter darf ohne vorgängige
+schriftliche Zustimmung des auftraggebenden öffentlichen Organs die Datenbearbeitung keiner weiteren
+Auftragsdatenbearbeiterin und keinem weiteren Auftragsdatenbearbeiter übertragen.
+§ 8 Abs. 4 (geändert)
+4
+Der Regierungsrat regelt das Nähere für die kantonale Verwaltung, der Gemeinderat für die kommunale
+Verwaltung. Für die Gerichte, die Gemeinden, die weiteren Körperschaften und die selbständigen Anstalten
+gilt die Regelung des Kantons sinngemäss, soweit sie keine eigene erlassen.
+§ 9 Abs. 2 (geändert), Abs. 4 (neu)
+2
+Besondere Personendaten dürfen bearbeitet und ein Profiling darf vorgenommen werden, wenn
+Aufzählung unverändert.
+4
+Personendaten dürfen nur so lange bearbeitet werden, als es zur Erfüllung der gesetzlichen Aufgabe
+erforderlich ist.
+
+Seite 2/8
+
+§ 9a Abs. 1 (geändert), Abs. 2
+Voraussetzungen für das Bearbeiten von besonderen Personendaten und das Profiling im Rahmen
+von Pilotversuchen (Überschrift geändert)
+1
+Der Regierungsrat kann, nachdem er im Rahmen einer Vorabkonsultation nach § 13 die Beurteilung der
+oder des Datenschutzbeauftragten eingeholt hat, vor Inkrafttreten eines Gesetzes die Bearbeitung von
+besonderen Personendaten oder ein Profiling bewilligen, wenn:
+Aufzählung unverändert.
+2
+Die praktische Umsetzung einer Datenbearbeitung kann eine Testphase dann zwingend erfordern, wenn:
+c)
+(geändert) sie die Übermittlung von besonderen Personendaten oder Resultaten eines Profilings
+an Dritte mittels eines Abrufverfahrens erfordert.
+§ 10 Abs. 1 (geändert)
+1
+Ein öffentliches Organ darf Personendaten zu einem nicht personenbezogenen Zweck, namentlich für
+Statistik, Planung oder Forschung, bearbeiten, wenn es
+Aufzählung unverändert.
+§ 11 Abs. 2 (neu), Abs. 3 (neu)
+2
+Das öffentliche Organ, das Personendaten bearbeitet, hat sich über deren Richtigkeit zu vergewissern.
+3
+Es sind alle angemessenen Massnahmen zu treffen, damit Daten berichtigt oder vernichtet werden, die im
+Hinblick auf den Zweck ihrer Beschaffung oder Bearbeitung unrichtig oder unvollständig sind.
+§ 12a (neu)
+Datenschutz-Folgenabschätzung
+1
+Das verantwortliche öffentliche Organ prüft bei jedem Vorhaben für eine Personendatenbearbeitung, ob
+voraussichtlich ein hohes Risiko für die Grundrechte der betroffenen Personen besteht. Das hohe Risiko
+ergibt sich, insbesondere bei Verwendung neuer Technologien, aus der Art, dem Umfang, den Umständen
+und dem Zweck der Bearbeitung.
+2
+Besteht voraussichtlich ein hohes Risiko, ist eine Datenschutz-Folgenabschätzung durchzuführen.
+3
+Die Folgenabschätzung enthält mindestens:
+a)
+eine allgemeine Beschreibung der geplanten Bearbeitungsvorgänge;
+b)
+eine Bewertung der in Bezug auf die Grundrechte der betroffenen Personen bestehende Risiken
+sowie
+c)
+eine Darstellung und Bewertung der geplanten Abhilfemassnahmen, Garantien,
+Sicherheitsvorkehren und Verfahren, durch die der Schutz der Grundrechte der Personen
+sichergestellt und der Nachweis erbracht werden soll, dass dieses Gesetz eingehalten wird.
+§ 13 Abs. 1 (geändert), Abs. 2 (geändert)
+Vorabkonsultation der oder des Datenschutzbeauftragten (Überschrift geändert)
+1
+Das verantwortliche öffentliche Organ legt der oder dem Datenschutzbeauftragten frühzeitig zur
+Vorabkonsultation vor:
+a)
+(neu) Rechtsetzungsprojekte, die das Bearbeiten von Personendaten betreffen oder die für den
+Umgang mit Informationen erheblich sind, und
+b)
+(neu) Vorhaben zur Bearbeitung von Personendaten, die aufgrund der Art der Bearbeitung oder
+der zu bearbeitenden Daten zu einem hohen Risiko für die Grundrechte der betroffenen Personen
+führen.
+2
+Die oder der Datenschutzbeauftragte erstellt eine Liste der Bearbeitungsvorgänge, die zur
+Vorabkonsultation zu unterbreiten sind.
+§ 14 Abs. 1 (geändert), Abs. 2 (geändert)
+Datenschutz durch Technikgestaltung und durch datenschutzfreundliche
+Voreinstellungen (Überschrift geändert)
+
+Seite 3/8
+
+1
+
+Das öffentliche Organ trifft bei Datenbearbeitungen von Anfang an Massnahmen, die das Risiko von
+Verletzungen der Grundrechte verringern und solchen Verletzungen vorbeugen.
+2
+Es stellt mittels geeigneter Voreinstellungen sicher, dass standardmässig nur diejenigen Personendaten
+bearbeitet werden, die für den jeweiligen Verwendungszweck erforderlich sind.
+§ 15 Abs. 1 (geändert), Abs. 2 (geändert), Abs. 3 (geändert), Abs. 4 (neu)
+Informationspflicht bei der Beschaffung (Überschrift geändert)
+1
+Das verantwortliche öffentliche Organ informiert die betroffene Person über jede Beschaffung von
+Personendaten. Diese Informationspflicht gilt auch, wenn die Daten bei Dritten beschafft werden.
+2
+Die Information umfasst insbesondere Angaben über:
+a)
+(neu) das verantwortliche öffentliche Organ samt Kontaktdaten;
+b)
+(neu) die bearbeiteten Daten oder die Kategorien der bearbeiteten Daten;
+c)
+(neu) die Rechtsgrundlage und den Zweck des Bearbeitens;
+d)
+(neu) die Datenempfangenden oder die Kategorien der Datenempfangenden, falls die Daten
+Dritten bekannt gegeben werden, und
+e)
+(neu) die Rechte der betroffenen Person.
+3
+Die Informationspflicht entfällt, wenn
+a)
+(neu) die betroffene Person bereits über die Informationen nach Abs. 2 verfügt;
+b)
+(neu) wenn das Bearbeiten der Personendaten gesetzlich ausdrücklich vorgesehen ist oder
+c)
+(neu) die Information nicht oder nur mit unverhältnismässigem Aufwand möglich ist.
+4
+Die Übermittlung der Informationen kann unter denselben Voraussetzungen eingeschränkt werden wie der
+Zugang zu den eigenen Personendaten.
+§ 16 Abs. 2 (neu)
+2
+Für Informationsbestände, die Personendaten enthalten, sind Fristen für die Vernichtung beziehungsweise
+für die Überprüfung, ob die Daten zur Aufgabenerfüllung noch erforderlich sind, festzulegen.
+§ 16a (neu)
+Meldung von Datenschutzverletzungen
+1
+Das verantwortliche öffentliche Organ meldet der oder dem Datenschutzbeauftragten ohne
+unangemessene Verzögerung eine Datenschutzverletzung.
+2
+Die Auftragsdatenbearbeiterin oder der Auftragsdatenbearbeiter informiert das auftraggebende öffentliche
+Organ unverzüglich über eine Datenschutzverletzung.
+3
+Eine Datenschutzverletzung liegt vor, wenn durch eine Verletzung der Informationssicherheit bearbeitete
+Personendaten unwiederbringlich vernichtet werden oder verloren gehen, unbeabsichtigt oder
+unrechtmässig verändert oder offenbart werden oder Unbefugte Zugang zu solchen Personendaten erhalten.
+4
+Eine Meldepflicht besteht nicht, wenn die Datenschutzverletzung voraussichtlich nicht zu einem Risiko
+für die Grundrechte der betroffenen Person führt.
+5
+Das öffentliche Organ informiert die betroffenen Personen, wenn die Umstände dies erfordern oder der
+oder die Datenschutzbeauftragte es verlangt.
+6
+Die Benachrichtigung der betroffenen Personen kann ganz oder teilweise unterbleiben oder aufgeschoben
+werden, wenn eine Einschränkung gemäss § 29 zulässig ist.
+§ 16b (neu)
+Datenschutzberatung
+1
+Die Departemente der kantonalen Verwaltung, die Gerichte und die Einwohner- und Bürgergemeinden
+bezeichnen eine Datenschutzberaterin oder einen Datenschutzberater.
+2
+Der Regierungsrat bestimmt zusätzlich die Bereiche, Abteilungen und Stabsstellen der kantonalen
+Verwaltung sowie die öffentlich-rechtlichen Anstalten des kantonalen Rechts, die eine eigene
+Datenschutzberaterin oder einen eigenen Datenschutzberater zu bezeichnen haben. Er berücksichtigt dabei
+die Art und Menge der von diesen bearbeiteten Personendaten.
+3
+Diese Person hat die folgenden Aufgaben:
+
+Seite 4/8
+
+a)
+b)
+c)
+
+sie berät und unterstützt bei der Bearbeitung von Personendaten;
+sie unterstützt bei der Vornahme der Datenschutz-Folgenabschätzungen gemäss § 12a Abs. 1;
+sie arbeitet mit der oder dem Datenschutzbeauftragten zusammen.
+
+§ 18 Abs. 2, Abs. 4 (geändert), Abs. 4bis (neu), Abs. 4ter (neu), Abs. 5 (geändert)
+2
+Zuständig für den Erlass der Reglemente sind:
+d)
+(geändert) das oberste Führungsorgan selbständiger Anstalten und Körperschaften des
+öffentlichen Rechts bei Systemen in ihrem Verantwortungsbereich.
+4
+Vor dem Erlass und der Verlängerung eines Reglements ist das Vorhaben der oder dem
+Datenschutzbeauftragten zur Vorabkonsultation vorzulegen.
+4bis
+Die Reglemente sind der Öffentlichkeit leicht zugänglich zu machen.
+4ter
+Soweit durch die Bekanntgabe der Kamerastandorte oder anderer Einsatzdetails die Zweckerreichung
+verunmöglicht wird, kann auf deren Veröffentlichung verzichtet werden.
+5
+Der Regierungsrat regelt das Nähere für die kantonale Verwaltung. Für die Gerichte, die Gemeinden, die
+weiteren Körperschaften und die selbständigen Anstalten gilt die Regelung des Kantons sinngemäss, soweit
+sie keine eigene erlassen.
+§ 20 Abs. 4 (geändert)
+4
+Der Regierungsrat regelt die Informationstätigkeit für die kantonale Verwaltung. Für die Gerichte, die
+Gemeinden, die weiteren Körperschaften und die selbständigen Anstalten gilt die Regelung des Kantons
+sinngemäss, soweit sie keine eigene erlassen.
+§ 21 Abs. 2 (geändert)
+2
+Besondere Personendaten oder Resultate eines Profilings gibt das öffentliche Organ bekannt, wenn
+Aufzählung unverändert.
+§ 22 Abs. 1 (geändert), Abs. 4 (geändert), Abs. 5 (geändert)
+1
+Das öffentliche Organ kann anderen öffentlichen Organen im Kanton, in anderen Kantonen oder im Bund
+Personendaten zur Bearbeitung für einen nicht personenbezogenen Zweck, namentlich für Statistik,
+Planung oder Forschung, bekannt geben, sofern dies nicht durch eine besondere
+Geheimhaltungsbestimmung ausgeschlossen ist.
+4
+Privaten kann das öffentliche Organ Personendaten zur Bearbeitung für Zwecke der Forschung bekannt
+geben, sofern dies nicht durch eine besondere Geheimhaltungsbestimmung ausgeschlossen ist und sich die
+Empfängerin oder der Empfänger zusätzlich zu den Anforderungen von Abs. 2 verpflichtet,
+Aufzählung unverändert.
+5
+Unter den gleichen Voraussetzungen kann die richterliche Behörde den in einem kantonalen
+Anwaltsregister nach dem Bundesgesetz über die Freizügigkeit der Anwältinnen und Anwälte
+(Anwaltsgesetz, BGFA) vom 23. Juni 2000 eingetragenen Anwältinnen und Anwälte zum Zweck der
+Berufsausübung Urteile mit Personendaten bekannt geben, sofern die Urteile nicht bereits in anonymisierter
+Form vorliegen.
+§ 26 Abs. 2 (neu)
+2
+Der Zugang umfasst:
+a)
+alle Personendaten zur gesuchstellenden Person;
+b)
+alle verfügbaren Informationen über die Herkunft der Personendaten, wenn sie nicht bei der
+betroffenen Person erhoben worden sind und
+c)
+die weiteren Angaben nach § 15 Abs. 2.
+§ 27 Abs. 1 (geändert), Abs. 1bis (neu), Abs. 1ter (neu)
+1
+Jede betroffene Person kann vom öffentlichen Organ verlangen, dass es kostenlos
+c)
+(geändert) die Folgen des widerrechtlichen Bearbeitens von Personendaten beseitigt,
+insbesondere die sie betreffenden Personendaten löscht oder ihre Bekanntgabe an Dritte sperrt;
+
+Seite 5/8
+
+1bis
+
+Das schutzwürdige Interesse der betroffenen Person wird vermutet.
+Die Berichtigung, Vernichtung oder Löschung von Personendaten und die Sperrung der Bekanntgabe an
+Dritte ist ausserdem jenen Personen oder Stellen, denen die Daten zuvor bekannt gegeben worden sind,
+mitzuteilen, soweit dies nicht unmöglich oder mit unverhältnismässigem Aufwand verbunden ist.
+1ter
+
+§ 28a (neu)
+Aufsichtsrechtliche Anzeige an die Datenschutzbeauftragte oder den Datenschutzbeauftragten
+1
+Jede Person hat das Recht, sich mit einer aufsichtsrechtlichen Anzeige an die Datenschutzbeauftragte oder
+den Datenschutzbeauftragten zu wenden, wenn sie der Ansicht ist, dass ein öffentliches Organ, eine
+Auftragsbearbeiterin oder ein Auftragsbearbeiter bei der Bearbeitung von sie betreffenden Personendaten
+gegen die datenschutzrechtlichen Vorschriften verstösst.
+2
+Der anzeigenden Person kommt in diesem Verfahren keine Parteistellung zu.
+3
+Die oder der Datenschutzbeauftragte informiert sie innert drei Monaten über den Stand beziehungsweise
+das Ergebnis der Abklärungen und die Erledigung.
+§ 38 Abs. 3
+Stellung und Aufsichtszuständigkeit (Überschrift geändert)
+3
+Der Kontrolle durch die Datenschutzbeauftragte oder den Datenschutzbeauftragten unterstehen nicht:
+b)
+(geändert) der Regierungsrat als Behörde;
+c)
+(neu) Datenbearbeitungen in hängigen Verfahren der Zivil- und Strafrechtspflege und
+d)
+(neu)
+Datenbearbeitungen
+in
+hängigen
+Verfahren
+der
+Verfassungsund
+Verwaltungsgerichtsbarkeit.
+§ 44 Abs. 1
+1
+Die oder der Datenschutzbeauftragte
+b)
+(geändert) nimmt Stellung zu Rechtsetzungs- und anderen Vorhaben, die ihr oder ihm nach § 13
+zur Vorabkonsultation vorzulegen sind;
+f)
+(geändert) behandelt aufsichtsrechtliche Anzeigen nach § 28a;
+g)
+(neu) sensibilisiert die öffentlichen Organe für ihre datenschutzrechtlichen Pflichten und die
+Öffentlichkeit für die Anliegen des Datenschutzes und der Transparenz;
+h)
+(neu) verfolgt die für den Schutz von Personendaten und das Öffentlichkeitsprinzip
+massgeblichen Entwicklungen.
+§ 45 Abs. 1 (geändert), Abs. 2 (geändert)
+1
+Die oder der Datenschutzbeauftragte kann bei öffentlichen Organen, bei Auftragsdatenbearbeiterinnen und
+Auftragsdatenbearbeitern sowie bei Drittpersonen, die von einem öffentlichen Organ Personendaten
+erhalten haben, ungeachtet allfälliger Geheimhaltungspflichten, schriftlich oder mündlich Auskunft über
+Datenbearbeitungen einholen, Einsicht in alle Unterlagen nehmen, Besichtigungen durchführen und sich
+Bearbeitungen vorführen lassen.
+2
+Die öffentlichen Organe, die Auftragsdatenbearbeiterinnen und Auftragsdatenbearbeiter sowie
+Drittpersonen, die von einem öffentlichen Organ Personendaten erhalten haben, sind verpflichtet, die
+Aufsichtsstelle bei der Erfüllung ihrer Aufgaben zu unterstützen. Sie wirken insbesondere an der
+Feststellung des Sachverhaltes mit.
+§ 50 Abs. 1 (geändert), Abs. 2 (aufgehoben)
+1
+Die oder der Datenschutzbeauftragte erstattet der Wahlbehörde und der Öffentlichkeit periodisch und bei
+Bedarf Bericht über Umfang und Schwerpunkte der Tätigkeiten, über wichtige Feststellungen und
+Beurteilungen sowie über die Wirkung des Gesetzes.
+2
+Aufgehoben.
+§ 51 Abs. 1 (geändert)
+1
+Mit Busse bestraft wird, wer:
+
+Seite 6/8
+
+a)
+
+b)
+
+(neu) als Auftragsdatenbearbeiterin oder Auftragsdatenbearbeiter gemäss § 7 ohne ausdrückliche
+Ermächtigung des auftraggebenden öffentlichen Organs vorsätzlich oder fahrlässig Personendaten
+für sich oder andere verwendet oder anderen bekannt gibt oder
+(neu) als Auftragsdatenbearbeiterin oder Auftragsdatenbearbeiter gemäss § 7 ohne vorgängige
+schriftliche Einwilligung des auftraggebenden öffentlichen Organs die Datenbearbeitung einer
+weiteren Auftragsdatenbearbeiterin und einem weiteren Auftragsdatenbearbeiter überträgt.
+
+§ 55 Abs. 1 (geändert)
+1
+Diese Änderung ist zu publizieren; sie unterliegt dem Referendum und der Regierungsrat bestimmt den
+Zeitpunkt des Inkrafttretens.
+II. Änderung anderer Erlasse
+1.
+
+Das Geoinformationsgesetz (KGeoIG) vom 16. November 2011 2) (Stand 1. September 2012) wird wie
+folgt geändert:
+§ 12 Abs. 3 (geändert)
+3
+Werden die Geodaten gemäss § 3 mit Downloaddienst zugänglich gemacht, ist vorab die oder der
+Datenschutzbeauftragte gemäss § 13 des Informations- und Datenschutzgesetzes (Informations- und
+Datenschutzgesetz, IDG) vom 9. Juni 2010 zu konsultieren.
+2.
+
+Das Finanz- und Verwaltungskontrollgesetz (FVKG) vom 17. September 2003 3) (Stand 1. Juli 2016) wird
+wie folgt geändert:
+§ 22 Abs. 2 (geändert)
+2
+Die Finanzkontrolle hat das Recht, die für die Wahrnehmung der Finanzaufsicht erforderlichen
+Personendaten aus den Datensammlungen der Departemente und Dienststellen, der Gerichte sowie der
+selbständigen öffentlich-rechtlichen und privatrechtlichen Anstalten abzurufen. Soweit die Daten für die
+Aufgabenerfüllung geeignet und erforderlich sind, erstreckt sich das Zugriffsrecht auch auf besondere
+Personendaten. Die Finanzkontrolle unterliegt dabei der gleichen Geheimhaltungspflicht wie die geprüfte
+Stelle. Die Finanzkontrolle darf die ihr derart zur Kenntnis gebrachten Personendaten nur bis zum
+Abschluss des Revisionsverfahrens aufbewahren oder speichern. Die Zugriffe auf die verschiedenen
+Datensammlungen und die damit verfolgten Zwecke müssen dokumentiert sein.
+3.
+
+Das Gesetz über die direkten Steuern (Steuergesetz, StG) vom 12. April 2000 4) (Stand 1. Januar 2021) wird
+wie folgt geändert:
+§ 141a Abs. 1 (geändert)
+1
+Die Steuerverwaltung betreibt zur Erfüllung ihrer Aufgaben ein Informationssystem. Dieses kann auch
+besondere Personendaten über administrative und strafrechtliche Sanktionen enthalten, die steuerrechtlich
+wesentlich sind.
+4.
+
+Das Gesetz über die Industriellen Werke Basel (IWB-Gesetz) vom 11. Februar 2009 5) (Stand 1. Juli 2020)
+wird wie folgt geändert:
+
+2)
+3)
+4)
+5)
+
+SG 214.300
+SG 610.200
+SG 640.100
+SG 772.300
+
+Seite 7/8
+
+§ 35a Abs. 3 (geändert)
+3
+Die Einzelheiten der Datenbearbeitung gemäss Abs. 1 und 2 werden in vom Verwaltungsrat zu
+erlassenden und vom Regierungsrat zu genehmigenden Ausführungsbestimmungen für jedes Medium
+(Elektrizität, Erdgas, Fernwärme und Wasser) separat geregelt. Diese Ausführungsbestimmungen zur
+Datenbearbeitung sind der oder dem kantonalen Datenschutzbeauftragten im Rahmen einer
+Vorabkonsultation vorzulegen.
+5.
+
+Das Gesetz betreffend die Tagesbetreuung von Kindern
+17. September 2003 6) (Stand 1. Januar 2016) wird wie folgt geändert:
+
+(Tagesbetreuungsgesetz)
+
+vom
+
+§ 15 Abs. 1 (geändert) 7
+1
+Für die Bearbeitung der Daten, einschliesslich besonderer Personendaten, ist das Gesetz über die
+Harmonisierung und Koordination von bedarfsabhängigen Sozialleistungen im Kanton Basel-Stadt
+(Harmonisierungsgesetz Sozialleistungen, SoHaG) vom 25. Juni 2008 massgebend.
+6.
+
+Das Gesetz über die Harmonisierung und Koordination von bedarfsabhängigen Sozialleistungen
+(Harmonisierungsgesetz Sozialleistungen, SoHaG) vom 25. Juni 2008 8) (Stand 1. Juli 2015) wird wie folgt
+geändert:
+§ 25 Abs. 2 (geändert), Abs. 3 (geändert)
+2
+Die Bekanntgabe von Daten für einen nicht personenbezogenen Zweck, namentlich für Planung und
+Forschung, an andere öffentliche Organe im Kanton sowie an öffentliche Organe in anderen Kantonen oder
+des Bundes richtet sich nach § 22 IDG.
+3
+Die Bekanntgabe von Daten an Private kann zum Zweck der Forschung ausschliesslich in anonymisierter
+Form erfolgen.
+III. Aufhebung anderer Erlasse
+Keine Aufhebung anderer Erlasse.
+IV. Schlussbestimmung
+Diese Änderung ist zu publizieren; sie unterliegt dem Referendum und der Regierungsrat bestimmt den
+Zeitpunkt des Inkrafttretens.
+
+6)
+7
+
+8)
+
+SG 815.100
+Dieses Gesetz ist aufgehoben; massgebend ist jetzt § 24 des Tagesbetreuungsgesetzes vom 8.5.2019, in Kraft
+getreten am 1.1.2022.
+SG 890.700
+
+Seite 8/8
+
+

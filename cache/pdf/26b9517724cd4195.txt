@@ -1,0 +1,254 @@
+Grosser Rat des Kantons Basel-Stadt
+Beschluss
+Nr.
+Vom
+
+23/12/14G
+22.03.2023
+P221784
+
+Ratschlag zu einer Teilrevision des Gesetzes über die direkten Steuern vom 12. April 2000
+(Steuergesetz, StG)
+22.1784.01, Ratschlag des RR vom 11.01.2023
+
+://:
+
+Zustimmung
+
+Gesetz über die direkten Steuern
+(Steuergesetz, StG)
+Der Grosse Rat des Kantons Basel-Stadt,
+nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 22.1784.01 vom 11. Januar 2023 und nach
+dem mündlichen Antrag der Wirtschafts- und Abgabekommission vom 22. März 2023,
+beschliesst:
+I.
+Das Gesetz über die direkten Steuern (Steuergesetz, StG) vom 12. April 2000 1) (Stand 1. Januar 2021) wird
+wie folgt geändert:
+§ 25 Abs. 1
+1
+Der Einkommenssteuer unterliegen nicht:
+m)
+(neu) Einkünfte aufgrund des Bundesgesetzes vom 19. Juni 2020 über Überbrückungsleistungen
+für ältere Arbeitslose (ÜLG).
+II. Änderung anderer Erlasse
+Keine Änderung anderer Erlasse.
+III. Aufhebung anderer Erlasse
+Keine Aufhebung anderer Erlasse.
+IV. Schlussbestimmung
+Diese Änderung ist zu publizieren; sie unterliegt dem Referendum und tritt am 1. Januar 2024 in Kraft.
+
+1)
+
+SG 640.100
+
+://:
+
+Zustimmung
+
+Gesetz über die direkten Steuern
+(Steuergesetz, StG)
+Der Grosse Rat des Kantons Basel-Stadt,
+nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 22.1784.01 vom 11. Januar 2023 und nach
+dem mündlichen Antrag der Wirtschafts- und Abgabekommission vom 22. März 2023,
+
+beschliesst:
+I.
+Das Gesetz über die direkten Steuern (Steuergesetz, StG) vom 12. April 2000 1) (Stand 1. Januar 2022) wird
+wie folgt geändert:
+§ 58 Abs. 2 (geändert)
+2
+Den übrigen juristischen Personen gleichgestellt sind die kollektiven Kapitalanlagen mit direktem
+Grundbesitz nach Art. 58 oder 118a des Bundesgesetzes über die kollektiven Kapitalanlagen vom 23. Juni
+2006 (Kollektivanlagengesetz, KAG). Die Investmentgesellschaften mit festem Kapital nach Art. 110 KAG
+werden wie Kapitalgesellschaften besteuert.
+II. Änderung anderer Erlasse
+Keine Änderung anderer Erlasse.
+III. Aufhebung anderer Erlasse
+Keine Aufhebung anderer Erlasse.
+IV. Schlussbestimmung
+Diese Änderung ist zu publizieren; sie unterliegt dem Referendum und tritt gleichzeitig mit der Änderung
+von Art. 20 Abs. 1 zweiter Satz des Steuerharmonisierungsgesetzes vom 14. Dezember 1990 (Änderung des
+Bundesgesetzes über die kollektiven Kapitalanlagen [Kollektivanlagengesetz, KAG] vom 17. Dezember
+2021) in Kraft.
+
+1)
+
+SG 640.100
+
+Seite 2/7
+
+://:
+
+Zustimmung
+
+Gesetz über die direkten Steuern
+(Steuergesetz, StG)
+Der Grosse Rat des Kantons Basel-Stadt,
+nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 22.1784.01 vom 11. Januar 2023 und nach
+dem mündlichen Antrag der Wirtschafts- und Abgabekommission vom 22. März 2023,
+beschliesst:
+I.
+Das Gesetz über die direkten Steuern (Steuergesetz, StG) vom 12. April 2000 1) (Stand 1. Januar 2022) wird
+wie folgt geändert:
+§ 23 Abs. 3 (geändert)
+3
+Leibrentenversicherungen sowie Leibrenten- und Verpfründungsverträge sind im Umfang ihres
+Ertragsanteils steuerbar. Dieser bestimmt sich wie folgt:
+a)
+(neu) Bei garantierten Leistungen aus Leibrentenversicherungen, die dem Bundesgesetz über den
+Versicherungsvertrag vom 2. April 1908 (Versicherungsvertragsgesetz, VVG) unterstehen, ist der
+im Zeitpunkt des Vertragsabschlusses auf der Grundlage von Artikel 36 Absatz 1 des
+Versicherungsaufsichtsgesetzes vom 17. Dezember 2004 bestimmte maximale technische
+Zinssatz (m) während der gesamten Vertragsdauer massgebend:
+1.
+Ist dieser Zinssatz grösser als null, so berechnet sich der Ertragsanteil, auf den nächstliegenden
+ganzen Prozentwert auf- oder abgerundet, wie folgt:
+.
+Ertragsanteil = [1 - ((1 + m)²² - 1) / (22 × m × (1 + m)²³)] × 100 %
+2.
+Ist dieser Zinssatz negativ oder null, so beträgt der Ertragsanteil null Prozent.
+b)
+(neu) Bei Überschussleistungen aus Leibrentenversicherungen, die dem VVG unterstehen,
+entspricht der Ertragsanteil 70 Prozent dieser Leistungen.
+c)
+(neu) Bei Leistungen aus ausländischen Leibrentenversicherungen, aus Leibrenten und aus
+Verpfründungsverträgen ist die Höhe der um 0,5 Prozentpunkte erhöhten annualisierten Rendite
+zehnjähriger Bundesobligationen (r) während des betreffenden Steuerjahres und der neun
+vorangegangenen Jahre massgebend:
+1.
+Ist diese Rendite grösser als null, so berechnet sich der Ertragsanteil, auf den nächstliegenden
+ganzen Prozentwert auf- oder abgerundet, wie folgt:
+.
+Ertragsanteil = [1 - ((1 + r)²² - 1) / (22 × r × (1 + r)²³)] × 100 %
+2.
+Ist diese Rendite negativ oder null, so beträgt der Ertragsanteil null Prozent.
+§ 32 Abs. 1
+1
+Von den Einkünften werden abgezogen:
+b)
+(geändert) die dauernden Lasten sowie der Ertragsanteil nach § 23 Abs. 3 lit. c der Leistungen
+aus Leibrenten- und aus Verpfründungsverträgen;
+§ 155 Abs. 1
+1
+Gegenüber der steuerpflichtigen Person sind zur Ausstellung schriftlicher Bescheinigungen verpflichtet:
+
+1)
+
+SG 640.100
+
+Seite 3/7
+
+c)
+
+(geändert) Versicherer über den Rückkaufswert von Versicherungen und über die aus dem
+Versicherungsverhältnis
+ausbezahlten
+oder
+geschuldeten
+Leistungen.
+Bei
+Leibrentenversicherungen, die dem VVG unterstehen, müssen sie zusätzlich das Abschlussjahr,
+die Höhe der garantierten Leibrente, den gesamten steuerbaren Ertragsanteil nach § 23 Abs. 3
+sowie die Überschussleistungen und den Ertragsanteil aus diesen Leistungen nach § 23 Abs. 3 lit.
+b ausweisen;
+
+II. Änderung anderer Erlasse
+Keine Änderung anderer Erlasse.
+III. Aufhebung anderer Erlasse
+Keine Aufhebung anderer Erlasse.
+IV. Schlussbestimmung
+Diese Änderung ist zu publizieren; sie unterliegt dem Referendum und tritt gleichzeitig mit der Änderung
+von Art. 7 Abs. 2 und Art. 9 Abs. 2 lit. b des Steuerharmonisierungsgesetzes vom 14. Dezember 1990
+(Bundesgesetz über die Besteuerung von Leibrenten und ähnlichen Vorsorgeformen vom 17. Juni 2022) in
+Kraft.
+
+Seite 4/7
+
+://:
+
+Zustimmung
+
+Gesetz über die direkten Steuern
+(Steuergesetz, StG)
+Der Grosse Rat des Kantons Basel-Stadt,
+nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 22.1784.01 vom 11. Januar 2023 und nach
+dem mündlichen Antrag der Wirtschafts- und Abgabekommission vom 22. März 2023,
+beschliesst:
+I.
+Das Gesetz über die direkten Steuern (Steuergesetz, StG) vom 12. April 2000 1) (Stand 1. Januar 2022) wird
+wie folgt geändert:
+§ 157 Abs. 1
+1
+Der Steuerverwaltung haben für jede Steuerperiode eine Bescheinigung einzureichen:
+e)
+(geändert) Arbeitgebende über ihre Leistungen an die Arbeitnehmer und Arbeitnehmerinnen in
+Form eines Exemplars des Lohnausweises oder in anderer von der Steuerverwaltung genehmigter
+Form; ebenfalls zu bescheinigen sind geldwerte Vorteile aus echten Mitarbeiterbeteiligungen
+sowie die Zuteilung und die Ausübung von Mitarbeiteroptionen;
+f)
+(neu) Organe, die Leistungen nach dem Bundesgesetz über die obligatorische
+Arbeitslosenversicherung und die Insolvenzentschädigung vom 25. Juni 1982
+(Arbeitslosenversicherungsgesetz, AVIG) erbringen, über ihre Leistungen an die versicherten
+Personen.
+II. Änderung anderer Erlasse
+Keine Änderung anderer Erlasse.
+III. Aufhebung anderer Erlasse
+Keine Aufhebung anderer Erlasse.
+IV. Schlussbestimmung
+Diese Änderung ist zu publizieren; sie unterliegt dem Referendum und tritt am 1. Januar 2024 in Kraft.
+
+1)
+
+SG 640.100
+
+Seite 5/7
+
+://:
+
+Zustimmung
+
+Gesetz über die direkten Steuern
+(Steuergesetz, StG)
+Der Grosse Rat des Kantons Basel-Stadt,
+nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 22.1784.01 vom 11. Januar 2023 und nach
+dem mündlichen Antrag der Wirtschafts- und Abgabekommission vom 22. März 2023,
+beschliesst:
+I.
+Das Gesetz über die direkten Steuern (Steuergesetz, StG) vom 12. April 2000 1) (Stand 1. Januar 2022) wird
+wie folgt geändert:
+§ 69
+Allgemeines (Überschrift geändert)
+§ 70
+Geschäftsmässig begründeter Aufwand (Überschrift geändert)
+§ 71
+Erfolgsneutrale Vorgänge (Überschrift geändert)
+§ 72
+Unternehmensumstrukturierungen (Überschrift geändert)
+§ 73
+Ersatzbeschaffungen (Überschrift geändert)
+§ 74
+Gewinne von Vereinen, Stiftungen und kollektiven Kapitalanlagen (Überschrift geändert)
+§ 74a
+Gewinne von juristischen Personen mit ideellen Zwecken (Überschrift geändert)
+§ 75
+Verluste (Überschrift geändert)
+Titel nach Titel (1. Teil/3. Abschn./B.) II. (geändert)
+(1. Teil/3. Abschn./B./II.) 1. Juristische Personen
+Titel nach § 76 (geändert)
+(1. Teil/3. Abschn./B./II.) 2. Gesellschaften mit Beteiligungen
+II. Änderung anderer Erlasse
+Keine Änderung anderer Erlasse.
+1)
+
+SG 640.100
+
+Seite 6/7
+
+III. Aufhebung anderer Erlasse
+Keine Aufhebung anderer Erlasse.
+IV. Schlussbestimmung
+Diese Änderung ist zu publizieren; sie unterliegt dem Referendum und tritt am 1. Januar 2023 in Kraft.
+
+Seite 7/7
+
+
