@@ -8,8 +8,14 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411746.pdf
 
 ## 2026-01-07 24.1443 Finanzierung der weiteren Arbeit im Zusammenhang mit dem Herzstück und dem Bahnknoten Basel
 Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411756.pdf
-- einmalig: Fr. 18'006'000  
-  «2. Der Grosse Rat nimmt den Zwischenbericht zu den Planungen und Projektierungen im Zusammenhang mit dem Herzstück und dem Bahnknoten Basel zur Kenntnis, im Speziellen die Erkenntnisse aus der bisherigen Planung zum Stadtraum Bahnhof SBB, die den weiteren Arbeiten zugrunde liegen sollen. Für die weitere Finanzierung der Planung und Projektierung der mit dem Bahnausbau zusammenhängenden kantonalen »
+- einmalig: Fr. 990'000  
+  «Fr. 990'000 für die Erhöhung der bisherigen Ausgaben von Fr. 3’106'000 auf Fr. 4'096'000 für die Beteiligung am Aufwand auf Stufe Bahnknoten für die Koordination zwischen Bahnplanung und Planung von kantonalen Infrastrukturen im Zusammenhang mit dem Herzstück und Bahnknotenausbau inkl. Mittel für die befristeten Personalressourcen zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements. »
+- einmalig: Fr. 1'290'000  
+  «Fr. 1'290'000 für die Erhöhung der bisherigen Ausgaben von Fr. 3’750'000 auf Fr. 5’040'000 für die Finanzierung der Planung von kantonalen Infrastrukturen im Zusammenhang mit dem Herzstück und Bahnknotenausbau (DEFINE) inkl. Mittel für die befristeten Personalressourcen zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements. »
+- einmalig: Fr. 460'000  
+  «Fr. 460’000 für die Erhöhung der bisherigen Ausgaben von Fr. 7'560'000 auf Fr. 8'020'000 für die Finanzierung der Projektierung von kantonalen Infrastrukturen im Zusammenhang mit dem Herzstück und Bahnknotenausbau (DESIGN) inkl. Mittel für die befristeten Personalressourcen zu Lasten der Investitionsrechnung des Bau- und Verkehrsdepartements, Investitionsbereich 2, «Öffentlicher Verkehr». »
+- einmalig: Fr. 850'000  
+  «Fr. 850'000 für die Finanzierung von Lobbying und Stakeholdermanagement im Zusammenhang mit dem Bahnknotenausbau resp. dem «Herzstück» zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements.»
 
 ## 2026-01-14 25.1115 Anpassung des Finanzhaushaltgesetzes
 Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411780.pdf
@@ -17,51 +23,63 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411780.pdf
 
 ## 2026-01-14 25.1408 Bewilligung von Staatsbeiträgen im Bereich musikalische Bildung für die Jahre 2026 bis 2029
 Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411782.pdf
-- befristet: Fr. 3'214'832  
-  «1. Für den Verein «Knaben- und Mädchenmusik Basel 1841» werden für die Jahre 2026 bis 2029 Ausgaben von insgesamt Fr. 803’708 (Fr. 200’927 p. a.), zuzüglich allfälliger Teuerung gemäss § 12 des Staatsbeitragsgesetzes, bewilligt.»
+- befristet: Fr. 803'708  
+  «Für den Verein «Knaben- und Mädchenmusik Basel 1841» werden für die Jahre 2026 bis 2029 Ausgaben von insgesamt Fr. 803’708 (Fr. 200’927 p. a.), zuzüglich allfälliger Teuerung gemäss § 12 des Staatsbeitragsgesetzes, bewilligt.»
+- befristet: Fr. 380'000  
+  «Für den Verein «Knabenkantorei Basel» werden für die Jahre 2026 bis 2029 Ausgaben von insgesamt Fr. 380’000 (Fr. 95’000 p. a.) bewilligt.»
+- befristet: Fr. 520'000  
+  «Für den Verein «Mädchenkantorei Basel» werden für die Jahre 2026 bis 2029 Ausgaben von insgesamt Fr. 520’000 (Fr. 130’000 p. a.) bewilligt.»
+- befristet: Fr. 440'000  
+  «Für den Verein «Musikverband beider Basel» werden für die Jahre 2026 bis 2029 Ausgaben von insgesamt Fr. 440’000 (Fr. 110’000 p. a.) bewilligt.»
 
 ## 2026-01-14 25.1387 Bewilligung von Staatsbeiträgen an den Verein Jazz-Live Basel für die Jahre 2026 bis 2029
 Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411783.pdf
-- befristet: Fr. 1'840'000  
+- befristet: Fr. 460'000  
   «Für den Verein Jazz-Live Basel werden für die Jahre 2026 bis 2029 Ausgaben von insgesamt Fr. 460’000 (Fr. 115’000 p. a.) bewilligt.»
 
 ## 2026-01-14 25.1426 Erneuerung des Staatsbeitrags an das Felix Platter-Spital für das Projekt "Advanced Practice Nurse-led Interprofessional Transitional Care Model for Frail Geriatric Adults (AdvantAGE)" für die Jahre 2026 bis 2028
 Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411790.pdf
-- keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
+- befristet: Fr. 1'668'867  
+  «Für die Fortführung des Modellprojekts «Advanced Practice Nurse-led Interprofessional Transitional Care Model for Frail Geriatric Adults (AdvantAGE)» des Felix Platter-Spitals werden für die Jahre 2026 bis 2028 Ausgaben von insgesamt 1'668'867 Franken (556'289 Franken jährlich) bewilligt.»
 
 ## 2026-01-14 25.1574 Finanzhilfe an den Verein Aliena für ein Pilotprojekt zur Entwicklung und Umsetzung eines Berufswechsels für Sexarbeitende (Ausstiegsprogramm) für die Jahre 2026-2030
 Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411791.pdf
-- befristet: Fr. 7'165'125  
+- befristet: Fr. 1'433'025  
   «Für den Verein Aliena «Fachstelle für Frauen im Sexgewerbe» werden für den Aufbau und die Umsetzung eines Pilotprojekts zur Ausstiegshilfe für Sexarbeitende Ausgaben in der Höhe von insgesamt Fr. 1'433’025 für die Jahre 2026 bis 2030 (Fr. 286'605 p.a.) bewilligt.»
 
 ## 2026-01-14 25.1222 Teilrevision des Staatsbeitragsgesetzes vom 11. Dezember 2013 (StBG)
-Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411778.pdf
-- wiederkehrend: Fr. 50'000  
-  «I. Das Staatsbeitragsgesetz (StBG) vom 11. Dezember 2013 1) (Stand 18. Februar 2021) wird wie folgt geändert: § 12 Abs. 1 (geändert), Abs. 2 (geändert), Abs. 3 (neu) 1 Staatsbeiträge werden während eines laufenden Vertrags jährlich der Teuerung angepasst. Die Anpassung an die Teuerung richtet sich nach der Personalteuerung beim Kanton und wird auf den Personalkosten entsprechend dem Finanzierungsa»
+Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411778.pdf (korrigiert)
+- keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
 
 ## 2026-01-14 25.1389 Bewilligung Staatsbeitrag zugunsten der Frauenberatungsstelle der familea für den Zeitraum 2026-2029
 Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411784.pdf
-- befristet: Fr. 7'744'000  
+- befristet: Fr. 1'936'000  
   «Für die Frauenberatungsstelle der familea werden für die Jahre 2026–2029 Ausgaben in der Höhe von insgesamt Fr. 1'936’000 (Fr. 484'000 p. a.) bewilligt.»
 
 ## 2026-01-14 24.1416 Planung und Projektierung von Infrastrukturen des Fuss- und Veloverkehrs im Zusammenhang mit dem Ausbau des Bahnknotens
 Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411785.pdf
-- einmalig: Fr. 6'280'000  
-  «Der Grosse Rat bewilligt die weitere Finanzierung der Planung und Projektierung der mit dem Bahnausbau zusammenhängenden kantonalen Fuss- und Veloverkehrsinfrastrukturen in der Höhe von Fr. 6'280'000. Diese teilen sich wie folgt auf: Fr. 3‘700‘000 für die Finanzierung der Planung von Fuss- und Veloquerungen über die Bahn resp. von Fuss- und Veloverbindungen längs der Bahn (zusätzliche Projekte «De»
+- einmalig: Fr. 3'700'000  
+  «Fr. 3‘700‘000 für die Finanzierung der Planung von Fuss- und Veloquerungen über die Bahn resp. von Fuss- und Veloverbindungen längs der Bahn (zusätzliche Projekte «Define») inkl. Mittel für die befristeten Personalressourcen zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements.»
+- einmalig: Fr. 2'580'000  
+  «Fr. 2‘580‘000 für die Finanzierung der Projektierung von Fuss- und Veloquerungen über die Bahn resp. von Fuss- und Veloverbindungen längs der Bahn (zusätzliche Projekte «Design») inkl. Mittel für die befristeten Personalressourcen zu Lasten der Investitionsrechnung des Bau- und Verkehrsdepartements, Investitionsbereich 1, «Stadtentwicklung und Allmendinfrastruktur».»
 
 ## 2026-01-14 25.1253 Ausgabenbewilligung zur Aufwertung Kronenplatz und Grünanlage Schulgasse
 Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411789.pdf
-- wiederkehrend: Fr. 2'058'500  
-  «Es wird ein Gesamtbetrag von Fr. 2'058’500 für die Aufwertung des Kronenplatzes und Grünanlage Schulgasse bewilligt. Die Ausgaben teilen sich wie folgt auf:  Fr. 1'951’000 neue Ausgaben für die Aufwertung der Grünanlagen Kronenplatz und Schulgasse zu Lasten der Investitionsrechnung, Investitionsbereich 1 „Stadtentwicklung und Allmendinfrastruktur – Mehrwertabgabefonds“. (Baupreisindex Nordwestsch»
+- einmalig: Fr. 1'951'000  
+  «Fr. 1'951’000 neue Ausgaben für die Aufwertung der Grünanlagen Kronenplatz und Schulgasse zu Lasten der Investitionsrechnung, Investitionsbereich 1 „Stadtentwicklung und Allmendinfrastruktur – Mehrwertabgabefonds“. (Baupreisindex Nordwestschweiz Tiefbau, Basis April 2024 = 125.2). »
+- einmalig: Fr. 96'000  
+  «Fr. 96’000 neue Ausgaben als Entwicklungsbeitrag für die ersten fünf Jahre nach Fertigstellung der Grünanlagen Kronenplatz und Schulgasse zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements, Mehrwertabgabefonds. »
+- wiederkehrend: Fr. 11'500  
+  «Fr. 11’500 als jährlich wiederkehrende zusätzliche Ausgaben für den Unterhalt der Belagsund Vegetationsflächen zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements, Stadtgärtnerei.»
 
 ## 2026-02-04 25.1393 Rahmenausgaben für die Wiederbeschaffung der Fahrzeuge der Stadtgärtnerei zur Erreichung des Netto Null Ziels 2030
 Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411921.pdf
-- einmalig: Fr. 200'000  
-  «4. Es wird eine Rahmenausgabe über gesamthaft Fr. 7'925'000 für die ökologische Wiederbeschaffung der Fahrzeuge zu Lasten der Investitionsrechnung Bau- und Verkehrsdepartement, Stadtgärtnerei, Investitionsbereich «Übrige» (Pos. 6140.200.200001000) bewilligt. Es wird eine Rahmenausgabe über gesamthaft Fr. 5'015’000 für die ökologische Wiederbeschaffung der Fahrzeuge zu Lasten der Erfolgsrechnung, K»
+- einmalig: Fr. 7'925'000  
+  «Es wird eine Rahmenausgabe über gesamthaft Fr. 7'925'000 für die ökologische Wiederbeschaffung der Fahrzeuge zu Lasten der Investitionsrechnung Bau- und Verkehrsdepartement, Stadtgärtnerei, Investitionsbereich «Übrige» (Pos. 6140.200.200001000) bewilligt. Es wird eine Rahmenausgabe über gesamthaft Fr. 5'015’000 für die ökologische Wiederbeschaffung der Fahrzeuge zu Lasten der Erfolgsrechnung, Klei»
 
 ## 2026-03-11 25.1569 Ausrichtung einer Finanzhilfe für die Berufs- und Weiterbildungsmesse in Basel-Stadt in den Jahren 2026 und 2027
 Beschluss: https://grosserrat.bs.ch/dokumente/100412/000000412103.pdf
-- wiederkehrend: Fr. 500'000  
+- befristet: Fr. 500'000  
   «Für die Berufs- und Weiterbildungsmesse in Basel-Stadt werden dem Gewerbeverband BaselStadt für die Jahre 2026 und 2027 Ausgaben von insgesamt Fr. 500’000 (Fr. 250’000 p.a.) bewilligt. Die Berufs- und Weiterbildungsmesse leistet einen wirksamen Beitrag zur Förderung der beruflichen Grundbildung im Kanton Basel-Stadt.»
 
 ## 2026-03-11 26.5029 Bericht der Geschäftsprüfungskommission des Grossen Rates des Kantons Basel-Stadt zur Kantonspolizei Basel-Stadt
@@ -74,8 +92,10 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100412/000000412167.pdf
 
 ## 2026-04-15 25.0711 Realisierung eines Erdbebensimulators im neuen Naturhistorischen Museum Basel
 Beschluss: https://grosserrat.bs.ch/dokumente/100412/000000412327.pdf
-- wiederkehrend: Fr. 5'571'000  
-  «b) Fr. 5'571'000 einmalige neue Ausgaben zulasten der Investitionsrechnung, Investitionsbereich „Übrige“ Fr. 240'000 als wiederkehrende neue Ausgaben für den Betrieb und den Unterhalt des Erdbebensimulators zulasten der Erfolgsrechnung des Präsidialdepartements, Naturhistorisches Museum Basel.»
+- einmalig: Fr. 5'571'000  
+  «Fr. 5'571'000 einmalige neue Ausgaben zulasten der Investitionsrechnung, Investitionsbereich „Übrige“»
+- wiederkehrend: Fr. 240'000  
+  «Fr. 240'000 als wiederkehrende neue Ausgaben für den Betrieb und den Unterhalt des Erdbebensimulators zulasten der Erfolgsrechnung des Präsidialdepartements, Naturhistorisches Museum Basel.»
 
 ## 2026-04-15 25.1376 Teilrevision des Notariatsgesetzes (Nachvollzug der Aktienrechtsrevision: neue Formen der Beschlussfassung)
 Beschluss: https://grosserrat.bs.ch/dokumente/100412/000000412326.pdf
@@ -91,30 +111,71 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100412/000000412329.pdf
 
 ## 2026-04-15 25.1942 Ausgabenbewilligung zur Umsetzung der Motion Karin Sartorius und Konsorten betreffend sexualisierte Gewalt: Prävention soll bereits in der Schule beginnen
 Beschluss: https://grosserrat.bs.ch/dokumente/100412/000000412333.pdf
-- befristet: Fr. 700'000  
+- befristet: Fr. 1'300'000  
   «Für die Umsetzung der «Motion Karin Sartorius und Konsorten betreffend sexualisierte Gewalt: Prävention soll bereits in der Schule beginnen» werden Ausgaben in der Höhe von insgesamt Fr. 1'300'000 (Fr. 325'000 p.a.) für die Jahre 2026 bis 2029 bewilligt. Dieser Betrag setzt sich wie folgt zusammen: a. b. c. Ausgaben von insgesamt Fr. 240'000 (Fr. 60'000 pro Jahr) in den Jahren 2026 bis 2029 an den»
 
 ## 2026-04-22 25.0675 Teilrevision des Lohngesetzes vom 18. Januar 1995 (LG, SG 164.100) betreffend Anpassung der Lohnkurve und Aufhebung der Degression beim Teuerungsausgleich
 Beschluss: https://grosserrat.bs.ch/dokumente/100412/000000412421.pdf
-- keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
+**Achtung:** Gesamtbetrag laut Beschluss Fr. 24'500'000' Summe der gelesenen Posten Fr. 24'000'000
+- wiederkehrend: Fr. 13'500'000  
+  «Fr. 13'500'000 wiederkehrende Ausgaben für die Finanzierung der Mehrkosten aufgrund der Anpassung der Lohnkurve zu Lasten der Erfolgsrechnung des Finanzdepartements.»
+- wiederkehrend: Fr. 1'200'000  
+  «Fr. 1'200'000 wiederkehrende Ausgaben für die Finanzierung der Mehrkosten für die Finanzierung der aufgrund der Anpassung der Lohnkurve erhöhten Staatsbeiträge Kinderbetreuung zu Lasten der Erfolgsrechnung des Erziehungsdepartements (Dienststelle Jugend, Familie und Sport).»
+- wiederkehrend: Fr. 3'100'000  
+  «Fr. 3'100'000 wiederkehrende Ausgaben für die Erhöhung der Geldzulagen für Nacht-, Sonn- Feiertags- und Pikettdienst gemäss §§ 23 bis 33 der Verordnung zur Arbeitszeit der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt vom 6. Juli 2004 (Arbeitszeitverordnung, AZV, SG 162.200) zu Lasten der Erfolgsrechnung des Kantons Basel-Stadt.»
+- wiederkehrend: Fr. 1'600'000  
+  «Fr. 1'600'000 wiederkehrende Ausgaben für die Erhöhung der Einstufung ad personam der Mitarbeitenden der Kantonspolizei und der Kriminalpolizei auf Polizeistellen bis und mit Lohnklasse 16 um je eine Erfahrungsstufe zu Lasten der Erfolgsrechnung des Justiz- und Sicherheitsdepartements (Dienststelle Kantonspolizei).»
+- wiederkehrend: Fr. 700'000  
+  «Fr. 700'000 wiederkehrende Ausgaben für die Erhöhung der Ausbildungslöhne bei der Kantonspolizei zu Lasten der Erfolgsrechnung des Justiz- und Sicherheitsdepartements (Dienststelle Kantonspolizei).»
+- einmalig: Fr. 3'900'000  
+  «Fr. 3'900'000 einmalige Ausgaben für den Ausgleich verbleibender Einkommenseinbussen aufgrund des Wegfalls der Arbeitsmarktzulage zu Lasten der Erfolgsrechnung des Justiz- und Sicherheitsdepartements (Dienststelle Kantonspolizei).»
 
 ## 2026-04-22 25.0674 Lohnmassnahmen zur Steigerung der Arbeitgeberattraktivität sowie Ablösung der befristeten Arbeitsmarktzulage für Mitarbeitende der Kantonspolizei
 Beschluss: https://grosserrat.bs.ch/dokumente/100412/000000412420.pdf
-- keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
+**Achtung:** Gesamtbetrag laut Beschluss Fr. 24'500'000' Summe der gelesenen Posten Fr. 24'000'000
+- wiederkehrend: Fr. 13'500'000  
+  «Fr. 13'500'000 wiederkehrende Ausgaben ab 2027 (für 2026 Fr. 3'375’000) für die Finanzierung der Mehrkosten aufgrund der Anpassung der Lohnkurve zu Lasten der Erfolgsrechnung des Finanzdepartements.»
+- wiederkehrend: Fr. 1'200'000  
+  «Fr. 1'200'000 wiederkehrende Ausgaben ab 2027 (für 2026 Fr. 300’000) für die Finanzierung der Mehrkosten für die Finanzierung der aufgrund der Anpassung der Lohnkurve erhöhten Staatsbeiträge Kinderbetreuung zu Lasten der Erfolgsrechnung des Erziehungsdepartements (Dienststelle Jugend, Familie und Sport).»
+- wiederkehrend: Fr. 3'100'000  
+  «Fr. 3'100'000 wiederkehrende Ausgaben ab 2027 für die Erhöhung der Geldzulagen für Nacht-, Sonn- Feiertags- und Pikettdienst gemäss §§ 23 bis 33 der Verordnung zur Arbeitszeit der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt vom 6. Juli 2004 (Arbeitszeitverordnung, AZV, SG 162.200) zu Lasten der Erfolgsrechnung des Kantons Basel-Stadt (für 2026 Fr. 1'550'000).»
+- wiederkehrend: Fr. 1'600'000  
+  «Fr. 1'600'000 wiederkehrende Ausgaben ab 2027 für die Erhöhung der Einstufung ad personam der Mitarbeitenden der Kantonspolizei und der Kriminalpolizei auf Polizeistellen bis und mit Lohnklasse 16 um je eine Erfahrungsstufe zu Lasten der Erfolgsrechnung des Justizund Sicherheitsdepartements (Dienststelle Kantonspolizei) (für 2026 Fr. 800'000).»
+- wiederkehrend: Fr. 700'000  
+  «Fr. 700'000 wiederkehrende Ausgaben ab 2027 für die Erhöhung der Ausbildungslöhne bei der Kantonspolizei zu Lasten der Erfolgsrechnung des Justizund Sicherheitsdepartements (Dienststelle Kantonspolizei) (für 2026 Fr. 350'000).»
+- einmalig: Fr. 3'900'000  
+  «Fr. 3'900'000 einmalige Ausgaben für den Ausgleich verbleibender Einkommenseinbussen aufgrund des Wegfalls der Arbeitsmarktzulage zu Lasten der Erfolgsrechnung des Justizund Sicherheitsdepartements (Dienststelle Kantonspolizei).»
 
+(gleicher Beschluss wie 25.0675, nicht doppelt gezählt)
 ## 2026-05-06 26.0190 Ausgabenbewilligung für eine Finanzhilfe in Form eines Investitionsbeitrags zum Umbau und zur Sanierung unter Erhalt des historischen Charakters der Liegenschaft St. Johanns-Vorstadt 48
 Beschluss: https://grosserrat.bs.ch/dokumente/100412/000000412537.pdf
-- keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
+- einmalig: Fr. 860'000  
+  «Es wird ein Gesamtbetrag von Fr. 860‘000 bewilligt zugunsten der Gioia Bindella SA zur Finanzierung einer Finanzhilfe in Form eines Investitionsbeitrags an den Umbau und die Sanierung der sich im Denkmalverzeichnis und in der Schutzzone befindlichen Liegenschaft St. Johanns-Vorstadt 48 ausserhalb der Rahmenausgabenbewilligung für Denkmalsubventionen 2022–2025.»
 
 ## 2026-05-06 24.0971 Ausgabenbewilligung zur Zwischennutzung «Am Birsigbogen» 2026 bis 2030
 Beschluss: https://grosserrat.bs.ch/dokumente/100412/000000412533.pdf
-- befristet: Fr. 6'045'000  
-  «Es wird ein Gesamtbetrag von Fr. 1’209’000 für die Umsetzung der Zwischennutzung «Am Birsigbogen» 2026 bis 2030 bewilligt. Diese Ausgabe teilt sich wie folgt auf: Fr. 260’000 für die Projektkosten zur Projektierung und Umsetzung der Zwischennutzung in den Jahren 2026 bis 2030 zu Lasten der Investitionsrechnung des Präsidialdepartements, Investitionsbereich 8 Übrige Fr. 204’000 für die personellen »
+**Achtung:** Gesamtbetrag laut Beschluss Fr. 1'209'000' Summe der gelesenen Posten Fr. 1'089'000
+- einmalig: Fr. 260'000  
+  «Fr. 260’000 für die Projektkosten zur Projektierung und Umsetzung der Zwischennutzung in den Jahren 2026 bis 2030 zu Lasten der Investitionsrechnung des Präsidialdepartements, Investitionsbereich 8 Übrige»
+- einmalig: Fr. 204'000  
+  «Fr. 204’000 für die personellen Ressourcen (Kreditstelle, 40 %) zur Projektierung und Umsetzung der Zwischennutzung in den Jahren 2026 und 2029 zu Lasten der Investitionsrechnung des Präsidialdepartements, Investitionsbereich 8 Übrige»
+- einmalig: Fr. 120'000  
+  «Fr. 120’000 für die Projektierung und Umsetzung der Grundinfrastruktur für die Zwischennutzung in den Jahren 2026 bis 2030 zu Lasten der Investitionsrechnung des Präsidialdepartements, Investitionsbereich 8 Übrige»
+- einmalig: Fr. 180'000  
+  «Fr. 180’000 für die Projektierung und Umsetzung der Massnahmen mit Begrünung zu Lasten der Investitionsrechnung des Bau- und Verkehrsdepartements, Mehrwertabgabefonds (MWAF) (Bau- und Verkehrsdepartement, Generalsekretariat)»
+- einmalig: Fr. 150'000  
+  «Fr. 150’000 für die Klimaschutz- und Klimaadaptionsmassnahmen in Form von 14 begrünten Pflanzgefässen zu Lasten der Investitionsrechnung des Bau- und Verkehrsdepartements, Mehrwertabgabefonds (Bau- und Verkehrsdepartement, Generalsekretariat)»
+- einmalig: Fr. 75'000  
+  «Fr. 75’000 für Sachkosten zur Projektierung und Umsetzung der Zwischennutzung in den Jahren 2026 bis 2030 zu Lasten der Erfolgsrechnung des Präsidialdepartements, Kantons- und Stadtentwicklung»
+- befristet: Fr. 100'000  
+  «Fr. 20’000 als Entwicklungsbeitrag für die ersten fünf Jahre nach Platzierung der Massnahmen zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements, Mehrwertabgabefonds (Bau- und Verkehrsdepartement, Generalsekretariat) 100’000 für die jährlich wiederkehrenden Folgekosten für die Jahre 2026 bis 2030 für den Unterhalt der Pflanzgefässe (Stadtklimakonzept) zu Lasten der Erfolgsrechnung des »
 
 ## 2026-05-06 25.1798 Ausgabenbewilligung zur Anpassung/Aktualisierung des Gesamtkonzeptes öffentliche Toilettenanlagen
 Beschluss: https://grosserrat.bs.ch/dokumente/100412/000000412534.pdf
-- wiederkehrend: Fr. 5'860  
-  «Für die Planung, Projektierung und Umsetzung von zusätzlichen Toilettenanlagen werden Ausgaben in der Höhe von total Fr. 5’860‘000 bewilligt. Diese Ausgaben setzen sich wie folgt zusammen: Fr. 5'200'000 als Rahmenausgabe für zwölf neue WC-Anlagen an acht definierten und vier möglichen Standorten zu Lasten der Investitionsrechnung des Bau- und Verkehrsdepartements, Investitionsbereich 8 «Übrige» (P»
+- einmalig: Fr. 5'200'000  
+  «Fr. 5'200'000 als Rahmenausgabe für zwölf neue WC-Anlagen an acht definierten und vier möglichen Standorten zu Lasten der Investitionsrechnung des Bau- und Verkehrsdepartements, Investitionsbereich 8 «Übrige» (Preisbasis Schweizerischer Baupreisindex Nordwestschweiz, Index 117.7 (2020=100, Stand April 2025). Die Ausgabenbewilligung für die Anlagen an den definierten Standorten St. Johanns-Park, Bi»
+- wiederkehrend: Fr. 660'000  
+  «Fr. 660'000 für jährliche Folgekosten für Betrieb und Unterhalt der WC-Anlagen (inkl. Personalressourcen), für zusätzliche Mietanlagen (Kompost-Toiletten) sowie für weitere «nette Toiletten» gemäss Konzept zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements, Tiefbauamt.»
 
 ## 2026-05-06 25.1707 «Areal Aeschenplatz 6»; Festsetzung eines Bebauungsplans, Änderung des Wohnanteils sowie Abweisung einer Einsprache im Bereich Aeschenplatz, St. Alban-Anlage, Engelgasse und Gartenstrasse
 Beschluss: https://grosserrat.bs.ch/dokumente/100412/000000412536.pdf
@@ -122,23 +183,59 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100412/000000412536.pdf
 
 ## 2026-06-03 25.0497 Ausgabenbewilligung zur Sanierung des Petersplatzes
 Beschluss: https://grosserrat.bs.ch/dokumente/100412/000000412766.pdf
-- wiederkehrend: Fr. 8'350'000  
-  «Es wird ein Gesamtbetrag von Fr. 8’350’000 bewilligt für die Sanierung des Petersplatzes. Diese Ausgabe teilt sich wie folgt auf: Fr. 7’500’000 neue Ausgaben für die Sanierung des Petersplatzes zu Lasten der Investitionsrechnung, Investitionsbereich «Stadtentwicklung und Allmendinfrastruktur – Mehrwertabgabefonds»; (Baupreisindex Nordwestschweiz Tiefbau, April 2024 = 116,7) Fr. 400’000 als Entwick»
+- einmalig: Fr. 7'500'000  
+  «Fr. 7’500’000 neue Ausgaben für die Sanierung des Petersplatzes zu Lasten der Investitionsrechnung, Investitionsbereich «Stadtentwicklung und Allmendinfrastruktur – Mehrwertabgabefonds»; (Baupreisindex Nordwestschweiz Tiefbau, April 2024 = 116,7)»
+- einmalig: Fr. 400'000  
+  «Fr. 400’000 als Entwicklungsbeitrag für die ersten fünf Jahre nach Fertigstellung zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements, Mehrwertabgabefonds»
+- wiederkehrend: Fr. 15'000  
+  «Fr. 15’000 als jährlich wiederkehrende neue Ausgaben für den Unterhalt der Belags- und Vegetationsflächen zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements, Stadtgärtnerei»
+- einmalig: Fr. 435'000  
+  «Fr. 435’000 für die Erhaltung der Infrastruktur Kunstbauten (Instandsetzungsarbeiten Stützmauer Petersgraben) zu Lasten der Investitionsrechnung, Investitionsbereich «Stadtentwicklung und Allmendinfrastruktur», Rahmenausgabenbewilligung Erhaltung Infrastruktur Kunstbauten»
 
 ## 2026-06-03 25.0159 Ausgabenbewilligung für die Umgestaltung des Riehenrings von der Drahtzugstrasse bis zur Brombacherstrasse (Umgestaltung Riehenring)
 Beschluss: https://grosserrat.bs.ch/dokumente/100412/000000412727.pdf
-- wiederkehrend: Fr. 25'605'700  
-  «Für die Umgestaltung des Riehenrings von der Drahtzugstrasse bis zur Brombacherstrasse werden Ausgaben von Fr. 25'605’700 bewilligt (Preisbasis Nordwestschweizerischer Baupreisindex Tiefbau vom 1. April 2023 = 123.9 / Basis Oktober 2010 = 100 Punkte). Diese teilen sich wie folgt auf: Fr. 5'755’000 neue Ausgaben für die Umgestaltung des Riehenrings zu Lasten der Investitionsrechnung, Investitionsbe»
+- einmalig: Fr. 5'755'000  
+  «Fr. 5'755’000 neue Ausgaben für die Umgestaltung des Riehenrings zu Lasten der Investitionsrechnung, Investitionsbereich IB1 «Stadtentwicklung und Allmendinfrastruktur»»
+- einmalig: Fr. 2'045'000  
+  «Fr. 2'045'000 neue Ausgaben für die Massnahmen zur Abschwächung der Auswirkungen des Klimawandels zu Lasten der Investitionsrechnung, Investitionsbereich IB1 «Stadtentwicklung und Allmendinfrastruktur, Mehrwertabgabefonds»»
+- darlehen: Fr. 201'100  
+  «Fr. 201'100 neue Ausgaben für die Publikumsanlagen der Tram- und Bushaltestellen an der Feldbergstrasse zu Lasten der Investitionsrechnung, Investitionsbereich 3, als Darlehen an die BVB»
+- einmalig: Fr. 4'500'000  
+  «Fr. 4'500'000 einmalige Aufwendungen für die Aufrechterhaltung des Öffentlichen Verkehrs während der Realisierung der Baumassnahme zu Lasten der Erfolgsrechnung des BVD, Globalbudget Öffentlicher Verkehr»
+- einmalig: Fr. 28'800  
+  «Fr. 28'800 einmalige Ausgaben als Entwicklungsbeitrag Grünflächen und Bäume zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements, Mehrwertabgabefonds»
+- wiederkehrend: Fr. 9'300  
+  «Fr. 9'300 jährlich wiederkehrende Folgekosten für die Pflege der Grünflächen und Bäume sowie Bänke zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements, Stadtgärtnerei»
+- wiederkehrend: Fr. 3'300  
+  «Fr. 3'300 jährlich wiederkehrende Betriebs- und Unterhaltskosten für den Trinkbrunnen als Folgekosten der Anpassung des Leistungsauftrages der IWB zu Lasten der Erfolgsrechnung des Departementes für Wirtschaft, Soziales und Umwelt»
+- einmalig: Fr. 3'315'000  
+  «Fr. 3'315'000 für die Erhaltung der Strasse gemäss dem heutigen Strassenstandard zu Lasten der Investitionsrechnung, Investitionsbereich IB1 «Stadtentwicklung und Allmendinfrastruktur», Rahmenausgabenbewilligung Erhaltung Infrastruktur Strassen»
+- einmalig: Fr. 2'039'800  
+  «Fr. 2'039'800 für die Erhaltung der Abwasserableitungsanlagen gemäss dem heutigen Standard zu Lasten der Investitionsrechnung, Investitionsbereich 1 «Stadtentwicklung und Allmendinfrastruktur», Rahmenausgabenbewilligung Erhaltung Abwasserableitungsanlagen»
+- einmalig: Fr. 433'300  
+  «Fr. 433'300 für die Erhaltung der Lichtsignalanlagen gemäss dem heutigen Standard zu Lasten der Investitionsrechnung, Investitionsbereich 1 «Stadtentwicklung und Allmendinfrastruktur», Rahmenausgabenbewilligung Erhaltung Lichtsignalanlagen»
+- darlehen: Fr. 7'275'100  
+  «Fr. 7'275'100 für die Erhaltung der Gleis- und Fahrleitungsanlage sowie von Publikumsanlagen gemäss dem heutigen Standard als Darlehen an die BVB»
 
 ## 2026-06-24 25.1835 Durchführung eines Wettbewerbs zur Sanierung und Neugestaltung der Rosentalanlage und die Weiterbearbeitung des Siegerprojekts
 Beschluss: https://grosserrat.bs.ch/dokumente/100412/000000412921.pdf
-- einmalig: Fr. 850'000  
-  «Für die Durchführung eines Wettbewerbs zur Sanierung und Neugestaltung der Rosentalanlage und der anschliessenden Weiterbearbeitung des Siegerprojekts werden Ausgaben in Höhe von Fr. 850'000 bewilligt. Diese Ausgaben teilen sich wie folgt auf: Fr. 450'000 als einmalige Ausgabe für die Durchführung eines landschaftsarchitektonischen Projektwettbewerbs zu Lasten der Erfolgsrechnung des Bau- und Verk»
+- einmalig: Fr. 450'000  
+  «Fr. 450'000 als einmalige Ausgabe für die Durchführung eines landschaftsarchitektonischen Projektwettbewerbs zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements, Planungspauschale (Bau- und Verkehrsdepartement, Generalsekretariat)»
+- einmalig: Fr. 400'000  
+  «Fr. 400'000 als einmalige Ausgabe zur Weiterbearbeitung des Siegerprojekts zu Lasten der Investitionsrechnung, Investitionsbereich 1 «Stadtentwicklung und Allmendinfrastruktur» für die Projektierung bis zur Ratschlagsreife des Projekts (Bau- und Verkehrsdepartement, Stadtgärtnerei).»
 
 ## 2026-06-24 25.1827 Umsetzung von mobilen Elementen zur Freiraumverbesserung auf der Rosentalanlage und im Rosentalquartier
 Beschluss: https://grosserrat.bs.ch/dokumente/100412/000000412920.pdf
-- einmalig: Fr. 725'000  
-  «Es wird ein Gesamtbetrag von Fr. 725’000 für die Umsetzung von Aufwertungsmassnahmen zugunsten des Rosentalquartiers (Umsetzung Vorstudie Rosentalanlage) bewilligt. Diese Ausgabe teilt sich wie folgt auf: Fr. 110'000 einmalige Ausgabe für die Konzeption mobiler Elemente, einsetzbar auf der Rosentalanlage und im Quartier zu Lasten der Planungspauschale des Bau- und Verkehrsdepartements, Generalsekr»
+- einmalig: Fr. 110'000  
+  «Fr. 110'000 einmalige Ausgabe für die Konzeption mobiler Elemente, einsetzbar auf der Rosentalanlage und im Quartier zu Lasten der Planungspauschale des Bau- und Verkehrsdepartements, Generalsekretariat»
+- einmalig: Fr. 250'000  
+  «Fr. 250’000 für Investitionskosten für die Herstellung mobiler Elemente für die Jahre 2027 bis 2028 für den Einsatz auf der Rosentalanlage und im Quartier zu Lasten der Investitionsrechnung des Bau- und Verkehrsdepartements, IB1a Stadtentwicklung + Allmendinfrastruktur, Mehrwertabgabefonds»
+- einmalig: Fr. 100'000  
+  «Fr. 100'000 für Investitionskosten für die Herstellung mobiler Elemente für die Jahre 2027 bis 2028 zu Lasten des Ratschlags Stadtklimakonzept vom 10. April 2024 (GRB 24/15/08G)»
+- einmalig: Fr. 250'000  
+  «Fr. 250’000 für die Folgekosten für die Jahre 2028 bis 2032 für den Unterhalt und den Betrieb der mobilen Elemente auf der Rosentalanlage zu Lasten der Erfolgsrechnung das Bau- und Verkehrsdepartements, Stadtgärtnerei»
+- einmalig: Fr. 15'000  
+  «Fr. 15'000 für den Entwicklungsbeitrag mobiler, grüner Elemente für die Jahre 2028 bis 2032 zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements, Mehrwertabgabefonds»
 
 ## 2026-09-09 26.5190 Bericht der Geschäftsprüfungskommission zum Bau- und Gastgewerbeinspektorat (BGI)
 Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413151.pdf
@@ -162,12 +259,12 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411239.pdf
 
 ## 2026-09-16 24.1109 Gaststaatpolitik des Bundes - Perspektiven für Basel; Teilrevision Standortförderungsgesetz
 Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413295.pdf
-- befristet: Fr. 11'200'000  
+- befristet: Fr. 2'800'000  
   «Für die Umsetzung der Gaststaatstrategie Basel wird für die vier Jahre 2026 – 2029 eine Rahmenausgabenbewilligung von insgesamt Fr. 2'800’000 (Fr. 700'000 p.a.) bewilligt.»
 
 ## 2026-09-16 26.0092 Ausgabenbewilligung für einen Finanzierungsbeitrag an die Wärmeverbund Riehen AG (WVR) zum Ausbau der leitungsgebundenen Wärmeversorgung des WVR
 Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413298.pdf
-- einmalig: Fr. 7'600'000  
+- darlehen: Fr. 7'600'000  
   «Für den Ausbau der leitungsgebundenen Wärmeversorgung durch die WVR Wärmeverbund Riehen AG werden Ausgaben in der Höhe von Fr. 7’600’000 (inkl. MWST) als bedingt rückzahlbares, zinsloses Darlehen an die WVR Wärmeverbund Riehen AG bewilligt.»
 
 ## 2026-09-16 26.0659 Fachhochschule Nordwestschweiz (FHNW): Bericht zur Erfüllung des Leistungsauftrags im Jahr 2025
@@ -188,14 +285,15 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413537.pdf
 
 ## 2026-10-14 26.0103 Ausgabenbewilligung Ersatzbeschaffung E-LKW
 Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413539.pdf
-- keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
+- einmalig: Fr. 345'380  
+  «Es wird ein Betrag in Höhe von 345'380 Franken für die Ersatzbeschaffung von einem E-LKW für die Materialzentrale (zu Lasten der Investitionsrechnung Erziehungsdepartement, Zentrale Dienste, Investitionsbereich «Übrige») bewilligt.»
 
 ## 2026-10-14 26.0555 Ausgabenbewilligung zur Neugestaltung von Grünanlagen mit Naturschutzzone im Areal Walkeweg
-Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413536.pdf
-- wiederkehrend: Fr. 4'058  
-  «Es wird Gesamtbetrag von Fr. 4’058´000 für die Neugestaltung der Grünanlagen im Areal Walkeweg bewilligt. Diese Ausgaben teilen sich wie folgt auf:  Fr. 3‘803‘000 neue Ausgaben für die Neugestaltung der Grünanlagen im Areal Walkeweg zu Lasten der Investitionsrechnung, Investitionsbereich 1 «Stadtentwicklung und Allmendinfrastruktur – Mehrwertabgabefonds».  Fr. 190'000 neue Ausgaben als Entwicklu»
-- einmalig: Fr. 180'000  
-  «18. August 2022 an den Aushub-, Reinigungs- und Entsorgungskosten auf der Allmendparzelle 9349 bis zu einem Maximalbetrag von Fr. 180’000. Der entsprechende Betrag wird nach durchgeführter Entsorgung von der Einwohnergemeinde der Stadt Basel (Stadtgärtnerei) der SBB in Rechnung gestellt.»
+Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413536.pdf (korrigiert)
+- einmalig: Fr. 3'993'000  
+  «korrigiert»
+- wiederkehrend: Fr. 65'000  
+  «korrigiert»
 
 ## 2026-10-14 26.0872 Bewilligung eines Beitrags an den Kanton Jura zur Deckung einer Zahlungslücke im Finanzausgleich
 Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413532.pdf
@@ -208,19 +306,17 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413590.pdf
 
 ## 2026-10-14 23.1367 Bauinvestitionen Universitätsspital Basel - Gewährung eines Darlehens zur Mitfinanzierung der Neubauten Klinikum 2 (Phase 1, Turm) und Klinikum 3
 Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413598.pdf
-- einmalig: Fr. 300'000'000  
-  «1. Das dem Universitätsspital Basel (USB) für die Bauvorhaben Neubau Klinikum 2 Phase 1 (Turm) und Klinikum 3 gewährte verzinsliche und rückzahlbare Darlehen in Höhe von Fr. 300'000'000 wird aufgrund des Verzichts auf den Neubau des Klinikums 3 von Fr. 300'000'000 um Fr. 150'000'000 auf Fr. 150'000'000 reduziert.»
-- einmalig: Fr. 150'000'000  
-  «2. Dem Universitätsspital Basel (USB) wird für die Refinanzierung des Kaufs des St. Claraspitals ein verzinsliches und rückzahlbares Darlehen in Höhe von Fr. 150'000'000 gewährt.»
+- darlehen: Fr. 150'000'000  
+  «Dem Universitätsspital Basel (USB) wird für die Refinanzierung des Kaufs des St. Claraspitals ein verzinsliches und rückzahlbares Darlehen in Höhe von Fr. 150'000'000 gewährt.»
 
 ## 2026-10-21 26.0645 Staatsbeitrag an die Regio Basiliensis (Interkantonale Koordinationsstelle IKRB) sowie an das Gemeinsame Sekretariat der Deutsch-französisch-schweizerischen Oberrheinkonferenz (ORK) für die Jahre 2027-2030; Partnerschaftliches Geschäft
 Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413628.pdf
-- befristet: Fr. 56'000  
-  «2. Für den Beitrag an die Interkantonale Koordinationsstelle bei der Regio Basiliensis wird für die Jahre 2027–2030 eine Ausgabe in Höhe von insgesamt Fr. 1‘861‘880 (Fr. 465'470 pro Jahr) bewilligt. Die Ausrichtung erfolgt mit Beiträgen an die Regio Basiliensis für die Interkantonale Koordinationsstelle zzgl. Mitfinanzierung des Schweizer ORK-Delegationssekretariats sowie der Schweizer Personalste»
+- befristet: Fr. 1'861'880  
+  «Für den Beitrag an die Interkantonale Koordinationsstelle bei der Regio Basiliensis wird für die Jahre 2027–2030 eine Ausgabe in Höhe von insgesamt Fr. 1‘861‘880 (Fr. 465'470 pro Jahr) bewilligt. Die Ausrichtung erfolgt mit Beiträgen an die Regio Basiliensis für die Interkantonale Koordinationsstelle zzgl. Mitfinanzierung des Schweizer ORK-Delegationssekretariats sowie der Schweizer Personalstelle»
 
 ## 2026-11-11 26.1225 Rahmenausgabenbewilligung für aktive Provenienzforschung in den kantonalen Museen Basel-Stadt für die Jahre 2027 bis 2030/2033
 Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413797.pdf
-- befristet: Fr. 16'000'000  
+- befristet: Fr. 4'000'000  
   «Für die aktive Provenienzforschung in den kantonalen Museen Basel-Stadt wird eine Rahmenausgabenbewilligung von Fr. 4'000’000 (Fr. 1'000’000 pro Jahr) und 6 Headcount für den Zeitraum von 2027 bis 2030 zu Lasten der Erfolgsrechnung des Präsidialdepartements (Abteilung Kultur) bewilligt. Dabei können Förderentscheide bis 31. Dezember 2030 getroffen werden und daraus resultierte Ausgaben bis 31. Dez»
 
 ## 2026-11-11 26.5453 Konsolidierte Rechnung des Kantons Basel-Stadt für das Jahr 2025
