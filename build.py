@@ -30,7 +30,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 DOCS = ROOT / "docs"
 CACHE = ROOT / "cache"
-START = "2026-01-01"
+START = "2021-02-01"  # Beginn der Legislatur 2021-2025
 API = "https://data.bs.ch/api/explore/v2.1/catalog/datasets"
 GR = "https://grosserrat.bs.ch"
 UA = "grossrat-ausgaben-basel (GitHub Actions; FDP Basel-Stadt)"
