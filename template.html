@@ -67,7 +67,8 @@ section h2{font-size:clamp(24px,3vw,32px)}
 .tip{position:absolute;pointer-events:none;background:var(--titel);color:#fff;font-size:14px;padding:8px 10px;border-radius:4px;white-space:nowrap;z-index:5;display:none;transform:translate(-50%,-100%)}
 
 .zeitraum{display:inline-flex;align-items:center;gap:10px;margin-top:14px;font-family:Jost,Arial,sans-serif;font-weight:700;font-size:15px}
-.zeitraum select{font:inherit;font-weight:600;font-size:16px;padding:8px 12px;border:0;border-radius:3px;color:var(--blau)}
+.zeitraum{flex-wrap:wrap;max-width:100%}
+.zeitraum select{max-width:100%;font:inherit;font-weight:600;font-size:16px;padding:8px 12px;border:0;border-radius:3px;color:var(--blau)}
 .chartbox{position:relative;margin-bottom:28px}
 .chart .s .wert{display:block;text-align:center;font-family:Jost,Arial,sans-serif;font-weight:700;font-size:12.5px;color:var(--titel);margin-bottom:4px;white-space:nowrap}
 h3.unter{font-size:22px;margin-top:12px}
@@ -103,7 +104,7 @@ footer{background:var(--hellblau);color:#fff;margin-top:56px;padding:32px 0;font
 footer a{color:#fff}
 footer .wrap{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:24px}
 footer strong{font-family:Jost,Arial,sans-serif;font-size:17px}
-@media (max-width:600px){ .wrap{padding:0 16px} .hero{padding:36px 0 40px} .filter select,.filter input{min-width:0;width:100%} .filter label{flex:1 1 100%} }
+@media (max-width:600px){ .chart .s .wert{font-size:9.5px} .chart{gap:3px}  .wrap{padding:0 16px} .hero{padding:36px 0 40px} .filter select,.filter input{min-width:0;width:100%} .filter label{flex:1 1 100%} }
 </style>
 </head>
 <body>
@@ -200,6 +201,7 @@ const chfKurz = n => {
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const ALLE = D.gruppen.flatMap(g => g.parteien);
 const summe = (arr, f) => arr.reduce((s,x) => s + (f(x)||0), 0);
+const anz = (n, ein, mehr) => `${n} ${n === 1 ? ein : mehr}`;
 
 // Zeiträume
 const jahre = [...new Set(D.sitzungen.map(s => s.slice(0,4)))].sort().reverse();
@@ -264,7 +266,7 @@ function saeulen(id, items, labelEvery){
 }
 function detailTabelle(titel, liste, id){
   const rows = [...liste].sort((a,b) => (b.einmalig + b.jaehrlich) - (a.einmalig + a.jaehrlich));
-  return `<div class="kopfzeile"><h4>${esc(titel)}: ${rows.length} Geschäfte</h4><button class="link" type="button">Schliessen</button></div>
+  return `<div class="kopfzeile"><h4>${esc(titel)}: ${anz(rows.length, "Geschäft", "Geschäfte")}</h4><button class="link" type="button">Schliessen</button></div>
   <div class="tabelle"><table><thead><tr><th>Sitzung</th><th>Geschäft</th><th class="num">Einmalig und befristet</th><th class="num">Wiederkehrend pro Jahr</th></tr></thead><tbody>
   ${rows.map(a => `<tr><td>${kurzDatum(a.datum)}${a.datum.slice(0,4)}</td><td class="g"><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.titel)}</a><br><span class="klein">${esc(a.departement||"")}</span></td><td class="num">${a.einmalig ? `<a href="${esc(a.beschluss)}" target="_blank" rel="noopener">${fr(a.einmalig)}</a>` : ""}</td><td class="num">${a.jaehrlich ? fr(a.jaehrlich) : ""}</td></tr>`).join("")}
   </tbody></table></div>`;
@@ -278,7 +280,7 @@ function detailTabelle(titel, liste, id){
     const a = D.ausgaben.filter(x => x.datum.startsWith(j));
     const v = summe(a, x => x.einmalig);
     return {label: j, v, label_oben: chfKurz(v).replace("CHF ",""), liste: a.filter(x => x.einmalig), detailTitel: `Bewilligte Ausgaben ${j}`,
-      tip: `<strong>${j}</strong><br>${chf(v)}<br>${a.length} Geschäfte`};
+      tip: `<strong>${j}</strong><br>${chf(v)}<br>${anz(a.filter(x => x.einmalig).length, "Geschäft", "Geschäfte")}`};
   }), 1);
   let kum = 0;
   saeulen("chart-kumuliert", js.map(j => {
@@ -304,14 +306,15 @@ function zeichne(){
   document.getElementById("kacheln").innerHTML = [
     [chfKurz(summe(A, a => a.einmalig)), `einmalige und befristete Ausgaben bewilligt, ${Z.titel.replace("Jahr ","")}`],
     [chfKurz(summe(A, a => a.jaehrlich)), "neue wiederkehrende Ausgaben, jedes Jahr"],
-    [A.length, "Geschäfte mit neuen Ausgaben"],
-    [chfKurz(summe(V, v => v.einmalig)), `Kostenfolge überwiesener Vorstösse, dazu ${chfKurz(summe(V, v => v.jaehrlich))} pro Jahr`],
+    [A.length, A.length === 1 ? "Geschäft mit neuen Ausgaben" : "Geschäfte mit neuen Ausgaben"],
+    [chfKurz(summe(V, v => v.einmalig)), "Kostenfolge überwiesener Vorstösse" + (summe(V, v => v.jaehrlich) ? `, dazu ${chfKurz(summe(V, v => v.jaehrlich))} pro Jahr` : "")],
   ].map(([z,w]) => `<div class="kachel"><div class="zahl">${z}</div><div class="was">${esc(w)}</div></div>`).join("");
 
   // Parteien
   const ohne = A.filter(a => !a.abstimmung).length;
   document.getElementById("abst-hinweis").textContent = ohne
-    ? `Für ${ohne} von ${A.length} Geschäften in diesem Zeitraum gibt es keine elektronischen Abstimmungsdaten; sie fehlen im Vergleich.` : "";
+    ? (ohne === 1 ? `Für 1 von ${A.length} Geschäften in diesem Zeitraum gibt es keine elektronischen Abstimmungsdaten; es fehlt im Vergleich.`
+       : `Für ${ohne} von ${A.length} Geschäften in diesem Zeitraum gibt es keine elektronischen Abstimmungsdaten; sie fehlen im Vergleich.`) : "";
   const pp = {};
   for (const p of ALLE){
     const zu = A.filter(a => haltung(a.abstimmung, p) === "ja");
@@ -343,7 +346,7 @@ function zeichne(){
   saeulen("chart", S.map(s => {
     const a = A.filter(x => x.datum === s);
     return {label: kurzDatum(s) + (S.length > 25 ? s.slice(2,4) : ""), v: summe(a, x => x.einmalig), liste: a, detailTitel: `Sitzung vom ${fmtDatum(s)}`,
-      tip: `<strong>${fmtDatum(s)}</strong><br>${chf(summe(a, x => x.einmalig))}<br>${a.length} Geschäfte`};
+      tip: `<strong>${fmtDatum(s)}</strong><br>${chf(summe(a, x => x.einmalig))}<br>${anz(a.length, "Geschäft", "Geschäfte")}`};
   }));
 
   // Filter Tabelle
@@ -363,7 +366,7 @@ function zeichneAusgaben(){
     && (!sp || haltung(a.abstimmung, sp) === sh)).sort((a,b) => b.datum.localeCompare(a.datum) || b.einmalig - a.einmalig);
   const sicht = alleAusgaben ? rows : rows.slice(0, 40);
   document.getElementById("t-ausgaben").innerHTML = `<thead><tr><th>Sitzung</th><th>Geschäft</th><th class="num">Einmalig und befristet</th><th class="num">Wiederkehrend pro Jahr</th><th class="num">Ja : Nein : Enth.</th>${ALLE.map(p=>`<th class="p">${esc(p)}</th>`).join("")}</tr></thead><tbody>
-  <tr class="summe"><td colspan="2">Total ${rows.length} Geschäfte${sp ? ` (${esc(sp)}: ${esc(sh === "enthaltung" ? "Enthaltung" : sh === "geteilt" ? "geteilt" : sh === "ja" ? "Ja" : "Nein")})` : ""}</td><td class="num">${fr(summe(rows, a => a.einmalig))}</td><td class="num">${fr(summe(rows, a => a.jaehrlich))}</td><td colspan="${ALLE.length+1}"></td></tr>
+  <tr class="summe"><td colspan="2">Total ${anz(rows.length, "Geschäft", "Geschäfte")}${sp ? ` (${esc(sp)}: ${esc(sh === "enthaltung" ? "Enthaltung" : sh === "geteilt" ? "geteilt" : sh === "ja" ? "Ja" : "Nein")})` : ""}</td><td class="num">${fr(summe(rows, a => a.einmalig))}</td><td class="num">${fr(summe(rows, a => a.jaehrlich))}</td><td colspan="${ALLE.length+1}"></td></tr>
   ${sicht.map(a => `<tr><td>${kurzDatum(a.datum)}${a.datum.slice(0,4)}</td>
     <td class="g"><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.titel)}</a><br><span class="klein">${esc(a.departement||"")}${a.darlehen ? ` · Darlehen ${fr(a.darlehen)} (nicht im Total)` : ""}${a.posten.some(p=>p.art==="befristet") ? " · befristet: " + a.posten.filter(p=>p.art==="befristet").map(p=>`${fr(p.jahresbetrag)} pro Jahr${p.jahre?`, ${p.jahre} Jahre`:""}`).join(", ") : ""}${a.bemerkung ? " · " + esc(a.bemerkung) : ""}</span></td>
     <td class="num">${a.einmalig ? `<a href="${esc(a.beschluss)}" target="_blank" rel="noopener">${fr(a.einmalig)}</a>` : ""}</td>
@@ -392,7 +395,7 @@ function zeichneVorstoesse(){
     .sort((a,b)=>b.datum.localeCompare(a.datum));
   const sicht = alleVorstoesse ? rows : rows.slice(0,30);
   document.getElementById("t-vorstoesse").innerHTML = rows.length ? `<thead><tr><th>Sitzung</th><th>Vorstoss</th><th>Eingereicht von</th><th class="num">Einmalig</th><th class="num">Pro Jahr</th><th>Kosten</th></tr></thead><tbody>
-    <tr class="summe"><td colspan="3">Total ${rows.length} Vorstösse</td><td class="num">${fr(summe(rows, x => x.einmalig))}</td><td class="num">${fr(summe(rows, x => x.jaehrlich))}</td><td></td></tr>
+    <tr class="summe"><td colspan="3">Total ${anz(rows.length, "Vorstoss", "Vorstösse")}</td><td class="num">${fr(summe(rows, x => x.einmalig))}</td><td class="num">${fr(summe(rows, x => x.jaehrlich))}</td><td></td></tr>
     ${sicht.map(x=>`<tr><td>${kurzDatum(x.datum)}${x.datum.slice(0,4)}</td><td class="g"><a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.titel)}</a><br><span class="klein">${esc(x.typ)}, ${esc(x.vermerk)}</span></td><td>${urh(x)}</td>
       <td class="num">${x.einmalig ? fr(x.einmalig) : ""}</td><td class="num">${x.jaehrlich ? fr(x.jaehrlich) : ""}</td>
       <td><span class="chip ${x.status==="bewilligt"?"nein":x.status==="offen"?"geteilt":"enthaltung"}">${esc(STATUS[x.status]||x.status)}</span>${x.quelle_url ? `<br><a class="klein" href="${esc(x.quelle_url)}" target="_blank" rel="noopener" title="${esc(x.quelle||"")}">Quelle</a>` : ""}${x.bemerkung?`<br><span class="klein">${esc(x.bemerkung)}</span>`:""}</td></tr>`).join("")}</tbody>`

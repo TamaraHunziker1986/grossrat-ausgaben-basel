@@ -743,6 +743,10 @@ def main():
             "status": "bewilligt" if b["betrag"] else "offen", "quelle": None, "quelle_url": None, "bemerkung": None,
         })
 
+    ohne_partei = [v for v in vorstoesse if not v["partei"]]
+    pruef.insert(2, f"Vorstösse ohne Partei: {len(ohne_partei)} von {len(vorstoesse)} ("
+                 + ", ".join(sorted({str(v['urheber']) for v in ohne_partei}))[:1500] + ")")
+    pruef.insert(3, "")
     daten = {
         "stand": heute,
         "start": START,
