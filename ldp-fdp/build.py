@@ -464,6 +464,13 @@ def werte_abstimmungen(rows, themen_pd, korrekturen):
                         "enthaltung": "E" in (pos["FDP"], pos["LDP"]),
                         "knapp": entscheidend,
                     })
+        # Sitze: häufigste Fraktionsgrösse in den ersten drei Monaten der Legislatur
+        frueh = [v for v in vs if v["datum"] <= (dt.date.fromisoformat(leg["von"]) + dt.timedelta(days=90)).isoformat()] or vs
+        sitze[lid] = {}
+        for p in PARTEIEN:
+            c = Counter(v["groesse"][p] for v in frueh if v["groesse"].get(p))
+            if c:
+                sitze[lid][p] = c.most_common(1)[0][0]
         stats[lid] = {
             "abstimmungen": len(vs),
             "beide": n_beide,
