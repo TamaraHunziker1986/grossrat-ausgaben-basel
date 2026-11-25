@@ -31,6 +31,8 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411782.pdf
   «Für den Verein «Mädchenkantorei Basel» werden für die Jahre 2026 bis 2029 Ausgaben von insgesamt Fr. 520’000 (Fr. 130’000 p. a.) bewilligt.»
 - befristet: Fr. 440'000  
   «Für den Verein «Musikverband beider Basel» werden für die Jahre 2026 bis 2029 Ausgaben von insgesamt Fr. 440’000 (Fr. 110’000 p. a.) bewilligt.»
+- befristet: Fr. 1'380'000  
+  «Für die Genossenschaft «Musikwerkstatt Basel Genossenschaft zur Förderung improvisierter Musik» Basel werden für die Jahre 2026 bis 2029 Ausgaben von insgesamt Fr. 1'380’000 (Fr. 345’000 p. a.) bewilligt. Ein allfälliger Teuerungsausgleich gemäss § 12 des Staatsbeitragsgesetzes wird vom Regierungsrat jährlich beschlossen.»
 
 ## 2026-01-14 25.1387 Bewilligung von Staatsbeiträgen an den Verein Jazz-Live Basel für die Jahre 2026 bis 2029
 Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411783.pdf
@@ -116,11 +118,12 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100412/000000412333.pdf
 
 ## 2026-04-22 25.0675 Teilrevision des Lohngesetzes vom 18. Januar 1995 (LG, SG 164.100) betreffend Anpassung der Lohnkurve und Aufhebung der Degression beim Teuerungsausgleich
 Beschluss: https://grosserrat.bs.ch/dokumente/100412/000000412421.pdf
-**Achtung:** Gesamtbetrag laut Beschluss Fr. 24'500'000' Summe der gelesenen Posten Fr. 24'000'000
 - wiederkehrend: Fr. 13'500'000  
   «Fr. 13'500'000 wiederkehrende Ausgaben für die Finanzierung der Mehrkosten aufgrund der Anpassung der Lohnkurve zu Lasten der Erfolgsrechnung des Finanzdepartements.»
 - wiederkehrend: Fr. 1'200'000  
   «Fr. 1'200'000 wiederkehrende Ausgaben für die Finanzierung der Mehrkosten für die Finanzierung der aufgrund der Anpassung der Lohnkurve erhöhten Staatsbeiträge Kinderbetreuung zu Lasten der Erfolgsrechnung des Erziehungsdepartements (Dienststelle Jugend, Familie und Sport).»
+- wiederkehrend: Fr. 500'000  
+  «Fr. 500'000 wiederkehrende Ausgaben für die Finanzierung der Mehrkosten infolge Aufhebung der Degression beim Teuerungsausgleich zu Lasten der Erfolgsrechnung des Finanzdepartements.»
 - wiederkehrend: Fr. 3'100'000  
   «Fr. 3'100'000 wiederkehrende Ausgaben für die Erhöhung der Geldzulagen für Nacht-, Sonn- Feiertags- und Pikettdienst gemäss §§ 23 bis 33 der Verordnung zur Arbeitszeit der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt vom 6. Juli 2004 (Arbeitszeitverordnung, AZV, SG 162.200) zu Lasten der Erfolgsrechnung des Kantons Basel-Stadt.»
 - wiederkehrend: Fr. 1'600'000  
@@ -132,11 +135,12 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100412/000000412421.pdf
 
 ## 2026-04-22 25.0674 Lohnmassnahmen zur Steigerung der Arbeitgeberattraktivität sowie Ablösung der befristeten Arbeitsmarktzulage für Mitarbeitende der Kantonspolizei
 Beschluss: https://grosserrat.bs.ch/dokumente/100412/000000412420.pdf
-**Achtung:** Gesamtbetrag laut Beschluss Fr. 24'500'000' Summe der gelesenen Posten Fr. 24'000'000
 - wiederkehrend: Fr. 13'500'000  
   «Fr. 13'500'000 wiederkehrende Ausgaben ab 2027 (für 2026 Fr. 3'375’000) für die Finanzierung der Mehrkosten aufgrund der Anpassung der Lohnkurve zu Lasten der Erfolgsrechnung des Finanzdepartements.»
 - wiederkehrend: Fr. 1'200'000  
   «Fr. 1'200'000 wiederkehrende Ausgaben ab 2027 (für 2026 Fr. 300’000) für die Finanzierung der Mehrkosten für die Finanzierung der aufgrund der Anpassung der Lohnkurve erhöhten Staatsbeiträge Kinderbetreuung zu Lasten der Erfolgsrechnung des Erziehungsdepartements (Dienststelle Jugend, Familie und Sport).»
+- wiederkehrend: Fr. 500'000  
+  «Fr. 500'000 wiederkehrende Ausgaben ab 2027 für die Finanzierung der Mehrkosten infolge Aufhebung der Degression beim Teuerungsausgleich zu Lasten der Erfolgsrechnung des Finanzdepartements.»
 - wiederkehrend: Fr. 3'100'000  
   «Fr. 3'100'000 wiederkehrende Ausgaben ab 2027 für die Erhöhung der Geldzulagen für Nacht-, Sonn- Feiertags- und Pikettdienst gemäss §§ 23 bis 33 der Verordnung zur Arbeitszeit der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt vom 6. Juli 2004 (Arbeitszeitverordnung, AZV, SG 162.200) zu Lasten der Erfolgsrechnung des Kantons Basel-Stadt (für 2026 Fr. 1'550'000).»
 - wiederkehrend: Fr. 1'600'000  
@@ -153,22 +157,9 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100412/000000412537.pdf
   «Es wird ein Gesamtbetrag von Fr. 860‘000 bewilligt zugunsten der Gioia Bindella SA zur Finanzierung einer Finanzhilfe in Form eines Investitionsbeitrags an den Umbau und die Sanierung der sich im Denkmalverzeichnis und in der Schutzzone befindlichen Liegenschaft St. Johanns-Vorstadt 48 ausserhalb der Rahmenausgabenbewilligung für Denkmalsubventionen 2022–2025.»
 
 ## 2026-05-06 24.0971 Ausgabenbewilligung zur Zwischennutzung «Am Birsigbogen» 2026 bis 2030
-Beschluss: https://grosserrat.bs.ch/dokumente/100412/000000412533.pdf
-**Achtung:** Gesamtbetrag laut Beschluss Fr. 1'209'000' Summe der gelesenen Posten Fr. 1'089'000
-- einmalig: Fr. 260'000  
-  «Fr. 260’000 für die Projektkosten zur Projektierung und Umsetzung der Zwischennutzung in den Jahren 2026 bis 2030 zu Lasten der Investitionsrechnung des Präsidialdepartements, Investitionsbereich 8 Übrige»
-- einmalig: Fr. 204'000  
-  «Fr. 204’000 für die personellen Ressourcen (Kreditstelle, 40 %) zur Projektierung und Umsetzung der Zwischennutzung in den Jahren 2026 und 2029 zu Lasten der Investitionsrechnung des Präsidialdepartements, Investitionsbereich 8 Übrige»
-- einmalig: Fr. 120'000  
-  «Fr. 120’000 für die Projektierung und Umsetzung der Grundinfrastruktur für die Zwischennutzung in den Jahren 2026 bis 2030 zu Lasten der Investitionsrechnung des Präsidialdepartements, Investitionsbereich 8 Übrige»
-- einmalig: Fr. 180'000  
-  «Fr. 180’000 für die Projektierung und Umsetzung der Massnahmen mit Begrünung zu Lasten der Investitionsrechnung des Bau- und Verkehrsdepartements, Mehrwertabgabefonds (MWAF) (Bau- und Verkehrsdepartement, Generalsekretariat)»
-- einmalig: Fr. 150'000  
-  «Fr. 150’000 für die Klimaschutz- und Klimaadaptionsmassnahmen in Form von 14 begrünten Pflanzgefässen zu Lasten der Investitionsrechnung des Bau- und Verkehrsdepartements, Mehrwertabgabefonds (Bau- und Verkehrsdepartement, Generalsekretariat)»
-- einmalig: Fr. 75'000  
-  «Fr. 75’000 für Sachkosten zur Projektierung und Umsetzung der Zwischennutzung in den Jahren 2026 bis 2030 zu Lasten der Erfolgsrechnung des Präsidialdepartements, Kantons- und Stadtentwicklung»
-- befristet: Fr. 100'000  
-  «Fr. 20’000 als Entwicklungsbeitrag für die ersten fünf Jahre nach Platzierung der Massnahmen zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements, Mehrwertabgabefonds (Bau- und Verkehrsdepartement, Generalsekretariat) 100’000 für die jährlich wiederkehrenden Folgekosten für die Jahre 2026 bis 2030 für den Unterhalt der Pflanzgefässe (Stadtklimakonzept) zu Lasten der Erfolgsrechnung des »
+Beschluss: https://grosserrat.bs.ch/dokumente/100412/000000412533.pdf (korrigiert)
+- einmalig: Fr. 1'209'000  
+  «korrigiert»
 
 ## 2026-05-06 25.1798 Ausgabenbewilligung zur Anpassung/Aktualisierung des Gesamtkonzeptes öffentliche Toilettenanlagen
 Beschluss: https://grosserrat.bs.ch/dokumente/100412/000000412534.pdf

@@ -192,9 +192,16 @@
      "betrag": 440000,
      "jahresbetrag": 110000,
      "jahre": 4
+    },
+    {
+     "quelle": "Für die Genossenschaft «Musikwerkstatt Basel Genossenschaft zur Förderung improvisierter Musik» Basel werden für die Jahre 2026 bis 2029 Ausgaben von insgesamt Fr. 1'380’000 (Fr. 345’000 p. a.) bewilligt. Ein allfälliger Teuerungsausgleich gemäss § 12 des Staatsbeitragsgesetzes wird vom Regierungsrat jährlich beschlossen.",
+     "art": "befristet",
+     "betrag": 1380000,
+     "jahresbetrag": 345000,
+     "jahre": 4
     }
    ],
-   "einmalig": 2143708,
+   "einmalig": 3523708,
    "jaehrlich": 0,
    "darlehen": 0,
    "korrigiert": false,
@@ -1023,6 +1030,13 @@
      "jahre": null
     },
     {
+     "quelle": "Fr. 500'000 wiederkehrende Ausgaben für die Finanzierung der Mehrkosten infolge Aufhebung der Degression beim Teuerungsausgleich zu Lasten der Erfolgsrechnung des Finanzdepartements.",
+     "art": "wiederkehrend",
+     "betrag": 500000,
+     "jahresbetrag": 500000,
+     "jahre": null
+    },
+    {
      "quelle": "Fr. 3'100'000 wiederkehrende Ausgaben für die Erhöhung der Geldzulagen für Nacht-, Sonn- Feiertags- und Pikettdienst gemäss §§ 23 bis 33 der Verordnung zur Arbeitszeit der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt vom 6. Juli 2004 (Arbeitszeitverordnung, AZV, SG 162.200) zu Lasten der Erfolgsrechnung des Kantons Basel-Stadt.",
      "art": "wiederkehrend",
      "betrag": 3100000,
@@ -1052,7 +1066,7 @@
     }
    ],
    "einmalig": 3900000,
-   "jaehrlich": 20100000,
+   "jaehrlich": 20600000,
    "darlehen": 0,
    "korrigiert": false,
    "bemerkung": null,
@@ -1145,60 +1159,18 @@
    "beschluss": "https://grosserrat.bs.ch/dokumente/100412/000000412533.pdf",
    "posten": [
     {
-     "quelle": "Fr. 260’000 für die Projektkosten zur Projektierung und Umsetzung der Zwischennutzung in den Jahren 2026 bis 2030 zu Lasten der Investitionsrechnung des Präsidialdepartements, Investitionsbereich 8 Übrige",
      "art": "einmalig",
-     "betrag": 260000,
+     "betrag": 1209000,
      "jahresbetrag": null,
-     "jahre": null
-    },
-    {
-     "quelle": "Fr. 204’000 für die personellen Ressourcen (Kreditstelle, 40 %) zur Projektierung und Umsetzung der Zwischennutzung in den Jahren 2026 und 2029 zu Lasten der Investitionsrechnung des Präsidialdepartements, Investitionsbereich 8 Übrige",
-     "art": "einmalig",
-     "betrag": 204000,
-     "jahresbetrag": null,
-     "jahre": null
-    },
-    {
-     "quelle": "Fr. 120’000 für die Projektierung und Umsetzung der Grundinfrastruktur für die Zwischennutzung in den Jahren 2026 bis 2030 zu Lasten der Investitionsrechnung des Präsidialdepartements, Investitionsbereich 8 Übrige",
-     "art": "einmalig",
-     "betrag": 120000,
-     "jahresbetrag": null,
-     "jahre": null
-    },
-    {
-     "quelle": "Fr. 180’000 für die Projektierung und Umsetzung der Massnahmen mit Begrünung zu Lasten der Investitionsrechnung des Bau- und Verkehrsdepartements, Mehrwertabgabefonds (MWAF) (Bau- und Verkehrsdepartement, Generalsekretariat)",
-     "art": "einmalig",
-     "betrag": 180000,
-     "jahresbetrag": null,
-     "jahre": null
-    },
-    {
-     "quelle": "Fr. 150’000 für die Klimaschutz- und Klimaadaptionsmassnahmen in Form von 14 begrünten Pflanzgefässen zu Lasten der Investitionsrechnung des Bau- und Verkehrsdepartements, Mehrwertabgabefonds (Bau- und Verkehrsdepartement, Generalsekretariat)",
-     "art": "einmalig",
-     "betrag": 150000,
-     "jahresbetrag": null,
-     "jahre": null
-    },
-    {
-     "quelle": "Fr. 75’000 für Sachkosten zur Projektierung und Umsetzung der Zwischennutzung in den Jahren 2026 bis 2030 zu Lasten der Erfolgsrechnung des Präsidialdepartements, Kantons- und Stadtentwicklung",
-     "art": "einmalig",
-     "betrag": 75000,
-     "jahresbetrag": null,
-     "jahre": null
-    },
-    {
-     "quelle": "Fr. 20’000 als Entwicklungsbeitrag für die ersten fünf Jahre nach Platzierung der Massnahmen zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements, Mehrwertabgabefonds (Bau- und Verkehrsdepartement, Generalsekretariat) 100’000 für die jährlich wiederkehrenden Folgekosten für die Jahre 2026 bis 2030 für den Unterhalt der Pflanzgefässe (Stadtklimakonzept) zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements, Stadtgärtnerei Fr. Fr. 100’000 für die jährlich wiederkehrenden Folgekosten für die Jahre 2026 bis 2030 für den Unterhalt der Grünflächen zu Lasten der Erfolgsrechnung d",
-     "art": "befristet",
-     "betrag": 100000,
-     "jahresbetrag": 20000,
-     "jahre": 5
+     "jahre": null,
+     "quelle": "korrigiert"
     }
    ],
-   "einmalig": 1089000,
+   "einmalig": 1209000,
    "jaehrlich": 0,
    "darlehen": 0,
-   "korrigiert": false,
-   "bemerkung": null,
+   "korrigiert": true,
+   "bemerkung": "Gesamtbetrag laut Grossratsbeschluss",
    "abstimmung": {
     "nr": "8895",
     "typ": "Ad Hoc einfaches Mehr",
