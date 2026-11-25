@@ -53,7 +53,7 @@ section h2{font-size:clamp(24px,3vw,32px)}
 .partei:last-child{margin-bottom:0}
 .partei h4{font-family:Jost,Arial,sans-serif;font-weight:800;font-size:18px;color:var(--blau);margin:0 0 6px}
 .partei dl{display:grid;grid-template-columns:1fr auto;gap:2px 16px;margin:0;font-size:15.5px}
-.partei dt{margin:0}
+.partei dt{margin:0;white-space:nowrap}
 .partei dd{margin:0;text-align:right;font-weight:700;color:var(--titel);font-variant-numeric:tabular-nums}
 .balken{height:8px;background:var(--grau);margin:8px 0 10px;border-radius:0 4px 4px 0;overflow:hidden}
 .balken i{display:block;height:100%;background:var(--hellblau);border-radius:0 4px 4px 0}
@@ -235,11 +235,11 @@ document.getElementById("gruppen").innerHTML = D.gruppen.map(g => `
     <div class="partei"><h4>${esc(p)}</h4>
       <div class="balken" aria-hidden="true"><i style="width:${(x.einm/maxEinm*100).toFixed(1)}%"></i></div>
       <dl>
-        <dt>Ausgaben zugestimmt (einmalig und befristet)</dt><dd>${chf(x.einm)}</dd>
-        <dt>Neue wiederkehrende Ausgaben zugestimmt, pro Jahr</dt><dd>${chf(x.jahr)}</dd>
-        <dt>Zugestimmt bei</dt><dd>${x.n} von ${x.m} Geschäften</dd>
-        <dt>Budgeterhöhungen aus eigenen Budgetpostulaten</dt><dd>${chf(x.post)}</dd>
-        <dt>Eigene Vorstösse überwiesen</dt><dd>${x.nvor}</dd>
+        <dt>Zugestimmt, einmalig</dt><dd>${chf(x.einm)}</dd>
+        <dt>Zugestimmt, pro Jahr</dt><dd>${chf(x.jahr)}</dd>
+        <dt>Ja bei</dt><dd>${x.n} von ${x.m} Geschäften</dd>
+        <dt>Eigene Budgetpostulate</dt><dd>${chf(x.post)}</dd>
+        <dt>Überwiesene Vorstösse</dt><dd>${x.nvor}</dd>
       </dl>
     </div>`; }).join("")}
   </div>`).join("");
