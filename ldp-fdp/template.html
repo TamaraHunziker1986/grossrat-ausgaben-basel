@@ -87,6 +87,7 @@ td.num,th.num{text-align:right;font-variant-numeric:tabular-nums;white-space:now
 td.p,th.p{text-align:center;white-space:nowrap}
 .chip{display:inline-block;font-size:12.5px;font-weight:700;padding:1px 7px;border-radius:10px;border:1px solid currentColor;white-space:nowrap}
 .chip.J{color:var(--ja)} .chip.N{color:var(--nein)} .chip.geteilt{color:var(--text)}
+.chip.E{color:#8a6d00}
 .chip.knapp{color:var(--magenta)}
 .klein{font-size:13.5px;color:#6b7280}
 .mehr{margin-top:12px}
@@ -135,11 +136,11 @@ footer strong{font-family:Jost,Arial,sans-serif;font-size:17px}
 <main class="wrap">
   <section id="stimmverhalten">
     <h2>Stimmverhalten</h2>
-    <p class="lead">Wie oft hat die Mehrheit der FDP-Fraktion gleich gestimmt wie die Mehrheit einer anderen Fraktion? Gezählt sind alle Abstimmungen, in denen beide Fraktionen mehrheitlich Ja oder Nein gestimmt haben.</p>
+    <p class="lead">Wie oft hat die Mehrheit der FDP-Fraktion gleich gestimmt wie die Mehrheit einer anderen Fraktion? Als Haltung einer Fraktion gilt die häufigste Stimme ihrer Mitglieder: Ja, Nein oder Enthaltung. Gleiche Haltung heisst also auch: beide haben sich mehrheitlich enthalten.</p>
     <div class="legende"><span><i style="background:var(--fdp)"></i>FDP stimmt gleich wie …</span><span><i style="background:var(--ldp)"></i>LDP stimmt gleich wie …</span></div>
     <div class="bars" id="bars-ueberein"></div>
     <div class="zwei" style="margin-top:28px">
-      <div class="box"><h3>Geschlossenheit</h3><p class="klein">Anteil der Abstimmungen, in denen niemand aus der Fraktion gegen die eigene Mehrheit gestimmt hat (Enthaltungen nicht mitgezählt).</p><dl id="dl-geschlossen"></dl></div>
+      <div class="box"><h3>Geschlossenheit</h3><p class="klein">Anteil der Abstimmungen, in denen alle anwesenden Mitglieder der Fraktion gleich gestimmt haben, Enthaltungen eingeschlossen.</p><dl id="dl-geschlossen"></dl></div>
       <div class="box"><h3>Auf der Seite der Mehrheit</h3><p class="klein">Anteil der Abstimmungen, in denen die Fraktionsmehrheit so gestimmt hat, wie der Rat entschieden hat.</p><dl id="dl-gewinner"></dl></div>
     </div>
   </section>
@@ -155,6 +156,7 @@ footer strong{font-family:Jost,Arial,sans-serif;font-size:17px}
     <div class="filter">
       <label>Thema<select id="f-d-thema"></select></label>
       <label>Sieger<select id="f-d-gewinnt"><option value="">FDP oder LDP</option><option value="FDP">FDP auf der Mehrheitsseite</option><option value="LDP">LDP auf der Mehrheitsseite</option></select></label>
+      <label>Enthaltungen<select id="f-d-enth"><option value="">alle</option><option value="ja">nur mit Enthaltung</option><option value="nein">ohne Enthaltung</option></select></label>
       <label>Suche<input id="f-d-suche" type="search" placeholder="Stichwort"></label>
       <label class="check"><input id="f-d-knapp" type="checkbox"> nur entscheidende</label>
     </div>
@@ -238,7 +240,7 @@ footer strong{font-family:Jost,Arial,sans-serif;font-size:17px}
   <section id="methode" class="methode">
     <h2>So entstehen die Zahlen</h2>
     <p>Grundlage sind die offenen Daten des Grossen Rates auf data.bs.ch: Geschäfte (100311), Vorgänge (100314), Abstimmungsergebnisse pro Ratsmitglied (100186) und Ratsmitgliedschaften (100307). Die Legislatur 2021–2025 dauerte vom 1. Februar 2021 bis zum 31. Januar 2025, die laufende begann am 1. Februar 2025.</p>
-    <p>Für das Stimmverhalten zählt die Mehrheit der anwesenden Fraktionsmitglieder in jeder einzelnen Abstimmung. Präsenzkontrollen und Wahlen sind ausgenommen. Steht es in einer Fraktion unentschieden, gilt sie als geteilt und fällt aus dem Vergleich. Die Fraktion Mitte-EVP ist als Mitte aufgeführt.</p>
+    <p>Für das Stimmverhalten zählt in jeder einzelnen Abstimmung die häufigste Stimme der anwesenden Fraktionsmitglieder (Ja, Nein oder Enthaltung). Präsenzkontrollen und Wahlen sind ausgenommen. Steht es in einer Fraktion unentschieden, gilt sie als geteilt und fällt aus dem Vergleich. Die Fraktion Mitte-EVP ist als Mitte aufgeführt.</p>
     <p>Ein Vorstoss zählt zur Partei der Person, die ihn als Erste unterzeichnet hat. Mitgezählt sind Motionen, Anzüge, Planungsanzüge, Budgetpostulate, Interpellationen, Schriftliche Anfragen, Resolutionen und Standesinitiativen von Ratsmitgliedern. Vorstösse von Kommissionen fehlen.</p>
     <p>Jedes Geschäft hat ein Hauptthema. Es wird aus dem Titel bestimmt und, wo vorhanden, aus dem Thema, das der Parlamentsdienst vergeben hat. Die Zuordnung ist automatisch und kann im Einzelfall danebenliegen. Korrekturen sind in der Datei themen-korrekturen.csv möglich.</p>
     <p>Weitere Quellen: Ausgaben aus der Seite «Was der Grosse Rat ausgibt»; Kommissionen (100308); Wahlresultate 2020 und 2024 (100101, 100399); Wortmeldungen aus den Vollprotokollen des Grossen Rates, gezählt sind Zeilen, die mit Name und Fraktion in Klammern beginnen.</p>
@@ -325,10 +327,10 @@ let diffLimit = 40;
 function zeichneDifferenzen(){
   const D2 = D.differenzen.filter(inLeg);
   const nAbst = abstAnzahl("abstimmungen"), nBeide = abstAnzahl("beide");
-  const fdpSieg = D2.filter(d => d.gewinnt === "FDP").length;
+  const fdpSieg = D2.filter(d => d.gewinnt === "FDP").length, ldpSieg = D2.filter(d => d.gewinnt === "LDP").length, enth = D2.filter(d => d.enthaltung).length;
   document.getElementById("diff-lead").textContent =
-    `In ${zahl(nAbst)} Abstimmungen haben FDP und LDP ${zahl(nBeide)} Mal beide eine klare Mehrheit gebildet. In ${zahl(D2.length)} Fällen lagen sie auseinander. ` +
-    `Davon stand die FDP ${zahl(fdpSieg)} Mal auf der Seite der Ratsmehrheit, die LDP ${zahl(D2.length - fdpSieg)} Mal.`;
+    `In ${zahl(nAbst)} Abstimmungen hatten FDP und LDP ${zahl(nBeide)} Mal beide eine klare Haltung (Ja, Nein oder Enthaltung). In ${zahl(D2.length)} Fällen lagen sie auseinander, in ${zahl(enth)} davon hat sich eine der beiden Fraktionen mehrheitlich enthalten. ` +
+    `Die FDP stand ${zahl(fdpSieg)} Mal auf der Seite der Ratsmehrheit, die LDP ${zahl(ldpSieg)} Mal.`;
   // nach Thema
   const t = {};
   for (const id of legIds()){ const pt = (D.abstimmungen[id]||{}).pro_thema || {}; for (const [k,v] of Object.entries(pt)){ t[k] = t[k] || {n:0,einig:0}; t[k].n += v.n; t[k].einig += v.einig; } }
@@ -341,15 +343,15 @@ function zeichneDifferenzen(){
       <td><div class="stapel" title="gleiche Haltung ${fp(g)}, unterschiedlich ${fp(u)}"><i class="g" style="width:${g}%"></i><i class="u" style="width:${u}%"></i></div></td></tr>`; }).join("") + "</tbody>";
   // Liste
   const th = document.getElementById("f-d-thema").value, gw = document.getElementById("f-d-gewinnt").value;
-  const q = document.getElementById("f-d-suche").value.trim().toLowerCase(), kn = document.getElementById("f-d-knapp").checked;
-  const liste = D2.filter(d => (!th || d.thema === th) && (!gw || d.gewinnt === gw) && (!kn || d.knapp) && (!q || (d.titel + " " + d.sig).toLowerCase().includes(q)));
-  const pos = (z) => `<span class="chip ${z.pos}" title="${z.J} Ja, ${z.N} Nein, ${z.E} Enthaltungen">${z.pos === "J" ? "Ja" : z.pos === "N" ? "Nein" : "geteilt"}</span> <span class="klein">${z.J}:${z.N}</span>`;
+  const q = document.getElementById("f-d-suche").value.trim().toLowerCase(), kn = document.getElementById("f-d-knapp").checked, en = document.getElementById("f-d-enth").value;
+  const liste = D2.filter(d => (!th || d.thema === th) && (!gw || d.gewinnt === gw) && (!kn || d.knapp) && (!en || (en === "ja") === !!d.enthaltung) && (!q || (d.titel + " " + d.sig).toLowerCase().includes(q)));
+  const pos = (z) => `<span class="chip ${z.pos}" title="${z.J} Ja, ${z.N} Nein, ${z.E} Enthaltungen">${z.pos === "J" ? "Ja" : z.pos === "N" ? "Nein" : z.pos === "E" ? "Enthaltung" : "geteilt"}</span> <span class="klein">${z.J}:${z.N}:${z.E}</span>`;
   document.getElementById("t-diff").innerHTML =
     '<thead><tr><th>Datum</th><th>Geschäft</th><th>Thema</th><th class="p">FDP</th><th class="p">LDP</th><th class="p">Rat</th><th class="p">Mehrheitsseite</th></tr></thead><tbody>' +
     liste.slice(0, diffLimit).map(d => `<tr><td class="num">${kurz(d.datum)}</td>
       <td class="g">${d.sig ? `<a href="${GR}${esc(d.sig)}" target="_blank" rel="noopener">${esc(d.titel || d.sig)}</a>` : esc(d.titel)}<br><span class="klein">${esc(d.typ)}${d.knapp ? ' · <span class="chip knapp">entscheidend</span>' : ""}</span></td>
       <td class="klein">${esc(d.thema)}</td><td class="p">${pos(d.fdp)}</td><td class="p">${pos(d.ldp)}</td>
-      <td class="p klein">${d.angenommen ? "angenommen" : "abgelehnt"}<br>${d.ja}:${d.nein}</td><td class="p"><b>${d.gewinnt}</b></td></tr>`).join("") +
+      <td class="p klein">${d.angenommen ? "angenommen" : "abgelehnt"}<br>${d.ja}:${d.nein}</td><td class="p"><b>${d.gewinnt || "–"}</b></td></tr>`).join("") +
     (liste.length ? "" : '<tr><td colspan="7" class="klein">Keine Abstimmungen für diese Auswahl.</td></tr>') + "</tbody>";
   document.getElementById("mehr-diff").innerHTML = liste.length > diffLimit
     ? `<span class="klein">${diffLimit} von ${liste.length} angezeigt.</span> <button class="link" id="b-diff">Alle anzeigen</button>` : `<span class="klein">${liste.length} Abstimmungen</span>`;
@@ -459,7 +461,7 @@ function zeichneAusgaben(){
     `<dt>einmalig</dt><dd>${chfK(sum(K.filter(k=>k.partei==="FDP"),"einmalig"))}</dd><dd>${chfK(sum(K.filter(k=>k.partei==="LDP"),"einmalig"))}</dd>` +
     `<dt>pro Jahr</dt><dd>${chfK(sum(K.filter(k=>k.partei==="FDP"),"jaehrlich"))}</dd><dd>${chfK(sum(K.filter(k=>k.partei==="LDP"),"jaehrlich"))}</dd>`;
   const diff = mit.filter(g => g.fdp !== g.ldp).sort((a,b) => (b.einmalig + 10*b.jaehrlich) - (a.einmalig + 10*a.jaehrlich));
-  const ch = x => `<span class="chip ${x}">${x === "J" ? "Ja" : x === "N" ? "Nein" : "geteilt"}</span>`;
+  const ch = x => `<span class="chip ${x}">${x === "J" ? "Ja" : x === "N" ? "Nein" : x === "E" ? "Enthaltung" : "geteilt"}</span>`;
   document.getElementById("t-ausgaben").innerHTML = '<thead><tr><th>Datum</th><th>Geschäft</th><th class="num">einmalig</th><th class="num">pro Jahr</th><th class="p">FDP</th><th class="p">LDP</th></tr></thead><tbody>' +
     diff.map(g => `<tr><td class="num">${kurz(g.datum)}</td><td class="g"><a href="${esc(g.url)}" target="_blank" rel="noopener">${esc(g.titel)}</a></td><td class="num">${g.einmalig ? chf(g.einmalig) : ""}</td><td class="num">${g.jaehrlich ? chf(g.jaehrlich) : ""}</td><td class="p">${ch(g.fdp)}</td><td class="p">${ch(g.ldp)}</td></tr>`).join("") +
     (diff.length ? "" : '<tr><td colspan="6" class="klein">Keine Ausgaben mit unterschiedlicher Haltung in diesem Zeitraum.</td></tr>') + "</tbody>";
@@ -516,7 +518,7 @@ function zeichneWahlen(){
 
 function alles(){ zeichneAusgaben(); zeichneKommissionen(); zeichneWortmeldungen(); zeichneWahlen(); zeichneKacheln(); zeichneStimmverhalten(); zeichneDifferenzen(); zeichneThemen(); zeichneArten(); zeichneZusammenarbeit(); zeichneVorstoesse(); }
 fLeg.addEventListener("change", () => { L = fLeg.value; diffLimit = 40; vLimit = 50; alles(); });
-["f-d-thema","f-d-gewinnt","f-d-knapp"].forEach(id => document.getElementById(id).addEventListener("change", () => { diffLimit = 40; zeichneDifferenzen(); }));
+["f-d-thema","f-d-gewinnt","f-d-knapp","f-d-enth"].forEach(id => document.getElementById(id).addEventListener("change", () => { diffLimit = 40; zeichneDifferenzen(); }));
 document.getElementById("f-d-suche").addEventListener("input", () => { diffLimit = 40; zeichneDifferenzen(); });
 ["f-v-partei","f-v-typ","f-v-thema"].forEach(id => document.getElementById(id).addEventListener("change", () => { vLimit = 50; zeichneVorstoesse(); }));
 document.getElementById("f-v-suche").addEventListener("input", () => { vLimit = 50; zeichneVorstoesse(); });

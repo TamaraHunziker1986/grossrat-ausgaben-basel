@@ -343,15 +343,16 @@ def lade_abstimmungen():
 # ---------------------------------------------------------------- Auswerten
 
 def position(z):
-    """Mehrheitsposition einer Fraktion: J, N oder geteilt (None, wenn niemand Ja oder Nein stimmte)."""
-    j, n = z.get("J", 0), z.get("N", 0)
-    if j == 0 and n == 0:
+    """Häufigste Stimme einer Fraktion: J, N oder E (Enthaltung); «geteilt» bei Gleichstand."""
+    c = {k: z.get(k, 0) for k in ("J", "N", "E")}
+    m = max(c.values())
+    if m == 0:
         return None
-    if j > n:
-        return "J"
-    if n > j:
-        return "N"
-    return "geteilt"
+    top = [k for k, v in c.items() if v == m]
+    return top[0] if len(top) == 1 else "geteilt"
+
+
+KLAR = ("J", "N", "E")
 
 
 def werte_abstimmungen(rows, themen_pd, korrekturen):
@@ -392,22 +393,23 @@ def werte_abstimmungen(rows, themen_pd, korrekturen):
             ergebnis = "J" if v["ja"] > v["nein"] else "N"
             for p in PARTEIEN:
                 z = v["fr"].get(p, {})
-                if pos[p] in ("J", "N"):
+                if pos[p] in KLAR:
                     geschlossen[p][1] += 1
-                    if (z.get("J", 0) == 0 or z.get("N", 0) == 0):
+                    if sum(1 for k in KLAR if z.get(k, 0)) == 1:
                         geschlossen[p][0] += 1
+                if pos[p] in ("J", "N"):
                     gewinner[p][1] += 1
                     if pos[p] == ergebnis:
                         gewinner[p][0] += 1
             for p in ("FDP", "LDP"):
-                if pos[p] not in ("J", "N"):
+                if pos[p] not in KLAR:
                     continue
                 for q in PARTEIEN:
-                    if q != p and pos[q] in ("J", "N"):
+                    if q != p and pos[q] in KLAR:
                         ueberein[p][q][1] += 1
                         if pos[p] == pos[q]:
                             ueberein[p][q][0] += 1
-            if pos["FDP"] in ("J", "N") and pos["LDP"] in ("J", "N"):
+            if pos["FDP"] in KLAR and pos["LDP"] in KLAR:
                 n_beide += 1
                 thema = korrekturen.get(v["sig"]) or thema_von(v["titel"], themen_pd.get(v["sig"]))
                 pro_thema[thema][1] += 1
@@ -416,27 +418,19 @@ def werte_abstimmungen(rows, themen_pd, korrekturen):
                 else:
                     fz, lz = v["fr"]["FDP"], v["fr"]["LDP"]
                     marge = abs(v["ja"] - v["nein"])
+                    sieger = "FDP" if pos["FDP"] == ergebnis else "LDP" if pos["LDP"] == ergebnis else None
                     # Hätte die siegreiche Fraktion wie die andere gestimmt, wäre das Resultat gekippt?
-                    sieger = "FDP" if pos["FDP"] == ergebnis else "LDP"
-                    sz = v["fr"][sieger]
-                    entscheidend = 2 * sz.get(ergebnis, 0) >= marge
+                    entscheidend = bool(sieger) and 2 * v["fr"][sieger].get(ergebnis, 0) >= marge
                     differenzen.append({
                         "leg": lid, "datum": v["datum"], "nr": v["nr"], "sig": v["sig"], "titel": v["titel"],
                         "typ": v["typ"], "thema": thema, "ja": v["ja"], "nein": v["nein"], "enth": v["enth"],
                         "angenommen": ergebnis == "J",
                         "fdp": {"J": fz.get("J", 0), "N": fz.get("N", 0), "E": fz.get("E", 0), "pos": pos["FDP"]},
                         "ldp": {"J": lz.get("J", 0), "N": lz.get("N", 0), "E": lz.get("E", 0), "pos": pos["LDP"]},
-                        "svp": pos["SVP"], "glp": pos["GLP"], "sp": pos["SP"], "mitte": pos["Mitte"],
-                        "gewinnt": "FDP" if pos["FDP"] == ergebnis else "LDP",
+                        "gewinnt": sieger,
+                        "enthaltung": "E" in (pos["FDP"], pos["LDP"]),
                         "knapp": entscheidend,
                     })
-        # Sitze: häufigste Fraktionsgrösse in den ersten drei Monaten der Legislatur
-        frueh = [v for v in vs if v["datum"] <= (dt.date.fromisoformat(leg["von"]) + dt.timedelta(days=90)).isoformat()] or vs
-        sitze[lid] = {}
-        for p in PARTEIEN:
-            c = Counter(v["groesse"][p] for v in frueh if v["groesse"].get(p))
-            if c:
-                sitze[lid][p] = c.most_common(1)[0][0]
         stats[lid] = {
             "abstimmungen": len(vs),
             "beide": n_beide,
@@ -535,10 +529,17 @@ def main():
         "vorstoesse": [{k: e.get(k) for k in ("sig", "titel", "typ", "datum", "leg", "urheber", "partei", "thema",
                                                "ergebnis", "mit_parteien", "mit", "pdf", "status", "dep")} for e in vorstoesse],
     }
-    (OUT / "data.json").write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     html = (HIER / "template.html").read_text(encoding="utf-8")
     html = html.replace("/*DATA*/null", json.dumps(data, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/"))
-    (OUT / "index.html").write_text(html, encoding="utf-8")
+    import os
+    passwort = os.environ.get("SITE_PASSWORD", "").strip()
+    if passwort:
+        import schutz
+        (OUT / "index.html").write_text(schutz.verschluesseln(html, passwort), encoding="utf-8")
+        (OUT / "data.json").unlink(missing_ok=True)
+    else:
+        (OUT / "data.json").write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+        (OUT / "index.html").write_text(html, encoding="utf-8")
     logo = ROOT / "docs" / "fdp-logo.png"
     if logo.exists():
         (OUT / "fdp-logo.png").write_bytes(logo.read_bytes())

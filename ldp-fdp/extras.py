@@ -70,17 +70,28 @@ def text_von(html_s):
 
 
 def mehrheit(z):
-    j, n = z.get("J", 0), z.get("N", 0)
-    if j == 0 and n == 0:
+    c = {k: z.get(k, 0) for k in ("J", "N", "E")}
+    m = max(c.values())
+    if m == 0:
         return None
-    return "J" if j > n else "N" if n > j else "geteilt"
+    top = [k for k, v in c.items() if v == m]
+    return top[0] if len(top) == 1 else "geteilt"
 
 
 # ---------------------------------------------------------------- 1 Ausgaben
 
 def ausgaben(leg_von):
     pfad = ROOT / "docs" / "data.json"
-    d = json.loads(pfad.read_text(encoding="utf-8"))
+    if pfad.exists():
+        d = json.loads(pfad.read_text(encoding="utf-8"))
+    else:
+        # Ausgaben-Seite ist verschlüsselt: mit demselben Passwort öffnen
+        import os
+        import schutz
+        seite = (ROOT / "docs" / "index.html").read_text(encoding="utf-8")
+        pw = os.environ.get("SITE_PASSWORD", "").strip()
+        html_s = schutz.entschluesseln(seite, pw) if "const P = " in seite and pw else seite
+        d = schutz.daten_aus_seite(html_s)
     out = []
     for a in d.get("ausgaben", []):
         ab = a.get("abstimmung") or {}
