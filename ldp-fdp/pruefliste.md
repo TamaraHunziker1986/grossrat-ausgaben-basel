@@ -72,7 +72,6 @@ Stand 25.11.2026
 - 24.5127 (LDP): Interpellation Nr. 37 Lukas Faesch betreffend das Aechzen über das Krächzen
 - 23.5508 (FDP): Schriftliche Anfrage Christian C. Moesch betreffend Demenzstrategie des Kantons
 - 23.5367 (LDP): Schriftliche Anfrage Michael Hug betreffend Verhalten des Fachausschusses Literatur bei der Behandlung des Fördergeld-Gesuches eines Schriftstellers
-- 22.5403 (FDP): Anzug Luca Urgese und Konsorten betreffend Kenntnis der Unterrichtssprache als Grundlage
 - 22.5269 (LDP): Interpellation Nr. 62 Lukas Faesch betreffend unzumutbarer Zunahme von Rehschäden auf dem Friedhof Hörnli
 - 22.5248 (LDP): Anzug Annina von Falkenstein und Konsorten betreffend interdisziplinäre Studie zu den Folgen von Homeoffice
 - 22.5142 (LDP): Interpellation Nr. 27 Lydia Isler-Christ betreffend Information der Bevölkerung über die Krisenvorsorge im Zusammenhang mit dem Krieg in der Ukraine
