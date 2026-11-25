@@ -1,0 +1,43 @@
+name: Grossrat-Ausgaben aktualisieren
+
+on:
+  schedule:
+    # Täglich um 05:23 Uhr (Winterzeit). Neue Sitzungen erscheinen meist ein bis zwei Tage
+    # nach der Sitzung in den offenen Daten und sind dann am nächsten Morgen auf der Seite.
+    - cron: "23 4 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["build.py", "template.html", "korrekturen.csv"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: pdftotext installieren
+        run: sudo apt-get update -q && sudo apt-get install -y -q poppler-utils
+      - name: Daten holen und Seite bauen
+        run: python build.py
+      - name: Änderungen speichern
+        run: |
+          git config user.name "grossrat-bot"
+          git config user.email "actions@users.noreply.github.com"
+          # Jeder Lauf schreibt den Zeitpunkt mit, damit GitHub den Zeitplan nicht
+          # nach 60 Tagen ohne Aktivität abschaltet.
+          date -u +"%Y-%m-%dT%H:%M:%SZ" > docs/letzter-lauf.txt
+          git add docs cache pruefliste.md
+          git diff --cached --quiet && echo "Keine Änderungen" && exit 0
+          git commit -m "Update Grossrat-Ausgaben $(date +%Y-%m-%d)"
+          git pull --rebase
+          git push

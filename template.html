@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="de-CH">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Was der Grosse Rat ausgibt | FDP.Die Liberalen Basel-Stadt</title>
+<meta name="description" content="Alle Ausgaben, die der Grosse Rat Basel-Stadt seit dem 1. Januar 2026 bewilligt hat, mit dem Stimmverhalten der Parteien.">
+<link rel="icon" href="fdp-logo.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@500;700;800&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --hellblau:#00a0e2; --blau:#074ea1; --magenta:#e6007d;
+  --text:#4b5261; --titel:#414959; --grau:#ededed; --linie:#d9dce1; --weiss:#fff;
+  --ja:#0b7a3e; --nein:#b4232a;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;font-family:"Source Sans 3",Arial,sans-serif;font-size:17px;line-height:1.5;color:var(--text);background:var(--weiss)}
+a{color:var(--blau)}
+h1,h2,h3{font-family:Jost,Arial,sans-serif;color:var(--titel);font-weight:800;line-height:1.15;margin:0 0 .5em}
+.wrap{max-width:1180px;margin:0 auto;padding:0 24px}
+
+.topbar{background:var(--hellblau);color:#fff;font-family:Jost,Arial,sans-serif;font-weight:700;font-size:14px}
+.topbar .wrap{display:flex;justify-content:flex-end;gap:24px;padding-top:8px;padding-bottom:8px}
+.topbar a{color:#fff;text-decoration:none}
+.topbar a:hover{text-decoration:underline}
+.kopf{border-bottom:1px solid var(--linie)}
+.kopf .wrap{display:flex;align-items:center;gap:14px;padding-top:18px;padding-bottom:18px}
+.kopf img{height:34px;width:auto;display:block}
+.kopf .marke{font-family:Jost,Arial,sans-serif;font-weight:800;color:var(--hellblau);font-size:19px;line-height:1.05}
+.kopf .marke span{display:block;color:var(--blau);font-weight:700;font-size:15px}
+
+.hero{background:var(--blau);color:#fff;padding:52px 0 44px}
+.hero h1{color:#fff;font-size:clamp(32px,5vw,52px);margin-bottom:.3em}
+.hero p{max-width:760px;font-size:19px;margin:0 0 .6em}
+.hero .stand{font-size:15px;opacity:.85}
+
+.kacheln{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:16px;margin:-28px auto 0;position:relative}
+.kachel{background:#fff;border-top:5px solid var(--hellblau);box-shadow:0 2px 12px rgba(7,78,161,.12);padding:18px 20px}
+.kachel .zahl{font-family:Jost,Arial,sans-serif;font-weight:800;font-size:clamp(26px,3vw,34px);color:var(--titel);line-height:1.1}
+.kachel .was{font-size:15px;margin-top:6px}
+
+section{padding:48px 0 8px}
+section h2{font-size:clamp(24px,3vw,32px)}
+.lead{max-width:780px;margin:0 0 20px}
+
+.gruppen{display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:24px}
+.gruppe{background:var(--grau);padding:22px}
+.gruppe h3{font-size:22px;margin-bottom:14px}
+.partei{background:#fff;padding:14px 16px;margin-bottom:12px}
+.partei:last-child{margin-bottom:0}
+.partei h4{font-family:Jost,Arial,sans-serif;font-weight:800;font-size:18px;color:var(--blau);margin:0 0 6px}
+.partei dl{display:grid;grid-template-columns:1fr auto;gap:2px 16px;margin:0;font-size:15.5px}
+.partei dt{margin:0}
+.partei dd{margin:0;text-align:right;font-weight:700;color:var(--titel);font-variant-numeric:tabular-nums}
+.balken{height:8px;background:var(--grau);margin:8px 0 10px;border-radius:0 4px 4px 0;overflow:hidden}
+.balken i{display:block;height:100%;background:var(--hellblau);border-radius:0 4px 4px 0}
+
+.chart{position:relative;display:flex;align-items:flex-end;gap:6px;height:240px;border-bottom:1px solid var(--linie);padding-top:24px}
+.chart .s{flex:1;display:flex;flex-direction:column;justify-content:flex-end;height:100%;cursor:default;position:relative}
+.chart .s i{display:block;background:var(--blau);border-radius:4px 4px 0 0;min-height:2px}
+.chart .s:hover i,.chart .s:focus i{background:var(--hellblau)}
+.chart-x{display:flex;gap:6px;font-size:12.5px;margin-top:6px}
+.chart-x span{flex:1;text-align:center;white-space:nowrap;overflow:hidden}
+.tip{position:absolute;pointer-events:none;background:var(--titel);color:#fff;font-size:14px;padding:8px 10px;border-radius:4px;white-space:nowrap;z-index:5;display:none;transform:translate(-50%,-100%)}
+
+.filter{display:flex;flex-wrap:wrap;gap:12px;margin:0 0 16px}
+.filter label{font-size:14px;font-weight:600;display:flex;flex-direction:column;gap:4px}
+.filter select,.filter input{font:inherit;font-size:15px;padding:8px 10px;border:1px solid var(--linie);border-radius:3px;min-width:200px;color:var(--text);background:#fff}
+.tabelle{overflow-x:auto;border:1px solid var(--linie)}
+table{border-collapse:collapse;width:100%;font-size:15px}
+th,td{padding:10px 12px;border-bottom:1px solid var(--linie);text-align:left;vertical-align:top}
+th{font-family:Jost,Arial,sans-serif;font-weight:700;color:var(--titel);background:var(--grau);position:sticky;top:0;white-space:nowrap}
+td.g{min-width:300px}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+td.p,th.p{text-align:center;white-space:nowrap}
+tr.summe td{font-weight:700;color:var(--titel);background:#f7f7f7}
+.chip{display:inline-block;font-size:12.5px;font-weight:700;padding:1px 7px;border-radius:10px;border:1px solid currentColor}
+.chip.ja{color:var(--ja)}
+.chip.nein{color:var(--nein)}
+.chip.geteilt{color:var(--text)}
+.klein{font-size:13.5px;color:#6b7280}
+.mehr{margin-top:12px}
+button.link{font:inherit;color:var(--blau);background:none;border:0;padding:0;cursor:pointer;text-decoration:underline;font-weight:600}
+
+.methode{max-width:820px}
+.methode p{margin:0 0 .9em}
+
+footer{background:var(--hellblau);color:#fff;margin-top:56px;padding:32px 0;font-size:15px}
+footer a{color:#fff}
+footer .wrap{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:24px}
+footer strong{font-family:Jost,Arial,sans-serif;font-size:17px}
+@media (max-width:600px){ .wrap{padding:0 16px} .hero{padding:36px 0 40px} .filter select,.filter input{min-width:0;width:100%} .filter label{flex:1 1 100%} }
+</style>
+</head>
+<body>
+<div class="topbar"><div class="wrap"><a href="https://www.fdp-bs.ch">fdp-bs.ch</a></div></div>
+<header class="kopf"><div class="wrap">
+  <a href="https://www.fdp-bs.ch" aria-label="FDP.Die Liberalen Basel-Stadt"><img src="fdp-logo.svg" alt="FDP"></a>
+  <div class="marke">Die Liberalen<span>Basel-Stadt</span></div>
+</div></header>
+
+<div class="hero"><div class="wrap">
+  <h1>Was der Grosse Rat ausgibt</h1>
+  <p>Alle Ausgaben, die der Grosse Rat Basel-Stadt seit dem 1. Januar 2026 bewilligt hat, und wie die Parteien dazu abgestimmt haben. Die Übersicht wird nach jeder Sitzung nachgeführt.</p>
+  <p class="stand" id="stand"></p>
+</div></div>
+
+<div class="wrap"><div class="kacheln" id="kacheln"></div></div>
+
+<main class="wrap">
+  <section id="parteien">
+    <h2>Wer die Ausgaben mitträgt</h2>
+    <p class="lead">Eine Partei hat einer Ausgabe zugestimmt, wenn die Mehrheit ihrer Ratsmitglieder in der Schlussabstimmung Ja gestimmt hat. Dazu kommen Budgeterhöhungen aus eigenen Budgetpostulaten und Vorstösse, die der Rat auf Antrag der Partei überwiesen hat.</p>
+    <div class="gruppen" id="gruppen"></div>
+  </section>
+
+  <section id="sitzungen">
+    <h2>Ausgaben pro Sitzung</h2>
+    <p class="lead">Einmalige und befristete Ausgaben, die an der jeweiligen Sitzung bewilligt wurden, in Franken.</p>
+    <div class="chart" id="chart" role="img" aria-label="Säulendiagramm der bewilligten Ausgaben pro Sitzung"></div>
+    <div class="chart-x" id="chartx" aria-hidden="true"></div>
+    <div class="tip" id="tip"></div>
+  </section>
+
+  <section id="geschaefte">
+    <h2>Alle bewilligten Ausgaben</h2>
+    <p class="lead">Ratschläge und Ausgabenberichte der Regierung, denen der Grosse Rat zugestimmt hat. Ein Klick auf den Titel führt zum Geschäft, der Betrag zum Grossratsbeschluss.</p>
+    <div class="filter">
+      <label>Sitzung<select id="f-sitzung"><option value="">Alle Sitzungen</option></select></label>
+      <label>Departement<select id="f-dep"><option value="">Alle Departemente</option></select></label>
+      <label>Suche<input id="f-suche" type="search" placeholder="Stichwort"></label>
+    </div>
+    <div class="tabelle"><table id="t-ausgaben"></table></div>
+  </section>
+
+  <section id="budgetpostulate">
+    <h2>Budgeterhöhungen aus Budgetpostulaten</h2>
+    <p class="lead">Mit einem Budgetpostulat verlangen Ratsmitglieder, einen Budgetposten zu erhöhen. Aufgeführt sind die Postulate, denen der Grosse Rat zugestimmt hat.</p>
+    <div class="tabelle"><table id="t-postulate"></table></div>
+  </section>
+
+  <section id="vorstoesse">
+    <h2>Überwiesene Vorstösse</h2>
+    <p class="lead">Motionen und Anzüge, die der Grosse Rat der Regierung überwiesen hat. Was sie kosten, steht meist erst im späteren Bericht der Regierung. Sobald ein Betrag bekannt ist, wird er hier eingetragen.</p>
+    <div class="filter">
+      <label>Partei<select id="f-partei"></select></label>
+    </div>
+    <div class="tabelle"><table id="t-vorstoesse"></table></div>
+    <div class="mehr" id="mehr-vorstoesse"></div>
+  </section>
+
+  <section id="methode" class="methode">
+    <h2>So entstehen die Zahlen</h2>
+    <p>Grundlage sind die offenen Daten des Grossen Rates auf data.bs.ch: Geschäfte, Vorgänge, Dokumente, Abstimmungsergebnisse und Ratsmitglieder. Gezählt werden Ratschläge und Ausgabenberichte, denen der Grosse Rat seit dem 1. Januar 2026 zugestimmt hat. Budget, Rechnung, Nachtragskredite und Kreditübertragungen sind nicht enthalten.</p>
+    <p>Die Beträge stammen aus den Grossratsbeschlüssen. Einmalige Ausgaben und befristete Beiträge (etwa ein Staatsbeitrag für vier Jahre) werden mit ihrem Gesamtbetrag gezählt. Unbefristet wiederkehrende Ausgaben sind separat ausgewiesen, als Betrag pro Jahr. Beide Summen dürfen nicht zusammengezählt werden.</p>
+    <p>Für das Stimmverhalten zählt die Schlussabstimmung, falls es eine gibt, sonst die letzte Abstimmung zum Geschäft an diesem Sitzungstag. Massgebend ist die Parteizugehörigkeit der einzelnen Ratsmitglieder. Das junge grüne bündnis (jgb) ist bei den Grünen mitgezählt.</p>
+    <p>Die Beträge werden automatisch aus den PDF-Beschlüssen gelesen und von Hand geprüft. Rechtlich massgebend sind allein die Beschlüsse des Grossen Rates.</p>
+  </section>
+</main>
+
+<footer><div class="wrap">
+  <div><strong>FDP.Die Liberalen Basel-Stadt</strong><br>Herausgeberin dieser Übersicht<br><a href="https://www.fdp-bs.ch">www.fdp-bs.ch</a></div>
+  <div><strong>Datenquelle</strong><br>Grosser Rat des Kantons Basel-Stadt, <a href="https://grosserrat.bs.ch">grosserrat.bs.ch</a><br>Open Data Basel-Stadt, <a href="https://data.bs.ch">data.bs.ch</a> (CC BY)</div>
+  <div><strong>Stand</strong><br><span id="fuss-stand"></span></div>
+</div></footer>
+
+<script>
+const D = /*__DATEN__*/null;
+const MON = ["Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"];
+const fmtDatum = s => { if(!s) return ""; const [y,m,d] = s.split("-"); return `${+d}. ${MON[+m-1]} ${y}`; };
+const kurzDatum = s => { const [y,m,d] = s.split("-"); return `${+d}.${+m}.`; };
+const fr = n => (n||0).toLocaleString("de-CH",{maximumFractionDigits:0});
+const chf = n => "CHF " + fr(n);
+const chfKurz = n => {
+  if (n >= 1e9) return "CHF " + (n/1e9).toLocaleString("de-CH",{maximumFractionDigits:2}) + " Mrd.";
+  if (n >= 1e6) return "CHF " + (n/1e6).toLocaleString("de-CH",{maximumFractionDigits:1}) + " Mio.";
+  return chf(n);
+};
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const SECHS = D.gruppen.flatMap(g => g.parteien);
+
+function haltung(abst, p){
+  const e = abst && abst.parteien && abst.parteien[p];
+  if (!e || (e.J + e.N) === 0) return null;
+  if (e.J > e.N) return "ja";
+  if (e.N > e.J) return "nein";
+  return "geteilt";
+}
+function chip(abst, p){
+  const h = haltung(abst, p);
+  if (!h) return '<span class="klein">keine Angabe</span>';
+  const e = abst.parteien[p];
+  const txt = {ja:"Ja", nein:"Nein", geteilt:"geteilt"}[h];
+  return `<span class="chip ${h}" title="${p}: ${e.J} Ja, ${e.N} Nein, ${e.E} Enthaltungen">${txt}</span>`;
+}
+
+// Stand
+document.getElementById("stand").textContent = D.letzte_sitzung
+  ? `Berücksichtigt bis zur Sitzung vom ${fmtDatum(D.letzte_sitzung)}.` : "";
+document.getElementById("fuss-stand").textContent = `Daten abgerufen am ${fmtDatum(D.stand)}`;
+
+// Kacheln
+const totEinm = D.ausgaben.reduce((a,x)=>a+x.einmalig,0);
+const totJahr = D.ausgaben.reduce((a,x)=>a+x.jaehrlich,0);
+const totPost = D.budgetpostulate.reduce((a,x)=>a+(x.betrag||0),0);
+document.getElementById("kacheln").innerHTML = [
+  [chfKurz(totEinm), "einmalige und befristete Ausgaben bewilligt"],
+  [chfKurz(totJahr), "neue wiederkehrende Ausgaben, jedes Jahr"],
+  [D.ausgaben.length, "Geschäfte mit neuen Ausgaben"],
+  [chfKurz(totPost), "Budgeterhöhungen aus Budgetpostulaten"],
+].map(([z,w]) => `<div class="kachel"><div class="zahl">${z}</div><div class="was">${w}</div></div>`).join("");
+
+// Parteien
+const proPartei = {};
+for (const p of SECHS){
+  const zu = D.ausgaben.filter(a => haltung(a.abstimmung, p) === "ja");
+  const mitStimme = D.ausgaben.filter(a => haltung(a.abstimmung, p));
+  const post = D.budgetpostulate.filter(b => b.partei === p);
+  const vor = D.vorstoesse.filter(v => v.partei === p);
+  proPartei[p] = {
+    einm: zu.reduce((s,a)=>s+a.einmalig,0), jahr: zu.reduce((s,a)=>s+a.jaehrlich,0),
+    n: zu.length, m: mitStimme.length,
+    post: post.reduce((s,b)=>s+(b.betrag||0),0), npost: post.length,
+    nvor: vor.length, vorBetrag: vor.reduce((s,v)=>s+(v.einmalig||0),0),
+  };
+}
+const maxEinm = Math.max(1, ...SECHS.map(p => proPartei[p].einm));
+document.getElementById("gruppen").innerHTML = D.gruppen.map(g => `
+  <div class="gruppe"><h3>${esc(g.titel)}</h3>
+  ${g.parteien.map(p => { const x = proPartei[p]; return `
+    <div class="partei"><h4>${esc(p)}</h4>
+      <div class="balken" aria-hidden="true"><i style="width:${(x.einm/maxEinm*100).toFixed(1)}%"></i></div>
+      <dl>
+        <dt>Ausgaben zugestimmt (einmalig und befristet)</dt><dd>${chf(x.einm)}</dd>
+        <dt>Neue wiederkehrende Ausgaben zugestimmt, pro Jahr</dt><dd>${chf(x.jahr)}</dd>
+        <dt>Zugestimmt bei</dt><dd>${x.n} von ${x.m} Geschäften</dd>
+        <dt>Budgeterhöhungen aus eigenen Budgetpostulaten</dt><dd>${chf(x.post)}</dd>
+        <dt>Eigene Vorstösse überwiesen</dt><dd>${x.nvor}</dd>
+      </dl>
+    </div>`; }).join("")}
+  </div>`).join("");
+
+// Chart pro Sitzung
+(function(){
+  const proSitzung = D.sitzungen.map(s => ({s, v: D.ausgaben.filter(a=>a.datum===s).reduce((t,a)=>t+a.einmalig,0),
+    n: D.ausgaben.filter(a=>a.datum===s).length}));
+  const max = Math.max(1, ...proSitzung.map(x=>x.v));
+  const chart = document.getElementById("chart"), tip = document.getElementById("tip");
+  chart.innerHTML = proSitzung.map(x => `<div class="s" tabindex="0" data-s="${x.s}" data-v="${x.v}" data-n="${x.n}"><i style="height:${(x.v/max*100).toFixed(2)}%"></i></div>`).join("");
+  const zeigeJede = Math.ceil(proSitzung.length / 14);
+  document.getElementById("chartx").innerHTML = proSitzung.map((x,i) => `<span>${i % zeigeJede === 0 ? kurzDatum(x.s) : ""}</span>`).join("");
+  const show = el => {
+    const r = el.getBoundingClientRect(), pr = chart.parentElement.getBoundingClientRect();
+    tip.innerHTML = `<strong>${fmtDatum(el.dataset.s)}</strong><br>${chf(+el.dataset.v)}<br>${el.dataset.n} Geschäfte`;
+    tip.style.left = (r.left - pr.left + r.width/2) + "px";
+    tip.style.top = (el.querySelector("i").getBoundingClientRect().top - pr.top - 8) + "px";
+    tip.style.display = "block";
+  };
+  chart.querySelectorAll(".s").forEach(el => {
+    el.addEventListener("mouseenter", () => show(el)); el.addEventListener("focus", () => show(el));
+    el.addEventListener("mouseleave", () => tip.style.display = "none"); el.addEventListener("blur", () => tip.style.display = "none");
+  });
+  chart.parentElement.style.position = "relative";
+})();
+
+// Tabelle Ausgaben
+const fS = document.getElementById("f-sitzung"), fD = document.getElementById("f-dep"), fQ = document.getElementById("f-suche");
+[...D.sitzungen].reverse().filter(s => D.ausgaben.some(a=>a.datum===s)).forEach(s => fS.insertAdjacentHTML("beforeend", `<option value="${s}">${fmtDatum(s)}</option>`));
+[...new Set(D.ausgaben.map(a=>a.departement).filter(Boolean))].sort().forEach(d => fD.insertAdjacentHTML("beforeend", `<option>${esc(d)}</option>`));
+function zeichneAusgaben(){
+  const q = fQ.value.trim().toLowerCase();
+  const rows = D.ausgaben.filter(a => (!fS.value || a.datum===fS.value) && (!fD.value || a.departement===fD.value)
+    && (!q || (a.titel + " " + (a.departement||"")).toLowerCase().includes(q))).sort((a,b)=>b.datum.localeCompare(a.datum));
+  const sE = rows.reduce((s,a)=>s+a.einmalig,0), sJ = rows.reduce((s,a)=>s+a.jaehrlich,0);
+  document.getElementById("t-ausgaben").innerHTML = `<thead><tr><th>Sitzung</th><th>Geschäft</th><th class="num">Einmalig und befristet</th><th class="num">Wiederkehrend pro Jahr</th><th class="num">Ja : Nein</th>${SECHS.map(p=>`<th class="p">${esc(p)}</th>`).join("")}</tr></thead><tbody>
+  <tr class="summe"><td colspan="2">Total ${rows.length} Geschäfte</td><td class="num">${fr(sE)}</td><td class="num">${fr(sJ)}</td><td colspan="${SECHS.length+1}"></td></tr>
+  ${rows.map(a => `<tr><td>${kurzDatum(a.datum)}${a.datum.slice(0,4)}</td>
+    <td class="g"><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.titel)}</a><br><span class="klein">${esc(a.departement||"")}${a.posten.some(p=>p.art==="befristet") ? " · befristet: " + a.posten.filter(p=>p.art==="befristet").map(p=>`${fr(p.jahresbetrag)} pro Jahr${p.jahre?`, ${p.jahre} Jahre`:""}`).join(", ") : ""}</span></td>
+    <td class="num">${a.einmalig ? `<a href="${esc(a.beschluss)}" target="_blank" rel="noopener">${fr(a.einmalig)}</a>` : ""}</td>
+    <td class="num">${a.jaehrlich ? fr(a.jaehrlich) : ""}</td>
+    <td class="num">${a.abstimmung ? `${a.abstimmung.ja} : ${a.abstimmung.nein}` : '<span class="klein">ohne Abstimmung</span>'}</td>
+    ${SECHS.map(p=>`<td class="p">${chip(a.abstimmung,p)}</td>`).join("")}</tr>`).join("")}</tbody>`;
+}
+[fS,fD].forEach(e=>e.addEventListener("change", zeichneAusgaben)); fQ.addEventListener("input", zeichneAusgaben);
+zeichneAusgaben();
+
+// Budgetpostulate
+const urh = x => `${esc(x.urheber||"")}${x.partei?` (${esc(x.partei)})`:""}${x.miturheber && x.miturheber.length ? `<br><span class="klein">mit ${x.miturheber.map(m=>esc(m.name)+(m.partei?` (${esc(m.partei)})`:"")).join(", ")}</span>` : ""}`;
+document.getElementById("t-postulate").innerHTML = D.budgetpostulate.length ? `<thead><tr><th>Sitzung</th><th>Budgetpostulat</th><th>Eingereicht von</th><th class="num">Erhöhung</th></tr></thead><tbody>
+  ${[...D.budgetpostulate].sort((a,b)=>b.datum.localeCompare(a.datum)).map(b=>`<tr><td>${kurzDatum(b.datum)}${b.datum.slice(0,4)}</td><td><a href="${esc(b.url)}" target="_blank" rel="noopener">${esc(b.titel)}</a></td><td>${urh(b)}</td><td class="num">${b.betrag ? fr(b.betrag) : '<span class="klein">Betrag offen</span>'}</td></tr>`).join("")}</tbody>`
+  : "<tbody><tr><td>Bisher keine.</td></tr></tbody>";
+
+// Vorstösse
+const fP = document.getElementById("f-partei");
+fP.innerHTML = `<option value="sechs">${esc(D.gruppen.map(g=>g.titel).join(" sowie "))}</option>`
+  + D.gruppen.map(g=>`<option value="g:${g.id}">${esc(g.titel)}</option>`).join("")
+  + SECHS.map(p=>`<option value="p:${esc(p)}">${esc(p)}</option>`).join("")
+  + `<option value="alle">Alle Parteien</option>`;
+let alleZeigen = false;
+function zeichneVorstoesse(){
+  const v = fP.value;
+  const ok = x => v==="alle" ? true : v==="sechs" ? SECHS.includes(x.partei)
+    : v.startsWith("g:") ? D.gruppen.find(g=>g.id===v.slice(2)).parteien.includes(x.partei) : x.partei === v.slice(2);
+  const rows = D.vorstoesse.filter(ok).sort((a,b)=>b.datum.localeCompare(a.datum));
+  const sicht = alleZeigen ? rows : rows.slice(0,25);
+  document.getElementById("t-vorstoesse").innerHTML = rows.length ? `<thead><tr><th>Sitzung</th><th>Vorstoss</th><th>Eingereicht von</th><th class="num">Kosten</th></tr></thead><tbody>
+    ${sicht.map(x=>`<tr><td>${kurzDatum(x.datum)}${x.datum.slice(0,4)}</td><td><a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.titel)}</a><br><span class="klein">${esc(x.typ)}, ${esc(x.vermerk)}</span></td><td>${urh(x)}</td>
+      <td class="num">${x.einmalig||x.jaehrlich ? [x.einmalig?fr(x.einmalig):"", x.jaehrlich?fr(x.jaehrlich)+" pro Jahr":""].filter(Boolean).join("<br>") : '<span class="klein">noch nicht beziffert</span>'}${x.bemerkung?`<br><span class="klein">${esc(x.bemerkung)}</span>`:""}</td></tr>`).join("")}</tbody>`
+    : "<tbody><tr><td>Keine überwiesenen Vorstösse.</td></tr></tbody>";
+  document.getElementById("mehr-vorstoesse").innerHTML = rows.length > 25
+    ? `<button class="link" id="mehr-btn">${alleZeigen ? "Weniger anzeigen" : `Alle ${rows.length} Vorstösse anzeigen`}</button>` : "";
+  const b = document.getElementById("mehr-btn"); if (b) b.onclick = () => { alleZeigen = !alleZeigen; zeichneVorstoesse(); };
+}
+fP.addEventListener("change", () => { alleZeigen = false; zeichneVorstoesse(); });
+zeichneVorstoesse();
+</script>
+</body>
+</html>
