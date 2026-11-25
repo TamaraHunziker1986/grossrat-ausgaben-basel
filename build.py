@@ -131,7 +131,7 @@ def name_key(name):
 
 # ---------------------------------------------------------------- Beträge lesen
 
-SEP = "’'`‘ "
+SEP = "’'`‘´ "
 NUM = r"(\d{1,3}(?:[" + SEP + r"]+\d{3})+|\d+)(?:[.,](\d{1,2})(?!\d))?"
 AMT = re.compile(
     r"(?:(?:Fr\.|CHF)\s*" + NUM + r"(?:\s*\.[–-]+)?\s*(Mio\.?|Millionen|Mrd\.?|Milliarden)?"
