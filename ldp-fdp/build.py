@@ -416,10 +416,10 @@ def werte_abstimmungen(rows, themen_pd, korrekturen):
                 else:
                     fz, lz = v["fr"]["FDP"], v["fr"]["LDP"]
                     marge = abs(v["ja"] - v["nein"])
-                    # Hätten die abweichenden Stimmen das Resultat gedreht?
-                    abw = "FDP" if pos["FDP"] != ergebnis else "LDP"
-                    abw_z = v["fr"][abw]
-                    entscheidend = (abw_z.get("J", 0) + abw_z.get("N", 0)) * 2 > marge if marge else True
+                    # Hätte die siegreiche Fraktion wie die andere gestimmt, wäre das Resultat gekippt?
+                    sieger = "FDP" if pos["FDP"] == ergebnis else "LDP"
+                    sz = v["fr"][sieger]
+                    entscheidend = 2 * sz.get(ergebnis, 0) >= marge
                     differenzen.append({
                         "leg": lid, "datum": v["datum"], "nr": v["nr"], "sig": v["sig"], "titel": v["titel"],
                         "typ": v["typ"], "thema": thema, "ja": v["ja"], "nein": v["nein"], "enth": v["enth"],
