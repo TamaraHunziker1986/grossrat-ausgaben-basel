@@ -108,7 +108,7 @@ def partei_norm(p):
         return "Grüne"  # junges grünes bündnis gehört zur Grünen-Familie (Fraktion GRÜNE/jgb)
     if "grün" in s or "gruen" in s:
         return "Grüne"
-    if s.startswith("sp") or "sozialdem" in s:
+    if s.startswith("sp") or "sozialdem" in s or "juso" in s:
         return "SP"
     if "evp" in s:
         return "EVP"
@@ -485,12 +485,43 @@ def main():
 
     print("Ratsmitglieder und Abstimmungen laden", file=sys.stderr)
     partei_von = {}
-    for m in export("100307", f'gr_ende>="{START}" or gr_ende is null', "name_vorname,partei_kname,partei,uni_nr"):
+
+    def merke(name, p, ueberschreiben=False):
+        k = name_key(name)
+        if p and k and (ueberschreiben or k not in partei_von):
+            partei_von[k] = p
+
+    # Reihenfolge = Verlässlichkeit: zuerst Rückfallquellen, dann überschreiben mit genaueren
+    # 1. Grossratswahlen 2020 (Liste GB = Grüne und BastA! gemeinsam: nicht eindeutig, wird ausgelassen)
+    try:
+        for m in export("100101", "true", "name,vorname,parteikurzbezeichnung,gewahlt"):
+            merke(f"{m.get('name')}, {m.get('vorname')}", partei_norm(m.get("parteikurzbezeichnung")),
+                  ueberschreiben=(m.get("gewahlt") == "Gewählt"))
+    except Exception as e:  # noqa: BLE001
+        print(f"  Wahlen 2020 nicht geladen: {e}", file=sys.stderr)
+    # 2. Kandidierende Grossratswahlen 2024
+    try:
+        for m in export("100385", "true", "name_vorname,listenkurzbezeichnung"):
+            merke(m.get("name_vorname"), partei_norm(m.get("listenkurzbezeichnung")), ueberschreiben=True)
+    except Exception as e:  # noqa: BLE001
+        print(f"  Kandidierende 2024 nicht geladen: {e}", file=sys.stderr)
+    # 3. Fraktion in den Abstimmungen (nur Fraktionen aus einer Partei)
+    try:
+        url = f"{API}/100186/exports/json?" + urllib.parse.urlencode(
+            {"where": f'datum>="{START}"', "group_by": "mitglied_name,fraktion", "select": "count(*) as n"})
+        for m in json.loads(http(url)):
+            if partei_norm(m.get("fraktion")) in ("SP", "BastA!", "GLP", "FDP", "LDP", "SVP"):
+                merke(m.get("mitglied_name"), partei_norm(m.get("fraktion")), ueberschreiben=True)
+    except Exception as e:  # noqa: BLE001
+        print(f"  Fraktionen nicht geladen: {e}", file=sys.stderr)
+    # 4. Ratsmitglieder: Parteiangabe des Grossen Rates
+    for m in export("100307", "true", "name_vorname,partei_kname,partei,uni_nr"):
         p = partei_norm(m.get("partei_kname") or m.get("partei"))
         if p:
-            partei_von[name_key(m.get("name_vorname"))] = p
+            merke(m.get("name_vorname"), p, ueberschreiben=True)
             if m.get("uni_nr"):
                 partei_von[str(m["uni_nr"])] = p
+    print(f"  Parteizuordnung für {len(partei_von)} Namen", file=sys.stderr)
 
     stimmen = {}
     abst_sig = sorted(ausgaben_v) + sorted(postulat_v)
