@@ -266,12 +266,8 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100395/000000395718.pdf
 
 ## 2021-10-27 21.0064 Ratschlag betreffend Ausbau und Weiterentwicklung der Tagesstrukturen auf Primarstufe (Kindergarten und Primarschule) und Sekundarstufe I
 Beschluss: https://grosserrat.bs.ch/dokumente/100395/000000395720.pdf
-- einmalig: Fr. 45'750'000  
-  «45‘750‘000 Franken als Rahmenausgabenbewilligung für Baumassnahmen beim weiteren Ausbau der Tagesstrukturen zu Lasten der Investitionsrechnung, Investitionsbereich 4 «Hochbauten im Verwaltungsvermögen, Teil Bildung», Finanzdepartement, Immobilien Basel-Stadt:»
-- einmalig: Fr. 1'700'000  
-  «- Davon Personalkosten: 1‘700‘000 Franken. 7‘250‘000 Franken als Rahmenausgabenbewilligung für Betriebseinrichtungen beim weiteren Ausbau der Tagesstrukturen zu Lasten der Investitionsrechnung, Investitionsbereich 6 «Bildung», Erziehungsdepartement:»
-- wiederkehrend: Fr. 1'700'000  
-  «- Davon Personalkosten: 1‘700‘000 Franken. 1‘900‘000 Franken einmalige Ausgaben für Provisorien, Mieten und Umzüge beim weiteren Ausbau der Tagesstrukturen zu Lasten der Erfolgsrechnung des Erziehungsdepartements, Zentrale Dienste. 19‘200‘000 Franken (brutto) jährliche Folgekosten für den Betrieb der neu geschaffenen Tagesstrukturplätze zu Lasten der Erfolgsrechnung des Erziehungsdepartements, Die»
+- einmalig: Fr. 74'100'000  
+  «Zustimmung Der Grosse Rat des Kantons Basel-Stadt, nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 21.0064.01 vom 26. Januar 2021 sowie in den Bericht der Bildungs- und Kulturkommission Nr. 21.0064.02 vom 27. August 2021, bewilligt für den Ausbau und die Weiterentwicklung der Tagesstrukturen auf Primarstufe (Kindergarten und Primarschule) und Sekundarstufe I insgesamt 74'100'000 Franke»
 
 ## 2021-10-27 21.0652 Ausgabenbericht betreffend Ausgabenbewilligung zur Einrichtung eines weiteren Grabfeldes in der Gemeinschaftsgrabanlage auf dem Friedhof am Hörnli
 Beschluss: https://grosserrat.bs.ch/dokumente/100395/000000395728.pdf
@@ -378,13 +374,8 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100396/000000396088.pdf
 
 ## 2021-12-08 21.1344 Bericht zum Ratschlag betreffend Rahmenausgabenbewilligung für die Finanzierung der gemeinwirtschaftlichen Leistungen und ungedeckten Kosten (GWL) der baselstädtischen Spitäler für die Jahre 2022-2025
 Beschluss: https://grosserrat.bs.ch/dokumente/100396/000000396085.pdf
-**Achtung:** Gesamtbetrag laut Beschluss Fr. 243'248'000, Summe der gelesenen Posten Fr. 227'708'000
-- befristet: Fr. 44'728'000  
-  «Ausgaben von Fr. 44’728’000 (für die Jahre 2022 und 2023 jährlich Fr. 10’978'000 sowie für die Jahre 2024 und 2025 jährlich Fr. 11’386'000) für die gemeinwirtschaftlichen Leistungen im engeren Sinn der baselstädtischen Spitäler (ohne Universitäts-Kinderspital beider Basel) für die Jahre 2022, 2023, 2024 und 2025;»
-- befristet: Fr. 122'028'000  
-  «Ausgaben von Fr. 122’028’000 (jährlich Fr. 30’507’000) für die ungedeckten Kosten der baselstädtischen Spitäler (ohne Universitäts-Kinderspital beider Basel) in universitärer Lehre und Forschung für die Jahre 2022, 2023, 2024 und 2025;»
-- befristet: Fr. 60'952'000  
-  «Ausgaben von Fr. 60’952’000 (jährlich Fr. 15’238’000) für die ungedeckten Kosten der baselstädtischen Spitäler (ohne Universitäts-Kinderspital beider Basel) für die Weiterbildung zur eidgenössischen Fachärztin bzw. zum eidgenössischen Facharzt für die Jahre 2022, 2023, 2024 und 2025. Ausgaben von Fr. 15’540’000 (jährlich Fr. 3’885’000) für die ungedeckten Kosten der baselstädtischen Spitäler (ohne»
+- einmalig: Fr. 243'248'000  
+  «Zustimmung Für die Finanzierung der gemeinwirtschaftlichen Leistungen und ungedeckten Kosten der baselstädtischen Spitäler werden für die Jahre 2022 – 2025 Ausgaben von insgesamt Fr. 243’248’000 (für die Jahre 2022 und 2023 insgesamt Fr. 121’216’000 sowie für die Jahre 2024 und 2025 insgesamt Fr. 122’032’000) bewilligt. Dieser Betrag setzt sich wie folgt zusammen:»
 
 ## 2021-12-08 21.1284 Ratschlag betreffend Ausgabenbewilligung zur Neugestaltung der Grünanlage «Erlenmattpark, 3. Etappe»
 Beschluss: https://grosserrat.bs.ch/dokumente/100396/000000396094.pdf
@@ -561,7 +552,7 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100397/000000397243.pdf
 - wiederkehrend: Fr. 650'000  
   «- Fr. 650‘000 als jährliche Folgekosten für die Instandhaltung zu Lasten der Erfolgsrechnung des Finanzdepartements, Immobilien Basel-Stadt, Unterhaltspauschale Verwaltungsvermögen;»
 - wiederkehrend: Fr. 173'000  
-  «- Fr. 173‘000 als jährliche Folgemehrkosten für den laufenden Betrieb zu Lasten der Erfolgsrechnung des Gesundheitsdepartements.»
+  «- Fr. 173‘000 als jährliche Folgemehrkosten für den laufenden Betrieb zu Lasten der Erfolgsrechnung des Gesundheitsdepartements. Die Parzellen 2482 und 2483, Sektion 2, des Grundbuchs Basel, haltend 2’626 m2 und 926 m2, sind für den Um- und Neubau des Ersatzstandorts für das Institut für Rechtsmedizin vom Finanz- ins Verwaltungsvermögen zu übertragen. (Inkraftsetzung per 1. Juli 2022).»
 
 ## 2022-06-01 21.1555 Bericht zum Stand der Umsetzung der Anforderungen des Bundesgesetzes zur Behindertengleichstellung (BehiG) auf dem Tram- und Busnetz des Kantons Basel-Stadt; Statusbericht per Ende 2020
 Beschluss: https://grosserrat.bs.ch/dokumente/100397/000000397428.pdf
@@ -582,7 +573,8 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100397/000000397653.pdf
 
 ## 2022-06-23 22.0538 Ratschlag betreffend 9. Rahmenausgabenbewilligung für Staatsbeiträge in den Jahren 2022-2025 gemäss Gesetz über den Denkmalschutz vom 20. März 1980
 Beschluss: https://grosserrat.bs.ch/dokumente/100397/000000397657.pdf
-- keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
+- einmalig: Fr. 12'990'400  
+  «Zustimmung Für die Finanzierung der Staatsbeiträge in den Jahren 2022–2025 gemäss Gesetz über den Denkmalschutz vom 20. März 1980 wird die 9. Rahmenausgabe in der Höhe von Fr. 12'990'400 zulasten der Erfolgsrechnung des Bau- und Verkehrsdepartements bewilligt.»
 
 ## 2022-06-23 22.0168 Ratschlag Einführung eines elektronischen Logiernächtemanagements im Tourismus; Anpassung von § 35 des Gastgewerbegesetzes vom 15. September 2004 (SG 563.100)
 Beschluss: https://grosserrat.bs.ch/dokumente/100397/000000397658.pdf
@@ -590,7 +582,8 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100397/000000397658.pdf
 
 ## 2022-06-23 22.0246 Ratschlag betreffend Beschaffung von eTransportern für die Feuerwehr des Kantons Basel-Stadt
 Beschluss: https://grosserrat.bs.ch/dokumente/100397/000000397659.pdf
-- keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
+- einmalig: Fr. 1'995'000  
+  «Zustimmung Es wird eine Ausgabenbewilligung über gesamthaft Fr. 1'995'000 für die Beschaffung von neun elektrobetriebenen Transportern der Feuerwehr Basel-Stadt zu Lasten der Investitions-rechnung des Justiz- und Sicherheitsdepartements, Dienststelle Rettung, genehmigt.»
 
 ## 2022-06-23 20.1317 Ratschlag zum Einführungsgesetz zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen (EG IVöB)
 Beschluss: https://grosserrat.bs.ch/dokumente/100397/000000397655.pdf
@@ -682,7 +675,7 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100403/000000403174.pdf
 ## 2022-10-20 21.1070 Ratschlag für den Staatsbeitrag an die Regio Basiliensis (Interkantonale Koordinationsstelle IKRB) sowie an das Gemeinsame Sekretariat der Deutsch-französisch-schweizerischen Oberrheinkonferenz (ORK) für die Jahre 2023 bis 2026
 Beschluss: https://grosserrat.bs.ch/dokumente/100403/000000403176.pdf
 - befristet: Fr. 1'573'936  
-  «Für die grenzüberschreitende Zusammenarbeit am Oberrhein werden für die Jahre 2023 bis 2026 Ausgaben in der Höhe von insgesamt Fr. 1‘573‘936 (Fr. 393‘484 pro Jahr) bewilligt.»
+  «Für die grenzüberschreitende Zusammenarbeit am Oberrhein werden für die Jahre 2023 bis 2026 Ausgaben in der Höhe von insgesamt Fr. 1‘573‘936 (Fr. 393‘484 pro Jahr) bewilligt. Die Ausrichtung erfolgt mit Beiträgen an die Regio Basiliensis»
 
 ## 2022-10-20 22.0771 Ratschlag betreffend Rahmenausgabenbewilligung der Öffentlichen Kunstsammlung Basel für die Jahre 2022-2025
 Beschluss: https://grosserrat.bs.ch/dokumente/100403/000000403177.pdf
@@ -925,10 +918,8 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100404/000000404497.pdf
   «Fr. 410'000 für Abbrüche, Bodenreinigung und deren Entsorgung im Rahmen der Neugestaltung Erlenmattpark 4. Etappe zu Lasten der Erfolgsrechnung, Investitionsbereich 1 «Stadtentwicklung und Allmendinfrastruktur – Mehrwertabgabefonds».»
 - einmalig: Fr. 315'000  
   «Fr. 315’000 als Entwicklungsbeitrag für die ersten fünf Jahre nach Fertigstellung der Grünanlage Erlenmattpark 4. Etappe zu Lasten der Erfolgsrechnung, Investitionsbereich 1 «Stadtentwicklung und Allmendinfrastruktur – Mehrwertabgabefonds».»
-- wiederkehrend: Fr. 20'000  
-  «Fr. 20‘000 als jährlich wiederkehrende neue Ausgaben für den Unterhalt der Belags- und Vegetationsflächen zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements, Stadtgärtnerei.»
-- einmalig: Fr. 1'000'000  
-  «Die allfälligen Beiträge des Bundes in Höhe von max. Fr. 1'000’000 für Massnahmen zugunsten der Biodiversität könnten nach Zustimmung und Bewilligung durch das Bundesamt für Umwelt innerhalb der Programmperiode 2025–2028 nach Abschluss des Projektes vollumfänglich in Abzug gebracht werden.»
+- befristet: Fr. 80'000  
+  «Fr. 20‘000 als jährlich wiederkehrende neue Ausgaben für den Unterhalt der Belags- und Vegetationsflächen zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements, Stadtgärtnerei. Die allfälligen Beiträge des Bundes in Höhe von max. Fr. 1'000’000 für Massnahmen zugunsten der Biodiversität könnten nach Zustimmung und Bewilligung durch das Bundesamt für Umwelt innerhalb der Programmperiode 20»
 
 ## 2023-04-19 21.1734 Ratschlag betreffend Konzessionierung des Kleinwasserkraftwerks Riehenteich in den Langen Erlen
 Beschluss: https://grosserrat.bs.ch/dokumente/100404/000000404498.pdf
@@ -979,16 +970,16 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100405/000000405242.pdf
 
 ## 2023-06-29 22.0686 Ratschlag betreffend Bewilligung von Staatsbeiträgen an das Theater Basel für den Zeitraum vom 1. August 2023 bis 31. Juli 2027
 Beschluss: https://grosserrat.bs.ch/dokumente/100405/000000405241.pdf
-**Achtung:** Gesamtbetrag laut Beschluss Fr. 163'790'076, Summe der gelesenen Posten Fr. 163'956'743
+**Achtung:** Gesamtbetrag laut Beschluss Fr. 191'265'888, Summe der gelesenen Posten Fr. 163'956'743
 - einmalig: Fr. 166'667  
   «Zur Finanzierung der Mehrkosten im Rahmen der Staatsbeiträge an das Theater Basel für die Jahre 2023/24 bis 2026/27 wird für das Jahr 2023 ein Nachtragskredit in der Höhe von Fr. 166'667 bewilligt (Präsidialdepartement, Dienststelle Abteilung Kultur, Kostenartengruppe 36 Staatsbeiträge).»
 - befristet: Fr. 163'790'076  
-  «Die Ausgaben setzen sich wie folgt zusammen: Grundstaatsbeitrag insgesamt Fr. 163'790'076 (Fr. 40'947'519 p. a. Spielzeit)»
+  «Für das Theater Basel werden Ausgaben in Höhe von Fr. 191'265'888 (Fr. 47'816'472 p. a.) für den Zeitraum vom 1. August 2023 bis 31. Juli 2027 bewilligt. Die Ausgaben setzen sich wie folgt zusammen: Grundstaatsbeitrag insgesamt Fr. 163'790'076 (Fr. 40'947'519 p. a. Spielzeit)»
 
 ## 2023-09-13 23.0712 Ausgabenbericht betreffend Zusatzbeitrag an die GGG Benevol für die Koordination und Begleitung von Gastfamilien für Geflüchtete aus der Ukraine im Jahr 2023 sowie betreffend Übernahme Fehlbetrag von GGG Benevol für die Koordination und Begleitung von Gastfamilien für Geflüchtete aus der Ukraine im Jahr 2022
 Beschluss: https://grosserrat.bs.ch/dokumente/100405/000000405558.pdf
 - einmalig: Fr. 485'200  
-  «Für das Teilprojekt «Unterkunft Ukraine» von GGG Benevol «Gastfamilien für Flüchtlinge» werden für die Jahre 2022 und 2023 Ausgaben in der Höhe von insgesamt Fr. 485'200 zu Lasten der Erfolgsrechnung des Departements für Wirtschaft, Soziales und Umwelt, Dienststelle Sozialhilfe, bewilligt.»
+  «Für das Teilprojekt «Unterkunft Ukraine» von GGG Benevol «Gastfamilien für Flüchtlinge» werden für die Jahre 2022 und 2023 Ausgaben in der Höhe von insgesamt Fr. 485'200 zu Lasten der Erfolgsrechnung des Departements für Wirtschaft, Soziales und Umwelt, Dienststelle Sozialhilfe, bewilligt. Die Ausgaben setzten sich wie folgt zusammen:»
 
 ## 2023-09-20 23.0744 Fachhochschule Nordwestschweiz (FHNW): Bericht über die Erfüllung der Leistungsauftragsperiode 2022
 Beschluss: https://grosserrat.bs.ch/dokumente/100405/000000405646.pdf
@@ -1289,10 +1280,8 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100407/000000407821.pdf
 
 ## 2024-06-27 24.0147 Ausgabenbewilligung für die Verlängerung der Leistungsvereinbarung mit der Basler Personenschifffahrt AG (BPG) für die Jahre 2024 bis 2028
 Beschluss: https://grosserrat.bs.ch/dokumente/100407/000000407818.pdf
-- einmalig: Fr. 1'074'000  
-  «- Fr. 1'074'000 (inkl. MWST) als Beitrag an die Betriebskosten der BPG für die Jahre 2024 bis 2025;»
-- darlehen: Fr. 1'250'000  
-  «- Fr. 1‘250'000 zur Erhöhung des Aktienkapitals der BPG, zu Lasten der Investitionsrechnung, Investitionsbereich Darlehen und Beteiligungen.»
+- einmalig: Fr. 2'324'000  
+  «Für die Basler Personenschifffahrt AG (BPG) werden Ausgaben in Höhe von insgesamt Fr. 2'324'000 bewilligt. Die Ausgaben verteilen sich wie folgt:»
 
 ## 2024-06-27 23.0840 Areal Lindenhof (Lonza): Festsetzung eines Bebauungsplans sowie Abweisung von Einsprachen im Gebiet Areal Lindenhof (Lonza) Nauenstrasse, Lindenhofstrasse, Münchensteinerstrasse; Aufhebung des Bebauungsplans Nr. 137
 Beschluss: https://grosserrat.bs.ch/dokumente/100407/000000407819.pdf
@@ -1300,8 +1289,7 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100407/000000407819.pdf
 
 ## 2024-06-27 23.0812 Ausgabenbewilligung für die Weiterentwicklung der Hafenbahn Variante "Südquai"
 Beschluss: https://grosserrat.bs.ch/dokumente/100407/000000407820.pdf
-- einmalig: Fr. 36'050'000  
-  «Ein Gesamtbetrag von Fr. 36'050'000 für die weitere Planung und Realisierung des Vorhabens «Weiterentwicklung der Hafenbahn, Variante Südquai» wird bewilligt. Basis ist der Baupreisindex NWCH Stand Oktober 2022.»
+- keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
 
 ## 2024-09-11 24.5203 Antrag auf Erhöhung der Anzahl Richterinnen und Richter am Appellationsgericht gemäss § 87 GOG, Bericht des Gerichtsrats
 Beschluss: https://grosserrat.bs.ch/dokumente/100408/000000408114.pdf
@@ -1337,20 +1325,18 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100408/000000408219.pdf
 
 ## 2024-09-18 24.0468 Ausgabenbewilligung zur Neugestaltung Grün- und Freiraum Saint-Louis-Park - VoltaNord
 Beschluss: https://grosserrat.bs.ch/dokumente/100408/000000408226.pdf
-**Achtung:** Gesamtbetrag laut Beschluss Fr. 10, Summe der gelesenen Posten Fr. 11'356'000
+**Achtung:** Gesamtbetrag laut Beschluss Fr. 10, Summe der gelesenen Posten Fr. 10'156'000
 - einmalig: Fr. 9'300'000  
   «- Fr. 9‘300‘000 neue Ausgaben für die Neugestaltung der Grünanlage Saint-Louis-Park zu Lasten der Investitionsrechnung, Investitionsbereich 1 „Stadtentwicklung und Allmendinfrastruktur – Mehrwertabgabefonds“.»
 - einmalig: Fr. 642'000  
   «- Fr. 642'000 neue Ausgaben als Entwicklungsbeitrag für die ersten fünf Jahre nach Fertigstellung der Grünanlage Saint-Louis-Park zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements, Mehrwertabgabefonds.»
 - wiederkehrend: Fr. 214'000  
-  «- Fr. 214‘000 als jährlich wiederkehrende neue Ausgaben für den Unterhalt der Belags- und Vegetationsflächen zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements, Stadtgärtnerei.»
-- einmalig: Fr. 1'200'000  
-  «Die allfälligen Beiträge des Bundes in Höhe von max. Fr. 1'200’000 (40% der Kosten für Massnahmen zugunsten der Biodiversität) sowie ein Beitrag an den öffentlichen Fuss- und Veloweg von Fr. 149’728 (Mitfinanzierung innerhalb des Agglomerationsprojektes «LV1» der 3. Generation) werden nach Abschluss des Projektes vollumfänglich in Abzug gebracht.»
+  «- Fr. 214‘000 als jährlich wiederkehrende neue Ausgaben für den Unterhalt der Belags- und Vegetationsflächen zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements, Stadtgärtnerei. Die Kostenbeteiligung der Schweizerischen Bundesbahnen (SBB) bis zu einem Maximalbetrag von Fr. 1'800’000 werden nach Abschluss des Projektes mit den Bruttokosten für die Erstellung der Naturschutzfläche Saint-»
 
 ## 2024-09-18 24.0544 Staatsbeitrag für den Erlen-Verein Basel für die Jahre 2025 bis 2028
 Beschluss: https://grosserrat.bs.ch/dokumente/100408/000000408224.pdf
-**Achtung:** Gesamtbetrag laut Beschluss Fr. 2'360'000, Summe der gelesenen Posten Fr. 0
-- keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
+- befristet: Fr. 2'360'000  
+  «Zustimmung Für den Erlen-Verein werden für die Jahre 2025 bis 2028 Ausgaben von insgesamt Fr. 2'360'000 (Fr. 590'000 p.a.) zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements, Stadtgärtnerei bewilligt. Dies Ausgaben setzen sich wie folgt zusammen:»
 
 ## 2024-09-18 24.0087 Ausgabenbewilligung zur Neugestaltung des Grün- und Freiraums Lysbüchelplatz - VoltaNord
 Beschluss: https://grosserrat.bs.ch/dokumente/100408/000000408225.pdf
@@ -1393,7 +1379,7 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100408/000000408232.pdf
 ## 2024-09-18 24.0429 Ratschlag betreffend Photovoltaik im Verwaltungsvermögen - Erschliessung des Solarpotenzials bis 2030
 Beschluss: https://grosserrat.bs.ch/dokumente/100408/000000408233.pdf
 - einmalig: Fr. 3'070'000  
-  «Für die Projektierung von Photovoltaik-Anlagen zur Erschliessung des Solarpotenzials im Verwaltungsvermögen bis 2030 wird der Gesamtbetrag von Fr. 3'070'000 zu Lasten der Investitionsrechnung, Investitionsbereich 4 «Hochbauten im Verwaltungsvermögen, Übrige» (Preisbasis: Baupreisindex Nordwestschweiz / Hochbau, Index 117.8, Basis Oktober 2020=100, Stand Oktober 2023) bewilligt.»
+  «Für die Projektierung von Photovoltaik-Anlagen zur Erschliessung des Solarpotenzials im Verwaltungsvermögen bis 2030 wird der Gesamtbetrag von Fr. 3'070'000 zu Lasten der Investitionsrechnung, Investitionsbereich 4 «Hochbauten im Verwaltungsvermögen, Übrige» (Preisbasis: Baupreisindex Nordwestschweiz / Hochbau, Index 117.8, Basis Oktober 2020=100, Stand Oktober 2023) bewilligt. Die Ausgaben setzen»
 
 ## 2024-10-16 24.0763 Universität Basel: Leistungsbericht 2023
 Beschluss: https://grosserrat.bs.ch/dokumente/100408/000000408408.pdf
@@ -1450,8 +1436,6 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100408/000000408611.pdf
 Beschluss: https://grosserrat.bs.ch/dokumente/100408/000000408606.pdf
 - befristet: Fr. 59'012'352  
   «Für die Musik-Akademie Basel werden Ausgaben in der Höhe von insgesamt Fr. 59'012'352 (Fr. 14'753'088 p.a.) für die Jahre 2025 bis 2028 bewilligt.»
-- darlehen: Fr. 735'000  
-  «Das zinslose Darlehen von Fr. 735'000 (Stand 31. Dezember 2023, Amortisation Fr. 5'000 p.a.) wird in Erneuerung des Grossratsbeschlusses vom 10. Dezember 1953 weitergeführt.»
 
 ## 2024-11-13 24.0630 Bewilligung von Staatsbeiträgen an das Kulturbüro Basel für die Jahre 2025 bis 2028
 Beschluss: https://grosserrat.bs.ch/dokumente/100408/000000408609.pdf
@@ -1600,6 +1584,7 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100409/000000409163.pdf
 
 ## 2025-02-05 24.0790 Wahrung der Standortattraktivität - Das Basler Standortpaket; Teilrevisionen Standortförderungsgesetz und Gesetz über die direkten Steuern (StG)
 Beschluss: https://grosserrat.bs.ch/dokumente/100409/000000409329.pdf
+**Achtung:** Gesamtbetrag laut Beschluss Fr. 150'000'000, Summe der gelesenen Posten Fr. 0
 - keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
 
 ## 2025-02-12 22.1446 Totalrevision des Gesetzes über die Ausrichtung von Mietzinsbeiträgen an Familien mit Kindern
@@ -1719,7 +1704,7 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411035.pdf
 - einmalig: Fr. 770'832'994  
   «Für den Trägerbeitrag des Kantons Basel-Stadt an die Universität Basel für die Leistungsauftragsperiode 2026–2029 wird eine Ausgabe von Fr. 770‘832‘994 bewilligt mit folgenden Jahrestranchen: 2026: Fr. 190‘401‘391, 2027: Fr. 190‘417‘661, 2028: Fr. 193‘671‘700, 2029: Fr. 196‘342‘242.»
 - einmalig: Fr. 9'350'000  
-  «Für die nicht-werthaltigen Mehrkosten des Neubaus Biozentrum wird eine einmalige Ausgabe von Fr. 9‘350‘000 bewilligt.»
+  «Für die nicht-werthaltigen Mehrkosten des Neubaus Biozentrum wird eine einmalige Ausgabe von Fr. 9‘350‘000 bewilligt. Die Beschlüsse unter Ziff. 1, 2 und 5 stehen unter dem Vorbehalt eines entsprechenden Beschlusses des Landrats des Kantons Basel-Landschaft.»
 
 ## 2025-10-22 25.0082 Änderung des Schulgesetzes vom 4. April 1929 betreffend das alters- und niveaudurchmischte Lernen und die Spitalschulung sowie Beitritt zur Interkantonalen Spitalschulvereinbarung (ISV)
 Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411038.pdf
@@ -1735,7 +1720,7 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411149.pdf
 - befristet: Fr. 32'715'000  
   «Für die Finanzierung der gemeinwirtschaftlichen Leistungen und ungedeckten Kosten (GWL) des Universitäts-Kinderspitals beider Basel (UKBB) werden für das Jahr 2026 Ausgaben von Fr. 10'905'000 und für die Jahre 2027–2029 Ausgaben von jährlich»
 - einmalig: Fr. 43'680'000  
-  «Fr. 10’925’000 (insgesamt Fr. 43’680'000 für die Jahre 2026–2029) bewilligt.»
+  «Fr. 10’925’000 (insgesamt Fr. 43’680'000 für die Jahre 2026–2029) bewilligt. Die Rahmenausgabenbewilligung steht unter dem Vorbehalt einer analogen Beschlussfassung durch den Landrat des Kantons Basel-Landschaft.»
 
 ## 2025-11-12 24.1916 Beschaffung eines ABC-Lastkraftwagens für die Feuerwehr Basel-Stadt
 Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411151.pdf
@@ -1928,7 +1913,7 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411921.pdf
 ## 2026-03-11 25.1569 Ausrichtung einer Finanzhilfe für die Berufs- und Weiterbildungsmesse in Basel-Stadt in den Jahren 2026 und 2027
 Beschluss: https://grosserrat.bs.ch/dokumente/100412/000000412103.pdf
 - befristet: Fr. 500'000  
-  «Für die Berufs- und Weiterbildungsmesse in Basel-Stadt werden dem Gewerbeverband BaselStadt für die Jahre 2026 und 2027 Ausgaben von insgesamt Fr. 500’000 (Fr. 250’000 p.a.) bewilligt.»
+  «Für die Berufs- und Weiterbildungsmesse in Basel-Stadt werden dem Gewerbeverband BaselStadt für die Jahre 2026 und 2027 Ausgaben von insgesamt Fr. 500’000 (Fr. 250’000 p.a.) bewilligt. Die Berufs- und Weiterbildungsmesse leistet einen wirksamen Beitrag zur Förderung der beruflichen Grundbildung im Kanton Basel-Stadt.»
 
 ## 2026-03-11 26.5029 Bericht der Geschäftsprüfungskommission des Grossen Rates des Kantons Basel-Stadt zur Kantonspolizei Basel-Stadt
 Beschluss: https://grosserrat.bs.ch/dokumente/100412/000000412135.pdf
@@ -2005,8 +1990,10 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100412/000000412533.pdf (korrigier
 
 ## 2026-05-06 25.1798 Ausgabenbewilligung zur Anpassung/Aktualisierung des Gesamtkonzeptes öffentliche Toilettenanlagen
 Beschluss: https://grosserrat.bs.ch/dokumente/100412/000000412534.pdf
-- einmalig: Fr. 5'860'000  
-  «Für die Planung, Projektierung und Umsetzung von zusätzlichen Toilettenanlagen werden Ausgaben in der Höhe von total Fr. 5’860‘000 bewilligt. Diese Ausgaben setzen sich wie folgt zusammen:»
+- einmalig: Fr. 5'200'000  
+  «Fr. 5'200'000 als Rahmenausgabe für zwölf neue WC-Anlagen an acht definierten und vier möglichen Standorten zu Lasten der Investitionsrechnung des Bau- und Verkehrsdepartements, Investitionsbereich 8 «Übrige» (Preisbasis Schweizerischer Baupreisindex Nordwestschweiz, Index 117.7 (2020=100, Stand April 2025). Die Ausgabenbewilligung für die Anlagen an den definierten Standorten St. Johanns-Park, Bi»
+- wiederkehrend: Fr. 660'000  
+  «Fr. 660'000 für jährliche Folgekosten für Betrieb und Unterhalt der WC-Anlagen (inkl. Personalressourcen), für zusätzliche Mietanlagen (Kompost-Toiletten) sowie für weitere «nette Toiletten» gemäss Konzept zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements, Tiefbauamt.»
 
 ## 2026-05-06 25.1707 «Areal Aeschenplatz 6»; Festsetzung eines Bebauungsplans, Änderung des Wohnanteils sowie Abweisung einer Einsprache im Bereich Aeschenplatz, St. Alban-Anlage, Engelgasse und Gartenstrasse
 Beschluss: https://grosserrat.bs.ch/dokumente/100412/000000412536.pdf
@@ -2138,7 +2125,7 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413590.pdf
 ## 2026-10-21 26.0645 Staatsbeitrag an die Regio Basiliensis (Interkantonale Koordinationsstelle IKRB) sowie an das Gemeinsame Sekretariat der Deutsch-französisch-schweizerischen Oberrheinkonferenz (ORK) für die Jahre 2027-2030; Partnerschaftliches Geschäft
 Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413628.pdf
 - befristet: Fr. 1'861'880  
-  «Für den Beitrag an die Interkantonale Koordinationsstelle bei der Regio Basiliensis wird für die Jahre 2027–2030 eine Ausgabe in Höhe von insgesamt Fr. 1‘861‘880 (Fr. 465'470 pro Jahr) bewilligt.»
+  «Für den Beitrag an die Interkantonale Koordinationsstelle bei der Regio Basiliensis wird für die Jahre 2027–2030 eine Ausgabe in Höhe von insgesamt Fr. 1‘861‘880 (Fr. 465'470 pro Jahr) bewilligt. Die Ausrichtung erfolgt mit Beiträgen an die Regio Basiliensis für die Interkantonale Koordinationsstelle zzgl. Mitfinanzierung des Schweizer ORK-Delegationssekretariats sowie der Schweizer Personalstelle»
 
 ## 2026-11-11 26.1225 Rahmenausgabenbewilligung für aktive Provenienzforschung in den kantonalen Museen Basel-Stadt für die Jahre 2027 bis 2030/2033
 Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413797.pdf
@@ -2155,27 +2142,33 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413770.pdf
 
 ## 2021-04-21 20.5488 Budgetpostulat für 2021 Christian C. Moesch betreffend Präsidialdepartement, Statistisches Amt, Personal- und Sach- und Betriebsaufwand (Fachstelle OGD) (Budgetpostulat)
 Dokument: https://grosserrat.bs.ch/dokumente/100394/000000394249.pdf
-- kein Betrag erkannt
+- Fr. 200'000  
+  «88.02 vom 16. März 2021, beschliesst: In Entsprechung des Budgetpostulats Christian C. Moesch betreffend Präsidialdepartement, Statistisches Amt, Personal- und Betriebsaufwand (Fachstelle OGD) werden zusätzlich Fr. 200'000 ins Budget 2021 aufgenommen. Dieser Beschluss ist zu publizieren. »
 
 ## 2021-04-21 20.5486 Budgetpostulat für 2021 Franziska Roth Erziehungsdepartement, Mittelschulen und Berufsbildung, Erwachsenenbildung, Deutsch und Integrationskurse (Budgetpostulat)
 Dokument: https://grosserrat.bs.ch/dokumente/100394/000000394242.pdf
-- kein Betrag erkannt
+- Fr. 200'000  
+  «Nr. 20.5486.02 vom 16. März 2021, beschliesst: In Entsprechung des Budgetpostulats Franziska Roth betreffend Mittelschulen und Berufsbildung, Erwachsenenbildung, Deutsch- und Integrationskurse werden zusätzlich Fr. 200'000 ins Budget 2021 aufgenommen. Dieser Beschluss ist zu publizieren. »
 
 ## 2022-04-28 21.5824 Budgetpostulat für 2022 Erich Bucher und Oliver Thommen betreffend Präsidialdepartement, Dienststelle 350, Kantons- und Stadtentwicklung, Transferaufwand (Gundeldinger Koordination) (Budgetpostulat)
 Dokument: https://grosserrat.bs.ch/dokumente/100397/000000397153.pdf
-- kein Betrag erkannt
+- Fr. 70'000  
+  «klung, Transferaufwand (Gundeldinger Koordination) 21.5824.02, Schreiben des RR vom 06.04.2022 ://: Zustimmung zum Budgetpostulat / erledigt In Entsprechung des Budgetpostulates werden im Budget 2022 zusätzlich Fr. 70‘000 eingestellt. Dieser Beschluss ist zu publizieren. »
 
 ## 2022-04-28 21.5812 Budgetpostulat für 2022 Michelle Lachenmeier und Konsorten betreffend Erziehungsdepartement, Dienststelle 290, Jugend, Familie und Sport, Transferaufwand (Robi-Spielaktionen, Kindertankstellen) (Budgetpostulat)
 Dokument: https://grosserrat.bs.ch/dokumente/100397/000000397155.pdf
-- kein Betrag erkannt
+- Fr. 52'897  
+  «sferaufwand (RobiSpielaktionen, Kindertankstellen) 21.5812.02, Schreiben des RR vom 06.04.2022 ://: Zustimmung zum Budgetpostulat / erledigt In Entsprechung des Budgetpostulates werden im Budget 2022 zusätzlich Fr. 52‘897 eingestellt. Dieser Beschluss ist zu publizieren. »
 
 ## 2022-04-28 21.5822 Budgetpostulat für 2022 Raffaela Hanauer betreffend Präsidialdepartement, Dienststelle 320, Generalsekretariat, Sach- und Betriebsaufwand (Sachmittel für die Stellen für das Klimathema) (Budgetpostulat)
 Dokument: https://grosserrat.bs.ch/dokumente/100397/000000397151.pdf
-- kein Betrag erkannt
+- Fr. 192'000  
+  «nd (Sachmittel für die Stellen für das Klimathema) 21.5822.02, Schreiben des RR vom 06.04.2022 ://: Zustimmung zum Budgetpostulat / erledigt In Entsprechung des Budgetpostulates werden im Budget 2022 zusätzlich Fr. 192‘000 eingestellt. Dieser Beschluss ist zu publizieren. »
 
 ## 2022-04-28 21.5823 Budgetpostulat für 2022 Pascal Pfister betreffend Präsidialdepartement, Dienststelle 350, Kantons- und Stadtentwicklung, Transferaufwand (Quartiertreffpunkt Iselin) (Budgetpostulat)
 Dokument: https://grosserrat.bs.ch/dokumente/100397/000000397152.pdf
-- kein Betrag erkannt
+- Fr. 60'000  
+  «klung, Transferaufwand (Quartiertreffpunkt Iselin) 21.5823.02, Schreiben des RR vom 06.04.2022 ://: Zustimmung zum Budgetpostulat / erledigt In Entsprechung des Budgetpostulates werden im Budget 2022 zusätzlich Fr. 60‘000 eingestellt. Dieser Beschluss ist zu publizieren. »
 
 ## 2022-12-14 22.5018 Vorgezogenes Budgetpostulat zum Budget 2023 der Umwelt-, Verkehrs- und Energiekommission betreffend Bau- und Verkehrsdepartement, 661 Globalbudget Öffentlicher Verkehr, Produktegruppe Tram und Bus (Verlängerung Buslinie 64) (Budgetpostulat)
 Dokument: https://grosserrat.bs.ch/dokumente/100403/000000403633.pdf
@@ -2203,11 +2196,13 @@ Dokument: https://grosserrat.bs.ch/dokumente/100406/000000406418.pdf
 
 ## 2024-04-17 23.5647 Budgetpostulat 2024 Oliver Bolliger Präsidialdepartement, 350 Kantons- und Stadtentwicklung, 36 Transferaufwand (QuartierJobs) (Budgetpostulat)
 Dokument: https://grosserrat.bs.ch/dokumente/100407/000000407277.pdf
-- kein Betrag erkannt
+- Fr. 40'000  
+  «nsichtnahme in das Schreiben des Regierungsrates Nr. 23.5647.02 vom 6. März 2024, beschliesst: In Entsprechung des Budgetpostulats 2024 Oliver Bolliger werden im Budget 2024 des Präsidialdepartements zusätzlich Fr. 40'000 eingestellt. Dieser Beschluss ist zu publizieren. »
 
 ## 2024-04-17 23.5648 Budgetpostulat 2024 Pascal Pfister Präsidialdepartement, 350 Kantons- und Stadtentwicklung, 31 Sach- und Betriebsaufwand (Freiwilligenprojekte gegen Einsamkeit) (Budgetpostulat)
 Dokument: https://grosserrat.bs.ch/dokumente/100407/000000407278.pdf
-- kein Betrag erkannt
+- Fr. 150'000  
+  «insichtnahme in das Schreiben des Regierungsrates Nr. 23.5648.02 vom 6. März 2024, beschliesst: In Entsprechung des Budgetpostulats 2024 Pascal Pfister werden im Budget 2024 des Präsidialdepartements zusätzlich Fr. 150'000 eingestellt. Dieser Beschluss ist zu publizieren. »
 
 ## 2024-04-17 23.5641 Budgetpostulat 2024 Raphael Fuhrer Bau- und Verkehrsdepartement, 661 Amt für Mobilität, 30 Personalaufwand (Velofachstelle) (Budgetpostulat)
 Dokument: https://grosserrat.bs.ch/dokumente/100407/000000407279.pdf
@@ -2216,11 +2211,13 @@ Dokument: https://grosserrat.bs.ch/dokumente/100407/000000407279.pdf
 
 ## 2024-04-17 23.5640 Budgetpostulat 2024 Michael Hug betreffend Präsidialdepartement, 370 Kultur, 36 Transferaufwand (Jüdisches Museum) (Budgetpostulat)
 Dokument: https://grosserrat.bs.ch/dokumente/100407/000000407276.pdf
-- kein Betrag erkannt
+- Fr. 85'000  
+  «h Einsichtnahme in das Schreiben des Regierungsrates Nr. 23.5640.02 vom 6. März 2024, beschliesst: In Entsprechung des Budgetpostulats 2024 Michael Hug werden im Budget 2024 des Präsidialdepartements zusätzlich Fr. 85'000 eingestellt. Dieser Beschluss ist zu publizieren. »
 
 ## 2024-04-17 23.5638 Budgetpostulat 2024 Christine Keller Bau- und Verkehrsdepartement, 614 Stadtgärtnerei, 31 Sach- und Betriebsaufwand (Hundefreilaufzone "Merkuranlage") (Budgetpostulat)
 Dokument: https://grosserrat.bs.ch/dokumente/100407/000000407280.pdf
-- kein Betrag erkannt
+- Fr. 55'000  
+  «me in das Schreiben des Regierungsrates Nr. 23.5638.02 vom 6. März 2024, beschliesst: In Entsprechung des Budgetpostulats 2024 Christine Keller werden im Budget 2024 des Bau- und Verkehrsdepartements zusätzlich Fr. 55'000 eingestellt. Dieser Beschluss ist zu publizieren. »
 
 ## 2024-12-18 23.5655 Vorgezogenes Budgetpostulat 2025 Oliver Bolliger Präsidialdepartement, 350 Kantons- und Stadtentwicklung, 36 Transferaufwand (QuartierJobs) (Budgetpostulat)
 Dokument: https://grosserrat.bs.ch/dokumente/100408/000000408981.pdf

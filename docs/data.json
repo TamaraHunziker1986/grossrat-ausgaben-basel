@@ -927,29 +927,15 @@
    "beschluss": "https://grosserrat.bs.ch/dokumente/100395/000000395720.pdf",
    "posten": [
     {
-     "quelle": "45‘750‘000 Franken als Rahmenausgabenbewilligung für Baumassnahmen beim weiteren Ausbau der Tagesstrukturen zu Lasten der Investitionsrechnung, Investitionsbereich 4 «Hochbauten im Verwaltungsvermögen, Teil Bildung», Finanzdepartement, Immobilien Basel-Stadt:",
+     "quelle": "Zustimmung Der Grosse Rat des Kantons Basel-Stadt, nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 21.0064.01 vom 26. Januar 2021 sowie in den Bericht der Bildungs- und Kulturkommission Nr. 21.0064.02 vom 27. August 2021, bewilligt für den Ausbau und die Weiterentwicklung der Tagesstrukturen auf Primarstufe (Kindergarten und Primarschule) und Sekundarstufe I insgesamt 74'100'000 Franken. Der Betrag setzt sich wie folgt zusammen:",
      "art": "einmalig",
-     "betrag": 45750000,
+     "betrag": 74100000,
      "jahresbetrag": null,
-     "jahre": null
-    },
-    {
-     "quelle": "- Davon Personalkosten: 1‘700‘000 Franken. 7‘250‘000 Franken als Rahmenausgabenbewilligung für Betriebseinrichtungen beim weiteren Ausbau der Tagesstrukturen zu Lasten der Investitionsrechnung, Investitionsbereich 6 «Bildung», Erziehungsdepartement:",
-     "art": "einmalig",
-     "betrag": 1700000,
-     "jahresbetrag": null,
-     "jahre": null
-    },
-    {
-     "quelle": "- Davon Personalkosten: 1‘700‘000 Franken. 1‘900‘000 Franken einmalige Ausgaben für Provisorien, Mieten und Umzüge beim weiteren Ausbau der Tagesstrukturen zu Lasten der Erfolgsrechnung des Erziehungsdepartements, Zentrale Dienste. 19‘200‘000 Franken (brutto) jährliche Folgekosten für den Betrieb der neu geschaffenen Tagesstrukturplätze zu Lasten der Erfolgsrechnung des Erziehungsdepartements, Dienststelle Volksschulen. Über die Verwendung der Mittel aus den beiden Rahmenausgabenbewilligungen berichtet der Regierungsrat dem Grossen Rat nach erfolgter Realisierung der Hälfte der vorgesehenen zu",
-     "art": "wiederkehrend",
-     "betrag": 1700000,
-     "jahresbetrag": 1700000,
      "jahre": null
     }
    ],
-   "einmalig": 47450000,
-   "jaehrlich": 1700000,
+   "einmalig": 74100000,
+   "jaehrlich": 0,
    "darlehen": 0,
    "korrigiert": false,
    "bemerkung": null,
@@ -1408,28 +1394,14 @@
    "beschluss": "https://grosserrat.bs.ch/dokumente/100396/000000396085.pdf",
    "posten": [
     {
-     "quelle": "Ausgaben von Fr. 44’728’000 (für die Jahre 2022 und 2023 jährlich Fr. 10’978'000 sowie für die Jahre 2024 und 2025 jährlich Fr. 11’386'000) für die gemeinwirtschaftlichen Leistungen im engeren Sinn der baselstädtischen Spitäler (ohne Universitäts-Kinderspital beider Basel) für die Jahre 2022, 2023, 2024 und 2025;",
-     "art": "befristet",
-     "betrag": 44728000,
-     "jahresbetrag": 10978000,
-     "jahre": 2
-    },
-    {
-     "quelle": "Ausgaben von Fr. 122’028’000 (jährlich Fr. 30’507’000) für die ungedeckten Kosten der baselstädtischen Spitäler (ohne Universitäts-Kinderspital beider Basel) in universitärer Lehre und Forschung für die Jahre 2022, 2023, 2024 und 2025;",
-     "art": "befristet",
-     "betrag": 122028000,
-     "jahresbetrag": 30507000,
-     "jahre": 2
-    },
-    {
-     "quelle": "Ausgaben von Fr. 60’952’000 (jährlich Fr. 15’238’000) für die ungedeckten Kosten der baselstädtischen Spitäler (ohne Universitäts-Kinderspital beider Basel) für die Weiterbildung zur eidgenössischen Fachärztin bzw. zum eidgenössischen Facharzt für die Jahre 2022, 2023, 2024 und 2025. Ausgaben von Fr. 15’540’000 (jährlich Fr. 3’885’000) für die ungedeckten Kosten der baselstädtischen Spitäler (ohne Universitäts-Kinderspital beider Basel) im spitalambulanten Bereich für die Jahre 2022, 2023, 2024 und 2025.",
-     "art": "befristet",
-     "betrag": 60952000,
-     "jahresbetrag": 15238000,
-     "jahre": 2
+     "quelle": "Zustimmung Für die Finanzierung der gemeinwirtschaftlichen Leistungen und ungedeckten Kosten der baselstädtischen Spitäler werden für die Jahre 2022 – 2025 Ausgaben von insgesamt Fr. 243’248’000 (für die Jahre 2022 und 2023 insgesamt Fr. 121’216’000 sowie für die Jahre 2024 und 2025 insgesamt Fr. 122’032’000) bewilligt. Dieser Betrag setzt sich wie folgt zusammen:",
+     "art": "einmalig",
+     "betrag": 243248000,
+     "jahresbetrag": null,
+     "jahre": null
     }
    ],
-   "einmalig": 227708000,
+   "einmalig": 243248000,
    "jaehrlich": 0,
    "darlehen": 0,
    "korrigiert": false,
@@ -2019,7 +1991,7 @@
      "jahre": null
     },
     {
-     "quelle": "- Fr. 173‘000 als jährliche Folgemehrkosten für den laufenden Betrieb zu Lasten der Erfolgsrechnung des Gesundheitsdepartements.",
+     "quelle": "- Fr. 173‘000 als jährliche Folgemehrkosten für den laufenden Betrieb zu Lasten der Erfolgsrechnung des Gesundheitsdepartements. Die Parzellen 2482 und 2483, Sektion 2, des Grundbuchs Basel, haltend 2’626 m2 und 926 m2, sind für den Um- und Neubau des Ersatzstandorts für das Institut für Rechtsmedizin vom Finanz- ins Verwaltungsvermögen zu übertragen. (Inkraftsetzung per 1. Juli 2022).",
      "art": "wiederkehrend",
      "betrag": 173000,
      "jahresbetrag": 173000,
@@ -2051,6 +2023,54 @@
     }
    ],
    "einmalig": 14613000,
+   "jaehrlich": 0,
+   "darlehen": 0,
+   "korrigiert": false,
+   "bemerkung": null,
+   "abstimmung": null
+  },
+  {
+   "signatur": "22.0538",
+   "datum": "2022-06-23",
+   "titel": "Ratschlag betreffend 9. Rahmenausgabenbewilligung für Staatsbeiträge in den Jahren 2022-2025 gemäss Gesetz über den Denkmalschutz vom 20. März 1980",
+   "typ": "Ratschlag",
+   "departement": "BVD",
+   "url": "https://grosserrat.bs.ch/?gnr=22.0538",
+   "beschluss": "https://grosserrat.bs.ch/dokumente/100397/000000397657.pdf",
+   "posten": [
+    {
+     "quelle": "Zustimmung Für die Finanzierung der Staatsbeiträge in den Jahren 2022–2025 gemäss Gesetz über den Denkmalschutz vom 20. März 1980 wird die 9. Rahmenausgabe in der Höhe von Fr. 12'990'400 zulasten der Erfolgsrechnung des Bau- und Verkehrsdepartements bewilligt.",
+     "art": "einmalig",
+     "betrag": 12990400,
+     "jahresbetrag": null,
+     "jahre": null
+    }
+   ],
+   "einmalig": 12990400,
+   "jaehrlich": 0,
+   "darlehen": 0,
+   "korrigiert": false,
+   "bemerkung": null,
+   "abstimmung": null
+  },
+  {
+   "signatur": "22.0246",
+   "datum": "2022-06-23",
+   "titel": "Ratschlag betreffend Beschaffung von eTransportern für die Feuerwehr des Kantons Basel-Stadt",
+   "typ": "Ratschlag",
+   "departement": "JSD",
+   "url": "https://grosserrat.bs.ch/?gnr=22.0246",
+   "beschluss": "https://grosserrat.bs.ch/dokumente/100397/000000397659.pdf",
+   "posten": [
+    {
+     "quelle": "Zustimmung Es wird eine Ausgabenbewilligung über gesamthaft Fr. 1'995'000 für die Beschaffung von neun elektrobetriebenen Transportern der Feuerwehr Basel-Stadt zu Lasten der Investitions-rechnung des Justiz- und Sicherheitsdepartements, Dienststelle Rettung, genehmigt.",
+     "art": "einmalig",
+     "betrag": 1995000,
+     "jahresbetrag": null,
+     "jahre": null
+    }
+   ],
+   "einmalig": 1995000,
    "jaehrlich": 0,
    "darlehen": 0,
    "korrigiert": false,
@@ -2319,7 +2339,7 @@
    "beschluss": "https://grosserrat.bs.ch/dokumente/100403/000000403176.pdf",
    "posten": [
     {
-     "quelle": "Für die grenzüberschreitende Zusammenarbeit am Oberrhein werden für die Jahre 2023 bis 2026 Ausgaben in der Höhe von insgesamt Fr. 1‘573‘936 (Fr. 393‘484 pro Jahr) bewilligt.",
+     "quelle": "Für die grenzüberschreitende Zusammenarbeit am Oberrhein werden für die Jahre 2023 bis 2026 Ausgaben in der Höhe von insgesamt Fr. 1‘573‘936 (Fr. 393‘484 pro Jahr) bewilligt. Die Ausrichtung erfolgt mit Beiträgen an die Regio Basiliensis",
      "art": "befristet",
      "betrag": 1573936,
      "jahresbetrag": 393484,
@@ -3350,22 +3370,15 @@
      "jahre": null
     },
     {
-     "quelle": "Fr. 20‘000 als jährlich wiederkehrende neue Ausgaben für den Unterhalt der Belags- und Vegetationsflächen zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements, Stadtgärtnerei.",
-     "art": "wiederkehrend",
-     "betrag": 20000,
+     "quelle": "Fr. 20‘000 als jährlich wiederkehrende neue Ausgaben für den Unterhalt der Belags- und Vegetationsflächen zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements, Stadtgärtnerei. Die allfälligen Beiträge des Bundes in Höhe von max. Fr. 1'000’000 für Massnahmen zugunsten der Biodiversität könnten nach Zustimmung und Bewilligung durch das Bundesamt für Umwelt innerhalb der Programmperiode 2025–2028 nach Abschluss des Projektes vollumfänglich in Abzug gebracht werden.",
+     "art": "befristet",
+     "betrag": 80000,
      "jahresbetrag": 20000,
-     "jahre": null
-    },
-    {
-     "quelle": "Die allfälligen Beiträge des Bundes in Höhe von max. Fr. 1'000’000 für Massnahmen zugunsten der Biodiversität könnten nach Zustimmung und Bewilligung durch das Bundesamt für Umwelt innerhalb der Programmperiode 2025–2028 nach Abschluss des Projektes vollumfänglich in Abzug gebracht werden.",
-     "art": "einmalig",
-     "betrag": 1000000,
-     "jahresbetrag": null,
-     "jahre": null
+     "jahre": 4
     }
    ],
-   "einmalig": 6380000,
-   "jaehrlich": 20000,
+   "einmalig": 5460000,
+   "jaehrlich": 0,
    "darlehen": 0,
    "korrigiert": false,
    "bemerkung": null,
@@ -3515,10 +3528,10 @@
      "jahre": null
     },
     {
-     "quelle": "Die Ausgaben setzen sich wie folgt zusammen: Grundstaatsbeitrag insgesamt Fr. 163'790'076 (Fr. 40'947'519 p. a. Spielzeit)",
+     "quelle": "Für das Theater Basel werden Ausgaben in Höhe von Fr. 191'265'888 (Fr. 47'816'472 p. a.) für den Zeitraum vom 1. August 2023 bis 31. Juli 2027 bewilligt. Die Ausgaben setzen sich wie folgt zusammen: Grundstaatsbeitrag insgesamt Fr. 163'790'076 (Fr. 40'947'519 p. a. Spielzeit)",
      "art": "befristet",
      "betrag": 163790076,
-     "jahresbetrag": 40947519,
+     "jahresbetrag": 47816472,
      "jahre": null
     }
    ],
@@ -3539,7 +3552,7 @@
    "beschluss": "https://grosserrat.bs.ch/dokumente/100405/000000405558.pdf",
    "posten": [
     {
-     "quelle": "Für das Teilprojekt «Unterkunft Ukraine» von GGG Benevol «Gastfamilien für Flüchtlinge» werden für die Jahre 2022 und 2023 Ausgaben in der Höhe von insgesamt Fr. 485'200 zu Lasten der Erfolgsrechnung des Departements für Wirtschaft, Soziales und Umwelt, Dienststelle Sozialhilfe, bewilligt.",
+     "quelle": "Für das Teilprojekt «Unterkunft Ukraine» von GGG Benevol «Gastfamilien für Flüchtlinge» werden für die Jahre 2022 und 2023 Ausgaben in der Höhe von insgesamt Fr. 485'200 zu Lasten der Erfolgsrechnung des Departements für Wirtschaft, Soziales und Umwelt, Dienststelle Sozialhilfe, bewilligt. Die Ausgaben setzten sich wie folgt zusammen:",
      "art": "einmalig",
      "betrag": 485200,
      "jahresbetrag": null,
@@ -5954,23 +5967,16 @@
    "beschluss": "https://grosserrat.bs.ch/dokumente/100407/000000407818.pdf",
    "posten": [
     {
-     "quelle": "- Fr. 1'074'000 (inkl. MWST) als Beitrag an die Betriebskosten der BPG für die Jahre 2024 bis 2025;",
+     "quelle": "Für die Basler Personenschifffahrt AG (BPG) werden Ausgaben in Höhe von insgesamt Fr. 2'324'000 bewilligt. Die Ausgaben verteilen sich wie folgt:",
      "art": "einmalig",
-     "betrag": 1074000,
-     "jahresbetrag": null,
-     "jahre": null
-    },
-    {
-     "quelle": "- Fr. 1‘250'000 zur Erhöhung des Aktienkapitals der BPG, zu Lasten der Investitionsrechnung, Investitionsbereich Darlehen und Beteiligungen.",
-     "art": "darlehen",
-     "betrag": 1250000,
+     "betrag": 2324000,
      "jahresbetrag": null,
      "jahre": null
     }
    ],
-   "einmalig": 1074000,
+   "einmalig": 2324000,
    "jaehrlich": 0,
-   "darlehen": 1250000,
+   "darlehen": 0,
    "korrigiert": false,
    "bemerkung": null,
    "abstimmung": {
@@ -6022,83 +6028,6 @@
      },
      "GLP": {
       "J": 7,
-      "N": 0,
-      "E": 0
-     }
-    }
-   }
-  },
-  {
-   "signatur": "23.0812",
-   "datum": "2024-06-27",
-   "titel": "Ausgabenbewilligung für die Weiterentwicklung der Hafenbahn Variante \"Südquai\"",
-   "typ": "Ratschlag",
-   "departement": "BVD",
-   "url": "https://grosserrat.bs.ch/?gnr=23.0812",
-   "beschluss": "https://grosserrat.bs.ch/dokumente/100407/000000407820.pdf",
-   "posten": [
-    {
-     "quelle": "Ein Gesamtbetrag von Fr. 36'050'000 für die weitere Planung und Realisierung des Vorhabens «Weiterentwicklung der Hafenbahn, Variante Südquai» wird bewilligt. Basis ist der Baupreisindex NWCH Stand Oktober 2022.",
-     "art": "einmalig",
-     "betrag": 36050000,
-     "jahresbetrag": null,
-     "jahre": null
-    }
-   ],
-   "einmalig": 36050000,
-   "jaehrlich": 0,
-   "darlehen": 0,
-   "korrigiert": false,
-   "bemerkung": null,
-   "abstimmung": {
-    "nr": "3786",
-    "typ": "Ad Hoc einfaches Mehr",
-    "ja": 91,
-    "nein": 1,
-    "enthaltung": 0,
-    "parteien": {
-     "SP": {
-      "J": 25,
-      "N": 0,
-      "E": 0
-     },
-     "LDP": {
-      "J": 14,
-      "N": 0,
-      "E": 0
-     },
-     "EVP": {
-      "J": 6,
-      "N": 0,
-      "E": 0
-     },
-     "Grüne": {
-      "J": 10,
-      "N": 0,
-      "E": 0
-     },
-     "SVP": {
-      "J": 10,
-      "N": 0,
-      "E": 0
-     },
-     "FDP": {
-      "J": 7,
-      "N": 0,
-      "E": 0
-     },
-     "GLP": {
-      "J": 8,
-      "N": 0,
-      "E": 0
-     },
-     "BastA!": {
-      "J": 4,
-      "N": 0,
-      "E": 0
-     },
-     "Mitte": {
-      "J": 4,
       "N": 0,
       "E": 0
      }
@@ -6318,21 +6247,14 @@
      "jahre": null
     },
     {
-     "quelle": "- Fr. 214‘000 als jährlich wiederkehrende neue Ausgaben für den Unterhalt der Belags- und Vegetationsflächen zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements, Stadtgärtnerei.",
+     "quelle": "- Fr. 214‘000 als jährlich wiederkehrende neue Ausgaben für den Unterhalt der Belags- und Vegetationsflächen zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements, Stadtgärtnerei. Die Kostenbeteiligung der Schweizerischen Bundesbahnen (SBB) bis zu einem Maximalbetrag von Fr. 1'800’000 werden nach Abschluss des Projektes mit den Bruttokosten für die Erstellung der Naturschutzfläche Saint-Louis-Park (12´500 m2) verrechnet und in Abzug gebracht. Die allfälligen Beiträge des Bundes in Höhe von max. Fr. 1'200’000 (40% der Kosten für Massnahmen zugunsten der Biodiversität) sowie ein Beitra",
      "art": "wiederkehrend",
      "betrag": 214000,
      "jahresbetrag": 214000,
      "jahre": null
-    },
-    {
-     "quelle": "Die allfälligen Beiträge des Bundes in Höhe von max. Fr. 1'200’000 (40% der Kosten für Massnahmen zugunsten der Biodiversität) sowie ein Beitrag an den öffentlichen Fuss- und Veloweg von Fr. 149’728 (Mitfinanzierung innerhalb des Agglomerationsprojektes «LV1» der 3. Generation) werden nach Abschluss des Projektes vollumfänglich in Abzug gebracht.",
-     "art": "einmalig",
-     "betrag": 1200000,
-     "jahresbetrag": null,
-     "jahre": null
     }
    ],
-   "einmalig": 11142000,
+   "einmalig": 9942000,
    "jaehrlich": 214000,
    "darlehen": 0,
    "korrigiert": false,
@@ -6386,6 +6308,83 @@
      },
      "EVP": {
       "J": 5,
+      "N": 0,
+      "E": 0
+     }
+    }
+   }
+  },
+  {
+   "signatur": "24.0544",
+   "datum": "2024-09-18",
+   "titel": "Staatsbeitrag für den Erlen-Verein Basel für die Jahre 2025 bis 2028",
+   "typ": "Ratschlag",
+   "departement": "BVD",
+   "url": "https://grosserrat.bs.ch/?gnr=24.0544",
+   "beschluss": "https://grosserrat.bs.ch/dokumente/100408/000000408224.pdf",
+   "posten": [
+    {
+     "quelle": "Zustimmung Für den Erlen-Verein werden für die Jahre 2025 bis 2028 Ausgaben von insgesamt Fr. 2'360'000 (Fr. 590'000 p.a.) zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements, Stadtgärtnerei bewilligt. Dies Ausgaben setzen sich wie folgt zusammen:",
+     "art": "befristet",
+     "betrag": 2360000,
+     "jahresbetrag": 590000,
+     "jahre": 4
+    }
+   ],
+   "einmalig": 2360000,
+   "jaehrlich": 0,
+   "darlehen": 0,
+   "korrigiert": false,
+   "bemerkung": null,
+   "abstimmung": {
+    "nr": "4361",
+    "typ": "Schlussabstimmung",
+    "ja": 85,
+    "nein": 0,
+    "enthaltung": 3,
+    "parteien": {
+     "Grüne": {
+      "J": 11,
+      "N": 0,
+      "E": 0
+     },
+     "SP": {
+      "J": 26,
+      "N": 0,
+      "E": 0
+     },
+     "LDP": {
+      "J": 11,
+      "N": 0,
+      "E": 1
+     },
+     "Mitte": {
+      "J": 4,
+      "N": 0,
+      "E": 0
+     },
+     "GLP": {
+      "J": 5,
+      "N": 0,
+      "E": 1
+     },
+     "FDP": {
+      "J": 6,
+      "N": 0,
+      "E": 1
+     },
+     "BastA!": {
+      "J": 4,
+      "N": 0,
+      "E": 0
+     },
+     "EVP": {
+      "J": 5,
+      "N": 0,
+      "E": 0
+     },
+     "SVP": {
+      "J": 10,
       "N": 0,
       "E": 0
      }
@@ -6892,7 +6891,7 @@
    "beschluss": "https://grosserrat.bs.ch/dokumente/100408/000000408233.pdf",
    "posten": [
     {
-     "quelle": "Für die Projektierung von Photovoltaik-Anlagen zur Erschliessung des Solarpotenzials im Verwaltungsvermögen bis 2030 wird der Gesamtbetrag von Fr. 3'070'000 zu Lasten der Investitionsrechnung, Investitionsbereich 4 «Hochbauten im Verwaltungsvermögen, Übrige» (Preisbasis: Baupreisindex Nordwestschweiz / Hochbau, Index 117.8, Basis Oktober 2020=100, Stand Oktober 2023) bewilligt.",
+     "quelle": "Für die Projektierung von Photovoltaik-Anlagen zur Erschliessung des Solarpotenzials im Verwaltungsvermögen bis 2030 wird der Gesamtbetrag von Fr. 3'070'000 zu Lasten der Investitionsrechnung, Investitionsbereich 4 «Hochbauten im Verwaltungsvermögen, Übrige» (Preisbasis: Baupreisindex Nordwestschweiz / Hochbau, Index 117.8, Basis Oktober 2020=100, Stand Oktober 2023) bewilligt. Die Ausgaben setzen sich wie folgt zusammen:",
      "art": "einmalig",
      "betrag": 3070000,
      "jahresbetrag": null,
@@ -6969,7 +6968,7 @@
    "beschluss": "https://grosserrat.bs.ch/dokumente/100408/000000408409.pdf",
    "posten": [
     {
-     "quelle": "Für den Trägerbeitrag des Kantons Basel-Stadt an die FHNW für die Leistungsauftragsperiode 2025–2028 wird eine Ausgabe von Fr. 204'693'868 mit folgenden Jahrestranchen bewilligt: 2025: Fr. 50'471'048, 2026: Fr. 50'867'572, 2027: Fr. 51'597'825, 2028: Fr. 51'757'423. Auf dem Lohnaufwand der FHNW (Bruttolöhne inklusive Arbeitgeberbeiträge des Vorjahres) wird jährlich zu 50% ein Teuerungsausgleich gewährt (Veränderung Landesindex für Konsumentenpreise September des Vorvorjahres gegenüber September des Vorjahres).",
+     "quelle": "Für den Trägerbeitrag des Kantons Basel-Stadt an die FHNW für die Leistungsauftragsperiode 2025–2028 wird eine Ausgabe von Fr. 204'693'868 mit folgenden Jahrestranchen bewilligt: 2025: Fr. 50'471'048, 2026: Fr. 50'867'572, 2027: Fr. 51'597'825, 2028: Fr. 51'757'423. Auf dem Lohnaufwand der FHNW (Bruttolöhne inklusive Arbeitgeberbeiträge des Vorjahres) wird jährlich zu 50% ein Teuerungsausgleich gewährt (Veränderung Landesindex für Konsumentenpreise September des Vorvorjahres gegenüber September des Vorjahres). Die Ausgabe erhöht oder vermindert sich um diese indexbedingten Mehr- und Minderaufw",
      "art": "befristet",
      "betrag": 204693868,
      "jahresbetrag": 50471048,
@@ -7513,18 +7512,11 @@
      "betrag": 59012352,
      "jahresbetrag": 14753088,
      "jahre": 4
-    },
-    {
-     "quelle": "Das zinslose Darlehen von Fr. 735'000 (Stand 31. Dezember 2023, Amortisation Fr. 5'000 p.a.) wird in Erneuerung des Grossratsbeschlusses vom 10. Dezember 1953 weitergeführt.",
-     "art": "darlehen",
-     "betrag": 735000,
-     "jahresbetrag": null,
-     "jahre": null
     }
    ],
    "einmalig": 59012352,
    "jaehrlich": 0,
-   "darlehen": 735000,
+   "darlehen": 0,
    "korrigiert": false,
    "bemerkung": null,
    "abstimmung": {
@@ -10042,7 +10034,7 @@
      "jahre": null
     },
     {
-     "quelle": "Für die nicht-werthaltigen Mehrkosten des Neubaus Biozentrum wird eine einmalige Ausgabe von Fr. 9‘350‘000 bewilligt.",
+     "quelle": "Für die nicht-werthaltigen Mehrkosten des Neubaus Biozentrum wird eine einmalige Ausgabe von Fr. 9‘350‘000 bewilligt. Die Beschlüsse unter Ziff. 1, 2 und 5 stehen unter dem Vorbehalt eines entsprechenden Beschlusses des Landrats des Kantons Basel-Landschaft.",
      "art": "einmalig",
      "betrag": 9350000,
      "jahresbetrag": null,
@@ -10203,7 +10195,7 @@
      "jahre": 3
     },
     {
-     "quelle": "Fr. 10’925’000 (insgesamt Fr. 43’680'000 für die Jahre 2026–2029) bewilligt.",
+     "quelle": "Fr. 10’925’000 (insgesamt Fr. 43’680'000 für die Jahre 2026–2029) bewilligt. Die Rahmenausgabenbewilligung steht unter dem Vorbehalt einer analogen Beschlussfassung durch den Landrat des Kantons Basel-Landschaft.",
      "art": "einmalig",
      "betrag": 43680000,
      "jahresbetrag": null,
@@ -12338,7 +12330,7 @@
    "beschluss": "https://grosserrat.bs.ch/dokumente/100412/000000412103.pdf",
    "posten": [
     {
-     "quelle": "Für die Berufs- und Weiterbildungsmesse in Basel-Stadt werden dem Gewerbeverband BaselStadt für die Jahre 2026 und 2027 Ausgaben von insgesamt Fr. 500’000 (Fr. 250’000 p.a.) bewilligt.",
+     "quelle": "Für die Berufs- und Weiterbildungsmesse in Basel-Stadt werden dem Gewerbeverband BaselStadt für die Jahre 2026 und 2027 Ausgaben von insgesamt Fr. 500’000 (Fr. 250’000 p.a.) bewilligt. Die Berufs- und Weiterbildungsmesse leistet einen wirksamen Beitrag zur Förderung der beruflichen Grundbildung im Kanton Basel-Stadt.",
      "art": "befristet",
      "betrag": 500000,
      "jahresbetrag": 250000,
@@ -12796,15 +12788,22 @@
    "beschluss": "https://grosserrat.bs.ch/dokumente/100412/000000412534.pdf",
    "posten": [
     {
-     "quelle": "Für die Planung, Projektierung und Umsetzung von zusätzlichen Toilettenanlagen werden Ausgaben in der Höhe von total Fr. 5’860‘000 bewilligt. Diese Ausgaben setzen sich wie folgt zusammen:",
+     "quelle": "Fr. 5'200'000 als Rahmenausgabe für zwölf neue WC-Anlagen an acht definierten und vier möglichen Standorten zu Lasten der Investitionsrechnung des Bau- und Verkehrsdepartements, Investitionsbereich 8 «Übrige» (Preisbasis Schweizerischer Baupreisindex Nordwestschweiz, Index 117.7 (2020=100, Stand April 2025). Die Ausgabenbewilligung für die Anlagen an den definierten Standorten St. Johanns-Park, Birsköpfli, Westquai, Wittlinger-Spielplatz, Hochstrasse, Dreirosen-Anlage, Klosterfiechten und Spülweiher wird in Höhe von Fr. 3'470'000 erteilt.",
      "art": "einmalig",
-     "betrag": 5860000,
+     "betrag": 5200000,
      "jahresbetrag": null,
+     "jahre": null
+    },
+    {
+     "quelle": "Fr. 660'000 für jährliche Folgekosten für Betrieb und Unterhalt der WC-Anlagen (inkl. Personalressourcen), für zusätzliche Mietanlagen (Kompost-Toiletten) sowie für weitere «nette Toiletten» gemäss Konzept zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartements, Tiefbauamt.",
+     "art": "wiederkehrend",
+     "betrag": 660000,
+     "jahresbetrag": 660000,
      "jahre": null
     }
    ],
-   "einmalig": 5860000,
-   "jaehrlich": 0,
+   "einmalig": 5200000,
+   "jaehrlich": 660000,
    "darlehen": 0,
    "korrigiert": false,
    "bemerkung": null,
@@ -13699,7 +13698,7 @@
    "beschluss": "https://grosserrat.bs.ch/dokumente/100413/000000413628.pdf",
    "posten": [
     {
-     "quelle": "Für den Beitrag an die Interkantonale Koordinationsstelle bei der Regio Basiliensis wird für die Jahre 2027–2030 eine Ausgabe in Höhe von insgesamt Fr. 1‘861‘880 (Fr. 465'470 pro Jahr) bewilligt.",
+     "quelle": "Für den Beitrag an die Interkantonale Koordinationsstelle bei der Regio Basiliensis wird für die Jahre 2027–2030 eine Ausgabe in Höhe von insgesamt Fr. 1‘861‘880 (Fr. 465'470 pro Jahr) bewilligt. Die Ausrichtung erfolgt mit Beiträgen an die Regio Basiliensis für die Interkantonale Koordinationsstelle zzgl. Mitfinanzierung des Schweizer ORK-Delegationssekretariats sowie der Schweizer Personalstelle bei der Infobest Palmrain in Höhe von insgesamt Fr. 1'705'640 (Fr. 426’410 pro Jahr) sowie mit Beiträgen an die Oberrheinkonferenz für die Beteiligung am Gemeinsamen Sekretariat in Höhe von insgesamt",
      "art": "befristet",
      "betrag": 1861880,
      "jahresbetrag": 465470,
@@ -13853,7 +13852,7 @@
    "urheber": "Moesch, Christian C.",
    "partei": "FDP",
    "miturheber": [],
-   "betrag": null,
+   "betrag": 200000,
    "korrigiert": false,
    "abstimmung": null
   },
@@ -13865,7 +13864,7 @@
    "urheber": "Roth, Franziska",
    "partei": null,
    "miturheber": [],
-   "betrag": null,
+   "betrag": 200000,
    "korrigiert": false,
    "abstimmung": null
   },
@@ -13882,7 +13881,7 @@
      "partei": "Grüne"
     }
    ],
-   "betrag": null,
+   "betrag": 70000,
    "korrigiert": false,
    "abstimmung": null
   },
@@ -13894,7 +13893,7 @@
    "urheber": "Lachenmeier, Michelle",
    "partei": null,
    "miturheber": [],
-   "betrag": null,
+   "betrag": 52897,
    "korrigiert": false,
    "abstimmung": null
   },
@@ -13906,7 +13905,7 @@
    "urheber": "Hanauer, Raffaela",
    "partei": "Grüne",
    "miturheber": [],
-   "betrag": null,
+   "betrag": 192000,
    "korrigiert": false,
    "abstimmung": null
   },
@@ -13918,7 +13917,7 @@
    "urheber": "Pfister, Pascal",
    "partei": null,
    "miturheber": [],
-   "betrag": null,
+   "betrag": 60000,
    "korrigiert": false,
    "abstimmung": null
   },
@@ -14002,7 +14001,7 @@
    "urheber": "Bolliger, Oliver",
    "partei": "BastA!",
    "miturheber": [],
-   "betrag": null,
+   "betrag": 40000,
    "korrigiert": false,
    "abstimmung": null
   },
@@ -14014,7 +14013,7 @@
    "urheber": "Pfister, Pascal",
    "partei": null,
    "miturheber": [],
-   "betrag": null,
+   "betrag": 150000,
    "korrigiert": false,
    "abstimmung": null
   },
@@ -14091,7 +14090,7 @@
    "urheber": "Hug, Michael",
    "partei": "LDP",
    "miturheber": [],
-   "betrag": null,
+   "betrag": 85000,
    "korrigiert": false,
    "abstimmung": {
     "nr": "3294",
@@ -14156,7 +14155,7 @@
    "urheber": "Keller, Christine",
    "partei": "SP",
    "miturheber": [],
-   "betrag": null,
+   "betrag": 55000,
    "korrigiert": false,
    "abstimmung": null
   },
