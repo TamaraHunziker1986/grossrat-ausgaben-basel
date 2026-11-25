@@ -612,8 +612,6 @@ def alle(partei_von, legislaturen, leg_von, thema_von, partei_norm):
     res = {}
     schritte = [
         ("ausgaben", lambda: ausgaben(leg_von)),
-        ("interessen", lambda: interessen(partei_von)),
-        ("parolen", lambda: parolen(leg_von)),
         ("wahlen", wahlen),
         ("kommissionen", lambda: kommissionen(partei_von, legislaturen)),
         ("wortmeldungen", lambda: wortmeldungen(legislaturen, partei_norm)),

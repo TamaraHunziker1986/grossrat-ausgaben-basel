@@ -127,8 +127,8 @@ footer strong{font-family:Jost,Arial,sans-serif;font-size:17px}
 <nav class="inhalt" aria-label="Inhalt">
   <a href="#stimmverhalten">Stimmverhalten</a><a href="#differenzen">Unterschiedliche Haltung</a>
   <a href="#themen">Vorstösse nach Thema</a><a href="#arten">Vorstossarten und Erfolg</a>
-  <a href="#zusammenarbeit">Zusammenarbeit</a><a href="#ausgaben">Ausgaben</a><a href="#parolen">Parolen</a>
-  <a href="#kommissionen">Kommissionen</a><a href="#wortmeldungen">Wortmeldungen</a><a href="#interessen">Interessenbindungen</a>
+  <a href="#zusammenarbeit">Zusammenarbeit</a><a href="#ausgaben">Ausgaben</a>
+  <a href="#kommissionen">Kommissionen</a><a href="#wortmeldungen">Wortmeldungen</a>
   <a href="#wahlen">Wählerschaft</a><a href="#liste">Alle Vorstösse</a>
 </nav></div>
 
@@ -209,13 +209,6 @@ footer strong{font-family:Jost,Arial,sans-serif;font-size:17px}
     <div class="tabelle"><table id="t-ausgaben"></table></div>
   </section>
 
-  <section id="parolen">
-    <h2>Parolen bei kantonalen Abstimmungen</h2>
-    <p class="lead" id="parolen-lead"></p>
-    <div class="zwei"><div class="box"><h3>Kantonale Vorlagen</h3><dl id="dl-parolen-k"></dl></div></div>
-    <h3 class="unter">Vorlagen mit unterschiedlicher Parole</h3>
-    <div class="tabelle"><table id="t-parolen"></table></div>
-  </section>
 
   <section id="kommissionen">
     <h2>Kommissionen</h2>
@@ -229,13 +222,6 @@ footer strong{font-family:Jost,Arial,sans-serif;font-size:17px}
     <div class="zwei"><div class="box"><h3>FDP</h3><dl id="dl-wort-fdp"></dl></div><div class="box"><h3>LDP</h3><dl id="dl-wort-ldp"></dl></div></div>
   </section>
 
-  <section id="interessen">
-    <h2>Interessenbindungen</h2>
-    <p class="lead" id="int-lead"></p>
-    <div class="legende"><span><i style="background:var(--fdp)"></i>FDP</span><span><i style="background:var(--ldp)"></i>LDP</span></div>
-    <div class="bars" id="bars-int"></div>
-    <details class="mehr"><summary><b>Alle Einträge anzeigen</b></summary><div class="tabelle" style="margin-top:10px"><table id="t-int"></table></div></details>
-  </section>
 
   <section id="wahlen">
     <h2>Wählerschaft</h2>
@@ -255,7 +241,7 @@ footer strong{font-family:Jost,Arial,sans-serif;font-size:17px}
     <p>Für das Stimmverhalten zählt die Mehrheit der anwesenden Fraktionsmitglieder in jeder einzelnen Abstimmung. Präsenzkontrollen und Wahlen sind ausgenommen. Steht es in einer Fraktion unentschieden, gilt sie als geteilt und fällt aus dem Vergleich. Die Fraktion Mitte-EVP ist als Mitte aufgeführt.</p>
     <p>Ein Vorstoss zählt zur Partei der Person, die ihn als Erste unterzeichnet hat. Mitgezählt sind Motionen, Anzüge, Planungsanzüge, Budgetpostulate, Interpellationen, Schriftliche Anfragen, Resolutionen und Standesinitiativen von Ratsmitgliedern. Vorstösse von Kommissionen fehlen.</p>
     <p>Jedes Geschäft hat ein Hauptthema. Es wird aus dem Titel bestimmt und, wo vorhanden, aus dem Thema, das der Parlamentsdienst vergeben hat. Die Zuordnung ist automatisch und kann im Einzelfall danebenliegen. Korrekturen sind in der Datei themen-korrekturen.csv möglich.</p>
-    <p>Weitere Quellen: Ausgaben aus der Seite «Was der Grosse Rat ausgibt»; Parolen zu kantonalen Vorlagen aus baselvotes (data.bs.ch 100518); Kommissionen (100308) und Interessenbindungen (100309, aktueller Stand); Wahlresultate 2020 und 2024 (100101, 100399); Wortmeldungen aus den Vollprotokollen des Grossen Rates, gezählt sind Zeilen, die mit Name und Fraktion in Klammern beginnen; Die Branchen der Interessenbindungen sind per Stichwort zugeordnet.</p>
+    <p>Weitere Quellen: Ausgaben aus der Seite «Was der Grosse Rat ausgibt»; Kommissionen (100308); Wahlresultate 2020 und 2024 (100101, 100399); Wortmeldungen aus den Vollprotokollen des Grossen Rates, gezählt sind Zeilen, die mit Name und Fraktion in Klammern beginnen;</p>
     <p>Die Seite ist nicht für die Öffentlichkeit bestimmt und wird von Suchmaschinen nicht erfasst.</p>
   </section>
 </main>
@@ -477,21 +463,6 @@ function zeichneAusgaben(){
     (diff.length ? "" : '<tr><td colspan="6" class="klein">Keine Ausgaben mit unterschiedlicher Haltung in diesem Zeitraum.</td></tr>') + "</tbody>";
 }
 
-function zeichneParolen(){
-  const P = Z.parolen; if (!P) { leer("dl-parolen-k","Keine Daten."); return; }
-  const sieg = (x, p) => { const e = (x.ergebnis||"").toLowerCase(); if (!x[p] || !e) return null; const ang = e.startsWith("angenommen") || e.startsWith("ja"); return (x[p] === "Ja") === ang; };
-  const box = (id, arr) => { const b = arr.filter(x => inLeg(x) && x.fdp && x.ldp); const g = b.filter(x => x.fdp === x.ldp).length;
-    const s = p => { const v = arr.filter(x => inLeg(x) && sieg(x,p) !== null); return fp(pct(v.filter(x => sieg(x,p)).length, v.length)); };
-    document.getElementById(id).innerHTML = '<dt class="kopfzeile"></dt><dd class="kopfzeile">FDP</dd><dd class="kopfzeile">LDP</dd>' +
-      `<dt>Vorlagen mit beiden Parolen</dt><dd>${b.length}</dd><dd></dd><dt>gleiche Parole</dt><dd>${fp(pct(g, b.length))}</dd><dd></dd>` +
-      `<dt>auf der Seite des Resultats</dt><dd>${s("fdp")}</dd><dd>${s("ldp")}</dd>`; };
-  box("dl-parolen-k", P.kantonal || []);
-  const alle = [...(P.kantonal||[])].filter(x => inLeg(x) && x.fdp && x.ldp && x.fdp !== x.ldp).sort((a,b) => b.datum.localeCompare(a.datum));
-  document.getElementById("parolen-lead").textContent = `Kantonale Vorlagen seit Februar 2021. Bei ${alle.length} Vorlagen haben FDP und LDP im gewählten Zeitraum unterschiedliche Parolen gefasst.`;
-  document.getElementById("t-parolen").innerHTML = '<thead><tr><th>Datum</th><th>Vorlage</th><th class="p">FDP</th><th class="p">LDP</th><th>Resultat</th></tr></thead><tbody>' +
-    alle.map(x => `<tr><td class="num">${kurz(x.datum)}</td><td class="g">${x.link ? `<a href="${esc(x.link)}" target="_blank" rel="noopener">${esc(x.titel)}</a>` : esc(x.titel)}</td><td class="p"><b>${esc(x.fdp)}</b></td><td class="p"><b>${esc(x.ldp)}</b></td><td class="klein">${esc(x.ergebnis||"")}${x.ja_anteil ? " (" + x.ja_anteil + " % Ja)" : ""}</td></tr>`).join("") +
-    (alle.length ? "" : '<tr><td colspan="5" class="klein">Keine Vorlagen mit unterschiedlicher Parole.</td></tr>') + "</tbody>";
-}
 
 function zeichneKommissionen(){
   const K = Z.kommissionen; if (!K) { leer("t-kom","Keine Daten."); return; }
@@ -517,15 +488,6 @@ function zeichneWortmeldungen(){
   }
 }
 
-function zeichneInteressen(){
-  const I = Z.interessen; if (!I) { leer("bars-int","Keine Daten."); return; }
-  const tf = Object.values(I.zaehl.FDP||{}).reduce((a,b)=>a+b,0), tl = Object.values(I.zaehl.LDP||{}).reduce((a,b)=>a+b,0);
-  document.getElementById("int-lead").textContent = `Aktuell gemeldete Interessenbindungen der Ratsmitglieder: FDP ${tf} Einträge von ${I.personen.FDP||0} Personen (${(tf/Math.max(1,I.personen.FDP||1)).toLocaleString("de-CH",{maximumFractionDigits:1})} pro Person), LDP ${tl} Einträge von ${I.personen.LDP||0} Personen (${(tl/Math.max(1,I.personen.LDP||1)).toLocaleString("de-CH",{maximumFractionDigits:1})} pro Person). Die Balken zeigen den Anteil der Branchen.`;
-  const br = [...new Set([...Object.keys(I.zaehl.FDP||{}), ...Object.keys(I.zaehl.LDP||{})])].sort((a,b) => ((I.zaehl.FDP[b]||0)/tf + (I.zaehl.LDP[b]||0)/tl) - ((I.zaehl.FDP[a]||0)/tf + (I.zaehl.LDP[a]||0)/tl));
-  document.getElementById("bars-int").innerHTML = br.map(b => barPaar(b, pct(I.zaehl.FDP[b]||0, tf), pct(I.zaehl.LDP[b]||0, tl), `${I.zaehl.FDP[b]||0} Einträge`, `${I.zaehl.LDP[b]||0} Einträge`)).join("");
-  document.getElementById("t-int").innerHTML = '<thead><tr><th class="p">Partei</th><th>Person</th><th>Interessenbindung</th><th>Branche</th></tr></thead><tbody>' +
-    I.eintraege.map(e => `<tr><td class="p"><b>${e.partei}</b></td><td>${esc(e.name)}</td><td class="g">${esc(e.text)}</td><td class="klein">${esc(e.branche)}</td></tr>`).join("") + "</tbody>";
-}
 
 function zeichneWahlen(){
   const W = Z.wahlen; if (!W) { leer("t-wahl","Keine Daten."); return; }
@@ -544,7 +506,7 @@ function zeichneWahlen(){
 
 
 
-function alles(){ zeichneAusgaben(); zeichneParolen(); zeichneKommissionen(); zeichneWortmeldungen(); zeichneInteressen(); zeichneWahlen(); zeichneKacheln(); zeichneStimmverhalten(); zeichneDifferenzen(); zeichneThemen(); zeichneArten(); zeichneZusammenarbeit(); zeichneVorstoesse(); }
+function alles(){ zeichneAusgaben(); zeichneKommissionen(); zeichneWortmeldungen(); zeichneWahlen(); zeichneKacheln(); zeichneStimmverhalten(); zeichneDifferenzen(); zeichneThemen(); zeichneArten(); zeichneZusammenarbeit(); zeichneVorstoesse(); }
 fLeg.addEventListener("change", () => { L = fLeg.value; diffLimit = 40; vLimit = 50; alles(); });
 ["f-d-thema","f-d-gewinnt","f-d-knapp"].forEach(id => document.getElementById(id).addEventListener("change", () => { diffLimit = 40; zeichneDifferenzen(); }));
 document.getElementById("f-d-suche").addEventListener("input", () => { diffLimit = 40; zeichneDifferenzen(); });
