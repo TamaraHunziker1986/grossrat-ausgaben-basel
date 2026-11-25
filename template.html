@@ -155,7 +155,7 @@ footer strong{font-family:Jost,Arial,sans-serif;font-size:17px}
   <section id="methode" class="methode">
     <h2>So entstehen die Zahlen</h2>
     <p>Grundlage sind die offenen Daten des Grossen Rates auf data.bs.ch: Geschäfte, Vorgänge, Dokumente, Abstimmungsergebnisse und Ratsmitglieder. Gezählt werden Ratschläge und Ausgabenberichte, denen der Grosse Rat seit dem 1. Januar 2026 zugestimmt hat. Budget, Rechnung, Nachtragskredite und Kreditübertragungen sind nicht enthalten.</p>
-    <p>Die Beträge stammen aus den Grossratsbeschlüssen. Einmalige Ausgaben und befristete Beiträge (etwa ein Staatsbeitrag für vier Jahre) werden mit ihrem Gesamtbetrag gezählt. Unbefristet wiederkehrende Ausgaben sind separat ausgewiesen, als Betrag pro Jahr. Beide Summen dürfen nicht zusammengezählt werden.</p>
+    <p>Die Beträge stammen aus den Grossratsbeschlüssen. Einmalige Ausgaben und befristete Beiträge (etwa ein Staatsbeitrag für vier Jahre) werden mit ihrem Gesamtbetrag gezählt. Unbefristet wiederkehrende Ausgaben sind separat ausgewiesen, als Betrag pro Jahr. Beide Summen dürfen nicht zusammengezählt werden. Darlehen, etwa an das Universitätsspital oder die BVB, sind beim Geschäft vermerkt, aber nicht im Total enthalten, weil sie zurückbezahlt werden.</p>
     <p>Für das Stimmverhalten zählt die Schlussabstimmung, falls es eine gibt, sonst die letzte Abstimmung zum Geschäft an diesem Sitzungstag. Massgebend ist die Parteizugehörigkeit der einzelnen Ratsmitglieder. Das junge grüne bündnis (jgb) ist bei den Grünen mitgezählt.</p>
     <p>Die Beträge werden automatisch aus den PDF-Beschlüssen gelesen und von Hand geprüft. Rechtlich massgebend sind allein die Beschlüsse des Grossen Rates.</p>
   </section>
@@ -278,7 +278,7 @@ function zeichneAusgaben(){
   document.getElementById("t-ausgaben").innerHTML = `<thead><tr><th>Sitzung</th><th>Geschäft</th><th class="num">Einmalig und befristet</th><th class="num">Wiederkehrend pro Jahr</th><th class="num">Ja : Nein</th>${SECHS.map(p=>`<th class="p">${esc(p)}</th>`).join("")}</tr></thead><tbody>
   <tr class="summe"><td colspan="2">Total ${rows.length} Geschäfte</td><td class="num">${fr(sE)}</td><td class="num">${fr(sJ)}</td><td colspan="${SECHS.length+1}"></td></tr>
   ${rows.map(a => `<tr><td>${kurzDatum(a.datum)}${a.datum.slice(0,4)}</td>
-    <td class="g"><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.titel)}</a><br><span class="klein">${esc(a.departement||"")}${a.posten.some(p=>p.art==="befristet") ? " · befristet: " + a.posten.filter(p=>p.art==="befristet").map(p=>`${fr(p.jahresbetrag)} pro Jahr${p.jahre?`, ${p.jahre} Jahre`:""}`).join(", ") : ""}</span></td>
+    <td class="g"><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.titel)}</a><br><span class="klein">${esc(a.departement||"")}${a.darlehen ? ` · Darlehen ${fr(a.darlehen)} (nicht im Total)` : ""}${a.posten.some(p=>p.art==="befristet") ? " · befristet: " + a.posten.filter(p=>p.art==="befristet").map(p=>`${fr(p.jahresbetrag)} pro Jahr${p.jahre?`, ${p.jahre} Jahre`:""}`).join(", ") : ""}</span></td>
     <td class="num">${a.einmalig ? `<a href="${esc(a.beschluss)}" target="_blank" rel="noopener">${fr(a.einmalig)}</a>` : ""}</td>
     <td class="num">${a.jaehrlich ? fr(a.jaehrlich) : ""}</td>
     <td class="num">${a.abstimmung ? `${a.abstimmung.ja} : ${a.abstimmung.nein}` : '<span class="klein">ohne Abstimmung</span>'}</td>

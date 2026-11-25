@@ -130,19 +130,26 @@ def name_key(name):
 
 # ---------------------------------------------------------------- Beträge lesen
 
-NUM = r"(\d{1,3}(?:[’'` ]\d{3})+|\d+)(?:[.,](\d{1,2})(?!\d))?"
-AMT = re.compile(r"(?:Fr\.|CHF|Franken)\s*" + NUM + r"(?:\s*\.[–-]+)?\s*(Mio\.?|Millionen|Mrd\.?|Milliarden)?", re.I)
-WIEDERKEHREND = re.compile(r"p\.\s?a\.|pro Jahr|jährlich|wiederkehrend|jährliche|per annum", re.I)
-TOTAL = re.compile(r"(total|insgesamt|gesamthaft|gesamt)\W{0,3}(von\s+)?(Fr\.|CHF)\s*$", re.I)
-JAHRE = re.compile(r"(20\d\d)\s*(?:-|–|bis(?: und mit)?)\s*(20\d\d)")
-KEINE_AUSGABE = re.compile(r"Einnahme|Mehrertr|Erlös|Rückzahlung|Rückerstattung|Kürzung|gekürzt|Verkauf", re.I)
+SEP = "’'`‘ "
+NUM = r"(\d{1,3}(?:[" + SEP + r"]+\d{3})+|\d+)(?:[.,](\d{1,2})(?!\d))?"
+AMT = re.compile(
+    r"(?:(?:Fr\.|CHF)\s*" + NUM + r"(?:\s*\.[–-]+)?\s*(Mio\.?|Millionen|Mrd\.?|Milliarden)?"
+    r"|" + NUM.replace("(\\d", "(?P<n2>\\d", 1).replace("(?:[.,](\\d", "(?:[.,](?P<f2>\\d", 1)
+    + r"\s*(?P<u2>Mio\.?|Millionen)?\s*Franken)", re.I)
+WIEDERKEHREND = re.compile(r"p\.\s?a\.|pro Jahr|jährlich|wiederkehrend|per annum", re.I)
+TOTAL = re.compile(r"(total|insgesamt|gesamthaft|gesamt\w*)(\s+(von|in der Höhe von|in Höhe von))?\s*(Fr\.|CHF)?\s*$", re.I)
+ERHOEHUNG = re.compile(r"\bum\s*(?:Fr\.|CHF)\s*$", re.I)
+JAHRE = re.compile(r"(20\d\d)\s*(?:-|–|bis(?: und mit)?|und)\s*(20\d\d)")
+KEINE_AUSGABE = re.compile(r"Einnahme|Mehrertr|Erlös|Rückzahlung|Rückerstattung|Kürzung|gekürzt|Verkauf|Teuerungsausgleich", re.I)
+DARLEHEN = re.compile(r"Darlehen", re.I)
 
 
 def betrag(m):
-    whole = int(re.sub(r"[’'` ]", "", m.group(1)))
-    frac = m.group(2)
+    g = m.groupdict()
+    raw, frac, unit = (m.group(1), m.group(2), m.group(3)) if m.group(1) else (g["n2"], g["f2"], g["u2"])
+    whole = int(re.sub("[" + SEP + "]", "", raw))
     value = float(f"{whole}.{frac}") if frac else float(whole)
-    unit = (m.group(3) or "").lower()
+    unit = (unit or "").lower()
     if unit.startswith("mio") or unit.startswith("million"):
         value *= 1_000_000
     elif unit.startswith("mrd") or unit.startswith("milliard"):
@@ -150,40 +157,61 @@ def betrag(m):
     return round(value)
 
 
-def beschluss_teil(text):
-    """Nur den eigentlichen Beschluss ab «beschliesst» bis zur Publikationsklausel."""
-    t = text.replace("­", "").replace("\r", "")
+ENDE = re.compile(r"Dieser Beschluss|ist zu publizieren|Die gebundenen Ausgaben|unterliegt dem|Referendum", re.I)
+
+
+def beschluss_bloecke(text):
+    """Alle Beschlussteile ab «beschliesst» bis zur Publikationsklausel (ein PDF kann mehrere enthalten)."""
+    t = text.replace("­", "").replace("\r", "").replace("\f", "\n")
     t = re.sub(r"-\n(?=[a-zäöü])", "", t)
-    m = re.search(r"beschliesst\s*:?", t, re.I)
-    if m:
-        t = t[m.end():]
-    e = re.search(r"Dieser Beschluss|Publikation|ist zu publizieren|unterliegt dem|Referendum", t, re.I)
-    if e and e.start() > 40:
-        t = t[:e.start()]
-    return t
+    t = re.sub(r"(Fr\.|CHF)\s*\n\s*", r"\1 ", t)
+    t = re.sub(r"\n\s*Grosser Rat des Kantons Basel-Stadt\s*\n", "\n", t)
+    starts = [m.end() for m in re.finditer(r"beschliesst\s*:?", t, re.I)] or [0]
+    out = []
+    for i, a in enumerate(starts):
+        b = starts[i + 1] if i + 1 < len(starts) else len(t)
+        block = t[a:b]
+        e = ENDE.search(block)
+        if e and e.start() > 20:
+            block = block[:e.start()]
+        out.append(block)
+    return out
 
 
-def posten_aus_text(text):
-    """Liest Ausgabenposten aus einem Grossratsbeschluss.
+NEUER_POSTEN = re.compile(r"^\s*(?:(?:\d{1,2}\.|[a-z]\)|[IVX]+\.|[-–•])\s*$|(?:\d{1,2}\.|[a-z]\)|[-–•])\s+\S|(?:Fr\.|CHF)\s*\d)")
 
-    Gibt eine Liste von Posten zurück: art = einmalig | befristet | wiederkehrend,
-    betrag (für einmalig/befristet: Gesamtbetrag; für wiederkehrend: pro Jahr),
-    jahresbetrag, jahre, quelle (Textstelle).
-    """
-    t = beschluss_teil(text)
-    teile = re.split(r"\n\s*(?=(?:\d{1,2}\.|[a-z]\)|[IVX]+\.)\s)", "\n" + t)
+
+WEITER = re.compile(r"(\bvon|\bauf|\bum|total|insgesamt|gesamthaft|\bbis|\bund|\bje|Höhe|,|\()\s*$", re.I)
+
+
+def segmente(block):
+    segs, cur = [], []
+    for line in block.split("\n"):
+        if NEUER_POSTEN.match(line) and cur and not WEITER.search(cur[-1]):
+            segs.append(" ".join(cur))
+            cur = []
+        if line.strip() and not re.fullmatch(r"\s*(?:\d{1,2}\.|[a-z]\)|[IVX]+\.|[-–•])\s*", line):
+            cur.append(line.strip())
+    if cur:
+        segs.append(" ".join(cur))
+    return [re.sub(r"\s+", " ", s).strip() for s in segs if s.strip()]
+
+
+def posten_aus_block(block):
     posten = []
-    for teil in teile:
-        satz = re.sub(r"\s+", " ", teil).strip()
+    for satz in segmente(block):
         treffer = list(AMT.finditer(satz))
         if not treffer or KEINE_AUSGABE.search(satz):
             continue
         werte = [betrag(m) for m in treffer]
         if max(werte) < 1000:
             continue
-        total = None
+        total = erh = None
         for m, w in zip(treffer, werte):
-            if TOTAL.search(satz[max(0, m.start() - 30):m.start() + len(m.group(0).split()[0])]):
+            vor = satz[max(0, m.start() - 40):m.start() + (4 if m.group(0)[:3] in ("Fr.", "CHF") else 0)]
+            if ERHOEHUNG.search(vor) and erh is None:
+                erh = w
+            elif TOTAL.search(vor) and total is None:
                 total = w
         jahre = None
         j = JAHRE.search(satz)
@@ -191,36 +219,72 @@ def posten_aus_text(text):
             a, b = int(j.group(1)), int(j.group(2))
             if 0 < b - a < 20:
                 jahre = b - a + 1
-        wk = bool(WIEDERKEHREND.search(satz))
         p = {"quelle": satz[:600]}
-        if wk:
-            jahresbetrag = werte[0]
-            if total and total != jahresbetrag:
-                p.update(art="befristet", betrag=total, jahresbetrag=jahresbetrag, jahre=jahre)
-            elif jahre:
-                p.update(art="befristet", betrag=jahresbetrag * jahre, jahresbetrag=jahresbetrag, jahre=jahre)
+        haupt = erh if erh is not None else werte[0]
+        if DARLEHEN.search(satz):
+            p.update(art="darlehen", betrag=erh or total or haupt, jahresbetrag=None, jahre=None)
+        elif WIEDERKEHREND.search(satz) and erh is None:
+            jaehrlich = [w for m, w in zip(treffer, werte)
+                         if re.match(r"\W{0,3}(p\.\s?a\.|pro Jahr|jährlich|per annum)", satz[m.end():m.end() + 20], re.I)]
+            jb = jaehrlich[0] if jaehrlich else next((w for w in werte if w != total), werte[0])
+            groesser = [w for w in werte if w > jb]
+            gesamt = total if total and total != jb else (groesser[0] if groesser and jaehrlich else None)
+            if gesamt:
+                p.update(art="befristet", betrag=gesamt, jahresbetrag=jb, jahre=jahre)
+            elif jahre and jahre > 1:
+                p.update(art="befristet", betrag=jb * jahre, jahresbetrag=jb, jahre=jahre)
             else:
-                p.update(art="wiederkehrend", betrag=jahresbetrag, jahresbetrag=jahresbetrag, jahre=None)
+                p.update(art="wiederkehrend", betrag=jb, jahresbetrag=jb, jahre=None)
         else:
-            p.update(art="einmalig", betrag=total or max(werte), jahresbetrag=None, jahre=None)
+            p.update(art="einmalig", betrag=haupt if erh is not None else (total or haupt), jahresbetrag=None, jahre=None)
         posten.append(p)
 
-    # Sammelposten weglassen, wenn er die Summe der übrigen ist (z. B. «insgesamt …, aufgeteilt in …»)
+    # Einleitender Sammelposten («… bewilligt. Diese Ausgaben teilen sich wie folgt auf»)
     if len(posten) > 1:
+        posten = [p for p in posten if not re.search(r"teil(en|t) sich|wie folgt|aufgeteilt", p["quelle"], re.I)] or posten
+    # Sammelposten weglassen, wenn er die Summe der übrigen ist
+    while len(posten) > 1:
         roh = [p["jahresbetrag"] if p["art"] == "wiederkehrend" else p["betrag"] for p in posten]
-        for i, p in enumerate(posten):
+        weg = None
+        for i in range(len(posten)):
             rest = sum(r for k, r in enumerate(roh) if k != i)
-            if rest and abs(roh[i] - rest) <= max(2, rest * 0.001):
-                posten.pop(i)
+            if rest and abs(roh[i] - rest) <= max(2, rest * 0.002):
+                weg = i
                 break
-    # Gleiche Posten nicht doppelt zählen
+        if weg is None:
+            break
+        posten.pop(weg)
     gesehen, eindeutig = set(), []
     for p in posten:
-        k = (p["art"], p["betrag"])
+        k = (p["art"], p["betrag"], p["quelle"][:80])
         if k not in gesehen:
             gesehen.add(k)
             eindeutig.append(p)
     return eindeutig
+
+
+def gesamtbetraege(text):
+    """Gesamtbeträge aus Einleitungssätzen («Gesamtbetrag von Fr. …, teilt sich wie folgt auf»)."""
+    out = []
+    for block in beschluss_bloecke(text):
+        for satz in segmente(block):
+            if re.search(r"teil(en|t) sich|wie folgt|aufgeteilt", satz, re.I) and not re.search(r"\bum\s*(Fr\.|CHF)", satz):
+                m = AMT.search(satz)
+                if m:
+                    out.append(betrag(m))
+    return out
+
+
+def posten_aus_text(text):
+    """Ausgabenposten aus einem Grossratsbeschluss.
+
+    art = einmalig | befristet | wiederkehrend | darlehen; betrag = Gesamtbetrag
+    (bei wiederkehrend: pro Jahr).
+    """
+    out = []
+    for block in beschluss_bloecke(text):
+        out.extend(posten_aus_block(block))
+    return out
 
 
 def pdf_text(url):
@@ -268,7 +332,8 @@ def main():
     print("Vorgänge laden", file=sys.stderr)
     vorgaenge = export("100314", f'siz_datum>="{START}"',
                        "siz_datum,siz_nr,signatur_ges,titel_ges,ga_rr_gr,vermerk,url_ges")
-    sitzungen = sorted({day(v["siz_datum"]) for v in vorgaenge if v.get("siz_datum")})
+    vorgaenge = [v for v in vorgaenge if v.get("siz_datum") and day(v["siz_datum"]) <= heute]
+    sitzungen = sorted({day(v["siz_datum"]) for v in vorgaenge})
 
     ausgaben_v, postulat_v, vorstoss_v = {}, {}, {}
     for v in vorgaenge:
@@ -378,17 +443,21 @@ def main():
         jaehrl = sum(p["betrag"] for p in posten if p["art"] == "wiederkehrend")
         return einm, jaehrl
 
+    def darlehen(posten):
+        return sum(p["betrag"] for p in posten if p["art"] == "darlehen")
+
     def urheber(g):
         if not g:
             return None, None, []
         name = g.get("name_vorname_urheber") or g.get("vorname_urheber")
         if g.get("gremientyp_urheber") and g.get("gremientyp_urheber") != "Mitglied":
             name = g.get("vorname_urheber") or name
-        mit = [{"name": n, "partei": p} for n, p in g.get("miturheber", [])]
-        return name, partei_norm(g.get("partei_kname_urheber")), mit
+        mit = [{"name": n, "partei": p or partei_von.get(name_key(n))} for n, p in g.get("miturheber", [])]
+        partei = partei_norm(g.get("partei_kname_urheber")) or partei_von.get(name_key(name))
+        return name, partei, mit
 
     print("Grossratsbeschlüsse lesen", file=sys.stderr)
-    ausgaben = []
+    ausgaben, gesehene_beschluesse = [], {}
     for sig, v in sorted(ausgaben_v.items(), key=lambda x: x[1]["siz_datum"]):
         datum = day(v["siz_datum"])
         url = beschluss_pdf(sig, datum)
@@ -398,6 +467,12 @@ def main():
         g = geschaefte.get(sig, {})
         pruef.append(f"## {datum} {sig} {v['titel_ges']}")
         pruef.append(f"Beschluss: {url or 'nicht gefunden'}" + (" (korrigiert)" if korr else ""))
+        if url and not korr:
+            summe = sum(p["jahresbetrag"] if p["art"] == "wiederkehrend" else p["betrag"] for p in posten)
+            for gb in gesamtbetraege(pdf_text(url)):
+                if abs(gb - summe) > 2:
+                    pruef.append(f"**Achtung:** Gesamtbetrag laut Beschluss Fr. {gb:,}".replace(",", "'")
+                                 + f", Summe der gelesenen Posten Fr. {summe:,}".replace(",", "'"))
         for p in posten:
             pruef.append(f"- {p['art']}: Fr. {p['betrag']:,}".replace(",", "'") + f"  \n  «{p['quelle'][:400]}»")
         if not posten:
@@ -405,10 +480,15 @@ def main():
         pruef.append("")
         if not posten:
             continue
+        fingerprint = (datum, tuple(sorted((p["art"], p["betrag"]) for p in posten)))
+        if fingerprint in gesehene_beschluesse:
+            pruef.append(f"(gleicher Beschluss wie {gesehene_beschluesse[fingerprint]}, nicht doppelt gezählt)")
+            continue
+        gesehene_beschluesse[fingerprint] = sig
         ausgaben.append({
             "signatur": sig, "datum": datum, "titel": v["titel_ges"], "typ": v.get("ga_rr_gr"),
             "departement": g.get("departement_ges"), "url": v.get("url_ges") or g.get("url_ges"),
-            "beschluss": url, "posten": posten, "einmalig": einm, "jaehrlich": jaehrl,
+            "beschluss": url, "posten": posten, "einmalig": einm, "jaehrlich": jaehrl, "darlehen": darlehen(posten),
             "korrigiert": korr, "bemerkung": bem, "abstimmung": abstimmung(sig, datum),
         })
 
@@ -420,9 +500,9 @@ def main():
         if not posten and url:
             # Budgetpostulate: Betrag steht oft im Fliesstext («um Fr. … erhöhen»)
             t = re.sub(r"\s+", " ", pdf_text(url))
-            m = re.search(r"um\s+(?:Fr\.|CHF)\s*" + NUM + r"\s*(Mio\.?)?", t)
+            m = re.search(r"um\s+((?:Fr\.|CHF)\s*" + NUM + r"\s*(Mio\.?)?)", t)
             if m:
-                posten = [{"art": "einmalig", "betrag": betrag(AMT.search(m.group(0)[3:])), "jahresbetrag": None,
+                posten = [{"art": "einmalig", "betrag": betrag(AMT.search(m.group(1))), "jahresbetrag": None,
                            "jahre": None, "quelle": t[max(0, m.start() - 200):m.end() + 100]}]
         posten, korr, bem = mit_korrektur(sig, posten)
         einm, _ = summen(posten)
