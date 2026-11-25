@@ -79,9 +79,93 @@ Stand 25.11.2026
 - 21.5499 (LDP): Interpellation Nr. 91 Michael Hug betreffend Verschlechterung der Dienstleistungen der Post durch Verzicht, Briefkästen wie bisher am Abend zu leeren
 - 21.5251 (LDP): Motion Annina von Falkenstein zur Änderung des Bestattungsgesetzes betreffend Publikation von Todesfällen
 
+## Mitunterzeichnende aus PDFs
+
+- gelesen: 121, ohne PDF: keine
+- 26.5503 (LDP): Bruno Lötscher-Steiger, Daniel Seiler, Lorenz Amiet
+- 26.5502 (FDP): Bruno Lötscher-Steiger, Jessica Brandenburger, Oliver Thommen, Daniel Seiler, Lorenz Amiet
+- 26.5443 (LDP): Nicole Strahm-Lavanchy, Daniel Albietz, Stefan Suter, Joël Thüring, Luca Urgese
+- 26.5377 (LDP): Bruno Lötscher-Steiger, Thomas Widmer-Huber, Beat K. Schaller, Johannes Barth, Daniel Albietz, Gabriel Nigon, Joël Thüring, Balz Herter, David Jenny
+- 26.5371 (LDP): Annina von Falkenstein, Nicole Strahm-Lavanchy, Catherine Alioth, Daniel Hettich, Gabriel Nigon, Adrian Iselin, Philip Karger, Lukas Faesch, Lukas Hug, Alex Ebi
+- 26.5370 (FDP): Jenny Schweizer, Remo Gallacchi, Brigitte Kühne, Gabriel Nigon, Lukas Faesch, Lorenz Amiet, Balz Herter, Luca Urgese
+- 26.5369 (FDP): Franz-Xaver Leonhardt, Christian C. Moesch, Thomas Widmer-Huber, Lydia Isler-Christ, Christophe Haller, Silvia Schweizer, Michela Seggiani, Jean-Luc Perret, Michael Graber, Johannes Barth, Daniel Albietz, Daniel Hettich, Lukas Faesch, Felix Wehrli, Joël Thüring, Balz Herter, Luca Urgese, Tim Cuénod
+- 26.5328 (FDP): Annina von Falkenstein, Julia Baumgartner, Franziska Stier, Laetitia Block, Brigitte Gysin, Brigitte Kühne, Marina Schai, Jo Vergeat
+- 26.5321 (FDP): Alex Ebi
+- 26.5313 (LDP): (niemand)
+- 26.5312 (LDP): (niemand)
+- 26.5306 (FDP): Niggi Daniel Rechsteiner, Lydia Isler-Christ, Michela Seggiani, Laetitia Block, Jérôme Thiriet, Balz Herter
+- 26.5279 (FDP): Bruno Lötscher-Steiger, Christian C. Moesch, Christophe Haller, Silvia Schweizer, Catherine Alioth, Claudio Miozzari, Brigitta Gerber, Bülent Pekerman, Pascal Messerli, Remo Gallacchi, Johannes Barth, Daniel Albietz, Gabriel Nigon, Daniel Seiler, Joël Thüring, Daniel Gmür, Béla Bartha, Balz Herter, Luca Urgese, Jo Vergeat, Hanna Bay
+- 26.5278 (FDP): Nicole Strahm-Lavanchy, Thomas Widmer-Huber, Jenny Schweizer, Laetitia Block, Johannes Barth, Daniel Hettich, Stefan Suter, Felix Wehrli, Luca Urgese, David Jenny
+- 26.5249 (LDP): Daniela Stumpf Rutschmann, Annina von Falkenstein, Nicole Strahm-Lavanchy, Thomas Widmer-Huber, Lydia Isler-Christ, Silvia Schweizer, Catherine Alioth, Bülent Pekerman, Daniel Albietz, Gabriel Nigon, Adrian Iselin, Philip Karger, Lukas Faesch
+- 26.5248 (LDP): Catherine Alioth, Daniel Albietz, Jérôme Thiriet, Tobias Christ, Lorenz Amiet, Luca Urgese, Jo Vergeat
+- 26.5236 (FDP): Annina von Falkenstein, Bülent Pekerman, Daniel Albietz, Lorenz Amiet
+- 26.5112 (LDP): Niggi Daniel Rechsteiner, Patrizia Bernasconi, Christoph Hochuli, Patrick Fischer, Luca Urgese, Jo Vergeat
+- 26.5110 (FDP): Oliver Bolliger, Michael Graber, Daniel Albietz, Oliver Thommen, Lorenz Amiet
+- 26.5018 (FDP): Franz-Xaver Leonhardt, Daniel Hettich, Tobias Christ, Lorenz Amiet, Lisa Mathys
+- 25.5550 (LDP): Annina von Falkenstein, Beat K. Schaller, Jenny Schweizer, Johannes Barth, Daniel Albietz, Daniel Hettich, Gabriel Nigon, Adrian Iselin, Daniel Seiler, Roger Stalder, Stefan Suter, Felix Wehrli, Michael Hug, Luca Urgese
+- 25.5549 (LDP): Claudio Miozzari, Jérôme Thiriet, Joël Thüring, Luca Urgese
+- 25.5516 (LDP): Melanie Nussbaumer, Lydia Isler-Christ, Beat K. Schaller, Johannes Barth, Amina Trevisan, Jérôme Thiriet, Luca Urgese
+- 25.5508 (LDP): Beat K. Schaller, Jenny Schweizer, Johannes Barth, Jérôme Thiriet, Joël Thüring, Luca Urgese
+- 25.5495 (FDP): Franz-Xaver Leonhardt, Lydia Isler-Christ, Catherine Alioth, Beat K. Schaller, Claudio Miozzari, Brigitta Gerber, Patrick Fischer, Jenny Schweizer, Michael Graber, Laetitia Block, Brigitte Kühne, Adrian Iselin, Daniel Seiler, Tobias Christ, Lorenz Amiet, Felix Wehrli, Joël Thüring, Béla Bartha, Michael Hug, Luca Urgese, David Jenny
+- 25.5494 (LDP): Annina von Falkenstein, Nicole Strahm-Lavanchy, Christian C. Moesch, Michela Seggiani, Catherine Alioth, Beat K. Schaller, Laetitia Block, Johannes Barth, Gabriel Nigon, Philip Karger, Mahir Kabakci, Tobias Christ, Stefan Suter, Lorenz Amiet, Joël Thüring, Michael Hug, Jo Vergeat, Tim Cuénod
+- 25.5394 (LDP): Niggi Daniel Rechsteiner, Bruno Lötscher-Steiger, Annina von Falkenstein, Christian C. Moesch, Claudia Baumgartner, Thomas Widmer-Huber, Melanie Nussbaumer, Lydia Isler-Christ, Julia Baumgartner, Christine Keller, Michela Seggiani, Catherine Alioth, Beat K. Schaller, Patrick Fischer, Nicola Goepfert, Bülent Pekerman, Michael Graber, Laurin Hoppler, Oliver Thommen, Jérôme Thiriet, Daniel Hettich, Adrian Iselin, Daniel Seiler, Philip Karger, Mahir Kabakci, Tobias Christ, Roger Stalder, Anouk Feurer, Lukas Faesch, Stefan Suter, Lorenz Amiet, Felix Wehrli, Joël Thüring, Michael Hug, Luca Urgese, David Jenny, Heidi Mück, Jo Vergeat, Tim Cuénod, Hanna Bay
+- 25.5320 (LDP): Bruno Lötscher-Steiger, Christian C. Moesch, Catherine Alioth, Oliver Bolliger
+- 25.5299 (LDP): Bruno Lötscher-Steiger, Christoph Hochuli, Catherine Alioth, Nicola Goepfert, Jenny Schweizer, Anouk Feurer, Luca Urgese
+- 25.5295 (LDP): Annina von Falkenstein, Michela Seggiani, Remo Gallacchi, Amina Trevisan, Brigitte Gysin, Anouk Feurer, Béla Bartha, David Jenny
+- 25.5235 (LDP): Daniela Stumpf Rutschmann, Annina von Falkenstein, Jessica Brandenburger, Christian C. Moesch, Melanie Eberhard, Anina Ineichen, Daniel Albietz, Tobias Christ, Anouk Feurer, Stefan Suter, Lea Wirz
+- 25.5016 (LDP): Bruno Lötscher-Steiger, Christian C. Moesch, Patrick Fischer, Jenny Schweizer, Gabriel Nigon, Daniel Seiler, Roger Stalder, Joël Thüring
+- 24.5545 (LDP): Nicole Strahm-Lavanchy, Roger Stalder, Joël Thüring, Michael Hug
+- 24.5522 (LDP): Niggi Daniel Rechsteiner, Bruno Lötscher-Steiger, Annina von Falkenstein, Christian C. Moesch, Thomas Widmer-Huber, Christoph Hochuli, Silvia Schweizer, Bülent Pekerman, Daniel Albietz, Brigitte Kühne, Daniel Hettich, Gabriel Nigon, Mahir Kabakci, Edibe Gölgeli, Anouk Feurer, Lorenz Amiet, Felix Wehrli, Béla Bartha
+- 24.5485 (LDP): Bruno Lötscher-Steiger, Christian C. Moesch, Christoph Hochuli, Patrick Fischer, Bülent Pekerman, Gabriel Nigon, Daniel Seiler, Lukas Faesch, Stefan Suter, Joël Thüring, Luca Urgese
+- 24.5466 (LDP): Franz-Xaver Leonhardt, Raffaela Hanauer, Jean-Luc Perret, Pascal Messerli, Brigitte Kühne, Daniel Hettich, Lisa Mathys
+- 24.5463 (LDP): Annina von Falkenstein, Franz-Xaver Leonhardt, Christoph Hochuli, Silvia Schweizer, Bülent Pekerman, Pascal Messerli, Gabriel Nigon, Lukas Faesch, Lea Wirz
+- 24.5350 (LDP): Jenny Schweizer, Amina Trevisan, Brigitte Gysin, Sasha Mazzotti, Béla Bartha, David Jenny, Heidi Mück
+- 24.5343 (LDP): Anina Ineichen, Michael Hug, Luca Urgese, David Jenny
+- 24.5342 (LDP): Philip Karger, Michael Hug, Luca Urgese, David Jenny
+- 24.5296 (FDP): Claudia Baumgartner, Lorenz Amiet
+- 24.5275 (FDP): Annina von Falkenstein, Thomas Widmer-Huber, Daniel Albietz, Tobias Christ, Lorenz Amiet
+- 24.5267 (FDP): Christine Keller, Catherine Alioth, Bülent Pekerman, Oliver Bolliger, Pascal Messerli, Laurin Hoppler, Edibe Gölgeli
+- 24.5258 (LDP): Bruno Lötscher-Steiger, Annina von Falkenstein, Gianna Hablützel-Bürki, Lydia Isler-Christ, Jérôme Thiriet, Michael Hug, David Jenny, Leoni Bolz, Tim Cuénod
+- 24.5248 (FDP): Niggi Daniel Rechsteiner, Franz-Xaver Leonhardt, Claudia Baumgartner, Michela Seggiani, Beat K. Schaller, Jérôme Thiriet, Joël Thüring, Luca Urgese, David Jenny
+- 24.5213 (LDP): Niggi Daniel Rechsteiner, Franz-Xaver Leonhardt, Melanie Nussbaumer, Lydia Isler-Christ, Beda Baumgartner, Laurin Hoppler, Jérôme Thiriet, Philip Karger, Joël Thüring, Luca Urgese
+- 24.5184 (LDP): (niemand)
+- 24.5179 (LDP): (niemand)
+- 24.5105 (FDP): Nicole Strahm-Lavanchy, Christian C. Moesch, Lydia Isler-Christ, Daniel Albietz, Brigitte Kühne, Felix Wehrli, Joël Thüring, Luca Urgese, Jo Vergeat
+- 24.5056 (FDP): Niggi Daniel Rechsteiner, Annina von Falkenstein, Patrick Fischer, Bülent Pekerman, Pascal Messerli, Daniel Albietz, Gabriel Nigon, Daniel Seiler, Tobias Christ, Lorenz Amiet, Michael Hug, David Jenny
+- 24.5022 (LDP): Niggi Daniel Rechsteiner, Thomas Widmer-Huber, Beda Baumgartner, Laurin Hoppler, Anouk Feurer, Joël Thüring, Luca Urgese, Jo Vergeat
+- 24.5021 (LDP): Annina von Falkenstein, Pascal Messerli, Tobias Christ, Balz Herter, Luca Urgese
+- 23.5659 (LDP): Luca Urgese
+- 23.5646 (FDP): Christoph Hochuli
+- 23.5645 (LDP): Franz-Xaver Leonhardt, Claudia Baumgartner, Lydia Isler-Christ, Christoph Hochuli, Jenny Schweizer, Jérôme Thiriet, Daniel Hettich, Joël Thüring, Luca Urgese, Tim Cuénod
+- 23.5640 (LDP): (niemand)
+- 23.5637 (LDP): Beat K. Schaller, Daniel Albietz, Gabriel Nigon, Edibe Gölgeli, Lukas Faesch
+- 23.5629 (LDP): Niggi Daniel Rechsteiner, Nicole Strahm-Lavanchy, Franz-Xaver Leonhardt, Sandra Bothe-Wenk, Michela Seggiani, Beat K. Schaller, Daniel Hettich, Mahir Kabakci, Stefan Suter, Lorenz Amiet, Luca Urgese
+- 23.5590 (FDP): Niggi Daniel Rechsteiner, Franz-Xaver Leonhardt, Daniel Seiler, Lorenz Amiet, Michael Hug
+- 23.5577 (FDP): Niggi Daniel Rechsteiner, Annina von Falkenstein, Patrick Fischer, Jenny Schweizer, Balz Herter, Luca Urgese, Alex Ebi
+- 23.5576 (LDP): Niggi Daniel Rechsteiner, Pascal Messerli, Daniel Seiler
+- 23.5572 (FDP): Niggi Daniel Rechsteiner, Pascal Messerli, Michael Hug
+- 23.5571 (LDP): Niggi Daniel Rechsteiner, Thomas Widmer-Huber, Michela Seggiani, Beat K. Schaller, Laurin Hoppler, Mahir Kabakci, Anouk Feurer, Lukas Faesch, Stefan Suter, Barbara Heer, Balz Herter, David Jenny
+- 23.5539 (LDP): Jenny Schweizer, Sasha Mazzotti, Joël Thüring, Béla Bartha, David Jenny
+- 23.5532 (FDP): Christoph Hochuli, Brigitte Kühne, Jérôme Thiriet, Daniel Seiler, Joël Thüring, Lisa Mathys
+- 23.5497 (FDP): Niggi Daniel Rechsteiner, Annina von Falkenstein, Joël Thüring
+- 23.5477 (FDP): Niggi Daniel Rechsteiner, Annina von Falkenstein, Christine Keller, Daniel Albietz, Joël Thüring
+- 23.5473 (LDP): Niggi Daniel Rechsteiner, Bruno Lötscher-Steiger, Annina von Falkenstein, Franz-Xaver Leonhardt, Christian C. Moesch, Catherine Alioth, Daniel Albietz, Gabriel Nigon, Tobias Christ, Joël Thüring, Michael Hug, Luca Urgese, Jo Vergeat, Tim Cuénod
+- 23.5454 (FDP): Niggi Daniel Rechsteiner, Franz-Xaver Leonhardt, Christian C. Moesch, Lydia Isler-Christ, Jean-Luc Perret, Oliver Bolliger, Daniel Albietz, Tobias Christ, Lorenz Amiet, Joël Thüring, Luca Urgese, David Jenny, Jo Vergeat
+- 23.5348 (FDP): Daniel Seiler, Joël Thüring, Balz Herter
+- 23.5332 (LDP): Bruno Lötscher-Steiger, Annina von Falkenstein, Nicole Strahm-Lavanchy, Christian C. Moesch, Lydia Isler-Christ, Melanie Eberhard, Catherine Alioth, Nicola Goepfert, Jenny Schweizer, Oliver Bolliger, Laurin Hoppler, Brigitte Gysin, Oliver Thommen, Jérôme Thiriet, Sasha Mazzotti, Daniel Hettich, Adrian Iselin, Daniel Seiler, Philip Karger, Mahir Kabakci, Roger Stalder, Harald Friedl, Anouk Feurer, Lukas Faesch, Fleur Weibel, Lorenz Amiet, Felix Wehrli, Joël Thüring, Béla Bartha, Michael Hug, Balz Herter, Luca Urgese, Heidi Mück, Jo Vergeat
+- 23.5329 (LDP): Nicole Strahm-Lavanchy, Thomas Widmer-Huber, Sasha Mazzotti, Adrian Iselin, Edibe Gölgeli, Stefan Suter, Felix Wehrli
+- 23.5327 (FDP): Niggi Daniel Rechsteiner, Franz-Xaver Leonhardt, Christian C. Moesch, Beat K. Schaller, Daniel Albietz, Philip Karger, Mahir Kabakci, Seyit Erdogan, Lorenz Amiet, Felix Wehrli, Joël Thüring, Michael Hug, Balz Herter, Luca Urgese, Tim Cuénod, Alex Ebi
+- 23.5268 (LDP): (niemand)
+- 23.5245 (FDP): Niggi Daniel Rechsteiner, Jérôme Thiriet, Daniel Seiler, Roger Stalder, Joël Thüring, Michael Hug, Lisa Mathys, Balz Herter, Heidi Mück
+- 23.5234 (LDP): Annina von Falkenstein, Nicole Strahm-Lavanchy, Lydia Isler-Christ, Catherine Alioth, Daniel Hettich, Adrian Iselin, Philip Karger, Alex Ebi
+- 23.5230 (LDP): Catherine Alioth, Brigitte Gysin, Sasha Mazzotti, Anouk Feurer, Felix Wehrli, Joël Thüring, Michael Hug, Balz Herter, Jo Vergeat
+- 23.5216 (FDP): Claudia Baumgartner, Thomas Widmer-Huber, Catherine Alioth, Nicola Goepfert, Daniel Albietz, Daniel Seiler, Mahir Kabakci, Edibe Gölgeli, Fleur Weibel, Lorenz Amiet, Barbara Heer, Felix Wehrli, Luca Urgese, Jo Vergeat, Alex Ebi
+- 23.5211 (FDP): Niggi Daniel Rechsteiner, Christoph Hochuli, Jérôme Thiriet, Joël Thüring, Balz Herter, Luca Urgese, David Jenny, Jo Vergeat, Tim Cuénod
+- 23.5114 (FDP): Franz-Xaver Leonhardt, Pascal Messerli, Daniel Hettich, Tobias Christ, Tim Cuénod
+
 ## Zusätzliche Auswertungen
 
 - Ausgaben: 237 Geschäfte aus docs/data.json, 122 mit Abstimmungsdaten
 - Wahlen: 2020: FDP 7.9 %, LDP 13.82 %, Sitze 7/14; 2024: FDP 7.62 %, LDP 11.85 %, Sitze 7/12
 - Kommissionen: 2021: 17 Gremien mit FDP/LDP; 2025: 17 Gremien mit FDP/LDP
-- Wortmeldungen: 64 Protokolle, 3 nicht lesbar. Beispiele: 2021-02-03: François Bocherens (LDP) | 2021-02-03: Lukas Faesch (LDP) | 2021-02-03: Nicole Strahm-Lavanchy (LDP) | 2021-02-03: André Auderset (LDP) | 2021-02-03: Andreas Zappalà (FDP) | 2021-02-03: Catherine Alioth (LDP) | 2021-02-03: Lydia Isler-Christ (LDP) | 2021-02-03: Karin Sartorius (FDP) | 2021-02-03: Raoul I. Furlano (LDP) | 2021-02-03: Thomas Müry (LDP) | 2021-02-03: Luca Urgese (FDP) | 2021-02-03: Luca Urgese (FDP) | 2021-02-03: Luca Urgese (FDP) | 2021-02-03: Lydia Isler-Christ (LDP) | 2021-02-03: Michael Hug (LDP) | 2021-02-03: Luca Urgese (FDP) | 2021-02-03: Olivier Battaglia (LDP) | 2021-02-03: Andreas Zappalà (FDP) | 2021-02-03: Thomas Müry (LDP) | 2021-02-03: Luca Urgese (FDP) | 2021-02-03: Luca Urgese (FDP) | 2021-02-03: Lukas Faesch (LDP) | 2021-02-03: Raoul Furlano (LDP) | 2021-02-03: André Auderset (LDP) | 2021-02-03: Michael Hug (LDP)
+- Wortmeldungen: 61 Protokolle gelesen, nicht verfügbar: 2026-09-09, 2026-10-14, 2026-11-11

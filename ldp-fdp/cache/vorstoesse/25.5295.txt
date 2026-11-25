@@ -1,0 +1,47 @@
+Anzug betreffend Digitalisierung des Antrags auf Stipendien und Erhebung einer
+umfassenden Statistik
+
+25.5295.01
+
+Der Prozess zur Beantragung von Ausbildungsbeiträgen (Stipendien) ist für die Antragstellenden sehr aufwendig.
+Bei jedem Antrag müssen die Unterlagen erneut in physischer Form eingereicht werden. Auch für das zuständige
+Amt für Ausbildungsbeiträge ist dieser analoge Ablauf kaum effizient. Derzeit ist lediglich die Vorabklärung über
+ein Webformular möglich. Dass ein vollständig digitales Verfahren möglich ist, zeigt das Beispiel der Stelle für
+Studienfinanzierung der ETH Zürich. Auch die Steuererklärung im Kanton Basel-Stadt - die von deutlich mehr
+Personen eingereicht wird als ein Stipendienantrag – ist mittlerweile vollständig digital einreichbar.
+Ein vollständig digitaler Ablauf des Stipendienverfahrens würde nicht nur die Effizienz erhöhen und den
+administrativen Aufwand auf Seiten der Antragstellenden wie auch der Verwaltung reduzieren, sondern
+gleichzeitig auch die Möglichkeit schaffen, ohne zusätzlichen Aufwand eine umfassende Statistik über die
+Anträge zu führen. Dabei könnten neben der Anzahl genehmigter und abgelehnter Anträge auch weitere
+relevante Informationen wie die Bearbeitungsdauer, die Beitragshöhe, die Ausbildungsrichtung oder der
+Bildungsgang systematisch erfasst und ausgewertet werden.
+Entsprechend fordern die Anzugsteller den Regierungsrat dazu auf zu prüfen und zu berichten:
+1. Wie der Prozess zur Beantragung von Stipendien vollständig digitalisiert werden kann inklusive der sicheren
+elektronischen Einreichung aller erforderlichen Unterlagen und der elektronischen Kommunikation mit den
+Antragstellenden.
+2. Welche technischen, rechtlichen oder organisatorischen Voraussetzungen hierfür geschaffen werden
+müssen.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+
+Ob und wie bestehende lT-Infrastrukturen des Kantons für ein solches Vorhaben genutzt oder erweitert
+werden können.
+Welche finanziellen und personellen Ressourcen für die Umsetzung einer vollständigen Digitalisierung des
+Verfahrens notwendig wären.
+Wie eine umfassende, standardisierte und datenschutzkonforme Statistik über die eingereichten
+Stipendienanträge automatisiert geführt werden kann.
+Welche Indikatoren (z. B. Bearbeitungsdauer, Beitragshöhe, Ablehnungsgründe, Bildungsinstitutionen,
+Ausbildungsniveaus, soziale Kriterien) sinnvollerweise in einer solchen Statistik erfasst werden sollen.
+In welchem Zeitraum eine schrittweise oder vollständige Umsetzung möglich wäre.
+Ob und inwiefern Synergien mit bestehenden digitalen Verwaltungsprozessen (z. B. digitale Steuererklärung,
+Online-Plattformen anderer Ämter) genutzt werden können.
+Welche Best-Practice-Beispiele anderer Kantone oder Institutionen als Vorbild dienen könnten.
+Catherine Alioth, Raoul I. Furlano, David Jenny, Anouk Feurer, Béla Bartha, Sandra Bothe, Michela
+Seggiani, Brigitte Gysin, Remo Gallacchi, Amina Trevisan, Annina von Falkenstein
+
+
