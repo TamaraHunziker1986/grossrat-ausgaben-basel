@@ -1,5 +1,5 @@
 """Passwortschutz wie auf der Ausgaben-Seite: AES-GCM, Schlüssel per PBKDF2 aus dem Passwort.
-Das Passwort kommt aus dem GitHub-Secret SITE_PASSWORD (gleiches Passwort für beide Seiten)."""
+Passwort aus dem GitHub-Secret LDP_FDP_PASSWORD. SITE_PASSWORD (Ausgaben-Seite) dient nur zum Lesen der Ausgabendaten."""
 import base64
 import hashlib
 import json
@@ -37,7 +37,7 @@ async function oeffnen(pw, still){
     const key = await crypto.subtle.deriveKey({name:"PBKDF2", salt:b64(P.salt), iterations:P.iter, hash:"SHA-256"},
       basis, {name:"AES-GCM", length:256}, false, ["decrypt"]);
     const klar = await crypto.subtle.decrypt({name:"AES-GCM", iv:b64(P.iv)}, key, b64(P.data));
-    try { sessionStorage.setItem("gr-pw", pw); } catch(e) {}
+    try { sessionStorage.setItem("ldpfdp-pw", pw); } catch(e) {}
     const html = new TextDecoder().decode(klar);
     document.open(); document.write(html); document.close();
   } catch(e) {
@@ -45,7 +45,7 @@ async function oeffnen(pw, still){
   }
 }
 document.getElementById("f").addEventListener("submit", e => { e.preventDefault(); oeffnen(document.getElementById("pw").value); });
-try { const gespeichert = sessionStorage.getItem("gr-pw"); if (gespeichert) oeffnen(gespeichert, true); } catch(e) {}
+try { const gespeichert = sessionStorage.getItem("ldpfdp-pw"); if (gespeichert) oeffnen(gespeichert, true); } catch(e) {}
 </script></body></html>
 """
 

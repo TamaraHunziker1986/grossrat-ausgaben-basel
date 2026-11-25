@@ -532,7 +532,8 @@ def main():
     html = (HIER / "template.html").read_text(encoding="utf-8")
     html = html.replace("/*DATA*/null", json.dumps(data, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/"))
     import os
-    passwort = os.environ.get("SITE_PASSWORD", "").strip()
+    # Eigenes Passwort (Secret LDP_FDP_PASSWORD); solange es fehlt, schützt das Passwort der Ausgaben-Seite
+    passwort = os.environ.get("LDP_FDP_PASSWORD", "").strip() or os.environ.get("SITE_PASSWORD", "").strip()
     if passwort:
         import schutz
         (OUT / "index.html").write_text(schutz.verschluesseln(html, passwort), encoding="utf-8")

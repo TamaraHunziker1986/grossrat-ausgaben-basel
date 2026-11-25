@@ -32,6 +32,7 @@ jobs:
       - name: Daten holen und Seite bauen
         env:
           SITE_PASSWORD: ${{ secrets.SITE_PASSWORD }}
+          LDP_FDP_PASSWORD: ${{ secrets.LDP_FDP_PASSWORD }}
         run: python ldp-fdp/build.py
       - name: Änderungen speichern
         run: |
