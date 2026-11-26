@@ -459,7 +459,7 @@ def main():
         elif typ in ("Motion", "Anzug", "Planungsanzug") and (
                 re.match(r"(Teilweise )?Überweisung (als (Motion|Anzug|Planungsanzug)|an (den )?RR(?! zur Stellungnahme)"
                          r"|MOT zur Ausarbeitung)", verm, re.I)
-                or re.match(r"Umwandlung .*(ANZ|Anzug).*Überweisung an (den )?RR(?! zur Stellungnahme)", verm, re.I)):
+                or re.match(r"Um?wandlung .*(ANZ|Anzug).*Überweisung an (den )?RR(?! zur Stellungnahme)", verm, re.I)):
             vorstoss_v[sig] = v
 
     alle_sig = set(ausgaben_v) | set(postulat_v) | set(vorstoss_v)
