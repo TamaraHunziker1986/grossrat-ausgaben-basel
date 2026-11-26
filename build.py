@@ -456,8 +456,10 @@ def main():
                 r"(Zustimmung|(Vollständig |teilweise )?erfüllt|Vorgezogenes Budgetpostulat (teilweise )?erfüllt)", verm, re.I) \
                 and not re.search(r"nicht erfüllt|abgelehnt|zurückgezogen", verm, re.I):
             postulat_v[sig] = v
-        elif typ in ("Motion", "Anzug") and re.match(
-                r"(Teilweise )?Überweisung (als (Motion|Anzug)|an (den )?RR(?! zur Stellungnahme))", verm, re.I):
+        elif typ in ("Motion", "Anzug", "Planungsanzug") and (
+                re.match(r"(Teilweise )?Überweisung (als (Motion|Anzug|Planungsanzug)|an (den )?RR(?! zur Stellungnahme)"
+                         r"|MOT zur Ausarbeitung)", verm, re.I)
+                or re.match(r"Umwandlung .*(ANZ|Anzug).*Überweisung an (den )?RR(?! zur Stellungnahme)", verm, re.I)):
             vorstoss_v[sig] = v
 
     alle_sig = set(ausgaben_v) | set(postulat_v) | set(vorstoss_v)
