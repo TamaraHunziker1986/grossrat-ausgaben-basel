@@ -41,6 +41,10 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100393/000000393868.pdf
 - einmalig: Fr. 200'000  
   «- Fr. 200‘000 gebundene Ausgaben für den Ersatz von 108 Sitzbänken durch das TBA zu Lasten der Erfolgsrechnung des Bau-und Verkehrsdepartments»
 
+## 2021-03-10 20.1274 Bericht zum Stand der Umsetzung der Anforderungen des Bundesgesetzes zur Behindertengleichstellung (BehiG) auf dem Tram- und Busnetz des Kantons Basel-Stadt; Statusbericht per Ende 2019
+Beschluss: https://grosserrat.bs.ch/dokumente/100393/000000393870.pdf
+- keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
+
 ## 2021-03-10 20.0137 Ratschlag betreffend Ausgabenbewilligung für die Sanierung der Rauracherstrasse mit Umgestaltung der Bushaltestellen Bahnhof Niederholz und Habermatten
 Beschluss: https://grosserrat.bs.ch/dokumente/100393/000000393866.pdf
 - einmalig: Fr. 1'490'000  
@@ -55,10 +59,6 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100393/000000393866.pdf
   «- Fr. 1‘095‘000 gebundene Ausgaben für die Erhaltung der Strasse gemäss dem heutigen Standard zu Lasten der Investitionsrechnung, Investitionsbereich IB1 «Stadtentwicklung und Infrastruktur», Rahmenausgabenbewilligung Erhaltung Infrastruktur Strassen»
 - einmalig: Fr. 420'000  
   «- Fr. 420‘000 gebundene Ausgaben für die Erhaltung der Strasse gemäss dem heutigen Standard zu Lasten der Investitionsrechnung, Investitionsbereich IB1 «Stadtentwicklung und Infrastruktur», Rahmenausgabenbewilligung Erhaltung Lichtsignalanlagen 2 Der Beitrag des Bundes in der Höhe von max. Fr. 26‘500 (zuzüglich MWST. und Teuerung seit 2005) ist der Ausgabe gutzuschreiben.»
-
-## 2021-03-10 20.1274 Bericht zum Stand der Umsetzung der Anforderungen des Bundesgesetzes zur Behindertengleichstellung (BehiG) auf dem Tram- und Busnetz des Kantons Basel-Stadt; Statusbericht per Ende 2019
-Beschluss: https://grosserrat.bs.ch/dokumente/100393/000000393870.pdf
-- keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
 
 ## 2021-03-17 20.1373 Staatsbeitrag an die Stiftung Wildt'sches Haus für die Jahre 2021-2024
 Beschluss: https://grosserrat.bs.ch/dokumente/100393/000000393909.pdf
@@ -1726,6 +1726,11 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411151.pdf
 - einmalig: Fr. 1'310'000  
   «Es werden Ausgaben über gesamthaft Fr. 1'310'000 für die Beschaffung eines elektrobetriebenen ABC-Lastkraftwagens der Feuerwehr Basel-Stadt zu Lasten der Investitionsrechnung des Justizund Sicherheitsdepartements, Dienststelle Rettung, genehmigt.»
 
+## 2025-12-10 25.1333 Beschaffung von vier Rettungswagen für die Sanität Basel-Stadt (eRTW)
+Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411466.pdf
+- einmalig: Fr. 1'912'000  
+  «Es wird eine Ausgabe über gesamthaft Fr. 1'912'000 für die Beschaffung von vier elektrobetriebenen Rettungswagen der Sanität Basel-Stadt zu Lasten der Investitionsrechnung des Justiz- und Sicherheitsdepartements, Dienststelle Rettung, bewilligt.»
+
 ## 2025-12-10 25.5498 Änderung der Ausführungsbestimmungen zum Gesetz über die Geschäftsordnung des Grossen Rates (AB)
 Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411459.pdf
 **Achtung:** Gesamtbetrag laut Beschluss Fr. 6'000, Summe der gelesenen Posten Fr. 0
@@ -1735,11 +1740,6 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411459.pdf
 Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411460.pdf
 - befristet: Fr. 840'000  
   «Für die Stiftung Rheinleben werden für den Betrieb der Anlaufstelle für Angehörige und Kinder psychisch erkrankter Menschen für die Jahre 2026 bis 2029 Ausgaben von insgesamt Fr. 840‘000 (jährlich Fr. 210‘000) bewilligt.»
-
-## 2025-12-10 25.1333 Beschaffung von vier Rettungswagen für die Sanität Basel-Stadt (eRTW)
-Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411466.pdf
-- einmalig: Fr. 1'912'000  
-  «Es wird eine Ausgabe über gesamthaft Fr. 1'912'000 für die Beschaffung von vier elektrobetriebenen Rettungswagen der Sanität Basel-Stadt zu Lasten der Investitionsrechnung des Justiz- und Sicherheitsdepartements, Dienststelle Rettung, bewilligt.»
 
 ## 2025-12-10 23.1497 Teilrevision des Bürgerrechtsgesetzes (BürG)
 Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411478.pdf
@@ -2092,10 +2092,6 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413300.pdf
 Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413535.pdf
 - keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
 
-## 2026-10-14 26.0743 Universität Basel: Leistungsbericht 2025; Partnerschaftliches Geschäft, Bericht des RR
-Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413540.pdf
-- keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
-
 ## 2026-10-14 25.1234 Teilrevision des Gesetzes über die Behindertenhilfe
 Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413537.pdf
 - keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
@@ -2104,6 +2100,10 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413537.pdf
 Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413539.pdf
 - einmalig: Fr. 345'380  
   «Es wird ein Betrag in Höhe von 345'380 Franken für die Ersatzbeschaffung von einem E-LKW für die Materialzentrale (zu Lasten der Investitionsrechnung Erziehungsdepartement, Zentrale Dienste, Investitionsbereich «Übrige») bewilligt.»
+
+## 2026-10-14 26.0743 Universität Basel: Leistungsbericht 2025; Partnerschaftliches Geschäft, Bericht des RR
+Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413540.pdf
+- keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
 
 ## 2026-10-14 26.0555 Ausgabenbewilligung zur Neugestaltung von Grünanlagen mit Naturschutzzone im Areal Walkeweg
 Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413536.pdf (korrigiert)
