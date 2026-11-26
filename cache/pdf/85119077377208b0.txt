@@ -1,0 +1,1576 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+22.0800.01
+21.5235.03
+
+BVD/P220800/P215235
+Basel, 29. Juni 2022
+Regierungsratsbeschluss vom 28. Juni 2022
+
+Ratschlag
+betreffend
+
+Darlehensgewährung an die Basler Verkehrs-Betriebe (BVB) zur
+Beschaffung von 23 Tramzügen
+sowie
+
+Beantwortung des Anzugs Georg Mattmüller und Konsorten betreffend «neue BVB-Trams für die Zukunft von Basel»
+
+Den Mitgliedern des Grossen Rates des Kantons Basel-Stadt zugestellt am 1. Juli 2022.
+
+Seite 1/29
+
+Regierungsrat des Kantons Basel-Stadt
+
+Inhalt
+1.
+
+Begehren .................................................................................................................... 4
+
+2.
+
+Ausgangslage und Vorgehen ................................................................................... 4
+2.1
+
+2.2
+
+3.
+
+Beschaffung von Tramfahrzeugen .......................................................................... 6
+3.1
+3.2
+
+3.3
+
+3.4
+3.5
+
+4.
+
+4.6
+4.7
+
+Ausgangslage .........................................................................................................................13
+Technische Einschränkungen..................................................................................................13
+Terminliche und finanzielle Auswirkungen einer Ausschreibung ...............................................14
+Mischbetrieb ...........................................................................................................................15
+Mögliche Umstellungszeitpunkte zu Schiebetritt der Gesamtflotte ............................................15
+Ausgangslage ..............................................................................................................15
+Umstellungszeitpunkt 2028 ..........................................................................................16
+Umstellungszeitpunkt 2037 Ersatz Combino ................................................................17
+Umstellungszeitpunkt 2049 Ersatz Flexity Erstbeschaffung ..........................................18
+Fazit ............................................................................................................................18
+Situation BLT Baselland Transport AG .........................................................................19
+Zwischenzeitliche Massnahmen zur Erhöhung der Sicherheit der Velofahrenden ....................19
+Fazit ......................................................................................................................................19
+
+Kosten ...................................................................................................................... 21
+5.1
+5.2
+
+5.3
+5.4
+
+6.
+
+Fahrzeugbestand heute ........................................................................................................... 6
+Beschaffungsbedarf ................................................................................................................. 7
+Ersatz Cornichons ........................................................................................................ 8
+Mehrbedarf als Folge von Fahrzeitverlusten .................................................................. 8
+Technische Reserve ..................................................................................................... 8
+Betriebliche Reserve..................................................................................................... 9
+Ausblick .......................................................................................................................10
+Weiterverwendung der abgelösten Fahrzeuge .............................................................11
+Technische Anpassungen .......................................................................................................11
+Kollisionswarnsystem...................................................................................................11
+Messsysteme Infrastruktur ...........................................................................................11
+Kleinere technische Anpassungen ...............................................................................12
+Abstellfläche ...........................................................................................................................12
+Durchführung ..........................................................................................................................12
+
+Flottenumstellung Schiebetritt............................................................................... 13
+4.1
+4.2
+4.3
+4.4
+4.5
+
+5.
+
+Rechtliche Aspekte .................................................................................................................. 4
+ÖV-Investitionen: Rechtliche und institutionelle Grundlagen .......................................... 4
+Investitionen: Finanzierungsmechanismus und Kompetenzen ....................................... 5
+Situation................................................................................................................................... 5
+
+Grundfahrzeug ........................................................................................................................21
+Technische Anpassungen .......................................................................................................21
+Vorbereitung Schiebetritte............................................................................................21
+Kollisions-Warnsystem.................................................................................................21
+Messsysteme Infrastruktur ...........................................................................................22
+Kleinere technische Anpassungen ...............................................................................22
+Projektabwicklung ...................................................................................................................22
+Gesamtkosten .........................................................................................................................23
+
+Finanzielle Auswirkungen des Investitionsvorhabens ........................................ 23
+6.1
+6.2
+
+Finanzierung ...........................................................................................................................23
+Darlehensgewährung ..............................................................................................................23
+
+Seite 2/29
+
+Regierungsrat des Kantons Basel-Stadt
+
+7. Anzug Georg Mattmüller und Konsorten betreffend «neue BVB-Trams für die
+Zukunft von Basel» ........................................................................................................ 24
+8.
+
+Formelle Prüfung ..................................................................................................... 25
+
+9.
+
+Antrag ....................................................................................................................... 25
+
+10. Anhang ..................................................................................................................... 27
+10.1 Anhang 1 «Technische Reserve» ............................................................................................27
+10.2 Anhang 2 «Aufteilung Kosten der kleineren technischen Anpassungen» .................................28
+10.3 Anhang 3 «Wirtschaftlichkeitsbetrachtung Messtram» .............................................................29
+
+Seite 3/29
+
+Regierungsrat des Kantons Basel-Stadt
+
+1.
+
+Begehren
+
+Mit Inkrafttreten des Grossratsbeschlusses 12/26/11G vom 27. Juni 2012 haben die Basler Verkehrs-Betriebe (BVB) nach einem Submissionsverfahren gemäss kantonalem Submissionsgesetz
+60 Tramzüge des Typs Flexity Basel des Herstellers Bombardier beschafft und bis 2018 in Betrieb
+genommen. Mit vorliegenden Ratschlag beantragen wir Ihnen, der BVB für die Beschaffung von
+weiteren 23 Tramzügen des Typs Flexity Basel die Gewährung eines rückzahlbaren und verzinslichen Darlehens in der Höhe von insgesamt rund 91,274 Mio. Franken inkl. Vorsteuerkürzung
+(VStK 3,85%) zu bewilligen. Diese Kosten setzen sich wie folgt zusammen:
+Position
+Grundpreis für 21 lange und 2 kurze Fahrzeuge
+Kollisionswarnsystem für alle 23 Fahrzeuge
+Messsystem Infrastruktur für zwei Fahrzeuge
+Technische Anpassungen für 23 Fahrzeuge
+Kosten der Projektabwicklung und Qualitätssicherung
+Beantragte Gesamtsumme
+
+Kosten in Fr.
+85'781'306
+1'096'211
+838'034
+1'898'661
+1'660'240
+91'274'452
+
+Die Freigabe der erforderlichen Mittel an die BVB erfolgt vorbehältlich der Zustimmung des Grossen Rats durch den Regierungsrat in Form von rückzahlbaren und verzinslichen Darlehen.
+
+2.
+
+Ausgangslage und Vorgehen
+
+2.1
+
+Rechtliche Aspekte
+ÖV-Investitionen: Rechtliche und institutionelle Grundlagen
+
+Gemäss § 30 Abs. 1 der Verfassung des Kantons Basel-Stadt (Kantonsverfassung, SG 111.100)
+ermöglicht und koordiniert der Staat eine sichere, wirtschaftliche, umweltgerechte und energiesparende Mobilität. Der öffentliche Verkehr geniesst dabei Vorrang.
+Förderung und Finanzierung des öffentlichen Personen- und Güterverkehrs zu Lande, auf dem
+Wasser und in der Luft sowie von entsprechenden Infrastrukturen und Anlagen durch den Kanton
+und die Gemeinden werden im baselstädtischen Gesetz über den öffentlichen Verkehr geregelt
+(ÖV-Gesetz, SG 951.100). Dieses bezweckt gemäss dessen § 2 die Verbesserung der Standortqualität des Kantons als Wirtschafts- und Wohnstandort durch einen leistungsfähigen öffentlichen
+Personen- und Güterverkehr, die Erschliessung des Kantonsgebiets und die Abwicklung eines
+grösstmöglichen Teils des Personen- und Gütertransports mit umweltfreundlichen und stadtgerechten Verkehrsmitteln.
+Zur Erreichung der Zwecke des ÖV-Gesetzes schliesst der Kanton gemäss dessen § 5 Abs. 1
+Leistungsvereinbarungen mit den Erbringern der Verkehrsleistungen ab. Diese umschreiben insbesondere Art, Umfang, Kosten und Erlöse der zu erbringenden Leistungen, die vereinbarten Abgeltungen sowie die Anforderungen bezüglich Qualität, Wirtschaftlichkeit und Umweltverträglichkeit
+der Leistungserbringung. Zu diesen Leistungserbringern gehören auch die BVB.
+Die Organisation der BVB, deren grundsätzliche Unternehmensziele sowie ihre Ausrichtung im
+Verkehrs- und Infrastrukturbereich werden gemäss § 1 Abs. 3 des ÖV-Gesetzes in einem separaten Gesetz, dem Organisationsgesetz der Basler Verkehrs-Betriebe (BVB-OG, SG 953.100), geregelt. Dieses statuiert die BVB gemäss dessen § 1 als Unternehmen des Kantons Basel-Stadt in der
+Form einer selbstständigen öffentlich-rechtlichen Anstalt mit Sitz in Basel. Die BVB ist ein marktorientiertes Unternehmen und wird soweit möglich nach unternehmerischen Grundsätzen geführt.
+
+Seite 4/29
+
+Regierungsrat des Kantons Basel-Stadt
+
+Unter den Geschäftszweck der BVB fallen gemäss § 2 BVB-OG das Errichten und Betreiben von
+Linien des öffentlichen Orts- und Regionalverkehrs sowie das Erstellen, Unterhalten und Betreiben
+von Bahninfrastruktur und Nebenanlagen. Die BVB erbringt ihre Leistungen im Auftrag des Kantons
+Basel-Stadt, anderer Gemeinwesen oder von Dritten. Die BVB kann ihrerseits Aufgaben an Dritte
+vergeben, Kooperationen mit anderen Unternehmen eingehen, an solchen Beteiligungen erwerben
+sowie allein oder mit Partnern Tochterunternehmen gründen, soweit dies mit ihrem Zweck übereinstimmt sowie entweder im öffentlichen Interesse oder im Interesse der BVB selbst liegt. Die BVB
+richtet sich dabei nach den geltenden sozialen und umweltrechtlichen Standards des Kantons. Der
+Regierungsrat definiert die entsprechenden Grundsätze in einer Eignerstrategie.
+Investitionen: Finanzierungsmechanismus und Kompetenzen
+Gemäss § 17 BVB-OG finanziert der Kanton Basel-Stadt Investitionen, die für den Betrieb der BVB
+erforderlich sind, in Form von verzinslichen und rückzahlbaren Darlehen. Diese Darlehen werden
+zu marktüblichen Konditionen verzinst.
+Darunter fallen auch Investitionen in das Rollmaterial. Verfügt die BVB nicht über genügend Eigenmittel, kann sie beim Kanton ein verzinsliches und rückzahlbares Darlehen beantragen. Die Kompetenz zur Erteilung dieser Darlehen aus dem Verwaltungsvermögen des Kantons liegt beim Grossen Rat. Ab einer Darlehenssumme von 1,5 Mio. Franken untersteht der Beschluss dem fakultativen Finanzreferendum.
+Bei der vorgesehenen Beschaffung von 23 neuen Tramzügen handelt es sich um eine Investition
+nach § 17 BVB-OG. Da die Investitionssumme die zur Verfügung stehenden Eigenmittel der BVB
+übersteigt, beantragt diese beim Kanton Basel-Stadt ein entsprechendes Darlehen.
+
+2.2
+
+Situation
+
+Die BVB hat im Frühjahr 2011 eine Ausschreibung von 60 Tramzügen platziert. Der Hersteller
+Bombardier mit dem Fahrzeugtyp Flexity Basel hat dabei die insgesamt beste Offerte abgegeben.
+Der Grosse Rat hat am 27. Juni 2012 mit dem GRB 12/26/11G das für die Beschaffung nötige
+Kreditbegehren in der Höhe von 185 Mio. Franken gutgeheissen. Von September 2014 bis Mitte
+2018 wurden alle bestellten Tramzüge1 angeliefert und in Betrieb genommen. Die Fahrzeuge haben sich im Betrieb bewährt. Die Ausschreibung von 2011 beinhaltete die mögliche Lieferung weiterer Fahrzeuge im Rahmen von Optionslosen. Eine kostspielige Neuausschreibung ist daher nicht
+notwendig. Bei einer Neuausschreibung wäre mit signifikanten Mehrkosten von rund 15% zu rechnen, da sich die Hersteller vor dem Hintergrund aktueller Klimaschutzdiskussionen und aufgrund
+des zwischenzeitlichen Wandels hin zu neuen Verkehrskonzepten einer sehr guten Nachfrage erfreuen. Dank den noch offenen Optionslosen können die vorteilhaften Konditionen der Gesamtausschreibung genutzt werden, weshalb auf eine Neuausschreibung verzichtet wird.
+Ende 2023 erreichen die 13 Tramzüge des Typs Be 4/4 («Cornichon») das Ende ihrer Lebensdauer
+und müssen ersetzt werden. Mit dem Ersatz der Cornichons durch Flexitys wird die Tramflotte zu
+100% niederflurig, was den Zugang für alle Kundinnen und Kunden der BVB komfortabler und einfacher macht. Damit werden zudem auch die Anforderungen des Behindertengleichstellungsgesetzes (BehiG) erfüllt. Besonders Fahrgäste auf den Linien 2, 6, 15 und 16, auf denen heute noch
+Cornichons verkehren, werden davon profitieren.
+Zusätzlich werden zehn weitere Flexitys zur Anpassung der technischen und betrieblichen Reserve
+und als Folge von Fahrzeitverlusten beschafft. Dies ist nötig, damit die Instandhaltung ohne negativen Einfluss auf den laufenden Betrieb bleibt. Heute ist die Gesamtreserve zeitweise zu klein, um
+alle Instandhaltungsarbeiten durchzuführen und gleichzeitig alle betrieblichen Anforderungen zeit-
+
+1 Der BVB-Verwaltungsrat hatte am 3. Februar 2014 entschieden, aufgrund günstiger Rahmenbedingungen und des guten Werkliefervertrags zu gleich-
+
+bleibenden Kosten 61 Flexity-Tramzüge zu beschaffen statt wie ursprünglich geplant 60.
+
+Seite 5/29
+
+Regierungsrat des Kantons Basel-Stadt
+
+gerecht zu erfüllen. Um keine Kurse ausfallen zu lassen, geniessen alle betrieblichen Anforderungen höchste Priorität, weshalb heute Instandhaltungsarbeiten zulasten der technischen Reserve
+erfolgen. Das führt auch dazu, dass heute noch die Cornichons im Regelbetrieb eingesetzt werden
+müssen, damit an den Combino und Flexitys die nötigen Instandhaltungsarbeiten durchgeführt werden können.
+Mit GRB 20/20/09G hat der Grosse Rat beschlossen, dass bei künftigen Trambeschaffungen die
+Trams mit Schiebetritten oder der Option zum nachträglichen Einbau ausgestattet sein sollen.
+Diese Forderung muss aber gemäss Bericht der UVEK hinterfragt werden, wenn dadurch die Option nicht eingelöst werden könne. Die eingehende Untersuchung dieses Anliegens und die verschiedenen Möglichkeiten zum Wechsel auf ein System mit Schiebetritten werden in Kapitel 4 aufgezeigt.
+Zusammen mit dem vom Grossen Rat gutgeheissenen Ratschlag Nr. 20.1260 zur Elektrobusbeschaffung modernisiert die BVB ihre gesamte Fahrzeugflotte und macht den öffentlichen Verkehr
+damit noch komfortabler und umweltfreundlicher.
+
+3.
+
+Beschaffung von Tramfahrzeugen
+
+Die Beschaffung der beantragten 23 Flexity-Tramzüge erfolgt mittels dem noch bestehenden Optionslos 2.2 Neben diesem Optionslos bestehen noch drei weitere Lose (3 bis 5), mit denen weitere
+Tramzüge bestellt werden könnten. Im Folgenden wird der Beschaffungsbedarf für das Optionslos
+2 hergeleitet.
+
+3.1
+
+Fahrzeugbestand heute
+
+Aktuell besteht die Tramflotte der BVB aus 102 Tramzügen, die sich in folgende Typen und Längen3
+gliedern:
+Tabelle 1: Tramtypen
+
+Tramtyp
+Flexity
+
+Lange Fahrzeuge
+Anzahl
+Alter (Jahre)
+44
+6
+
+Kurze Fahrzeuge
+Anzahl
+Alter (Jahre)
+17
+3
+
+Combino
+
+28
+
+19
+
+28
+
+Cornichonzüge
+
+13
+
+33
+
+134
+
+Total
+
+85
+
+17
+
+Gesamt
+61
+
+102
+
+2 Das Optionslos 1 war für kurzfristige Anpassungen der ersten Beschaffungen konzipiert und ist zwischenzeitlich verfallen.
+3 Die Tramzüge unterscheiden sich in ihrer Länge und damit in ihrer Transportkapazität. Der Flexity lang (7-teilig) hat eine Länge von 42,88 m, der Flexity
+
+kurz (5-teilig) hat eine Länge von 31,63 m.
+4 Die BVB verfügt über 26 Cornichon-Triebwagen und 25 Anhänger. Daraus werden für den Regelbetrieb 13 Züge in variablen Längen gebildet.
+
+Seite 6/29
+
+Regierungsrat des Kantons Basel-Stadt
+
+Für den Fahrplanbedarf zur Hauptverkehrszeit am Abend, zu der jeweils am meisten Trams auf
+dem Netz verkehren, werden derzeit 86 Tramzüge in verschiedenen Längen benötigt.
+Tabelle 2: Fahrplanbedarf zur abendlichen Hauptverkehrszeit
+
+Linie
+Linie 1/14
+
+Technische Kriterien
+Fahrzeugeinsatz
+Flexity lang/Combino
+
+Tram
+lang
+21
+
+Linie 2
+
+Flexity lang/Combino/Cornichon
+
+10
+
+10
+
+Linie 3
+
+Flexity lang
+
+10
+
+10
+
+Linie 6
+
+Flexity lang/Combino/Cornichon
+
+14
+
+14
+
+Linie 8
+
+Flexity lang/Combino
+
+14
+
+14
+
+Linie 15/16
+
+Flexity kurz/Cornichon
+
+14
+
+14
+
+Linie 21
+
+Keine Einschränkung
+
+2
+
+2
+
+Dispokurse
+
+Flexity lang/kurz
+
+1
+
+1
+
+17
+
+86
+
+Fahrplanbedarf gesamt
+
+69
+
+Tram
+kurz
+
+Gesamt
+21
+
+Die restlichen 16 Fahrzeuge, die nicht als Fahrplanbedarf benötigt werden, dienen als betriebliche
+(5) und technische Reserve (11).
+
+3.2
+
+Beschaffungsbedarf
+
+Der gesamte Beschaffungsbedarf des Optionsloses 2 setzt sich aus folgenden Bedarfen zusammen: Ersatz Cornichons, Mehrbedarf als Folge von Fahrzeitverlusten sowie die Anpassung der
+notwendigen technischen Reserve und der betrieblichen Reserve.
+
+Beschaffungsbedarf Optionslos 2
+122
+
+120
+18
+100
+80
+
+112
+102
+
+15
+15
+3
+13
+
+8
+3
+13
+
+86
+
+86
+
+Bedarf Optionslos 2, Maximalbedarf
+
+Bedarf Optionslos 2, optimiert
+
+11
+5
+
+60
+40
+
+86
+
+20
+0
+Bestand heute
+
+Fahrplanbedarf
+
+Ersatz Cornichons
+
+Mehrbedarf Fahrzeitverluste
+
+Betriebliche Reserve
+
+Technische Reserve
+
+Gesamtbedarf
+
+Abbildung 1: Beschaffungsbedarf Übersicht
+
+Seite 7/29
+
+Regierungsrat des Kantons Basel-Stadt
+
+Die Bestimmung der einzelnen Bedarfe ergibt einen Maximalbedarf der Flotte von 122 Fahrzeugen.
+Dieser würde sich ergeben, wenn zwischen den notwendigen technischen und betrieblichen Reserven keine Synergien genutzt würden, wenn also die technische Reserve und die betriebliche
+Reserve einfach addiert würden. Unter Berücksichtigung von entsprechenden Synergien kann dieser Bedarf aber optimiert werden (siehe Kapitel 3.2.4). Mithilfe dieser Optimierung können zehn
+Fahrzeuge eingespart werden. Entsprechend wird dieser optimierte Bedarf weiterverfolgt und nicht
+der Maximalbedarf.
+So werden neben den 13 zu beschaffenden Flexitys als Ersatz für die Cornichons zusätzlich zehn
+Trams in den verschiedenen Reserven und als Folge von Fahrzeitverlusten benötigt. Insgesamt
+werden also 23 Fahrzeuge beschafft (21 lange und 2 kurze).
+Die einzelnen Bedarfe werden in den folgenden Kapiteln beschrieben.
+Ersatz Cornichons
+Die 13 Cornichon-Tramzüge erreichen Ende 2023 das Ende ihrer Lebensdauer und müssen ersetzt
+werden. Sie werden durch 13 Flexitys ersetzt. Die Cornichon-Triebwagen sind zum Zeitpunkt ihrer
+Ausmusterung 37 Jahre, die Anhänger sogar über 50 Jahre im Einsatz. Die Cornichons erfüllen die
+BehiG-Vorgaben nicht vollständig, da sie u.a. weniger breit sind als Combino und Flexity und somit
+die geforderten Spaltmasse zwischen Kante und Fahrzeug nicht einhalten. Mit dem Ersatz durch
+Flexitys wird die gesamte Tramflotte durchgängig niederflurig und moderner.
+Mehrbedarf als Folge von Fahrzeitverlusten
+Die Einführung der Einfachhaltestellen, umgesetzte Tempo 30-Zonen sowie Aufhebungen von Eigentrassees haben zu einem Zeitverlust von bis zu 55 Sekunden pro Innerstadtdurchfahrt geführt.
+Diese Fahrzeitverluste können aktuell nicht durch Beschleunigungsmassnahmen kompensiert werden und verkürzen somit die Restwendezeit. Wenn die Restwendezeit unter einen bestimmten
+Grenzwert fällt, muss ein zusätzlicher Kurs auf der jeweiligen Linie eingesetzt werden. Dies ist
+aktuell auf den Linien 15/16, 1/14 und 6 der Fall, da dort die Fahrzeitreserven zu gering sind, um
+den heutigen Takt zu fahren. Dies führt zu einem Mehrbedarf von drei Fahrzeugen, einem kurzen
+und zwei langen Flexity-Trams.
+Technische Reserve
+Die Flottenstrategie der BVB sieht vor, die Fahrzeuge über den Lebenszyklus von 32 Jahren in
+einem sicheren und gesetzeskonformen Zustand zu erhalten. Dazu sind Instandhaltungen und regelmässige Hauptuntersuchungen (Gesamtrevisionen) an den Fahrzeugen notwendig. Die technische Reserve deckt den Fahrzeugbedarf für die Instandhaltung ab.
+Aktuell dienen elf Fahrzeuge als technische Reserve, was 10,7% des gesamten Fahrzeugbestands
+von 102 Fahrzeugen entspricht. Rückblickend hat sich gezeigt, dass die technische Reserve bei
+der Beschaffung von 2014 zu knapp bemessen worden ist, um alle Instandhaltungsarbeiten in der
+notwendigen Qualität und Regelmässigkeit durchführen zu können. Dies führt dazu, dass Fahrzeuge vermehrt aus dem Linienbetrieb genommen werden müssen – zum Nachteil der Fahrgäste.
+Bei kleineren, nicht sicherheitsrelevanten Problemen wie etwa Türen, die sich aufgrund von Defekten nicht mehr öffnen lassen, werden Fahrzeuge heute teilweise nicht mehr ausgetauscht, damit
+weiterhin alle Kurse bedient werden können. Teils werden Instandhaltungsarbeiten wegen der zu
+geringen technischen Reserve in Etappen durchgeführt. Damit steigt der Aufwand für die Instandhaltung an. Zudem müssen heute die nicht durchgängig niederflurigen Cornichons noch im Regelbetrieb eingesetzt werden, um die Instandhaltung der Flexity-Trams durchzuführen.
+Um alle Instandhaltungsarbeiten fristgerecht durchführen zu können, wird die technische Reserve
+daher erhöht.
+
+Seite 8/29
+
+Regierungsrat des Kantons Basel-Stadt
+
+Die Höhe dieser Reserve orientiert sich an der Richtlinie 801:3/2019 des Verbands Deutscher Verkehrsunternehmen (VDV). Sie ist von zahlreichen Faktoren abhängig. Laut Richtlinie benötigt die
+BVB 18 Fahrzeuge als technische Reserve (siehe dazu den Anhang 1 «Technische Reserve»).
+Da die BVB aber Optimierungen in der Instandhaltung vorgenommen hat und aufgrund der betrieblichen Erfahrungen der letzten Jahre, sind 15 Fahrzeuge als technische Reserve ausreichend. Gegenüber heute (11 Fahrzeuge) erhöht sich der Bedarf für die technische Reserve also um vier
+Fahrzeuge. Mit 15 Fahrzeugen beträgt die technische Reserve neu 13,4% (statt 10,7% heute).
+Gegenüber der Richtlinie werden drei Fahrzeuge eingespart.
+
+Abbildung 2: Technische Reserve
+
+Betriebliche Reserve
+Mit der betrieblichen Reserve werden verschiedene Bedarfe abgedeckt, die über den Fahrplanbedarf hinausgehen. Diese Bedarfe sind im Umfang nur bedingt planbar.
+ Baustellenbedarf: Bei baustellenbedingten Behinderungen wie Einspurstrecken verlängern
+sich die Fahrzeiten, wodurch zusätzliche Fahrzeuge benötigt werden. Der Bedarf variiert
+und liegt zwischen einem bis drei Fahrzeugen.
+ Temporäre Langsamfahrstellen verlängern die Fahrzeiten ebenfalls und führen zu einem
+zusätzlichen Fahrzeugbedarf. In der Planung wird ein Bedarf von einem Fahrzeug angenommen.
+ Zukünftige Fahrzeitverluste: Nebst den bereits beschlossenen Massnahmen mit Fahrzeitverlusten (siehe 3.2.2) sind weitere Tempo 30-Zonen, die Aufhebung bestehender Eigentrasses sowie die Verlegung von Haltekanten mit dem Risiko von Eigenbehinderungen geplant. Betroffen sind besonders die Linien 2 und 3. Werden die geplanten Änderungen
+umgesetzt, ergibt sich ein Bedarf von zwei zusätzlichen Fahrzeugen.
+ Die Fahrschule benötigt drei Fahrzeuge für Schulungsfahrten.
+ Fahrzeuge, die in einen Unfall involviert sind, sind längerfristig nicht einsetzbar. 2019 waren
+bis zu vier Fahrzeuge gleichzeitig nicht einsetzbar. Zwar ist nicht davon auszugehen, dass
+diese Zahl dauerhaft so hoch bleiben wird, um aber vorbereitet zu sein, muss ein Fahrzeug
+eingeplant werden.
+Dies ergibt einen minimalen betrieblichen Bedarf von acht Fahrzeugen.
+Weitere Bedarfe ergeben sich durch
+ den Antransport zu Fussballspielen, der rund 10 bis 15mal pro Jahr während der Hauptverkehrszeit durchgeführt wird. Dazu werden sechs Fahrzeuge benötigt. Dieser Bedarf kann
+
+Seite 9/29
+
+Regierungsrat des Kantons Basel-Stadt
+
+gedeckt werden, indem an diesen Tagen die Fahrschule ausgesetzt wird und die Instandhaltung temporär angepasst wird.
+ mit einem Fahrzeug für Extrafahrten. Dieser planbare Bedarf wird nur bei Verfügbarkeit gedeckt.
+Daraus ergibt sich ein theoretischer Mehrbedarf von sieben Fahrzeugen, auf den durch die geschickte Disposition verzichtet werden kann.
+Diese Planung ist bewusst knapp gehalten, auch vor dem Hintergrund der offenen langfristigen
+Nachfrage- und Angebotsentwicklung. Entstehen weitere Fahrzeugbedarfe (zum Beispiel durch
+Angebotsausweitungen), so können diese aufgefangen werden, indem die Instandhaltung der
+Fahrzeuge in Tageszeiten mit geringerem Fahrzeugbedarf verschoben wird. Ohne die Synergien
+mit der Instandhaltung und der gemäss Kapitel 3.2.3 angepassten technischen Reserve müsste
+die betriebliche Reserve neu 15 statt acht Fahrzeuge umfassen. Im Vergleich zu heute müssen
+also dank der Nutzung von Synergien mit der technischen Reserve nur drei zusätzliche Fahrzeuge
+beschafft werden anstatt zehn, die ohne die Synergien beschafft werden müssten.
+
+Betriebliche Reserve
+16
+
+15
+
+14
+12
+10
+
+10
+8
+
+8
+3
+
+6
+4
+5
+
+2
+
+5
+
+0
+Maximalbedarf ohne Synergien mit der technischen Optimiert mit Synergien mit der technischen Reserve
+Reserve
+
+Bestand heute
+
+Zusätzlicher Bedarf
+
+Abbildung 3: Betriebliche Reserve
+
+Ausblick
+Im Kontext der Tramnetzentwicklung sind mehrere Netzausbauten geplant und vom Grossen Rat
+mit dem Beschluss 20/07/09G vom 12. Februar 2020 priorisiert worden, die aber erst im Zeitraum
+zwischen 2027 und 2035 in Betrieb gehen dürften. Der zusätzliche Bedarf daraus liegt – gemäss
+aktuellem Planungsstand – bei insgesamt acht Fahrzeugen. Die Realisierung dieser Projekte ist
+momentan noch unsicher. Der entsprechende zusätzliche Bedarf ist nicht Teil des Darlehensbegehrens, da er sich je nach Realisierung noch ändern kann.
+Sobald die Ausbauprojekte konkreter werden und der genaue Bedarf abgeschätzt werden kann,
+wird dem Grossen Rat ein weiterer Ratschlag zur Finanzierung der zusätzlichen Tramzüge vorgelegt. Bis dahin werden die drei noch bestehenden Optionslose zur Beschaffung zusätzlicher FlexityTramzüge abgelaufen sein.5 Bei einer Neuausschreibung wird dem Anliegen des Grossen Rats
+bezüglich Schiebetritte nachgekommen werden (GRB 20/20/09G).
+5 Die Optionslose müssten spätestens bis Ende 2024 verbindlich und ohne jeglichen Vorbehalt beim Lieferanten gezogen werden. Pro Optionslos müs-
+
+sen mindestens fünf Flexity-Tramzüge bestellt werden.
+
+Seite 10/29
+
+Regierungsrat des Kantons Basel-Stadt
+
+In diesem Rahmen könnten auch zusätzliche Tramzüge aufgrund von zusätzlich bestellten Leistungen (z.B. Angebotsverdichtungen, weitere Tempo 30 Zonen usw., die nicht über die betriebliche
+Reserve abgedeckt werden können) beantragt werden. Der vorliegende Ratschlag beinhaltet daher
+keinerlei strategische Reserven.
+Weiterverwendung der abgelösten Fahrzeuge
+Die Weiterverwendung der BVB-Altfahrzeuge wurde im Rahmen der bisherigen Modernisierung
+der Flotte erfolgreich umgesetzt. Mit Hilfe des Staatsekretariats für Wirtschaft (SECO) konnten die
+Fahrzeuge entweder nach Belgrad oder nach Sofia weitervermittelt werden. Sie leisten dort noch
+wertvolle Dienste.
+Gemeinsam mit dem SECO wird geprüft, ob es allenthalben ein Interesse an den zur Ablösung
+anstehenden Cornichons und an den entsprechenden Anhängern inklusive den auf Lager befindlichen Ersatzteilen und Sonderwerkzeugen gibt. Inwieweit weitere Fahrzeuge in den Oldtimerbestand genommen werden oder als Dienstfahrzeuge ohne Fahrgasttransport weitergenutzt werden,
+soll während der Projektabwicklung entschieden werden.
+Unter dem Vorbehalt, dass keine unerwarteten Altlasten in der Verwertung auftreten, ist davon
+auszugehen, dass die Weiterverwendung der abzulösenden Fahrzeuge mit Ausnahme der Projektierung kostenneutral durchgeführt werden kann.
+
+3.3
+
+Technische Anpassungen
+
+Seit der Anlieferung der 61 Flexitys hat sich die Technologie weiterentwickelt. Entsprechend werden bei den mit diesem Ratschlag beantragten 23 Flexitys technische Anpassungen vorgenommen, die bei den 61 Flexitys noch nicht verfügbar waren. Im folgenden Kapitel werden diese Anpassungen beschrieben. Die dafür beantragten finanziellen Mittel sind ausschliesslich für die 23
+neu zu beschaffenden Fahrzeuge vorgesehen.
+Kollisionswarnsystem
+Zur Erhöhung der Sicherheit wird die BVB die Fahrzeuge mit einem Kollisionswarnsystem ausrüsten. Dieses unterstützt die Wagenführer/-innen mithilfe von drei Kameras, die den Fahrweg der
+Fahrzeuge überwachen und sie bei Bedarf vor eventuellen Kollisionen mit anderen Verkehrsteilnehmenden warnt. Bei Nichtbeachtung der Warnung greift das System ein, um eine Kollision zu
+vermeiden. Die Kameras erzeugen nur ein technisches Bild; es werden keine Bilddaten zur späteren Auswertung gespeichert.
+Das System ist zwischenzeitlich marktreif und bei verschiedenen Verkehrsbetrieben, unter anderen
+bei der Verkehrsgesellschaft Frankfurt am Main und in den neuen Fahrzeugen der Verkehrsbetriebe Zürich, im Einsatz. Das Fahrzeug bleibt mit dieser Anpassung für spätere Weiterentwicklungen zukunftsfähig. Grundsätzlich ist ein Nachrüsten an den Bestandsfahrzeugen möglich, jedoch
+nicht Teil des Antrages.
+Messsysteme Infrastruktur
+Um regelmässige und netzweite Messungen wichtiger Parameter der Gleise und des Fahrdrahtes
+vornehmen zu können, wird die BVB zwei Fahrzeuge mit einem Messsystem ausrüsten. Zusätzlich
+zu den Standarderfassungssystemen von Bombardier werden diese beiden Fahrzeuge mit Sensoren ausgerüstet, die die Vermessung der Gleise, der Fahrleitung, des Lichtraumprofils, die Aufnahme von Gleisschäden und die Aufnahme von sichtbaren Objekten im Gleisbereich sicherstellen.
+Die kontinuierliche und automatisierte Erfassung dieser Parameter und Daten bildet eine essenzielle Grundlage, um Aussagen über den Zustand der Traminfrastruktur gewinnen und deren Entwicklung verbessern zu können. Zusätzlich wird die Gleisinspektion dadurch effizienter und kann
+
+Seite 11/29
+
+Regierungsrat des Kantons Basel-Stadt
+
+in Zukunft zielgerichteter erfolgen. Die Messdaten fliessen nach deren Aufbereitung und Analyse
+in die Zustandsbeurteilung der Infrastruktur ein und bilden mittelfristig die Grundlage, um von der
+heutigen reaktiven und präventiven Instandhaltung auf eine effizientere, zustandsbasierte Instandhaltung umzustellen. Damit sollen ein wirtschaftlicherer Infrastrukturunterhalt und eine Optimierung
+des Lebenszyklus’ der Infrastrukturanlagen erreicht werden. Die kontinuierliche Überwachung des
+gesamten Netzes ermöglicht im Gegensatz zur heutigen, manuellen und punktuellen Inspektion
+zudem eine zeitnahe flächendeckende Erfassung von Mängeln. Entsprechend kann deren Behebung rascher erfolgen als heute, was sich positiv auf die Verfügbarkeit der Infrastrukturanlagen
+auswirken wird.
+Neben der manuellen Inspektion erfolgen aktuell jährliche Messkampagnen, um den Zustand der
+Anlagen netzweit zu erheben. Dazu wird ein Fahrzeug durch einen externen Dienstleister temporär
+mit Messmitteln ausgerüstet und anschliessend das Netz abgefahren respektive vermessen. Messfahrten mit temporären Aufbauten können nur ohne Fahrgäste und ausserhalb des Regelbetriebes
+stattfinden, was einen hohen Aufwand bedeutet. Durch die Integration von Sensoren und Messtechnik auf regulären Fahrzeugen kann der Aufwand für die eigentliche Messung erheblich gesenkt
+werden. Zudem können bei Bedarf auch täglich Messungen durchgeführt werden. Dies erlaubt es,
+Nachweise über den aktuellen Gleiszustand einzelner Teilstrecken und deren Zustandsentwicklung
+schnell und effizient aus den erfassten Daten aufzubereiten. Der Einbau in einem langen Fahrzeug
+und in einem kurzen Fahrzeug ermöglicht die Datenerfassung auf dem gesamten Netz.
+Kleinere technische Anpassungen
+Die zwischenzeitlichen technischen Weiterentwicklungen im Vergleich zu den bestehenden 61 Flexitys bedingen weitere kleinere technische Anpassungen der Fahrzeuge. Dies betrifft unter anderem das technische Equipment, das die Schnittstelle der Wagenführer/-innen mit der Leitstelle bedient (IBIS-Rechner), spezifische Anpassungen für die Fahrschule sowie Anpassungen an der
+Bedienung der Fahrzeuge wie zum Beispiel separat wählbare Geschwindigkeitsbegrenzer. Des
+Weiteren werden an den Fahrzeugen kleinere Anpassungen zur Erfüllung der BehiG-Vorgaben
+vorgenommen. Im Anhang 2 findet sich eine nicht abschliessende Liste dieser Anpassungen.
+
+3.4
+
+Abstellfläche
+
+Der Mehrbedarf an Abstellflächen von insgesamt zehn Fahrzeugen kann mit den vorhandenen
+Abstellkapazitäten in den Service-Zentren gedeckt werden.
+
+3.5
+
+Durchführung
+
+Der Terminplan für die Beschaffung der 21 langen und zwei kurzen Fahrzeuge sieht vorbehältlich
+des Entscheids des Grossen Rates folgende Meilensteine vor:
+ Dezember 2022: Abschluss und Klärung technischer Detailfragen, verbindliche vorbehaltlose
+Order der Fahrzeuge
+ April 2025: Inbetriebsetzung des ersten Fahrzeuges inklusive aller notwendigen Überprüfungen, Probebetrieb und Zulassungen. Die Fahrzeuge werden in einer Lieferkadenz von drei Wochen geliefert
+ August 2026: Inbetriebsetzung des letzten Fahrzeuges, Abschluss der Ablieferung.
+ August 2028: Ablauf erste Gewährleistungsfrist
+
+Seite 12/29
+
+Regierungsrat des Kantons Basel-Stadt
+
+4.
+
+Flottenumstellung Schiebetritt
+
+4.1
+
+Ausgangslage
+
+Laut dem Grossratsbeschluss 20/20/09G vom 14. Mai 2020 sind bei zukünftigen Trambeschaffungen Trams mit Schiebetritten oder der Möglichkeit für einen nachträglichen Einbau von Schiebetritten zu beschaffen, um bei Kaphaltestellen den Abstand zwischen den Tramschienen und der hohen
+Haltekante zu vergrössern und damit die Sicherheit für Velofahrende zu erhöhen. Im Bericht der
+UVEK ist dazu Folgendes festgehalten:
+„Unklar geblieben ist bei den Erörterungen der UVEK, ob die existierende Option der BVB
+auf den Kauf weiterer Flexity bei Bombardier zu gleichen Konditionen mit dem Einbau von
+Schiebetritten vereinbar ist. Sollte eine solche Forderung dazu führen, dass die Option nicht
+eingelöst werden kann, müsste sie hinterfragt werden. Die UVEK erwartet aber im Minimum,
+dass bei künftigen Ausschreibungen nur noch Trams mit Schiebetritten geordert werden.“
+Dem Regierungsrat und der BVB ist die Sicherheit aller Verkehrsteilnehmenden ein grosses Anliegen, weshalb die mit den Kaphaltestellen verbundenen Aspekte nochmals eingehend untersucht
+wurden mit dem Ziel, die Umstellung auf Schiebetritte so optimal wie möglich zu bewerkstelligen.
+In den folgenden Kapiteln werden verschiedene Optionen bezüglich ihrer finanziellen, technischen
+und infrastrukturellen Auswirkungen dargelegt.
+
+4.2
+
+Technische Einschränkungen
+
+Grundsätzlich ist es im Rahmen der noch offenen Optionslose möglich, die mit diesem Ratschlag
+beantragten 23 Fahrzeuge mit der Möglichkeit für einen nachträglichen Einbau von Schiebetritten
+bei den Türen 2 bis 7 (bei den langen) respektive 2 bis 5 (bei den kurzen) Flexitys auszurüsten,
+ohne dass eine neue Ausschreibung notwendig ist. Die Kosten dazu würden rund 3,2 Mio. Franken
+für die Vorbereitung des Bauraumes und rund 15,5 Mio. Franken für die Nachrüstung der Schiebetritte betragen.
+Bei den seitlich abgeschrägten Front- und Heckmodulen (erste und letzte Türe des Fahrzeugs) des
+Typs Flexity Basel ist ein Einbau von Schiebetritten hingegen technisch nicht möglich, weil in der
+Schräge der Fahrzeugform kein ausreichender Bauraum vorhanden ist. Die Fahrzeugform kann
+nicht angepasst werden, ohne das Lichtraumprofil des Fahrzeuges unzulässig zu verändern, was
+dazu führen würde, dass sich die Fahrzeuge in Kurven in der Folge nicht mehr kreuzen könnten.
+Ein Schiebetritt bei der ersten und letzten Türe bedingt deshalb ein komplettes Redesign des Frontund Heckmoduls. Dieses Redesign wäre innerhalb der Optionsbeschaffung rechtlich nicht möglich
+und würde zwangsläufig zu einer Neuausschreibung führen. Dies wiederum hätte starke terminliche und finanzielle Auswirkungen. (siehe Kapitel 4.3).
+Technisch ist es somit nur möglich, Schiebetritte bei den Türen 2 bis 7 (bei den langen) respektive
+2 bis 5 (bei den kurzen) des Flexity Basels einzubauen. Dies bedeutet, dass die Fahrzeuge die
+erste und letzte Türe bei umgebauten Kaphaltestellen geschlossen halten müssten, weil die Abstände zwischen diesen Türen und der Haltekante mit rund 29 cm zu gross, gefährlich und nicht
+bewilligungsfähig wären. Bleiben die beiden Türen verschlossen, verlängern sich die Aus- und Einsteigezeiten der Fahrgäste und damit die Fahrzeiten. Dies wirkt dem Ziel der Beschleunigung des
+ÖV entgegen und trägt nicht zu einem attraktiven ÖV bei. Aufgrund der Fahrzeitenverluste wären
+wiederum zusätzliche Fahrzeuge nötig – mit entsprechender Kostenfolge sowohl bezüglich Investitionen als auch hinsichtlich Betrieb. Die UVEK hat in ihrem Bericht die Option die erste und letzte
+Türe zu verschliessen mit Blick auf den Kundenkomfort bereits klar ausgeschlossen.6
+
+6 Bericht der Umwelt-, Verkehrs- und Energiekommission zum Ratschlag zur Erhöhung der Verkehrssicherheit sowie zur Umgestaltung der Tramhalte-
+
+stellen in der Hardstrasse, Kapitel 3.5.
+
+Seite 13/29
+
+Regierungsrat des Kantons Basel-Stadt
+
+Abbildung 4: Verschliessen der ersten und letzten Türe
+
+4.3
+
+Terminliche und finanzielle Auswirkungen einer Ausschreibung
+
+Wie im vorangegangenen Kapitel erläutert, sind Schiebetritte an allen Türen technisch und rechtlich
+nur via eine Neuausschreibung möglich. Eine Neuausschreibung hätte jedoch terminliche und finanzielle Auswirkungen.
+Eine Neuausschreibung verzögert den Prozess deutlich. Basierend auf den Erfahrungen aus der
+Ausschreibung des Flexity beträgt die Zeitspanne vom Start des Ausschreibungsprozesses bis zur
+Zustimmung zum Ratschlag durch den Grossen Rat rund 2,5 Jahre. Anschliessend werden
+3,5 Jahre für die Detailplanung und den Prototyp benötigt, bevor dann die serienmässige Auslieferung der restlichen Fahrzeuge startet. Diese wird auf etwas mehr als ein Jahr geschätzt. Insgesamt
+ist somit mindestens mit einer Dauer von rund sechs Jahren bis zur letzten Auslieferung zu rechnen. Dabei nicht eingerechnet sind allfällige Verzögerungen 7. Dem gegenüber steht eine zugesicherte Auslieferung von etwas mehr als drei Jahren nach der verbindlichen Bestellung des Optionslos des Flexitys. Eine Neuausschreibung bedeutet somit eine Verzögerung von gut drei Jahren,
+die Fahrzeuge würden voraussichtlich 2026 bis 2027 geliefert werden.
+Dies würde bedeuten, dass die 13 Tramzüge der Cornichons entsprechend länger in Betrieb bleiben müssten. Dafür ist jedoch eine Hauptuntersuchung der Fahrzeuge notwendig, die nach Schätzung der BVB rund drei bis vier Millionen Franken kosten würde. Da es sich dabei um ältere Fahrzeuge handelt, besteht das Risiko, dass einzelne technische Elemente nicht mehr serienmässig
+erhältlich sind und deshalb kostenintensive Neubeschaffungen dieser Komponenten notwendig wären.
+Die 13 Tramzüge des Typ Cornichon wurden zwar mit einem Niederflureinstieg umgebaut, sie erfüllen aber die Anforderungen des BehiG nicht. Weil sie weniger breit sind als Combino und Flexity
+werden die geforderten Spaltmasse nicht eingehalten. Es ist deshalb fraglich, ob das Bundesamt
+für Verkehr einem deutlich über Ende 2023 hinausgehenden Einsatz zustimmen würde. Zudem
+entsprechen die Cornichons nicht mehr dem aktuell angestrebten Fahrgastkomfort für einen attraktiven öffentlichen Verkehr. Sowohl Exponenten des Grossen Rats, des Einwohnerrats Riehen sowie der Gemeinderat Allschwil haben bereits heute den Einsatz des nicht mehr zeitgemässen Rollmaterials kritisiert.
+Zu den Kosten aufgrund der zusätzlichen Hauptrevision der Cornichons käme hinzu, dass bei einer
+Neuausschreibung mit höheren Stückpreisen der Fahrzeuge zu rechnen ist. Die Fahrzeuge würden
+gemäss Schätzung der BVB rund 15% teurer, da der preislich vorteilhafte Vertrag des Optionsloses
+nicht mehr gelten würde. Zusätzlich wären die Projektkosten signifikant höher, aufgrund der Zusatzaufwände für die Ausschreibung, deren Evaluation, der Zulassung für drei Länder usw. Auch
+für die Einführung und den Betrieb einer neuen dritten Tramserie fallen eine Reihe von Zusatzkosten an z.B. für Ausbildung der Fahrdienst- und Werkstattmitarbeitenden, Ersatzteile, Werkzeuge
+usw. Die BVB schätzt diese Mehrkosten auf insgesamt grob 15 Millionen Franken.
+Zusammengefasst wäre eine Neuausschreibung zum jetzigen Zeitpunkt mit einer Verzögerung von
+mindestens drei Jahren und grob geschätzten Mehrkosten von 18 bis 19 Millionen Franken verbunden.
+7 Die Verkehrsbetriebe Zürich können z.B. ihr Flexity aufgrund eines Rechtstreits bei der Vergabe erst vier Jahre später als ursprünglich geplant in Be-
+
+trieb nehmen.
+
+Seite 14/29
+
+Regierungsrat des Kantons Basel-Stadt
+
+4.4
+
+Mischbetrieb
+
+Die Umstellung auf Schiebetritte müsste auf einen bestimmten Zeitpunkt hin geschehen. Grundsätzlich dürfen Fahrzeuge ohne Schiebetritte auf Schiebetritte angepasste Haltestellen nicht bedienen, da durch die fehlenden Tritte ein gefährlicher Abstand von rund 25 bis 29 cm zwischen
+Haltestelle und Fahrzeug entsteht. Daraus resultiert, dass jede Linie, bei der auch nur eine einzige
+Haltestelle angepasst wäre, ausschliesslich mit Fahrzeugen mit Schiebetritten bedient werden
+kann. Die Kaphaltestellen, bei denen die Schiebetritte zum Einsatz kommen sollen, sind auf dem
+ganzen Liniennetz verteilt und betreffen alle Linien. Ein langfristiger Mischbetrieb von Fahrzeugen
+mit Schiebetritt und solchen ohne ist daher nicht möglich. Daran ändern auch Fahrzeuge mit Schiebetritten nichts, die den Schiebetritt je nach Haltekante per Sensor ausfahren oder nicht. Denn bei
+denjenigen Fahrzeugen ohne Schiebetritte bestünde weiterhin der gefährliche Abstand zwischen
+umgebauter Haltekante und Tür.
+Die Umstellung auf Schiebetritte muss in Form einer terminierten und koordinierten Umstellung
+aller Fahrzeugserien verwirklicht werden. Eine Umstellung nur eines Teils der Flotte auf Schiebetritte ist nicht möglich. Die Anpassung der Haltestelleninfrastruktur ist entsprechend erst dann möglich, wenn alle Fahrzeugserien komplett mit Schiebetritten ausgerüstet sind.
+
+4.5
+
+Mögliche Umstellungszeitpunkte zu Schiebetritt der Gesamtflotte
+Ausgangslage
+
+Auf Grundlage der heutigen Flotte sind folgende Termine zum Ersatz der einzelnen Fahrzeugserien
+geplant:
+
+Abbildung 5: Ausgangslage Flottenersatz
+
+Die im vorliegenden Ratschlag beantragten Fahrzeuge sollen im Jahr 2059 ersetzt werden.
+Es sind verschiedene Umstellungszeitpunkte auf eine Flotte mit Schiebetritten möglich, die jeweils
+Vor- und Nachteile haben und je nachdem mit dem Ersatz einer Fahrzeugserie verknüpft werden.
+In den folgenden Unterkapiteln werden deswegen verschiedene Varianten vorgestellt:
+-
+
+Umstellung per 2028 vor der Durchführung der 3. Hauptrevision des Combinos
+Umstellung per 2037 mit der Ablösung der Combinos
+Umstellung per 2049 mit der Ablösung der Flexitys
+
+Eine Umstellung auf Schiebetritte mit der Ablösung der Cornichons per 2023 ist nicht realistisch,
+da dies eine vollständige Neuausschreibung der gesamten Flotte bedingen würde. Dies ist aus
+Termingründen nicht machbar, zudem wäre die Restwertvernichtung enorm hoch. Da diese Variante nur schon terminlich nicht mehr umsetzbar ist, wurde auf eine Kostenschätzung verzichtet.
+Eine Umstellung im 2028 wird unten theoretisch aufgezeigt, obschon sie terminlich ebenfalls kritisch und mit einer hohen Restwertvernichtung verbunden ist.
+
+Seite 15/29
+
+Regierungsrat des Kantons Basel-Stadt
+
+Für die 23 beantragten Flexitys ist der Einbau von Schiebetritten wie oben beschrieben nicht sinnvoll, da sie im Rahmen des Optionsloses nur an den Türen 2 bis 7 mit Schiebetritten ausgerüstet
+werden könnten und ein Mischbetrieb nicht möglich ist. Aus diesen Gründen müssten sie zu einem
+der drei oben genannten Zeitpunkte durch eine neue Fahrzeugserie ersetzt werden. Bei den folgenden Kostenschätzungen wird deswegen darauf verzichtet, die Mehrkosten für die Schiebetrittvorbereitung (3,3 Mio. Franken) und den Einbau der Schiebetritte (15,5 Mio. Franken) einzuberechnen. Die folgenden Kostenschätzungen sind nicht Teil der beantragten Summe. Für die Berechnung werden nur die Grundpreise für die 23 neuen Tramzüge genommen ohne die zusätzlichen
+Kosten gemäss Kapitel 5. Es werden zudem nur die Mehrkosten für die Umstellung auf eine Tramflotte mit Schiebetritten ausgewiesen, nicht aber die Kosten für den Kauf der neuen Flotte, die grob
+geschätzt 500 Mio. Franken betragen.
+Ebenfalls nicht Teil dieser Kostenschätzungen sind die Kosten für die Anpassung der Haltestellen,
+damit die Umstellung auch ihren Nutzen entfaltet. Zum jetzigen Zeitpunkt ist davon auszugehen,
+dass 87 Kaphaltestellen, wovon 75 Tramhaltekanten und 12 Kombihaltekanten sind, nochmals umgebaut werden müssten, was geschätzte zusätzliche Kosten von rund 10 Mio. Franken ergibt.8
+Umstellungszeitpunkt 2028
+Gemäss den aktuellen Rahmenbedingungen müsste für eine Umstellung per 2028 eine vollständige Neuausschreibung zur Beschaffung von 112 Trams mit Schiebetritten erfolgen. Darin inbegriffen sind auch die mit vorliegendem Ratschlag beantragten 23 Flexity Basel, da diese auch mit
+Schiebetritten aufgrund der geschlossenen ersten und letzten Türen keine reelle Option darstellen.
+Eine Umstellung per 2028 vor der Durchführung der 3. Hauptrevision des Combinos ergäbe folgendes Bild:
+
+Abbildung 6: Flottenumstellung 2028
+
+Da keines der Flottenbestandteile bis dahin sein Lebensende erreicht hat, zeigt sich folgende
+Restwertvernichtung:
+Tabelle 3: Restwertvernichtung 2028
+
+Restwertvernichtung im Jahr 2028
+Abschreibungsaufwand frühzeitiger Ersatz 28 Stück Combino
+Abschreibungsaufwand frühzeitiger Ersatz 61 Stück Flexity Beschaffung 2014
+Abschreibungsaufwand frühzeitiger Ersatz 23 Stück Flexity Beschaffung 2023
+Gesamt
+
+Fr.
+5'000'000
+133'000'000
+76'300'000
+214'300'000
+
+Der frühzeitige Ersatz ermöglicht auch Einsparungen und Sondereffekte. Dabei geht die BVB von
+einem Wiederverkaufswert der Flotte von 150‘000 Franken pro Flexity aus (Restwert Verkaufspreis). Inwieweit dies möglich ist, müsste in Rahmen einer Marktanalyse erarbeitet werden. Zudem
+würde die dritte Hauptuntersuchung des Combinos eingespart werden,
+8 Die Tramhaltekanten für den Nutzen für die Velofahrenden und die Kombihaltekanten (da verkehren Tram und Bus) für den Nutzen für mobilitätseinge-
+
+schränkte Personen. Für den Umbau der 87 Haltekanten ist zum jetzigen Zeitpunkt mit je rund 110‘000 Franken zu rechnen.
+
+Seite 16/29
+
+Regierungsrat des Kantons Basel-Stadt
+
+Tabelle 4: positiver Effekt 2028
+
+Positiver Effekt
+Restwert Verkaufspreis
+Einsparung an Wartungen und Revisionen
+Einsparung an Wartungen und Revisionen Combino
+Gesamt
+
+Fr.
+12'600'000
+65'100'000
+5'600'000
+83'300'000
+
+Die Mehrkosten einer Umstellung per 2028 würden damit rund 131 Mio. Franken betragen.
+Umstellungszeitpunkt 2037 Ersatz Combino
+Der früheste Zeitpunkt für eine Umstellung der gesamten Flotte, bei der es nicht bei allen Fahrzeugserien zu Restwertvernichtungen käme, wäre 2037 beim Ersatz der Combino-Flotte. Es würden dabei gemäss den heutigen Rahmenbedingungen 112 Fahrzeuge in einer neuen Ausschreibung beschafft. Die mit vorliegendem Ratschlag beantragten 23 Flexitys würden nicht mit Schiebetritten respektive einer Schiebetrittvorbereitung beschafft, da sie ohnehin bereits per 2037 ersetzt
+werden müssten. Damit ergibt sich folgendes Bild:
+
+Abbildung 7: Flottenumstellung 2037
+
+Die 61 aktuell vorhandenen Flexitys würden 12 Jahre früher als geplant ersetzt werden, die im
+vorliegenden Ratschlag beschafften Fahrzeuge würden 22 Jahre früher ersetzt. Damit ergibt sich
+eine Restwertvernichtung von 133,95 Mio. Franken.
+Tabelle 5: Restwertvernichtung 2037
+
+Restwertvernichtung im Jahr 2037
+Abschreibungsaufwand frühzeitiger Ersatz 61 Stück Flexity Beschaffung 2014
+Abschreibungsaufwand frühzeitiger Ersatz 23 Stück Flexity Beschaffung 2023
+Gesamt
+
+Fr.
+74'150'000
+59'800'000
+133'950'000
+
+Dem stehen Einsparungen beim Unterhalt der Fahrzeuge gegenüber. Die BVB geht davon aus,
+dass die auszumusternden Fahrzeuge zu dem Zeitpunkt noch einen Verkaufswert von rund
+4,2 Mio. Franken haben.
+Tabelle 6: Positiver Effekt 2037
+
+Positiver Effekt
+Restwert Verkaufspreis
+Einsparung an Wartungen und Revisionen
+Gesamt
+
+Fr.
+4'200'000
+65'100'000
+69'300'000
+
+Seite 17/29
+
+Regierungsrat des Kantons Basel-Stadt
+
+Die Flotte wäre einheitlich und auf dem Stand Technik im Jahr 2037. Bei einer Umstellung 2037
+auf Basis der heutigen Planung mit Mehrkosten von rund 69,3 Mio. Franken zu rechnen.
+Umstellungszeitpunkt 2049 Ersatz Flexity Erstbeschaffung
+Der dritte mögliche Zeitpunkt zur Umstellung der Gesamtflotte wäre 2049 mit dem Ersatz der heutigen Flexity-Flotte aus der ersten Beschaffung. Es würden gemäss den heutigen Rahmenbedingungen im Rahmen einer Neuausschreibung 84 neue Fahrzeuge beschafft. Der notwendige Ersatz
+der 28 Combino im Jahr 2037 würde einen Bauraum vorsehen, der einen nachträglichen Einbau
+von Schiebetritten an allen Türen ermöglicht. Dafür braucht es eine Neuausschreibung. Mit dieser
+Variante bestünde die Flotte wie aktuell aus zwei modernen Tramserien.
+
+Abbildung 8: Flottenumstellung 2049
+
+Die im vorliegenden Ratschlag dargestellte Flotte von 23 Flexitys wäre 12 Jahre länger im Betrieb
+als bei der Variante mit Umstellung per 2037. Damit sinkt die Restwertvernichtung signifikant auf
+29,9 Mio. Franken. Die Abschreibung der aktuellen 61 Flexitys wäre abgeschlossen.
+Tabelle 7: Restwertvernichtung 2049
+
+Restwertvernichtung im Jahr 2049
+Abschreibungsaufwand frühzeitiger Ersatz 23 Stück Flexity Beschaffung 2023
+Gesamt
+
+Fr.
+29'900'000
+29'900'000
+
+Die Einsparungen beim Unterhalt der Fahrzeuge betragen noch 17,8 Mio. Franken für die 23 Flexitys.
+Tabelle 8: Positiver Effekt 2049
+
+Positiver Effekt
+Einsparung an Wartungen und Revisionen
+Gesamt
+
+Fr.
+17'800'000
+17'800'000
+
+Die Mehrkosten einer Umstellung per 2049 betragen somit rund 12,1 Mio. Franken.
+Fazit
+Der Vergleich der drei Varianten zeigt deutlich, dass eine Umstellung per 2049 am wirtschaftlichsten wäre und eine Umstellung per 2028 nicht sinnvoll ist.
+
+Seite 18/29
+
+Regierungsrat des Kantons Basel-Stadt
+Tabelle 9: Übersicht Flottenumstellung
+
+Zeitpunkt Flottenumstellung
+zum Zeitpunkt vor der 3. Hauptuntersuchung des
+Combinos, 2028
+zum Zeitpunkt des Ersatzbeschaffung Combino, 2037
+
+Restwert
+in Fr.
+
+Pos. Effekt
+in Fr.
+
+Ergebnis
+in Fr.
+
+214'300'000
+
+83'300'000 131'000'000
+
+133'950'000
+
+69'300'000
+
+64'650'000
+
+29'900'000
+
+17'800'000
+
+12'100'000
+
+zum Zeitpunkt der Ersatzbeschaffung Flexity, 2049
+
+Situation BLT Baselland Transport AG
+Die Trams der BLT fahren Haltestellen in Basel-Stadt an und müssen deshalb kompatibel mit dem
+städtischen System sein. Erst wenn alle Trams der BVB und der BLT mit Schiebetritten ausgerüstet
+sind, können die Haltestellen zurückgebaut werden. Die BLT hat bei ihrer aktuellen Trambeschaffung (als Ersatz der Schindler Trams) 25 Trams mit Schiebetrittvorbereitung bestellt. Die bisherigen
+Trams der BLT sind nicht mit Schiebetrittvorbereitung ausgerüstet. Die neusten Trams der bestehenden Flotte, die Tangos, haben eine erwartete Lebensdauer bis 2045. Je nach Umstellungszeitpunkt fallen somit auch bei der BLT Mehrkosten durch Restwertvernichtung an.
+
+4.6
+
+Zwischenzeitliche Massnahmen zur Erhöhung der Sicherheit der Velofahrenden
+
+Die Umstellung auf Schiebetritte kann wie vorgängig erläutert erst mittel- bis langfristig erfolgen.
+Zur Erhöhung der Sicherheit der Velofahrenden sieht der Regierungsrat zwischenzeitlich verschiedene Massnahmen vor. So wird bereits heute beim Umbau der Haltestellen gemäss den Anforderungen des Behindertengleichstellunggesetzes jeweils geprüft, ob ein Haltestellentyp realisiert werden kann, bei dem die Velofahrenden nicht der hohen Haltekante entlangfahren müssen. Für
+Haltestellen, bei denen dies aus Platzgründen nicht möglich ist, sucht der Kanton nach einer velofreundlichen Lösung für die Durchfahrt entlang der hohen Kante. Zusammen mit der BVB und den
+Veloverbänden führt das Bau- und Verkehrsdepartement in Erfüllung des Anzugs Nr. 18.5246 von
+Kaspar Sutter und Konsorten betreffend „Pilotversuch für sichere Kaphaltestellen“ einen Versuch
+mit einem velofreundlichen Gleissystem durch. Dieses zeichnet sich durch ein Gummiprofil in der
+Schienenrille aus, was die Schiene für Velofahrende sicher befahrbar macht. Anders als beim Velo
+wird bei der Überfahrt durch das schwere Tram das Gummiprofil jeweils in die Schienenrille eingedrückt. Dank diesem velofreundlichen Gleis sollen sich sowohl jene Velofahrenden sicherer fühlen,
+die zwischen Kante und Schiene fahren möchten, als auch jene, die bei einer Kaphaltestelle lieber
+zwischen die beiden Schienen wechseln und diese so besser queren können.
+Das velofreundliche Gleis wurde im Sommer 2021 bei der Haltestelle Bruderholzstrasse in Fahrtrichtung Bruderholz eingebaut und im November 2021 in Betrieb genommen. Eine erste Auswertung wird nach rund einjährigem Betrieb Ende 2022 möglich sein. Sollten die Tests erfolgreich verlaufen, werden an denjenigen Kaphaltestellen, an denen Velofahrende entlang der hohen
+Haltekante fahren, velofreundliche Gleise eingesetzt.
+
+4.7
+
+Fazit
+
+Der Grosse Rat hat den grundsätzlichen Systemwechsel hin zu Schiebetritten beschlossen. Bei
+den im Rahmen des wirtschaftlich indizierten Optionsloses zu bestellenden Flexitys können die
+erste und letzte Türe nicht für den späteren Einbau von Schiebetritten vorbereitet werden. Die erste
+und letzte Türe an der Haltestelle aber jeweils geschlossen zu halten, würde die Fahrzeiten verlängern, was gemäss UVEK hinsichtlich des Kundenkomforts keine Option darstellt.
+
+Seite 19/29
+
+Regierungsrat des Kantons Basel-Stadt
+
+Anstelle davon, das Optionslos einzulösen, eine Neuausschreibung durchzuführen, wäre mit einer
+Verzögerung von mindestens drei Jahren und erheblichen Mehrkosten verbunden. Ein Mischbetrieb von Fahrzeugen mit und solchen ohne Schiebetritten ist ohnehin nicht möglich. Denn Fahrzeuge ohne Schiebetritte dürfen grundsätzlich keine Haltestellen bedienen, die auf Schiebetritte
+angepasst sind, da durch die fehlenden Tritte ein gefährlicher Abstand von rund 25 bis 29 cm zwischen Haltekante und Fahrzeug entsteht (siehe folgende Abbildung). Daraus folgt, dass jede Tramlinie, bei der auch nur eine einzige Haltestelle angepasst wäre, ausschliesslich mit Fahrzeugen mit
+Schiebetritten bedient werden kann. Die Kaphaltestellen, bei denen die Schiebetritte zum Einsatz
+kommen sollen, sind auf das ganze Liniennetz verteilt und betreffen alle Linien. Ein Mischbetrieb
+von Fahrzeugen mit Schiebetritt und Fahrzeugen ohne Schiebetritt ist nicht mehr möglich, sobald
+die erste Haltestelle für Trams mit Schiebetritten umgebaut ist. Daran ändern auch Fahrzeuge
+nichts, die Schiebetritte per Sensor je nach Haltestellentyp ausfahren oder nicht. Denn diejenigen
+Trams, die noch über keine Schiebetritte verfügen, dürften die umgebauten Haltestellen nicht anfahren.
+
+Abbildung 9: Situation an umgebauten Haltekanten für Trams ohne und Trams mit Schiebetritten
+
+Die Umstellung auf Schiebetritte muss folglich für alle Fahrzeugserien auf den gleichen Zeitpunkt
+hin erfolgen. Je nach gewähltem Zeitpunkt der Umstellung ergeben sich vor allem aufgrund der
+Restwertvernichtung unterschiedlich hohe Kosten. Sinnvollerweise wird dieser Zeitpunkt mit dem
+Ersatz der Fahrzeugserien oder weiteren Beschaffungen verknüpft und kann deshalb per 2028,
+2037 oder 2049 erfolgen. Aufgrund der saldierten Restwertvernichtung von 131 Mio. Franken empfiehlt der Regierungsrat dem Grossen Rat, den Umsteigezeitpunkt 2028 nicht weiterzuverfolgen.
+Aus wirtschaftlichen Gründen ist eine Umstellung erst per 2049 mit dem Ersatz der bestehenden
+61 Flexitys angezeigt. Die saldierte Restwertvernichtung wäre zu diesem Zeitpunkt am geringsten
+und betrüge rund 12,1 Mio. Franken.
+Aufgrund dieser Ausführungen empfiehlt der Regierungsrat, für die mit diesem Ratschlag beantragten 23 Flexitys auf die Schiebetrittvorbereitung der mittleren Türen (d.h. ohne erste und letzte
+Türen) zu verzichten. Vielmehr sollen die 23 Flexitys ungeachtet des verbleibenden Restwerts spätestens zeitgleich mit den 61 bestehenden Flexitys ersetzt werden. Die aktuelle Beschaffung unter
+Verzicht auf die Schiebetrittvorbereitung hat damit keinen verzögernden Effekt auf den Zeitpunkt
+der Umstellung auf Schiebtritte.
+Zwischenzeitlich werden zusätzliche Massnahmen zur Erhöhung der Sicherheit der Velofahrenden
+weiterverfolgt, insbesondere das velofreundliche Gleis. Sollte sich dieses in der Praxis nicht bewähren, kann der Grosse Rat zu einem späteren Zeitpunkt über die Umstellung per 2037 (Ersatzbeschaffung Combinos) oder 2049 (Ersatzbeschaffung Flexity-Tranche 2014) beschliessen. Dazu
+Seite 20/29
+
+Regierungsrat des Kantons Basel-Stadt
+
+wird der Grosse Rat rechtzeitig in die Diskussion einbezogen. Die Kosten für die Schiebetrittvorbereitung und die Schiebetritte werden im Sinne der Transparenz im Kapitel 5 aber ausgewiesen.
+
+5.
+
+Kosten
+
+Alle zugehörigen Kosten zur Beschaffung von 23 Tramzügen beinhalten die Vorsteuerkürzung. Die
+Kosten einer Vorbereitung von Schiebetritten sind nicht Teil des Ratschlages.
+
+5.1
+
+Grundfahrzeug
+
+Die Kosten für das Fahrzeug enthalten alle technischen Anpassungen im Sinne der Weiterentwicklung des Fahrzeuges bis dato, die durch den Hersteller durchgeführt wurden. Als Ersatz für die
+ausgemusterten Fahrgastzählanlagen der Cornichons und zum Halten der bisherigen Ausrüstungsquote werden acht Fahrzeuge mit einer Fahrgastzählanlage ausgerüstet.
+Im zugrundeliegenden Werkliefervertrag ist ein Teuerungsausgleich auf Teilen des Grundpreises
+vereinbart. Durch die wirtschaftliche Entwicklung der vergangenen Jahre ergibt sich ein positiver
+Effekt: Die ursprünglich gennannten Preise werden um 6,1% gekürzt, da die vereinbarten Indizes
+sich Stand heute negativ entwickelt haben. Bei einer Neuausschreibung entfiele dieser positive
+Effekt der geltenden Teuerungsregel; zudem sind die Preise aufgrund der verstärkten Nachfrage
+heute höher als bei der ersten Ausschreibung. Damit ergeben sich folgende Grundpreise:
+Tabelle 10: Kosten Grundfahrzeuge
+
+1)
+
+Durchschnittlicher Einzelpreis für ein langes Fahrzeug
+Durchschnittlicher Einzelpreis für ein kurzes Fahrzeug 1)
+1)
+
+ohne Optionslos wären die Beschaffungskosten um 20% höher
+
+Gesamtpreis für 21 lange Fahrzeuge
+Gesamtpreis für 2 kurze Fahrzeuge
+Gesamtsumme Grundfahrzeuge
+
+5.2
+
+Kosten in Fr.
+3'820'634
+2'774'001
+80'233'305
+5'548'001
+85'781'306
+
+Technische Anpassungen
+Vorbereitung Schiebetritte
+
+Die Kosten enthalten die Bauraumvorbereitung zur späteren Montage von Schiebetritten. Diese
+Kosten sind nicht in der beantragten Summe enthalten. Der spätere Einbau von Schiebetritten
+würde laut Hersteller zusätzlich ca. 13,4 Mio. Franken kosten. Eine verbindliche Kostenschätzung
+ist aufgrund der in der weit in der Zukunft liegenden Umsetzung und den folglich unbekannten
+Rahmenbedingungen nicht möglich.
+Tabelle 11: Kosten Bauraumvorbereitung
+
+Bauraumvorbereitung Schiebetritte für 23 Fahrzeuge
+
+Kosten in Fr.
+3‘289‘473
+
+Kollisions-Warnsystem
+Die Kosten enthalten das Kollisions-Warnsystem.
+T
+
+Seite 21/29
+
+Regierungsrat des Kantons Basel-Stadt
+abelle 12: Kosten Warnsystem
+
+Kosten in Fr.
+Kollisions-Warnsystem für alle 23 Fahrzeuge
+
+1’096‘211
+
+Messsysteme Infrastruktur
+Die Kosten enthalten ein Messsystem für zwei Fahrzeuge.
+Tabelle 13: Kosten Messsystem
+
+Messsystem Infrastruktur für zwei Fahrzeuge
+
+Kosten in Fr.
+838‘034
+
+Kleinere technische Anpassungen
+Die detaillierte Auflistung der Kostenpositionen für die kleineren technischen Anpassungen findet
+sich im Anhang.
+Tabelle 14: Kosten Anpassungen
+
+Technische Anpassungen für 23 Fahrzeuge
+
+5.3
+
+Kosten in Fr.
+1'898'661
+
+Projektabwicklung
+
+Die Projektabwicklung beinhaltet neben der Abwicklung des Projektes die notwendigen Kosten für
+Gutachter und Experten für die Qualitätssicherung.
+Tabelle 15: Kosten der Projektabwicklung
+
+Projektleitung
+Abwicklung Ablösung Altfahrzeuge
+Engineering, Administration und Kommunikation
+Abnahmen inkl. Reisekosten
+Externe Beratung und Gutachten
+Mitarbeit Fahrbetrieb und Infrastruktur
+Gesamt
+
+Kosten in Fr.
+461'640
+308'000
+442'000
+243'600
+180'000
+25'000
+1'660'240
+
+Die Kosten enthalten des Weiteren die Abwicklung des Gesamtprojektes inklusive der Ablösung
+der Altfahrzeuge sowie die Begleitung der zweijährigen Gewährleistung nach Endabnahme des
+letzten Fahrzeuges.
+
+Seite 22/29
+
+Regierungsrat des Kantons Basel-Stadt
+
+5.4
+
+Gesamtkosten
+
+Alle Beträge enthalten die Vorsteuerkürzung.
+Tabelle 16: Übersicht Gesamtkosten
+
+Kosten in Fr.
+85'781'306
+1'096'211
+838'034
+1'898'661
+1'660'240
+91'274'452
+
+Grundpreis für 21 lange und 2 kurze Fahrzeuge
+Kollisions-Warnsystem für alle 23 Fahrzeuge
+Messsystem Infrastruktur für zwei Fahrzeuge
+Technische Anpassungen für 23 Fahrzeuge
+Kosten der Projektabwicklung und Qualitätssicherung
+Beantragte Gesamtsumme
+
+6.
+
+Finanzielle Auswirkungen des Investitionsvorhabens
+
+6.1
+
+Finanzierung
+
+Gemäss § 17 BVB-OG ist diese Fahrzeugbeschaffung durch die BVB aus eigenen Mitteln und/
+oder über ein verzinsliches und rückzahlbares Darlehen zu finanzieren.
+Für die Beschaffung der 23 Tramzüge werden rund 91,274 Mio. Franken benötigt. Die BVB kann
+dafür keine eigenen Mittel zur Vorfinanzierung einsetzen. Entsprechend ersucht die BVB beim Kanton Basel-Stadt um ein Darlehen.
+Die 13 zu ersetzenden Cornichon-Trams haben zum Ersatzzeitpunkt (Ende 2024) noch einen geringen Restbuchwert von 0,9 Mio. Franken. Damit ist ein Beitrag von rund 0,9 Mio. Franken abzuschreiben, dies erfolgt schrittweise über 2 Jahre. Die Fahrzeuge lassen sich nicht mehr verkaufen
+und besitzen daher keinen kommerziellen Restwert mehr.
+
+6.2
+
+Darlehensgewährung
+
+Das verzinsliche und rückzahlbare Darlehen gemäss § 17 BVB-OG wird über zweiunddreissig
+Jahre linear amortisiert und zu marktüblichen Konditionen verzinst.
+Das Investitionsvolumen für das Optionslos 2 beträgt rund 91,274 Mio. Franken. Die Rückzahlung
+des Darlehens erfolgt über die oben genannte Amortisationsdauer von zweiunddreissig Jahren.
+Abschreibungen und Zinsen
+Die etappierte Lieferung der Fahrzeuge führt zu steigenden Abschreibungen in den Jahren 2024
+bis 2026. Ab 2026 bleiben die jährlichen Abschreibungen jeweils gleich hoch. Die Kosten für die
+Fremdkapitalverzinsung, die bei einem angenommenen Zinssatz von 0,45% anfallen, betragen auf
+die Amortisationszeit bezogen 4,6 Mio. Franken.
+in Mio. Fr.
+Abschreibungen (32 Jahre)
+Darlehenszinsen
+
+2023
+0,0
+
+2024
+1,4
+
+2025
+2,5
+
+2026
+2,9
+
+2027ff
+2,9
+
+0,1
+
+0,2
+
+0,3
+
+0,4
+
+0,4
+
+Für die folgenden Jahre reduzieren sich die Zinskosten entsprechend der Reduktion der Darlehenshöhe infolge der Amortisation. Eine Verlängerung der Amortisationszeiten würde zu höheren
+Zinskosten für die BVB über die Gesamtlaufzeit führen.
+
+Seite 23/29
+
+Regierungsrat des Kantons Basel-Stadt
+
+Betriebskosten
+Die jährlichen Einsparungen durch den Ersatz der Cornichons, durch die neuwertigen energiesparsamen Flexitys sowie deren kostengünstigere Instandhaltung betragen in den ersten Jahren jeweils
+schätzungsweise 0,2 bis 0,3 Mio. Franken. Gemäss aktueller Planung werden die vorgesehenen
+zwei Messtrams mit den letzten Fahrzeugen ausgeliefert. Die mit dem Einsatz dieser Trams verbundenen Einsparungen laut Anhang 3 wirken im Rahmen einer langfristigen Betrachtung und werden daher für die Jahre 2026 ff angesetzt. Es ist damit zu rechnen, dass die Instandsetzungskosten
+steigen werden, da die Instandsetzung mit zunehmendem Alter der Fahrzeuge naturgemäss aufgrund stärker abgenutzter Komponenten teurer wird.
+Die Offerte der BVB entwickelt sich demnach aus der Fahrzeugbeschaffung für die Jahre 2023 bis
+2027 wie folgt:
+Tabelle 17: Linienrechnung
+
+in Mio. Fr.
+Minderaufwand Messtram (gemäss
+Anhang 3)
+Minderaufwand Energie
+
+2023 2024 2025 2026 2027 2028 2029ff
+0,0
+0,0
+0,0 -0,7 -0,7 -0,7
+-0,7
+0,0
+
+-0,1
+
+-0,1
+
+-0,1
+
+-0,1
+
+-0,1
+
+-0,1
+
+Minderaufwand Instandhaltung Cornichons
+Mehraufwand Instandhaltung Flexitys
+
+0,0
+
+-0,3
+
+-0,5
+
+-0,6
+
+-0,6
+
+-0,6
+
+-0,6
+
+0,0
+
+0,2
+
+0,3
+
+0,3
+
+0,4
+
+1,5
+
+1,7
+
+Veränderung Betriebskosten
+
+0,0
+
+-0,2
+
+-0,3
+
+-1,1
+
+-1,0
+
+0,1
+
+0,3
+
+7.
+
+Anzug Georg Mattmüller und Konsorten betreffend «neue BVBTrams für die Zukunft von Basel»
+
+Der Grosse Rat hat an seiner Sitzung vom 19. Januar 2022 vom Schreiben 21.5235.02 Kenntnis
+genommen und – dem Antrag des Regierungsrates folgend – die nachstehende Motion Georg
+Mattmüller dem Regierungsrat als Anzug überwiesen.
+«Aktuell fahren diverse Tramtypen der Basler Verkehrsbetriebe auf dem Schienennetz der Region. Es stehen
+Ersatzbeschaffungen des Tram-Rollmaterials an, die mit Einlösen eines Beschaffungs-Optionsloses des neusten
+Tramtypes (Flexity) oder aber einer Ausschreibung eines neuen Tramtypes erfolgen könnten, der den basel-städtischen Bedürfnissen Rechnung trägt.
+Das Einlösen der Optionsloses verlängert die Neuordnung der Tramtypen bzgl. der Tramnetz-Kompatibilität im
+schlimmsten Fall bis fast 2060. Bundesrechtlich ist nach einer Übergangsfrist von 20 Jahren bis Ende 2023 eine
+autonome Zugänglichkeit zum öffentlichen Verkehr zu gewährleisten (Behindertengleichstellungsgesetz Be-hiG).
+Diese Vorgabe wird schon jetzt klar um mindestens 10 bis 15 Jahre nicht erreicht.
+Der Kanton bemüht sich, die Vorschriften des Bundesrechts im Rahmen des öffentlichen Verkehrs umzusetzen.
+So wurden auf Grund des aktuellen Rollmaterials Tramhaltestellen so umgebaut, dass sie Sicherheitsprobleme
+für die Velofahrenden (Kap-Haltestellen) darstellen. Ein Zielkonflikt zwischen Menschen mit Behinderung und Velofahrenden kann aber unter keinen Umständen im Sinne des Gesetzgebers sein. Entsprechend ist eine Trambeschaffung anzustreben, die diesen Zielkonflikt löst.
+Gemäss §42 Abs1bis der GO fordern die Motionärlnnen den Regierungsrat auf, Massnahmen zu ergreifen, die
+sicherstellen, dass das Tramnetz möglichst zeitnah vollumfänglich mit Rollmaterial inkl. Schiebetritt befahren wird.
+Georg Mattmüller, Jean-Luc Perret, Jérôme Thiriet, Lisa Mathys, Beat Braun, Franz-Xaver Leonhardt, Brigitte Kühne, Raoul I. Furlano»
+
+Wir berichten zu diesem Anzug wie folgt:
+Der Regierungsrat ist bestrebt, den Zielkonflikt zwischen Menschen mit Beeinträchtigung und Velofahrenden zu lösen. Er teilt auch das Anliegen der Motion, «möglichst zeitnah vollumfänglich» auf
+
+Seite 24/29
+
+Regierungsrat des Kantons Basel-Stadt
+
+eine Tramflotte mit Schiebetritten umzustellen und so den Grossratsbeschluss 20/20/09G vom
+14. Mai 2020 umzusetzen, der bei zukünftigen Trambeschaffungen Trams mit Schiebetritten oder
+der Möglichkeit für den nachträglichen Einbau von Schiebetritten (Schiebetrittvorbereitung) fordert.
+Diese Umstellung kann aber nur koordiniert über alle Tramtypen und auf einen einzigen Zeitpunkt
+hin geschehen. Der Verzicht auf Schiebetritte oder eine Schiebetrittvorbereitung der neu zu beschaffenden Flexity-Trams hat dabei keinen Einfluss auf den Umstellungszeitpunkt, weil diese
+Trams zum Umstellungszeitpunkt ohnehin ersetzt werden müssen. Eine Umstellung ist grundsätzlich mit Mehrkosten verbunden. Massgebend für die Höhe dieser Kosten ist der gewählte Umstellungszeitpunkt. Der Variantenvergleich in Kapitel 4.5 zeigt, dass der wirtschaftlich günstigste Zeitpunkt zur Umstellung auf eine Flotte mit Schiebetritten 2049 ist; dann werden auch die bestehenden
+61 Flexity-Trams ausgemustert. Jede frühere Umstellung führt wie dargelegt zu signifikant höheren
+Mehrkosten.
+Die UVEK hat in dem Bericht zum Grossratsbeschluss 20/20/09G geschrieben, dass die Forderung
+nach Schiebetritten bei einer neuen Trambeschaffung hinterfragt werden solle, wenn dadurch das
+Optionslos nicht eingelöst werden könnte. Dem wurde vorliegend Rechnung getragen. Der Regierungsrat und die BVB empfehlen, die zusätzlichen Flexity-Trams des nächsten Loses ohne Schiebetritte oder Schiebetrittvorbereitung zu beschaffen. Nach diesem Optionslos werden nur noch
+Fahrzeuge mit Schiebetritten oder Schiebetrittvorbereitungen beschafft. Es werden keine weiteren
+Optionslose gezogen, obwohl die BVB noch über weitere Optionslose verfügt.
+
+8.
+
+Formelle Prüfung
+
+Das Finanzdepartement hat den vorliegenden Ratschlag gemäss § 8 des Gesetzes über den kantonalen Finanzhaushalt (Finanzhaushaltgesetz) vom 14. März 2012 überprüft.
+
+9.
+
+Antrag
+
+Aufgrund dieses Berichts beantragen wir, den Anzug Georg Mattmüller und Konsorten betreffend
+«neue BVB-Trams für die Zukunft von Basel» abzuschreiben.
+Zudem beantragen wir dem Grossen Rat gestützt auf unsere Ausführungen die Annahme des
+nachstehenden Beschlussentwurfes.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Beat Jans
+Regierungspräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Beilage
+Entwurf Grossratsbeschluss
+
+Seite 25/29
+
+Regierungsrat des Kantons Basel-Stadt
+
+Grossratsbeschluss
+Ratschlag betreffend Darlehensgewährung an die Basler Verkehrs-Betriebe (BVB) zur Beschaffung von 23 Tramzügen
+(vom [Datum eingeben])
+Der Grosse Rat des Kantons Basel-Stadt, nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. [Nummer eingeben] vom [Datum eingeben] und nach dem mündlichen Antrag der [Kommission eingeben] vom [Datum eingeben], beschliesst:
+Eine Ausgabenbewilligung in Höhe von gesamthaft Fr. 91‘574‘000 (inkl. VStK.) für die Beschaffung von Tramzügen und Folgemehrkosten wird genehmigt. Diese Ausgaben teilen sich
+wie folgt auf:
+-
+
+Fr. 91‘274‘000 für die Beschaffung von 23 Tramzügen des Typs Flexity (Mittelwert
+Indizes 101.7 Punkte, Stand Juli 2021, Importpreisindex für Gruppe 28 Maschinen
+des Bundesamtes für Statistik und Importpreisindex für Gruppe 29 Fahrzeuge des
+Bundesamtes für Statistik, Basis Dezember 2020 = 100 Punkte) als Darlehen an die
+BVB zu Lasten des Investitionsbereichs „Darlehen und Beteiligungen“
+
+-
+
+Fr. 300'000 als unbefristete Folgemehrkosten in Folge der Beschaffung von
+23 Tramzügen zu Lasten der Erfolgsrechnung des Bau- und Verkehrsdepartement,
+Globalbudget ÖV
+
+Dieser Beschluss ist zu publizieren. Er untersteht dem Referendum.
+
+Seite 26/29
+
+Regierungsrat des Kantons Basel-Stadt
+
+10.
+
+Anhang
+
+10.1
+
+Anhang 1 «Technische Reserve»
+
+Die Berechnung der technischen Reserve erfolgt grundsätzlich nach der VDV-Norm 801:3/2019.
+Dabei setzt sich der Instandhaltungsbedarf aus einem geplanten und einem ungeplanten Bedarf
+zusammen: Der geplante Bedarf umfasst die Anzahl Fahrzeuge, an denen während der Hauptverkehrszeit geplanten Instandhaltungsarbeiten gemäss dem Instandhaltungskonzept oder behördlicher Vorgaben (z.B. Hauptuntersuchungen, lange Rollkuren usw.) durchgeführt werden müssen.
+Zusätzlich braucht es eine Fahrzeugreserve für ungeplante Instandhaltungen, wenn ganze Fahrzeuge oder einzelne Komponenten aufgrund von Defekten unerwartet ausfallen. Diese Ausfälle
+müssen mit Reservefahrzeugen abgedeckt werden.
+Die nachfolgende Auflistung zeigt die Berechnung der technischen Reserve gemäss VDV-Richtlinie. Der Basiswert von 10% ist der minimal benötigte Mindestbestand an Fahrzeugen für die technische Reserve, um alle geplanten und ungeplanten Instandhaltungsmassnahmen durchzuführen.
+Dazu kommen Zuschläge aufgrund von technischen Merkmalen der Fahrzeuge wie der Fahrzeugantrieb und die Fahrzeugausstattung. Inklusive den nötigen technischen Zuschlägen ergibt sich so
+eine technische Reserve von 17.23 Fahrzeugen. Da nur ganze Fahrzeuge beschafft werden können, liegt der Bedarf gemäss VDV-Richtlinie bei 18 Fahrzeugen.
+
+Die Berechnung erfolgt auf den Ist-Zustand der Flotte. Beim Einsatz von Niederflurfahrzeugen erhöht sich laut VDV die technische Reserve.
+
+Seite 27/29
+
+Regierungsrat des Kantons Basel-Stadt
+
+10.2
+
+Anhang 2 «Aufteilung Kosten der kleineren technischen Anpassungen»
+
+Benennung
+Anpassung IBIS / Ablösung 2G Technik
+Geschwindigkeitsbegrenzer zuschaltbar
+Verbesserung Fahrschuleinrichtung
+Anpassung Türkontraste BehiG
+Anpassung der Bodenmarkierung zu einen qualitativ besseren Produkt
+Anpassung der Lautstärkte des Findesignal der Fahrgasttüren
+Automatisierte Erfassung der Klapprampeneinsätze
+Anpassung des Fahrplanhalters im Führerstand
+Anpassung Schloss Zugang des Heckführerstandes
+Neudefinition der Leuchtmittel auf besseres Produkt
+Leitblech zur Vermeidung von Zug im Führerstand
+Anpassung Bremsbelag auf besseres Produkt
+Modernisierung Router
+Anpassung Beschriftung stromführender Elemente
+Anpassung diverser Piktogramme
+Anpassung Bahnräumer am Fahrwerk zur besseren Justierung
+Technische Anpassung Fusspodest
+Beschriftung Radachsen zur einfacheren Instandsetzung
+Anpassung der Spurkranzschmierung
+Erweiterung Sonnenschutzmassnahmen Führerstand
+Anpassung Zentralschrauben am Fahrwerk
+Technische Anpassung Klimaanlagen zur Verbesserung der Zuverlässigkeit
+weitere …
+Gesamt
+
+Kosten in Fr.
+321'865
+137'652
+78'248
+
+50'000 pro Fahrzeug
+1'150'000
+
+1'898'661
+
+Die Kosten für die gelisteten kleineren technischen Anpassungen sind zusammenfassend mit je
+50‘000 Franken pro Fahrzeug angesetzt. Die Umsetzung erfolgt zum grossen Teil während des
+Baus des Fahrzeuges. Die BVB führt nach Anlieferung nur wenige einzelne Anpassungen durch.
+
+Seite 28/29
+
+Regierungsrat des Kantons Basel-Stadt
+
+10.3
+
+Anhang 3 «Wirtschaftlichkeitsbetrachtung Messtram»
+
+Das Schienenmesssystem misst morphologische Veränderungen im Gleisnetz und ist Teil eines
+Gesamtsystems zur Überwachung der Netzinfrastruktur. Morphologische Veränderungen können
+sogenannte Riffel, Schlaglöcher, Gleisverwerfungen und Schienenbrüche sein. Werden diese
+Schäden nicht rechtzeitig erkannt, entstehen Folgeschäden, die teurere Instandhaltungsmassnahmen nach sich ziehen. Durch eine frühzeitige Erkennung solcher Vorkommnisse können entsprechend Folgeschäden minimiert werden. Die folgenden Betrachtungen zeigen die möglichen Einsparungen auf.
+Reduzierung von Schienenbrüchen
+Im Jahr 2020 mussten 31 Schienenbrüche instandgesetzt werden. Jede Instandsetzung kostet die
+BVB durchschnittlich 900 Franken. Auf das Jahr gerechnet ergibt dies eine Summe von rund
+28'000 Franken. Die BVB schätzt hier eine mögliche Einsparung von 10%, also rund 3000 Franken
+pro Jahr
+Das Vermeiden von Schienenbrüchen führt zudem zu zusätzlichen indirekten Einsparungen, da
+durch das Verschweissen der Schienenbrüche viel Wärme in den Stahl eingebracht wird, was wiederum die Lebensdauer der Gleise verringert.
+Einsparung für Vermessungsdienstleistungen
+Heute werden Vermessungsdienstleistungen extern eingekauft. Darauf kann dank eigener
+Messtrams künftig verzichtet werden, was eine jährliche Einsparung von 120‘000 Franken bedeutet. Durch die Anschaffung von zwei Messfahrzeugen können die Messungen weitergeführt werden, auch wenn ein Fahrzeug ausfallen sollte. Dies gewährleistet ein hohes Mass an Stabilität für
+das Messsystem. Mit dem Messsystem können sicherheitsrelevante Mängel früher erkannt und
+vermindert werden. Des Weiteren können auch potenzielle Lärmquellen früher identifiziert werden.
+Reduzierung von Schienenriffeln
+Ein grosser Anteil der Instandhaltungsmassnahmen besteht aus dem Schleifen von Riffeln. Im Jahr
+2020 kostete dies die BVB rund 700‘000 Franken. Durch das frühzeitige Erkennen schätzt die BVB
+hier ein Einsparungspotenzial von 10% also 70‘000 Franken pro Jahr
+Minimierung Verlust Schienenprofil
+Nach aktueller Einschätzung liegt das Optimierungspotenzial durch Vermeidung des Abtrags bei
+Schleifarbeiten bei ca. 0.05 mm pro Jahr. Bei einer durchschnittlichen Lebensdauer der Gleise von
+ca. 25 Jahren (Erfahrungswert aus den vergangenen Jahrzehnten) beträgt die Einsparung an
+Schienenverschleiss durch das Messsystem über diesen Zeitraum 1,25 mm. Dadurch erhöht sich
+die Lebensdauer um ein Jahr. Durch diese Verlängerung der Lebensdauer kann der Wertverlust
+der Gleisanlagen jedes Jahr um 590‘000 Franken verringert werden.
+Dieser Wertverlust wird wie folgt berechnet:
+Anzahl
+Einheit
+Einheitspreis pro m*
+Gleis 128’000
+m
+3000
+
+Total in Mio. Franken
+384
+
+*Gemäss aktueller Baukostenkalkulation
+
+-
+
+Wertverlust der Gleisanlagen bei durchschnittlicher Lebensdauer von 25 Jahren:
+15,36 Mio. Franken/Jahr
+Wertverlust der Gleisanlagen bei durchschnittlicher Lebensdauer von 26 Jahren:
+14,77 Mio. Franken/Jahr
+
+Den Kosten in Höhe von rund 838‘034 Franken für die Beschaffung von Messsystemen für zwei
+Trams stehen also mögliche Einsparungen von jährlich insgesamt 783‘000 Franken gegenüber,
+was für die Wirtschaftlichkeit der Beschaffung spricht.
+
+Seite 29/29
+
+

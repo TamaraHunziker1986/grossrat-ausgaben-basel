@@ -1,0 +1,1092 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+24.1391.01
+23.5324.03
+23.5297.03
+
+GD/P241391/P235324/P235297
+Basel, 15. April 2026
+Regierungsratsbeschluss vom 14. April 2026
+
+Ratschlag
+betreffend
+
+Teilrevision des Gesetzes über die öffentlichen Spitäler des Kantons Basel-Stadt (Öffentliche Spitäler-Gesetz, ÖSpG)
+sowie
+
+Motion der Gesundheits- und Sozialkommission betreffend Kenntnisgabe der Eignerstrategien der öffentlich-rechtlichen Spitäler an
+den Grossen Rat; Stellungnahme
+und
+
+Motion Stefan Wittlin und Konsorten betreffend Bewilligung von
+Grossinvestitionen der öffentlichen Spitäler durch den Grossen Rat; Stellungnahme
+
+Publiziert am 17. April 2026 auf: grosserrat.bs.ch
+
+Seite 1/17
+
+Regierungsrat des Kantons Basel-Stadt
+
+Inhalt
+1.
+
+Begehren .................................................................................................................... 3
+
+2.
+
+Ausgangslage ............................................................................................................ 3
+
+3.
+
+Die Gesetzesänderungen im Einzelnen ................................................................... 3
+3.1
+3.2
+
+3.3
+3.4
+
+4.
+
+Kenntnisgabe der Eignerstrategien........................................................................................... 3
+Genehmigung von Bauinvestitionen ......................................................................................... 4
+3.2.1 Einleitung ..................................................................................................................... 4
+3.2.2 Bestehende gesetzliche Grundlagen ............................................................................. 4
+3.2.3 Grundlagen in den Eignerstrategien .............................................................................. 4
+3.2.4 Bisherige Konsultations- und Genehmigungsfälle.......................................................... 5
+3.2.5 Genehmigung von Bauinvestitionen der öffentlichen Spitäler durch den Grossen Rat.... 6
+Umfirmierung und Umbenennung Felix Platter-Spital...............................................................11
+Anpassungen aufgrund der geltenden PCG-Richtlinien ...........................................................11
+
+Erläuterungen zu den Gesetzesänderungen......................................................... 11
+Zu § 1 Abs. 1 ..........................................................................................................................11
+Zu § 4 Abs. 2 ..........................................................................................................................12
+Zu § 5 Abs. 2 ..........................................................................................................................12
+Zu § 6 Abs. 3, 3bis und 6 ..........................................................................................................13
+Zu § 7 Abs. 2 Bst. a und h .......................................................................................................14
+Zu § 11 Abs. 1bis, 2bis und 3bis ..................................................................................................15
+Zu § 11a .................................................................................................................................16
+Zu § 17a .................................................................................................................................16
+
+5.
+
+Finanzielle Auswirkungen ...................................................................................... 17
+
+6.
+
+Formelle Prüfungen und Regulierungsfolgeabschätzung ................................... 17
+
+7.
+
+Anträge ..................................................................................................................... 17
+
+Seite 2/17
+
+Regierungsrat des Kantons Basel-Stadt
+
+1.
+
+Begehren
+
+Mit diesem Ratschlag beantragen wir Ihnen, den nachstehenden Beschlussentwurf betreffend die
+Teilrevision des Gesetzes über die öffentlichen Spitäler des Kantons Basel-Stadt vom 16. Februar 2011 (Öffentliche Spitäler-Gesetz, ÖspG; SG 331.100) anzunehmen.
+Die Vorlage umfasst zudem die Umsetzung der Motion der Gesundheits- und Sozialkommission
+betreffend Kenntnisgabe der Eignerstrategien der öffentlich-rechtlichen Spitäler an den Grossen
+Rat (Geschäft 23.5324) sowie die Umsetzung der Motion Wittlin und Konsorten betreffend Bewilligung von Grossinvestitionen der öffentlichen Spitäler durch den Grossen Rat (Geschäft 23.5297).
+Hierzu wird dem Grossen Rat beantragt, diese als erledigt abzuschreiben.
+Im Zuge dieser Vorlage werden zudem die Umfirmierung des Felix Platter-Spitals sowie die Übernahme verschiedener Grundsätze der geltenden Public Corporate Governance (PCG) ins ÖSpG,
+die zum Zeitpunkt der Verabschiedung des ÖSpG noch nicht eingeflossen sind, beantragt.
+
+2.
+
+Ausgangslage
+
+Mit der Motion der Gesundheits- und Sozialkommission betreffend Kenntnisgabe der Eignerstrategien der öffentlich-rechtlichen Spitäler an den Grossen Rat (nachfolgend «Motion GSK») wird eine
+Ergänzung des ÖSpG verlangt. Gefordert wird, dass die Eignerstrategien des Regierungsrats für
+die öffentlichen Spitäler dem Grossen Rat zur Kenntnis zu bringen seien. Die Motion wurde vom
+Grossen Rat im Februar 2024 überwiesen und ist innert vier Jahren umzusetzen.
+Mit der Motion von Stefan Wittlin und Konsorten betreffend Bewilligung von Grossinvestitionen von
+öffentlichen Spitälern durch den Grossen Rat (nachfolgend «Motion Wittlin und Konsorten») wird
+verlangt, dass Investitionen der öffentlich-rechtlichen Spitäler von über 100 Millionen Franken vom
+Grossen Rat zu genehmigen seien. Sie wurde vom Grossen Rat ebenfalls im Februar 2024 überwiesen und ist innert zwei Jahren umzusetzen.
+Die Universitäre Altersmedizin Felix Platter (UAFP) hat sich im Rahmen eines «Rebrandings» anlässlich des Neubau-Bezugs für den Öffentlichkeitsauftritt einen neuen Namen gegeben. Die Bezeichnung «Universitäre Altersmedizin Felix Platter» hat sich seither bewährt und soll nun auch
+formell ins Gesetz überführt werden.
+Das ÖSpG ist seit dem Inkrafttreten per 1. Januar 2012 unverändert geblieben. Zwischenzeitlich
+wurden die Gesetze zur Basler Kantonalbank (BKB), der Basler Verkehrsbetriebe (BVB) und der
+Industriellen Werke Basel (IWB) (teil-)revidiert. Im Rahmen der Teilrevision des ÖSpG soll die Übernahme von verschiedenen Grundsätzen der geltenden Public Corporate Governance (PCG) vorgenommen werden, die zum Zeitpunkt der Verabschiedung des ÖSpG noch nicht eingeflossen
+sind. Dies betrifft primär die Kapitel «Organisation» sowie «Aufsicht» des ÖSpG.
+
+3.
+
+Die Gesetzesänderungen im Einzelnen
+
+3.1
+
+Kenntnisgabe der Eignerstrategien
+
+Der Regierungsrat hat in seiner Stellungnahme zur Motion GSK vom 13. Dezember 2023 die Bereitschaft geäussert, das ÖSpG dahingehend zu ergänzen, dass der Regierungsrat dem Grossen
+Rat die Eignerstrategien der Spitäler zur Kenntnis bringen wird. Dies wird mit der Ergänzung eines
+neuen Abs. 3bis im §11 des ÖSpG umgesetzt. Damit wird die in den PCG-Richtlinien seit dem
+Jahr 2018 vorgesehene Information an den Grossen Rat gesetzlich verankert. Wie die Motion GSK
+festhält, wird somit dieselbe Regelung bezüglich Kenntnisnahme der Eignerstrategien durch den
+Grossen Rat festgehalten, wie sie auch in den massgeblichen Gesetzen zu den ebenfalls ausgelagerten öffentlichen Institutionen BKB, BVB und IWB statuiert ist.
+
+Seite 3/17
+
+Regierungsrat des Kantons Basel-Stadt
+
+3.2
+
+Genehmigung von Bauinvestitionen
+
+3.2.1
+
+Einleitung
+
+Mit der Motion Wittlin und Konsorten wird gefordert, dass der Regierungsrat eine gesetzliche
+Grundlage schafft, wonach Investitionen der öffentlichen Spitäler von über 100 Mio. Franken einer
+Zustimmung des Grossen Rates bedürfen. Die Motionäre haben dabei in der Motionsbegründung
+Bezug zu den baulichen Grossinvestitionen der UAFP und des Universitätsspitals Basel (USB) genommen. Der Regierungsrat hat sich in seiner Stellungnahme vom 20. Dezember 2023 kritisch
+zum Anliegen der Motion geäussert. Einerseits weil die vorgeschlagene Regelung zu einer mangelnden Flexibilität für die öffentlichen Spitäler führen kann, zumal Verzögerungen durch den politischen Diskurs und allfällige Referenden entstehen könnten. Andererseits äusserte der Regierungsrat Bedenken zur geforderten Kompetenzverschiebung bei Grossinvestitionen der
+öffentlichen Spitäler auf die Ebene des Grossen Rates vor dem Hintergrund der bundesrechtlichen
+Spitalfinanzierung und der mit der Verselbstständigung verfolgten Ziele. Der Regierungsrat führte
+in seiner Stellungnahme auch aus, dass eine Überprüfung der Kompetenzregelungen für einen
+einzelnen Entscheidungsbereich, nämlich den Grossinvestitionen, alle Entscheidungsebenen (Verwaltungsrat, Regierungsrat, Grosser Rat) berücksichtigen sollte. Die Herausforderung für die beauftragte Umsetzung der Motion Wittlin und Konsorten ist, eine Regelung für die Genehmigung von
+Grossinvestitionen zu finden, welche die Entscheidungskompetenzen der Spitäler unter Berücksichtigung der Zielsetzungen der Verselbstständigung nicht übermässig einschränkt.
+3.2.2
+
+Bestehende gesetzliche Grundlagen
+
+Das ÖSpG sieht in § 7 Abs. 2 vor, dass der Verwaltungsrat die strategische Ausrichtung im Rahmen der vom Regierungsrat bestimmten Eigentümerstrategie (nachfolgend «Eignerstrategie», vgl.
+Kapitel 4, Erläuterungen zu § 4 Abs. 2) und der Leistungsaufträge festlegt (Bst. a). Weiter wird dem
+Verwaltungsrat die Kompetenz zur Genehmigung der Mehrjahresplanung und des Budgets inklusive Investitionen zugeteilt (Bst. b). Ebenso ist der Verwaltungsrat verpflichtet, eine angemessene
+Risikokontrolle durchzuführen (Bst. h). Zudem wird vorgesehen, dass der Verwaltungsrat den Regierungsrat in den für den Kanton relevanten Fragen zeitgerecht und vorausblickend informiert und
+konsultiert (Bst. k).
+Der Regierungsrat ist gemäss § 11 Abs. 1 ÖSpG im Rahmen seiner Aufsichtsbefugnisse berechtigt, Auskünfte zu verlangen und in Unterlagen Einsicht zu nehmen.
+Für den Erwerb von Beteiligungen ist im ÖSpG spezifisch festgelegt, dass sich die öffentlichen
+Spitäler gemäss § 4 Abs. 1 an Unternehmen beteiligen können und das nach Abs. 2 der Erwerb
+von Beteiligungen der Zustimmung des Regierungsrats bedarf, wenn der vom Regierungsrat in der
+Eignerstrategie festgelegte Prozentsatz des Eigenkapitals überschritten wird.
+3.2.3
+
+Grundlagen in den Eignerstrategien
+
+Die Eignerstrategien richten sich an die jeweiligen Verwaltungsräte der Beteiligungen und gelten
+als Mandat. Diese sind verpflichtet, ihre Tätigkeit im Einklang mit der Eignerstrategie auszuüben.
+Die in der Eignerstrategie enthaltenen Vorgaben sind für die Unternehmung und ihre Führungsund Aufsichtsgremien in der Steuerung und Aufsicht der Beteiligungen verbindlich. Die Interessen
+des Unternehmens bleiben vorbehalten.
+Die Eignerstrategien geben betreffend Investitionen seit dem 1. November 2013 (erstmaliges Inkrafttreten) vor, dass die Beteiligungen bei Investitionsvorhaben mit einem geplanten Wert von über
+10% des Eigenkapitals vorgängig die Eignervertretung (das Gesundheitsdepartement, nachfolgend
+«GD») konsultieren und u.a. darlegen (seit den Fassungen gültig ab 1. Januar 2020), inwiefern die
+Zielerreichung der Eignerstrategie durch das Vorhaben unterstützt wird, wie das Vorhaben die Gesundheitsversorgung verbessert und wie die Tragbarkeit des Vorhabens sichergestellt wird.
+
+Seite 4/17
+
+Regierungsrat des Kantons Basel-Stadt
+
+Es bestehen für die öffentlichen Spitäler aktuell folgende Schwellenwerte, ab denen sie Investitionsvorhaben der Eignervertretung zur Konsultation vorlegen müssen:
+Öffentliches Spital
+(Konzernabschluss, Stand: 31.12.2024)
+
+Eigenkapital
+(in Mio. Fr.)
+
+Schwellenwert
+(in Mio. Fr.)
+
+Universitäre Altersmedizin Felix Platter (UAFP)
+
+-13.7
+
+0
+
+Universitäre Psychiatrische Kliniken (UPK)
+
+137
+
+13.7
+
+Universitätsspital Basel (USB)
+
+524
+
+52.4
+
+Tabelle 1: Schwellenwerte Konsultationspflicht Investitionsvorhaben
+
+Die UAFP weist seit der Wertberechtigung (Impairment) im Rahmen der Jahresrechnung 2022 ein
+negatives Eigenkapital auf. Daher hat der Regierungsrat in Anwendung der obigen Regelung in der
+ab dem 1. Januar 2024 gültigen Eignerstrategie für die UAFP festgehalten, dass die UAFP jährlich
+das gesamte Investitionsbudget des nachfolgenden Jahres der Eignervertretung zur Konsultation
+vorlegen muss.
+3.2.4
+
+Bisherige Konsultations- und Genehmigungsfälle
+
+Die Konsultationspflicht für Investitionen mit einem geplanten Wert von über 10% des Eigenkapitals
+trat mit den ersten Eignerstrategien für die öffentlichen Spitälern per 1. November 2013 in Kraft.
+Dazumal befand sich das Neubauvorhaben für die UAFP (damals noch Felix Platter-Spital, FPS)
+bereits seit längerer Zeit in Planung. Aufgrund von feuerpolizeilichen Auflagen hatte der 2012 neu
+eingesetzte Verwaltungsrat die Aufgabe, den Neubau schnellstmöglich zu realisieren. Der Neubau
+befand sich von 2013 bis 2014 in der Wettbewerbsphase. Die Konsultation fand dazumal begleitend statt, der Regierungsrat wurde durch das GD periodisch über den Status informiert.
+Die in den per 1. Januar 2020 in Kraft getretenen Eignerstrategien präzisierte Konsultationspflicht
+bei Investitionen über 10% des Eigenkapitalwertes kam bei den Ersatz-Neubauvorhaben Klinikum 2 (NBK2) und Klinikum 3 (NBK3) des USB im Jahr 2020 umfassend zur Anwendung. Dabei
+hatte der Regierungsrat entschieden, dass aufgrund der Grössenordnung der Beschluss über die
+Konformität der Vorhaben mit der Eignerstrategie nicht durch die Eignervertretung alleine (das GD),
+sondern durch den Regierungsrat erfolgt. Das Konsultationsverfahren wurde im Jahr 2020 unter
+Beizug einer externen Beratungsfirma durchgeführt. Der Regierungsrat hatte dazu Ende 2020 festgestellt 1, dass das Investitionsvorhaben die Vorgaben der Eignerstrategie erfüllt und deren Zielerreichung unterstützt. Gleichzeitig hatte der Regierungsrat festgelegt, dass das USB jeweils jährlich
+im Rahmen der Jahresrechnung Bericht erstattet zum Stand der Investition, der aktuellen Kostenschätzung, zur nachgeführten Finanzplanung sowie zur Tragbarkeit und den Risiken.
+Daneben werden die Investitionsbudgets der UAFP ab 2024 jährlich im Rahmen einer Konsultation
+überprüft.
+Der Erwerb des St. Claraspitals vom Kloster Ingenbohl durch das USB im Jahr 2025 bedurfte sowohl einer Konsultation durch die Eignervertretung als auch einer Genehmigung des Erwerbs der
+Beteiligung durch den Regierungsrat. Aufgrund der erforderlichen Genehmigung der Transaktion
+durch den Regierungsrat wurde ihm auch der Beschluss über die Konformität des Vorhabens mit
+der Eignerstrategie für das USB vorgelegt. Der Regierungsrat hat dem Kauf des St. Claraspitals im
+Einklang mit den Vorgaben des ÖSpG zugestimmt und festgestellt, dass der Erwerb des St. Claraspitals in Übereinstimmung mit den unternehmerischen Zielen der Eignerstrategie sowie mit der
+strategischen Ausrichtung des USB steht 2.
+
+1 Siehe Medienmitteilung vom 7. Dezember 2020: Kanton Basel-Stadt unterstützt Strategie und weitere Arealentwicklung des Universitätsspitals Basel |
+
+Kanton Basel-Stadt.
+2 Siehe Medienmitteilung vom 8. Juli 2025: Der Regierungsrat unterstützt die Übernahme des St. Claraspitals Basel durch das Universitätsspital Basel |
+Kanton Basel-Stadt.
+
+Seite 5/17
+
+Regierungsrat des Kantons Basel-Stadt
+
+Damit kann festgehalten werden, dass der Regierungsrat im Rahmen der bestehenden gesetzlichen Grundlagen und der aktuell gültigen Eignerstrategien für die öffentlichen Spitäler ein – auch
+aufgrund der Erfahrungen mit dem Neubau der UAFP – wirksames System zur Überprüfung von
+Grossinvestitionen und deren Risiken für die öffentlichen Spitäler etabliert hat.
+3.2.5
+
+Genehmigung von Bauinvestitionen der öffentlichen Spitäler durch den
+Grossen Rat
+
+3.2.5.1
+
+Charakter der Genehmigung
+
+Die Genehmigung von baulichen Grossinvestitionen der öffentlichen Spitäler durch den Grossen
+Rat gemäss dem Auftrag und der Begründung aus der Motion Wittlin und Konsorten entspricht
+einer Genehmigung der Vorhaben an sich. Sie stellt weder eine Ausgabenbewilligung gemäss
+§ 26 Abs. 1 Bst. a des Gesetzes über den kantonalen Finanzhaushalt vom 14. März 2012 (Finanzhaushaltgesetz; SG 610.100) dar, da die Vorhaben durch die öffentlichen Spitäler finanziert werden, noch eine planungsrechtliche Genehmigung (Bebauungsplan) gemäss den §§ 101 und
+105 des Bau- und Planungsgesetzes vom 17. November 1999 (BPG; SG 730.100). Bei der Genehmigung handelt es sich vielmehr um eine spezialgesetzliche Genehmigung sui generis analog
+etwa zur Regelung in § 27 Abs. 4 des Gesetzes über die Industriellen Werke Basel vom 11. Februar 2009 (IWB-Gesetz; SG 772.300). Der entsprechende Beschluss des Grossen Rates unterliegt
+somit gemäss § 52 Abs. 1 Bst. d der Verfassung des Kantons Basel-Stadt vom 23. März 2005
+(SG 111.100) dem fakultativen Referendum.
+Sollte für die Realisierung einer baulichen Grossinvestition ein neuer Bebauungsplan oder eine
+Änderung eines bestehenden erforderlich sein, würde der Regierungsrat einen entsprechend separaten Antrag stellen. Ebenso im Fall einer durch die öffentlichen Spitäler bzw. durch den Regierungsrat beantragten Mitfinanzierung einer Grossinvestition aus dem kantonalen Finanzhaushalt
+(z.B. Darlehen aus dem Verwaltungsvermögen oder Gewährung einer Kreditsicherungsgarantie).
+3.2.5.2
+
+Zielsetzungen für das Genehmigungsverfahren
+
+In den bestehenden gesetzlichen Regelungen im ÖSpG ist festgelegt (siehe Kapitel 3.2.2), dass
+der Verwaltungsrat die strategische Ausrichtung im Rahmen der vom Regierungsrat bestimmten
+Eignerstrategie und der Leistungsaufträge festlegt (§ 7 Abs. 2 Bst. a ÖSpG). Zur Umsetzung derselben hat der Verwaltungsrat die Kompetenz zur Genehmigung der Mehrjahresplanung und des
+Budgets inklusive Investitionen erhalten (§ 7 Abs. 2 Bst. b ÖSpG). Dies vor dem Hintergrund, dass
+mit der nationalen Neuregelung der Spitalfinanzierung eine grundlegende Umgestaltung der
+Schweizer Spitallandschaft und insbesondere eine Intensivierung des Wettbewerbs unter den Spitälern erwartet wurde. Damit die öffentlichen Spitäler ihre gute Positionierung erhalten und eine
+führende Rolle übernehmen können, wurde ihnen ein sachgerechtes Mass an Handlungsfreiheit
+übertragen. Dazu erhielten sie grössere Entscheidungsspielräume, wozu ihnen auch die Infrastruktur und die Entscheidung über entsprechende Investitionen übertragen wurde.
+Die Forderung der Motion zur Genehmigung von Investitionen über 100 Mio. Franken greift nun in
+diese Kompetenzordnung ein, was aus Sicht des Regierungsrates kritisch beurteilt wird. Weil die
+vorgeschlagene Genehmigungskompetenz für Grossinvestitionen beim Grossen Rat zu einer mangelnden Flexibilität für die öffentlichen Spitäler und zu Verzögerungen durch den politischen Diskurs und allfällige Referenden führen könnte, sollen allfällige Genehmigungen jeweils in einem frühen Stadium der Vorhaben erfolgen. Damit soll den öffentlichen Spitälern für Grossinvestitionen
+bereits in einem frühen Stadium Planungssicherheit gegeben werden, indem ein Grundsatzentscheid über die Weiterführung eines Grossinvestitionsvorhabens getroffen wird, zudem sollen Ressourcen- und Zeitverluste minimiert werden.
+3.2.5.3
+
+Schwellenwert
+
+Mit der Motion Wittlin und Konsorten wird verlangt, dass Investitionen der öffentlich-rechtlichen
+Spitäler von über 100 Mio. Franken vom Grossen Rat zu genehmigen seien.
+
+Seite 6/17
+
+Regierungsrat des Kantons Basel-Stadt
+
+Dieser Schwellenwert ist aus Sicht des Regierungsrates für Vorhaben der UAFP und UPK geeignet, jedoch für das USB zu tief. Das USB ist sowohl bezüglich der Bilanzsumme wie des Umsatzes
+und seines Personals deutlich grösser als die genannten beiden Spitäler/Kliniken.
+Bilanzsumme
+(in Mio. Fr.)
+
+Nettoumsatz
+(in Mio. Fr.)
+
+Personal
+(FTE)
+
+Universitäre Altersmedizin Felix Platter (UAFP)
+
+172
+
+130
+
+821
+
+Universitäre Psychiatrische Kliniken (UPK)
+
+194
+
+153
+
+878
+
+Universitätsspital Basel (USB)
+
+1’042
+
+1’457
+
+6'288 3
+
+Öffentliches Spital
+(Konzernabschluss, Stand: 31.12.2024)
+
+Tabelle 2: Grössenvergleich der öffentlichen Spitäler
+
+Der Regierungsrat beantragt daher dem Grossen Rat, Grossinvestitionen des USB aufgrund seiner
+Grössenordnung erst ab einem Betrag von über 300 Mio. Franken zur Genehmigung vorzulegen.
+Für die Beurteilung der Frage, ob die Grossinvestition den Schwellenwert erreicht und damit dem
+Grossen Rat zur Genehmigung vorgelegt werden muss, ist die Kostenschätzung zum Zeitpunkt der
+Vorlage des Vorhabens massgebend. Diese wird für Bauvorhaben mit einer Abweichungsbandbreite je nach Phase angegeben. Massgebend für die Vorlage ist der entsprechende Mittelwert der
+Kostenprognose. Sollte ein Vorhaben in der Planungs- bzw. Vorstudienphase den Schwellenwert
+nicht erreichen, diesen aber später in der Realisierungsphase z.B. aufgrund von Teuerungsentwicklungen überschreiten, würde das Vorhaben nicht nachträglich dem Grossen Rat zur Genehmigung vorgelegt. Dies ist vor dem Hintergrund zu sehen, dass es sich bei der Genehmigung von
+Grossinvestitionen gemäss der Motion Wittlin und Konsorten nicht um Ausgabenbewilligungen handelt. Die Bewilligung der Ausgaben für Investitionen liegt weiterhin bei den Verwaltungsräten der
+öffentlichen Spitäler.
+3.2.5.4
+
+Anstehende Bauinvestitionen der öffentlichen Spitäler
+
+Die UAFP wird mittel- bis längerfristig keine Grossinvestitionen über 100 Mio. Franken aufweisen.
+Bei den UPK stehen die Erneuerung des Hauptgebäudes der Forensik (UPKF), welche voraussichtlich weniger als 100 Mio. Franken kosten wird, und die Erneuerung der Erwachsenenpsychiatrie, welche möglicherweise gegen 100 Mio. Franken kosten könnte, an.
+Das USB weist eine bekannte Grossinvestition auf, nämlich den Neubau des Klinikums 2
+(Phase 1 Turm und Phase 2 Sockel), bei dem sich die Phase 1 Turm inzwischen in der Realisierung
+befindet. Dieses Vorhaben wurde, zusammen mit dem Neubau des Klinikums 3, bereits 2020 abschliessend in einem Konsultationsverfahren durch die Eignervertretung bzw. den Regierungsrat
+beurteilt (siehe Kapitel 3.2.4) und wird dem Grossen Rat daher nicht erneut zur Genehmigung vorgelegt werden.
+Das USB weist in seiner aktuellen Investitionsplanung keine weiteren baulichen Grossinvestitionsvorhaben über 100 Mio. Franken auf. Die baulichen Vorhaben des USB betreffen hauptsächlich
+Sanierungen und Renovationen von bestehenden einzelnen Gebäuden oder Gebäudeteilen
+(z.B. Klinikum 1, Versorgungszentrum, Entsorgung, Logistik, Fuhrpark [VELF], Zentrum für Lehre
+und Forschung [ZLF], Markgräflerhof, Bettenhaus 3, einzelne Abteilungen im Claraspital), bei welchen aus heutiger Sicht mit Kosten von unter 100 Mio. Franken gerechnet wird.
+Weiterhin gewährleistet bleibt, dass die öffentlichen Spitäler alle Investitionsvorhaben, die mehr als
+10% des Eigenkapitals betragen, der Eignervertretung zur Konsultation vorlegen müssen.
+
+3 Personal (FTE), Jahresdurchschnitt, der öffentlich-rechtlichen Anstalt USB.
+
+Seite 7/17
+
+Regierungsrat des Kantons Basel-Stadt
+
+3.2.5.5
+
+Verfahren bei Bauinvestitionen
+
+Bauliche Grossinvestitionen sind dadurch gekennzeichnet, dass sie eine aufwändige Projektorganisation erfordern, einen komplexen Planungs-, Projektierungs- und Ausführungsprozess durchlaufen, lange dauern sowie entsprechend viele Ressourcen binden und entsprechende Kosten verursachen. Eine Genehmigung einer Grossinvestition durch den Grossen Rat erfordert vorgängig
+einen entsprechenden Ressourcenaufwand und benötigt einen zusätzlichen Zeitbedarf von rund
+sechs bis neun Monaten. Während dieses Verfahrens muss das betroffene Spital die weitere Projektierung und entsprechend die personell aufwändige Projekt- und Planungsorganisation in der
+Regel bis zum Vorliegen eines Entscheides anhalten. Vor diesem Hintergrund sollen bauliche
+Grossinvestitionen dem Grossen Rat in einer möglichst frühen Planungsphase zur Genehmigung
+vorgelegt werden, um einerseits Planungssicherheit für das weitere Vorgehen zu erhalten und andererseits finanzielle Folgen im Fall einer Ablehnung des Vorhabens zu minimieren (Abschreibung
+von aktivierbaren Planungs- und Projektierungskosten).
+Dies soll anhand dem Phasenmodell der SIA-Norm 112 «Modell Bauplanung» verdeutlicht werden,
+welches üblicherweise für Bauvorhaben zur Anwendung gelangt:
+
+Phasen
+
+Teilphasen
+
+1 Strategische Planung
+
+11 Bedürfnisformulierung / Lösungsstrategien
+21 Definition des
+Bauvorhabens,
+Machbarkeitsstudie
+
+2 Vorstudien
+
+3 Projektierung
+
+22 Auswahlverfahren
+31 Vorprojekt
+
+32 Bauprojekt
+
+33 Bewilligungsverfahren / Auflageprojekt
+4 Ausschreibung
+
+41 Ausschreibung,
+Offertvergleich,
+Vergabe
+
+Phasenziele und
+Kostengenauigkeit 4
+
+Bsp.: USB K2 Phase 1 Turm (total rund
+661 Mio. Fr.): aufgelaufene Kosten pro
+Phase in Mio. Fr.
+(Stand: Nov. 2024)
+
+Lösungsstrategie
+
+Projektierungsgrundlagen, Machbarkeit
+nachgewiesen;
+Kostengenauigkeit
++/- 25-30%
+Anbieter/Projekt ausgewählt
+Konzeption und Wirtschaftlichkeit optimiert;
+Kostengenauigkeit
++/- 15-20%
+Projekt und Kosten
+optimiert, Termine
+definiert;
+Kostengenauigkeit
++/- 10%
+Projekt bewilligt, Kosten und Termine verifiziert, Baukredit genehmigt
+Kauf- und Werkverträge abgeschlossen
+
+4.1
+
+1.4
+
+15.3
+
+22.8
+
+0.8
+
+32.6
+
+4 Die SIA-Norm 112 enthält keine verbindlichen Vorgaben oder exakten Toleranzen zur Kostengenauigkeit in den einzelnen Projektphasen. Die aufge-
+
+führten Werte stellen häufig zitierte Erfahrungswerte aus der Bau- und Planungsbranche dar. Sie dienen als Orientierungshilfe.
+
+Seite 8/17
+
+Regierungsrat des Kantons Basel-Stadt
+
+Phasen
+
+Teilphasen
+
+Phasenziele und
+Kostengenauigkeit 4
+
+5 Realisierung
+
+51 Ausführungsprojekt
+52 Ausführung
+
+Ausführungsreife erreicht
+Bauwerk erstellt
+
+53 Inbetriebnahme,
+Abschluss
+
+Bauwerk übernommen und in Betrieb,
+Schlussabrechnung,
+Mängel behoben
+Betrieb und Wartung
+sichergestellt, Wert
+für Restnutzungsdauer aufrechterhalten
+
+6 Bewirtschaftung
+
+61 – 63: Betrieb,
+Wartung / Instandhaltung
+
+Bsp.: USB K2 Phase 1 Turm (total rund
+661 Mio. Fr.): aufgelaufene Kosten pro
+Phase in Mio. Fr.
+(Stand: Nov. 2024)
+1.3
+
+n/a
+n/a
+
+n/a
+
+Tabelle 3: SIA 112 - Phasen Baumodell
+
+Die Darstellung zeigt einerseits, dass die Kostengenauigkeit höher wird, je weiter der Planungsund Projektierungsprozess fortschreitet, und andererseits, dass die Planungs- und Projektierungskosten kumuliert zunehmen, je weiter der Prozess voranschreitet. Dies kann am Beispiel des Neubauvorhabens K2 Phase 1 Turm des USB verdeutlicht werden. Während die Kosten für die Phase
+«Vorstudien» noch bei rund 5.5 Mio. Franken lagen, kamen in der «Projektierungsphase» rund
+38.9 Mio. Franken dazu, sodass für die Phasen 2 und 3 kumuliert Kosten von rund 44.4 Mio. Franken anfielen. Die angefallenen (aktivierbaren) Planungs- und Projektierungskosten müssten jeweils
+erfolgswirksam abgeschrieben werden, würde ein Vorhaben nicht mehr weitergeführt werden können. Aus Sicht der Beteiligungen besteht daher das Interesse, die dem Grossen Rat zur Genehmigung vorzulegenden baulichen Grossinvestitionen über 100 Mio. bzw. 300 Mio. Franken diesem
+bereits in der Phase 2 «Vorstudien» zur Genehmigung zu beantragen. Dabei müsste der
+Grosse Rat eine höhere Kostenungenauigkeit in Kauf nehmen.
+Der Regierungsrat sieht daher vor, bauliche Grossinvestitionen, welche keinen Bebauungsplan erfordern, nach der Teilphase 21 «Definition des Bauvorhabens, Machbarkeitsstudie» vorzulegen.
+Für bauliche Grossinvestitionen, welche zusätzlich eine Anpassung eines bestehenden Bebauungsplans oder einen neuen Bebauungsplan erfordern, wozu in der Regel das Ergebnis eines (Architektur-)Wettbewerbs vorliegen muss, werden nach der Teilphase 22 «Auswahlverfahren» zur
+Genehmigung unterbreitet. Parallel erhält der GR in diesen Fällen eine Bebauungsplanvorlage zur
+Genehmigung.
+Damit stellen sich die Konsultations- und Genehmigungsabläufe für bauliche Grossinvestitionen
+ohne und mit Bebauungsplan wie folgt dar:
+Detailablauf Fall 1: Bauliche Grossinvestition ohne Bebauungsplan
+
+Abbildung 1: Ablauf Genehmigung bauliche Grossinvestition ohne Bebauungsplan
+
+Seite 9/17
+
+Regierungsrat des Kantons Basel-Stadt
+
+Detailablauf Fall 2: Bauliche Grossinvestition mit Bebauungsplan
+
+Abbildung 2: Ablauf Genehmigung bauliche Grossinvestition mit Bebauungsplan
+
+3.2.5.6
+
+Umsetzung der Motionsforderung
+
+Aus Sicht des Regierungsrates soll die Genehmigung der baulichen Grossinvestitionen in einem
+frühen Planungsstadium erfolgen, um den öffentlichen Spitälern einerseits Planungssicherheit zu
+geben und andererseits die finanziellen Risiken im Fall einer Ablehnung möglichst minimal zu halten. Die nachfolgende Tabelle zeigt in einer Übersicht den jeweiligen Planungsstand, mit dem eine
+Grossinvestition dem Grossen Rat zur Genehmigung vorgelegt wird:
+Grossinvestition
+Fall 1: Bauliche Grossinvestitionen ohne Bebauungsplan
+Fall 2: Bauliche Grossinvestitionen mit Bebauungsplan
+
+Planungsstand
+SIA-Teilphase 21 Machbarkeitsstudie
+SIA-Teilphase 22 Auswahlverfahren
+
+Tabelle 4: Planungsstand Grossinvestitionen für Vorlage an Grossen Rat
+
+Der Grosse Rat würde einen Teil des Genehmigungsrisikos mittragen, weil er Vorhaben in einem
+frühen Planungsstadium unter einer gewissen Unsicherheit beurteilen muss. So oder so besteht
+mit der Motionsforderung die Gefahr eines Investitionsstaus für die öffentlichen Spitäler des Kantons Basel-Stadt und sie ist mit einem Eingriff in deren unternehmerische Verantwortung verbunden.
+Für die Umsetzung der Forderung der Motion wird ein neuer § 17a vorgeschlagen (eine ähnliche
+Regelung besteht für Bauvorhaben der IWB 5):
+1
+
+Bauinvestitionen der Universitären Psychiatrischen Kliniken und der Universitären Altersmedizin
+Felix Platter von über 100 Millionen Franken sowie Bauinvestitionen des Universitätsspital Basel
+von über 300 Millionen Franken bedürfen einer Genehmigung durch den Grossen Rat.
+2
+Der Regierungsrat berichtet dem Grossen Rat jeweils im Rahmen der Jahresrechnung zu den
+öffentlichen Spitälern zum Stand dieser Bauinvestitionen.
+Der neue Absatz 2 nimmt damit das Anliegen der Bau- und Raumplanungskommission (BRK) des
+Grossen Rates in einer allgemeinen Formulierung auf, welches im Bericht der BRK zum Geschäft
+Campus Gesundheit, Änderung des Bebauungsplanes Nr. 215 vom 20. Mai 2015, in einem separaten Beschlussantrag formuliert wurde6.
+
+5 Vgl. § 27 Abs. 4 IWB-Gesetz.
+6 https://grosserrat.bs.ch/dokumente/100405/000000405404.pdf (Seite 23).
+
+Seite 10/17
+
+Regierungsrat des Kantons Basel-Stadt
+
+3.3
+
+Umfirmierung und Umbenennung Felix Platter-Spital
+
+Die UAFP hat sich im Rahmen eines «Rebrandings» anlässlich des Neubau-Bezugs für den Öffentlichkeitsauftritt einen neuen Namen gegeben. Die Bezeichnung «Universitäre Altersmedizin Felix Platter» hat sich seither bewährt und soll nun auch formell ins Gesetz überführt werden. Es ist
+dafür eine Anpassung von § 1 Abs. 1 ÖSpG erforderlich.
+
+3.4
+
+Anpassungen aufgrund der geltenden PCG-Richtlinien
+
+Im Rahmen der Teilrevision des ÖSpG soll die Übernahme von verschiedenen Grundsätzen der
+geltenden Public Corporate Governance (PCG) vorgenommen werden, die zum Zeitpunkt der Verabschiedung des ÖSpG noch nicht eingeflossen sind. Dies betrifft primär die Kapitel V. «Organisation» sowie Kapitel VI. «Aufsicht». Es werden im Einzelnen folgende Änderungen des ÖSpG vorgeschlagen:
+ Einheitliche Verwendung des Begriffs «Eignerstrategie» anstatt «Eigentümerstrategie» gemäss
+Empfehlung der PCG-Richtlinien (§ 4 Abs. 2 sowie § 7 Abs. 2 Bst. a);
+ Einführung von verwandtschaftlichen Unabhängigkeitsregelungen von Mitgliedern von Organen
+der öffentlichen Spitäler (neu § 5 Abs. 2) sowie Verbote von Doppelfunktionen sowie entsprechende Vorbehalte (neu § 5 Abs. 3);
+ Erweiterung der Wählbarkeitsvoraussetzungen, indem neben Mitgliedern des Grossen Rates
+neu keine Mitglieder des Regierungsrates und der Verwaltung, sofern sie mit Aufgaben im Zusammenhang mit den öffentlichen Spitälern betraut sind (neu § 6 Abs. 3bis in Verbindung mit der
+Streichung der bisherigen Bestimmung in Abs. 6), gewählt werden können;
+ Präzisierung der Aufgaben der Verwaltungsräte der öffentlichen Spitäler bezüglich Risikokontrolle (§ 7 Abs. 2 Bst. h);
+ Zuständigkeit des Regierungsrats im Hinblick auf die Genehmigung der Organisationsreglemente der öffentlichen Spitäler (neu § 11 Abs. 1bis);
+ Einführung der Décharge-Erteilung für die Mitglieder der Verwaltungsräte der öffentlichen Spitäler durch den Regierungsrat (neu § 11 Abs. 2bis), kongruent zur Verantwortlichkeitsregelung in
+§ 20 ÖSpG, welche für die Haftung und Verantwortlichkeit der Mitglieder der Verwaltungsräte
+der öffentlichen Spitäler die sinngemässe Anwendung der entsprechenden Bestimmungen des
+Aktienrechts bzw. Obligationenrechts vorsieht;
+ Die Eignerstrategie des Regierungsrates wird dem Grossen Rat zur Kenntnis gebracht
+(neu § 11 Abs. 3bis).
+ Ausdrückliche Verankerung der Oberaufsicht durch den Grossen Rat (neu § 11a).
+Damit enthalten das ÖSpG sowie die Gesetze der BKB, der BVB und der IWB diesbezüglich im
+Grundsatz die gleichen Bestimmungen.
+
+4.
+
+Erläuterungen zu den Gesetzesänderungen
+
+Zu § 1 Abs. 1
+Geltendes Recht
+
+Neue Regelung
+
+1
+
+Dieses Gesetz regelt die Rechtsstellung, die 1 Dieses Gesetz regelt die Rechtsstellung, die
+Organisation und die Aufgaben des Universi- Organisation und die Aufgaben des Universitätsspitals Basel, der Universitären Psychiatri- tätsspitals Basel, der Universitären Psychiatrischen Kliniken Basel und des Felix Platter-Spi- schen Kliniken Basel und des Felix Platter-Spitals der Universitären Altersmedizin Felix Platter
+tals (öffentliche Spitäler).
+(öffentliche Spitäler).
+
+Seite 11/17
+
+Regierungsrat des Kantons Basel-Stadt
+
+Erläuterungen
+Das Felix Platter-Spital firmiert neu unter der Bezeichnung «Universitäre Altersmedizin Felix Platter» (UAFP). Die neue Bezeichnung wird im Gesetz im § 1 Abs. 1 ÖSpG entsprechend festgehalten.
+Zu § 4 Abs. 2
+Geltendes Recht
+
+Neue Regelung
+
+1
+
+Die öffentlichen Spitäler können Kooperatio- 1 Die öffentlichen Spitäler können Kooperationen eingehen, Unternehmen gründen oder sich nen eingehen, Unternehmen gründen oder sich
+an Unternehmen beteiligen.
+an Unternehmen beteiligen.
+2
+Der Erwerb von Beteiligungen, die Übertra- 2 Der Erwerb von Beteiligungen, die Übertragung von Aktiven auf Dritte oder Verpfändung gung von Aktiven auf Dritte oder die Verpfänvon Aktiven an Dritte, an welchen ein öffentli- dung von Aktiven an Dritte, an welchen ein öfches Spital nicht mehrheitlich beteiligt ist, bedarf fentliches Spital nicht mehrheitlich beteiligt ist,
+der Zustimmung des Regierungsrates, wenn der bedarf der Zustimmung des Regierungsrates,
+vom Regierungsrat in der Eigentümerstrategie wenn der vom Regierungsrat in der Eigentüfestgelegte Prozentsatz des Eigenkapitals über- merstrategie Eignerstrategie festgelegte Proschritten wird.
+zentsatz des Eigenkapitals überschritten wird.
+3
+Auslagerungen an privatrechtliche Unterneh- 3 Auslagerungen an privatrechtliche Unternehmen bedürfen der Genehmigung des Regie- men bedürfen der Genehmigung des Regierungsrates.
+rungsrates.
+Erläuterungen
+Die Begriffe Eignerstrategie und Eigentümerstrategie werden häufig synonym verwendet. Da es
+sich beim Begriff «Eigentum» allerdings um einen genau definierten Rechtsbegriff handelt, wird der
+Empfehlung gemäss PCG-Richtlinien Folge geleistet und im Gesetzestext neu einheitlich der Begriff Eignerstrategie verwendet.
+Zu § 5 Abs. 2
+Geltendes Recht
+
+Neue Regelung
+
+1
+
+1
+
+Die Organe des öffentlichen Spitals sind:
+a) Verwaltungsrat;
+b) Spitalleitung;
+c) Revisionsstelle.
+
+Die Organe des öffentlichen Spitals sind:
+a) Verwaltungsrat;
+b) Spitalleitung;
+c) Revisionsstelle.
+2
+Personen, die miteinander verheiratet sind, in
+eingetragener Partnerschaft oder in einem gefestigten Konkubinat leben, im ersten oder zweiten Grad verwandt oder verschwägert sind, dürfen nicht gleichzeitig den Organen gemäss
+Abs. 1 angehören.
+3
+Kein Mitglied des Verwaltungsrates darf der
+Spitalleitung angehören. Die Wahrnehmung anderer Funktionen (insbesondere Aufträge, Mandate, Anstellungen) für das öffentliche Spital bedarf der Genehmigung des zuständigen
+Departements.
+
+Erläuterungen
+Neu dürfen Personen, die miteinander verheiratet sind, in einem gefestigten Konkubinat oder in
+eingetragener Partnerschaft leben, im ersten oder zweiten Grad verwandt oder verschwägert sind,
+nicht gleichzeitig den Organen des öffentlichen Spitals angehören (Abs. 2). In Anlehnung an
+§ 8 Abs. 2 IWB-Gesetz, § 8 Abs. 2 des Organisationsgesetzes der Basler Verkehrs-Betriebe vom
+
+Seite 12/17
+
+Regierungsrat des Kantons Basel-Stadt
+
+10. März 2004 (BVB-OG; SG 953.100) sowie § 11 Abs. 6 des Gesetzes über die Basler Kantonalbank vom 9. Dezember 2015 (SG 915.200) erfolgt daher die Einführung einer verwandtschaftlichen
+Unabhängigkeitsregelung von Mitgliedern der Organe der öffentlichen Spitäler.
+Um Interessenkonflikte mit dem öffentlichen Spital zu vermeiden, darf kein Mitglied des Verwaltungsrats gleichzeitig der Geschäftsleitung angehören (Abs. 3). Diese Unvereinbarkeitsregel erfolgt
+in Anlehnung an § 11 Abs. 6 des Gesetzes über die Basler Kantonalbank. Für weitere Funktionen
+für das öffentliche Spital wie etwa Aufträge, Mandate oder Anstellungen bedarf es einer Genehmigung des zuständigen Departements.
+Zu § 6 Abs. 3, 3bis und 6
+Geltendes Recht
+
+Neue Regelung
+
+1
+
+Der Verwaltungsrat besteht aus fünf bis neun 1 Der Verwaltungsrat besteht aus fünf bis neun
+Mitgliedern.
+Mitgliedern.
+2
+Die Präsidentin oder der Präsident und die wei- 2 Die Präsidentin oder der Präsident und die weiteren Verwaltungsratsmitglieder werden vom teren Verwaltungsratsmitglieder werden vom
+Regierungsrat gewählt.
+Regierungsrat gewählt.
+3
+Die Amtsdauer beträgt vier Jahre. Wiederwahl 3 Die Amtsdauer beträgt vier Jahre. Wiederwahl
+ist möglich.
+ist möglich.
+3bis
+Nicht wählbar in den Verwaltungsrat sind:
+a) Mitglieder des Grossen Rates;
+b) Mitglieder des Regierungsrates und weitere
+Magistratspersonen;
+c) Mitarbeitende der kantonalen Verwaltung, denen Aufgaben im Zusammenhang mit den öffentlichen Spitälern übertragen sind.
+4
+Die Entschädigung der Verwaltungsratsmit- 4 Die Entschädigung der Verwaltungsratsmitglieder wird vom Regierungsrat genehmigt.
+glieder wird vom Regierungsrat genehmigt.
+5
+Verwaltungsratsmitglieder können vom Regie- 5 Verwaltungsratsmitglieder können vom Regierungsrat jederzeit abberufen werden.
+rungsrat jederzeit abberufen werden.
+6
+Die Mitglieder des Verwaltungsrates dürfen 6 Die Mitglieder des Verwaltungsrates dürfen
+nicht gleichzeitig dem Grossen Rat angehören. nicht gleichzeitig dem Grossen Rat angehören.
+Der Regierungsrat berücksichtigt Personen mit Der Regierungsrat berücksichtigt Personen mit
+den für die Leitung eines Spitals erforderlichen den für die Leitung eines Spitals erforderlichen
+Qualifikationen.
+Qualifikationen.
+Erläuterungen
+Gemäss § 90 Abs. 1 der Verfassung des Kantons Basel-Stadt vom 23. März 2005 übt der
+Grosse Rat die Oberaufsicht über den Regierungsrat, die Verwaltung, die Gerichtsbehörden und
+die anderen Träger öffentlicher Aufgaben aus, soweit sie dem Kanton obliegende Aufgaben wahrnehmen. Mitglieder des Grossen Rates, die gleichzeitig im Verwaltungsrat oder in der Geschäftsleitung einer staatlichen Beteiligung Einsitz nehmen, können ihre Oberaufsichtsfunktion mangels
+Unabhängigkeit nicht mehr wahrnehmen. Daraus ergibt sich eine Unvereinbarkeit von parlamentarischer Oberaufsichtsfunktion und gleichzeitiger Mitgliedschaft im Verwaltungsrat für die Mitglieder
+des Grossen Rates. Es ist deshalb sachgerecht, dass im Sinne anerkannter PCG-Grundsätze
+keine Mitglieder des Grossen Rates Einsitz im Verwaltungsrat der öffentlichen Spitäler nehmen.
+Damit wird eine klare Trennung von (politischer) Oberaufsicht und der Aufsicht über die Geschäftsleitung einer staatlichen Beteiligung erzielt (vgl. auch Ratschlag des Regierungsrates
+Nr. 14.1218.01 vom 2. September 2014 zur Revision der Aufsichts- und Führungsstruktur der Basler Verkehrs-Betriebe betreffend Anpassung an die Richtlinien zu Public Corporate Governance
+des Regierungsrates vom 14. September 2010 S. 4).
+
+Seite 13/17
+
+Regierungsrat des Kantons Basel-Stadt
+
+Unter Berücksichtigung der PCG-Richtlinien und mit Blick auf § 9 Abs. 3bis IWB-Gesetz,
+§ 9 Abs. 1ter BVB-OG sowie § 11 Abs. 5 des Gesetzes über die Basler Kantonalbank werden weitere Ausschlusskriterien für die Wahl in den Verwaltungsrat verankert. Neu sind Mitglieder des
+Grossen Rates (Bst. a), Mitglieder des Regierungsrates und weitere Magistratspersonen (Bst. b)
+und Mitarbeitende der kantonalen Verwaltung, denen Aufgaben im Zusammenhang mit den öffentlichen Spitälern übertragen sind (Bst. c), von der Wahl in den Verwaltungsrat ausgenommen. Damit
+lassen sich weitere problematische Interessenkollisionen vermeiden.
+Die Bestimmung, dass die Mitglieder des Verwaltungsrates nicht gleichzeitig dem Grossen Rat
+angehören dürfen, wird neu in § 6 Abs. 3bis Bst. a geregelt. Eine Wiederholung in Abs. 6 erster Satz
+wird damit obsolet und entfällt folglich.
+Zu § 7 Abs. 2 Bst. a und h
+Geltendes Recht
+
+Neue Regelung
+
+1
+
+Der Verwaltungsrat ist das oberste Führungs- 1 Der Verwaltungsrat ist das oberste Führungsorgan.
+organ.
+2
+2
+Er hat insbesondere folgende Aufgaben:
+Er hat insbesondere folgende Aufgaben:
+a) Festlegung der strategischen Ausrichtung im a) Festlegung der strategischen Ausrichtung im
+Rahmen der vom Regierungsrat bestimmten Ei- Rahmen der vom Regierungsrat bestimmten Eigentümerstrategie und der Leistungsaufträge; gentümerstrategie Eignerstrategie und der Leistungsaufträge;
+b) Genehmigung der Mehrjahresplanung und b) Genehmigung der Mehrjahresplanung und
+des Budgets inklusive Investitionen;
+des Budgets inklusive Investitionen;
+c) Festlegung der Kooperations- und Allianzstra- c) Festlegung der Kooperations- und Allianztegie;
+strategie;
+d) Festlegung der Personalstrategie, der Anstel- d) Festlegung der Personalstrategie, der Anstellungsbedingungen und des Einreihungsverfah- lungsbedingungen und des Einreihungsverfahrens;
+rens;
+e) Wahl und Anstellung der Mitglieder der Spi- e) Wahl und Anstellung der Mitglieder der Spitalleitung sowie der Spitaldirektorin oder des talleitung sowie der Spitaldirektorin oder des
+Spitaldirektors;
+Spitaldirektors;
+f) Festlegung der Organisation;
+f) Festlegung der Organisation;
+g) Aufsicht über die Spitalleitung;
+g) Aufsicht über die Spitalleitung;
+h) Durchführung einer angemessenen Risiko- h) Durchführung einer angemessenen Risikokontrolle, insbesondere durch Errichtung und
+kontrolle;
+Aufrechterhaltung eines der Risikostruktur des
+öffentlichen Spitals angepassten Risikomanagements und eines internen Kontrollsystems
+(IKS);
+i) Erlass der erforderlichen Reglemente, insbe- i) Erlass der erforderlichen Reglemente, insbesondere Finanz-, Preis-, Organisations- und sondere Finanz-, Preis-, Organisations- und
+Personalreglemente;
+Personalreglemente;
+j) Vertretung des Spitals nach aussen, insbeson- j) Vertretung des Spitals nach aussen, insbesondere gegenüber den Behörden des Kantons, un- dere gegenüber den Behörden des Kantons, unter Vorbehalt anderer Regelungen im Organisa- ter Vorbehalt anderer Regelungen im Organisationsreglement;
+tionsreglement;
+k) zeitgerechte und vorausblickende Information k) zeitgerechte und vorausblickende Information
+und Konsultation des Regierungsrates in den für und Konsultation des Regierungsrates in den für
+den Kanton relevanten Fragen.
+den Kanton relevanten Fragen.
+Erläuterungen
+Neu wird im vorliegenden Gesetzestext einheitlich der Begriff Eignerstrategie verwendet (vgl. Erläuterungen zu § 4 Abs. 2).
+
+Seite 14/17
+
+Regierungsrat des Kantons Basel-Stadt
+
+Infolge der Implementierung und Umsetzung der PCG-Richtlinie auf Gesetzesebene sind auch die
+Aufgaben und Pflichten des Verwaltungsrates zu ergänzen bzw. zu präzisieren. Die bis anhin geltende Pflicht zur Durchführung einer angemessenen Risikokontrolle wird neu dahingehend präzisiert, dass der Verwaltungsrat ein dem öffentlichen Spital angemessenes und angepasstes Risikomanagement und internes Kontrollsystem errichten und aufrechterhalten muss (Abs. 2 Bst. h). Die
+Präzisierung der Risikokontrolle erfolgt in Anlehnung an die Bestimmung in § 10 Abs. 2 Bst. g IWBGesetz.
+Zu § 11 Abs. 1bis, 2bis und 3bis
+Geltendes Recht
+
+Neue Regelung
+
+1
+
+Im Rahmen seiner Aufsichtsbefugnisse ist der 1 Im Rahmen seiner Aufsichtsbefugnisse ist der
+Regierungsrat berechtigt, Auskünfte zu verlan- Regierungsrat berechtigt, Auskünfte zu verlangen und in Unterlagen Einsicht zu nehmen.
+gen und in Unterlagen Einsicht zu nehmen.
+1bis
+Der Regierungsrat genehmigt das Organisationsreglement.
+2
+Er nimmt Kenntnis vom Bericht der Revisions- 2 Er nimmt Kenntnis vom Bericht der Revisionsstelle, genehmigt auf Antrag des Verwaltungsra- stelle, genehmigt auf Antrag des Verwaltungsrates die Jahresrechnung und entscheidet auf An- tes die Jahresrechnung und entscheidet auf Antrag des Verwaltungsrates über die Verwendung trag des Verwaltungsrates über die Verwendung
+des Bilanzgewinnes.
+des Bilanzgewinnes.
+2bis
+Mit der Genehmigung der Jahresrechnung
+entscheidet der Regierungsrat über die Entlastung der Mitglieder des Verwaltungsrates.
+3
+Die Jahresrechnung wird vom Regierungsrat
+dem Grossen Rat zur Kenntnis gebracht.
+3
+Die Jahresrechnung wird vom Regierungsrat 3bis Die Eignerstrategie des Regierungsrates
+wird dem Grossen Rat zur Kenntnis gebracht.
+dem Grossen Rat zur Kenntnis gebracht.
+4
+Gegenüber Dritten und anderen Behörden ist
+der Regierungsrat zur Wahrung der Geschäfts4
+Gegenüber Dritten und anderen Behörden ist geheimnisse verpflichtet.
+der Regierungsrat zur Wahrung der Geschäftsgeheimnisse verpflichtet.
+Erläuterungen
+Gemäss § 7 der PCG-Richtlinien ist das Organisationsreglement vom Regierungsrat zu genehmigen. Deshalb wird in Anlehnung an § 28 Abs. 1 bis IWB-Gesetz, § 12b Abs. 1 Bst. a BVB-OG und
+§ 18 Abs. 1 Bst. a des Gesetzes über die Basler Kantonalbank statuiert, dass die Genehmigung
+des Organisationsreglements durch den Regierungsrat zu erfolgen hat (Abs. 1bis).
+Mit der Genehmigung der Jahresrechnung befindet der Regierungsrat neu über die Entlastung der
+Verwaltungsratsmitglieder (Abs. 2bis). Eine Entlastung der Mitglieder des Verwaltungsrates ist zudem auch in § 29 Abs. 2 IWB-Gesetz und § 12b Abs. 1 Bst. g BVB-OG sowie analog in
+§ 18 Abs. 1 Bst. i des Gesetzes über die Basler Kantonalbank vorgesehen.
+Der Regierungsrat bringt zur Erfüllung der Oberaufsichtsfunktion des Grossen Rates diesem die
+Eignerstrategie zur Kenntnis (Abs. 3bis). Die Kenntnisbringung wird daher in Anlehnung an
+§ 27 Abs. 2 IWB-Gesetz, § 19 Abs. 1 des Gesetzes über die Basler Kantonalbank sowie
+§ 12c Abs. 1 BVB-OG gesetzlich verankert.
+
+Seite 15/17
+
+Regierungsrat des Kantons Basel-Stadt
+
+Zu § 11a
+Geltendes Recht
+
+Neue Regelung
+§ 11a
+1
+Dem Grossen Rat obliegt die Oberaufsicht.
+2
+Die zuständigen Oberaufsichtskommissionen
+haben alle für die Oberaufsicht notwendigen
+Einsichts- und Informationsrechte, sofern diesen nicht schwerwiegende private oder öffentliche Interessen entgegenstehen.
+
+Erläuterungen
+Dem Grossen Rat kommt gemäss seinen verfassungsmässigen Kompetenzen die Oberaufsicht zu.
+Die zuständige Oberaufsichtskommission hat das Recht zur Einsicht in sämtliche für die Erfüllung
+dieser Aufgabe erforderlichen Akten, sofern der Einsicht keine schwerwiegenden privaten oder öffentlichen Interessen entgegenstehen (vgl. § 69 Abs. 4 Gesetz über die Geschäftsordnung des
+Grossen Rates vom 29. Juni 2006 [GO; SG 152.100]). Die notwendigen Einsichts- und Informationsrechte des Grossen Rates werden daher in Anlehnung an § 28bis IWB-Gesetz, § 12d BVB-OG
+und § 20 des Gesetzes über die Basler Kantonalbank explizit verankert.
+Die Oberaufsicht über die öffentlichen Spitäler ist im Regelfall indirekt über den Regierungsrat bzw.
+das zuständige Departement auszuüben.
+Zu § 17a
+Geltendes Recht
+
+Neue Regelung
+§ 17a
+1
+Bauinvestitionen der Universitären Psychiatrischen Kliniken und der Universitären Altersmedizin Felix Platter von über 100 Millionen Franken
+sowie
+Bauinvestitionen
+des
+Universitätsspitals Basel von über 300 Millionen
+Franken bedürfen einer Genehmigung durch
+den Grossen Rat.
+2
+Der Regierungsrat berichtet dem Grossen Rat
+jeweils im Rahmen der Jahresrechnung zu den
+öffentlichen Spitälern zum Stand dieser Bauinvestitionen.
+
+Erläuterungen
+Um die Rechte des Grossen Rates im Zusammenhang mit Investitionen zu stärken, wird ein Genehmigungsvorbehalt für Bauinvestitionen der Universitären Psychiatrischen Kliniken und der Universitären Altersmedizin Felix Platter von über 100 Millionen Franken sowie Bauinvestitionen des
+Universitätsspital Basel von über 300 Millionen Franken verankert. Wie bereits in Kapitel 3.2.5.1
+erwähnt, handelt es sich bei der vorliegenden Genehmigung nicht um eine Ausgabenbewilligung
+des Grossen Rates, sondern um einen Beschluss sui generis. Dieser unterliegt somit gemäss
+§ 52 Abs. 1 Bst. d der Verfassung des Kantons Basel-Stadt vom 23. März 2005 dem fakultativen
+Referendum.
+
+Seite 16/17
+
+Regierungsrat des Kantons Basel-Stadt
+
+5.
+
+Finanzielle Auswirkungen
+
+Die vorgeschlagenen Änderungen des ÖSpG führen zu Anpassungen im Bereich der Organisations-, Aufsichts- und Steuerungsvorgaben für die öffentlichen Spitäler. Sie haben grundsätzlich
+keine finanziellen Auswirkungen für die öffentlichen Spitäler oder den Kanton, ausser im Bereich
+der Genehmigung von Investitionsvorhaben durch den Grossen Rat. Durch diesen neuen Genehmigungsvorbehalt können den öffentlichen Spitälern Mehrkosten wegen Verzögerungen in der Projektierung aufgrund des Zeitbedarfs für die Erwirkung einer grossrätlichen Genehmigung oder den
+Folgenkosten aufgrund einer Ablehnung eines Investitionsvorhabens entstehen.
+
+6.
+
+Formelle Prüfungen und Regulierungsfolgeabschätzung
+
+Das Finanzdepartement hat den vorliegenden Ratschlag gemäss § 8 des Gesetzes über den kantonalen Finanzhaushalt vom 14. März 2012 (Finanzhaushaltgesetz; SG 610.100) überprüft.
+Das Justiz- und Sicherheitsdepartement hat den Erlass gemäss § 4 Abs. 1 des Gesetzes über
+Publikationen im Kantonsblatt und über die Gesetzessammlung des Kantons Basel-Stadt vom
+19. Oktober 2016 (Publikationsgesetz; SG 151.200) in redaktioneller und gesetzestechnischer Hinsicht geprüft.
+Eine Regulierungsfolgenabschätzung ist nur durchzuführen, wenn eine Betroffenheit vorliegt, was
+gemäss RFA-Vortest im vorliegenden Fall nicht gegeben ist.
+
+7.
+
+Anträge
+
+Gestützt auf obenstehende Ausführungen stellt der Regierungsrat dem Grossen Rat den Antrag,
+die beiliegende Änderung des Öffentliche Spitäler-Gesetzes (Beilage „Publikationserlass mit Genehmigungsvermerk K+C“) zu beschliessen.
+Ausserdem beantragen wir, die Motion der Gesundheits- und Sozialkommission betreffend Kenntnisgabe der Eignerstrategien der öffentlich-rechtlichen Spitäler an den Grossen Rat sowie die Motion Stefan Wittlin und Konsorten betreffend Bewilligung von Grossinvestitionen der öffentlichen
+Spitäler durch den Grossen Rat abzuschreiben.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Dr. Conradin Cramer
+Regierungspräsident
+
+Marco Greiner
+Vizestaatsschreiber
+
+Beilagen
+ Publikationserlass mit Genehmigungsvermerk K+C
+ Regulierungsfolgenabschätzung, Teil A Vortest
+
+Seite 17/17
+
+FORMELL GEPRÜFT (4) | ID: 6758 | 08.04.2026
+
+Gesetz über die öffentlichen Spitäler des Kantons Basel-Stadt
+(Öffentliche Spitäler-Gesetz, ÖSpG)
+Änderung vom [Datum]
+Der Grosse Rat des Kantons Basel-Stadt,
+nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. [Ratschlag-Nr.] vom [Datum] sowie in
+den Bericht der [Kommission] Nr. [Kommissionsbericht-Nr.] vom [Datum],
+beschliesst:
+I.
+Gesetz über die öffentlichen Spitäler des Kantons Basel-Stadt (Öffentliche Spitäler-Gesetz, ÖSpG) vom
+16. Februar 2011 1) (Stand 1. Januar 2012) wird wie folgt geändert:
+§ 1 Abs. 1 (geändert)
+1
+Dieses Gesetz regelt die Rechtsstellung, die Organisation und die Aufgaben des Universitätsspitals
+Basel, der Universitären Psychiatrischen Kliniken Basel und der Universitären Altersmedizin Felix Platter (öffentliche Spitäler).
+§ 4 Abs. 2 (geändert)
+2
+Der Erwerb von Beteiligungen, die Übertragung von Aktiven auf Dritte oder die Verpfändung von
+Aktiven an Dritte, an welchen ein öffentliches Spital nicht mehrheitlich beteiligt ist, bedarf der Zustimmung des Regierungsrates, wenn der vom Regierungsrat in der Eignerstrategie festgelegte Prozentsatz
+des Eigenkapitals überschritten wird.
+§ 5 Abs. 2 (neu), Abs. 3 (neu)
+2
+Personen, die miteinander verheiratet sind, in eingetragener Partnerschaft oder in einem gefestigten
+Konkubinat leben, im ersten oder zweiten Grad verwandt oder verschwägert sind, dürfen nicht gleichzeitig den Organen gemäss Abs. 1 angehören.
+3
+Kein Mitglied des Verwaltungsrates darf der Spitalleitung angehören. Die Wahrnehmung anderer
+Funktionen (insbesondere Aufträge, Mandate, Anstellungen) für das öffentliche Spital bedarf der Genehmigung des zuständigen Departements.
+§ 6 Abs. 3bis (neu), Abs. 6 (geändert)
+3bis
+Nicht wählbar in den Verwaltungsrat sind:
+a)
+Mitglieder des Grossen Rates;
+b)
+Mitglieder des Regierungsrates und weitere Magistratspersonen;
+c)
+Mitarbeitende der kantonalen Verwaltung, denen Aufgaben im Zusammenhang mit den öffentlichen Spitälern übertragen sind.
+6
+Der Regierungsrat berücksichtigt Personen mit den für die Leitung eines Spitals erforderlichen Qualifikationen.
+§ 7 Abs. 2
+2
+Er hat insbesondere folgende Aufgaben:
+a)
+(geändert) Festlegung der strategischen Ausrichtung im Rahmen der vom Regierungsrat bestimmten Eignerstrategie und der Leistungsaufträge;
+
+1)
+
+SG 331.100
+
+1
+
+h)
+
+(geändert) Durchführung einer angemessenen Risikokontrolle, insbesondere durch Errichtung und Aufrechterhaltung eines der Risikostruktur des öffentlichen Spitals angepassten Risikomanagements und eines internen Kontrollsystems (IKS);
+
+§ 11 Abs. 1bis (neu), Abs. 2bis (neu), Abs. 3bis (neu)
+1bis
+Der Regierungsrat genehmigt das Organisationsreglement.
+2bis
+Mit der Genehmigung der Jahresrechnung entscheidet der Regierungsrat über die Entlastung der
+Mitglieder des Verwaltungsrates.
+3bis
+Die Eignerstrategie des Regierungsrates wird dem Grossen Rat zur Kenntnis gebracht.
+§ 11a (neu)
+1
+Dem Grossen Rat obliegt die Oberaufsicht.
+2
+Die zuständigen Oberaufsichtskommissionen haben alle für die Oberaufsicht notwendigen Einsichtsund Informationsrechte, sofern diesen nicht schwerwiegende private oder öffentliche Interessen entgegenstehen.
+Titel nach § 17 (neu)
+VIII.3bis. Bauinvestitionen
+§ 17a (neu)
+1
+Bauinvestitionen der Universitären Psychiatrischen Kliniken und der Universitären Altersmedizin Felix Platter von über 100 Millionen Franken sowie Bauinvestitionen des Universitätsspitals Basel von
+über 300 Millionen Franken bedürfen einer Genehmigung durch den Grossen Rat.
+2
+Der Regierungsrat berichtet dem Grossen Rat jeweils im Rahmen der Jahresrechnung zu den öffentlichen Spitälern zum Stand dieser Bauinvestitionen.
+II. Änderung anderer Erlasse
+Keine Änderung anderer Erlasse.
+III. Aufhebung anderer Erlasse
+Keine Aufhebung anderer Erlasse.
+IV. Schlussbestimmung
+Diese Änderung ist zu publizieren; sie unterliegt dem Referendum und tritt am fünften Tag nach der
+Publikation des unbenutzten Ablaufs der Referendumsfrist oder im Falle der Volksabstimmung am fünften Tag nach der Publikation der Annahme durch die Stimmberechtigten in Kraft.
+
+[Behörde]
+[Funktion 1]
+[NAME 1]
+[Funktion 2]
+[NAME 2]
+
+ZRD
+08.04.2026
+
+RGS
+
+2
+
+Regierungsrat des Kantons Basel-Stadt
+
+Regulierungsfolgenabschätzung (RFA)
+
+Teil A:
+Klärung der Betroffenheit („Vortest“)
+Titel des Geschäfts: Teilrvevision des Gesetzes über die öffentlichen Spitäler des Kantons Basel-Stadt
+(ÖSpG)
+P-Nr.: P241391
+Erlassform:
+
+Gesetz
+
+Verordnung
+
+Federführendes Departement:
+
+PD
+
+BVD
+
+ED
+
+FD
+
+GD
+
+JSD
+
+WSU
+
+Ist folgende Frage mit „Ja“ zu beantworten, liegt eine Betroffenheit der Wirtschaft vor, d.h. die Regulierungsfolgenabschätzung (Teil B) ist durchzuführen.
+
+1. Können Unternehmen vom Vorhaben direkt oder indirekt negativ betroffen sein? (direkt: z.B. in Form
+von Kosten, Berichtspflichten, Auflagen; indirekt: z.B. Verschlechterung der Standortattraktivität)
+Ja
+
+Nein
+
+Der Vortest zur Betroffenheit ist obligatorischer Bestandteil des Berichtes an den Regierungsrat bzw.
+des Ratschlags an den Grossen Rat. Liegt keine Betroffenheit der Wirtschaft vor, ist dies in einem
+separaten Abschnitt („Regulierungsfolgenabschätzung“) im Bericht bzw. Ratschlag kurz zu begründen. Ist eine Betroffenheit festgestellt worden, ist Teil B des Fragenkatalogs auszufüllen.
+
+Empfehlung:
+Der Regierungsrat empfiehlt, den Fragebogen bereits bei der Ausarbeitung des Erlasses
+bzw. dessen Revision zu berücksichtigen und nach dessen Finalisierung auszufüllen.
+
+

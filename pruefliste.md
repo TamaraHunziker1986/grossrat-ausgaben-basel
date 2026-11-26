@@ -1,11 +1,11 @@
 # Prüfliste
 
-Vorstösse ohne Partei: 25 von 628 (BRK, GPK, GSK, JSSK, RegioKo, SpezKo-Klima, UVEK, WAK)
+Vorstösse ohne Partei: 29 von 683 (BKK, BRK, GPK, GSK, JSSK, RegioKo, SpezKo-Klima, UVEK, WAK)
 
 ## Vollständigkeit Vorstösse
 Geschäftstypen in den Vorgängen: Schriftliche Anfrage (2147); Anzug (1896); Interpellation (918); Motion (602); Bericht (511); Ratschlag (419); Petition (217); Wahl (212); None (124); Rücktritt (122); Ausgabenbericht (104); Initiative (87); Budgetpostulat (56); Antrag (33); Vorgezogenes Budgetpostulat (20); Schreiben (19); Resolution (8); Gesuch (3); Partnerschaftlich (3); Personal (2); Planungsanzug (1); Brief (1); Mutation (1); Vernehmlassung (1)
-Motionen/Anzüge mit Vorgang seit Start: 1419, davon als überwiesen erfasst: 598
-Nicht erfasste Vermerke mit Überweisung: Schriftliche Anfrage: Überwiesen an RR (572); Schriftliche Anfrage: Überweisung an RR Frist: DATUM (390); Anzug: stehen lassen (203); Anzug: erledigt / nicht überwiesen (178); Anzug: stehen lassen Frist: DATUM (90); Petition: Überweisung an PetKo (87); Schriftliche Anfrage: Überwiesen an RR Frist: DATUM (72); Motion: erledigt / nicht überwiesen (58); Schriftliche Anfrage: Überwiesen an RR Frist nach Einreichung drei Monate: (45); Motion: Überweisung an RR zur Stellungnahme Frist: DATUM (38); Petition: Überweisung an RR zur abschliessenden Behandlung (36); Anzug: Überweisung an RR zur Stellungnahme innert drei Monaten (30); Anzug: Nicht überwiesen (26); Motion: Nicht überwiesen / erledigt (24); Motion: Überweisung an RR zur Stellungnahme innert drei Monaten (24); Anzug: Umwandlung in ANZ / Überweisung an RR (15); Anzug: Umwandlung in Anzug / Überweisung an RR (13); Anzug: Nicht überwiesen / erledigt (11); Anzug: Überweisung an UVEK (11); Rücktritt: Überweisung an WVKo (11); Anzug: Überweisung an BKK (10); Anzug: Überweisung an Ratsbüro (10); Anzug: Überweisung an WAK (8); Petition: Überweisung an RR zur Stellungnahme innert eines Jahres (8); Schriftliche Anfrage: Überweisung an RR (8); Motion: Nicht überwiesen (7); Motion: Überweisung an UVEK (7); Anzug: Umwandlung in ANZ / Überweisung an RR Frist: DATUM (7); Antrag: Überweisung an RR zum Vollzug (7); Initiative: Überweisung an UVEK (6); Anzug: Überweisung an GSK (6); Petition: Überweisung an RR zur Stellungnahme innert sechs Monaten (6); Petition: Überweisung an RR zur Stellungnahme Frist: DATUM (5); Motion: stehen lassen Frist: DATUM (5); Anzug: Überweisung an UVEK Frist: DATUM (5); Anzug: Umwandlung MOT in ANZ Überweisung an RR (5); Motion: stehen lassen (5); Anzug: Überweisung an Ratsbüro Frist: DATUM (4); : Überweisung an BKK (4); Rücktritt: Überweisung an Wahlvorbereitungskommission (4); Initiative: Überweisung an JSSK (4); Motion: Überweisung an JSSK (4); Rücktritt: Überweisung an RR zur Ansetzung der Ersatzwahl (4); Antrag: erledigt / nicht überwiesen (4); Antrag: Überweisung an RR zur Stellungnahme innert drei Monaten Frist: DATUM (4); Anzug: Überweisung an RR zur Stellungnahme innert drei Monaten Frist: DATUM (4); Schriftliche Anfrage: Überwiesen an RR Frist nach Einreichung drei Monate: DATUM (4); Initiative: Überweisung an BKK (4); Anzug: Umwandlung MOT in ANZ / Überweisung an RR (4); Antrag: Überweisung an RR zur Stellungnahme innert drei Monaten (4); Anzug: Überweisung an JSSK Frist: DATUM (3); Vorgezogenes Budgetpostulat: Überweisung an RR Frist: DATUM (3); Budgetpostulat: Nicht überwiesen / erledigt (3); Petition: Überweisung an RR zur Stellungnahme innert eines Jahres Frist: DATUM (3); Anzug: nicht überwiesen / erledigt (3); Anzug: Überweisung an RR zur Stellungnahme Frist: DATUM (3); Motion: Überweisung MOT zur Ausarbeitung einer Vorlage Frist: DATUM (3); Motion: Überweisung an BKK (3); Motion: Überweisung MOT zur Ausarbeitung einer Vorlage (3); Motion: stehen lassen / Fristverlängerung zur Umsetzung um zwei Jahre (3); Petition: Überweisung an JSSK (3); Motion: Überweisung an GSK (2); : Überweisung an UVEK (2); Rücktritt: Kenntnisnahme / Überweisung an WVKo (2); Initiative: Überweisung an RegioKo (2); Anzug: Überweisung ans Ratsbüro Frist: DATUM (2); Petition: Überweisung an RR zur Stellungnahme innert sechs Monaten Frist: DATUM (2); Motion: nicht Überwiesen / erledigt (2); Motion: Überweisung an RR zur Stellungnahme innert drei Monaten Frist: DATUM (2); Motion: nicht überwiesen / erledigt (2); Initiative: Überweisung an WAK (2); Motion: nicht überwiesen (2); Initiative: Überweisung an BRK (2); Motion: Überweisung an WAK (2); Motion: Überweisung MOT zur Ausarbeitung einer Vorlage innert eines Jahres (2); Petition: Überweisung an BKK (2); Initiative: als rechtlich zulässig erklärt / Überweisung an RR zur Berichterstattung innert sechs Monaten (2); Anzug: stehen lassen und Überweisung an JSSK (2); Anzug: Überweisung an JSSK (2); Budgetpostulat: Überweisung an RR zur Stellungnahme (2)
+Motionen/Anzüge mit Vorgang seit Start: 1419, davon als überwiesen erfasst: 653
+Nicht erfasste Vermerke mit Überweisung: Schriftliche Anfrage: Überwiesen an RR (572); Schriftliche Anfrage: Überweisung an RR Frist: DATUM (390); Anzug: stehen lassen (185); Anzug: erledigt / nicht überwiesen (178); Petition: Überweisung an PetKo (87); Anzug: stehen lassen Frist: DATUM (77); Schriftliche Anfrage: Überwiesen an RR Frist: DATUM (72); Motion: erledigt / nicht überwiesen (58); Schriftliche Anfrage: Überwiesen an RR Frist nach Einreichung drei Monate: (45); Motion: Überweisung an RR zur Stellungnahme Frist: DATUM (38); Petition: Überweisung an RR zur abschliessenden Behandlung (36); Anzug: Nicht überwiesen (26); Motion: Nicht überwiesen / erledigt (24); Motion: Überweisung an RR zur Stellungnahme innert drei Monaten (14); Anzug: Nicht überwiesen / erledigt (11); Rücktritt: Überweisung an WVKo (11); Anzug: Überweisung an BKK (10); Anzug: Überweisung an UVEK (10); Anzug: Überweisung an Ratsbüro (10); Petition: Überweisung an RR zur Stellungnahme innert eines Jahres (8); Schriftliche Anfrage: Überweisung an RR (8); Motion: Nicht überwiesen (7); Antrag: Überweisung an RR zum Vollzug (7); Initiative: Überweisung an UVEK (6); Anzug: Überweisung an GSK (6); Petition: Überweisung an RR zur Stellungnahme innert sechs Monaten (6); Petition: Überweisung an RR zur Stellungnahme Frist: DATUM (5); Motion: stehen lassen Frist: DATUM (5); Anzug: Überweisung an UVEK Frist: DATUM (5); Motion: Überweisung an UVEK (5); Anzug: Überweisung an RR zur Stellungnahme innert drei Monaten (5); Motion: stehen lassen (5); Anzug: Überweisung an Ratsbüro Frist: DATUM (4); : Überweisung an BKK (4); Rücktritt: Überweisung an Wahlvorbereitungskommission (4); Initiative: Überweisung an JSSK (4); Motion: Überweisung an JSSK (4); Rücktritt: Überweisung an RR zur Ansetzung der Ersatzwahl (4); Antrag: erledigt / nicht überwiesen (4); Antrag: Überweisung an RR zur Stellungnahme innert drei Monaten Frist: DATUM (4); Anzug: Überweisung an WAK (4); Schriftliche Anfrage: Überwiesen an RR Frist nach Einreichung drei Monate: DATUM (4); Initiative: Überweisung an BKK (4); Antrag: Überweisung an RR zur Stellungnahme innert drei Monaten (4); Anzug: Überweisung an JSSK Frist: DATUM (3); Vorgezogenes Budgetpostulat: Überweisung an RR Frist: DATUM (3); Budgetpostulat: Nicht überwiesen / erledigt (3); Petition: Überweisung an RR zur Stellungnahme innert eines Jahres Frist: DATUM (3); Anzug: nicht überwiesen / erledigt (3); Motion: stehen lassen / Fristverlängerung zur Umsetzung um zwei Jahre (3); Petition: Überweisung an JSSK (3); : Überweisung an UVEK (2); Rücktritt: Kenntnisnahme / Überweisung an WVKo (2); Initiative: Überweisung an RegioKo (2); Anzug: Überweisung ans Ratsbüro Frist: DATUM (2); Petition: Überweisung an RR zur Stellungnahme innert sechs Monaten Frist: DATUM (2); Motion: nicht Überwiesen / erledigt (2); Motion: Überweisung an RR zur Stellungnahme innert drei Monaten Frist: DATUM (2); Motion: nicht überwiesen / erledigt (2); Initiative: Überweisung an WAK (2); Motion: nicht überwiesen (2); Initiative: Überweisung an BRK (2); Motion: Überweisung an WAK (2); Petition: Überweisung an BKK (2); Initiative: als rechtlich zulässig erklärt / Überweisung an RR zur Berichterstattung innert sechs Monaten (2); Anzug: stehen lassen und Überweisung an JSSK (2); Anzug: Überweisung an JSSK (2); Budgetpostulat: Überweisung an RR zur Stellungnahme (2); Petition: Überweisung an RR zur Stellungnahme innert drei Monaten (2); Anzug: Uwandlung in ANZ / Überweisung an RR (2); Motion: Nicht überwiesen - erledigt (1); Anzug: stehen lassen an Ratsbüro Frist: DATUM (1); Initiative: Für rechtlich zulässig erklärt Überweisung an RR zur Berichterstattung. Frist: DATUM (1); Anzug: Nicht überwiesen - erledigt (1); Antrag: Überweisung an RR zur Stellungnahme Frist: DATUM (1); Rücktritt: Kenntnisnahme - Überweisung an RR zur Ansetzung der Volkswahl (1); : Rechtlich zulässig erklärt / Überweisung an RR zur Berichterstattung. Frist: DATUM (1); Petition: Überweisung an PetKos (1); Initiative: Zustimmung und Überweisung an RR zur Berichterstattung Frist: DATUM (1); Wahl: Kenntnisnahme / Überweisung an Wahlvorbereitungskommission (1)
 
 Vermerke Budgetpostulate: Überweisung an RR Frist: DATUM (12); Erfüllt / Zustimmung zur Budgeterhöhung (7); Überweisung an RR zur Stellungnahme (6); Überweisung an RR zur Stellungnahme Frist: DATUM (5); Zustimmung zum Budgetpustolat (4); erledigt / Budgetpostulat abgelehnt (4); Zustimmung zum Budgetpostulat / erledigt (4); Überweisung an RR (4); Überweisung an RR Frist: DATUM (3); Nicht überwiesen / erledigt (3); Vorgezogenes Budgetpostulat teilweise erfüllt / erledigt (3); Vorgezogenes Budgetpostulat erfüllt / erledigt (3); Überweisung an RR zur Aufnahme ins Budget 2024 (3); Zustimmung / Das Budgetpostulat wird teilweise erfüllt (2); Budgetpostulat abgelehnt / erledigt (2); Zustimmung (2); erfüllt / Zustimmung zur Budgeterhöhung (1); erfüllt (1); abgeschrieben / Budgetpostulat wird nicht erfüllt (1); Zustimmung / Das Budgetpostulat wird erfüllt (1); Überweisung an RR zur Aufnahme ins Budget Frist: DATUM (1); Budgetpostulat wurde zurückgezogen (1); Vollständig erfüllt / erledigt (1); Zustimmung zum Budgetpostulat (1); Überweisung an RR zur Aufnahme ins Budget 2025 (1)
 
@@ -46,10 +46,6 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100393/000000393868.pdf
 - einmalig: Fr. 200'000  
   «- Fr. 200‘000 gebundene Ausgaben für den Ersatz von 108 Sitzbänken durch das TBA zu Lasten der Erfolgsrechnung des Bau-und Verkehrsdepartments»
 
-## 2021-03-10 20.1274 Bericht zum Stand der Umsetzung der Anforderungen des Bundesgesetzes zur Behindertengleichstellung (BehiG) auf dem Tram- und Busnetz des Kantons Basel-Stadt; Statusbericht per Ende 2019
-Beschluss: https://grosserrat.bs.ch/dokumente/100393/000000393870.pdf
-- keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
-
 ## 2021-03-10 20.0137 Ratschlag betreffend Ausgabenbewilligung für die Sanierung der Rauracherstrasse mit Umgestaltung der Bushaltestellen Bahnhof Niederholz und Habermatten
 Beschluss: https://grosserrat.bs.ch/dokumente/100393/000000393866.pdf
 - einmalig: Fr. 1'490'000  
@@ -64,6 +60,10 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100393/000000393866.pdf
   «- Fr. 1‘095‘000 gebundene Ausgaben für die Erhaltung der Strasse gemäss dem heutigen Standard zu Lasten der Investitionsrechnung, Investitionsbereich IB1 «Stadtentwicklung und Infrastruktur», Rahmenausgabenbewilligung Erhaltung Infrastruktur Strassen»
 - einmalig: Fr. 420'000  
   «- Fr. 420‘000 gebundene Ausgaben für die Erhaltung der Strasse gemäss dem heutigen Standard zu Lasten der Investitionsrechnung, Investitionsbereich IB1 «Stadtentwicklung und Infrastruktur», Rahmenausgabenbewilligung Erhaltung Lichtsignalanlagen 2 Der Beitrag des Bundes in der Höhe von max. Fr. 26‘500 (zuzüglich MWST. und Teuerung seit 2005) ist der Ausgabe gutzuschreiben.»
+
+## 2021-03-10 20.1274 Bericht zum Stand der Umsetzung der Anforderungen des Bundesgesetzes zur Behindertengleichstellung (BehiG) auf dem Tram- und Busnetz des Kantons Basel-Stadt; Statusbericht per Ende 2019
+Beschluss: https://grosserrat.bs.ch/dokumente/100393/000000393870.pdf
+- keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
 
 ## 2021-03-17 20.1373 Staatsbeitrag an die Stiftung Wildt'sches Haus für die Jahre 2021-2024
 Beschluss: https://grosserrat.bs.ch/dokumente/100393/000000393909.pdf
@@ -1731,11 +1731,6 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411151.pdf
 - einmalig: Fr. 1'310'000  
   «Es werden Ausgaben über gesamthaft Fr. 1'310'000 für die Beschaffung eines elektrobetriebenen ABC-Lastkraftwagens der Feuerwehr Basel-Stadt zu Lasten der Investitionsrechnung des Justizund Sicherheitsdepartements, Dienststelle Rettung, genehmigt.»
 
-## 2025-12-10 25.1333 Beschaffung von vier Rettungswagen für die Sanität Basel-Stadt (eRTW)
-Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411466.pdf
-- einmalig: Fr. 1'912'000  
-  «Es wird eine Ausgabe über gesamthaft Fr. 1'912'000 für die Beschaffung von vier elektrobetriebenen Rettungswagen der Sanität Basel-Stadt zu Lasten der Investitionsrechnung des Justiz- und Sicherheitsdepartements, Dienststelle Rettung, bewilligt.»
-
 ## 2025-12-10 25.5498 Änderung der Ausführungsbestimmungen zum Gesetz über die Geschäftsordnung des Grossen Rates (AB)
 Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411459.pdf
 **Achtung:** Gesamtbetrag laut Beschluss Fr. 6'000, Summe der gelesenen Posten Fr. 0
@@ -1745,6 +1740,11 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411459.pdf
 Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411460.pdf
 - befristet: Fr. 840'000  
   «Für die Stiftung Rheinleben werden für den Betrieb der Anlaufstelle für Angehörige und Kinder psychisch erkrankter Menschen für die Jahre 2026 bis 2029 Ausgaben von insgesamt Fr. 840‘000 (jährlich Fr. 210‘000) bewilligt.»
+
+## 2025-12-10 25.1333 Beschaffung von vier Rettungswagen für die Sanität Basel-Stadt (eRTW)
+Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411466.pdf
+- einmalig: Fr. 1'912'000  
+  «Es wird eine Ausgabe über gesamthaft Fr. 1'912'000 für die Beschaffung von vier elektrobetriebenen Rettungswagen der Sanität Basel-Stadt zu Lasten der Investitionsrechnung des Justiz- und Sicherheitsdepartements, Dienststelle Rettung, bewilligt.»
 
 ## 2025-12-10 23.1497 Teilrevision des Bürgerrechtsgesetzes (BürG)
 Beschluss: https://grosserrat.bs.ch/dokumente/100411/000000411478.pdf
@@ -2097,6 +2097,10 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413300.pdf
 Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413535.pdf
 - keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
 
+## 2026-10-14 26.0743 Universität Basel: Leistungsbericht 2025; Partnerschaftliches Geschäft, Bericht des RR
+Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413540.pdf
+- keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
+
 ## 2026-10-14 25.1234 Teilrevision des Gesetzes über die Behindertenhilfe
 Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413537.pdf
 - keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
@@ -2105,10 +2109,6 @@ Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413537.pdf
 Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413539.pdf
 - einmalig: Fr. 345'380  
   «Es wird ein Betrag in Höhe von 345'380 Franken für die Ersatzbeschaffung von einem E-LKW für die Materialzentrale (zu Lasten der Investitionsrechnung Erziehungsdepartement, Zentrale Dienste, Investitionsbereich «Übrige») bewilligt.»
-
-## 2026-10-14 26.0743 Universität Basel: Leistungsbericht 2025; Partnerschaftliches Geschäft, Bericht des RR
-Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413540.pdf
-- keine Ausgaben erkannt (wird auf der Seite nicht gezählt)
 
 ## 2026-10-14 26.0555 Ausgabenbewilligung zur Neugestaltung von Grünanlagen mit Naturschutzzone im Areal Walkeweg
 Beschluss: https://grosserrat.bs.ch/dokumente/100413/000000413536.pdf (korrigiert)
@@ -2285,9 +2285,25 @@ Dokument: https://grosserrat.bs.ch/dokumente/100412/000000412440.pdf
 - Fr. 150'000  
   «In Entsprechung des Budgetpostulats 2026 Heidi Mück werden im Budget 2026 des Erziehungsdepartements zusätzlich Fr. 150’000 eingestellt. (Position Erziehungsdepartement, 290 Jugend, Familie und Sport, 36 Transferaufwand)»
 
+## Vorstoss 20.5215 Anzug Thomas Widmer-Huber und Konsorten betreffend Konjunkturprogramm Basel-Stadt 200 Millionen mit Massnahmen zur Bekäm (Kostenhinweis prüfen: Fr. 67'300'000)
+Quelle: https://grosserrat.bs.ch/dokumente/100405/000000405195.pdf  
+«Kap. 7.5.4). 7.7 Ausserordentliche Äufnung des Standortförderungsfonds Wie in Kap. 7.6.2 ausgeführt, werden für die Jahre 2023 – 2030 zur Umsetzung der neun Programme Gesamtausgaben von rund 67,3 Millionen Franken erwartet.»
+
 ## Vorstoss 20.5472 Anzug Tim Cuénod und Konsorten betreffend eine kantonale Flachdach-Strategie (Kostenhinweis prüfen: Fr. 10'157)
 Quelle: https://grosserrat.bs.ch/dokumente/100410/000000410358.pdf  
 «Ersatzabgabe: 2’284 Fr. / a Förderanteil insgesamt: 26 % Förderanteil insgesamt: Tabelle 4: Solarpflicht, Ersatzabgabe und Förderbeiträge für ein freistehendes Einfamilienhaus in Riehen 72 m2 16.7 kW 16.7 kW 38’840 Fr. 5’994 Fr. 4’163 Fr. 10'157 Fr. 26 % Seite 41/79 Regierungsrat des Kantons Basel-Stadt Reihen-Mehrfamilienhaus, Klybeck Gebäude PV-Anlage zur Pflichterfüllung Realisierte PV-Anlage G»
+
+## Vorstoss 20.5393 Anzug Raoul I. Furlano und Konsorten betreffend Anerkennung eines Status "Careleaver" durch Amtsstellen des Kantons (Kostenhinweis prüfen: Fr. 110'000 pro Jahr)
+Quelle: https://grosserrat.bs.ch/?dnr=20.5393.03  
+«Finanzielle Auswirkungen Das Erziehungsdepartement rechnet mit Ausgaben in der Höhe von insgesamt 110'000 Franken pro Jahr.»
+
+## Vorstoss 20.5252 Anzug der Bildungs- und Kulturkommission betreffend Abgeltung an die Museen für Schulklassenbesuche (Kostenhinweis prüfen: Fr. 300'000)
+Quelle: https://grosserrat.bs.ch/?dnr=20.5252.02  
+«Ausserdem beschliesst er die Investitionen über Fr. 300'000 (§ 9 Abs. 4 Museumsgesetz).»
+
+## Vorstoss 20.5109 Anzug Balz Herter und Konsorten betreffend steuerlicher Abzug der im Kanton günstigsten Grundversicherungsprämie (Kostenhinweis prüfen: Fr. 10'100 pro Jahr)
+Quelle: https://grosserrat.bs.ch/dokumente/100397/000000397582.pdf  
+«Nebst der Gemeindeinitiative Riehen «Entlastung von Familien» werden namentlich folgende politische Vorstösse im Rahmen des Gegenvorschlags berücksichtigt: - Motion Mark Eichner und Konsorten betreffend bessere Vereinbarkeit von Familie und Beruf Die Motion Mark Eichner und Konsorten fordert die Erhöhung des Kinderdrittbetreuungskostenabzugs von heute 10'100 Franken auf neu max. 25'000 Franken pro»
 
 ## Vorstoss 21.5098 Anzug Jérôme Thiriet und Konsorten betreffend Veloverbesserungsmassnahmen zur besseren Erschliessung des Güterbahnhofs W
 Kosten: bewilligt' einmalig 350'000' pro Jahr 0  
@@ -2296,6 +2312,10 @@ Kosten: bewilligt' einmalig 350'000' pro Jahr 0
 ## Vorstoss 21.5099 Anzug Balz Herter und Konsorten betreffend Bewahrung, Dokumentation und Vermittlung der Basler Fasnacht (Kostenhinweis prüfen: Fr. 50'000)
 Quelle: https://grosserrat.bs.ch/?dnr=21.5099.02  
 «Nach erfolgtem Bundesentscheid wurde ein Beitrag von 50'000 Franken zugesagt.»
+
+## Vorstoss 20.5344 Anzug Daniela Stumpf und Konsorten betreffend Gebührenerlass für die Herbstmesse 2021 (Kostenhinweis prüfen: Fr. 10'000'000)
+Quelle: https://grosserrat.bs.ch/?dnr=20.5344.03  
+«Dort hat der Regierungsrat bereits Ende März Ausgaben in der Höhe von 10 Millionen Franken für Kulturschaffende zulasten des Krisenfonds bewilligt.»
 
 ## Vorstoss 21.5221 Anzug Luca Urgese und Konsorten betreffend regelmässige Befragungen nach Wahlen und Abstimmungen (Kostenhinweis prüfen: Fr. 37'799)
 Quelle: https://grosserrat.bs.ch/dokumente/100413/000000413035.pdf  
@@ -2341,6 +2361,10 @@ Quelle: https://grosserrat.bs.ch/dokumente/100410/000000410353.pdf
 Quelle: https://grosserrat.bs.ch/?dnr=21.5708.03  
 «Der Mittelwert des Abzugs für tatsächliche Kosten betrug 30’444 Franken und der Medianwert 9’740 Franken.»
 
+## Vorstoss 21.5028 Anzug Sarah Wyss und Georg Mattmüller betreffend gesetzliche Verankerung der Betreuung (Kostenhinweis prüfen: Fr. 13'400 pro Jahr)
+Quelle: https://grosserrat.bs.ch/?dnr=21.5028.04  
+«Im Zuge der parlamentarischen Beratung der ELG-Revision wurde zwar die jährliche Mindestpauschale für Betreuungsleistungen von 13'400 Franken auf 11'160 Franken gesenkt, weshalb die Kostenschätzungen im erläuternden Bericht des Bundes nicht mehr ganz aktuell sind.»
+
 ## Vorstoss 21.5017 Motion der Gesundheits- und Sozialkommission betreffend Corona-Bonus für das Gesundheitspersonal während der COVID-19-Pa
 Kosten: bewilligt' einmalig 5'000'000' pro Jahr 0  
   «August 2022, beschliesst: Für die Refinanzierung eines Corona-Bonus für das Gesundheitspersonal während der COVID19-Pandemie werden Ausgaben in der Höhe von Fr. 5'000’000 bewilligt.» (https://grosserrat.bs.ch/dokumente/100402/000000402716.pdf)
@@ -2348,6 +2372,10 @@ Kosten: bewilligt' einmalig 5'000'000' pro Jahr 0
 ## Vorstoss 21.5749 Anzug der Spezialkommission Klimaschutz bezüglich der Folgekosten des Klimawandels in einem "Weiter-wie-bisher"-Szenario (Kostenhinweis prüfen: Fr. 1'400'000)
 Quelle: https://grosserrat.bs.ch/?dnr=21.5749.02  
 «Im Szenario mit einem stärkeren Klimawandel ergeben sich im Vergleich zum begrenzten Klimawandel im Jahr 2035 Mehrkosten im Sektor Gesundheit von 1,4 Millionen Franken.»
+
+## Vorstoss 21.5235 Anzug Georg Mattmüller und Konsorten betreffend neue BVB-Trams für die Zukunft von Basel (Kostenhinweis prüfen: Fr. 85'781'306)
+Quelle: https://grosserrat.bs.ch/dokumente/100397/000000397646.pdf  
+«Diese Kosten setzen sich wie folgt zusammen: Position Grundpreis für 21 lange und 2 kurze Fahrzeuge Kollisionswarnsystem für alle 23 Fahrzeuge Messsystem Infrastruktur für zwei Fahrzeuge Technische Anpassungen für 23 Fahrzeuge Kosten der Projektabwicklung und Qualitätssicherung Beantragte Gesamtsumme Kosten in Fr. 85'781'306 1'096'211 838'034 1'898'661 1'660'240 91'274'452 Die Freigabe der erforde»
 
 ## Vorstoss 21.5319 Motion Jérôme Thiriet und Konsorten betreffend Winterdienst auf Trottoirs ist Staatsaufgabe!
 Kosten: beziffert' einmalig 0' pro Jahr 741'000  
@@ -2397,9 +2425,29 @@ Quelle: https://grosserrat.bs.ch/dokumente/100407/000000407947.pdf
 Quelle: https://grosserrat.bs.ch/?dnr=22.5119.03  
 «Seite 7/12 Regierungsrat des Kantons Basel-Stadt nur 12% aller Berechtigten nutzten das Angebot bis anhin, womit die geschätzten Kosten im Jahr 2024 bei 30'000 Franken lagen.13 Die umfassendste Medienförderung, mit einem Budget von insgesamt 6,2 Mio.»
 
+## Vorstoss 21.5638 Motion der Umwelt-, Verkehrs- und Energiekommission betreffend der Reduktion der Baustellenbelastung sowie der Nutzung d (Kostenhinweis prüfen: Fr. 400'000 pro Jahr)
+Quelle: https://grosserrat.bs.ch/dokumente/100408/000000408881.pdf  
+«Ein «Zurück in die alte Zeit» wird es daher nicht geben. 2.4 Verkehrssimulationstool Der Beschlussantrag des Regierungsrats enthält einmalige Ausgaben von 400'000 Franken für die Beschaffung und Einführung eines Verkehrssimulationstools und jährlich wiederkehrende Ausgaben von 485'000 Franken für personelle Ressourcen, für den Betrieb des Verkehrssimulationstools und für die Durchführung von Verke»
+
+## Vorstoss 21.5510 Motion Oliver Thommen und Konsorten betreffend vermehrte WC-Anlagen im öffentlichen Raum (Kostenhinweis prüfen: Fr. 5'200'000)
+Quelle: https://grosserrat.bs.ch/dokumente/100411/000000411390.pdf  
+«Diese teilen sich wie folgt auf: Fr. 5’200'000 Fr. 660'000 2. als Rahmenausgabebewilligung für die Projektierung, Anschaffung und den Bau von acht Toiletten-Anlagen an definierten Standorten sowie vier weiteren Anlagen an möglichen Standorten zu Lasten der Investitionsrechnung des Bau- und Verkehrsdepartements, Investitionsbereich 8 «Übrige» (Pos. 6170.400.20000, Tiefbauamt): Fr. 3’470'000 Ausgabe»
+
+## Vorstoss 21.5509 Anzug Laurin Hoppler und Konsorten quartierbezogene autofreie Tage um die nachhaltige Mobilität stärker in die Bevölkeru (Kostenhinweis prüfen: Fr. 110'000 pro Jahr)
+Quelle: https://grosserrat.bs.ch/?dnr=21.5509.03  
+«Februar 2023 einen Staatsbeitrag von 110'000 Franken pro Jahr für die Durchführungen 2023 bis 2026 gesprochen.»
+
 ## Vorstoss 22.5124 Anzug Luca Urgese und Christian von Wartburg betreffend attraktive Gestaltung des Marktplatzes (Kostenhinweis prüfen: Fr. 350'000)
 Quelle: https://grosserrat.bs.ch/?dnr=22.5124.02  
 «Januar 2022 hat der Grosse Rat für das entsprechend Vorprojekt zur Neuorganisation und Umgestaltung des Bereichs Schifflände/Marktplatz einmalige Ausgaben von 350‘000 Franken bewilligt.»
+
+## Vorstoss 21.5508 Motion Claudio Miozzari und Konsorten betreffend gesetzliche Regelungen für die Tagesstruktur und Ferienangebote (Kostenhinweis prüfen: Fr. 111'000)
+Quelle: https://grosserrat.bs.ch/dokumente/100405/000000405427.pdf  
+«Basierend auf der Annahme, dass die Inanspruchnahme von Tagesferien bei 1'259 Schülerinnen und Schülern der Privatschulen gleich hoch ist wie bei den 11’227 Schülerinnen und Schülern der Volksschulen, ergeben sich geschätzte Mehrkosten von rund 111'000 Franken.»
+
+## Vorstoss 21.5836 Anzug Michael Hug und Annina von Falkenstein betreffend Durchführung eines Pilotprojekts Gratis-Tests für sexuell übertr (Kostenhinweis prüfen: Fr. 764'300)
+Quelle: https://grosserrat.bs.ch/?dnr=21.5836.04  
+«Die Kosten für die Pilotphase belaufen sich auf 764'300 Franken.»
 
 ## Vorstoss 21.5810 Motion Beda Baumgartner und Konsorten für Unterstützung von aufsuchender Arbeit im Altersbereich (Kostenhinweis prüfen: Fr. 25'000)
 Quelle: https://grosserrat.bs.ch/?dnr=21.5810.03  
@@ -2425,6 +2473,10 @@ Kosten: geschätzt' einmalig 570'000' pro Jahr 0
 Kosten: geschätzt' einmalig 0' pro Jahr 111'000  
   «Basierend auf der Annahme, dass die Inanspruchnahme von Tagesferien bei 1'259 Schülerinnen und Schülern der Privatschulen gleich hoch ist wie bei den 11’227 Schülerinnen und Schülern der Volksschulen, ergeben sich geschätzte Mehrkosten von rund 111'000 Franken.» (https://grosserrat.bs.ch/dokumente/100405/000000405428.pdf)
 
+## Vorstoss 22.5176 Anzug Pascal Pfister und Konsorten betreffend bessere Luftqualität an Basler Schulen im Winter 2022/23 (Kostenhinweis prüfen: Fr. 250'000)
+Quelle: https://grosserrat.bs.ch/?dnr=22.5176.03  
+«Bei ca. 1’500 damit auszurüstenden Schulzimmern (Unterrichtsräume, Spezialangebote, Kindergarten, Tagesstrukturen etc.) eine Bruttoinvestition in Höhe von ungefähr 0.25 Millionen Franken zustande.»
+
 ## Vorstoss 22.5414 Anzug Salome Bessenich und Johannes Sieber betreffend Sicherstellung von Grünflächen im Kleinbasel während der Baustelle (Kostenhinweis prüfen: Fr. 2'360'000'000)
 Quelle: https://grosserrat.bs.ch/?dnr=22.5414.02  
 «Die Gesamtkosten werden auf CHF 2.36 Milliarden geschätzt.»
@@ -2440,6 +2492,14 @@ Quelle: https://grosserrat.bs.ch/?dnr=22.5421.03
 ## Vorstoss 22.5514 Anzug Christoph Hochuli und Konsorten betreffend wirksame Ausstiegsprogramme für Menschen, die aus der Prostitution auss
 Kosten: bewilligt' einmalig 1'433'025' pro Jahr 0  
   «Begehren Mit vorliegendem Bericht beantragt der Regierungsrat dem Grossen Rat die Bewilligung von Ausgaben an den Verein Aliena für die Ausrichtung einer Finanzhilfe in Höhe von insgesamt 1'433'025 Franken (286'605 Franken p.a.) in den Jahren 2026 bis 2030 für den Aufbau und die Umsetzung eines Pilotprojekts zur Ausstiegshilfe für Sexarbeitende. 2.» (https://grosserrat.bs.ch/dokumente/100411/000000411029.pdf)
+
+## Vorstoss 22.5397 Motion Brigitte Gysin und Konsorten betreffend Vertretung der Tagesstrukturen in den Schulräten (Kostenhinweis prüfen: Fr. 111'000)
+Quelle: https://grosserrat.bs.ch/dokumente/100405/000000405429.pdf  
+«Basierend auf der Annahme, dass die Inanspruchnahme von Tagesferien bei 1'259 Schülerinnen und Schülern der Privatschulen gleich hoch ist wie bei den 11’227 Schülerinnen und Schülern der Volksschulen, ergeben sich geschätzte Mehrkosten von rund 111'000 Franken.»
+
+## Vorstoss 22.5398 Motion Andreas Zappalà und Konsorten betreffend Einführungsklassen an allen Schulstandorten (Kostenhinweis prüfen: Fr. 221'000)
+Quelle: https://grosserrat.bs.ch/?dnr=22.5398.02  
+«Eine Einführungsklasse kostet rund 221'000 Franken; für 24 Einführungsklassen an 24 Schulen wären also 14 zusätzliche Klassen notwendig, was Mehrkosten von rund 3'099'000 Franken generieren würde.»
 
 ## Vorstoss 23.5091 Anzug Christine Keller und Konsorten betreffend Freilaufareale für Hunde (Kostenhinweis prüfen: Fr. 80'000 pro Jahr)
 Quelle: https://grosserrat.bs.ch/?dnr=23.5091.02  
@@ -2476,6 +2536,10 @@ Kosten: bewilligt' einmalig 5'571'000' pro Jahr 240'000
 ## Vorstoss 23.5238 Anzug Lisa Mathys und Konsorten betreffend existenzsichernde Weiterbildungsbeiträge als Klimaberufe-Offensive (Kostenhinweis prüfen: Fr. 14'100)
 Quelle: https://grosserrat.bs.ch/?dnr=23.5238.02  
 «Dadurch können folgende Staats- und Sozialversicherungskosten reduziert werden:  Arbeitslosenversicherung: Das SECO14 weist für die Schweiz im Jahr 2023 einen direkten Aufwand der Arbeitslosenversicherung für Auszahlungen von durchschnittlich rund 14’100 Franken je Taggeldbezügerin und Taggeldbezüger aus.15 Nicht inbegriffen sind dabei rund 785 Mio.»
+
+## Vorstoss 22.5584 Anzug Michael Hug und Tobias Christ betreffend Verbesserung der Arbeitsbedingungen für Kantonsangestellte im Schicht- un (Kostenhinweis prüfen: Fr. 500'000 pro Jahr)
+Quelle: https://grosserrat.bs.ch/dokumente/100412/000000412260.pdf  
+«Bei einem Teuerungsausgleich von 0.75 % würden sich die zusätzlichen Lohnkosten auf rund 500'000 Franken pro Jahr belaufen.»
 
 ## Vorstoss 22.5564 Motion Melanie Eberhard und Konsorten betreffend Anpassung von § 12 des Staatsbeitragsgesetzes (Kostenhinweis prüfen: Fr. 50'000 pro Jahr)
 Quelle: https://grosserrat.bs.ch/dokumente/100410/000000410990.pdf  
@@ -2520,6 +2584,14 @@ Quelle: https://grosserrat.bs.ch/?dnr=23.5571.02
 ## Vorstoss 23.5602 Anzug Oliver Thommen und Konsorten betreffend Wahlmaterial-Kakophonie
 Kosten: geschätzt' einmalig 126'000' pro Jahr 0  
   «Basierend auf den Kosten der Bürgergemeinde Basel würden sich die mutmasslichen externen Kosten für 92’000 separat verschickte Wahlwerbematerial-Couverts (Stimmberechtigte plus Reserve) bei kantonalen Gesamterneuerungswahlen auf rund 126'000 Franken für Verpackung, Versand und Porti (B-Post) belaufen.» (https://grosserrat.bs.ch/?dnr=23.5602.02)
+
+## Vorstoss 23.5324 Motion der Gesundheits- und Sozialkommission betreffend Kenntnisgabe der Eignerstrategien der öffentlich-rechtlichen Spi (Kostenhinweis prüfen: Fr. 100'000'000)
+Quelle: https://grosserrat.bs.ch/dokumente/100412/000000412318.pdf  
+«Mit der Motion von Stefan Wittlin und Konsorten betreffend Bewilligung von Grossinvestitionen von öffentlichen Spitälern durch den Grossen Rat (nachfolgend «Motion Wittlin und Konsorten») wird verlangt, dass Investitionen der öffentlich-rechtlichen Spitäler von über 100 Millionen Franken vom Grossen Rat zu genehmigen seien.»
+
+## Vorstoss 23.5297 Motion Stefan Wittlin und Konsorten betreffend Bewilligung von Grossinvestitionen der öffentlichen Spitäler durch den Gr (Kostenhinweis prüfen: Fr. 100'000'000)
+Quelle: https://grosserrat.bs.ch/dokumente/100412/000000412319.pdf  
+«Mit der Motion von Stefan Wittlin und Konsorten betreffend Bewilligung von Grossinvestitionen von öffentlichen Spitälern durch den Grossen Rat (nachfolgend «Motion Wittlin und Konsorten») wird verlangt, dass Investitionen der öffentlich-rechtlichen Spitäler von über 100 Millionen Franken vom Grossen Rat zu genehmigen seien.»
 
 ## Vorstoss 23.5512 Motion René Brigger und Konsorten betreffend Anpassung Basler Baurecht an die Solaroffensive (Kostenhinweis prüfen: Fr. 10'157)
 Quelle: https://grosserrat.bs.ch/dokumente/100410/000000410354.pdf  

@@ -1,0 +1,277 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+20.5266.02
+
+ED/P205266
+Basel, 13. Januar 2021
+Regierungsratsbeschluss vom 12. Januar 2021
+
+Motion Sarah Wyss und Sandra Bothe betreffend «Einführung eines wirklichen BYOD’s oder Systemwechsels» – Stellungnahme
+Der Grosse Rat hat an seiner Sitzung vom 21. Oktober 2020 die nachstehende Motion Sarah
+Wyss und Sandra Bothe dem Regierungsrat zur Stellungnahme überwiesen:
+Aus den beiden Interpellationsbeantwortungen (Sarah Wyss 20.5194 und Sandra Bothe 20.5197)
+wurde klar: Die flächendeckende Einführung eines sogenannten BYOD-Systems an den Mittelschulen wird per Schuljahr 2020/21 angegangen. Die Anforderungen an die Geräte entsprechen grösstenteils nicht den bereits bei den Schüler*innen vorhandenen Geräten. Das Konzept «Bring your own
+device» ist somit irreführend, denn basierend auf den anspruchsvollen Anforderungen an die Geräte
+können die Schülerinnen und Schüler ihre vorhandenen Laptops gar nicht verwenden. Es müssen
+neue Geräte angeschafft werden, was eine zusätzliche und nicht geplante finanzielle Belastung für
+die Familien bedeutet. Zwar wurde klar, dass finanzielle Unterstützung beim Amt für Stipendienwesen beantragt werden könnte. Dies stellt aber ein Hindernis für die Schüler und Schülerinnen dar und
+bedingt entsprechende Aufklärung.
+Die Motionärlnnen unterstützen selbstverständlich die Digitalisierung der Schulen und erachten diese
+als richtigen und wichtigen Schritt in die berufliche Zukunft. Auch dass IGT Medien zukünftig die Bedürfnisse aller Schulen verantworten soll, wird, wie wir von den Ratschlägen wissen, vom Grossen
+Rat mitgetragen. Jedoch sind wir klar der Meinung, dass eine flächendeckende Einführung einer Digitalisierung in den Schulen umfänglich nachvollziehbar sein muss und dies ist sie aktuell noch nicht.
+Wenn ein BYOD-System für die Schülerschaft obligatorisch eingeführt werden soll, dann muss es
+auf einem Minimalstandard beruhen. Die jetzigen Anforderungen beispielsweise an den Prozessor,
+an das Betriebssystem oder die Forderung nach einem Touchscreen sind klar zu ambitioniert und
+schiessen deutlich über das Ziel hinaus. Es ist an den Schulen die notwendigen technischen Hilfsmittel zur Verfügung zu stellen, sodass mit den mitgebrachten Geräten der Schüler*innen gearbeitet
+werden kann.
+Wenn die Mittelschulen auf den umfangreicheren Anforderungen
+(https://wa.edubs.ch/schulprofil/bvod-brinq-your-owndevice) bestehen, sollten die Geräte vom Erziehungsdepartement angeschafft, und der Schülerschaft zur Verfügung gestellt werden. Dabei kann
+von einem interessanten Preis pro Gerät aufgrund des Auftragsvolumens und/oder eines Rahmenvertrags profitiert werden.
+Die Motionär*innen sprechen sich weder für, noch gegen das eine oder andere System aus, sondern
+verlangen einfach ein einheitliches und für die Familien finanziell tragbares System. Aus diesem
+Grund fordern die Motionärlnnen den Regierungsrat auf, sich für eine der zwei Optionen zu entscheiden und diese per Schuljahr 2021/22 einzuführen.
+
+Den Mitgliedern des Grossen Rates des Kantons Basel-Stadt zugestellt am 15. Januar 2021.
+
+Seite 1/7
+
+Regierungsrat des Kantons Basel-Stadt
+
+Bei der Option des BYOD sollen folgende Punkte erneut überprüft werden:
+-
+
+Notwendigkeit eines Touchscreens (wie häufig braucht es diesen und wozu?)
+Alternative Betriebssysteme (beispielsweise Linux)
+Prozessorvorgaben (neben Intel gibt es gute und günstige Prozessoren von AMD)
+Auch zur Ausgabeschnittstelle HDMI gibt es stark verbreitete Alternativen
+Keine Benachteiligung von Apple-Geräten
+
+Desweitern soll überprüft werden, mit welchem technischen Unterstützungssystemen (Published
+Apps) für alle Schulen ausgestattet werden müssen, damit das BYOD in den Schulen funktioniert.
+Dafür soll sinnvollerweise wie bereits erwähnt ICT Medien die Verantwortung übertragen werden.
+Bei der Option einer konkreten Vorgabe des Projekts (mit hohen Anforderungen, welche auf die
+Schulen zugeschnitten sind, soll abgeklärt werden, ob diese Geräte global (evtl. in Zusammenarbeit
+mit anderen Schulstufen) eingekauft werden können, und wie sie an die Schülerschaft weitergegeben werden können (Leihmaterial, Vermietung, Verkauf etc.). Dabei ist im Besonderen darauf zu
+achten, dass die Geräte finanzierbar sein müssen - dies im Besonderen für Familien mit mehreren
+Kindern (Familienrabatt und ähnliches) und für Schüler*innen aus finanzschwächeren Familien.
+Sarah Wyss, Sandra Bothe
+
+Wir nehmen zu dieser Motion wie folgt Stellung:
+
+1.
+
+Zur rechtlichen Zulässigkeit der Motion
+
+§ 42 GO bestimmt über die Motion:
+§ 42. Inhalt und Eintretensbeschluss
+1
+In der Form einer Motion kann jedes Mitglied des Grossen Rates oder eine
+ständige Kommission den Antrag stellen, es sei der Regierungsrat zu verpflichten, dem Grossen Rat eine Vorlage zur Änderung der Verfassung oder zur Änderung eines bestehenden oder zum Erlass eines neuen Gesetzes oder eines
+Grossratsbeschlusses zu unterbreiten.
+1bis
+
+In der Form einer Motion kann zudem jedes Mitglied des Grossen Rates
+oder eine ständige Kommission den Antrag stellen, es sei der Regierungsrat zu
+verpflichten, eine Massnahme zu ergreifen. Ist der Regierungsrat für die Massnahme zuständig, so trifft er diese oder unterbreitet dem Grossen Rat den Entwurf eines Erlasses gemäss Abs. 1, mit dem die Motion umgesetzt werden
+kann.
+2
+
+Unzulässig ist eine Motion, die auf den verfassungsrechtlichen Zuständigkeitsbereich des Regierungsrates, auf einen Einzelfallentscheid, auf einen in gesetzlich geordnetem Verfahren zu treffenden Entscheid oder einen Beschwerdeentscheid einwirken will.
+3
+
+Tritt der Rat auf die Motion ein, so gibt er dem Regierungsrat Gelegenheit, innert drei Monaten dazu Stellung zu nehmen, insbesondere zur Frage der rechtlichen Zulässigkeit des Begehrens.
+
+Seite 2/7
+
+Regierungsrat des Kantons Basel-Stadt
+
+Die Motion ist sowohl im Kompetenzbereich des Grossen Rates wie auch in demjenigen des Regierungsrates zulässig. Ausserhalb der verfassungsrechtlichen Kompetenzaufteilung
+(vgl. § 42 Abs. 2 GO) ist der betroffene Zuständigkeitsbereich somit keine Voraussetzung der
+rechtlichen Zulässigkeit. Die Frage nach der Zuständigkeit ist im Rahmen der inhaltlichen Umsetzung eines Motionsanliegens aber von entscheidender Bedeutung, da sie die Art der Umsetzung
+vorgibt. Es gilt, das Gewaltenteilungsprinzip zwischen Grossem Rat und Regierungsrat zu beachten, denn beide sind gestützt auf das Legalitätsprinzip an Erlasse gebunden, die die Entscheidungsbefugnisse auf die Staatsorgane aufteilen. Je nach betroffenem Kompetenzbereich richtet
+sich die Umsetzung entweder nach § 42 Abs. 1 GO oder nach § 42 Abs. 1bis GO. Liegt die Motion
+im Zuständigkeitsbereich des Grossen Rates, wird sie mit einer Verfassungs-, Gesetzes- oder
+Beschlussvorlage erfüllt (§ 42 Abs. 1 GO). Eine Motion, die auf eine Materie im Kompetenzbereich des Regierungsrates zielt, wird mit einer Verordnungsänderung respektive mit einem anderen Mittel der Exekutive erfüllt (§ 42 Abs. 1bis GO), oder aber dem Grossen Rat wird ein Gesetzesentwurf vorgelegt, der die Kompetenzverteilung zugunsten des Grossen Rates verändert
+(§ 42 Abs. 1bis Satz 2 GO).
+Das Anliegen der vorliegenden Motion wird zusammenfassend dergestalt verstanden, dass der
+Regierungsrat beauftragt werden soll, sich bezüglich der Digitalisierung an den Schulen und der
+damit verbundenen Gerätebeschaffung für die Schülerinnen und Schüler im Sinne eines nachvollziehbaren, einheitlichen und für Familien finanziell tragbaren Systems für eine von zwei in der
+Motion geschilderten Optionen zu entscheiden und diese per Schuljahr 2021/22 einzuführen: Die
+erste Option wird als BYOD (bring your own device) bezeichnet. Diese Option geht zwar vom
+bestehenden BOYD-Konzept des Erziehungsdepartements aus, fordert demgegenüber aber die
+Einführung von deutlich geringeren Anforderungen an die mitzubringenden Geräte als vom Erziehungsdepartement bisher festgelegt. Die Motion verlangt für diese Option die Überprüfung mehrerer in der Motion genannter Punkte sowie die Überprüfung, mit welchen technischen Unterstützungssystemen die Schulen für ein solchermassen ausgestaltetes BYOD ausgestattet werden
+müssten. Bei der zweiten Option geht es um die Beschaffung der Geräte durch das Erziehungsdepartement und deren Weitergabe an die Schülerinnen und Schüler. Auch hier enthält die Motion gewisse Überprüfungspunkte sowie die Forderung, dass der schlussendlich gewählte Weg zur
+Weitergabe der Geräte an die Schülerschaft für die Familien finanzierbar sein müsse.
+Der Motionsinhalt verstösst nicht gegen die Kompetenzverteilung und Vorschriften des Bundesrechts im Schulbereich oder anderen übergeordneten Vorschriften, wie etwa einem für den Kanton verbindlichen Konkordat. Vielmehr ist auf dem Gebiet der Digitalisierung des Schulunterrichts
+und den dafür zu verwendenden Mitteln erst einmal die Schweizerische Konferenz der kantonalen Erziehungsdirektoren (EDK) daran, gemeinsame überkantonale Ziele in Strategien festzulegen und Empfehlungen zu erarbeiten (Strategie der EDK vom 21. Juni 2018 für den Umgang mit
+Wandel durch Digitalisierung im Bildungswesen; Massnahmen zur Digitalisierungsstrategie der
+EDK vom 27. Juni 2019). Die Motion widerspricht ebenfalls nicht §§ 17 f. der Verfassung des
+Kantons Basel-Stadt vom 23. März 2005 (SG 111.100) zu Bildung und Schulen.
+Aus dem Wortlaut der Motion sowie dem zwingenden Wesen von Motionen ergibt sich, dass der
+Regierungsrat ein Konzept, basierend auf eines der beiden in der Motion eher offen umschriebenen Systeme erstellen muss und dafür mehrere in der Motion aufgezählte Punkte zwingend zu
+prüfen hat. Die Formulierung der Motion ist trotz der vorgegebenen Beschränkung auf zwei genannte Systeme als noch genügend offen zu bezeichnen um sie nicht in Konflikt mit der verfassungsmässigen Kernkompetenz des Regierungsrats zur Leitung und Organisation der Verwaltung (§§ 69, 101 Abs. 1 und 108 Abs. 1-3 KV) geraten zu lassen, die nach § 42 Abs. 2 GO dem
+parlamentarischen Instrument der Motion nicht zugänglich ist.
+
+Seite 3/7
+
+Regierungsrat des Kantons Basel-Stadt
+
+Demnach verlangt die Motion nicht etwas, das sich auf den verfassungsrechtlichen Zuständigkeitsbereich des Regierungsrates, auf einen Einzelfallentscheid, auf einen in gesetzlich geordnetem Verfahren zu treffenden Entscheid oder einen Beschwerdeentscheid bezieht. Es spricht auch
+kein höherrangiges Recht wie Bundesrecht, interkantonales Recht oder kantonales Verfassungsrecht gegen den Motionsinhalt.
+Der Grosse Rat kann gemäss § 43 GO eine Frist zur Motionserfüllung festlegen, weshalb der
+Motionstext bereits eine solche Frist enthalten kann.
+Die Motion ist aufgrund dieser Erwägungen als rechtlich zulässig anzusehen.
+Die Prüfung des Justiz- und Sicherheitsdepartements ergibt, dass die Motion als rechtlich zulässig anzusehen ist.
+
+2.
+
+Ausgangslage
+
+Kernauftrag der Mittelschulen ist die Anschlussfähigkeit an ein Hochschulstudium. Digitale Kompetenzen gehören zur Allgemeinbildung. Sie gehen über die effiziente Bedienung von Hard- und
+Software hinaus und sind die Basis für ein differenziertes Verständnis von und den mündigen
+Umgang mit den digitalen Möglichkeiten unserer Gesellschaft.
+Bring Your Own Device (BYOD) ist die Bezeichnung dafür, private mobile Endgeräte wie Laptops,
+Tablets oder Smartphones in die Netzwerke von Unternehmen oder Schulen, Universitäten, Bibliotheken und anderen (Bildungs-)Institutionen zu integrieren. An den Hochschulen ist BYOD bereits weitgehend Alltag und die Schülerinnen und Schüler der Mittelschulen werden deshalb entsprechend an die Arbeitsweise im Studium herangeführt. Sie benutzen ihr Mobile Device im
+Schulalltag und erweitern ihre Kompetenz in Bezug auf grundsätzliche Anwenderkenntnisse
+durch den Umgang mit spezialisierter fächerspeziﬁscher Software. Durch ein digital vernetztes
+Lernumfeld innerhalb der Schule eröffnen sich den Schülerinnen und Schülern neue Möglichkeiten im Bereich der Selbstreﬂexion und Steuerung eigener Lernprozesse. In den meisten Kantonen sind im Mittel- und Berufsfachschulbereich BYOD-Konzepte in der Einführung oder bereits
+flächendeckend umgesetzt.
+Die strategischen und pädagogischen Überlegungen, die hinter der Einführung von BYOD in Basel-Stadt stehen, wurden in den beiden Interpellationsbeantwortungen (Sarah Wyss 20.5194 und
+Sandra Bothe 20.5197) bereits erläutert. Die Motionärinnen verlangen in ihrem Vorstoss, dass
+der Regierungsrat entweder die Minimalanforderungen an die Geräte an den Mittelschulen reduziert mit dem Ziel, ein einheitliches und für die Familien finanziell tragbares System zu etablieren,
+oder für alle Schülerinnen und Schüler der Sekundarstufe II zentral ein Gerät beschafft. Zu dieser
+Forderung nehmen wir wie folgt Stellung:
+
+3.
+
+Minimalanforderungen an die BYOD-Geräte
+
+3.1
+
+Generell
+
+Die technischen Anforderungen an die Geräte, die Schülerinnen und Schüler an den Basler Mittelschulen verwenden, sind in einem gemeinsamen Papier der Mittelschulen festgehalten. Sie
+beruhen auf den pädagogischen Anforderungen an den Mittelschulen, die durch das Maturitätsanerkennungsreglement (MAR), die Verordnung betreffend die Maturitätsprüfungen im Kanton
+Basel-Stadt, den Bildungsplan Gymnasium Basel-Stadt und die Kantonalen Vorgaben zu den
+Harmonisierten Maturitätsprüfungen vorgegeben sind.
+
+Seite 4/7
+
+Regierungsrat des Kantons Basel-Stadt
+
+Wie ein Benchmark mit anderen Kantonen ergeben hat, bewegen sich die Anforderungen an die
+Geräte in Basel-Stadt im üblichen Rahmen. Grundsätzlich gilt, dass die technischen Anforderungen an die Geräte in einem Lehrgang, der zur Maturität führt, in gewissen Aspekten höher sind
+als in der obligatorischen Schulzeit, insbesondere in den naturwissenschaftlich-mathematischen
+Fächern, wo Formeln mit stiftfähigen Geräten erfasst werden müssen.
+Die Minimalanforderungen werden aufgrund der pädagogischen Erfahrungen an den Schulen mit
+BYOD, der sich verändernden technischen Umwelt und den Erfordernissen, die sich aus der Umsetzung des IT-Projekts Mittelschulen ergeben, laufend überprüft und - wie andere schulinterne
+Reglemente auch - wenn nötig angepasst.
+
+3.2
+
+Notwendigkeit eines Touchscreens
+
+Für den Unterricht an den Mittelschulen ist ein Gerät mit Tastatur und Stifteingabe erforderlich.
+Die Tastatur ist für das Schreiben von längeren Texten wie Aufsätze, Vorträge oder Präsentationen wichtig. Das Gerät sollte über Anschlussmöglichkeiten für externe Geräte und zum Gerät
+passende Kopfhörer verfügen. Der Stift gehört zu einem zeitgemässen und touchfähigen Device
+dazu. In einer digitalen Lernumgebung ist das Schreiben von Texten und Ausfüllen von Arbeitsblättern mit dem Stift viel leichter. Generell ist das Arbeiten mit Stift schneller und besonders in
+naturwissenschaftlichen Fächern unabdingbar (z.B. Skizzen, Reaktionsgleichungen, Formeln).
+Als Alternative zur Stifteingabe besteht die Möglichkeit, sich ein sogenanntes Wacom Tablet
+(www.wacom.com) zu beschaffen. Es handelt sich um ein externes, kleines Tablet, das via USB
+an den Laptop angeschlossen werden kann und so die Stifteingabe ersetzt. Dieses ist mit einem
+Preis von ca. 100 Franken eine günstige Ergänzung zu einem bestehenden Gerät, das nicht über
+einen Touchscreen verfügt.
+
+3.3
+
+Alternative Betriebssysteme und Apple-Geräte
+
+Alternative Betriebssysteme sind nicht verboten, werden aber in der Arbeitsrealität von Schulen
+und Betrieben viel seltener genutzt. Die Schulen arbeiten mehrheitlich in der Office 365 Umgebung mit Word, Excel, PowerPoint, OneNote, OneDrive, Teams, d.h. sie lernen Produkte zu bedienen, die aktuell den Markt dominieren und an der Universität und in der Berufswelt gefragt
+sind. Lässt man Linux als Alternative zu, muss man automatisch mit Software und Lehrmitteln
+arbeiten, die offen bzw. systemübergreifend eingesetzt werden können. Diese pädagogische
+Frage muss im Rahmen der Umsetzung des IT Projekts Mittelschulen geklärt werden.
+Die Office Programme bieten auf den Apple Geräten nicht immer die volle Funktionalität, wie sie
+auf den Windows Geräten zur Verfügung steht. Daher ist der Einsatz von Apple Geräten mit gewissen Einschränkungen verbunden. Wer bereits ein MacBook besitzt, kann aber wie unter 3.2
+beschrieben ebenfalls die alternative Stifteingabe via Wacom Tablet wählen. Ein iPad Pro würde
+die Stifteingabe ebenfalls abdecken, ist allerdings nur in Kombination mit einem MacBook möglich (fehlende Anschlussmöglichkeiten für externe Geräte wie Sensoren für die Naturwissenschaften/keine Installationsmöglichkeiten für Software, die nicht im App Store verfügbar ist).
+
+3.4
+
+Prozessorvorgaben und Alternativen zu Ausgabeschnittstelle HDMI
+
+Auf die Prozessorvorgaben und Hinweise zur Ausgabenschnittstelle HDMI kann in den Minimalstandards künftig verzichtet werden. Ob Intel, AMD oder ARM spielt keine Rolle, da die Softwarehersteller schnell reagieren, wenn ihr Produkt auf einem bestimmten Prozessor nicht läuft.
+Zwingend braucht es eine Schnittstelle, damit die Laptops für Präsentationen an die TUM-Racks
+angeschlossen werden können. Da es aber inzwischen für praktisch jede Schnittstelle einen
+Adapter gibt, braucht es dafür keine expliziten Vorgaben mehr.
+
+Seite 5/7
+
+Regierungsrat des Kantons Basel-Stadt
+
+3.5
+
+Published Apps
+
+Published Apps sind virtuelle Softwareprogramme, die für die Benutzerinnen und Benutzer so
+funktionieren, als ob sie lokal installiert worden wären. Im Rahmen der Umsetzung des IT Projekts Mittelschulen wird erhoben, welche Applikationen für den Unterricht pro Fach nötig sind,
+welche technischen Anforderungen bestehen und wie hoch die Lizenzkosten sind. Die ausgewählten Applikationen werden den Schülerinnen und Schülern und den Lehrpersonen zentral zur
+Verfügung gestellt.
+
+4.
+
+Zentrale Beschaffung von Geräten für die Schülerinnen und
+Schüler der Sekundarstufe II
+
+In Basel-Stadt gilt - wie in der ganzen Schweiz - der Grundsatz, dass die Ausbildungsfinanzierung
+in erster Linie Sache der Eltern und der Auszubildenden selbst ist (Subsidiaritätsprinzip). Auch
+wenn die Kinder mündig sind, haben die Eltern im Rahmen des Zumutbaren für deren Erstausbildung und Unterhalt aufzukommen. Stipendien und Ausbildungsbeiträge werden erst ab Ende der
+obligatorischen Schulzeit, also nach Ende der Volksschule und ab Beginn der Sekundarstufe II
+(Mittelschulen und Berufsbildung), gewährt. Sie werden für eine Erstausbildung vergeben, wenn
+die Eltern materiell bedürftig sind. Der Kanton Basel-Stadt zahlt jährlich zwischen elf und zwölf
+Millionen Franken Ausbildungsbeiträge aus. Rund 0,6 Mio. Franken davon werden vom Bund als
+Subvention geleistet. Gegen 98 % der ausbezahlten Beiträge sind Stipendien, die nicht mehr zurückbezahlt werden müssen. Die Anzahl der bewilligten Stipendien nahm in den Jahren
+2000-2016 um 20 % zu.
+Die zentrale Beschaffung und Finanzierung der Geräte, wie es die Motionärinnen vorschlagen,
+weicht vom schweizweit gültigen Grundsatz ab, dass die Ausbildung auf der Sekundarstufe II
+nicht kostenlos ist, und sie würde für den Kanton Basel-Stadt zu beträchtlichen Mehrkosten führen. Mit einer zentralen Beschaffung von Geräten könnten zudem die individuellen Bedürfnisse
+der Schülerinnen und Schüler an IT-Geräte nicht berücksichtigt werden und man wäre an den
+Schulen technologisch nicht auf dem neusten Stand, da Beschaffungen immer zeitliche Verzögerungen zur Folge haben.
+In Basel-Stadt wurde daher als Lösung für die Mittelschulen wie in anderen Kantonen auch ein
+Webshop eingerichtet, bei dem sich Geräte zwischen 1‘000 und 1‘500 Franken erwerben lassen.
+Unter beispielsweise www.edu.ch/wgbs findet man eine Auswahl an Geräten, die den Mindestanforderungen und Empfehlungen entsprechen. Die Geräte können dort gekauft werden, müssen
+aber nicht. Als Alternativlösung besteht für die Schülerinnen und Schüler, welche die Sekundarstufe I in Basel-Stadt absolvieren, die dort unentgeltlich erhaltenen Geräte weiterhin zu verwenden und sich zusätzlich, wie in Kapitel 3.2 beschrieben, ein Wacom Tablet für 100 Franken kaufen.
+
+5.
+
+Fazit
+
+Der Regierungsrat möchte am eingeschlagenen Weg von BYOD auf der Sekundarstufe II in Basel-Stadt festhalten und keine Geräte zentral für die Schülerinnen und Schüler beschaffen. Die
+Umsetzung des IT Projekts Mittelschulen, das bis Ende 2021 dauert, gibt Gelegenheit, die von
+den Schulen formulierten Mindestanforderungen an Geräte nochmals zu überprüfen und mit den
+bisherigen Erfahrungen mit BYOD und den pädagogischen Ansprüchen abzugleichen.
+
+Seite 6/7
+
+Regierungsrat des Kantons Basel-Stadt
+
+6.
+
+Antrag
+
+Auf Grund dieser Stellungnahme beantragen wir, die Motion Sarah Wyss und Sandra Bothe betreffend «Einführung eines wirklichen BYOD’s oder Systemwechsels» dem Regierungsrat als
+Anzug zu überweisen.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Elisabeth Ackermann
+Präsidentin
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Seite 7/7
+
+

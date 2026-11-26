@@ -1,0 +1,447 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+21.5027.03
+
+WSU/P215027
+Basel, 22. November 2023
+Regierungsratsbeschluss vom 21. November 2023
+
+Anzug Thomas Grossenbacher und Konsorten für eine mehrstufige Trinkwasseraufbereitungsanlage nach dem Vorbild der Gemeinde Muttenz für das gesamte Basler Trinkwasser
+Der Grosse Rat hat an seiner Sitzung vom 17. November 2021 vom Schreiben 21.5027.02
+Kenntnis genommen und – dem Antrag des Regierungsrates folgend – die Motion Thomas Grossenbacher und Konsorten dem Regierungsrat als Anzug überwiesen.
+«Im Basler Trinkwasser tauchen immer wieder Fremdstoffe auf. Es handelt sich meist um Substanzen, die via den Rhein in die Trinkwassergebiete Lange-Erlen und Muttenzer Hard eingetragen werden. Diese Fremdstoffe werden teils
+- jahrelang nicht entdeckt (wie 2019 eine Krebs auslösende Substanz aus einer FungizidProduktion der Bayer AG in Schweizerhalle, BL)1
+- nur per Zufall bestimmt (wie 2015 der Betonverflüssiger 2-Acrylamido-2-methylpropansulfonsäure
+AMPS2 und 2006 gemäss Niklaus Jäggi, damals Kantonschemiker des Kantons Basel-Landschaft
+eine andere Substanz3).
+- Zudem ist das Wasser schon getrunken, wenn die Analyseergebnisse vorliegen. Dies dauert
+nämlich in der Regel 24 Stunden. Dann aber ist allfällig verschmutztes Rheinwasser schon im
+Trinkwassersystem angelangt.4
+Es darf somit auch heute noch bezweifelt werden, dass das Basler Trinkwasser die Lebensmittelgesetzgebung vollumfänglich einhalten kann. Diesen Mangel bei der Selbstkontrolle aber hat Niklaus
+Jäggi, Kantonschemiker Basel-Landschaft schon 2008 in einem Interview mit der Basler Zeitung
+festgehalten.5
+Denn die ‹Verordnung über Trinkwasser sowie Wasser in öffentlich zugänglichen Bädern und
+Duschanlagen› verpflichtet die IWB AG als «Betreiberin (...) einer Trinkwasserversorgungs-anlage
+(...) periodisch eine Analyse der Gefahren für Wasserressourcen» durchzuführen.6 Diese «Gefah1
+
+https://www.srf.ch/news/regional/basel-baselland/trinkwasserversorger-bestaetigt-krebserregender-stoff-schon-seit-jahren-im-baslertrinkwasser
+2
+
+https://www.baselland.ch/politik-und-behorden/direktionen/bau-und-umweltschutzdirektion/umweltschutzenergie/wasser/wasserversorgung/publikationen/downloads/tp3-grundwasserhardwald.pdf/@@download/file/TP3%20Grundwasser%20Hardwald.pdf#page=61; Martin Forter/Walter Wildi: 'Trinkwassermanagement Hardwald', Basel/Le Grand Saconnex, 22.5.2018, S. 44
+http://www.martinforter.ch/images/news/2019_04_20/20180522_Forter_Wildi_Trinkwassermanagement_Hardwald.pdf#page=44
+3
+
+«Ich konnte einfach nicht früher eingreifen», Interview mit Niklaus Jäggi, Kantonschemiker des Kantons Basel-Landschaft, in: Basler
+Zeitung, 29.2.2008.
+4
+
+https://www.baselland.ch/politik-und-behorden/direktionen/bau-und-umweltschutzdirektion/umweltschutzenergie/wasser/wasserversorgung/publikationen/downloads/tp3-grundwasserhardwald.pdf/@@download/file/TP3%20Grundwasser%20Hardwald.pdf#page=123
+5
+
+Siehe Fussnote 3.
+
+6
+
+https://www.admin.ch/opc/de/classified-compilation/20143396/201805010000/817.022.11.pdf#page=2
+
+Den Mitgliedern des Grossen Rates des Kantons Basel-Stadt zugestellt am 24. November 2023.
+
+Seite 1/10
+
+Regierungsrat des Kantons Basel-Stadt
+
+renanalyse» sei «eine der notwendigen Bedingungen für die Einführung eines HACCP-Systems», so
+das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV).7
+Die HACCP-Analyse (Hazard Analysis and Critical Control Points) hat zum Ziel, dass die Produktionsprozesse eines Lebensmittels wie Trinkwasser immer unter Kontrolle sind. So muss die endgültige Qualität des Produkts garantiert werden. 8 Die HACCP ist ein Bestandteil der «Pflicht zur Selbstkontrolle» der Lebensmittelbetriebe, wie die ‹Lebensmittel- und Gebrauchsgegenständeverordnung›
+festlegt.9
+Die Industriellen Werke Basel (IWB) bereiten das Trinkwasser mit einem Aktivkohlefilter auf. Aktivkohlefilter aber können nur bestimmte Fremdstoffe (sog. apolare Substanzen) gut aus dem Trinkwasser entfernen. Zudem besteht das Risiko von sogenannten Durchbrüchen.
+Mehr Sicherheit für das Trinkwasser und die Einhaltung der Lebensmittelgesetzgebung bietet eine
+mehrstufige Trinkwasseraufbereitung, wie sie die Gemeinde Muttenz und erfolgreich betreibt..10
+Mehrstufige Trinkwasseraufbereitungen u.a. mit Oxidationsanlagen betreiben auch die Städte Zürich
+und Genf (Seewasseraufbereitung)11. Damit lassen sich viel breiter Substanzen aus dem Trinkwasser entfernen (sog. polare Substanzen, wie teils Pestizide, Medikamente, etc.).
+Die Motionärinnen und Motionäre beauftragen deshalb den Regierungsrat den Bau einer mehrstufigen Trinkwasseraufbereitungsanlage für das gesamte Basler Trinkwasser nach dem Vorbild der
+Gemeinde Muttenz umzusetzen.
+Thomas Grossenbacher, Harald Friedl, Talha Ugur Camlibel, Raphael Fuhrer, Oliver Bolliger, Tonja
+Zürcher, Raffaela Hanauer, Michelle Lachenmeier, Beatrice Messerli»
+
+Wir berichten zu diesem Anzug wie folgt:
+
+1.
+
+Ausgangslage
+
+Der parlamentarische Vorstoss fordert die Einführung eines HACCP-Konzepts (Hazard Analysis
+and Critical Control Points) als Bestandteil der Selbstkontrolle zur Einhaltung der Trinkwassergesetzgebung sowie den Bau einer mehrstufigen Trinkwasseraufbereitungsanlage, bevorzugt mit
+einer Oxidationsstufe, nach dem Vorbild der Gemeinde Muttenz bzw. von anderen Schweizer
+Städten.
+In seinem Bericht Nr. 21.5027.02 vom 7. Juli 2021 hatte der Regierungsrat einerseits zur rechtlichen Zulässigkeit des ursprünglich als Motion eingereichten Vorstosses Stellung genommen und
+andererseits sich auch inhaltlich zum Anliegen geäussert und dabei die für das Trinkwasser geltenden gesetzlichen Grundlagen, die heutige Aufbereitung des Basler Trinkwassers in der Lange
+Erlen und der Hard sowie weitergehenden Aufbereitungsverfahren ausgeführt. Diese inhaltlichen
+Ausführungen haben heute weiterhin Gültigkeit.
+In der Zwischenzeit fanden verschiedene Abklärungen und Aktivitäten zu möglichen weiteren
+Aufbereitungsmassnahmen für das Trinkwasser statt. Konkret haben die IWB Industrielle Werke
+Basel und die Hardwasser AG verschiedene Aufbereitungsverfahren bzw. Weiterentwicklungen
+von Aufbereitungsverfahren in Versuchsanlagen getestet. Die daraus gewonnenen Erkenntnisse
+wurden zwischenzeitlich ausgewertet und entsprechende Schlussfolgerungen liegen nun vor.
+7
+
+https://www.blv.admin.ch/dam/blv/de/dokumente/lebensmittel-und-ernaehrung/rechts-undvollzugsgrundlagen/lebensmittelrecht2017/erlaeuterung-verordnungwasser.pdf.download.pdf/19_1_Erlaeuterungen_zur_Verordnung_%C3%BCber_die_Qualitaet_von_Wasser_DE.pdf , S. 3.
+8
+«Die HACCP dient dazu, Gefährdungen der Wasserqualität zu erkennen und kritische Kontrollpunkte zu identifizieren. Ein CCP ist
+ein Punkt bzw. Schritt im Prozessablauf, an dem mit einem kontrollier- und steuerbaren Verfahren eine Gefahr vermieden, ausgeschaltet oder auf ein akzeptables Minimum reduziert werden kann» (Schweizerischen Vereins des Gas- und Wasserfaches SVGW
+http://wasserqualitaet.ch/index.php?id=819).
+9
+https://www.admin.ch/opc/de/classified-compilation/20143388/201910150000/817.02.pdf#page=32
+10
+https://www.srf.ch/news/regional/basel-baselland/stoffe-im-trinkwasser-verunsicherung-in-basel-moderne-reinigungsanlage-inmuttenz
+11
+
+Zürich: https://www.stadt-zuerich.ch/dib/de/index/wasserversorgung/wasserverteilung/wasserwerke.html u. https://www.haustechmagazin.ch/artikel/in-sieben-stufen-zum-trinkwasser/ ; Genf: https://ww2.sig-ge.ch/a-propos-de-sig/nousconnaitre/sites_expositions/usine-du-prieure, ab Min. 3:46.
+
+Seite 2/10
+
+Regierungsrat des Kantons Basel-Stadt
+
+2.
+
+Abklärungen und Aktivitäten betreffend weitere Optimierung
+der Basler Trinkwasseraufbereitung
+
+Die Optimierung der Basler Trinkwasseraufbereitung kann grundsätzlich an zwei Stellen ansetzen12:
+ Einerseits ist eine weitergehende Roh- bzw. Rheinwasseraufbereitung denkbar. Die IWB hat
+sich eingehend mit den Möglichkeiten einer Verstärkung des bestehenden Multibarrierensystems bei der Roh- bzw. Rheinwasser-Aufbereitung befasst (s. Kap. 2.1).
+ Andererseits sind weitere Aufbereitungsschritte nach dem Rohwasser-Versickerungsprozess
+möglich. Die IWB hat sich vor diesem Hintergrund auch vertieft mit möglichen Verstärkungen
+des bestehenden Multibarrierensystems bei der Aufbereitung nach der Bodenpassage im
+Grundwasser auseinandergesetzt (s. Kap. 2.2).
+
+2.1
+
+Erkenntnisse aus Studien und Pilotierungen betreffend die Aufbereitung
+von Roh- bzw. Rheinwasser
+
+Eine Vorbehandlung des Roh- bzw. Rheinwassers vor Infiltration würde die Sicherheit gegen den
+Eintrag von Flusswasserverunreinigungen verbessern. Die IWB hat verschiedene Verfahren und
+Kombinationen in Versuchsanlagen getestet, die nachfolgend zusammengefasst erläutert sind:
+2.1.1
+
+Aufbereitung von Rohwasser mittels Aktivkohle
+
+Ein weitergehender Aufbereitungsschritt wäre der Einsatz von Aktivkohle bereits bei der Aufbereitung von Roh- bzw. Rheinwasser. Dieser Prozessschritt dient der spezifischen Entfernung oder
+auch Teilentfernung von weiteren Schadstoffen aus dem Wasser. Die IWB und die Hardwasser AG erachten den Einsatz von Aktivkohle bei der Rohwasseraufbereitung jedoch nicht als
+zielführend. Aufgrund des erhöhten Gehalts an organischem Kohlenstoff (Total Organic Carbon
+TOC) im Rohwasser erschöpft sich die Wirksamkeit der Aktivkohle sehr schnell, wodurch ein sehr
+häufiger Ersatz der Aktivkohle notwendig wäre. Zudem kann mittels Aktivkohle nur ein gewisser
+Teil der Wasserverunreinigungen entfernt werden. Sinnvoll ist die Aktivkohlefiltration hingegen für
+die Grundwasseraufbereitung, d.h. bei der Aufbereitung nach der Bodenpassage. Dort wird sie
+denn auch heute erfolgreich eingesetzt.
+2.1.2
+
+Aufbereitung von Rohwasser mittels Oxidationsprozessen und Membranverfahren
+
+In den beiden Projekten «Aqua NES» und «Oxibieau» setzte sich die IWB mit der weitergehenden Rohwasseraufbereitung mittels Oxidationsprozessen und Membranverfahren auseinander.13
+Die beiden Projekte sind zwischenzeitlich abgeschlossen.
+Die daraus gewonnenen Erkenntnisse lassen sich wie folgt zusammenfassen: Genauer untersucht wurden Oxidationsprozesse mit Ozon, Ozon-Peroxid (AOP=Advanced Oxidation Process)
+und zusätzlich mit UV-Peroxid (AOP). Neben der Desinfektion spielt dabei die Minimierung des
+TOC (gesamter organischer Kohlenstoff) eine wesentliche Rolle. Ozon für die Oxidation von Spurenstoffen zu verwenden, hat sich nicht durchgesetzt, denn nur ein geringer Teil der organischen
+Wasserinhaltsstoffe lässt sich damit entfernen. Ein vollständiger Abbau (Mineralisierung) gelingt
+mit den oxidativen Verfahren nicht. Im Endeffekt werden bestehende chemische Substanzen
+transformiert («gecrackt») und es entstehen neue, teilweise bekannte, aber auch eine Vielzahl
+unbekannte zusätzliche Stoffe und Stoffgemische, mit meist unbekannter Wirkung. Teilweise sind
+diese Stoffe zudem biologisch verfügbar, sodass das Wasser in einer biologischen Stufe (Bodenpassage oder Langzeit-Aktivkohlefilter) weiter aufbereitet werden muss.
+
+12 vgl. zum Aufbereitungsprozess als Ganzes den Bericht Nr. 21.5027.02 vom 7. Juli 2021, Kap. 2.3
+13 Vgl. zur Grundwasseraufbereitung mit oxidativen Verfahren den Bericht Nr. 21.5027.02 vom 7. Juli 2021, Kap. 3.1.2
+
+Seite 3/10
+
+Regierungsrat des Kantons Basel-Stadt
+
+Im Projekt «Oxibieau» hat die IWB zusätzlich den Einsatz von Membranverfahren bei der Rohwasseraufbereitung14 untersucht. In Abbildung 1 ist die unterschiedliche Wirkungsweise der verschiedenen Aufbereitungsverfahren veranschaulicht. Je nach Wahl der Porengrösse entfernt die
+Membranfiltration mehr oder weniger alle Stoffe aus dem Wasser.
+
+Abb. 1: Verfahren für die Aufbereitung von Rohwasser zu Trinkwasser (Quelle: Fa. Holinger AG, Liestal)
+
+Grundsätzlich kann mittels Membranverfahren somit ein hochreines Wasser produziert werden.
+Bei sehr kleinen Porengrössen (Umkehrosmose, Nanofiltration) wird dabei ein grosser Teil der
+Wasserinhaltsstoffe entfernt, wodurch sich die Eigenschaften des Wassers sehr stark verändern.
+Um Korrosionen an den Wasserleitungen zu vermeiden, ist es zudem unumgänglich, eine Alkalisierung oder Aufhärtung des Wassers vorzunehmen.
+Im Projekt «Oxibieau» hat die IWB die Aufbereitungs-Zielsetzung so festgelegt, dass die Spurenstoffe im Roh- bzw. Rheinwasser (vor der Bodenpassage) unterhalb der Konzentration von
+0.1 µg/L zu liegen kommen. Um dieses Ziel zu erreichen, wurde ein Teilstrom des Rohwassers
+(ca. 70%) über eine Nanofiltration aufbereitet und anschliessend mit unbehandeltem Rohwasser
+verschnitten.
+Die Ergebnisse der Projekte «Oxibieau» und «AquaNes» haben gezeigt, dass eine zusätzliche
+Aufbereitung des Roh- bzw. Rheinwassers gemäss aktuellem Wissensstand nicht als zielführend
+erscheint. Die Gründe hierfür lassen sich wie folgt zusammenfassen:
+
+
+
+
+
+
+
+Der Energie- und Chemikalieneinsatz und damit die Umweltbelastung für die vollständige
+wie auch teilweisen Abtrennung von Spurenstoffen ist sehr gross.
+Der erwartete Synergieeffekt bei der Kombination AOP (Advanced Oxidation Process)  Bodenpassage konnte mit den auf der Pilotanlage durchgeführten Versuchen nicht nachgewiesen werden. Im Gegenteil: Die Wasseranalysen nach der AOP-Stufe zeigten einen geringeren Abbau von Spurenstoffen bei der nachfolgenden biologischen Stufe (Bodensäule,
+Referenzsäule).
+Ein negativer Einfluss der veränderten Rohwasserqualität, insbesondere auch der Oxidationsmittel (Peroxid und andere Oxidantien) auf das natürliche System der Grundwasseranreicherung ist nicht auszuschliessen. Eine zusätzliche Aufbereitungsstufe (AOP und Membrantechnik) vor der Bodenpassage müsste darum über mehrere Jahre in einer Pilotanlage
+getestet werden.
+Die Investitionskosten sind sehr hoch, sie belaufen sich auf rund 30 Mio. Franken bei der
+Membranfiltration (Ultrafiltration/Nanofiltration) und auf ca. 20 Mio. Franken beim Oxidati-
+
+14 Membranverfahren können sowohl bei der Rohwasseraufbereitung als auch bei der Grundwasseraufbereitung (nach Bodenpassage) eingesetzt wer-
+
+den.
+
+Seite 4/10
+
+Regierungsrat des Kantons Basel-Stadt
+
+onsprozess (Investition Aufbereitungsstufe Lange Erlen). Die zusätzlichen Betriebskosten
+(inkl. Personalkosten) liegen zudem jährlich bei rund 0.5 Mio. Franken.
+Zusammenfassend gelangt der Regierungsrat zur Erkenntnis, dass der mögliche Nutzen der in
+den vorgenannten Projekten analysierten und getesteten Massnahmen, in einem krassen Missverhältnis zu den Umweltbelastungen und Kosten steht.
+2.1.3
+
+Strengere Einleitbedingungen für kritische Stoffe
+
+Die Erfahrungen der letzten Jahre haben gezeigt, dass die Bemühungen intensiviert werden
+müssen, mit welchen kritische Stoffe überhaupt vom Roh- bzw. Rheinwasser ferngehalten werden. Aufgrund weiter entwickelter Screeningmethoden konnten in den letzten Jahren verschiedene Schadstoffe wie Dimethylurethan (DMU) und 2,5-Dimethoxy-2,5-dihydrofuran (DMDF) aus der
+Chemieindustrie, Chlorothalonil-Metaboliten aus der Landwirtschaft und weitere Substanzen, die
+teilweise auch diffus via Kläranlagen in die Gewässer eingeleitet werden, nachgewiesen werden.
+Dazu kommen die nicht oder noch nicht bewerteten «Unknowns» und «Suspects»: Im Jahr 2020
+waren dies 40 neue Einzelstoffe, welche im Trinkwasser nachgewiesen wurden.
+In den letzten Jahren konnte auch eine weitere Verbesserung erreicht werden, was die Einleitung
+von problematischen Stoffen in den Rhein betrifft. So wurde die Zusammenarbeit mit den Umweltbehörden und den Emittenten von Schadstoffen sowie der IWB und der Hardwasser AG in
+letzten Jahren intensiviert. Die Chemiebetriebe in Schweizerhalle werden zukünftig zudem eine
+moderne und wirksame Abwasserreinigungsanlage realisieren (Projekt Callista), was zu einer
+Reduktion der Stofffrachten und Einträge in den Rhein führen wird. Anstrengungen im Gewässerschutz müssen aber trotz dieser Verbesserungen und unabhängig von der Frage, ob eine weitere
+Aufbereitungsstufe eingesetzt wird, zwingend weitergeführt werden. Die Einträge von besonders
+kritischen Substanzen sind zu verhindern.
+
+2.2
+
+Erkenntnisse betreffend weitergehende Aufbereitung des Grundwassers
+nach Bodenpassage
+
+Die seit dem Bericht des Regierungsrates Nr. 21.5027.02 vom 7. Juli 2021 gewonnenen Erkenntnisse betreffend eine weitergehende Aufbereitung des Grundwassers nach Bodenpassage lassen
+sich wie folgt zusammenfassen:
+2.2.1
+
+Häufigere Reaktivierung der Aktivkohlefilter
+
+Seit einiger Zeit setzt die IWB die Aktivkohlefiltration bei der Grundwasseraufbereitung nach Bodenpassage ein. Sie ist eine effektive Barriere gegenüber vielen Spurenverunreinigungen, insbesondere den Chlorbutadienen. Nach dreijährigem Einsatz der Aktivkohle konnte festgestellt werden, dass - abgesehen von den nicht adsorbierbaren polaren Substanzen – nur noch wenige
+Stoffe «durchbrechen», und diese sind nur in geringen Konzentrationen nachweisbar.
+Aufgrund verschiedener Rheinwasser-Verunreinigungen wurde im Jahr 2020 entschieden, die
+Aktivkohlefilter häufiger zu reaktivieren – nach einem spezifischen Durchsatz von
+ca. 100 m3/kg AK. Mit dieser Massnahme wird die Aufbereitung weiter optimiert und sichergestellt, dass auch mit Aktivkohle schwer entfernbare Fremdstoffe, wie z.B. die ChlorothalonilMetaboliten, mindestens teilweise aus dem Trinkwasser entfernt werden und die gesetzlichen
+Anforderungen eingehalten werden.
+2.2.2
+
+Kombination AOP (Ozon&Peroxid), Aktivkohlefiltration, Pulveraktivkohle – Ultrafiltration (Trinkwasseraufbereitung Muttenz)
+
+Eine sehr aufwendige Kombination mehrerer der vorgenannten Verfahren betreibt die Gemeindewasserversorgung Muttenz in der Oberen Hard. Das künstlich angereicherte Grundwasser aus
+dem Hardwald wird dabei mit einem exakten Ozon-Wasserstoffperoxid-Verhältnis (Advanced
+
+Seite 5/10
+
+Regierungsrat des Kantons Basel-Stadt
+
+Oxidation Process, AOP) zur Reaktion gebracht und danach über einen Festbett-Aktivkohlefilter
+geleitet, um das überschüssige Wasserstoffperoxid zu entfernen. Mit dem Zusatz von Pulveraktivkohle werden zusätzlich Spurenstoffe sorptiv, d.h. die entfernbaren Substanzen haften an der
+mikroporösen Struktur der Aktivkohle, aus dem Wasser entfernt. Die nachgeschaltete Ultrafiltration dient der Entfernung der Pulveraktivkohle sowie allfälliger Bakterien und Viren.
+Die Gemeinde Muttenz, die Hochschule für Life Sciences der FHNW Muttenz und die IWB führten
+in den Jahren 2021 und 2022 eine gemeinsame Auswertung von Wasserqualitätsdaten im Aufbereitungsprozess durch. Ziel der Zusammenarbeit war es, die Verfahrensstufen der unterschiedlichen Trinkwasseraufbereitungsanlagen detailliert zu analysieren, auszuwerten und die Wasserqualitäten der drei Trinkwasserproduzentinnen IWB, Hardwasser AG und Trinkwasseraufbereitung TWA Muttenz im Aufbereitungsprozess miteinander zu vergleichen.
+Die vorliegenden Daten lieferten einen ersten Einblick zur Eliminationsleistung von Mikroverunreinigungen durch die Kombination der Verfahren «Oxidation», «Aktivkohlefiltration» sowie «Pulveraktivkohledosierung». Alle drei Trinkwasseraufbereitungsanlagen wurden bei jeder Verfahrensstufe beprobt. Dabei war von besonderem Interesse, welche Mikroverunreinigungen durch
+welche Stufen «entfernt» werden können, wie sich stark polare Substanzen, ubiquitär vorhandene Stoffe wie z.B. Pestizide-Metaboliten und weitere Substanzen, die im Rheinwasser und somit
+meist auch im Hardgrundwasser vorkommen, in der Prozesskette der TWA Muttenz verhalten.
+Folgendes konnte nach diesen Untersuchungen festgestellt werden:
+ Die Konzentration sämtlicher Spurenstoffe, die gesetzlich geregelt sind, entspricht bei der
+TWA Muttenz, der Hardwasser AG und bei der IWB den Anforderungen für Trinkwasser. Alle
+nachgewiesenen Spurenstoffe liegen in einem sehr tiefen Konzentrationsbereich vor.
+ Die Prozesse der TWA Muttenz vermögen einen Grossteil der gemessenen Spurenstoffe zu
+eliminieren.
+ Die Entfernungsleistung der Spurenstoffe der TWA Muttenz ist dabei deutlich höher, verglichen mit der Festbett-Aktivkohlefiltration der Hardwasser AG und jener bei der IWB. Dies kann
+mit der Datenauswertung anhand einiger Spurenstoffe belegt werden.
+ Bei einzelnen Spurenstoffen wie EDTA ist die Elimination bzw. Transformation auf die Oxidation zurückzuführen. Bei andern wie den Per- und polyfluorierten Alkylverbindungen (PFASSubstanzen) und Chlorothalonil-Metaboliten ist die Elimination auf die PulveraktivkohleStufe (PAK) zurückzuführen. Mehrere Spurenstoffklassen (z.B. Röntgenkontrastmittel, Chlorothalonil-Metaboliten) werden erst in der PAK-Stufe bis unter die analytische Bestimmungsgrenze eliminiert.
+ Inwieweit synergistische Effekte zwischen Oxidation (HiPOx) und Adsorption an Pulverkohle
+auftreten, lässt sich anhand der beiden durchgeführten Untersuchungskampagnen nicht genau
+differenzieren. Hierzu wären weitere Untersuchungen erforderlich.
+ Bei der oxidativen Aufbereitungsstufe konnten Transformationsprodukte nachgewiesen werden. Im Gegensatz zur PAK-Dosierung werden bei der Oxidation Spurenstoffe transformiert
+und kaum eliminiert. Dabei entstehen neue Stoffgemische, deren Konzentrationen und Eigenschaften nicht bekannt sind.
+Es ist anzumerken, dass trotz des breiten Untersuchungsspektrums das analytische Fenster als
+auch die Anzahl untersuchter Substanzen noch immer nur einen Teil der Substanzen zu erfassen
+vermag, welche sich im Wasser befinden. In Zukunft werden durch die Weiterentwicklung der
+analytischen Methoden vermutlich noch viele weitere Spurenstoffe und insbesondere tiefere Konzentrationsbereiche erfasst werden können.
+Die Auswertungen haben gezeigt, dass die Entfernungsleistung der Spurenstoffe der TWA Muttenz hauptsächlich auf die stetige Zudosierung von frischer Pulveraktivkohle zurückzuführen ist.
+Die Oxidation trägt – unter Berücksichtigung der Risiken der Transformationsprodukte – dabei
+nicht wesentlich zur Verbesserung der Trinkwasserqualität bei. Vor diesem Hintergrund ist es
+nicht zielführend, identische Aufbereitungsstufen wie in Muttenz für das Basler Trinkwasser ein-
+
+Seite 6/10
+
+Regierungsrat des Kantons Basel-Stadt
+
+zuführen. Ganz grundsätzlich ist in diesem Zusammenhang darauf hinzuweisen, dass eine Wasseraufbereitungsanlage stets auf die konkreten Rohwasserverhältnisse sowie die örtlichen Gegebenheiten auszurichten ist. Es ist folglich per se gar nicht möglich, ein Aufbereitungssystem 1:1
+zu «kopieren». Möglich und sinnvoll kann jedoch die Integration von Teilen von anderen Aufbereitungssystemen sein. Gestützt auf die Erkenntnisse aus bisherigen Untersuchungen fokussieren
+die weiteren Abklärungen der IWB und der Hardwasser AG deshalb auf eine mögliche Stärkung
+der Adsorptionsstufe (für die Behandlung des Grundwassers nach Bodenpassage) sowie eine
+neuartige Membrantechnologie (Nanofiltration), s. Kap. 3.2.
+
+3.
+
+Weitergehende Aufbereitungsstufen für das Basler Trinkwasser
+
+3.1
+
+Nutzen versus Umweltbelastung und Kosten
+
+Die Frage, ob eine weitere Aufbereitungsstufe für die Basler Trinkwasserversorgung erforderlich
+ist oder ob das bestehende Multibarrierensystem für eine sichere Trinkwasserproduktion auch in
+Zukunft genügt, wurde von den Verantwortlichen für die Wasserversorgung von IWB und Hardwasser AG in den letzten Jahren auf Basis der Erkenntnisse der Muttenzer Aufbereitungstechnik
+sowie weiterer Studien und Pilotierungen (s. Kap. 2.1.2 zu den Projekten «AquaNES» und «Oxibieau») intensiv analysiert. Grundsätzlich gilt: Je mehr Stufen die Aufbereitung umfasst, desto
+mehr Spurenstoffe lassen sich aus dem Trinkwasser entfernen. Gleichzeitig haben die bisherigen
+Untersuchungen gezeigt, dass die Umweltbelastung durch den Einsatz von Ressourcen und
+Energie steigt.
+Die benötigten Betriebsmittel wie Oxidationsmittel, Zusätze, Reinigungsmittel (sog. Antiscalants),
+aber auch Oxidations- und Transformationsprodukte, die im Trinkwasser verbleiben, gelangen in
+die Umwelt. Insbesondere für den Einsatz der Umkehrosmose (eine Membrantechnologie)15, eigentlich zur Erzeugung von Reinstwasser eingesetzt, trifft die Redensart «der Teufel wird mit dem
+Belzebub ausgetrieben» zu, weil das Wasser wieder mit Mineralien angereichert und weiter aufbereitet werden muss, um es geniessbar zu machen und damit es weder Wasserleitungen noch
+Betonbauwerke durch Korrosion beschädigt. Die Abbildung 2 veranschaulicht den Ausbau der
+heutigen Aufbereitungskette der IWB mit Verfahren, die im Rahmen der Forschungsprojekte
+«AquaNES» und «Oxibieau» im Rohwasser der IWB getestet wurden. Mit zusätzlichen Aufbereitungsstufen können zwar mehr Spurenstoffe entfernt werden. Jedoch führen zusätzliche Aufbereitungsstufen auch zu einer nicht zu unterschätzenden zusätzlichen Umweltbelastung. Der Umfang der Umweltbelastung hängt dabei nicht nur vom Verfahren, sondern auch von der
+ökologischen Wertigkeit der eingesetzten Energieträger (d.h. dem Einsatz nicht erneuerbarer
+oder erneuerbarer Energieträger) ab.
+
+15 Membranverfahren dienen bei der Wasseraufbereitungstechnik der Entfernung von partikulären Bestandteilen (Mikro- und Ultrafiltration) wie auch
+
+gelösten Stoffen aus dem Wasser. Membranverfahren können dabei sowohl bei der Aufbereitung von Rohwasser als auch bei der Aufbereitung von
+Grundwasser nach Bodenpassage eingesetzt werden. Zu unterscheiden sind darüberhinaus die Nanofiltration und die Umkehrosmose.
+
+Seite 7/10
+
+Regierungsrat des Kantons Basel-Stadt
+
+Produktionskosten
+Anzahl Spurenstoffe
+
+Umweltbelastung
+
+Qualität/
+Desinfektion AK-Filtration Bodenpassage Oxidation
+UF/NF
+Sicherheit
+Abb. 2: Produktionskosten und Umweltbelastung in Abhängigkeit der Anzahl und Komplexität der Aufbereitungsstufen16
+1-stufig
+
+2-stufig
+
+3-stufig
+
+4-stufig
+
+5-stufig
+
+Bei der Evaluation und Prüfung eines geeigneten zusätzlichen Aufbereitungsverfahrens kann
+deshalb nicht allein auf den Aspekt der Verbesserung der Trinkwasserqualität fokussiert werden.
+Parallel dazu muss immer auch eine Nutzen-Umweltweltbelastungsanalyse (Life Cycle Assessment, LCA) vorgenommen werden. In den Evaluations- und Prüfungsprozess sind zudem immer
+Überlegungen zum Kosten-Nutzen-Verhältnis (Wirtschaftlichkeit) einzubeziehen.
+
+3.2
+
+Potenzielle zusätzliche Aufbereitungsverfahren
+
+Wie unter Kap. 2.1 erläutert, haben verschiedene Untersuchungen gezeigt, dass eine weitergehende Aufbereitung des Roh- bzw. Rheinwassers aufgrund mangelnder Effizienz und Wirksamkeit der Verfahren nicht notwendig und sinnvoll ist. Eine weitergehende Aufbereitung (neue Aufbereitungsstufe) ist sinnvollerweise für die Behandlung des Grundwassers nach Bodenpassage in
+Betracht zu ziehen (s. Kap. 2.2).
+Unter Berücksichtigung der Erkenntnisse aus den Pilotanlagen und den beiden Untersuchungskampagnen in Muttenz, der Hardwasser AG und bei der IWB steht eine Stärkung der Adsorptionsstufe (für die Behandlung des Grundwassers nach Bodenpassage) im Vordergrund der Überlegungen der IWB zu einer weiteren Aufbereitungsstufe. In einer weiteren Untersuchung wird sie
+deshalb die Wirksamkeit einer zusätzlichen Adsorptionsstufe mittels Pulver- oder hochaktiver
+Kohle prüfen. Pulveraktivkohle wird wie beschrieben in der TWA Muttenz eingesetzt und auch
+neu und zusätzlich in Abwasserreinigungsanlagen. Die Abbildung 3 veranschaulicht die Wirkungsweise der verschiedenen Aufbereitungsverfahren.
+
+16 Dass die UF/NF Ultra- und Nanofiltration bezüglich Produktionskosten und auch Umweltbelastung höher als die Oxidation gewichtet wird, hängt zum
+
+einen mit dem Aufwand für die Konzentrataufbereitung, aber auch mit der ökologischen Wertigkeit der eingesetzten Energieträger zusammen.
+
+Seite 8/10
+
+Regierungsrat des Kantons Basel-Stadt
+
+Abb. 3: Stossrichtung für eine weitergehende Trinkwasseraufbereitung
+
+Zusätzlich zu den Aktivkohle-basierten Verfahren wird eine neuartige Membrantechnologie (Nanofiltration) mit einer gegenüber der Aktivkohlefiltration grösseren Breitbandwirkung in weitere
+Untersuchungen der IWB miteinbezogen.
+
+4.
+
+Schlussfolgerungen und Ausblick
+
+4.1
+
+Schlussfolgerungen
+
+Die Basler Trinkwasserqualität entspricht den gesetzlichen Anforderungen gemäss der Trinkwassergesetzgebung. Mit dem bestehenden Multibarrierensystem (Sandfiltration, Grundwasserschutzzone, Aktivkohlefilter, Desinfektion) wird eine Trinkwasserqualität erreicht, die den gesetzlichen Anforderungen entspricht. Die Lebensmittelsicherheit, wie sie in Art. 7 Lebensmittelgesetz (LMG) gefordert ist, könnte jedoch grundsätzlich mit einer zusätzlichen Aufbereitungsstufe
+weiter erhöht bzw. verbessert werden.
+Die stetige Entwicklung der Analytik und deren Implementierung bei der Qualitätsüberwachung in
+den letzten Jahrzehnten führten zu einem grossen Verständnis für die Belange bzw. stetige Verbesserung der Trinkwasserqualität. Die neue, leistungsstarke Instrumentenanalytik ermöglicht
+das Erfassen von sehr tiefen Konzentrationen von Fremdstoffen im Wasser. Im Gleichschritt steigen die gesetzlichen Anforderungen, die an die Reinheit der Lebensmittel, insbesondere des
+Trinkwassers gestellt werden. Daraus folgend sollte eine zusätzliche Aufbereitungsstufe für die
+Trinkwasserproduktion in Betracht gezogen werden. Vor diesem Hintergrund entschied die IWB,
+eine weitere Variantenstudie und anschliessende Pilotierungen anzugehen, wie das heutige
+Multibarrierensystem ergänzt bzw. verstärkt werden kann.
+
+4.2
+
+Ausblick
+
+Zur Evaluation einer weitergehenden Aufbereitung bzw. Ergänzung des bestehenden Multibarrierensystems wurde von der IWB eine Vorstudie in Auftrag gegeben, um die Möglichkeiten, Vorund Nachteile einer zusätzlichen Aufbereitungsstufe mittels zudosierter Aktivkohle in unterschiedlichsten Formen und Aktivitäten (Granulat, Pulver, Mikropulver, Mikrogranulat) zu evaluieren ähnlich wie bei der TWA Muttenz. Die Aufbereitung mittels Aktivkohlefilter-Anlagen, und falls erforderlich mit häufigerer Erneuerung der Aktivkohle, erlaubt eine breite Elimination von organischen Spurenstoffen. Sie ist deshalb eine immer häufiger eingesetzte Aufbereitungsstufe in
+Schweizer Wasserwerken. Zusätzlich zu den Aktivkohle-basierten Verfahren wird eine neuartige
+
+Seite 9/10
+
+Regierungsrat des Kantons Basel-Stadt
+
+Membrantechnologie (Nanofiltration) mit einer gegenüber der Aktivkohlefiltration grösseren Breitbandwirkung in die Studie von der IWB miteinbezogen.
+Die Pilotierung auf Basis von Aktivkohle soll sowohl bei der IWB wie auch der Hardwasser AG in
+den Jahren 2023 (Start) und 2024 durchgeführt werden. Die Versuche mit den Nanofitrationsmodulen (neuartige Membrantechnologie) werden ab 2024 möglich sein, da die einzusetzenden
+Membranen zurzeit optimiert werden und noch nicht zur Verfügung stehen. Die daraus resultierenden Versuchsergebnisse werden voraussichtlich in den Jahren 2025 bis 2026 vorliegen. Auf
+deren Basis wird es in der Folge möglich sein, die Randbedingungen und Auslege-Kenndaten
+sowie die Kostenfolge der pilotierten Aufbereitungsverfahren zu ermitteln. Ein ganz wesentlicher
+Teil bei Bewertung der Ergebnisse wird dabei ein Life Cycle Assessment (LCA = standardisierte
+Ökobilanz) sein, welche die Auswirkungen neuer Aufbereitungsstufen auf die Umwelt beleuchten
+soll. Anzufügen ist schliesslich, dass allfällige Investitionen in zusätzliche Wasseraufbereitungsstufen die Kosten der Trinkwasserproduktion erhöhen, was Auswirkungen auf die Wassertarife
+haben wird.
+
+5.
+
+Fazit
+
+In seinem Bericht Nr. 21.5027.02 vom 7. Juli 2021 hatte der Regierungsrat dargelegt, dass die
+Zuständigkeit für den Bau der vom Anzug (bzw. vormals Motion) geforderten mehrstufigen Trinkwasseraufbereitungsanlage bei der IWB liegt. Es handelt sich um einen operativen Entscheid zur
+Sicherstellung der Trinkwasserversorgung, welchen die IWB trifft. Es ist in ihrem ureigenen Interesse, bei der Trinkwasserproduktion auf dem aktuellen Stand der Technik zu sein. Zudem wird
+die Qualität des Trinkwassers stetig durch das Kantonslabor überprüft.
+Wie die vorgehenden Ausführungen zeigen, befasst sich die IWB intensiv und gründlich mit möglichen Verbesserungen bei der Trinkwasseraufbereitung. Zusammen mit der Hardwasser AG richtet sie dabei den Fokus auf die Aufbereitung des Grundwassers nach der Bodenpassage, also
+nach der Versickerung des aus dem Rhein entnommenen Rohwassers in der Lange Erlen und im
+Hardwald. Diese Erkenntnis basiert auf den in den letzten Jahren durchgeführten Tests und Projekte. In den nächsten Jahren konzentriert sich die IWB auf das Evaluieren von neuen Möglichkeiten einer weitergehenden Aufbereitung bzw. Ergänzung des bestehenden Multibarrierensystems. Ein Kopieren der Aufbereitungsstufen, wie es die TWA Muttenz ist nicht zielführend, weil
+sich eine Wasseraufbereitungsanlage auf die konkreten Rohwasserverhältnisse sowie die örtlichen Gegebenheiten ausrichten muss.
+
+6.
+
+Antrag
+
+Aufgrund dieses Berichts beantragen wir, den Anzug Thomas Grossenbacher und Konsorten für
+eine mehrstufige Trinkwasseraufbereitungsanlage nach dem Vorbild der Gemeinde Muttenz für
+das gesamte Basler Trinkwasser“ abzuschreiben.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Beat Jans
+Regierungspräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Seite 10/10
+
+

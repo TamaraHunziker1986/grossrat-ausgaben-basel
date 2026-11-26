@@ -1,0 +1,1360 @@
+Regierungsrat des Kantons Basel-Stadt
+
+An den Grossen Rat
+
+20.5266.03
+
+ED/P205266
+Basel, 29. März 2023
+Regierungsratsbeschluss vom 28. März 2023
+
+Anzug Sarah Wyss und Sandra Bothe betreffend «Einführung eines
+wirklichen BYOD’s oder Systemwechsels»
+Der Grosse Rat hat an seiner Sitzung vom 21. April 2021 vom Schreiben 20.5266.02 des Regierungsrates Kenntnis genommen und – dem Antrag des Regierungsrates folgend – die Motion Sarah
+Wyss und Sandra Bothe in einen Anzug umgewandelt. Mit Präsidialbeschluss vom 21. April 2021
+wurde der Anzug dem Erziehungsdepartement zur Berichterstattung überwiesen:
+«Aus den beiden Interpellationsbeantwortungen (Sarah Wyss 20.5194 und Sandra Bothe 20.5197)
+wurde klar: Die flächendeckende Einführung eines sogenannten BYOD-Systems an den Mittelschulen
+wird per Schuljahr 2020/21 angegangen. Die Anforderungen an die Geräte entsprechen grösstenteils
+nicht den bereits bei den Schüler*innen vorhandenen Geräten. Das Konzept «Bring your own device»
+ist somit irreführend, denn basierend auf den anspruchsvollen Anforderungen an die Geräte können
+die Schülerinnen und Schüler ihre vorhandenen Laptops gar nicht verwenden. Es müssen neue Geräte
+angeschafft werden, was eine zusätzliche und nicht geplante finanzielle Belastung für die Familien
+bedeutet. Zwar wurde klar, dass finanzielle Unterstützung beim Amt für Stipendienwesen beantragt
+werden könnte. Dies stellt aber ein Hindernis für die Schüler und Schülerinnen dar und bedingt entsprechende Aufklärung.
+Die Motionärlnnen unterstützen selbstverständlich die Digitalisierung der Schulen und erachten diese
+als richtigen und wichtigen Schritt in die berufliche Zukunft. Auch dass ICT Medien zukünftig die Bedürfnisse aller Schulen verantworten soll, wird, wie wir von den Ratschlägen wissen, vom Grossen Rat
+mitgetragen. Jedoch sind wir klar der Meinung, dass eine flächendeckende Einführung einer Digitalisierung in den Schulen umfänglich nachvollziehbar sein muss und dies ist sie aktuell noch nicht.
+Wenn ein BYOD-System für die Schülerschaft obligatorisch eingeführt werden soll, dann muss es auf
+einem Minimalstandard beruhen. Die jetzigen Anforderungen beispielsweise an den Prozessor, an das
+Betriebssystem oder die Forderung nach einem Touchscreen sind klar zu ambitioniert und schiessen
+deutlich über das Ziel hinaus. Es ist an den Schulen die notwendigen technischen Hilfsmittel zur Verfügung zu stellen, sodass mit den mitgebrachten Geräten der Schüler*innen gearbeitet werden kann.
+Wenn die Mittelschulen auf den umfangreicheren Anforderungen
+(https://wa.edubs.ch/schulprofil/bvod-brinq-your-owndevice) bestehen, sollten die Geräte vom Erziehungsdepartement angeschafft, und der Schülerschaft zur Verfügung gestellt werden. Dabei kann von
+einem interessanten Preis pro Gerät aufgrund des Auftragsvolumens und/oder eines Rahmenvertrags
+profitiert werden.
+Die Motionär*innen sprechen sich weder für, noch gegen das eine oder andere System aus, sondern
+verlangen einfach ein einheitliches und für die Familien finanziell tragbares System. Aus diesem Grund
+fordern die Motionärlnnen den Regierungsrat auf, sich für eine der zwei Optionen zu entscheiden und
+diese per Schuljahr 2021/22 einzuführen.
+
+Den Mitgliedern des Grossen Rates des Kantons Basel-Stadt zugestellt am 31. März 2023.
+
+Seite 1/6
+
+Regierungsrat des Kantons Basel-Stadt
+
+Bei der Option des BYOD sollen folgende Punkte erneut überprüft werden:
+-
+
+Notwendigkeit eines Touchscreens (wie häufig braucht es diesen und wozu?)
+
+-
+
+Alternative Betriebssysteme (beispielsweise Linux)
+
+-
+
+Prozessorvorgaben (neben Intel gibt es gute und günstige Prozessoren von AMD)
+
+-
+
+Auch zur Ausgabeschnittstelle HDMI gibt es stark verbreitete Alternativen
+
+-
+
+Keine Benachteiligung von Apple-Geräten
+
+Desweitern soll überprüft werden, mit welchem technischen Unterstützungssystemen (Published
+Apps) für alle Schulen ausgestattet werden müssen, damit das BYOD in den Schulen funktioniert.
+Dafür soll sinnvollerweise wie bereits erwähnt ICT Medien die Verantwortung übertragen werden.
+Bei der Option einer konkreten Vorgabe des Projekts (mit hohen Anforderungen, welche auf die Schulen zugeschnitten sind, soll abgeklärt werden, ob diese Geräte global (evtl. in Zusammenarbeit mit
+anderen Schulstufen) eingekauft werden können, und wie sie an die Schülerschaft weitergegeben
+werden können (Leihmaterial, Vermietung, Verkauf etc.). Dabei ist im Besonderen darauf zu achten,
+dass die Geräte finanzierbar sein müssen - dies im Besonderen für Familien mit mehreren Kindern
+(Familienrabatt und ähnliches) und für Schüler*innen aus finanzschwächeren Familien.
+Sarah Wyss, Sandra Bothe»
+
+Wir berichten zu diesem Anzug wie folgt:
+
+1.
+
+Ausgangslage
+
+Die Informatikinfrastruktur der Gymnasien, der Fachmaturitätsschule und der Wirtschaftsmittelschule wurde im Rahmen des IT Projekts Mittelschulen (August 2019 – August 2021) modernisiert
+und auf einen einheitlichen Stand gebracht. Der Grosse Rat hat den Mittelschulen dafür
+2,85 Mio. Franken einmalige Investitionen und 1,1 Mio. Franken wiederkehrende Kosten zugesprochen.
+Als Grundlage für die Standardisierung des IT-Angebots an den Mittelschulen wurden technische
+Konzepte in den Bereichen Netzwerk/WLAN, Bezahl- und Zugriffslösung auf Drucker via Smartcard
+sowie Bezug und Lizenzierung von Applikationen erarbeitet. Dank des IT-Projekts Mittelschulen
+können Schülerinnen und Schüler sowie Lehrpersonen nun mit persönlichen IT-Endgeräten auf ein
+leistungsfähiges und sicheres Netzwerk zugreifen und standardisierte Lern- und Kollaborationsplattformen nutzen.
+Bring Your Own Device (BYOD) ist die Bezeichnung dafür, private und mobile Endgeräte wie Laptops, Tablets oder Smartphones in die Netzwerke von Unternehmen oder Schulen, Universitäten,
+Bibliotheken und anderen (Bildungs-)Institutionen zu integrieren. An den Hochschulen ist BYOD
+bereits weitgehend Alltag und die Schülerinnen und Schüler der Mittelschulen werden deshalb entsprechend an die Arbeitsweise im Studium herangeführt. Sie benutzen ihr Mobile Device im Schulalltag und erweitern ihre Kompetenz in Bezug auf grundsätzliche Anwenderkenntnisse durch den
+Umgang mit spezialisierter, fächerspeziﬁscher Software. Durch ein digital vernetztes Lernumfeld
+innerhalb der Schule eröffnen sich den Schülerinnen und Schülern neue Möglichkeiten im Bereich
+der Selbstreﬂexion und Steuerung eigener Lernprozesse.
+Kernauftrag der Mittelschulen ist die Anschlussfähigkeit an ein Hochschulstudium. Digitale Kompetenzen gehören zur Allgemeinbildung. Sie gehen über die effiziente Bedienung von Hard- und Software hinaus und sind die Basis für ein differenziertes Verständnis von und den mündigen Umgang
+mit den digitalen Möglichkeiten unserer Gesellschaft. Mit der seit dem Schuljahr 2020/2021 erfolgreich umgesetzten Strategie von BYOD an den Mittelschulen Basel-Stadt bereiten diese ihre Absolventinnen und Absolventen praxisnah auf ihren weiteren Berufs- oder Bildungsweg vor.
+
+Seite 2/6
+
+Regierungsrat des Kantons Basel-Stadt
+
+Die Motionärinnen verlangten in ihrem Vorstoss vom Oktober 2020, dass der Regierungsrat entweder die Minimalanforderungen an die Geräte an den Mittelschulen reduziert mit dem Ziel, ein
+einheitliches und für die Familien finanziell tragbares System zu etablieren, oder für alle Schülerinnen und Schüler der Sekundarstufe II zentral ein Gerät beschafft. Die Umwandlung in einen Anzug
+gab Gelegenheit, nach Abschluss des IT-Projekts Mittelschulen die von den Schulen formulierten
+Mindestanforderungen an die Geräte nochmals zu überprüfen und mit den bisherigen Erfahrungen
+mit BYOD und den pädagogischen Ansprüchen abzugleichen.
+
+2.
+
+Minimalanforderungen an die BYOD-Geräte
+
+2.1
+
+Generell
+
+Die technischen Anforderungen an die Geräte, die Schülerinnen und Schüler an den Basler Mittelschulen verwenden, sind in einem gemeinsamen Papier der Mittelschulen und der IT-Abteilung des
+Erziehungsdepartements (DIG-IT) festgehalten.1 Sie beruhen auf den pädagogischen Anforderungen an den Mittelschulen, die durch das Maturitätsanerkennungsreglement (MAR), die Verordnung
+betreffend die Maturitätsprüfungen im Kanton Basel-Stadt, den Bildungsplan Gymnasium Basel-Stadt und die Kantonalen Vorgaben zu den Harmonisierten Maturitätsprüfungen vorgegeben
+sind.
+Grundsätzlich gilt, dass die technischen Anforderungen an die Geräte in einem Lehrgang, der zur
+Maturität führt, in gewissen Aspekten höher sind als in der obligatorischen Schulzeit, insbesondere
+in den naturwissenschaftlich-mathematischen Fächern, wo Formeln mit stiftfähigen Geräten erfasst
+werden müssen.
+Die Minimalanforderungen werden aufgrund der pädagogischen Erfahrungen an den Schulen mit
+BYOD, den Anforderungen an den Support der BYOD-Geräte und dem sich verändernden technischen Umfeld jährlich überprüft und per neues Schuljahr angepasst.
+Seit Herbst 2022 sind die Schülerinnen und Schüler der 5./6. Primarschulklassen und der 1. Klasse
+der Sekundarschule sowie alle Lehr-und Fachpersonen der Volksschulen mit persönlichen digitalen
+Endgeräten ausgestattet. Die Ausrüstung der Schülerinnen und Schüler mit einem persönlichen
+Endgerät erfolgt aufsteigend. Erst im Schuljahr 2024/2025 werden alle Schülerinnen und Schüler
+ab der 5. Klasse der Primarschule mit einem persönlichen Endgerät ausgestattet sein. Das heisst,
+per Sommer 2025 treten erstmals Schülerinnen und Schüler mit einem Gerät aus der Sekundarstufe I in die Mittelschulen über. Die finanziellen und technischen Rahmenbedingungen betreffend
+diesen Endgeräten finden sich im Ratschlag zum Ausbau der Digitalisierung der Volksschulen. Die
+ersten vier Jahrgänge wurden mit einem «Microsoft Surface Endgerät» im Modell «Pro 7+» ausgestattet. Das Gerät verfügt über eine Touchscreenfunktion und wurde mit Stift ausgeliefert. Erziehungsberechtigte können die Geräte am Ende der Sekundarschule gegen einen Unkostenbeitrag
+abkaufen und für den Start an den Mittelschulen eingesetzt werden können. Die Geräte werden bei
+Übertritt fünf Jahre im Einsatz sein.
+
+2.2
+
+Notwendigkeit eines Touchscreens
+
+Für den Unterricht an den Mittelschulen ist ein Gerät mit Tastatur und Stifteingabe erforderlich. Die
+Tastatur ist für das Schreiben von längeren Texten wie Aufsätzen, Vorträgen oder Präsentationen
+wichtig. Das Gerät sollte über Anschlussmöglichkeiten für externe Geräte und zum Gerät passende
+Kopfhörer verfügen. Der Stift gehört zu einem zeitgemässen und touchfähigen Gerät dazu. In einer
+digitalen Lernumgebung ist das Schreiben von Texten und Ausfüllen von Arbeitsblättern mit dem
+Stift viel leichter. Generell ist das Arbeiten mit Stift schneller und besonders in naturwissenschaftlichen Fächern unabdingbar (z. B. Skizzen, Reaktionsgleichungen, Formeln).
+
+1 https://wg.edubs.ch/schulprofil/byod-bring-your-own-device
+
+Seite 3/6
+
+Regierungsrat des Kantons Basel-Stadt
+
+Als Alternative zum Touchscreen besteht die Möglichkeit, sich ein externes, kleines Tablet zu kaufen, das via USB an den Laptop angeschlossen werden kann. Auf diesem Tablet kann mit einem
+Stift geschrieben werden, so dass der Touchscreen dadurch ersetzt werden kann. Dieses ist mit
+einem Preis von ca. 100 Franken eine günstige Ergänzung zu einem bestehenden Gerät, das nicht
+über einen Touchscreen verfügt.
+
+2.3
+
+Alternative Betriebssysteme und Apple-Geräte
+
+Alternative Betriebssysteme sind selbstverständlich möglich, werden aber in der Arbeitsrealität von
+Schulen und Betrieben viel seltener genutzt. Die Schulen arbeiten mehrheitlich in der WindowsUmgebung mit dem Software-Paket Microsoft 365 (Word, Excel, PowerPoint, OneNote, OneDrive,
+Teams). Die Schülerinnen und Schüler lernen Produkte zu bedienen, die aktuell den Markt dominieren und an der Universität und in der Berufswelt gefragt sind. Lässt man Linux als alternatives
+Betriebssystem zu, muss man automatisch mit Software und Lehrmitteln arbeiten, die offen bzw.
+systemübergreifend eingesetzt werden können. Diese pädagogische Frage wurde im Rahmen der
+Umsetzung des IT-Projekts Mittelschulen zugunsten von Microsoft 365 und weiterer Standard-Software geklärt.
+Notebooks von Apple mit dem Betriebssystem macOS können gut eingesetzt werden. Die OfficeProgramme bieten auf den Apple-Geräten nicht immer die gleiche Handhabung oder die volle Funktionalität, wie sie auf den Windows Geräten zur Verfügung steht. Zudem verfügen die Notebooks
+von Apple (MacBook) über keinen Touchscreen. Daher kann der Einsatz von Apple Geräten mit
+gewissen Einschränkungen verbunden sein. Wer bereits ein MacBook besitzt, kann aber wie unter
+Kapitel 2.2 beschrieben ebenfalls die alternative Stifteingabe via Wacom Tablet wählen. Ein iPad
+Pro würde die Stifteingabe ebenfalls abdecken, ist allerdings nur in Kombination mit einem MacBook möglich (fehlende Anschlussmöglichkeiten für externe Geräte wie Sensoren für die Naturwissenschaften/keine Installationsmöglichkeiten für Software, die nicht im App Store verfügbar ist).
+
+2.4
+
+Prozessorvorgaben und Alternativen zur Ausgabeschnittstelle HDMI
+
+Auf die Prozessorvorgaben und Hinweise zur Ausgabeschnittstelle HDMI kann in den Minimalstandards künftig verzichtet werden. Ob Intel, AMD oder ARM spielt keine Rolle, da die Softwarehersteller schnell reagieren, wenn ihr Produkt auf einem bestimmten Prozessor nicht läuft. Zwingend
+braucht es eine Schnittstelle, damit die Laptops für Präsentationen an die TUM-Racks angeschlossen werden können. Da es aber inzwischen für praktisch jede Schnittstelle einen Adapter gibt,
+braucht es dafür keine expliziten Vorgaben mehr.
+
+2.5
+
+Published Apps
+
+Published Apps sind virtuelle Softwareprogramme, die für die Benutzerinnen und Benutzer so funktionieren, als ob sie lokal installiert worden wären. In Zusammenarbeit mit der IT-Abteilung des
+Erziehungsdepartements wird zentral für alle Mittelschulen erhoben, welche Applikationen für den
+Unterricht pro Fach nötig sind, welche technischen Anforderungen bestehen und wie hoch die Lizenzkosten sind. Die ausgewählten Applikationen werden den Schülerinnen und Schülern und den
+Lehrpersonen zentral zur Verfügung gestellt.
+
+Seite 4/6
+
+Regierungsrat des Kantons Basel-Stadt
+
+3.
+
+Zentrale Beschaffung von Geräten für die Schülerinnen und
+Schüler der Sekundarstufe II
+
+In Basel-Stadt gilt - wie in der ganzen Schweiz - der Grundsatz, dass die Ausbildungsfinanzierung
+in erster Linie Sache der Eltern und der Auszubildenden selbst ist (Subsidiaritätsprinzip). Auch nach
+Erreichen der Mündigkeit ihrer Kinder haben die Eltern, wenn sie finanziell dazu in der Lage sind,
+für deren Unterhalt aufzukommen, sofern sich die Kinder noch in Erstausbildung befinden. Personen aus finanziell schlechter gestellten Familien können, nach Abschluss der Volksschule, für
+nachobligatorische Ausbildungen mit Stipendien unterstützt werden (ab Beginn der Sekundarstufe
+II; Mittelschulen und Berufsbildung). Bei der Stipendienberechnung werden sowohl die Lebenshaltungskosten der Personen in Ausbildung als auch die Kosten für Schulmaterial (inklusive elektronische Geräte) berücksichtigt. Der Kanton Basel-Stadt vergibt jährlich etwa 2’000 Stipendien in
+einer Gesamthöhe von rund 12 Mio. Franken.
+Die zentrale Beschaffung und Finanzierung der Geräte, wie es die Motionärinnen vorschlagen,
+weicht vom schweizweit gültigen Grundsatz ab, dass die Ausbildung auf der Sekundarstufe II nicht
+kostenlos ist. Sie würde für den Kanton Basel-Stadt zu beträchtlichen Mehrkosten führen. Mit einer
+zentralen Beschaffung von Geräten könnten zudem die individuellen Bedürfnisse der Schülerinnen
+und Schüler an IT-Geräte nicht berücksichtigt werden und man wäre an den Schulen technologisch
+nicht auf dem neusten Stand, da Beschaffungen immer zeitliche Verzögerungen zur Folge haben.
+In Basel-Stadt wurde als Lösung für die Mittelschulen wie in anderen Kantonen auch ein Zugang
+zu einem Webshop ermöglicht, in dem Geräte zwischen 1‘000 und 1‘500 Franken gekauft werden
+können. Beispielsweise unter www.edu.ch/wgbs findet man eine Auswahl an Geräten, die den Mindestanforderungen und Empfehlungen entsprechen. Die Geräte können dort gekauft werden, müssen aber nicht. Alternativ können Schülerinnen und Schüler, welche die Sekundarstufe I in BaselStadt absolvieren, die dort unentgeltlich erhaltenen Geräte weiterhin verwenden und sich zusätzlich, wie in Kapitel 2.2 beschrieben, ein ergänzendes Tablet für 100 Franken kaufen.
+Um zu verhindern, dass aufgrund der Anschaffung der Geräte finanzielle Schwierigkeiten entstehen, bietet die Kommission für Ausbildungsbeiträge für Schülerinnen und Schüler mit Wohnsitz in
+Basel-Stadt seit 2020 neu die niederschwellige Möglichkeit von Unterstützungszahlungen durch
+den Stipendienfonds der Basler Schulen. Auf Antrag können 600 Franken an die Anschaffungskosten für Geräte geleistet werden. Die Gelder aus dem Stipendienfonds werden zusätzlich zu den
+regulären Stipendien gesprochen und können bei finanziellen Engpässen durch die Schulen vorfinanziert werden. Es besteht eine Nachfrage nach dem Angebot, die budgetierten Mittel sind ausreichend.
+Auch in anderen Kantonen tragen die Erziehungsberechtigten die Kosten für die Beschaffung von
+EDV-Geräten, wie eine Umfrage des Erziehungsdepartements zeigt (Beilage 1). Die Schülerinnen
+und Schüler beschaffen die Geräte entsprechend dem Prinzip von BYOD selbständig. Die meisten
+Kantone kennen eine Unterstützung bei Härtefällen, wobei die Lösung in Basel-Stadt im Vergleich
+grosszügig ist.
+Wie der Bericht des ZEM «Nationale Bestandsaufnahme zur Umsetzung von BYOD Konzepten
+und zur Nutzung von Online-Bewertungsinstrumenten an Gymnasien und FMS» vom Dezember
+2021 (Beilage 2) zeigt, verfügt die grosse Mehrheit der Kantone über ein BYOD-Konzept und hat
+BYOD in einer Mehrheit der Schulen implementiert. Der BYOD-Ansatz, der an den baselstädtischen Schulen verfolgt wird, entspricht dem schweizerischen Standard und bereitet damit die Absolventinnen und Absolventen passend auf ein Hochschulstudium vor.
+
+Seite 5/6
+
+Regierungsrat des Kantons Basel-Stadt
+
+4.
+
+Fazit
+
+Der Regierungsrat möchte am erfolgreich eingeschlagenen Weg von BYOD auf der Sekundarstufe II in Basel-Stadt festhalten und keine Geräte zentral für die Schülerinnen und Schüler beschaffen.
+
+5.
+
+Antrag
+
+Aufgrund dieses Berichts beantragen wir, den Anzug Sarah Wyss und Sandra Bothe betreffend
+«Einführung eines wirklichen BYOD’s oder Systemwechsels» abzuschreiben.
+
+Im Namen des Regierungsrates des Kantons Basel-Stadt
+
+Beat Jans
+Regierungspräsident
+
+Barbara Schüpbach-Guggenbühl
+Staatsschreiberin
+
+Beilagen
+ Umfrage «EDV-Beschaffung für Schülerinnen und Schüler am Gymnasium in ausgewählten
+Kantonen»
+ Bericht des ZEM «Nationale Bestandsaufnahme zur Umsetzung von BYOD Konzepten und
+zur Nutzung von Online-Bewertungsinstrumenten an Gymnasien und FMS»
+
+Seite 6/6
+
+EDV-Beschaffung für Schülerinnen und Schüler am Gymnasium in ausgewählten Kantonen
+Kanton Kantonsbeitrag für EDV-Geräte?
+AG Die SuS haben im Grundsatz die
+BYOD-Geräte selbst zu bezahlen.
+
+BL
+BS
+
+SO
+
+Unterstützung bei Härtefällen? Vorgaben zur Gerätespezifikation?
+Für Härtefälle gibt es bisher keine Es gibt nach Schulen und teils
+institutionalisierte Lösung.
+zusätzlich nach Bildungsgängen
+differenzierte Anforderungen.
+Erziehungsberechtigten tragen
+Kostenübernahmen durch die
+Ja: Bildschirmgrösse, Betriebssystem
+Kosten für Unterrichtsmittel. SLK
+Schule für Bedürftige sind nicht
+macht Vorgaben zum Kostendach
+vorgesehen
+Schülerinnen und Schüler tragen
+Kommission für
+Technische Anforderungen sind in
+Kosten.
+Ausbildungsbeiträge bietet
+einem gemeinsamen Papier der
+Möglichkeit für
+Mittelschulen und der IT-Abteilung des
+Unterstützungszahlungen
+Erziehungsdepartements (DIG-IT)
+festgehalten
+Erstes Gymnasialjahr zählt im
+Härtefallregelung
+Zentrale Vorgaben, die von der
+Kanton SO noch zur obligatorischen
+Informatik-Steuerungs-Gruppe
+Schulzeit. Da gibt es eine finanzielle
+Sekundarstufe II (ISG) verabschiedet
+Unterstützung, nachher nicht mehr.
+wurden: Mac/Windows
+
+ZH
+
+Schülerinnen und Schüler
+Es gibt schulspezifische
+finanzieren im Grundsatz die Geräte Härtefallregelungen, um
+selbst.
+nötigenfalls bei der Beschaffung
+eines Geräts zu unterstützen.
+
+BE
+
+Die Lernenden sind grundsätzlich
+selber für die Finanzierung der
+Geräte zuständig.
+
+LU
+
+Im Untergymnasium erhalten die
+Lernenden einen Laptop als
+Leihgabe vom Kanton. Dieser wird
+nach Ende der obligatorischen
+Schulzeit wieder abgegeben oder
+kann käuflich erworben werden.
+
+Lernende können in Härtefällen
+einen Antrag für eine finanzielle
+Unterstützung durch den
+Schulfonds einreichen. Zudem
+erhalten Lernende bei einem
+Lieferanten einen Rabatt bei der
+Beschaffung von mobilen Geräten.
+
+Beschaffung via Schule oder selber?
+Selber
+
+Selber
+
+selber
+
+SchülerInnen bringen ihre eigenen,
+privaten Geräte mit.
+
+Es gibt bewusst keine zentralen
+BYOD wird definiert als von den
+Vorgaben, da die Anforderungen der
+Schülerinnen und Schülern bzw.
+einzelnen Schulen zu unterschiedlich Auszubildenden privat beschaffte und
+sind (je nach Profil in den Mittelschulen finanzierte Geräte, die selbstverwaltet für
+oder Berufsgruppen bei den
+schulische und private Arbeiten genutzt
+Berufsfachschulen).
+werden.
+Ja, Betriebssystem ab Windows 8.1
+Die Lernenden bringen ihre eigenen
+/Mac ab OS X 10.13 oder Android ab
+Geräte mit
+Version 6.
+
+Keine kantonalen Vorgaben. Schulen
+können aber Empfehlungen abgeben.
+
+Nachobligatorische Schulzeit: SuS
+bringen eigene Geräte mit (oder
+übernehmen das Gerät aus dem
+Untergymnasium).
+
+Ergebnisse der zem/ces-Studie 2021 "Nationale Bestandsaufnahme zur Umsetzung von BYOD Konzepten…"
+CH In der Deutschschweiz verfügt die grosse Mehrheit der Kantone über ein Konzept oder zumindest über eine Umsetzung von BYOD in einer Mehrheit der
+Schulen, sowohl der gymnasialen als auch der allgemeinbildenden Schulen.
+
+30. Januar 2023 / Erziehungsdepartement Basel-Stadt
+
+Nationale Bestandsaufnahme zur Umsetzung von
+BYOD Konzepten und zur Nutzung von OnlineBewertungsinstrumenten an Gymnasien und FMS
+
+Bericht im Auftrag der SMAK erstellt, verfügbar auf Deutsch und Französisch
+Stand Dezember 2021
+
+ZEM CES
+AutorInnen:
+Evelyne Charrière (F)
+Michaël Meyrat (D)
+
+Bern, 01.03.2022
+
+Inhaltsverzeichnis
+1.
+
+Einleitung ........................................................................................................................................ 3
+
+1.1
+
+Ausgangslage ............................................................................................................................. 3
+
+1.2
+
+Auftrag und Ablauf der Umfrage ................................................................................................. 3
+
+2.
+
+Bestandsaufnahme der BYOD-Umsetzung in Gymnasien und FMS .............................................. 4
+
+Quantitative Erhebung für die Kantone der lateinischen Schweiz (ohne Bern) ...................................... 4
+Quantitative Erhebung für die Kantone der Nordwestschweiz ................................................................ 5
+Quantitative Erhebung für die Ostschweizer Kantone und Liechtenstein ............................................... 5
+Quantitative Erhebung für die Kantone der Zentralschweiz .................................................................... 6
+Kommentar .............................................................................................................................................. 6
+3.
+
+Bestandsaufnahme des Stands der Nutzung von Online-Assessmentplattformen in
+Gymnasien/Kantonsschulen und FMS ............................................................................................ 7
+
+3.1
+
+Identifizierte Bedürfnisse in Bezug auf die Nutzung der Plattformen ........................................ 11
+
+3.2
+
+Kriterien für die Auswahl und Nutzung von Plattformen ........................................................... 11
+
+4.
+
+Aussichten..................................................................................................................................... 13
+
+Seite 2 / 14
+
+1. Einleitung
+1.1
+
+Ausgangslage
+
+Die Einführung des Ansatzes "Bring dein eigenes EndnutzerInnengerät mit", der im Englischen unter
+dem Namen "Bring your personal communication equipment" (BYOD) weiterverbreitet ist, steht im
+Einklang mit der Strategie der EDK vom 21. Juni 2018 zur Bewältigung des digitalen Übergangs im
+Bildungswesen. Der Ansatz deckt sich auch mit dem Aktionsplan für die lateinische Schweiz der CIIP
+vom 22. November 2018 zur Förderung der digitalen Bildung.
+Das ZEM CES wurde vom Vorstand der SMAK beauftragt, zur gegenseitigen Information der Ämter den
+Stand der Umsetzung des BYOD-Konzepts in den Kantonen zu erheben. Ausserdem wurde die
+Gelegenheit genutzt, eine Bestandsaufnahme des Einsatzes von Online-Bewertungsinstrumenten in
+den allgemeinbildenden Schulen der Sekundarstufe II vorzunehmen.
+
+1.2
+
+Auftrag und Ablauf der Umfrage
+
+Anlässlich der Sitzung vom 20. Oktober 2021 gab der Vorstand der SMAK eine Befragung in Auftrag,
+die vom 11. November bis 21. Dezember 2021 bei den Kantonen auf elektronischem Weg durchgeführt
+wurde. Alle 26 angefragten kantonalen Direktionen und Liechtenstein haben ihre Antworten auf zwei
+Fragenkomplexe zu den folgenden Themen abgegeben:
+1. Den Stand der Nutzung von BYOD in den allgemeinbildenden Schulen der Sekundarstufe II
+ihres Kantons (Gymnasien & Fachmittelschulen) und die geplanten Entwicklungen in diesem
+Bereich.
+2. Die Nutzung von Online-Evaluationsplattformen durch Lehrpersonen und die Einschätzung
+ihrer Zufriedenheit, ihrer Bedürfnisse in diesem Bereich und der relevanten Kriterien für die
+Auswahl solcher Instrumente.
+Die vom ZEM CES gesammelten Antworten werden in diesem Bericht für die Mitglieder der SMAK
+dargestellt und analysiert.
+
+Seite 3 / 14
+
+2. Bestandsaufnahme der BYOD-Umsetzung in Gymnasien und
+FMS
+Zur Erinnerung: Die Fragen, die den Kantonen vorgelegt wurden, lauteten wie folgt:
+Fragen:
+1a)
+Wie viele der Gymnasien in Ihrem Kanton haben ein BYOD-Konzept für die Schülerinnen und
+Schüler eingeführt? (Anzahl Schulen/Gesamtzahl)
+1b)
+Wie viele der FMS in Ihrem Kanton haben ein BYOD-Konzept für die Schülerinnen und
+Schüler? (Anzahl Schulen/Gesamtzahl)
+2)
+Was ist für die Schulen, die es noch nicht eingeführt haben, geplant? Innerhalb welcher Frist?
+Um die Lesbarkeit zu erleichtern und die Darstellung zu straffen, werden die quantitativen Ergebnisse
+in Form von Tabellen wiedergegeben. Die Kantone werden nach dem Kriterium der geografischen Nähe
+aufgeteilt, nach einem ähnlichen – aber nicht deckungsgleichen – Modus wie bei der Gruppierung der
+Fachhochschulen.
+Quantitative Erhebung für die Kantone der lateinischen Schweiz
+(CIIP, ohne Bern, mit Wallis, beide sowohl CIIP und NWEDK)
+
+GE
+
+VD
+
+JU
+
+NE
+
+FR
+
+VS
+
+TI
+
+GYM
+
+1/11
+
+1/ 13
+
+0/1
+
+0/3
+
+1/4
+
+1/4
+
+0/5
+
+FMS
+
+1/ 6
+
+1/ 12
+
+0/1
+
+0/1
+
+0/2
+
+2/6
+
+0/2
+
+Konzept
+
+Nein
+
+Nein
+ausser GYB
+
+Vorbereitung
+
+Vorbereitung
+
+Vorbereitung
+
+Vorbereitung
+
+Vorbereitung
+
+Ergänzende Anmerkungen zur obigen Tabelle
+- Im Kanton Genf verfügt der Bereich Hotellerie, Dienstleistungen und Gastronomie aufgrund der
+Anforderungen der Branche über ein BYOD-Konzept für seine Auszubildenden. Das College für
+Erwachsene führt ebenfalls ein Experiment mit zwei Gruppen durch. Ansonsten gibt es jedoch kein
+Konzept und es werden keine Fristen bekannt gegeben.
+- Im Kanton Waadt ist das Gymnase Intercantonal de la Broye (GYB) Vorreiter, es verfügt als einziges
+über ein Konzept, das in den gymnasialen Ausbildungsgängen sowie in den Ausbildungsgängen der
+Fachmittelschule umgesetzt wird.
+- Im Kanton Jura wird die Frage im Rahmen eines digitalen Aktionsplans erarbeitet.
+- Im Kanton Neuenburg arbeitet ein Koordinationsausschuss für pädagogische Informationen zur
+Digitalisierung des Unterrichts in der postobligatorischen (beruflichen / akademischen) Bildung an
+einem Einführungsplan. Bisher haben zwei Pilotklassen in zwei verschiedenen Gymnasien ein
+BYOD-Konzept eingeführt.
+- Im Kanton Freiburg wird das BYOD-Konzept ab dem Schuljahr 2022 in allen Schulen der S2
+Allgemeinbildung (5/5) eingeführt, beginnend mit den ersten Klassen des ersten Jahres. Bisher hat
+eine Klasse der zweisprachigen gymnasialen Maturität das Konzept als Pilot eingeführt.
+Das Gymnase intercantonal de la Broye (GYB) wird in diesem Total nicht mitgezählt. (siehe
+Anmerkung oben).
+- Im Kanton Wallis ist die Einführung von BYOD ein Ziel des Bildungsdepartements für die laufende
+Legislaturperiode.
+
+Seite 4 / 14
+
+- Im Kanton Tessin wird das Konzept derzeit erarbeitet.
+Quantitative Erhebung für die Kantone der Nordwestschweiz (NWEDK)
+BE
+
+SO
+
+BS
+
+BL
+
+SH
+
+AG
+
+GYM
+
+14/14
+
+2/ 2
+
+5/5
+
+5/5
+
+1/1
+
+6/6
+
+FMS
+
+4/6
+
+2/ 2
+
+1/1
+
+0/0
+
+1/1
+
+3/3
+
+Konzept
+
+Ja
+
+-
+
+-
+
+Vorbereitung
+
+Nein
+
+-
+
+Ergänzende Anmerkungen zur obigen Tabelle
+- Im Kanton Bern haben alle Gymnasien und FMS BYOD eingeführt. Bei den FMS arbeitet eine der
+beiden verbleibenden Schulen mit einem "BYOD nach Voranmeldung"-System, die andere mit einem
+"Wagen mit Laptops"-System. Das Konzept wird innerhalb von zwei Jahren validiert.
+- Im Kanton Solothurn haben die Gymnasien in Olten und Solothurn sowie die Fachmittelschulen in
+Olten und Solothurn BYOD eingeführt, ohne dass ein formalisiertes Konzept festgelegt wurde.
+- Im Kanton Basel-Stadt haben alle fünf öffentlichen Gymnasien sowie die Fachmittelschule die BYODPraxis eingeführt.
+- Im Kanton Basel-Landschaft haben alle 5 Gymnasien sowie die 4 allgemeinbildenden Schulen, die
+sich in denselben Einrichtungen befinden, ein Konzept. Dieses ist jedoch noch nicht offiziell eingeführt
+und es gibt noch keine endgültige Planung.
+- Im Kanton Schaffhausen befinden sich das Gymnasium und die Fachmittelschule derzeit in einer
+Pilotphase. Die definitive Einführung ist für 2023 geplant. Bisher wurde noch kein formelles Konzept
+validiert.
+Quantitative Erhebung für die Ostschweizer Kantone und Liechtenstein (EDK-OST)
+TG
+
+SG
+
+AR
+
+AI
+
+GL
+
+GR
+
+ZH
+
+LI
+
+GYM
+
+4/5
+
+5/5
+
+0/ 1
+
+0/1
+
+1/1
+
+7/8
+
+16/22
+
+1/1
+
+FMS
+
+2/2
+
+4/4
+
+0/ 1
+
+0/0
+
+1/1
+
+3/4
+
+2/2
+
+0/0
+
+Konzept
+
+Herbst 22
+
+Ja
+
+-
+
+Vorbereitung
+
+na
+
+-
+
+Vorbereitung
+
+August 21
+
+Ergänzende Anmerkungen zur obigen Tabelle
+- Im Kanton Appenzell Innerrhoden hat das einzige bestehende Gymnasium BYOD noch nicht
+eingeführt, andere Schulen der Sekundarstufe 2 gibt es nicht. Allerdings wird derzeit ein allgemeines
+Digitalisierungskonzept erarbeitet, in dessen Rahmen auch die Frage von BYOD geprüft werden soll.
+- Im Kanton Graubünden verfügen 7 der 8 Gymnasien über ein BYOD-Konzept für die Schülerinnen
+und Schüler. Auf der Ebene der allgemeinbildenden Schulen verfügen 3 von insgesamt 4 Schulen
+über ein Konzept für die Schülerinnen und Schüler. Das Einführungsprojekt ist in mehrere Etappen
+über vier Jahre aufgeteilt, beginnend mit dem Schuljahr 22/23 und endend mit dem Schuljahr 25/26.
+Eine Pilotschule hat die Umsetzung des BYOD-Projekts abgeschlossen, während der genaue
+Zeitplan für die anderen Schulen nicht formalisiert ist.
+- Im Kanton Zürich verfügen 16 der 22 Gymnasien über ein BYOD-Konzept für die Schülerinnen und
+Schüler. Von den allgemeinbildenden Schulen befinden sich 3 Schulen in der Pilotphase für die
+
+Seite 5 / 14
+
+Einführung von BYOD. Die formelle Einführung wird nach der Auswertung der Pilotphase organisiert,
+für die noch kein Datum festgelegt wurde. 3 Schulen haben noch keine Planung für die Einführung
+von BYOD.
+- In Liechtenstein wurde das BYOD-Konzept mit Beginn des Schuljahres im August 2021 am
+Gymnasium, der einzigen Schule der Stufe S2 im Fürstentum, eingeführt.
+Quantitative Erhebung für die Kantone der Zentralschweiz
+(ZG und SZ sowohl BKZ wie EDK-OST, LU sowohl BKZ wie NWEDK)
+
+LU
+
+ZG
+
+UR
+
+SZ
+
+OW
+
+NW
+
+GYM
+
+8/8
+
+2/2
+
+1/1
+
+5/5
+
+3/3
+
+1/1
+
+FMS
+
+3/3
+
+1/1
+
+0/0
+
+2/2
+
+0/0
+
+-
+
+Konzept
+
+-
+
+Nein
+
+-
+
+-
+
+Sommer
+2022
+
+Ja
+
+Ergänzende Anmerkungen zur obigen Tabelle
+- Im Kanton Obwalden arbeiten von den drei Gymnasien des Kantons ein Gymnasium sowie eine
+Privatschule mit einem BYOD-Konzept, das sie ab Sommer 2022 formell einführen werden. Eine
+Privatschule verfügt bereits über eine solche Umsetzung. Im Kanton Obwalden gibt es keine
+allgemeinbildende Schule.
+- Im Kanton Nidwalden gibt es nur ein Gymnasium, das über ein BYOD-Konzept verfügt, das im Laufe
+des Schuljahres 2022 eingeführt wird.
+
+Kommentar
+Die Frage, ob es überhaupt ein Konzept gibt, wurde nicht immer beantwortet. Einige Kantone haben,
+obwohl sie BYOD in allen ihren Schulen eingeführt haben, die Frage nach der Existenz eines
+Einführungskonzepts formal nicht positiv beantwortet. Dies könnte bedeuten, dass noch kein
+pädagogisches Konzept ausgearbeitet wurde.
+Der Begriff BYOD scheint je nach Kanton unterschiedliche Realitäten abzudecken, die von einem
+globalen Konzept für die gesamte integrierte digitale Pädagogik bis hin zu einem Konzept reichen
+können, das manchmal nur die Aufforderung an die Schülerinnen und Schüler beinhaltet, mit ihren
+digitalen Geräten in den Unterricht zu kommen. Manchmal ist das Konzept eher auf die Schüler und
+Schülerinnen ausgerichtet, um den Umgang mit digitalen Geräten im Unterricht zu regeln, als auf die
+Vorstellung eines von der Schule gewählten pädagogischen Nutzungsprojekts.
+Diese unterschiedlichen Situationen lassen sich zweifellos dadurch erklären, dass sich viele Schulen
+derzeit in einer Phase des Übergangs zur Digitalisierung befinden. Bei einigen Schulen erfolgte der
+Prozess eher nach dem "Bottom-up"-Prinzip: eher empirisch, geleitet von einem gewissen
+Pragmatismus und unterstützt durch die innovativen Praktiken der Lehrkräfte. Nach einer ersten
+Evaluation, die häufig noch aussteht, wird sie Gegenstand einer formalisierten Konzeptualisierung sein.
+In anderen Schulen muss das Konzept vor der Umsetzung von der Hierarchie oder einer Ad-hocArbeitsgruppe festgelegt werden, um den gesamten Ansatz zu validieren.
+Von den sieben Kantonen der lateinischen Schweiz haben fünf Kantone Überlegungen angestellt und
+eine Arbeitsgruppe für die Ausarbeitung von Richtlinien eingesetzt. Es ist anzumerken, dass eine
+
+Seite 6 / 14
+
+Schule, die interkantonal ist, ihre Position zweifellos ausnutzen konnte, um die Initiative zu ergreifen
+und ihr eigenes Konzept zur Zufriedenheit umzusetzen.
+In der Deutschschweiz verfügt die grosse Mehrheit der Kantone über ein Konzept oder zumindest über
+eine Umsetzung von BYOD in einer Mehrheit der Schulen, sowohl der gymnasialen als auch der
+allgemeinbildenden Schulen. Es ist festzustellen, dass die grösseren Kantone die Umsetzung von
+BYOD nicht in allen ihren Schulen vollständig realisiert haben, was sich durch einen grösseren
+Abstimmungs- und Koordinationsaufwand für eine harmonisierte Umsetzung erklären könnte.
+In diesem sich verändernden Kontext ist der Erfahrungsaustausch besonders wichtig, um von
+bewährten Verfahren zu profitieren. Dies ist der Sinn dieser Bestandsaufnahme, die noch vorteilhaft
+durch die Bereitstellung der verschiedenen kantonalen Konzepte im Bereich BYOD und Management
+des digitalen Übergangs ergänzt werden könnte.
+
+3. Bestandsaufnahme des Stands der Nutzung von OnlineAssessmentplattformen in Gymnasien/Kantonsschulen und
+FMS
+Im Rahmen des Fernunterrichts haben viele Schulen Online-Prüfungsplattformen getestet oder deren
+Einsatz systematisiert. Sind die Erfahrungen zufriedenstellend und werden sie langfristig Bestand
+haben? Wo liegen die Bedürfnisse der Schulen?
+Die SMAK möchte die Situation in den verschiedenen Kantonen kennenlernen, um sich gegenseitig
+besser informieren zu können und um zu beurteilen, ob die gemeinsame Entwicklung bestimmter
+Instrumente sinnvoll wäre.
+Fragen:
+2.1)
+Welche Bewertungsplattform(en) wird/werden derzeit in den Schulen Ihres Kantons
+verwendet?
+2.2)
+Sind die Schulen damit zufrieden? Wenn ja, warum; wenn nein, warum nicht?
+In der folgenden Tabelle sind die wichtigsten Plattformen aufgeführt, die in den Antworten auf die
+Konsultation erwähnt wurden. Ein Hyperlink führt zu einigen Internetinformationen über die
+Plattformen, sofern diese verfügbar sind.
+
+Seite 7 / 14
+
+Plattform
+
+Kanton(e)
+
+Anzahl
+
+Microsoft365
+: MS Forms /
+MS Teams
+
+SZ, LU,
+BL, AG,
+GR, ZH,
+VS, TG,
+VD, TI,
+BE
+
+11
+
+Keine
+
+AI, SG,
+VD, GE,
+NW, SH,
+GL, NE,
+JU, TI
+
+10
+
+Keine bestimmte Plattform. Manchmal ergreifen einzelne
+Lehrkräfte die Initiative. In einigen Kantonen prüft das
+Departement für Berufsbildung oder Gymnasialbildung die
+Anträge der Schulen von Fall zu Fall und erteilt eine
+Nutzungsgenehmigung, wenn die Bedingungen für die
+Sicherheit und Vertraulichkeit der Daten gewährleistet sind.
+
+isTest2.ch
+
+SZ,AI,
+LU, BL,
+GR, BS,
+SO, ZH,
+TG, LI
+
+9
+
+Plattform wird als gut bewertet und von den Lehrkräften
+allgemein geschätzt. Funktioniert zuverlässig und kann ohne
+allzu große Einführung genutzt werden. Es gibt eine Vielzahl
+von Möglichkeiten. Eine echte Entlastung für die Lehrkräfte, die
+ein grosses Repertoire an Fragen protokollieren können.
+
+y.c. One
+Note
+
+Bemerkungen (Vorteile und Nachteile)
+Das Office 365-Paket von Microsoft (mit OneNote) ist eine gute
+Option für Prüfungssitzungen, wenn auch mit eingeschränkten
+Möglichkeiten. Es ist leicht verfügbar und bietet Leistungen für
+die Zusammenarbeit, die Ablage von Dokumenten, die
+Speicherung, die Online-Kommunikation und E-Mail.
+OneNote allein als solches wird von ZH, SZ, TG genannt.
+
+Das Layout ist nicht sehr attraktiv und wird manchmal als etwas
+altmodisch bezeichnet. Die Handhabung wird als wenig
+benutzerfreundlich empfunden. Das Eingeben von Fragen ist
+mühsam, aber die Möglichkeit, Fragen unter Kollegen
+auszutauschen, wird als echter Mehrwert gesehen.
+Einige Bedenken hinsichtlich des Fortbestands der Plattform
+und damit der Nachhaltigkeit der begonnenen Arbeit, da sie
+nicht von einem grossen Label gehostet wird.
+Moodle
+
+SZ, LU,
+ZG, AG,
+GR, SO,
+ZH, VS,
+FR
+
+9
+
+Moodle bietet viele Möglichkeiten für verschiedene Funktionen.
+Einarbeitung jedoch komplizierter als Classtime. Geeignet für
+umfangreiche Prüfungen (Abschlussprüfungen, Jahresabschlussprüfungen, Grundfertigkeiten, Mathematik), jedoch
+ist eine gute Unterstützung unerlässlich, da die eigenständige
+Durchführung einer Prüfung für technisch wenig qualifizierte
+Lehrkräfte eine Herausforderung darstellen könnte.
+In einer Schule können die Softwareprogramme Classtime und
+Moodle in Kombination mit dem Safe Exam Browser verwendet
+werden, was notwendig erscheint, um eine sichere
+Prüfungsumgebung zu gewährleisten.
+
+Seite 8 / 14
+
+Classtime
+
+SZ, BL,
+AG, GR,
+ZH
+
+5
+
+Sehr benutzerfreundliche Verwaltung und guter Support durch
+die Firma Classtime AG (Schweiz). Interessante und
+vielversprechende Software mit Möglichkeiten, die noch
+erweitert werden könnten/sollten. Classtime wird noch intensiv
+von den Kantonen, die es verwenden, evaluiert. Möglichkeit,
+auch den Safe Exam Browser zu verbinden, der dafür sorgt,
+dass die Schülerinnen und Schüler die Prüfungsumgebung
+nicht verlassen können. Allerdings ist die Sicherheit dieses
+Browsers nicht über jeden Zweifel erhaben...
+
+exam.net
+
+SZ, LU,
+ZG, BS,
+OW
+
+5
+
+Exam.net ist leicht zugänglich. Es sind kombinierte Lizenzen
+für Exam.net und ISTest2 erhältlich. Die Rückmeldungen der
+Schulen sind gut. Die Plattform entspricht den aktuellen
+Bedürfnissen und wurde im Rahmen der Maturitätsprüfungen
+eingesetzt. Einige Lehrerinnen und Lehrer verwenden sie noch
+immer, obwohl Online-Unterricht kaum noch stattfindet. In
+Kombination mit dem Safe Exam Browser verhindert exam.net,
+dass die Schüler das Internet nutzen.
+
+Safe Exam
+Browser
+
+SZ, GR,
+UR, FR
+
+4
+
+Ilias
+
+AR, TG
+
+2
+
+Lernstick,
+Prüfungsstick
+
+GR, BE
+
+2
+
+Der Safe Exam Browser für BYOD (von verschiedenen
+Anbietern verwendet; auch in Classtime enthalten) ist derzeit
+zu leicht zu hacken.
+Keine der verwendeten Lösungen überzeugt. Bei der
+Übertragung von konventionellen Online-Prüfungen bleibt die
+Unsicherheit bestehen, wie die Lernenden kontrolliert werden
+können. Bei den mündlichen Prüfungen scheint dies recht gut
+zu funktionieren. Diese Software lässt sich gut mit isTest
+verknüpfen, aber letzteres ist für viele Lehrerinnen und Lehrer
+sehr komplex. Ausserdem können und müssen die Fragen in
+vielen Bereichen deskriptiv gestellt werden, was die Korrektur
+kompliziert macht. Das Programm ist jedoch sehr gut bei
+Multiple Choice und Etiketten.
+Die zusätzliche Installation des Safe Exam Browsers ist
+ausgezeichnet.
+ILIAS eignet sich gut für verschiedene Prüfungssettings
+(Freitext), ist aber im Bereich Mathematik kaum einsetzbar.
+Pool-Möglichkeit für gemeinsam nutzbare Fragen, Fragetypen,
+Bewertung, Stabilität, Verfügbarkeit. Sehr zufriedenstellend,
+die Bewertung und Beurteilung im Freitext ist gut praktikabel.
+Denkbar, um sichere Maturitätsprüfungen durchzuführen. Es
+handelt sich nicht um ein eigentliches Prüfungsinstrument,
+sondern um eine geschützte Umgebung, um die Prüfungen
+sicher durchzuführen.
+
+Seite 9 / 14
+
+Gute Erfahrungen, die Programme funktionieren gut und
+werden intensiv genutzt, mit Aufsicht während der
+Klassenarbeiten.
+
+Lernavi
+
+SZ
+
+1
+
+Classcraft
+
+SZ
+
+1
+
+Socrative
+
+GR
+
+1
+
+Limesurvey
+
+TG
+
+1
+
+SurveyMonkey
+
+TG
+
+1
+
+Einfache Anwendung, Kostenproblem bei einer großen
+Umfrage.
+
+ProProfs
+
+AG
+
+1
+
+Keine Kommentare
+
+Edulastic
+
+ZH
+
+1
+
+Keine Kommentare
+
+Examiner
+
+ZH
+
+1
+
+Keine Kommentare
+
+U-CHmy Tac
+
+VS
+
+1
+
+Keine Kommentare
+
+ASSAP
+
+VS
+
+1
+
+Keine Kommentare
+
+USB-Stick,
+
+AG
+
+1
+
+Keine Kommentare
+
+Andere
+
+AG, GR
+
+2
+
+Schriftliche Prüfungen werden immer häufiger am Computer
+geschrieben und abgegeben.
+Einfache und gute Lösungen, aber mit wenig Möglichkeiten;
+nur drei Fragetypen eignen sich für einfache Tests. Die
+kostenlose Version von Socrative würde vielen Lehrern für den
+täglichen Gebrauch genügen.
+Sehr leistungsstark, aber noch wenig bekannt.
+
+Fachspezifische Programme (online und offline).
+Einsatz von Zoom (mit Lizenzkauf), um die Schülerinnen und
+Schüler während der Online-Prüfungen beim Lock-down zu
+filmen.
+
+Ergänzende Anmerkungen zur Auswahl der verwendeten Plattformen:
+- Im Kanton Schwyz wurden mehrere Plattformen im Rahmen von Pilotprojekten getestet. Die
+Evaluationen werden noch stattfinden, weshalb es noch verfrüht ist, eine Einschätzung über den Grad
+der Zufriedenheit abzugeben. Es scheint, dass die Bedürfnisse so unterschiedlich sind, dass es
+schwierig ist, nur eine einzige Plattform in Betracht zu ziehen, die für alle gleich ist.
+- Im Kanton Luzern besteht der Wunsch, eine einzige Plattform für Abschluss- oder
+Zwischenprüfungen während des Schuljahres zu definieren, um die Unterstützungsleistungen zu
+erleichtern.
+- In Liechtenstein muss jedes gewünschte Programm vor der Installation von der IT-Abteilung
+genehmigt werden, um die Datenschutzkriterien zu erfüllen.
+
+Seite 10 / 14
+
+- Der Kanton Bern hat den Schulleitungen ein hohes Mass an Autonomie bei der Erprobung und
+Benutzung verschiedener Plattformen und Programmen zugestanden. In der obigen
+Zusammenstellung erscheint der Kanton Bern deshalb nicht systematisch.
+Kommentar
+Die obige Auflistung der Rückmeldungen aus den Kantonen umfasst Plattformen, die nicht nur für
+Online-Bewertungen genutzt werden können, sondern auch für Unterrichtssequenzen oder
+Gruppenarbeiten in verschiedenen Formen.
+Viele Kantone haben noch keine systematische Evaluation der Nutzung von OnlineBewertungsplattformen und der Zufriedenheit der verschiedenen Nutzer durchgeführt. In diesem
+Stadium sucht jeder nach der besten Antwort auf seine Bedürfnisse, hat aber nicht immer einen
+vollständigen Überblick über die Erwartungen einerseits und die Möglichkeiten, die die Plattformen
+bieten, andererseits. Auch hier ist eine Abwägung zwischen der Vielfalt der Werkzeuge und der Effizienz
+bei der Handhabung und dem Support erforderlich.
+
+3.1
+
+Identifizierte Bedürfnisse in Bezug auf die Nutzung der Plattformen
+
+Frage:
+2.3)
+Sind die Bedürfnisse der Schulen (derzeit und in Zukunft) in Bezug auf diese
+Bewertungsplattformen wichtig?
+Die Befragten sind sich in dieser Frage einig, unabhängig davon, ob sie bereits Schritte zur Umsetzung
+von BYOD eingeleitet haben oder nicht: Der Bedarf ist gross und wird mit der zunehmenden
+Digitalisierung in allen Bereichen der Gesellschaft weiter steigen.
+Kommentar
+Die Kantone haben häufig eine Arbeitsgruppe eingesetzt, um die Umsetzung von BYOD zu leiten. Die
+Frage der Nutzung von Online-Plattformen wurde dort manchmal diskutiert. Die in dieser Umfrage
+ermittelten Bedürfnisse sind:
+
+3.2
+
+-
+
+Die Individualisierung eines pädagogischen Projekts;
+
+-
+
+Die kollaborative Arbeit;
+
+-
+
+Die Möglichkeit synchroner oder asynchroner Unterrichtssequenzen;
+
+-
+
+Die individuelle und Gruppenkommunikation zwischen Lehrern und Schülern;
+
+-
+
+Der Austausch und die Speicherung von Informationen;
+
+-
+
+Die Archivierung von Leistungen;
+
+-
+
+Automatisierung von Standardprozessen für die Bewertung und Evaluierung.
+
+Kriterien für die Auswahl und Nutzung von Plattformen
+
+Frage:
+2.4)
+Welche Kriterien sind für ihre Auswahl und Nutzung relevant (Datenschutz, Mehrsprachigkeit,
+Preis, ...)?
+
+Seite 11 / 14
+
+Die von den einzelnen Kantonen erhaltenen Antworten wurden nach den Dimensionen des
+strategischen Analyserahmens « PESTEL1 » neu geordnet. Dieser Rahmen sieht vor, dass die
+politischen, wirtschaftlichen, soziologischen, technologischen, ökologischen und rechtlichen
+Dimensionen, die die Durchführung eines Projekts beeinflussen können, aufgeführt werden, ohne ihnen
+eine wie auch immer geartete Gewichtung zu geben, sei es auf der Grundlage der Wiederholung oder
+der Bedeutung.
+
+Politisch
+
+Wirtschaftlich
+
+Sozial
+
+-
+
+Herstellerunabhängig; kantonale Installation; erfahrener und zuverlässiger Schweizer Lieferant
+
+-
+
+gutes Preis-Leistungs-Verhältnis
+
+-
+
+für Schülerinnen und Schüler: einfach, benutzerfreundlich, garantierte Identifikation
+
+-
+
+entsprechende Schulung und Unterstützung
+
+Technologisch
+
+Umfeld Dimension
+
+Rechtlich
+
+1
+
+Schutz der Daten
+autonomer Betrieb (inhouse)
+aktive Förderung und Unterstützung der Leitung
+Mehrsprachigkeit und Interkantonalität
+
+Entwicklungspotenzial, Roadmap
+gebündeltes Lizenzmodell
+Abdeckung der Wartungspreise
+
+für: benutzerfreundlich, Online-Korrektur und -Bewertung, Austausch mit Kollegen und
+Lehrkräfte Archivierung.
+
+IT-Security - Möglichkeit rekursiver Tests (z. B. Blockierung der Festplatte, Internetzugang und
+Bluetooth); Betrugsschutz. Stifteingabe (Zeichnungen, Mathematik, ...). Offener Quellcode.
+Unterbrechungsszenarien (Datensicherung bei Ausfall der Internetverbindung muss
+gewährleistet sein).
+
+-
+
+Automatische Zwischenspeicherung der Testergebnisse. Nutzung über das Internet, ohne
+offenes Internet.
+
+-
+
+Schnittstellen (z. B. WLAN, Drucken, Schulverwaltungssysteme, MS-Team).
+
+-
+
+WIFI-Verbindung mit hoher Geschwindigkeit. Externe Akkus und Steckdosenausrüstung
+
+-
+
+kein reines Prüfungstool, sondern im Unterricht einsetzbar
+
+-
+
+Schutz der Daten
+
+Kompatibilität mit BYOD-Geräten (sowohl mit älteren Geräten als auch mit Geräten der
+neuesten Generation; unabhängig vom Betriebssystem). Stabilität. Erstellen von PDFs.
+
+integrierbar in die bestehende MS 365-Umgebung
+allgemeine Themen abdecken (BSFK math&D)
+Zusammenarbeit von Entwicklern & Lehrern
+abgestimmte Vielfalt, Kompatibilität der verschiedenen Plattformen mit individuellen Geräten
+
+Zugänglichkeit für alle Schülerinnen und Schüler
+Chancengleichheit und Inklusion
+
+Nach Francis Aguilar von der Harvard Business School https://www.valeurscorporate.fr/methode-pestel%E2%80%89/
+
+Seite 12 / 14
+
+Kommentar
+Im Allgemeinen wünschen sich die Befragten benutzerfreundliche und zuverlässige Geräte sowohl in
+technologischer Hinsicht als auch in Bezug auf den Datenschutz, damit sie wirklich im Dienste des
+pädagogischen Auftrags stehen.
+Es ist festzustellen, dass die Kriterien verschiedene Dimensionen abdecken, die nicht immer
+konvergieren und bei denen Abwägungen notwendig sein werden. Die Neuordnung der Ergebnisse
+nach der "PESTEL"-Logik könnte in Zukunft die Identifizierung weiterer aufkommender Kriterien
+ermöglichen.
+
+4. Aussichten
+Diese erste Bestandsaufnahme könnte ergänzt werden durch:
+- Die Sammlung und Bereitstellung der verschiedenen kantonalen Konzepte in Bezug auf BYOD und
+das Management des digitalen Übergangs;
+- Die regelmässige Neuauflage der vorliegenden Umfrage, um den Kantonen eine aktive
+Überwachung zu ermöglichen;
+- Die Organisation einer zusätzlichen Umfrage bei den Akteuren nach dem Modell des "Check up
+Distance Learning", der während des Lock-downs vom ehemaligen IFES IPES (ZEM CES ab dem
+1.1.2022) und dem EHB durchgeführt wurde;
+- Die Einrichtung von interkantonalen Austauschforen, um die Verbreitung von Best Practices zu
+fördern (z.B. im Bereich Hacking, Inklusion von Schülerinnen und Schülern mit Behinderungen, ...);
+- Die Konsultation des Berichts des ZEM CES vom Juni 2021 im Anschluss an eine breit angelegte
+Umfrage unter den Lehrkräften des S2 zu ihren Bedürfnissen im Bereich der digitalen
+Weiterbildung. Und seine kommenden jährlichen Aktualisierungen unter dem Titel
+"Weiterbildungsbarometer".
+- Die Verbreitung der Ergebnisse der Tagung "Digitalität", die vom ZEM CES organisiert wird.
+
+Darüber hinaus kann die Konsultation von Arbeiten verschiedener Organisationen einen Beitrag zu
+den Überlegungen über die Einführung von BYOD leisten. Zum Beispiel:
+- European Schoolnet mit ihren praktischen Tipps für die Umsetzung von BYOD
+(http://www.eun.org/resources/detail?publicationID=721,)
+- Die freiburgische Dienststelle, FRITIC, für Informations- und Kommunikationstechnologien im
+Unterricht (https://www.fritic.ch/de/dienstleistungen/byod)
+- Trendige Schule - kanadische Seite (https://ecolebranchee.com/?sfid=190240&_sf_s=examens)
+- Aktuelle Angebote der virtuellen PH in Österreich (https://www.virtuelle-ph.at/?s=prüfen)
+
+Seite 13 / 14
+
+- Fondation Hundred: Formative Assessment: Improving Learning for Every Child
+(https://hundred.org/en/collections/formative-assessment-improving-learning-for-every-child)
+- Die Seite Ressourcen und Vorschläge für Fernprüfungen an der EPFL
+(https://www.epfl.ch/education/teaching/fr/resources-et-suggestions-pour-les-examens-a-distance/)
+Im weiteren Sinne über digitale Lehrmittel, z. B.:
+- EDUCA, Fachagentur der EDK, welche einzelne Instrumente vorstellt: https://navi.educa.ch/#filter
+- Das TECFA (unité Technologies de Formation et Apprentissage, Faculté de Psychologie et des
+Sciences de l’Education) in Genf (https://tecfa.unige.ch/fr/)
+
+Das ZEM CES bedankt sich herzlich bei den Personen, die an der Umfrage teilgenommen und
+wertvolle Ergänzungen eingebracht haben.
+Bern, 01.03.22
+ec, mm
+
+Seite 14 / 14
+
+
