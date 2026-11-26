@@ -571,7 +571,22 @@ def main():
     from collections import Counter
     bp_vermerke = Counter((v.get("ga_rr_gr"), re.sub(r"\d{1,2}\.\d{1,2}\.\d{4}", "DATUM", v.get("vermerk") or ""))
                           for v in vorgaenge if "Budgetpostulat" in (v.get("ga_rr_gr") or ""))
-    pruef = ["# Prüfliste", "", "Vermerke Budgetpostulate: " + "; ".join(f"{k[1]} ({n})" for k, n in bp_vermerke.most_common()), "",
+    # Vollständigkeit: alle Vermerke zu Vorstössen, die nach Überweisung klingen, aber nicht erfasst wurden
+    typen = Counter(v.get("ga_rr_gr") for v in vorgaenge)
+    nicht_erfasst = Counter()
+    for v in vorgaenge:
+        t, verm = v.get("ga_rr_gr") or "", v.get("vermerk") or ""
+        if re.search(r"berw|überwies|stehen lassen", verm, re.I) and v["signatur_ges"] not in vorstoss_v \
+                and v["signatur_ges"] not in postulat_v and t not in ("Ratschlag", "Bericht", "Ausgabenbericht"):
+            nicht_erfasst[(t, re.sub(r"\d{1,2}\.\d{1,2}\.\d{4}", "DATUM", verm))] += 1
+    alle_vorstoesse = {v["signatur_ges"] for v in vorgaenge if v.get("ga_rr_gr") in ("Motion", "Anzug", "Planungsanzug")}
+    pruef_voll = ["## Vollständigkeit Vorstösse",
+                  f"Geschäftstypen in den Vorgängen: " + "; ".join(f"{k} ({n})" for k, n in typen.most_common()),
+                  f"Motionen/Anzüge mit Vorgang seit Start: {len(alle_vorstoesse)}, davon als überwiesen erfasst: "
+                  f"{len(alle_vorstoesse & set(vorstoss_v))}",
+                  "Nicht erfasste Vermerke mit Überweisung: " + "; ".join(f"{k[0]}: {k[1]} ({n})" for k, n in nicht_erfasst.most_common(80)),
+                  ""]
+    pruef = ["# Prüfliste", "", *pruef_voll, "Vermerke Budgetpostulate: " + "; ".join(f"{k[1]} ({n})" for k, n in bp_vermerke.most_common()), "",
              "Automatisch gelesene Beträge mit der Textstelle aus dem Grossratsbeschluss. "
              "Falsches in korrekturen.csv richtigstellen.", ""]
 
